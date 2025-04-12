@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-21 10:56+0000\n"
+"PO-Revision-Date: 2025-09-04 19:11+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datatext_miscxmlappend/ru/>\n"
@@ -125,8 +125,8 @@ msgstr "Система Осквернитель установлена"
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
 msgstr ""
-"На вас нападает масса чумы душ. Пока она остается в потревоженном состоянии,"
-" она будет периодически нападать на ваш корабль."
+"На вас нападает масса чумы душ. Пока она остается в потревоженном состоянии, "
+"она будет периодически нападать на ваш корабль."
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
@@ -137,7 +137,9 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:29
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"warning_ddsoulplague_mass_hazard_text\"]"
-msgstr "ШТУРМ ЧУМЫ ДУШИ\\nНЕИЗБЕЖНО"
+msgstr ""
+"ШТУРМ ЧУМЫ ДУШИ\\n"
+"НЕИЗБЕЖНО"
 
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_disparity_1\"]"
@@ -151,7 +153,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"loot_ddsoulplague_1\"]"
 msgstr ""
 "ДОБЫЧА ЧУМЫ ДУШИ\n"
 "+8 скорость дронов, -2 скорость луча, -10 длина луча\n"
-"+Режимы \"Огонь\" и \"Противокорпусный\" теперь являются режимами \"Чума\" и \"Хаос\""
+"+Режимы \"Огонь\" и \"Противокорпусный\" теперь являются режимами \"Чума\" и "
+"\"Хаос\""
 
 #: src-en/data/text_misc.xml.append:39
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
@@ -172,8 +175,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_ddplagueridden_weapon\"]"
 msgstr ""
 "Совет: оскверненное чумой оружие создает в пораженном отсеке эффект "
 "осквернения чумой, который замедляет скорость ремонта противника и "
-"превращает его в союзника в виде оболочки чумы души, если они будут убиты во"
-" время действия эффекта!"
+"превращает его в союзника в виде оболочки чумы души, если они будут убиты во "
+"время действия эффекта!"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
@@ -187,7 +190,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
 "Совет: Оружие Светоносцев накладывает на помещения эффект Сияющего "
-"осквернения, который наносит врагам небольшой урон, снижает их боевой урон и"
-" скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
+"осквернения, который наносит врагам небольшой урон, снижает их боевой урон и "
+"скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
 "раскрыть потенциал Светоносцев, в дополнение к их генерации с помощью "
 "Сияющих ядер."
