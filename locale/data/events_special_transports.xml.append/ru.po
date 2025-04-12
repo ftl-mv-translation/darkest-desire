@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-14 07:59+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_transportsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_transports.xml.append:3
 msgid ""
@@ -29,16 +37,21 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/text"
 msgstr ""
+"Голос говорит: \"У этого маяка... транспортный корабль. Странные корабли, "
+"эти... Они единственные, которые мы построили с тех пор, как..."
+"\" Голос прерывается и продолжает: \"...Несмотря на это, я могу приоткрыть "
+"завесу... если тебе нужна добыча. Только... не уничтожай ее\"."
 
 #: src-en/data/events_special_transports.xml.append:21
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "Дай-ка взглянуть на них. Их добыча должна быть хороша!"
 
 #: src-en/data/events_special_transports.xml.append:23
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[1]/event/text"
 msgstr ""
+"Тьма отступает, и появляется корабль. Вы готовитесь захватить их груз силой."
 
 #: src-en/data/events_special_transports.xml.append:27
 msgid ""
@@ -48,17 +61,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_transports.xml.append:33
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/text"
-msgstr ""
+msgstr "Не расставайся, я здесь не ради них."
 
 #: src-en/data/events_special_transports.xml.append:35
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"\"Милосердие? Как... неожиданно\". Голос затихает, и вы остаетесь наедине с "
+"темнотой."
 
 #: src-en/data/events_special_transports.xml.append:38
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Проверить склад."
 
 #: src-en/data/events_special_transports.xml.append:42
 msgid ""
@@ -69,6 +84,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_ENLIGHTENED\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Их груз - ваш. На борту находится "
+"особая технология, которую вы искали, и которую вы поднимаете на свой "
+"корабль."
 
 #: src-en/data/events_special_transports.xml.append:59
 msgid ""
@@ -94,6 +112,9 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DISPARITY_LOOT\"]/text"
 msgstr ""
+"На этом маяке находится транспорт Неравенства. Можно с уверенностью сказать, "
+"что корабль, скорее всего, перевозит какие-то особые технологии. Если вы "
+"сможете убить его экипаж, их груз станет вашим."
 
 #: src-en/data/events_special_transports.xml.append:77
 msgid ""
@@ -136,6 +157,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DISPARITY\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Их груз - ваш. На борту находится "
+"особая технология, которую вы искали, и которую вы поднимаете на свой "
+"корабль."
 
 #: src-en/data/events_special_transports.xml.append:113
 msgid ""
@@ -161,6 +185,10 @@ msgstr "Непосещенное место."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"NEBULA_DDSOULPLAGUE_TEMPEST_TRANSPORT\"]/text"
 msgstr ""
+"У этого маяка находится... Кристаллический транспорт? Вам не знакома их "
+"эмблема, и вы не понимаете, зачем они здесь, но... можно с уверенностью "
+"сказать, что корабль, скорее всего, перевозит какие-то особые технологии. "
+"Если вы сможете убить его экипаж, их груз станет вашим."
 
 #: src-en/data/events_special_transports.xml.append:131
 msgid ""
@@ -203,16 +231,25 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/text"
 msgstr ""
+"Экипаж, как и их странные монстры, мертвы, а корабль достался вам. Их груз - "
+"ваш... вот что вы подумали бы, если бы у них был груз! Здесь нет никакой "
+"добычи! Что это значит?! Вы уже готовы разнести все на куски, как вдруг ваше "
+"внимание привлекает их мигающая консоль..."
 
 #: src-en/data/events_special_transports.xml.append:163
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/choice/text"
-msgstr ""
+msgstr "Осмотреть консоль."
 
 #: src-en/data/events_special_transports.xml.append:165
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/choice/event/text"
 msgstr ""
+"Это не просто консоль, а их навигационная консоль. Координаты, по которым "
+"они пытались уйти, похоже, все еще сохранены в их системах... Возможно, вам "
+"удастся изучить их самостоятельно и что-то из этого извлечь. Хотя вы еще не "
+"удовлетворены, вы заносите координаты в память и пока обходитесь теми "
+"ресурсами, которые удалось собрать на корабле."
 
 #: src-en/data/events_special_transports.xml.append:173
 msgid ""
@@ -230,6 +267,14 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...как и следовало ожидать, шепот заполняет ваш разум, но вы находите его "
+"менее... пугающим, чем обычно:\n"
+"\n"
+"\t\t\t\"...наша добыча... не твоя...\"\n"
+"\n"
+"\t\t\t\"...это наше... присоединяйся к нам...\"\n"
+"\n"
+"\t\t\t\"...добыча звезд... твоя добыча...\""
 
 #: src-en/data/events_special_transports.xml.append:202
 msgid ""
@@ -249,6 +294,8 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
+"После обратного отсчета времени Сердцевина чумы перерождения начнет "
+"атаковать."
 
 #: src-en/data/events_special_transports.xml.append:220
 msgid ""
@@ -267,6 +314,8 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Они остаются вне зоны действия вашего оружия и в конце концов уходят в "
+"прыжок... Странно, что даже Дети звезд могут жаждать добычи."
 
 #: src-en/data/events_special_transports.xml.append:230
 msgid ""
@@ -291,6 +340,8 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"... но Сердцевина чумы перерождения рассыпается, ибо сердце ее погибло. "
+"Здесь почти ничего не осталось."
 
 #: src-en/data/events_special_transports.xml.append:248
 msgid ""
@@ -308,3 +359,6 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDCOREMASS\"]/text"
 msgstr ""
+"Экипаж погиб, и корабль достался вам. Их груз - ваш. На борту находится "
+"особая технология, которую вы искали, и которую вы поднимаете на свой "
+"корабль."
