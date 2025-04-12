@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_fleet.xml.append:4
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_ENLIGHTENED\"]/text"
+msgstr ""
+"The Rebel fleet has found you, and it appears that they've managed to create"
+" pockets within the void via overwhelming firepower... the voice remains "
+"quiet, and a nearby ship turns to engage. The ship that approaches is no "
+"regular Elite, but rather an MFK Ace! Much stronger than most Rebel ships, "
+"if you can defeat it, it may delay the fleet a little longer."
+
+#: src-en/data/events_special_fleet.xml.append:12
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_ENLIGHTENED\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_fleet.xml.append:16
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_ENLIGHTENED\"]/choice[@req=\"engines\"]/text"
+msgstr "(Adv. Engines) Try to escape the Elite."
+
+#: src-en/data/events_special_fleet.xml.append:20
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_ENLIGHTENED\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr "(Jerry) \"Hello!\""
+
+#: src-en/data/events_special_fleet.xml.append:30
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DARKONE\"]/text"
+msgstr ""
+"The Rebellion should be here, but... instead, the darkness here, too, "
+"ravages your hull. Run, or ward it off, before it gets to do any serious "
+"damage!"
+
+#: src-en/data/events_special_fleet.xml.append:34
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DARKONE\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_fleet.xml.append:42
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDCOREMASS\"]/text"
+msgstr ""
+"It seems the Rebellion must have followed you into the Coremass, as you find"
+" their equally immeasurable fleet keeping its endless tentacles at bay here."
+" They notice your arrival, and a nearby ship turns to engage. The ship that "
+"approaches is no regular Elite, but rather an MFK Ace! Much stronger than "
+"most Rebel ships, if you can defeat it, it may delay the fleet a little "
+"longer."
+
+#: src-en/data/events_special_fleet.xml.append:55
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDCOREMASS\"]/choice[1]/text"
+msgstr "Continue..."
+
+#: src-en/data/events_special_fleet.xml.append:59
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDCOREMASS\"]/choice[@req=\"engines\"]/text"
+msgstr "(Adv. Engines) Try to escape the Elite."
+
+#: src-en/data/events_special_fleet.xml.append:63
+msgid ""
+"data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDCOREMASS\"]/choice[@req=\"LIST_CREW_JERRY\"]/text"
+msgstr "(Jerry) \"Hello!\""
