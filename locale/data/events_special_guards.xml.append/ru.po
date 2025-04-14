@@ -1,24 +1,42 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-15 11:03+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_guardsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_guards.xml.append:2
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_START_DEEPONE\"]/text[1]"
 msgstr ""
+"Вы прибыли в пространство, где доминируют глубоководные. Вместо того чтобы "
+"по-настоящему контролировать сектора, глубоководные обычно странствуют по "
+"пустому пространству огромными, разрозненными группами, что объясняет "
+"отсутствие какой-либо охраны, защищающей \"их\" сектор."
 
 #: src-en/data/events_special_guards.xml.append:3
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_START_DEEPONE\"]/text[2]"
 msgstr ""
+"Вы прибыли в пространство, где доминируют глубоководные. Похоже, они не "
+"заинтересованы в защите занимаемого ими пространства, поскольку входной маяк "
+"не охраняется."
 
 #: src-en/data/events_special_guards.xml.append:4
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_START_DEEPONE\"]/text[3]"
 msgstr ""
+"Вы прибыли в пространство, где доминируют глубоководные. Хотя местное "
+"население, как известно, вспыльчиво, пока вы соблюдаете нормы приличия, "
+"отношения между вами и ними должны быть в порядке. Подчеркнуто \"должны\"."
 
 #: src-en/data/events_special_guards.xml.append:16
 msgid ""
@@ -29,6 +47,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DEEPONE\"]/choice/event/text"
 msgstr ""
+"Поскольку охраны нет, вы вольны заняться делами на своем корабле, пока ваш "
+"ССД заряжается."
 
 #: src-en/data/events_special_guards.xml.append:20
 msgid ""
@@ -64,46 +84,75 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/text"
 msgstr ""
+"Хотя вы победили один корабль, он был всего лишь одним из многих, и вы "
+"оказываетесь в окружении, когда Гармония приближается к вам... вы в ловушке! "
+"Взрыв ионов атакует ваш корабль, и вы остаетесь без каких-либо "
+"функционирующих систем. Десятки орудий заряжены, и следующий залп может "
+"убить вас прямо здесь и сейчас, если вы ничего не предпримете! Но что вы "
+"можете сделать?"
 
 #: src-en/data/events_special_guards.xml.append:56
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/text"
-msgstr ""
+msgstr "Помолиться о чуде."
 
 #: src-en/data/events_special_guards.xml.append:58
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/text"
 msgstr ""
+"Вы решаете закрыть глаза и помолиться. Однако даже с закрытыми глазами вы "
+"видите яркую розовую вспышку. Открыв глаза, вы не обнаруживаете ничего "
+"необычного... кроме того, что энджи перестали заряжать свои орудия. Да и "
+"вообще ничего не делают: все вокруг спокойно."
 
 #: src-en/data/events_special_guards.xml.append:60
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Эм... значит, мы не умерли?"
 
 #: src-en/data/events_special_guards.xml.append:62
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"Над головой вырисовывается поистине колоссальный корабль, похожий на другие "
+"розовые и кристаллические корабли. Правда, в отличие от других, этот "
+"полностью заключен в кристалл, и на нем не видно никаких конструкций энджи. "
+"Вы замечаете, что по нему не стреляют... Похоже, Гармония проиграла этот "
+"бой, но как? В результате одной вспышки?"
 
 #: src-en/data/events_special_guards.xml.append:64
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Это не сулит ничего хорошего..."
 
 #: src-en/data/events_special_guards.xml.append:66
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Не успели вы толком подумать об этом, как вас почти ослепила вторая, на этот "
+"раз оранжевая, вспышка... и в поле зрения появляется второй корабль. Он "
+"гораздо меньше другого, но весь в ярком пламени, которое горит невероятно "
+"ярко даже в пустоте космоса... Под пляшущими языками пламени вы снова "
+"узнаете силуэт корабля энджи. Сколько же у энджи секретных кораблей?"
 
 #: src-en/data/events_special_guards.xml.append:68
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Не высовываться и наблюдать."
 
 #: src-en/data/events_special_guards.xml.append:70
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Трудно сказать, каковы намерения каждого из кораблей... Лучше помолчать и "
+"подождать, пока все выяснится. Два корабля сцепляются друг с другом, и сразу "
+"же начинается бой. Медленный и громоздкий кристаллический корабль не "
+"прилагает особых усилий, чтобы уклоняться от шквала огня с другого корабля. "
+"Вместо этого он начинает... светиться. Мгновением позже колоссальный луч, "
+"сопровождаемый еще одной розовой вспышкой, вырывается и рассекает поле боя. "
+"Хотя пылающий корабль едва избегает его, вы замечаете, что, проходя сквозь "
+"массу окружающих кораблей энджи, луч не наносит почти никакого физического "
+"урона... должно быть, это какое-то мощное биооружие."
 
 #: src-en/data/events_special_guards.xml.append:72
 msgid ""
@@ -114,86 +163,120 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Промахнувшись, кристаллический корабль еще раз вспыхивает, а затем уходит в "
+"прыжок. Пылающий корабль следует его примеру, и вы остаетесь лишь в жуткой "
+"тишине, когда все вокруг замирает. Так было до тех пор, пока вы не получили "
+"сигнал с соседнего корабля. Похоже, вы не один такой..."
 
 #: src-en/data/events_special_guards.xml.append:76
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ответить."
 
 #: src-en/data/events_special_guards.xml.append:78
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы принимаете сигнал, и вас встречают несколько необычных черных энджи. "
+"\"Федерация! [Братья!] Вы здесь, чтобы помочь, - да? Мы видели, как вы "
+"сражались с Гармонией, [поддерживая] наше [дело]\"."
 
 #: src-en/data/events_special_guards.xml.append:80
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Эта гигантская... штука сделала большую часть работы."
 
 #: src-en/data/events_special_guards.xml.append:82
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Если они обиделись, то не выставляют это напоказ. \"Штука: -лидер!- [ГОЛОД] "
+"[ОСВОБОДИТЕЛЬ] Или: их корабль, по крайней мере. Мы называем его [Чудовище]: "
+"-колоссальные- [грехи] Гармонии стали видимыми\"."
 
 #: src-en/data/events_special_guards.xml.append:84
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "А кто вы, собственно, такие?"
 
 #: src-en/data/events_special_guards.xml.append:86
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Мы: -Неравенство-. Наша цель: [освободить] всех энджи от Гармонии». "
+"Значит, мы - Сепаратисты... хотя выглядят они, конечно, странно. \"Мы были -"
+"наделены - властью [освобождения]: [ОСВОБОДИТЕЛЬ] Мы -должны- [освободить.] "
+"Наших [братьев] нуждающихся в нас. Нуждаемся в -вас-\"."
 
 #: src-en/data/events_special_guards.xml.append:88
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Во мне?"
 
 #: src-en/data/events_special_guards.xml.append:90
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Да, в -вас-\" Несколько координат передаются вам, пока энджи продолжает: "
+"\"Связь Гармонии в этом секторе была: -скрыта- от нас. Наша цель: его "
+"[уничтожение] [освобождение] Следовать: координатам, найти: [братьев] Найти: "
+"[освободить]\". Корабль Неравенства отключает связь, и вы начинаете изучать "
+"три набора координат, которые вам дали. Каждому из них, похоже, было дано "
+"название и краткое описание..."
 
 #: src-en/data/events_special_guards.xml.append:92
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ПОЛЕ БОЯ\""
 
 #: src-en/data/events_special_guards.xml.append:94
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: \"ПОЛЕ БОЯ: БРАТЬЯ СРАЖАЮТСЯ С БРАТЬЯМИ. БРАТ ОБЛАДАЕТ КЛЮЧОМ\"."
 
 #: src-en/data/events_special_guards.xml.append:97
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ТАЙНИК\"."
 
 #: src-en/data/events_special_guards.xml.append:99
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: \"ТАЙНИК: БРАТЬЯ ВЛАДЕЮТ ТАЙНИКОМ. ТАЙНИК ОБЛАДАЕТ КЛЮЧОМ\"."
 
 #: src-en/data/events_special_guards.xml.append:102
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ЗАСАДА\"."
 
 #: src-en/data/events_special_guards.xml.append:104
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: "
+"\"ЗАСАДА: БРАТЬЯ УСТРОИЛИ ЗАСАДУ НА БРАТЬЕВ. ОСТАВШИЕСЯ ВЛАДЕЮТ КЛЮЧОМ\"."
 
 #: src-en/data/events_special_guards.xml.append:107
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда мы отправляемся."
 
 #: src-en/data/events_special_guards.xml.append:109
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы понимаете, что это может быть опасная война, и союзы продержаться "
+"недолго. Выбирайте свою сторону и тех, кому вы помогаете, тщательно взвесив "
+"все за и против.\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t[Помогая Неравенству в "
+"этом секторе, вы добьетесь их расположения. И Неравенство, и Гармония будут "
+"считать, что вы на стороне Неравенства, если у вас есть хоть капля "
+"репутации. Действия в поддержку Гармонии и против Неравенства уменьшат эту "
+"репутацию, сделав ее отрицательной, и тогда обе стороны сочтут вас на "
+"стороне Гармонии]"
 
 #: src-en/data/events_special_guards.xml.append:142
 msgid ""
@@ -219,46 +302,73 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/text"
 msgstr ""
+"Когда странный корабль энджи побежден, большинство остальных разлетаются, а "
+"Гармония приближается к тем немногим, кто остался. Десятки орудий заряжены, "
+"и кажется маловероятным, что флот противника сможет противостоять "
+"прицельному обстрелу... так ли это на самом деле?"
 
 #: src-en/data/events_special_guards.xml.append:165
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/text"
-msgstr ""
+msgstr "Вы не можете смотреть на это... и закрываете глаза."
 
 #: src-en/data/events_special_guards.xml.append:167
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/text"
 msgstr ""
+"Вы решаете закрыть глаза и отвлечься от ужасов войны. Однако даже с "
+"закрытыми глазами вы видите яркую розовую вспышку. Открыв глаза, вы не "
+"заметите ничего необычного... кроме того, что энджи перестали заряжать "
+"оружие. Да и вообще ничего не делают: все вокруг спокойно."
 
 #: src-en/data/events_special_guards.xml.append:169
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Эм..."
 
 #: src-en/data/events_special_guards.xml.append:171
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"Над головой вырисовывается поистине колоссальный корабль, похожий на другие "
+"розовые и кристаллические корабли. Правда, в отличие от других, этот "
+"полностью заключен в кристалл, и на нем не видно никаких конструкций энджи. "
+"Вы замечаете, что по нему не стреляют... Похоже, Гармония проиграла этот "
+"бой, но как? В результате одной вспышки?"
 
 #: src-en/data/events_special_guards.xml.append:173
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Это не сулит ничего хорошего..."
 
 #: src-en/data/events_special_guards.xml.append:175
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Не успели вы толком подумать об этом, как вас почти ослепила вторая, на этот "
+"раз оранжевая, вспышка... и в поле зрения появляется второй корабль. Он "
+"гораздо меньше другого, но весь в ярком пламени, которое горит невероятно "
+"ярко даже в пустоте космоса... Под пляшущими языками пламени вы снова "
+"узнаете силуэт корабля энджи. Сколько же у энджи секретных кораблей?"
 
 #: src-en/data/events_special_guards.xml.append:177
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Не высовываться и наблюдать."
 
 #: src-en/data/events_special_guards.xml.append:179
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Трудно сказать, каковы намерения каждого из кораблей... Лучше помолчать и "
+"подождать, пока все выяснится. Два корабля сцепляются друг с другом, и сразу "
+"же начинается бой. Медленный и громоздкий кристаллический корабль не "
+"прилагает особых усилий, чтобы уклоняться от шквала огня с другого корабля. "
+"Вместо этого он начинает... светиться. Мгновением позже колоссальный луч, "
+"сопровождаемый еще одной розовой вспышкой, вырывается и рассекает поле боя. "
+"Хотя пылающий корабль едва избегает его, вы замечаете, что, проходя сквозь "
+"массу окружающих кораблей энджи, луч не наносит почти никакого физического "
+"урона... должно быть, это какое-то мощное биооружие."
 
 #: src-en/data/events_special_guards.xml.append:181
 msgid ""
@@ -269,91 +379,146 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Промахнувшись, кристаллический корабль еще раз вспыхивает, а затем уходит в "
+"прыжок. Пылающий корабль следует его примеру, и вы остаетесь лишь в жуткой "
+"тишине, когда все вокруг замирает. Так было до тех пор, пока вы не получили "
+"сигнал с соседнего корабля. Похоже, вы не один такой..."
 
 #: src-en/data/events_special_guards.xml.append:185
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ответить."
 
 #: src-en/data/events_special_guards.xml.append:187
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Приняв сигнал, вы обнаруживаете Защитника энджи и его свиту... Должно быть, "
+"один из близлежащих кораблей Гармонии уцелел! \"Флагман Неравенства: сбежал. "
+"Подсчитываю урон, нанесенный флоту С-62 Гармонии... общий урон: 72%. "
+"Неизвестный фактор: третья группа энджи. Необходимы решительные меры\"."
 
 #: src-en/data/events_special_guards.xml.append:189
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Радикальные меры?"
 
 #: src-en/data/events_special_guards.xml.append:191
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Энджи роботизированно кивает: \"Гармония требует неизвестных переменных. "
+"Шансы на победу Гармонии с известными переменными: приближаются к нулю. "
+"Требуется дальнейшая помощь Федерации\"."
 
 #: src-en/data/events_special_guards.xml.append:193
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Моя? Что я могу сделать?"
 
 #: src-en/data/events_special_guards.xml.append:195
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Цель Неравенства: уничтожение Связи Гармонии. Контрмера Гармонии: сокрытие "
+"Связи Гармонии. Контрмера Неравенства: выслеживание местонахождения Связи "
+"Гармонии. Контрмера Гармонии: вмешательство Федерации\". Несколько координат "
+"передаются вам, пока энджи продолжает: \"Вероятность обнаружения Связи "
+"Гармонии Неравенством: 94%. Местонахождение Связи Гармонии: охраняется в "
+"координатах Гармонии. Гармония требует, чтобы Федерация посетила координаты "
+"Гармонии и выяснила местонахождение Связи Гармонии. Связь Гармонии: должно "
+"охраняться. Гармония: должна быть поддержана\". На этом они отключают "
+"связь... кажется, что они не столько просят вас о помощи, сколько требуют "
+"ее. Независимо от этого, вы начинаете просматривать три набора координат, "
+"которые вам дали. Каждому из них, похоже, было дано название и краткое "
+"описание..."
 
 #: src-en/data/events_special_guards.xml.append:197
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ПОЛЕ БОЯ\""
 
 #: src-en/data/events_special_guards.xml.append:199
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: \"ПОЛЕ БОЯ: ВСПОМОГАТЕЛЬНЫЕ СИЛЫ ГАРМОНИИ В ПРЯМОМ КОНФЛИКТЕ С "
+"НЕРАВЕНСТВОМ. КОМАНДУЮЩИЙ СИЛАМИ: ОБЛАДАЕТ ФРАГМЕНТОМ КООРДИНАТ СВЯЗИ "
+"ГАРМОНИИ\"."
 
 #: src-en/data/events_special_guards.xml.append:202
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ТАЙНИК\"."
 
 #: src-en/data/events_special_guards.xml.append:204
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: \"ТАЙНИК: АВАНПОСТ ГАРМОНИИ В ПРЯМОМ КОНФЛИКТЕ С НЕРАВЕНСТВОМ. "
+"ТАЙНИК АВАНПОСТА: ОБЛАДАЕТ ФРАГМЕНТОМ КООРДИНАТ СВЯЗИ ГАРМОНИИ\"."
 
 #: src-en/data/events_special_guards.xml.append:207
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Проверить координаты с надписью \"ЗАСАДА\"."
 
 #: src-en/data/events_special_guards.xml.append:209
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она гласит: \"ЗАСАДА: ГРУППА РАЗВЕДЧИКОВ ГАРМОНИЯ В ПРЯМОМ КОНФЛИКТЕ С "
+"НЕРАВЕНСТВОМ. ЗАСАДА НЕРАВЕНСТВА: ОБЛАДАЕТ ФРАГМЕНТОМ КООРДИНАТ СВЯЗИ "
+"ГАРМОНИИ\"."
 
 #: src-en/data/events_special_guards.xml.append:212
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда мы отправляемся."
 
 #: src-en/data/events_special_guards.xml.append:214
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы понимаете, что это может быть опасная война, и союзы продержаться "
+"недолго. Выбирайте свою сторону и тех, кому вы помогаете, тщательно взвесив "
+"все за и против.\n"
+"\n"
+"\n"
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t[Помогая Неравенству в "
+"этом секторе, вы добьетесь их расположения. И Неравенство, и Гармония будут "
+"считать, что вы на стороне Неравенства, если у вас есть хоть капля "
+"репутации. Действия в поддержку Гармонии и против Неравенства уменьшат эту "
+"репутацию, сделав ее отрицательной, и тогда обе стороны сочтут вас на "
+"стороне Гармонии]"
 
 #: src-en/data/events_special_guards.xml.append:248
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/text"
 msgstr ""
+"Не успеваете вы и глазом моргнуть, как мимо вашего иллюминатора проносится "
+"шквал ионных снарядов... а за ним еще один, летящий с противоположного "
+"направления! Вы находитесь в центре сражения двух сил! С одной стороны вы "
+"узнаете Гармонию, а с другой..."
 
 #: src-en/data/events_special_guards.xml.append:256
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Неравенство) \"Поддержка: здесь, [братья!] К -оружию-!\""
 
 #: src-en/data/events_special_guards.xml.append:258
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"Элита Неравенства, похоже, рада наконец-то воссоединиться со своими "
+"собратьями, но с празднованием придется подождать... Один из кораблей "
+"Гармонии отрывается, чтобы встретить вас, и сообщает: \"Федерация: укрывает "
+"Неравенство? Расчеты... Вероятность поддержки со стороны Федерации: ничтожно "
+"мала. Бой: неизбежен\". Прежде чем вы успеваете что-либо предпринять, они "
+"переходят в атаку, и вы понимаете, что ваша сторона уже выбрана: ближайшие "
+"корабли Гармонии наводят на вас свои орудия... Но вы не одиноки: флот "
+"Неравенства тоже нацелился на вашу цель!"
 
 #: src-en/data/events_special_guards.xml.append:262
 msgid ""
@@ -363,12 +528,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:268
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/text"
-msgstr ""
+msgstr "(Член экипажа-энджи Серафим) \"Субъект: Неравенство\"."
 
 #: src-en/data/events_special_guards.xml.append:270
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/text"
 msgstr ""
+"Серафим поясняет: \"Происхождение субъекта: энджи. Статус субъекта: "
+"запятнанный. Протокол запятнанного субъекта: требуется очистка. Ожидаю "
+"команды на очистку\". Неравенство? Ну, вы, наверное, и так это знали, "
+"учитывая сигнал бедствия... И все же, кто они такие, и что ваш Серафим "
+"подразумевает под словом \"запятнанный\"?"
 
 #: src-en/data/events_special_guards.xml.append:272
 msgid ""
@@ -379,16 +549,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/text"
 msgstr ""
+"Не успели вы поразмыслить, как один из ближайших кораблей Гармонии вызывает "
+"вас: \"Федерация на связи: запрос о помощи удовлетворен? Статус сил "
+"Неравенства: приближаются. Ситуация тяжелая\". Словно в ответ, один из "
+"кораблей противника проносится мимо и готовится сразиться с кораблем "
+"Гармонии. К вашему удивлению, они вызывают и вас, и перед вами предстают "
+"энджи, не похожие на тех, кого вы когда-либо видели: черно-фиолетовые, с "
+"руками... оторванными и плавающими вокруг в виде роя нанитов? Это "
+"Сепаратисты? В независимости от ответа они говорят: \"Федерация: мы -не- "
+"желаем вам зла. Мы здесь в поисках мира; [освобождения] от наших цепей, "
+"[свободы] от Гар...\" Они прерываются на полуслове, когда ионный взрыв "
+"выводит из строя их щиты, и вы замечаете, что корабль Гармонии готовится "
+"нанести удар, пока они уязвимы..."
 
 #: src-en/data/events_special_guards.xml.append:276
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Остановить их!"
 
 #: src-en/data/events_special_guards.xml.append:278
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы оказываетесь между двумя кораблями, и корабль Гармонии снова обращается к "
+"вам: \"Федерация... защищает врагов Гармонии? Переоценка... Федерация: враг "
+"Гармонии. Бой неизбежен\". Они переходят в атаку, и вы понимаете, что "
+"выбрали сторону, когда ближайшие корабли Гармонии наводят на вас орудия... "
+"Но вы не одиноки, ведь флот противника тоже наводит орудия на вашего "
+"противника! Будем надеяться, что вы знаете, что делаете..."
 
 #: src-en/data/events_special_guards.xml.append:282
 msgid ""
@@ -398,12 +586,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:288
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Помочь Гармонии."
 
 #: src-en/data/events_special_guards.xml.append:290
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не знаете, кто они, но враг Гармонии - враг Федерации. К тому же, "
+"насколько вы знаете, те, кто стремится к миру, обычно не устраивают "
+"нападений... Вы атакуете странный корабль, и флот противника настигает вас. "
+"Но вы не одиноки, ведь Гармония тоже нацелилась на вашу цель!"
 
 #: src-en/data/events_special_guards.xml.append:294
 msgid ""
@@ -413,12 +605,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:300
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Уйти, пока они отвлечены."
 
 #: src-en/data/events_special_guards.xml.append:302
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Это не ваша война. Вы начинаете запускать двигатели, чтобы подготовиться к "
+"уходу в прыжок, но понимаете, что еще не в безопасности: вы все еще под "
+"перекрестным огнем!"
 
 #: src-en/data/events_special_guards.xml.append:305
 msgid ""
@@ -428,12 +623,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:315
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/text"
-msgstr ""
+msgstr "Я не уверен."
 
 #: src-en/data/events_special_guards.xml.append:317
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/text"
 msgstr ""
+"Нагромождение остроконечных фиолетовых кристаллов - трудно предположить, что "
+"это не кристаллы, а что-то другое... Но в них заключены части кораблей "
+"энджи. Неужели энджи воюют между собой?"
 
 #: src-en/data/events_special_guards.xml.append:319
 msgid ""
@@ -444,16 +642,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"Не успели вы поразмыслить, как один из ближайших кораблей Гармонии вызывает "
+"вас: \"Федерация на связи: запрос о помощи удовлетворен? Статус сил "
+"Неравенства: приближаются. Ситуация тяжелая\". Словно в ответ, один из "
+"кораблей противника проносится мимо и готовится сразиться с кораблем "
+"Гармонии. К вашему удивлению, они вызывают и вас, и перед вами предстают "
+"энджи, не похожие на тех, кого вы когда-либо видели: черно-фиолетовые, с "
+"руками... оторванными и плавающими вокруг в виде роя нанитов? Это "
+"Сепаратисты? В независимости от ответа они говорят: \"Федерация: мы -не- "
+"желаем вам зла. Мы здесь в поисках мира; [освобождения] от наших цепей, "
+"[свободы] от Гар...\" Они прерываются на полуслове, когда ионный взрыв "
+"выводит из строя их щиты, и вы замечаете, что корабль Гармонии готовится "
+"нанести удар, пока они уязвимы..."
 
 #: src-en/data/events_special_guards.xml.append:323
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Остановить их!"
 
 #: src-en/data/events_special_guards.xml.append:325
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы оказываетесь между двумя кораблями, и корабль Гармонии снова обращается к "
+"вам: \"Федерация... защищает врагов Гармонии? Переоценка... Федерация: враг "
+"Гармонии. Бой неизбежен\". Они переходят в атаку, и вы понимаете, что "
+"выбрали сторону, когда ближайшие корабли Гармонии наводят на вас орудия... "
+"Но вы не одиноки, ведь флот противника тоже наводит орудия на вашего "
+"противника! Будем надеяться, что вы знаете, что делаете..."
 
 #: src-en/data/events_special_guards.xml.append:329
 msgid ""
@@ -463,12 +679,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:335
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Помочь Гармонии."
 
 #: src-en/data/events_special_guards.xml.append:337
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не знаете, кто они, но враг Гармонии - враг Федерации. К тому же, "
+"насколько вы знаете, те, кто стремится к миру, обычно не устраивают "
+"нападений... Вы атакуете странный корабль, и флот противника настигает вас. "
+"Но вы не одиноки, ведь Гармония тоже нацелилась на вашу цель!"
 
 #: src-en/data/events_special_guards.xml.append:341
 msgid ""
@@ -478,12 +698,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_guards.xml.append:347
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Уйти, пока они отвлечены."
 
 #: src-en/data/events_special_guards.xml.append:349
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Это не ваша война. Вы начинаете запускать двигатели, чтобы подготовиться к "
+"уходу в прыжок, но понимаете, что еще не в безопасности: вы все еще под "
+"перекрестным огнем!"
 
 #: src-en/data/events_special_guards.xml.append:352
 msgid ""
