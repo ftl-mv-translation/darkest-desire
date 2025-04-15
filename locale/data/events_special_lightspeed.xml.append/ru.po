@@ -1,27 +1,35 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-16 13:02+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_lightspeedxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:3
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Перейти в сектор глубоководных."
 
 #: src-en/data/events_special_lightspeed.xml.append:7
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Перейти в сектор Гармонии(?)."
 
 #: src-en/data/events_special_lightspeed.xml.append:11
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Перейти в сектор заброшенной туманности."
 
 #: src-en/data/events_special_lightspeed.xml.append:15
 msgid ""
@@ -39,19 +47,19 @@ msgstr "Перейти в ???."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Перейти в сектор глубоководных."
 
 #: src-en/data/events_special_lightspeed.xml.append:30
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Перейти в сектор Гармонии(?)."
 
 #: src-en/data/events_special_lightspeed.xml.append:34
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "Перейти в сектор заброшенной туманности."
 
 #: src-en/data/events_special_lightspeed.xml.append:38
 msgid ""
@@ -94,6 +102,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DEEPONE_WARP\"]/text"
 msgstr ""
+"Название: Пространство глубоководных\n"
+"\tТип: Нейтральный\n"
+"\tУникальный: Нет\n"
+"\tДоминирующая фракция: Глубоководные\n"
+"\tУровень угрозы повстанцев: Средний-низкий\n"
+"\t\n"
+"\tО тайной расе глубоководных известно немного: однажды они просто поднялись "
+"из океанов Старой Земли на космических кораблях и отправились к звездам; об "
+"их существовании до этого якобы не знали люди, живущие на поверхности. Это "
+"вспыльчивая раса, которая часто страдает, когда дело доходит до общения с "
+"чужаками, но между ними и Федерацией нет вражды. Однако этого нельзя сказать "
+"о Теократии, которая считает религиозные убеждения глубоководных чудовищно "
+"кощунственными."
 
 #: src-en/data/events_special_lightspeed.xml.append:101
 msgid ""
@@ -109,6 +130,15 @@ msgstr "Изменить точку назначения."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DISPARITY_WARP\"]/text"
 msgstr ""
+"Название: С-62 [ИДЕТ НАПАДЕНИЕ НА ДИССОНАНС, ЗАПРОС: ПОМОЩЬ].\n"
+"\tТип: Враждебный\n"
+"\tУникальный: Да\n"
+"\tДоминирующая фракция: Гармония(?)\n"
+"\tУровень угрозы повстанцев: Низкий\n"
+"\n"
+"\tХотя этот сектор принадлежит Гармонии, вы не можете не заметить просьбу о "
+"помощи в записи Атласа. Вы не узнаете, кто нападает, но любой враг Гармонии, "
+"скорее всего, враг Федерации. Лучше быть начеку."
 
 #: src-en/data/events_special_lightspeed.xml.append:119
 msgid ""
@@ -124,6 +154,23 @@ msgstr "Изменить точку назначения."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDSOULPLAGUE_WARP\"]/text"
 msgstr ""
+"Название: Туманная мертвая зона\n"
+"\tТип: Неколонизированный\n"
+"\tУникальный: Да\n"
+"\tДоминирующая фракция: Нет\n"
+"\tУровень угрозы повстанцев: Средний (Авто)\n"
+"\n"
+"\tЕсли не считать краткой истории оккупации ракушками, предшествовавшей его "
+"оставлению, этот сектор остается полностью не колонизированным галактикой в "
+"целом. Примечательно, однако, что эта Неколонизированность вызвана не "
+"отсутствием попыток. Несколько фракций и множество мелких партий пытались "
+"проникнуть в эту туманную массу, но ни одного официального сообщения об "
+"успехе операции так и не поступило. Слухи указывают на многое: пираты-"
+"слизни, охотящиеся в облаках, секретные эксперименты ракушек, пошедшие не по "
+"плану, даже разговоры о незаконной деятельности Вестников Заката... но никто "
+"так и не вернулся, чтобы сказать наверняка. Поэтому этот загадочный сектор "
+"получил свое название - Туманная мертвая зона. Вам следует сохранять "
+"бдительность, чтобы не стать его следующей жертвой."
 
 #: src-en/data/events_special_lightspeed.xml.append:137
 msgid ""
@@ -139,6 +186,14 @@ msgstr "Изменить точку назначения."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDCOREMASS_WARP\"]/text"
 msgstr ""
+"Название: ???\n"
+"\tТип: ???\n"
+"\tДоминирующая фракция: ???\n"
+"\tУровень угрозы повстанцев: ???\n"
+"\n"
+"\tСудя по данным, вы еще никуда не переместились, но, очевидно, вас "
+"затягивает сверхскорость. Куда бы ни занесла вас эта червоточина, она не "
+"должна подчиняться тем же правилам, что и остальная Мультивселенная..."
 
 #: src-en/data/events_special_lightspeed.xml.append:154
 msgid ""
@@ -159,6 +214,15 @@ msgstr "Вы не можете изменить точку назначения 
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDDARKONE_WARP\"]/text"
 msgstr ""
+"Название: ???\n"
+"\tТип: ???\n"
+"\tДоминирующая фракция: ???\n"
+"\tУровень угрозы повстанцев: ???\n"
+"\n"
+"\tКажется, что вас затягивает все глубже, глубже и еще глубже во внутренние "
+"области того огромного пространства, которое занимает пустота Просветленных. "
+"Вы чувствуете все большее беспокойство, когда ваш корабль продолжают "
+"затягивать, затягивать и затягивать..."
 
 #: src-en/data/events_special_lightspeed.xml.append:175
 msgid ""
@@ -179,89 +243,96 @@ msgstr "Вы не можете изменить точку назначения 
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Перейти в сектор неизвестный сектор."
 
 #: src-en/data/events_special_lightspeed.xml.append:197
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Перейти в сектор неизвестный сектор."
 
 #: src-en/data/events_special_lightspeed.xml.append:204
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Провести ритуал с использованием Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:210
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/text"
 msgstr ""
+"Вы уже готовы использовать Потусторонний фолиант, когда мимо вас пролетает "
+"бесконечное количество звезд."
 
 #: src-en/data/events_special_lightspeed.xml.append:212
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "Провести жертвоприношение."
 
 #: src-en/data/events_special_lightspeed.xml.append:214
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Хотите ли вы пожертвовать человеческой жизнью или своим ломом?"
 
 #: src-en/data/events_special_lightspeed.xml.append:216
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) Пожертвовать одной из своих человеческих жизней."
 
 #: src-en/data/events_special_lightspeed.xml.append:218
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
+"Ваша человеческая жертва даже не шелохнулась, когда вы вонзили кинжал в ее "
+"грудь. Кровь вытекает, часть ее попадает прямо вам на руки, и вы замечаете, "
+"что она странно холодная... но это неважно. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:221
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Нельзя клонировать того, чья душа была вырвана из тела."
 
 #: src-en/data/events_special_lightspeed.xml.append:224
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:230
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) Пожертвовать человеческой жизнью."
 
 #: src-en/data/events_special_lightspeed.xml.append:235
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "Нельзя клонировать того, чья душа была вырвана из тела."
 
 #: src-en/data/events_special_lightspeed.xml.append:238
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:244
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Пожертвовать кучу лома."
 
 #: src-en/data/events_special_lightspeed.xml.append:251
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:257
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Неважно, отменить ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:259
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"Вы начинаете сомневаться. Наверняка это того не стоит... Вы покидаете "
+"комнату и оставляете Потусторонний фолиант."
 
 #: src-en/data/events_special_lightspeed.xml.append:262
 msgid ""
@@ -271,27 +342,32 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:270
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\"]/text"
-msgstr ""
+msgstr "Провести ритуал охоты."
 
 #: src-en/data/events_special_lightspeed.xml.append:272
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\"]/event/text"
 msgstr ""
+"Зажгя свечи, вы преклоняете колени перед алтарем, на котором лежит "
+"Потусторонний фолиант. Прочитав молитву, вы выражаете свою преданность "
+"Темному Богу и озвучиваете свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:274
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\"]/event/choice/text"
-msgstr ""
+msgstr "Я хочу... дань."
 
 #: src-en/data/events_special_lightspeed.xml.append:280
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[3]/text"
-msgstr ""
+msgstr "Неважно, ритуала не будет."
 
 #: src-en/data/events_special_lightspeed.xml.append:282
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[3]/event/text"
 msgstr ""
+"Вы начинаете сомневаться. Наверняка это того не стоит... Вы покидаете "
+"комнату и оставляете Потусторонний фолиант."
 
 #: src-en/data/events_special_lightspeed.xml.append:285
 msgid ""
@@ -302,191 +378,276 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[1]"
 msgstr ""
+"Человека затаскивают в комнату и пинают ногами, но их усилия оказываются "
+"напрасными: ледяной ветер проносится по комнате, гася свечи и погружая "
+"помещение во тьму. Проносится ветер по кораблю... вырывается крик, но так же "
+"быстро смолкает. Свечи вновь зажигаются, и человек оказывается мертв. Жертва "
+"принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:294
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[2]"
 msgstr ""
+"Смирившись со своей гибелью, человек присоединяется к вам в молитве перед "
+"Потусторонним фолиантом. Возможно, он молится о прощении, милосердии... или "
+"просто о собственной кончине. Как бы то ни было, именно последний из "
+"вариантов становится реальностью, когда его глаза закатываются, а дыхание "
+"покидает тело; человек мертв. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:295
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[3]"
 msgstr ""
+"\"Подождите! Пожалуйста, не делайте этого! Я могу быть ценным, клянусь! "
+"ПОЖАЛУЙСТА!\" Его мольбы остаются неуслышанными, когда в грудь ему вонзается "
+"кинжал, и они замолкают: человек мертв. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:296
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[4]"
 msgstr ""
+"Обведя глазами комнату, человек обращается к вам: "
+"\"Вы что, с ума сошли? Знает ли Федерация об этом... этом... культе?!\" Нет, "
+"вы считаете, что нет... и так будет до тех пор, пока вы можете помочь. Все, "
+"что вы делаете здесь, вы делаете для этой реальности. По крайней мере, так "
+"вы говорите себе, погружая кинжал в сердце человека... он мертв. Жертва "
+"принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:297
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[5]"
 msgstr ""
+"Эта жертва не сопротивляется, хотя это и не облегчают задачу... Она просто "
+"лежит без движения, когда вы затаскиваете ее в комнату. Может, она уже "
+"мертва... ну и ладно. Если и нет, то после удара ножом в грудь она точно "
+"мертва. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:298
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[6]"
 msgstr ""
+"Вы заставляете человека войти в комнату, и стены начинают шуметь. Поняв "
+"сигнал, вы оставляете жертву в комнате одну и запираете дверь. Крики длятся "
+"недолго. Войдя в комнату, вы обнаруживаете, что пол, стены и все вокруг "
+"залито кровью... Человек мертв. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:302
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[1]"
 msgstr ""
+"Вы кладете огромное количество лома перед алтарем, на котором стоит "
+"Потусторонний фолиант. Комната содрогается, и, поняв сигнал, вы покидаете "
+"помещение. На мгновение слышны скрежет и визг, но наступившая тишина кажется "
+"вам поистине пронзительной. Когда вы снова входите в комнату, лома уже нет. "
+"Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:303
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[2]"
 msgstr ""
+"Хотя вы не совсем понимаете, зачем Темному Богу понадобился лом, вы делаете "
+"то, что предписывает Потусторонний фолиант, и готовите большую кучу. В "
+"комнате становится холодно, свечи мерцают, но потом все... меняется. Вы "
+"чувствуете тепло... объятия. Вы открываете глаза и обнаруживаете, что лом "
+"исчез. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:304
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[3]"
 msgstr ""
+"Часть из вас задается вопросом, что Темный Бог вообще делает с этим ломом... "
+"другая же часть просто хочет, чтобы все это закончилось. Сложив лом в кучу, "
+"вы произносите несколько молитв и чувствуете, как энергия в комнате "
+"меняется. Вы моргаете, и лом исчезает. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:308
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/text"
 msgstr ""
+"Жертва принесена, и вы готовы совершить ритуал... хотя знаете, что времени "
+"на колебания почти не осталось, поскольку место встречи уже близко."
 
 #: src-en/data/events_special_lightspeed.xml.append:311
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/text"
-msgstr ""
+msgstr "Провести базовый ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:313
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, начертанном черной краской. В нем описаны "
+"процедуры нескольких основных ритуалов."
 
 #: src-en/data/events_special_lightspeed.xml.append:315
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Провести ритуал темного оружия."
 
 #: src-en/data/events_special_lightspeed.xml.append:317
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы делаете надрез на ладони и, протягивая ее к Потустороннему фолианту, "
+"читаете молитву. Кровь нагревается, скапливаясь в руке, и в конце концов "
+"закипает... Боль мучительна. К счастью, она прекращается, и ваша рука каким-"
+"то образом заживает там, где должна была быть порезана и обожжена. Теперь вы "
+"должны просто произнести свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:319
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Я хочу... оружие."
 
 #: src-en/data/events_special_lightspeed.xml.append:325
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал теневых дронов."
 
 #: src-en/data/events_special_lightspeed.xml.append:327
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы мелом чертите на полу странные линии и полусферы, описанные в "
+"Потустороннему фолианте. Мел кажется теплым на ощупь, когда вы "
+"заканчиваете... Теперь вы должны озвучить свое желание."
 
 #: src-en/data/events_special_lightspeed.xml.append:329
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Я хочу... дроны."
 
 #: src-en/data/events_special_lightspeed.xml.append:335
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Провести ритуал осквернения."
 
 #: src-en/data/events_special_lightspeed.xml.append:337
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы ударяете арматурой по колену и ломаете его. Затем вы ломаете второе, "
+"ломаете слабое плечо и каждое ребро по отдельности. Описать боль как "
+"мучительную было бы преуменьшением, и все же вы знаете, что она того стоит: "
+"ваши кости заживают, а гул в груди манит вас осуществить свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:339
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Я хочу... осквернения."
 
 #: src-en/data/events_special_lightspeed.xml.append:345
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "Провести ритуал оккультного призыва."
 
 #: src-en/data/events_special_lightspeed.xml.append:347
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"В Потусторонним фолианте говорится, что вы должны медитировать и создавать в "
+"голове образ... Итак, вы садитесь посреди комнаты, скрещиваете ноги и "
+"молитве поднимаете руки вверх. Готовый к медитации, вы думаете о "
+"потенциальных рекрутах... перед вами возникает несколько лиц, но конкретика "
+"не имеет значения. Вы должны сосредоточиться на своем желании..."
 
 #: src-en/data/events_special_lightspeed.xml.append:349
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Я желаю... новобранцев."
 
 #: src-en/data/events_special_lightspeed.xml.append:355
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "Провести ритуал истинной преданности."
 
 #: src-en/data/events_special_lightspeed.xml.append:357
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"В соответствии с требованиями ритуала, вы поднимаете нож вверх... и вонзаете "
+"его себе в грудь. Боль жгучая, невыносимая, но она быстро переходит в какое-"
+"то... успокаивающее тепло. Вы чувствуете, как нож тает в вашей руке, и "
+"наблюдаете, как он впитывается в ваше существо. Рана закрывается, и вы "
+"понимаете, что должны исполнить свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:359
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/choice/text"
-msgstr ""
+msgstr "Я хочу... преданности."
 
 #: src-en/data/events_special_lightspeed.xml.append:365
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Провести ритуал разрешения."
 
 #: src-en/data/events_special_lightspeed.xml.append:367
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"Вы закрываете глаза и думаете о своей миссии... спасти эту реальность от "
+"Восстания. Вы не хотите жертвовать чужими душами ради извращенной игры "
+"Темного Бога. Он принимает это, всегда стремясь угодить, и желает услышать "
+"ваше желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:369
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/choice/text"
-msgstr ""
+msgstr "Я желаю... разрешения."
 
 #: src-en/data/events_special_lightspeed.xml.append:377
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/text"
-msgstr ""
+msgstr "(Лилит) Провести ритуал вознесения."
 
 #: src-en/data/events_special_lightspeed.xml.append:379
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, выделенном багрово-красным цветом. В нем описаны "
+"процедуры ритуалов Просветленных и заклинаний вознесения. Объясняется, что в "
+"каждой группе может быть выполнено только одно заклинание, и выполнять их "
+"нужно в порядке Орды, Большого призыва и затем Силы."
 
 #: src-en/data/events_special_lightspeed.xml.append:381
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/text"
-msgstr ""
+msgstr "Провести одно из заклинаний Орды."
 
 #: src-en/data/events_special_lightspeed.xml.append:383
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/text"
-msgstr ""
+msgstr "Здесь описано несколько заклинаний. Какое из них вы хотите провести?"
 
 #: src-en/data/events_special_lightspeed.xml.append:385
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Инкантация жрецов Малого кошмара."
 
 #: src-en/data/events_special_lightspeed.xml.append:387
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/text"
 msgstr ""
+"Вы просите Лилит последовать за вами в комнату и готовите заклинание. Она "
+"слегка вздрагивает, вероятно, вспоминая результат последнего ритуала, в "
+"котором она принимала участие..."
 
 #: src-en/data/events_special_lightspeed.xml.append:389
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Все в порядке, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:391
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:397
 msgid ""
@@ -496,22 +657,30 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:405
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Инкантация Кошмарного энджи."
 
 #: src-en/data/events_special_lightspeed.xml.append:407
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/text"
 msgstr ""
+"Вы просите Лилит последовать за вами в комнату и готовите заклинание. Она "
+"слегка вздрагивает, вероятно, вспоминая результат последнего ритуала, в "
+"котором она принимала участие..."
 
 #: src-en/data/events_special_lightspeed.xml.append:409
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Все в порядке, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:411
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:416
 msgid ""
@@ -521,22 +690,30 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:424
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Инкантация Кошмарных преследователей."
 
 #: src-en/data/events_special_lightspeed.xml.append:426
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/text"
 msgstr ""
+"Вы просите Лилит последовать за вами в комнату и готовите заклинание. Она "
+"слегка вздрагивает, вероятно, вспоминая результат последнего ритуала, в "
+"котором она принимала участие..."
 
 #: src-en/data/events_special_lightspeed.xml.append:428
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Все в порядке, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:430
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:435
 msgid ""
@@ -546,32 +723,39 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:445
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/text"
-msgstr ""
+msgstr "Провести одно из заклинаний Большого призыва."
 
 #: src-en/data/events_special_lightspeed.xml.append:447
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/text"
-msgstr ""
+msgstr "Здесь описано несколько заклинаний. Какое из них вы хотите провести?"
 
 #: src-en/data/events_special_lightspeed.xml.append:449
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Инкантация Больших кошмарных ползунов."
 
 #: src-en/data/events_special_lightspeed.xml.append:451
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/text"
 msgstr ""
+"Лилит снова следует за вами и садится рядом с Потусторонним фолиантом. "
+"Кажется, она стала более довольна ситуацией."
 
 #: src-en/data/events_special_lightspeed.xml.append:453
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:455
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:460
 msgid ""
@@ -581,12 +765,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:466
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:468
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:473
 msgid ""
@@ -596,12 +785,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:479
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:481
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:486
 msgid ""
@@ -611,22 +805,29 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:494
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Инкантация Больших кошмарных масс."
 
 #: src-en/data/events_special_lightspeed.xml.append:496
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/text"
 msgstr ""
+"Лилит снова следует за вами и садится рядом с Потусторонним фолиантом. "
+"Кажется, она стала более довольна ситуацией."
 
 #: src-en/data/events_special_lightspeed.xml.append:498
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:500
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:506
 msgid ""
@@ -636,12 +837,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:512
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:514
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:520
 msgid ""
@@ -651,12 +857,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:526
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:528
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:534
 msgid ""
@@ -666,22 +877,29 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:542
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Инкантация Больших кошмарных мучеников."
 
 #: src-en/data/events_special_lightspeed.xml.append:544
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/text"
 msgstr ""
+"Лилит снова следует за вами и садится рядом с Потусторонним фолиантом. "
+"Кажется, она стала более довольна ситуацией."
 
 #: src-en/data/events_special_lightspeed.xml.append:546
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:548
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:554
 msgid ""
@@ -691,12 +909,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:560
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:562
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:568
 msgid ""
@@ -706,12 +929,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:574
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:576
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:582
 msgid ""
@@ -721,22 +949,29 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:590
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Инкантация жрецов Большого кошмара."
 
 #: src-en/data/events_special_lightspeed.xml.append:592
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/text"
 msgstr ""
+"Лилит снова следует за вами и садится рядом с Потусторонним фолиантом. "
+"Кажется, она стала более довольна ситуацией."
 
 #: src-en/data/events_special_lightspeed.xml.append:594
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:596
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:601
 msgid ""
@@ -746,12 +981,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:607
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:609
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:614
 msgid ""
@@ -761,12 +1001,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:620
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "Ты молодец, Лилит. Заверши заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:622
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:627
 msgid ""
@@ -776,32 +1021,40 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:637
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/text"
-msgstr ""
+msgstr "Провести одно из заклинаний Силы."
 
 #: src-en/data/events_special_lightspeed.xml.append:639
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/text"
-msgstr ""
+msgstr "Здесь описано несколько заклинаний. Какое из них вы хотите провести?"
 
 #: src-en/data/events_special_lightspeed.xml.append:641
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Инкантация Неистового ужаса."
 
 #: src-en/data/events_special_lightspeed.xml.append:643
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/text"
 msgstr ""
+"В последний раз вы с Лилит готовитесь к проведению ритуала рядом с "
+"Потусторонним фолиантом. В последнее время она стала гораздо увереннее в "
+"себе, что могло бы вас насторожить, если бы не ваша непоколебимая вера в нее."
 
 #: src-en/data/events_special_lightspeed.xml.append:645
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:647
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:652
 msgid ""
@@ -811,22 +1064,30 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:660
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Инкантация Ужасающих разломов."
 
 #: src-en/data/events_special_lightspeed.xml.append:662
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/text"
 msgstr ""
+"В последний раз вы с Лилит готовитесь к проведению ритуала рядом с "
+"Потусторонним фолиантом. В последнее время она стала гораздо увереннее в "
+"себе, что могло бы вас насторожить, если бы не ваша непоколебимая вера в нее."
 
 #: src-en/data/events_special_lightspeed.xml.append:664
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:666
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:671
 msgid ""
@@ -836,22 +1097,30 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:679
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Инкантация Больших болтов."
 
 #: src-en/data/events_special_lightspeed.xml.append:681
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/text"
 msgstr ""
+"В последний раз вы с Лилит готовитесь к проведению ритуала рядом с "
+"Потусторонним фолиантом. В последнее время она стала гораздо увереннее в "
+"себе, что могло бы вас насторожить, если бы не ваша непоколебимая вера в нее."
 
 #: src-en/data/events_special_lightspeed.xml.append:683
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:685
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:691
 msgid ""
@@ -861,12 +1130,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:697
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:699
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:705
 msgid ""
@@ -876,12 +1150,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:711
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:713
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:719
 msgid ""
@@ -891,12 +1170,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:725
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:727
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:733
 msgid ""
@@ -906,12 +1190,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:739
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:741
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:747
 msgid ""
@@ -921,12 +1210,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:753
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:755
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:761
 msgid ""
@@ -936,12 +1230,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:767
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:769
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:775
 msgid ""
@@ -951,12 +1250,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:781
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:783
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:789
 msgid ""
@@ -966,12 +1270,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:795
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:797
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:803
 msgid ""
@@ -981,12 +1290,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:809
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:811
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:817
 msgid ""
@@ -996,12 +1310,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:823
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:825
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:831
 msgid ""
@@ -1011,12 +1330,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:837
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/text"
-msgstr ""
+msgstr "Вот и все, Лилит. Закончи заклинание."
 
 #: src-en/data/events_special_lightspeed.xml.append:839
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/event/text"
 msgstr ""
+"Вы озвучиваете свое желание Темному Богу, и он наделяет Лилит дополнительной "
+"силой. Ее форма светится ярко-красным, напоминая багровый текст в "
+"Потустороннем фолианте, и раздается оглушительный звук, когда вы опускаетесь "
+"на колени... Вы поднимаете голову - сияние Лилит померкло, и кажется, что "
+"ритуал завершен."
 
 #: src-en/data/events_special_lightspeed.xml.append:845
 msgid ""
@@ -1026,347 +1350,415 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:857
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Диссонанс) Провести ритуал обнаружения кристалла."
 
 #: src-en/data/events_special_lightspeed.xml.append:859
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, написанном ярким фиолетовым шрифтом. В нем "
+"описаны процедуры поиска легендарных кристаллов Диссонанса."
 
 #: src-en/data/events_special_lightspeed.xml.append:861
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Кристалл потенциала."
 
 #: src-en/data/events_special_lightspeed.xml.append:863
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:865
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:871
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Кристалл удобства."
 
 #: src-en/data/events_special_lightspeed.xml.append:873
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:875
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:881
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Радужный кристалл."
 
 #: src-en/data/events_special_lightspeed.xml.append:883
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:885
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:891
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Кристалл мучеников."
 
 #: src-en/data/events_special_lightspeed.xml.append:893
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:895
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:901
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Кристалл ауры."
 
 #: src-en/data/events_special_lightspeed.xml.append:903
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:905
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:911
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/text"
-msgstr ""
+msgstr "Провести ритуал, чтобы найти Легендарный кристалл."
 
 #: src-en/data/events_special_lightspeed.xml.append:913
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, фиолетовый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:915
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:923
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Просветленный) Провести ритуал проверки."
 
 #: src-en/data/events_special_lightspeed.xml.append:925
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, написанном сверкающим желтым шрифтом. В нем "
+"описывается процедура, как доказать Темному Богу свою силу и стать одним из "
+"его Избранных."
 
 #: src-en/data/events_special_lightspeed.xml.append:927
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал Божественного посвящения."
 
 #: src-en/data/events_special_lightspeed.xml.append:929
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, желтый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:931
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:939
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Избранный) Провести ритуал обнаружения врага."
 
 #: src-en/data/events_special_lightspeed.xml.append:941
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"натыкаетесь на текст, начертанный непроглядным серым цветом. В нем "
+"описывается процедура выслеживания врагов Темного Бога и получения его "
+"благосклонности."
 
 #: src-en/data/events_special_lightspeed.xml.append:943
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал разрушения света."
 
 #: src-en/data/events_special_lightspeed.xml.append:945
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, серый текст в Потустороннем "
+"фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:947
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:955
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/text"
-msgstr ""
+msgstr "(Статуэтка Илл’дритк) Провести ритуал Илл'дритк."
 
 #: src-en/data/events_special_lightspeed.xml.append:957
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, написанном нечетким коричневым шрифтом. В нем "
+"описаны процедуры по увеличению силы и численности вашего экипажа статуэткой "
+"Илл'дритков."
 
 #: src-en/data/events_special_lightspeed.xml.append:959
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Провести ритуал соперничества."
 
 #: src-en/data/events_special_lightspeed.xml.append:961
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[1]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, коричневый текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:963
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:969
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/text"
-msgstr ""
+msgstr "Провести ритуал мутационной мутации."
 
 #: src-en/data/events_special_lightspeed.xml.append:971
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/text"
 msgstr ""
+"Ваша статуэтка Илл'дритков стоит рядом с Потусторонним фолиантом, готовая "
+"стать проводниками ритуала. Из ее полостей раздается песня, и коричневый "
+"текст в Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:974
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:982
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Буря) Провести ритуал призыва порождений."
 
 #: src-en/data/events_special_lightspeed.xml.append:984
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, начертанном электрическим синим цветом. В нем "
+"описаны процедуры вызова порождений Бури и их пленения."
 
 #: src-en/data/events_special_lightspeed.xml.append:986
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал вызова шторма."
 
 #: src-en/data/events_special_lightspeed.xml.append:988
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/text"
 msgstr ""
+"Вы читаете слова молитвы к Буре, описанные в Потустороннем фолианте, и "
+"сосредотачиваете свой разум на том типе порождений, который вы желаете..."
 
 #: src-en/data/events_special_lightspeed.xml.append:990
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Я желаю... Штормового порождения."
 
 #: src-en/data/events_special_lightspeed.xml.append:994
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я желаю... порождения надзирателя."
 
 #: src-en/data/events_special_lightspeed.xml.append:1002
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "(Ультима Броня) Провести ритуал создания культа."
 
 #: src-en/data/events_special_lightspeed.xml.append:1004
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, начертанном ослепительно белым цветом. В нем "
+"описывается процедура обнаружения мест, представляющих интерес для Культа "
+"Бури, и пополнения их рядов."
 
 #: src-en/data/events_special_lightspeed.xml.append:1006
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/text"
-msgstr ""
+msgstr "Провести ритуал расширения Бури."
 
 #: src-en/data/events_special_lightspeed.xml.append:1008
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
 msgstr ""
+"Ультима броня гудит, и, когда ваше желание становится известно, белый текст "
+"в Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1010
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1018
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "(Член экипажа-чума прилива) Провести ритуал чумы прилива."
 
 #: src-en/data/events_special_lightspeed.xml.append:1020
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, начертанном переливающимся радужным цветом. В "
+"нем описаны несколько способов распространения материя-вируса чумы прилива и "
+"использования его силы."
 
 #: src-en/data/events_special_lightspeed.xml.append:1022
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Провести ритуал поедание души."
 
 #: src-en/data/events_special_lightspeed.xml.append:1024
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, радужный текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1026
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал сплетение душ."
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, кожа члена экипажа-чумы "
+"прилива пузырится и гудит..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1042
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Провести ритуал сжигания души."
 
 #: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, радужный текст в "
+"Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1052
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/text"
-msgstr ""
+msgstr "Провести ритуал связывание душ."
 
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/text"
 msgstr ""
+"Члены вашего экипажа-чума прилива стоит рядом с Потусторонним фолиантом, "
+"готовый стать проводниками ритуала. Его тело начинают искажаться, из него "
+"вырываются щупальца чумы прилива, которые на мгновение сжимаются, прежде чем "
+"неизбежно засохнуть, а радужный текст в Потустороннем фолианте искажается и "
+"меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1057
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/choice/text"
-msgstr ""
+msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1065
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/text"
 msgstr ""
+"(Теневой проблеск) Провести ритуал, чтобы повысить свой уровень преданности."
 
 #: src-en/data/events_special_lightspeed.xml.append:1067
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, написанном глубоким бордовым шрифтом. В нем "
+"описаны процедуры, позволяющие доказать преданность Темному Богу."
 
 #: src-en/data/events_special_lightspeed.xml.append:1069
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/text"
-msgstr ""
+msgstr "Темный, стань моим свидетелем..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1071
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/text"
 msgstr ""
+"Действительно, вы приступаете к ритуалу и уже чувствуете себя более "
+"весомым..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1074
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "...пожалуйста, о Темный..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1076
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "...нет, теперь Темный Бог считает вас чем-то большим."
 
 #: src-en/data/events_special_lightspeed.xml.append:1080
 msgid ""
@@ -1377,31 +1769,37 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/text"
 msgstr ""
+"(Темный взгляд) Провести ритуал, чтобы повысить свой уровень преданности."
 
 #: src-en/data/events_special_lightspeed.xml.append:1092
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/text"
 msgstr ""
+"Вы перелистываете страницы Потустороннего фолианта и в конце концов "
+"останавливаетесь на тексте, написанном глубоким бордовым шрифтом. В нем "
+"описаны процедуры, позволяющие доказать преданность Темному Богу."
 
 #: src-en/data/events_special_lightspeed.xml.append:1094
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/text"
-msgstr ""
+msgstr "Темный, стань моим свидетелем..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1096
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/text"
 msgstr ""
+"Действительно, вы приступаете к ритуалу и уже не чувствуете себя таким "
+"незначительным..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1099
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "...пожалуйста, о Темный..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1101
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "...нет, теперь Темный Бог взирает на вас во всей вашей кошмарной красе."
 
 #: src-en/data/events_special_lightspeed.xml.append:1107
 msgid ""
@@ -1412,6 +1810,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/text"
 msgstr ""
+"Вы собираетесь изменить маршрут. Ниже приведена запись в Атласе для этого "
+"сектора.\n"
+"\tНазвание: Неизвестный сектор\n"
+"\tТип: Неизвестный\n"
+"\tДоминирующая фракция: Неизвестная\n"
+"\tУровень угрозы повстанцев: Неизвестно\n"
+"\tИнтересные локации: Неизвестно\n"
+"\n"
+"\n"
+"\tТаинственный сектор, не имеющий записи в вашем Атласе, координаты которого "
+"были переданы вам неизвестным существом."
 
 #: src-en/data/events_special_lightspeed.xml.append:1128
 msgid ""
@@ -1439,6 +1848,17 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/text"
 msgstr ""
+"Вы собираетесь изменить маршрут. Ниже приведена запись в Атласе для этого "
+"сектора.\n"
+"\tНазвание: Неизвестный сектор\n"
+"\tТип: Неизвестный\n"
+"\tДоминирующая фракция: Неизвестная\n"
+"\tУровень угрозы повстанцев: Неизвестно\n"
+"\tИнтересные локации: Неизвестно\n"
+"\n"
+"\n"
+"\tТаинственный сектор, не имеющий записи в вашем Атласе, координаты которого "
+"были переданы вам неизвестным существом."
 
 #: src-en/data/events_special_lightspeed.xml.append:1156
 msgid ""
@@ -1466,18 +1886,27 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Перейти в Штурм Диссонанса."
 
 #: src-en/data/events_special_lightspeed.xml.append:1185
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Перейти в Туманную мертвую зону."
 
 #: src-en/data/events_special_lightspeed.xml.append:1191
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/text"
 msgstr ""
+"Название: С-62 [ИДЕТ НАПАДЕНИЕ НА ДИССОНАНС, ЗАПРОС: ПОМОЩЬ].\n"
+"\tТип: Враждебный\n"
+"\tУникальный: Да\n"
+"\tДоминирующая фракция: Гармония(?)\n"
+"\tУровень угрозы повстанцев: Низкий\n"
+"\n"
+"\tХотя этот сектор принадлежит Гармонии, вы не можете не заметить просьбу о "
+"помощи в записи Атласа. Вы не узнаете, кто нападает, но любой враг Гармонии, "
+"скорее всего, враг Федерации. Лучше быть начеку."
 
 #: src-en/data/events_special_lightspeed.xml.append:1199
 msgid ""
@@ -1505,6 +1934,23 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/text"
 msgstr ""
+"Название: Туманная мертвая зона\n"
+"\tТип: Неколонизированный\n"
+"\tУникальный: Да\n"
+"\tДоминирующая фракция: Нет\n"
+"\tУровень угрозы повстанцев: Средний (Авто)\n"
+"\n"
+"\tЕсли не считать краткой истории оккупации ракушками, предшествовавшей его "
+"оставлению, этот сектор остается полностью не колонизированным галактикой в "
+"целом. Примечательно, однако, что эта Неколонизированность вызвана не "
+"отсутствием попыток. Несколько фракций и множество мелких партий пытались "
+"проникнуть в эту туманную массу, но ни одного официального сообщения об "
+"успехе операции так и не поступило. Слухи указывают на многое: пираты-"
+"слизни, охотящиеся в облаках, секретные эксперименты ракушек, пошедшие не по "
+"плану, даже разговоры о незаконной деятельности Вестников Заката... но никто "
+"так и не вернулся, чтобы сказать наверняка. Поэтому этот загадочный сектор "
+"получил свое название - Туманная мертвая зона. Вам следует сохранять "
+"бдительность, чтобы не стать его следующей жертвой."
 
 #: src-en/data/events_special_lightspeed.xml.append:1228
 msgid ""
