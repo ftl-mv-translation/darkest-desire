@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-15 11:03+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-04-16 13:02+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -17,7 +17,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_LAB\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Глубоководные."
 
 #: src-en/data/events_special_storage.xml.append:12
 msgid ""
@@ -2105,7 +2105,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "Корруптор."
 
 #: src-en/data/events_special_storage.xml.append:1566
 msgid ""
@@ -2116,25 +2116,25 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Корруптор 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:1572
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Корруптор 3 уровня [Цена: 65~, 6{]"
 
 #: src-en/data/events_special_storage.xml.append:1576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Корруптор 4 уровня [Цена: 80~, 8{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:1580
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Корруптор 4 уровня [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:1584
 msgid ""
@@ -2401,7 +2401,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1802
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[1]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1808
 msgid ""
@@ -2416,7 +2416,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1813
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[1]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1819
 msgid ""
@@ -2431,12 +2431,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1824
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[1]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1830
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1836
 msgid ""
@@ -2461,7 +2461,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1845
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1851
 msgid ""
@@ -2476,7 +2476,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1856
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1862
 msgid ""
@@ -2491,7 +2491,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1867
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1873
 msgid ""
@@ -2506,12 +2506,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1878
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[4]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1890
 msgid ""
@@ -2536,7 +2536,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[3]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1905
 msgid ""
@@ -2551,7 +2551,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[3]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1916
 msgid ""
@@ -2566,22 +2566,22 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[3]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1927
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1933
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1939
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1945
 msgid ""
@@ -2616,7 +2616,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1958
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1964
 msgid ""
@@ -2631,7 +2631,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1969
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1975
 msgid ""
@@ -2646,7 +2646,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1986
 msgid ""
@@ -2661,7 +2661,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:1991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[4]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:1997
 msgid ""
@@ -2676,7 +2676,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[5]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2008
 msgid ""
@@ -2691,17 +2691,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[6]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2019
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2025
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2031
 msgid ""
@@ -2736,17 +2736,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2044
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"deeponecultist\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"deeponecultist\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2056
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2062
 msgid ""
@@ -2781,17 +2781,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2075
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"dddeepone_chosen\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2081
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"dddeepone_chosen\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2093
 msgid ""
@@ -2826,7 +2826,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2106
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2112
 msgid ""
@@ -2841,17 +2841,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2117
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2123
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2129
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2135
 msgid ""
@@ -2886,17 +2886,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2148
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2154
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2160
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2166
 msgid ""
@@ -2931,17 +2931,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[7]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2185
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[7]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[7]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2197
 msgid ""
@@ -2976,7 +2976,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2210
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2216
 msgid ""
@@ -2991,7 +2991,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2221
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2227
 msgid ""
@@ -3006,7 +3006,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2238
 msgid ""
@@ -3021,17 +3021,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2243
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[4]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2249
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Неважно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2255
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2261
 msgid ""
@@ -3066,7 +3066,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2283
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[1]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2291
 msgid ""
@@ -3081,7 +3081,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2296
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[2]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2302
 msgid ""
@@ -3096,7 +3096,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2307
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[3]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2313
 msgid ""
@@ -3111,7 +3111,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2318
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[4]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2324
 msgid ""
@@ -3126,7 +3126,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[5]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2335
 msgid ""
@@ -3141,7 +3141,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2340
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[6]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2346
 msgid ""
@@ -3156,7 +3156,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2351
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[7]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2357
 msgid ""
@@ -3171,12 +3171,12 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[8]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2368
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2374
 msgid ""
@@ -3221,17 +3221,17 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:2392
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[@req=\"LIST_DDDARKEST_GAZE\"]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2402
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[@req=\"LIST_DDDARKEST_GAZE\"]/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:2414
 msgid ""
@@ -4658,7 +4658,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_FORTITUDE\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 60~, 4|]"
 
 #: src-en/data/events_special_storage.xml.append:3427
 msgid ""
@@ -4683,7 +4683,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3456
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_RAGE\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 90~]"
 
 #: src-en/data/events_special_storage.xml.append:3458
 msgid ""
@@ -4708,7 +4708,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:3486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_DEEPBREATH\"]/choice[1]/text"
-msgstr ""
+msgstr "Добавить модификацию. [Цена: 50~, 2{]"
 
 #: src-en/data/events_special_storage.xml.append:3488
 msgid ""
