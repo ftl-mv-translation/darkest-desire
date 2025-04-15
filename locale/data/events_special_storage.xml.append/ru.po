@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-05 18:31+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -432,8 +432,8 @@ msgstr "Пожиратель душ? - выпадает Ад, посланный
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_1\"]/choice[1]/event/text"
 msgstr ""
-"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом,"
-" тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
 "вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:301
@@ -457,8 +457,8 @@ msgstr "Дредноут тьмы? - выпадает Харибда"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_2\"]/choice[1]/event/text"
 msgstr ""
-"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом,"
-" тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
 "вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:319
@@ -482,8 +482,8 @@ msgstr "Судья Серафим? - выпадает Морс"
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_3\"]/choice[1]/event/text"
 msgstr ""
-"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом,"
-" тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
 "вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:337
@@ -1117,8 +1117,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. II) Настроить режим дрона. [Текущий режим: "
-"Противопехотный]"
+"(Дрон Тамплиеров \"Бездна\" мод. II) Настроить режим дрона. "
+"[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:714
 msgid ""
@@ -1133,8 +1133,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[20]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. III) Настроить режим дрона. [Текущий режим:"
-" Противопехотный]"
+"(Дрон Тамплиеров \"Бездна\" мод. III) Настроить режим дрона. "
+"[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
@@ -4203,7 +4203,9 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[3]/event/choice[2]/event/text"
 msgstr ""
 "ИНКАНТАЦИЯ УЖАСАЮЩИХ РАЗЛОМОВ:\n"
-"\t\t\t\t\t\t\t\t\tТеперь ваши Разломы накладывают дебафф \"Ужас\" и наносят урон, равный 12 ОЗ/с, врагам в одном отсеке с ними, но естественная скорость распада вашего Разлома теперь удвоена и составляет -12 ОЗ/с."
+"\t\t\t\t\t\t\t\t\tТеперь ваши Разломы накладывают дебафф \"Ужас\" и наносят "
+"урон, равный 12 ОЗ/с, врагам в одном отсеке с ними, но естественная скорость "
+"распада вашего Разлома теперь удвоена и составляет -12 ОЗ/с."
 
 #: src-en/data/events_special_storage.xml.append:2897
 msgid ""
@@ -4300,7 +4302,10 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/text"
 msgstr ""
 "КРИСТАЛЛ УДОБСТВА:\n"
-"\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их способностью к ремонту и +0.8 к базовой скорости передвижения. Взамен ваша элита Диссонанса теряют память о том, как ремонтировать, и ремонтируют на 33% медленнее."
+"\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их "
+"способностью к ремонту и +0.8 к базовой скорости передвижения. Взамен ваша "
+"элита Диссонанса теряют память о том, как ремонтировать, и ремонтируют на "
+"33% медленнее."
 
 #: src-en/data/events_special_storage.xml.append:2956
 msgid ""
@@ -7233,8 +7238,7 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:4668
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_crystal\"]/text"
-msgstr ""
-"(Оболочка кристаллина) Скормить свою оболочку кристаллина Осквернителю."
+msgstr "(Оболочка кристаллина) Скормить свою оболочку кристаллина Осквернителю."
 
 #: src-en/data/events_special_storage.xml.append:4670
 msgid ""
@@ -7845,8 +7849,7 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/text"
 msgstr ""
-"(Оболочка глубоководного) Скормить свою оболочку глубоководного "
-"Осквернителю."
+"(Оболочка глубоководного) Скормить свою оболочку глубоководного Осквернителю."
 
 #: src-en/data/events_special_storage.xml.append:5000
 msgid ""
@@ -8353,7 +8356,10 @@ msgstr ""
 "КЛАСС: Крейсер чумы души(?)\n"
 "\t\t\tФРАКЦИЯ: Связанный с чумой души\n"
 "\t\t\t\n"
-"\t\t\tХотя этот корабль не похож ни на один из виденных кем-либо кораблей чумы души, он, несомненно, был полностью осквернен материя-вирусом чумы души. Вы мало что знаете о нем... но воспоминания о его шепоте до сих пор не покидают ваш разум."
+"\t\t\tХотя этот корабль не похож ни на один из виденных кем-либо кораблей "
+"чумы души, он, несомненно, был полностью осквернен материя-вирусом чумы "
+"души. Вы мало что знаете о нем... но воспоминания о его шепоте до сих пор не "
+"покидают ваш разум."
 
 #: src-en/data/events_special_storage.xml.append:5308
 msgid ""
