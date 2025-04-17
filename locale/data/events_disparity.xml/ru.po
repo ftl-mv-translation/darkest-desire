@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-17 17:11+0000\n"
+"PO-Revision-Date: 2025-04-18 18:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_disparityxml/ru/>\n"
@@ -3356,12 +3356,15 @@ msgstr "Ничего."
 #: src-en/data/events_disparity.xml:1912
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "У меня есть хорошая мотивация! Я такой мотивированный!"
 
 #: src-en/data/events_disparity.xml:1914
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Они прервали связь. Вы должны быть счастливы, что это все, что они "
+"сделали... Увы, несмотря на все ваши усилия, корабль Диссонанса скоро будет "
+"уничтожен. Лучше забыть обо всем и приготовиться покинуть маяк..."
 
 #: src-en/data/events_disparity.xml:1916
 msgid ""
@@ -3376,184 +3379,263 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:1928
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Попытаться отвлечь флот."
 
 #: src-en/data/events_disparity.xml:1930
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"В сумасшедшей спешке оказавшись между флотом и кораблем Диссонанса, вы "
+"понимаете, что возможности незаметно сообщить энджи Диссонанса о своем плане "
+"так, чтобы Гармония не узнала, весьма ограничены... Вы не можете просто "
+"вызвать их напрямую."
 
 #: src-en/data/events_disparity.xml:1932
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
 msgstr ""
+"(Член экипажа-Диссонанс) Ваш член экипажа знает о зашифрованном канале "
+"Диссонанса."
 
 #: src-en/data/events_disparity.xml:1934
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"Используя зашифрованный канал, вы можете быстро поделиться своим планом с "
+"Диссонансом. Поскольку их возможности на данный момент весьма ограничены, у "
+"них нет другого выбора, кроме как довериться вам... Что же вы должны им "
+"посоветовать?"
 
 #: src-en/data/events_disparity.xml:1936
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/text"
 msgstr ""
+"(Телепортатор) Пока я буду отвлекать Гармонию, вы проберетесь на мой корабль."
 
 #: src-en/data/events_disparity.xml:1938
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/text"
 msgstr ""
+"Они потеряют свой корабль, но, по крайней мере, сохранят свои жизни... и "
+"смогут быть вам полезны. Они соглашаются с планом и передают сигнатуры "
+"своего экипажа для телепортации. Теперь, осталось отвлечь флот..."
 
 #: src-en/data/events_disparity.xml:1940
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/text"
-msgstr ""
+msgstr "Связаться с флотом Гармонии."
 
 #: src-en/data/events_disparity.xml:1942
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/text"
 msgstr ""
+"Взволнованный энджи отвечает: "
+"\"Федерация. Запрос: обоснование препятствия флоту Гармонии\". Придется что-"
+"то придумать... Но пока вы это делаете, вы начинаете телепортировать членов "
+"Диссонанса."
 
 #: src-en/data/events_disparity.xml:1945
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я, эм... вы зачитали этим Сепаратистам их права?"
 
 #: src-en/data/events_disparity.xml:1947
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Кажется, они на мгновение задумываются и сообщают: "
+"\"Ошибка: права энджи: нулевые. Препятствие Федерации: нелогично\". Еще один "
+"член Диссонанса телепортируется на ваш корабль... остается только один."
 
 #: src-en/data/events_disparity.xml:1950
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Нет, не их права, а их сочинения!"
 
 #: src-en/data/events_disparity.xml:1952
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это их действительно ставит в тупик. \"Обнаружена нелогичная омонимия. "
+"Литература сепаратистов: запрещена Гармонией. Требование Гармонии: "
+"прекратить вмешательство Федерации в действия сил Гармонии. Терпение: "
+"приближается к нулю. Невыполнение требования приведет к немедленному концу\""
+". К счастью, пока они возились, вы успели телепортировать члена Диссонанса. "
+"Больше нет причин защищать их корабль."
 
 #: src-en/data/events_disparity.xml:1955
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Уйти с дороги."
 
 #: src-en/data/events_disparity.xml:1957
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Гармония выглядит раздраженной, но не агрессивной. Вы убираете свой корабль "
+"с дороги, а корабль Диссонанса обстреливается и превращается в обломки. "
+"После того как вы удалились на приличное расстояние от флота, спасенный вами "
+"элитный член Диссонанса говорит вам: \"Я не знаю, -почему- вы: спасли нас. "
+"Все, что я знаю, это то, что вы: -сделали-, и поскольку наш корабль "
+"[уничтожен], я -не- вижу более подходящего варианта действий, чем: [помочь] "
+"вам, как вы: [помогли] нам, [капитан]\". Они уважают вас... постарайтесь не "
+"подвести их."
 
 #: src-en/data/events_disparity.xml:1970
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Вам придется приготовиться к прыжку, пока я буду отвлекать Гармонию."
 
 #: src-en/data/events_disparity.xml:1972
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/text"
 msgstr ""
+"У вас не будет возможности встретиться с ними снова, но, по крайней мере, "
+"они переживут это испытание. В конце концов, это настоящая работа героя... "
+"Они соглашаются с планом, и вы готовитесь отвлечь флот."
 
 #: src-en/data/events_disparity.xml:1974
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Связаться с флотом Гармонии."
 
 #: src-en/data/events_disparity.xml:1976
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Взволнованный энджи отвечает: "
+"\"Федерация. Запрос: обоснование препятствия флоту Гармонии\". Вам придется "
+"что-то придумать..."
 
 #: src-en/data/events_disparity.xml:1978
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я, эм... вы зачитали этим Сепаратистам их права?"
 
 #: src-en/data/events_disparity.xml:1980
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Кажется, он на мгновение задумывается и выдает: "
+"\"Ошибка: Права энджи: нулевые. Препятствие Федерации: нелогично\"."
 
 #: src-en/data/events_disparity.xml:1982
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Нет, не их права, а их сочинения!"
 
 #: src-en/data/events_disparity.xml:1984
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это их действительно ставит в тупик. \"Обнаружена нелогичная омонимия. "
+"Литература сепаратистов: запрещена Гармонией. Требование Гармонии: "
+"прекратить вмешательство Федерации в действия сил Гармонии. Терпение: "
+"приближается к нулю. Невыполнение требования приведет к немедленному концу\""
+". Вам придется действовать... надеюсь, вы успели выиграть время Диссонансу."
 
 #: src-en/data/events_disparity.xml:1986
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Уйти с дороги."
 
 #: src-en/data/events_disparity.xml:1988
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы уходите с дороги, и когда флот Гармонии готовится обрушить шквал ионного "
+"огня на корабль Диссонанса... и они уходят в прыжок. Если Гармония и "
+"обиделась на вас, то вида не подает: не пытается связаться и ничего не "
+"сообщает, но... хорошая новость в том, что они не собираются уничтожать вас "
+"вместо корабля Диссонанса. Тем не менее, лучше не испытывать судьбу и просто "
+"убраться отсюда..."
 
 #: src-en/data/events_disparity.xml:2003
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Помолиться, чтобы они получили сообщение."
 
 #: src-en/data/events_disparity.xml:2005
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Видя, насколько ограничены их возможности в данный момент, кораблю "
+"Диссонанса не остается ничего другого, как довериться таинственному "
+"Ренегату, стоящему между ними и верной гибелью. Надеюсь, что они готовятся "
+"покинуть сектор, пока вы отвлекаете флот..."
 
 #: src-en/data/events_disparity.xml:2007
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Связаться с флотом Гармонии."
 
 #: src-en/data/events_disparity.xml:2009
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Взволнованный энджи отвечает: "
+"\"Федерация. Запрос: обоснование препятствия флоту Гармонии\". Вам придется "
+"что-то придумать..."
 
 #: src-en/data/events_disparity.xml:2011
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я, эм... вы зачитали этим Сепаратистам их права?"
 
 #: src-en/data/events_disparity.xml:2013
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Кажется, он на мгновение задумывается и выдает: "
+"\"Ошибка: Права энджи: нулевые. Препятствие Федерации: нелогично\"."
 
 #: src-en/data/events_disparity.xml:2015
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Нет, не их права, а их сочинения!"
 
 #: src-en/data/events_disparity.xml:2017
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это их действительно ставит в тупик. \"Обнаружена нелогичная омонимия. "
+"Литература сепаратистов: запрещена Гармонией. Требование Гармонии: "
+"прекратить вмешательство Федерации в действия сил Гармонии. Терпение: "
+"приближается к нулю. Невыполнение требования приведет к немедленному концу\""
+". Вам придется действовать... надеюсь, вы успели выиграть время Диссонансу."
 
 #: src-en/data/events_disparity.xml:2019
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Уйти с дороги."
 
 #: src-en/data/events_disparity.xml:2021
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы уходите с дороги, и когда флот Гармонии готовится обрушить шквал ионного "
+"огня на корабль Диссонанса... и они уходят в прыжок. Если Гармония и "
+"обиделась на вас, то вида не подает: не пытается связаться и ничего не "
+"сообщает, но... хорошая новость в том, что они не собираются уничтожать вас "
+"вместо корабля Диссонанса. Тем не менее, лучше не испытывать судьбу и просто "
+"убраться отсюда..."
 
 #: src-en/data/events_disparity.xml:2036
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Наше положение в Гармонии весьма неблагонадежное... они вряд ли станут нас "
+"слушать."
 
 #: src-en/data/events_disparity.xml:2038
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Да. Было бы глупо пытаться... Не желая сражаться и не имея возможности "
+"разрешить ситуацию мирным путем, вам не остается ничего другого, как бросить "
+"корабль Диссонанса на произвол судьбы."
 
 #: src-en/data/events_disparity.xml:2041
 msgid ""
@@ -3593,12 +3675,17 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:2068
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Ага, нет. Неважно."
 
 #: src-en/data/events_disparity.xml:2070
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Честно? Ага. К черту все это, чувак. Черт возьми, что Сепаратисты вообще для "
+"нас сделали? Они действительно ожидают, что мы пойдем против целого "
+"хренового флота Гармонии, чтобы спасти один корабль? Забейте на свои "
+"ожидания, мудаки. Или, по крайней мере, сделайте это для нас как-нибудь. Не "
+"то чтобы у них был шанс, если вы оставите их умирать. Ну что ж."
 
 #: src-en/data/events_disparity.xml:2073
 msgid ""
@@ -3613,12 +3700,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:2087
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[2]/text"
-msgstr ""
+msgstr "Ввязываться в это дело было бы самоубийством."
 
 #: src-en/data/events_disparity.xml:2089
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[2]/event/text"
 msgstr ""
+"Да, и мы не на самоубийственной миссии. Или, по крайней мере, "
+"самоубийственная миссия, которую мы выполняем, касается судьбы целой "
+"реальности, а не одного корабля Диссонанса. Иногда нужно взвешивать "
+"приоритеты, и это как раз один из таких случаев."
 
 #: src-en/data/events_disparity.xml:2092
 msgid ""
@@ -3654,71 +3745,115 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION_FIGHT_WIN\"]/text"
 msgstr ""
+"Останки корабля ланиусов присоединяются к останкам корабля энджи, и все "
+"снова становится спокойно. Будем надеяться, что здесь больше не будет "
+"сражений, и павшие смогут в смерти обрести покой, которого они искали в "
+"жизни."
 
 #: src-en/data/events_disparity.xml:2127
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/text"
 msgstr ""
+"Хотя вы и привыкли к войне, но видеть ее в подлинном виде - не славу, а "
+"резню и страдания - иногда бывает невыносимо... Вокруг вас разбросаны "
+"обломки бесчисленных кораблей энджи, как Гармонии, так и Диссонанса, "
+"вероятно, оставленные здесь после какого-то грандиозного сражения."
 
 #: src-en/data/events_disparity.xml:2129
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/text"
-msgstr ""
+msgstr "Поразмыслить над тем, как до этого дошло."
 
 #: src-en/data/events_disparity.xml:2131
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/text"
 msgstr ""
+"Бесчисленные корабли... бесчисленные жизни, уничтоженные во имя гражданской "
+"войны. Хотя они сражаются за то, во что верят, вы не можете не задаться "
+"вопросом, действительно ли это то, что нужно для освобождения народа энджи. "
+"Отделившись от Гармонии, смогут ли энджи понять, что их пропитанные кровью "
+"освободители служат высшим силам, как и они сами? Или война будет "
+"продолжаться до тех пор, пока не останется только одна сторона? Лишь один "
+"набор идеалов - святость и безопасность жизни в Гармонии или свобода "
+"поступать по своему усмотрению и принимать различия между друг другом - "
+"останется в конце этого пути, высеченного в крови."
 
 #: src-en/data/events_disparity.xml:2133
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Стало ли нам лучше?"
 
 #: src-en/data/events_disparity.xml:2135
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Пока вы размышляете, ваш корабль обнаруживает движение за бортом, и вы "
+"понимаете, что это на тропах, высеченных в крови, снуют падальщики. "
+"Близлежащий корабль ланиусов курсирует от обломков к обломкам в поисках "
+"объедков... останков, которыми можно было бы поживиться. В условиях "
+"продолжающейся войны неизбежно, что даже незнакомые чужаки могут "
+"беспрепятственно проникнуть на территорию Гармонии."
 
 #: src-en/data/events_disparity.xml:2138
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Это возмутительно. Потребовать, чтобы корабль ланиусов ушел."
 
 #: src-en/data/events_disparity.xml:2140
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"В гневе вы вызываете корабль ланиусов и излагаете свои требования. Они "
+"смотрят сквозь вас тревожным взглядом, на который способны только ланиусы... "
+"затем: \"Понимаю. Никакого корма, драгоценный корм\". Что ж, это было просто."
 
 #: src-en/data/events_disparity.xml:2142
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Развернуться, чтобы уйти."
 
 #: src-en/data/events_disparity.xml:2144
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Вы уже готовы покинуть маяк, довольные, но... понимаете, что ланиусы "
+"немедленно вернулся к разбору кораблей энджи на лом. Вот наглость! Еще раз "
+"вызвав их, они защищаются: "
+"\"Нет корма! Прибережем корм на потом. Никаких потерь драгоценностей\". Как "
+"будто так лучше!"
 
 #: src-en/data/events_disparity.xml:2146
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "(Член экипажа-ланиус) Пусть ваш ланиус лучше передаст им ваши слова."
 
 #: src-en/data/events_disparity.xml:2148
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"Кивнув, ваш ланиус обращается к экрану: \"Не собирать еду, не может быть "
+"съесть, не немного съесть, драгоценность не есть, не есть драгоценность\". "
+"Другой ланиус смотрит на него в ответ, подумав отвечая: \"Извиняюсь. Думал, "
+"нет корма, драгоценный корм. Знать не есть драгоценный корм. Не брать "
+"драгоценный корм, извиняюсь. Уходить\". С ноткой сожаления в странном голосе "
+"они извиняются и передают по кучу того, что добыли с обломков, после чего "
+"быстро покидают маяк. Думаю, теперь уже слишком поздно возвращать все на "
+"обратно... Можно с пользой использовать этот нечистый лом. Не то чтобы это "
+"было в первый или последний раз."
 
 #: src-en/data/events_disparity.xml:2153
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я устал от этого. Атаковать ланиусов!"
 
 #: src-en/data/events_disparity.xml:2155
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Они не только не уважают останки энджи, но теперь и вас! Пока вы заряжаете "
+"оружие, ланиус снова говорит: \"Фед кормит ланиуса едой. Фед ест, но не "
+"кормится Федом. Фед кормится Федом\". Теперь они просто откровенно "
+"издеваются над вами... Приготовьтесь к бою!"
 
 #: src-en/data/events_disparity.xml:2158
 msgid ""
@@ -3728,12 +3863,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_disparity.xml:2164
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Неважно, делайте, что хотите."
 
 #: src-en/data/events_disparity.xml:2166
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Вам не платят столько, чтобы спорить с ланиусами, а они едва справляются с "
+"переводом. Разочарованный, вы отводите взгляд в сторону и готовитесь "
+"покинуть маяк."
 
 #: src-en/data/events_disparity.xml:2168
 msgid ""
@@ -3748,12 +3886,18 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:2182
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Они просто делают то, что должны. Оставить их в покое."
 
 #: src-en/data/events_disparity.xml:2184
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы будете последним, кто осудит кого-то за то, что он грабит останки "
+"погибших флотов. К сожалению, ланиусы делает только то, что должны, чтобы "
+"выжить... как и Диссонанс, вы это понимаете. Война или не война - две группы "
+"энджи не смогут сосуществовать, пока Гармония будет стремиться к "
+"реинтеграции Сепаратистов. Снова вернувшись к размышлениям, вы готовитесь к "
+"прыжку к следующему маяку."
 
 #: src-en/data/events_disparity.xml:2186
 msgid ""
@@ -3768,12 +3912,17 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:2200
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[2]/text"
-msgstr ""
+msgstr "У нас нет времени на скорбь."
 
 #: src-en/data/events_disparity.xml:2202
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[2]/event/text"
 msgstr ""
+"Как бы ни было прискорбно, но у нас есть своя война. Мы не можем позволить "
+"себе поддаться эмоциям, в то время как Восстание следует за нами по пятам. "
+"Бесчисленное множество людей рассчитывает на вас и на вашу способность "
+"оставаться непоколебимыми перед лицом ужасов войны. Отогнав от себя эти "
+"мысли, вы начинаете готовиться к прыжку с маяка."
 
 #: src-en/data/events_disparity.xml:2204
 msgid ""
@@ -3809,16 +3958,30 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_GRATITUDE\"]/text"
 msgstr ""
+"После победы над кораблем Гармония Сепаратисты снова вызывают вас: \""
+"[Спасибоспасибоспасибоспасибоспасибо!] Мы всегда: в долгу перед -вами-, "
+"Федерация!\". Собравшись, они покидают маяк, а вы остаетесь с хорошим "
+"настроением."
 
 #: src-en/data/events_disparity.xml:2246
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_GIFT\"]/text"
 msgstr ""
+"После поражения корабля Гармония Сепаратисты снова обращаются к вам: \""
+"[Спасибоспасибоспасибоспасибоспасибо!] Мы всегда в долгу перед вами, "
+"Федерация!\". Собравшись, они покидают маяк, но перед этим они осматривают "
+"окрестностям и находят ничейные ресурсы, которые передают вам, чтобы "
+"отплатить за помощь!"
 
 #: src-en/data/events_disparity.xml:2252
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_NEWFRIEND\"]/text"
 msgstr ""
+"После поражения корабля Гармония Сепаратисты снова обращаются к вам: \""
+"[Спасибоспасибоспасибоспасибоспасибо!] Мы всегда в долгу перед вами, "
+"Федерация!\". Собравшись, они покидают маяк, но перед этим один из них "
+"проявляет интерес к тому, чтобы присоединится к вам, чтобы помочь другим "
+"энджи так же, как вы помогли им!"
 
 #: src-en/data/events_disparity.xml:2259
 msgid ""
@@ -3844,31 +4007,52 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_GRATITUDE\"]/text"
 msgstr ""
+"Разобравшись с кораблем Сепаратистов, Гармония вызывает вас: "
+"\"Помощь Федерации: приветствуется\". Вы сражались за них, а все что "
+"получили, это стандартные слова благодарности... честно говоря, скорее "
+"всего, они даже не удосужились их произнести, использовав запись голоса."
 
 #: src-en/data/events_disparity.xml:2288
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_GIFT\"]/text"
 msgstr ""
+"Разобравшись с кораблем Сепаратистов, Гармония вызывает вас: "
+"\"Помощь Федерации: приветствуется\". Вы сражались за них, а все что "
+"получили, это стандартные слова благодарности... По крайней мере, в "
+"благодарность они прислали немного лома. Но только немного..."
 
 #: src-en/data/events_disparity.xml:2294
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_NEWFRIEND\"]/text"
 msgstr ""
+"Разобравшись с кораблем Сепаратистов, Гармония вызывает вас: "
+"\"Помощь Федерации: приветствуется\". Вы сражались за них, а все что "
+"получили, это стандартные слова благодарности... Но, к вашему удивлению, они "
+"также прислали энджи, который пополняет ваши ряды! Даже если они просто "
+"пытаются шпионить за вами, вы цените любую помощь, которую можете получить."
 
 #: src-en/data/events_disparity.xml:2305
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/text"
 msgstr ""
+"Приняв вызов, вы обнаруживаете, что это действительно Сепаратисты: "
+"\"Федерация! Нам нужна: -помощь-! Гармония: [обманула] нас, заставила "
+"-думать-, что мы встречаемся с: членами Диссонанса. Они хотят: "
+"[реинтегрировать] нас...\""
 
 #: src-en/data/events_disparity.xml:2307
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[1]/text"
-msgstr ""
+msgstr "Мы разберемся с Гармонией."
 
 #: src-en/data/events_disparity.xml:2309
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[1]/event/text"
 msgstr ""
+"Они подпрыгивают от радости, и несколько неуклюже говорят: "
+"\"О, -спасибо-! -Спасибо-: Федерация!\" Вы приближаетесь к кораблю Гармонии, "
+"и, почувствовав вашу агрессию, они отклоняются от Сепаратистов, чтобы "
+"встретить вас в бою!"
 
 #: src-en/data/events_disparity.xml:2313
 msgid ""
@@ -3878,12 +4062,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_disparity.xml:2319
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[2]/text"
-msgstr ""
+msgstr "Извините, но мы не можем вам помочь."
 
 #: src-en/data/events_disparity.xml:2321
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[2]/event/text"
 msgstr ""
+"Вы прерываете связь. Это холодно, но легче, чем видеть смесь разочарования и "
+"ужаса на их роботизированных лицах, когда вы признаете, что обрекаете их на "
+"реинтеграцию... Может быть, они как-нибудь сами выкрутятся. Остается только "
+"надеяться на это, когда вы уходите и оставляете два корабля на произвол "
+"судьбы."
 
 #: src-en/data/events_disparity.xml:2324
 msgid ""
@@ -3899,16 +4088,23 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/text"
 msgstr ""
+"Приняв вызов, вы обнаруживаете, что это действительно Гармония: \"Федерация. "
+"Идет погоня за Сепаратистами. Гармония: атакована. Расчетное время до "
+"завершения погони: неопределенно. Запрос Гармонии: помощь Федерации\"."
 
 #: src-en/data/events_disparity.xml:2338
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[1]/text"
-msgstr ""
+msgstr "Мы разберемся с Сепаратистами."
 
 #: src-en/data/events_disparity.xml:2340
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[1]/event/text"
 msgstr ""
+"Энджи отвечает кратко: \"Помощь Федерации: приветствуется\". Вы не совсем "
+"понимаете, что это \"помощь\", ведь всю работу делаете вы... Тем не менее, "
+"вы приближаетесь к кораблю Сепаратистов, и, когда вы поравнялись с ними, они "
+"поворачиваются, чтобы защищаться!"
 
 #: src-en/data/events_disparity.xml:2344
 msgid ""
@@ -3918,12 +4114,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_disparity.xml:2350
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[2]/text"
-msgstr ""
+msgstr "Извините, но это не наша проблема."
 
 #: src-en/data/events_disparity.xml:2352
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[2]/event/text"
 msgstr ""
+"Вы прерываете связь. Разбираться с Сепаратистами не входит в ваши "
+"обязанности, и вам совсем не хочется пачкать руки кровью невинных... "
+"Впрочем, только сейчас."
 
 #: src-en/data/events_disparity.xml:2355
 msgid ""
@@ -3939,6 +4138,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/text"
 msgstr ""
+"Вы удивлены, что сразу после прибытия на маяк вас вызывают, и видите, как "
+"корабль Гармонии начинает погоню за кораблем Сепаратистов. Трудно сказать, "
+"кто из них вызывает вас."
 
 #: src-en/data/events_disparity.xml:2369
 msgid ""
@@ -3948,12 +4150,17 @@ msgstr "Ответить на вызов."
 #: src-en/data/events_disparity.xml:2373
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на вызов и два корабля."
 
 #: src-en/data/events_disparity.xml:2375
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/choice[2]/event/text"
 msgstr ""
+"Пффф, как будто у вас есть время вмешиваться в политику энджи. Поэтому... "
+"поэтому вы и находитесь в секторе энджи, который одновременно является зоной "
+"активной гражданской войны. Хотя на самом деле все это просто совпадение: вы "
+"просто пытаетесь добраться до Узла 17 и закончить войну, в которой участвуют "
+"и энджи. Хмм."
 
 #: src-en/data/events_disparity.xml:2377
 msgid ""
@@ -3969,11 +4176,21 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_STAY\"]/text"
 msgstr ""
+"Он размышляет об этом лишь мгновение, прежде чем сказать: \"Я: полагаю, что "
+"вернуться -будет- [трудно]. Тогда я: останусь здесь: с вами. Ему: это "
+"понравилось бы\". Энджи удаляется от шлюза, и вы облегченно вздыхаете, "
+"оглядываясь на книгу... но надписи уже нет. Пролистав оставшуюся часть "
+"книги, вы обнаруживаете, что все страницы пустые. Что же происходит?"
 
 #: src-en/data/events_disparity.xml:2400
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/text"
 msgstr ""
+"Энджи игнорируют ваши мольбы и, не обращая внимания, открывают внутренний "
+"шлюз и закрывает его за собой дверь. Но прежде чем открывается внешний шлюз, "
+"до ваших ушей доносится звук скрежета металла, а затем то, что можно описать "
+"только как роботизированный скрип. Затем наступает тишина... пока что-то не "
+"начинает стучать в дверь внутреннего шлюза. Что-то прорывается, быстро!"
 
 #: src-en/data/events_disparity.xml:2402
 msgid ""
@@ -3984,61 +4201,98 @@ msgstr "Бежим!"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/text"
 msgstr ""
+"Бросив книгу, вы мчитесь к трюму с небывалой для вас скоростью, и, "
+"оказавшись внутри и закрыв за собой дверь, вы слышите, как воздух в "
+"предыдущем помещении вырывается наружу, поскольку герметичность шлюза "
+"нарушена. Сигналы тревоги и предупреждающие огни вспыхивают при обнаружении "
+"незваных гостей, и вы бросаетесь к рубке, чтобы отдать команду готовиться к "
+"бою. Правда, когда вы оказываетесь там..."
 
 #: src-en/data/events_disparity.xml:2407
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Посмотреть наружу."
 
 #: src-en/data/events_disparity.xml:2409
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/choice/event/text"
 msgstr ""
+"Снаружи вы видите... ничего. Хотя нет, не совсем ничего, а нечто огромное, "
+"заключающее в себе ничто. Это ничто полностью заслоняет пространство "
+"снаружи, но... вы чувствуете, что у вас есть проблемы поважнее, когда "
+"понимаете, что именно эта тьма снаружи пробивает когтями путь через ваш "
+"корабль! Вам нужно выбраться отсюда... но сначала приготовьтесь к бою!"
 
 #: src-en/data/events_disparity.xml:2419
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/text"
 msgstr ""
+"По прибытии на маяк вас встречает тишина. До тех пор, пока... что-то "
+"небольшое не ударится о корпус корабля."
 
 #: src-en/data/events_disparity.xml:2422
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "Установить причину шума."
 
 #: src-en/data/events_disparity.xml:2424
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/text"
 msgstr ""
+"Сканирование показывает, что это энджи, просто плавающий в космосе. "
+"Жизненные показатели в норме, значит, это элита Диссонанса в режиме "
+"опасности. Вы возьмете его на борт?"
 
 #: src-en/data/events_disparity.xml:2426
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Конечно, ему, скорее всего, нужна помощь."
 
 #: src-en/data/events_disparity.xml:2428
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Подняв его на борт через шлюз, вы обнаруживаете, что это действительно "
+"элитный член Диссонанса, но, несмотря на то, что он находился в космосе, как "
+"вы можете предположить, не менее нескольких дней, он пребывает в странно "
+"хорошем состоянии. Еще более странно то, что он сжимает в руках книгу в "
+"кожаном переплете... и, не успев даже опомниться, говорит: "
+"\"[Брат]. Ты: здесь, как -он- и сказал\". Смутно-зловеще..."
 
 #: src-en/data/events_disparity.xml:2430
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Он?"
 
 #: src-en/data/events_disparity.xml:2432
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Энджи кивает: \"[Человек]. Он: однажды прибыл на наш: аванпост среди группы "
+"беженцев -Сепаратистов-. Он: -знал-, что вы: прибудете сюда, -однажды-. Он: "
+"хотел, чтобы у вас: было [это]\". Он подносит книгу, и вы рассматриваете ее "
+"поближе... к сожалению, здесь мало что можно разобрать. Книга без названия, "
+"просто в кожаном переплете, коричневого цвета, с одной защелкой, которая "
+"держит ее закрытой. Энджи продолжает: "
+"\"Он: [попросил], чтобы я: -доставил- ее\"."
 
 #: src-en/data/events_disparity.xml:2434
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Значит, ты просто... плавал в космосе и ждал?"
 
 #: src-en/data/events_disparity.xml:2436
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Он снова кивает: "
+"\"Это было его: -последним- желанием, поскольку он: [умер] в моих: объятиях\""
+". Любопытствуя, вы спрашиваете, что внутри, но элитный член Диссонанса "
+"качает головой: \"Я: -не- должен был читать это. Он: [ясно] дал это понять\""
+". Он жестом приглашает вас взять книгу, и, взяв ее в руки, вы понимаете, "
+"насколько она странно... теплая, несмотря на то, что так долго находилась в "
+"вакууме космоса. \"Мне пора -возвращаться-. Прощай, [брат]\". Он "
+"направляется к внутреннему шлюзу, а вы бросаете взгляд на книгу."
 
 #: src-en/data/events_disparity.xml:2438
 msgid ""
@@ -4049,31 +4303,41 @@ msgstr "Открыть его."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Перелистывая книгу, вы понимаете, что она, похоже, пуста. Так было до тех "
+"пор, пока на нескольких десятках страниц вы не обнаружили единственную "
+"строчку, написанную красным шрифтом: \"Не позволяйте ему уйти\". Вы "
+"переводите взгляд с книги на энджи, который держит руку на механизме, "
+"открывающем внутренний шлюз."
 
 #: src-en/data/events_disparity.xml:2442
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Подожди!"
 
 #: src-en/data/events_disparity.xml:2444
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "Энджи делает паузу и оглядывается: \"В -чем- дело?\""
 
 #: src-en/data/events_disparity.xml:2446
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Я... не думаю, что тебе стоит уходить."
 
 #: src-en/data/events_disparity.xml:2450
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я, эм... неважно."
 
 #: src-en/data/events_disparity.xml:2452
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Не обращая внимания, он открывает внутренний шлюз и закрывают за собой "
+"дверь. Но прежде чем открывается внешний шлюз, до ваших ушей доносится звук "
+"скрежета металла, который можно описать только как роботизированный скрип. "
+"Затем наступает тишина... пока что-то не начинает стучать в дверь "
+"внутреннего шлюза. Что-то прорывается, быстро!"
 
 #: src-en/data/events_disparity.xml:2454
 msgid ""
@@ -4084,26 +4348,42 @@ msgstr "Бежим!"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Бросив книгу, вы мчитесь к трюму с небывалой для вас скоростью, и, "
+"оказавшись внутри и закрыв за собой дверь, вы слышите, как воздух в "
+"предыдущем помещении вырывается наружу, поскольку герметичность шлюза "
+"нарушена. Сигналы тревоги и предупреждающие огни вспыхивают при обнаружении "
+"незваных гостей, и вы бросаетесь к рубке, чтобы отдать команду готовиться к "
+"бою. Правда, когда вы оказываетесь там..."
 
 #: src-en/data/events_disparity.xml:2459
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Посмотреть наружу."
 
 #: src-en/data/events_disparity.xml:2461
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Снаружи вы видите... ничего. Хотя нет, не совсем ничего, а нечто огромное, "
+"заключающее в себе ничто. Это ничто полностью заслоняет пространство "
+"снаружи, но... вы чувствуете, что у вас есть проблемы поважнее, когда "
+"понимаете, что именно эта тьма снаружи пробивает когтями путь через ваш "
+"корабль! Вам нужно выбраться отсюда... но сначала приготовьтесь к бою!"
 
 #: src-en/data/events_disparity.xml:2475
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Решить почитать ее позже."
 
 #: src-en/data/events_disparity.xml:2477
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы решаете прочитать ее позже, а энджи открывает внутренний шлюз и закрывает "
+"за собой дверь. Но прежде чем открывается внешний шлюз, до ваших ушей "
+"доносится звук лязгающего металла, который можно описать только как "
+"роботизированный скрип. Затем наступает тишина... пока что-то не начинает "
+"стучать в дверь внутреннего шлюза. Что-то прорывается, быстро!"
 
 #: src-en/data/events_disparity.xml:2479
 msgid ""
@@ -4114,26 +4394,39 @@ msgstr "Бежим!"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Бросив книгу, вы мчитесь к трюму с небывалой для вас скоростью, и, "
+"оказавшись внутри и закрыв за собой дверь, вы слышите, как воздух в "
+"предыдущем помещении вырывается наружу, поскольку герметичность шлюза "
+"нарушена. Сигналы тревоги и предупреждающие огни вспыхивают при обнаружении "
+"незваных гостей, и вы бросаетесь к рубке, чтобы отдать команду готовиться к "
+"бою. Правда, когда вы оказываетесь там..."
 
 #: src-en/data/events_disparity.xml:2484
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Посмотреть наружу."
 
 #: src-en/data/events_disparity.xml:2486
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Снаружи вы видите... ничего. Хотя нет, не совсем ничего, а нечто огромное, "
+"заключающее в себе ничто. Это ничто полностью заслоняет пространство "
+"снаружи, но... вы чувствуете, что у вас есть проблемы поважнее, когда "
+"понимаете, что именно эта тьма снаружи пробивает когтями путь через ваш "
+"корабль! Вам нужно выбраться отсюда... но сначала приготовьтесь к бою!"
 
 #: src-en/data/events_disparity.xml:2502
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Нет, я этому не верю."
 
 #: src-en/data/events_disparity.xml:2504
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Это может быть засада, насколько вы знаете. Оставив энджи парить в космосе, "
+"вы чувствуете, что приняли правильное решение, готовясь покинуть маяк."
 
 #: src-en/data/events_disparity.xml:2506
 msgid ""
@@ -4148,12 +4441,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_disparity.xml:2518
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[2]/text"
-msgstr ""
+msgstr "Возможно, все в порядке."
 
 #: src-en/data/events_disparity.xml:2520
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[2]/event/text"
 msgstr ""
+"Да, вероятно. В космосе постоянно происходят столкновения с предметами на "
+"сверхмалых скоростях, верно? Или это были чрезвычайно высокие скорости... В "
+"любом случае, вы готовитесь покинуть маяк."
 
 #: src-en/data/events_disparity.xml:2522
 msgid ""
@@ -4189,11 +4485,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH_FIGHT_WIN\"]/text"
 msgstr ""
+"Вы побеждаете корабль Сепаратистов, и зрители расходятся. На самом деле, "
+"похоже, что ваше вторжение заставило всех участников военного похода "
+"спасаться бегством... не совсем по воински, не так ли?"
 
 #: src-en/data/events_disparity.xml:2559
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/text"
 msgstr ""
+"Сепаратисты, как известно, не собираются в больших количествах, обычно они "
+"предпочитают жить в одиночестве, скрываясь от Гармонии... Однако, будучи "
+"сами Сепаратистами, Диссонанс, похоже, сумел собрать множество кораблей "
+"Сепаратистов, чтобы отправиться на войну за свои идеалы к этому маяку. При "
+"вашем приближении один из них поворачивается к вам."
 
 #: src-en/data/events_disparity.xml:2562
 msgid ""
@@ -4206,6 +4510,10 @@ msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
+"Они сообщают: \"[Враг!] Федерация: здесь! Атакуем, [братья!]\". Похоже, "
+"фанатизм Диссонанса докатился и до них... тут уж ничего не поделаешь. "
+"Противостоящий корабль Сепаратистов начинает заряжать оружие, а те, что "
+"поблизости, поворачиваются, чтобы оказать поддержку."
 
 #: src-en/data/events_disparity.xml:2568
 msgid ""
@@ -4224,49 +4532,61 @@ msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Они сообщают: "
+"\"[ОСВОБОДИТЕЛЬ!] Федерация: здесь! Как мы можем: -помочь- [братья?]\""
 
 #: src-en/data/events_disparity.xml:2578
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Спросить их, что они здесь делают."
 
 #: src-en/data/events_disparity.xml:2580
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr ""
+"Сепаратист принимает гордую позу, положив руки на бедра: \"Мы: отправляемся "
+"в поход -против- Гармонии! Больше мы не будем: [бояться] и [прятаться], "
+"вместо этого мы: возьмем нашу: -свободу- своими руками!\" Они действительно "
+"взвинчены..."
 
 #: src-en/data/events_disparity.xml:2582
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "И правда, мы тоже в поисках своей свободы."
 
 #: src-en/data/events_disparity.xml:2584
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Мы: -должны-! Когда Гармония: падет, Федерация, знайте, что мы: [стоим] с "
+"вами: против Восстания. Ни один тиран -не- может считать себя: в "
+"безопасности, когда на нашей стороне: [ОСВОБОДИТЕЛЬ]!\" Опять это имя."
 
 #: src-en/data/events_disparity.xml:2586
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Кто такой Освободитель?"
 
 #: src-en/data/events_disparity.xml:2588
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Его поза меняется, и он смотрит прямо на вас: \"[ОСВОБОДИТЕЛЬ]: - это -никто-"
+" и ничто. Мы: все сами себе: [ОСВОБОДИТЕЛИ]. Вот что -значит- не только "
+"желать свободы, но и [бороться] за нее. -Неважно-, какой ценой\"."
 
 #: src-en/data/events_disparity.xml:2590
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Кого именно вы имеете в виду?"
 
 #: src-en/data/events_disparity.xml:2592
 msgid ""
@@ -4274,37 +4594,49 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Ваш вопрос, похоже, обеспокоил его, так как он полностью обмяк и уставился "
+"на вас с несвойственной Сепаратистам пристальностью: \"Он: не -хочет-, чтобы "
+"вы: знали. Возможно, я: и так уже [слишком] много сказал...\" Энджи "
+"судорожно оглядывается по сторонам, а затем резко обрывает связь. Как бы ни "
+"были это странным, вы желаете им удачи в грядущих сражениях с Гармонией."
 
 #: src-en/data/events_disparity.xml:2601
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Неужели такое насилие действительно необходимо?"
 
 #: src-en/data/events_disparity.xml:2603
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Его гордая поза сменяется более расслабленной: \"[К сожалению], это так. "
+"Гармония: -не- позволит нам: жить в [мире]. Поэтому, если мы желаем [мира], "
+"мы: должны за него -бороться-\". Как это ни прискорбно, но вы знаете, что он "
+"прав... Ситуация повторяет ту, что сложилась у Федерации с Восстанием."
 
 #: src-en/data/events_disparity.xml:2605
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Я думал, что Сепаратисты будут против такой войны."
 
 #: src-en/data/events_disparity.xml:2607
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Большинство из нас: -были-. Это [основатель] Диссонанса: [ГОЛОД]: "
+"[ОСВОБОДИТЕЛЬ]: помог нам: увидеть, что мы: -должны- были сделать\". "
+"Воистину, подстрекаемые к войне... насколько прав Диссонанс?"
 
 #: src-en/data/events_disparity.xml:2609
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
-msgstr ""
+msgstr "(Голод) \"СУБЪЕКТ: п-п-правильно, капитан!\""
 
 #: src-en/data/events_disparity.xml:2611
 msgid ""
@@ -4312,13 +4644,20 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/text"
 msgstr ""
+"Присутствие Голода на вашем корабле, кажется, почти повергает Сепаратистов в "
+"шок, и они падают на пол: \"[ОСВОБОДИТЕЛЬ!] Вы: -благословляете- нас: своим: "
+"присутствием! [Пожалуйста, позвольте нам: -помочь- вам! -Помочь вам: в вашем:"
+" -праведном- завоевании!\" Слухи распространяются быстро, потому что "
+"несколько кораблей Сепаратистов приходят на помощь. Некоторые предлагают "
+"ресурсы, некоторые приступают к ремонту корабля, один даже предлагает "
+"присоединиться... Можно ли злоупотреблять таким фанатизмом?"
 
 #: src-en/data/events_disparity.xml:2619
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Что ж, желаю вам всего наилучшего в поисках мира."
 
 #: src-en/data/events_disparity.xml:2621
 msgid ""
@@ -4326,66 +4665,90 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"И снова Сепаратист гордо заявляет: "
+"\"И ты:, [брат], расправься с этими [ублюдками] из -Восстания-\". Да, так и "
+"будет. Люди этой реальности нуждаются в вас, чтобы сражаться за свою "
+"подлинную свободу, как энджи нуждаются в том, чтобы сражаться за свою."
 
 #: src-en/data/events_disparity.xml:2632
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Попросить их о помощи."
 
 #: src-en/data/events_disparity.xml:2634
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
+"Приняв задумчивую позу, Сепаратист отвечает: \"Чем мы -можем- тебе: помочь?\""
 
 #: src-en/data/events_disparity.xml:2636
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Нам не помешает ремонт."
 
 #: src-en/data/events_disparity.xml:2638
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"Энджи кивает: \"Конечно, [брат!]\". Затем он обращаются к своим спутникам: "
+"\"Братья! Давайте: попробуем сделать все возможное!\" У них не очень хорошо "
+"получается, но им удается залатать несколько уязвимых мест в вашем корпусе. "
+"Вы благодарите их за работу и наблюдаете, как они отправляются в путь, "
+"возвращаясь к своему военному походу... как и вы должны вернуться к своему."
 
 #: src-en/data/events_disparity.xml:2643
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Нам бы не помешали ресурсы."
 
 #: src-en/data/events_disparity.xml:2645
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Энджи кивает: \"Конечно, [брат!]\". Затем он обращается к своим спутникам: "
+"\"[Братья!] Давайте: найдем все, что: сможем!\" У них не так уж много, но им "
+"все же удается найти немного ресурсов. Вы благодарите их за доброту и "
+"смотрите, как они отправляются в путь, возвращаясь к своему военному "
+"походу... как и вы должны вернуться к своему."
 
 #: src-en/data/events_disparity.xml:2650
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Нам бы не помешала рабочая сила."
 
 #: src-en/data/events_disparity.xml:2652
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Энджи кивает: \"Конечно, [брат!]\". Затем он обращается к своим спутникам: \""
+"[Братья!] Кто-нибудь: желает -присоединиться- к нашим [братьям] по Федерации?"
+"\" Один из них поднимает руку, и вы приветствуете его на борту. Вы "
+"благодарите остальных Сепаратистов за понимание и смотрите, как они "
+"отправляются в путь, возвращаясь к своему военному походу... как и вы должны "
+"вернуться к своему."
 
 #: src-en/data/events_disparity.xml:2659
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Нет, мы не братья... в атаку!"
 
 #: src-en/data/events_disparity.xml:2661
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[3]/event/text"
 msgstr ""
+"Прервав связь, вы готовите оружие к бою. Сбитые с толку, но не глупые, "
+"Сепаратисты поочередно выдвигаются против вас; ближайшие корабли открывают "
+"поддерживающий огонь."
 
 #: src-en/data/events_disparity.xml:2665
 msgid ""
@@ -4417,16 +4780,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED_FIGHT_WIN\"]/text"
 msgstr ""
+"Хотя странный корабль побежден, тьма осталась. Вы не знаете, сколько еще "
+"кораблей там... лучше уйти как можно скорее."
 
 #: src-en/data/events_disparity.xml:2698
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/text"
 msgstr ""
+"Там, где должны быть звезды, пусть и далекие, вы не находите... ничего. Все "
+"пространство вокруг вас окутано тьмой."
 
 #: src-en/data/events_disparity.xml:2702
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "(Шрам) \"Даже здесь...\""
 
 #: src-en/data/events_disparity.xml:2704
 msgid ""
