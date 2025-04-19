@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-19 10:56+0000\n"
+"PO-Revision-Date: 2025-04-19 11:08+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_disparityxml/ru/>\n"
@@ -4842,29 +4842,37 @@ msgstr "Кхм. Темный требует от вас новых доказа�
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
-"\"Моей... преданности? Да, конечно! Это... оружие было подарено мне вами, о "
+"\"Моей... преданности? Да, конечно! Это... оружие было подарено мне тебе, о "
 "Темный! Пусть оно... будет доказательством моей былой преданности!\""
 
 #: src-en/data/events_disparity.xml:2721
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
-"Хотя это и приятно... Темный требует доказательств твоей БУДУЩЕЙ преданности."
+"Хотя это и приятно... Темный требует доказательств вашей БУДУЩЕЙ преданности."
 
 #: src-en/data/events_disparity.xml:2723
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Просветленный культист поднимается на ноги: \"Да! Моя преданность! Я... "
+"посвящаю себя тебе, Темный, и твоим... избранным! Позволь мне служить им... "
+"как я служу тебе!\" Мгновением позже он телепортируется, и вы успешно "
+"обманом заставили кого-то присоединиться к вашей команде! Будем надеяться, "
+"что он никогда не узнает правду..."
 
 #: src-en/data/events_disparity.xml:2734
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Нет, вы ошибаетесь. Я стану гибелью вашего Ложного Бога."
 
 #: src-en/data/events_disparity.xml:2736
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[2]/event/text"
 msgstr ""
+"Если бы у Просветленных были глаза, они бы посмотрели на вас прямо в глаза, "
+"но они предпочли отключить связь и готовиться к бою. Пусть это будет "
+"последний раз, когда вам придется столкнуться с этими фанатиками в бою..."
 
 #: src-en/data/events_disparity.xml:2739
 msgid ""
@@ -4874,47 +4882,67 @@ msgstr "Продолжить..."
 #: src-en/data/events_disparity.xml:2747
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа глубоководный культист) \"Маневр уклонения... влево\"."
 
 #: src-en/data/events_disparity.xml:2749
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Следуя команде вашего Просветленного культиста, вы заставляете корабль "
+"уклониться влево. Он снова говорит: \"Направо... быстро!\" Вы снова "
+"уклоняетесь, и так продолжается некоторое время... пока вы не получаете "
+"вызов из темноты. Приняв его, вы оказываетесь лицом к лицу с другим "
+"Просветленным культистом: \"Вы... наш род стоит с вами. Неудивительно... что "
+"вы легко ускользаете от нас. Наши... извинения. Можем ли мы... как-то "
+"загладить свою вину перед вами, сородичи?\""
 
 #: src-en/data/events_disparity.xml:2751
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Если у вас есть дань, это было бы здорово."
 
 #: src-en/data/events_disparity.xml:2753
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
 msgstr ""
+"\"Да... мы можем ее предоставить, сородичи\". И действительно, они "
+"телепортируют вам внушительную кучей лома. Оказывается, иметь друзей в "
+"темных местах имеет свои преимущества... Просветленные прерывают связь, и вы "
+"снова остаетесь один в этом огромном небытии."
 
 #: src-en/data/events_disparity.xml:2758
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Если у вас есть лишнее оружие, нам бы оно пригодилось."
 
 #: src-en/data/events_disparity.xml:2760
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Да... это мы можем его вам передать, сородичи\". И действительно, они "
+"передают одно из орудий, подаренных им их Темным Богом. Оказывается, иметь "
+"друзей в темных местах имеет свои преимущества... Просветленные прерывают "
+"связь, и вы снова остаетесь один в этом огромном небытии."
 
 #: src-en/data/events_disparity.xml:2765
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Если у вас есть лишняя рабочая сила, было бы неплохо ее получить."
 
 #: src-en/data/events_disparity.xml:2767
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
 msgstr ""
+"\"Да... это мы можем сделать, сородичи\". Действительно, глубоководный, но "
+"не один из истинных Просветленных культистов, телепортируется к вам. "
+"Оказывается, иметь друзей в темных местах имеет свои преимущества... "
+"Просветленные прерывают связь, и вы снова остаетесь одни в этом огромном "
+"небытии."
 
 #: src-en/data/events_disparity.xml:2772
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/text"
-msgstr ""
+msgstr "Подождите, как вы и эта пустота вообще здесь оказались?"
 
 #: src-en/data/events_disparity.xml:2774
 msgid ""
@@ -4924,32 +4952,45 @@ msgstr ""
 #: src-en/data/events_disparity.xml:2776
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "Если у вас есть дань, это было бы здорово."
 
 #: src-en/data/events_disparity.xml:2778
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[1]/event/text"
 msgstr ""
+"\"Да... мы можем ее предоставить, сородич\". И действительно, они "
+"телепортируют вам внушительную кучей лома. Оказывается, иметь друзей в "
+"темных местах имеет свои преимущества... Просветленные прерывают связь, и вы "
+"снова остаетесь один в этом огромном небытии."
 
 #: src-en/data/events_disparity.xml:2783
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "Если у вас есть лишнее оружие, нам бы оно пригодилось."
 
 #: src-en/data/events_disparity.xml:2785
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[2]/event/text"
 msgstr ""
+"\"Да... это мы можем его вам передать, сородичи\". И действительно, они "
+"передают одно из орудий, подаренных им их Темным Богом. Оказывается, иметь "
+"друзей в темных местах имеет свои преимущества... Просветленные прерывают "
+"связь, и вы снова остаетесь один в этом огромном небытии."
 
 #: src-en/data/events_disparity.xml:2790
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[3]/text"
-msgstr ""
+msgstr "Если у вас есть лишняя рабочая сила, было бы неплохо ее получить."
 
 #: src-en/data/events_disparity.xml:2792
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[3]/event/text"
 msgstr ""
+"\"Да... это мы можем сделать, сородичи\". Действительно, глубоководный, но "
+"не один из истинных Просветленных культистов, телепортируется к вам. "
+"Оказывается, иметь друзей в темных местах имеет свои преимущества... "
+"Просветленные прерывают связь, и вы снова остаетесь одни в этом огромном "
+"небытии."
 
 #: src-en/data/events_disparity.xml:2801
 msgid ""
