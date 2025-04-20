@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-20 12:02+0000\n"
+"PO-Revision-Date: 2025-04-21 03:35+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -17,21 +17,28 @@ msgstr ""
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/text"
 msgstr ""
+"Вы приближаетесь к маяку магазина, и голос говорит: \"Здесь находятся "
+"Просветленные... торговцы. Однако, несмотря на то что... они знают о твоем "
+"присутствии, они не проявляют никаких признаков... агрессии по отношению к "
+"тебе. Хочешь, чтобы я... приоткрыл завесу?\""
 
 #: src-en/data/events_enlightened.xml:17
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/text"
-msgstr ""
+msgstr "Сделай это. Посмотрим, что тут происходит."
 
 #: src-en/data/events_enlightened.xml:19
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/text"
 msgstr ""
+"Тьма отступает, и вы видите корабль Просветленных, который бездействует. "
+"Если их и обеспокоил этот просвет во тьме, они не подают никаких признаков "
+"этого."
 
 #: src-en/data/events_enlightened.xml:22
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Связаться с магазином."
 
 #: src-en/data/events_enlightened.xml:26
 msgid ""
@@ -41,7 +48,7 @@ msgstr "Атаковать!"
 #: src-en/data/events_enlightened.xml:28
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Просвещенные торговцы распознают вашу агрессию и готовятся к защите."
 
 #: src-en/data/events_enlightened.xml:32
 msgid ""
@@ -51,12 +58,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:40
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[2]/text"
-msgstr ""
+msgstr "Я в этом не заинтересован, я ухожу отсюда."
 
 #: src-en/data/events_enlightened.xml:42
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "\"Понятно\". Голос затихает, и вы остаетесь наедине с темнотой."
 
 #: src-en/data/events_enlightened.xml:44
 msgid ""
@@ -72,6 +79,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING_COINFLIP\"]/event[1]/text"
 msgstr ""
+"Торговец принимает ваш вызов: \"Чужаки... Ходячая дань, возможно, но... "
+"также и ходячие кошельки. Я... не буду возражать против бизнеса, даже "
+"если... вы здесь обречены\". Просветленные открывают для вас свой магазин."
 
 #: src-en/data/events_enlightened.xml:59
 msgid ""
@@ -82,6 +92,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING_COINFLIP\"]/event[2]/text"
 msgstr ""
+"Ваши вызовы остаются без ответа. Внезапно торговый корабль поворачивается к "
+"вам, заряжая оружие; приготовьтесь к бою!"
 
 #: src-en/data/events_enlightened.xml:67
 msgid ""
@@ -92,46 +104,66 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/text"
 msgstr ""
+"Предположительно, в темноте здесь находится торговец. Голос, звучащий "
+"обеспокоенно, говорит: \"Этот корабль, Просвещенных торговцев... в его "
+"корпусе есть пробоина. Он... разгерметизирован. Заполняется... этой ложной "
+"пустотой. Я могу приоткрыть завесу... но ничего не могу сделать с тьмой, "
+"которую они приняли\"."
 
 #: src-en/data/events_enlightened.xml:81
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/text"
-msgstr ""
+msgstr "Сделай, я должен спасти их!"
 
 #: src-en/data/events_enlightened.xml:83
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/text"
 msgstr ""
+"Когда пустота отступает, вы можете оценить ущерб воочию. Сканирование "
+"показывает, что корабль пережил примерно такой же разрушающий процесс, как и "
+"большинство кораблей Просветленных, но в корпусе есть небольшая пробоина, из-"
+"за которой корабль разгерметизирован. Чтобы заделать ее, не потребуется "
+"много усилий, по крайней мере в качестве временной меры, но любой экипаж, "
+"который вы отправите, будет находиться в темноте, а также в вакууме космоса."
 
 #: src-en/data/events_enlightened.xml:86
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
 msgstr ""
+"Мы должны попытаться! Отправить члена экипажа на борт, чтобы отремонтировать "
+"корпус корабля."
 
 #: src-en/data/events_enlightened.xml:90
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
-msgstr ""
+msgstr "(Ремонтный дрон) Отправить своего дрона на ремонт их корпуса."
 
 #: src-en/data/events_enlightened.xml:94
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"BEAM_REPAIR\"]/text"
 msgstr ""
+"(Ремонтный корпусный луч) Использовать свой ремонтный луч, чтобы починить их "
+"корпус."
 
 #: src-en/data/events_enlightened.xml:98
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/text"
 msgstr ""
+"(Анаэробный экипаж) Отправить свой анаэробный экипаж на абордаж, чтобы "
+"отремонтировать корпус корабля."
 
 #: src-en/data/events_enlightened.xml:102
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "Мы не можем рисковать. Приготовиться к уходу."
 
 #: src-en/data/events_enlightened.xml:104
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"Мы ничего не можем сделать. По крайней мере, так вы говорите себе, оставляя "
+"Просветленных умирать. Голос умолкает, и вы остаетесь смотреть в бесконечную "
+"пустоту."
 
 #: src-en/data/events_enlightened.xml:106
 msgid ""
@@ -147,21 +179,28 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[6]/text"
 msgstr ""
+"Если они все равно умрут, мы можем поживиться тем, что находится на их "
+"корабле..."
 
 #: src-en/data/events_enlightened.xml:118
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"\"Я... вижу. Все, что поможет тебе... выжить\". Вы спокойно осматриваете и "
+"грабите Просвещенных торговцев, но... трупы, которые смотрят на вас сквозь "
+"залитые слезами глаза, не оставляют вам быть \"спокойным\"."
 
 #: src-en/data/events_enlightened.xml:126
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[2]/text"
-msgstr ""
+msgstr "Неважно, это гиблое дело."
 
 #: src-en/data/events_enlightened.xml:128
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[2]/event/text"
 msgstr ""
+"\"Я... понимаю. Многое... поставлено на карту\". Голос затихает, и вы "
+"остаетесь наедине с темнотой."
 
 #: src-en/data/events_enlightened.xml:131
 msgid ""
@@ -177,6 +216,14 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[1]/text"
 msgstr ""
+"Ваш член экипажа, испытывая нехватку времени, кислорода и зрения, чудом "
+"успевает подняться на борт, найти пробоину и заделать ее на некоторое время. "
+"С возвращением кислорода на корабль Просветленных, на борту все постепенно "
+"приходят в себя. Вскоре они связываются с вами: \"Дань... кто-то может "
+"назвать вас, и все же... ты спас нас, когда Темный... не смог. Наши "
+"товары... доступны для тебя, чужак\". Затем голос обращается непосредственно "
+"к вам: \"Не все из моего рода... ослеплены своими убеждениями. Некоторые из "
+"них... просто ослеплены, в буквальном смысле\". Кажется, он доволен собой."
 
 #: src-en/data/events_enlightened.xml:147
 msgid ""
@@ -187,6 +234,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[2]/text"
 msgstr ""
+"Вашему члену экипажа удается подняться на борт, но темнота не позволяет "
+"сориентироваться. Несколько мгновений он вслепую пробирается сквозь пустоту, "
+"пока не натыкаются на что-то... это глубоководный, и он все еще жив! Вы "
+"принимаете решение поднять его на борт, пока у него не закончился кислород "
+"или, что еще хуже, он не поддался тьме; он забирает глубоководныго с собой."
 
 #: src-en/data/events_enlightened.xml:155
 msgid ""
@@ -197,31 +249,73 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[2]/choice/event/text"
 msgstr ""
+"По возвращении на корабль вы получаете возможность взглянуть на этого "
+"глубоководного, и голос говорит с вами: \"Этот... благословлен или проклят "
+"Ложным Богом... в зависимости от того, кого спросить. Все Просветленные... "
+"следуют за своим Богом, а... \"Избранные\" среди них лидеры. Быть "
+"Избранным... значит возвыситься, в их глазах. На самом же деле... - он "
+"делает паузу, - это не более чем ложь. В обмен на власть... они торгуют "
+"своей душой\". На этом голос замолкает, и вы остаетесь со странным "
+"глубоководным. Он утверждает, что вы, должно быть, посланы самим Темным "
+"Богом, чтобы спасти его, и после короткой молитвы настаивает, что теперь "
+"должны отплатить ему за милость и помочь вам, работая на борту вашего "
+"корабля. Странно..."
 
 #: src-en/data/events_enlightened.xml:163
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[3]/text"
 msgstr ""
+"Вашему члену экипажа удается подняться на борт, но темнота не позволяет ему "
+"сориентироваться. Несколько мгновений он вслепую пробирается сквозь пустоту, "
+"прежде чем... его связь прерывается. В один момент он разговаривал, а в "
+"следующий замолк. Прежде чем вы успеваете среагировать, вы видите, как "
+"корабль снаружи разваливается на части, раскалываясь пополам; там, где эти "
+"две половинки расходятся... вы видите что-то. Ваш член экипажа смотрит на "
+"вас, не обращая внимания на надвигающуюся тьму и не реагируя ни на хаос "
+"вокруг, ни на вакуум космоса. Тьма окутывает его, и все превращается в "
+"ничто. Голос не дает ответов."
 
 #: src-en/data/events_enlightened.xml:169
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[3]/removeCrew/text"
 msgstr ""
+"Каким-то образом резервные копии ДНК членов вашего экипажа оказались... "
+"повреждены? Полностью непригодны для использования, вы не можете его "
+"вернуть. Это проклятое место..."
 
 #: src-en/data/events_enlightened.xml:173
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[4]/text"
 msgstr ""
+"Вашему члену экипажа удается подняться на борт, но темнота не позволяет ему "
+"сориентироваться. Несколько мгновений он вслепую пробирается сквозь пустоту, "
+"прежде чем... его связь прерывается. В один момент он разговаривал, а в "
+"следующий замолк. Прежде чем вы успеваете среагировать, вы видите, как "
+"корабль снаружи разваливается на части, раскалываясь пополам; там, где эти "
+"две половинки расходятся... вы видите что-то. Ваш член экипажа смотрит на "
+"вас, не обращая внимания на надвигающуюся тьму и не реагируя ни на хаос "
+"вокруг, ни на вакуум космоса. Тьма окутывает его, и все превращается в "
+"ничто. Голос не дает ответов."
 
 #: src-en/data/events_enlightened.xml:179
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[4]/removeCrew/text"
 msgstr ""
+"Каким-то образом резервные копии ДНК членов вашего экипажа оказались... "
+"повреждены? Полностью непригодны для использования, вы не можете его "
+"вернуть. Это проклятое место..."
 
 #: src-en/data/events_enlightened.xml:186
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[1]/text"
 msgstr ""
+"Вы обнаруживаете пробоину и заделываете ее на некоторое время. С "
+"возвращением кислорода на корабль Просветленные на борту постепенно приходят "
+"в себя. Вскоре они связываются с вами: \"Дань... кто-то может назвать вас, и "
+"все же... ты спас нас, когда Темный... не смог. Наши товары... доступны для "
+"тебя, чужак\". Затем голос обращается непосредственно к вам: \"Не все из "
+"моего рода... ослеплены своими убеждениями. Некоторые из них... просто "
+"ослеплены, в буквальном смысле\". Кажется, он доволен собой."
 
 #: src-en/data/events_enlightened.xml:189
 msgid ""
@@ -232,6 +326,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[2]/text"
 msgstr ""
+"Вы находите пробоину и успеваете заделать ее, но многие из глубоководных уже "
+"погибли, остался только один. Придя в себя, он утверждает, что вы, должно "
+"быть, посланы самим Темным Богом, чтобы спасти его, и после короткой молитвы "
+"настаивает, что теперь должны отплатить ему за милость и помочь вам, работая "
+"на борту вашего корабля. Странно..."
 
 #: src-en/data/events_enlightened.xml:197
 msgid ""
@@ -242,31 +341,58 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[2]/choice/event/text"
 msgstr ""
+"Когда он оказываются на вашем корабле, вы получаете возможность взглянуть на "
+"этого глубоководного, и голос говорит с вами: \"Этот... благословлен или "
+"проклят Ложным Богом... в зависимости от того, кого спросить. Все "
+"Просветленные... следуют за своим Богом, а... \"Избранные\" среди них "
+"лидеры. Быть Избранным... значит возвыситься, в их глазах. На самом же "
+"деле... - он делает паузу, - это не более чем ложь. В обмен на власть... они "
+"торгуют своей душой\". На этом голос замолкает, и вы остаетесь со странным "
+"глубоководным."
 
 #: src-en/data/events_enlightened.xml:211
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/text"
 msgstr ""
+"Хотя вы ничего не видите, вы слышите выстрелы сквозь темноту. Голос говорит: "
+"\"Один... из синих кораблей находится здесь. Это... редкое явление. Они либо "
+"новички, либо... не собираются следовать за Ложным Богом. Независимо от "
+"этого... похоже, они стреляют в темноту, а не просто... в нее. Мне... "
+"приоткрыть завесу?\""
 
 #: src-en/data/events_enlightened.xml:214
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/text"
-msgstr ""
+msgstr "Звучит интересно. Сделай это."
 
 #: src-en/data/events_enlightened.xml:216
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/text"
 msgstr ""
+"Корабль глубоководных появляется в поле зрения, когда тьма расступается. Они "
+"взывают вас, удивленные: "
+"\"Что... это? Тьма... отступает? Наши атаки... сработали?\" Немного подумав, "
+"они продолжают: \"Возможно... вы имеете к этому какое-то отношение, "
+"Федерация? Что... привело вас в эту проклятую пустоту?\""
 
 #: src-en/data/events_enlightened.xml:219
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Что-то вроде миссии по спасению реальности и Просветленных."
 
 #: src-en/data/events_enlightened.xml:221
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Здесь, чтобы освободить... наших братьев? Они очарованы этим... \"Темный "
+"бог\", обещание... власти. Многие из наших сородичей... путешествуют сюда, "
+"со всего космоса, ища его... благосклонности. И все же... - он делает паузу, "
+"- в этой тьме есть странная... фальшь. Когда... мы стреляем в нее, она "
+"отступает, хотя бы... на мгновение. Если вы пришли, чтобы освободить наших "
+"сородичей из этой... тюрьмы, позвольте нам помочь\". Они предлагают вам свои "
+"товары и, пока вы делаете покупки, посылают пару глубоководных, чтобы те "
+"починили то, что смогут. Голос тем временем молчит; вы полагаете, что он "
+"должен быть весьма доволен тем, что его сородичи здесь делают."
 
 #: src-en/data/events_enlightened.xml:225
 msgid ""
@@ -276,12 +402,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:231
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Я здесь, чтобы надирать задницу, в том числе и вам!"
 
 #: src-en/data/events_enlightened.xml:233
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Возможно... наши сородичи были правы, когда искали убежища\". Они прервали "
+"связь и приготовились защищаться, когда вы начинаете атак."
 
 #: src-en/data/events_enlightened.xml:237
 msgid ""
@@ -291,12 +419,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:245
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[2]/text"
-msgstr ""
+msgstr "Я не хочу иметь ничего общего с тем, что там происходит."
 
 #: src-en/data/events_enlightened.xml:247
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[2]/event/text"
 msgstr ""
+"\"Нет... ужасный вызов\". Голос затихает, и вы остаетесь наедине с темнотой. "
+"Ну, и с далеким звуком выстрелов в пустоту."
 
 #: src-en/data/events_enlightened.xml:249
 msgid ""
@@ -322,21 +452,35 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[1]"
 msgstr ""
+"Вы ожидаете услышать голос, который обратится к вам, когда вы прибываете на "
+"маяк, но ничего не слышите. Должно быть, здесь нет ничего... ничего, кроме "
+"вас и пустоты."
 
 #: src-en/data/events_enlightened.xml:275
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[2]"
 msgstr ""
+"Позади вашего корабля возникает вспышка света, и вы слышите голос: \"Ничего"
+"... страшного. Корабль, который я... захватил, просто немного... неисправен. "
+"Этот маяк пуст\". Наступает тишина. Все молчат..."
 
 #: src-en/data/events_enlightened.xml:276
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[3]"
 msgstr ""
+"После минутного молчания голос говорит: "
+"\"Здесь... нет ничего примечательного\". И на этом все заканчивается, причем "
+"довольно неожиданно. Оставшись один, вы смотрите в пустоту, и часть вас "
+"задается вопросом, как долго вы сможете продержаться в этом бесконечном море "
+"тьмы, прежде чем по-настоящему сойдете с ума."
 
 #: src-en/data/events_enlightened.xml:277
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[4]"
 msgstr ""
+"Прибыв к маяку, вы отчасти надеетесь, что все это было сном и что здесь вас "
+"ждет свет. Но света нет. Ни света, ни голоса, только... тьма. Вы надеетесь, "
+"что это действительно все, что здесь есть."
 
 #: src-en/data/events_enlightened.xml:292
 msgid ""
@@ -361,82 +505,128 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:310
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/text"
-msgstr ""
+msgstr "Сторожевой корабль побежден, тюремщик остался беззащитным; они сдаются."
 
 #: src-en/data/events_enlightened.xml:312
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Подняться на борт, давайте найдем трюм."
 
 #: src-en/data/events_enlightened.xml:314
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/text"
 msgstr ""
+"Просветлённые нехотя впускают вас на борт - у них попросту нет выбора. Вы "
+"требуете показать пленников, и они подчиняются. В трюме, прижавшись друг к "
+"другу в углу, сидит около дюжины глубоководных. Что вы будете делать?"
 
 #: src-en/data/events_enlightened.xml:316
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Освободить их."
 
 #: src-en/data/events_enlightened.xml:318
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы открываете дверь трюма и даете понять, что они могут уйти, но они, "
+"похоже, настаивают на том, чтобы остаться. Куда же им идти? В этом секторе "
+"нет безопасного места, где вы могли бы их оставить, да и за его пределами "
+"для них мало что осталось..."
 
 #: src-en/data/events_enlightened.xml:320
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Наверняка есть место, куда они могут пойти?"
 
 #: src-en/data/events_enlightened.xml:322
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы размышляете об этом, когда голос говорит вам: \"Если мои сородичи... "
+"настаивают на том, чтобы остаться в этой тюрьме, то пусть они остаются... в "
+"этой клетке, внутри клетки. Возможно... клетка - это все, что они знают. В "
+"любом случае, я ценю... твои усилия\". Наступает тишина. Чувствуя себя "
+"несколько подавленным, вы полагаете, что пора уходить. Готовясь к прыжку к "
+"следующему маяку, вы смотрите в пустоту и размышляете над словами голоса. "
+"Разве в этой клетке вы более свободны, чем те глубоководные существа?"
 
 #: src-en/data/events_enlightened.xml:327
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
+"(Член экипажа-глубоководный культист) Ваш Просветленный культист, кажется, "
+"хочет что-то сказать."
 
 #: src-en/data/events_enlightened.xml:329
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Вы предоставляете ему слово, и он произносит красноречивую речь... полностью "
+"состоящую из ворчания, рычания и криков. Хотя вы ни капли не поняли из нее, "
+"она, похоже, воодушевила заключенных: они выходят из камеры и начинают "
+"бороться против своих поработителей! Оказавшись в меньшинстве, с стоящим "
+"вами рядом, охранники тюрьмы не остается ничего другого, кроме как передать "
+"управление кораблем бывшим заключенным. Посмотрим, как им понравится быть в "
+"клетке... Теперь свободные глубоководные, которых вы спасли, собирают все "
+"возможные ресурсы, чтобы отблагодарить вас, и один из них просит "
+"присоединиться к вам! Голос одобрительно говорит: "
+"\"Видеть, как они восстают против своих похитителей...\", - он делает паузу, "
+"- \"...это наполняет меня надеждой. Надеждой в мой народ... и его будущее\". "
+"На этом все заканчивается, и вы остаетесь с трофеями за свой героизм."
 
 #: src-en/data/events_enlightened.xml:338
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Поработить их."
 
 #: src-en/data/events_enlightened.xml:340
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Хотя большинство из них сопротивляется и получают по заслугам, один "
+"послушный заключенный остается. Довольный и с новообретенным рабом на "
+"корабле, вы возвращаетесь на свой корабль и готовитесь покинуть маяк. Тишина "
+"становится оглушительной, пока ССД набирает скорость."
 
 #: src-en/data/events_enlightened.xml:348
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Трусы. Уничтожить их."
 
 #: src-en/data/events_enlightened.xml:350
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[2]/event/text"
 msgstr ""
+"Они мало что могут сделать, пока вы разрываете их. Урон, нанесенный им, "
+"оказывается катастрофическим: тюремщик взрывается, и вы отправляетесь за "
+"ломом. Тишина оглушает, пока вы собираете все, что можете."
 
 #: src-en/data/events_enlightened.xml:358
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/text"
 msgstr ""
+"Голос, обеспокоенный, обращается к вам: \"Мои сородичи... - он делает паузу, "
+"- ...тюремщик Просветленных и его охрана... покоятся у этого маяка. Это... "
+"место, где сородичи ополчаются на сородичей. Фанатики... набрасываются на "
+"\"богохульников\". Во имя... Ложного Бога...\" Кажется, это очень "
+"эмоционально... После того, как голос через мгновение взял себя в руки, он "
+"продолжает: \"Они... не намерены нападать на вас и рисковать своим... \""
+"грузом\". Если ты... захочешь сыграть роль героя, я могу ослабить эту... "
+"проклятую тьму\"."
 
 #: src-en/data/events_enlightened.xml:361
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[1]/text"
-msgstr ""
+msgstr "Сделай это. Развей эту пустоту в пустоте."
 
 #: src-en/data/events_enlightened.xml:363
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[1]/event/text"
 msgstr ""
+"Темнота отступает, и вы видите вдалеке тюремщиков... Но сначала вам нужно "
+"пройти через его охрану, которая поворачивается к вам лицом, как только "
+"понимает, что потеряла свою драгоценную завесу!"
 
 #: src-en/data/events_enlightened.xml:366
 msgid ""
@@ -446,12 +636,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:372
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[2]/text"
-msgstr ""
+msgstr "Я не герой. Отправиться дальше."
 
 #: src-en/data/events_enlightened.xml:374
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[2]/event/text"
 msgstr ""
+"\"Конечно... конечно\". Больше он ничего не говорит по этому поводу, и вы "
+"остаетесь смотреть в пустоту, пока ССД заряжается."
 
 #: src-en/data/events_enlightened.xml:376
 msgid ""
@@ -467,6 +659,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/text"
 msgstr ""
+"Вы прибываете к маяку и... ничего. Только вы и пустота; голос молчит. "
+"Наверное, здесь нет ничего ценного."
 
 #: src-en/data/events_enlightened.xml:391
 msgid ""
@@ -477,76 +671,123 @@ msgstr "Заняться чем-либо на корабле."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/text"
 msgstr ""
+"Прежде чем вы успеваете что-либо предпринять, темноту пронзает яркая "
+"вспышка! Правда, ненадолго... Она исчезла так же быстро, как и появилась. "
+"Несколько секунд спустя голос обращается к вам: \"Сородичи снаружи. Это... "
+"не Просветленные. Они не... знают о твоем присутствии, но разве я должен... "
+"это исправить?\""
 
 #: src-en/data/events_enlightened.xml:395
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Конечно, покажи мне их. Интересно, что привело их сюда..."
 
 #: src-en/data/events_enlightened.xml:397
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Тьма снаружи отступает, и корабль глубоководных постепенно становится виден. "
+"В этой пучине культистов их появление выглядит очень необычно... Они просто "
+"дрейфуют рядом, не делая никаких попыток связаться с вами."
 
 #: src-en/data/events_enlightened.xml:400
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Сделать первый шаг - вызвать их."
 
 #: src-en/data/events_enlightened.xml:402
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Они быстро принимают ваш вызов, но вы не совсем понимаете, как понимать "
+"представшее перед вами зрелище... Глубоководные, похоже, бегают вокруг и "
+"кричат? Но это не крик "
+"\"Я в смертельной опасности, пожалуйста, спасите меня!\", они выглядят, как "
+"будто в экстазе? Из-за чего-то? Или кого-то?"
 
 #: src-en/data/events_enlightened.xml:404
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что здесь происходит?"
 
 #: src-en/data/events_enlightened.xml:406
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Ты!\" Глубокий указывает на экран: "
+"\"Ты... обладаешь силой! Темный... благоволит!\" Должно быть, они говорят о "
+"том, что тьма снаружи отступает... они чуть ли не слюной исходят от этого. "
+"Что вы скажете?"
 
 #: src-en/data/events_enlightened.xml:408
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Да, я Избранный Темного Бога. Я довольно крупная шишка."
 
 #: src-en/data/events_enlightened.xml:410
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Их глаза расширились до такой степени, что это кажется абсурдным. "
+"\"Он... ОН...\", - кричат они все вместе, - "
+"\"ОН ИЗБРАННЫЙ?! ОН... ИЗБРАННЫЙ И ОН ЗАМЕТИЛ... НАС?!\" После этого "
+"начинается настоящий ад: они буквально начинают крушить все подряд. Не "
+"проходит и минуты, как один из них случайно запускает ССД среди всей этой "
+"суматохи... После того как они исчезли, голос обращается к вам, веселясь: "
+"\"Ну... может, они и чужаки, но... похоже, они отлично впишутся в ряды "
+"фанатиков\". Затем - тишина. Вы быстро понимаете, насколько вам нравится, "
+"когда вас отвлекают глупые разговоры, и остаетесь в одиночестве, глядя в "
+"темноту."
 
 #: src-en/data/events_enlightened.xml:415
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
+"(Член экипажа-глубоководный культист) Ага. У меня есть свой культ и все "
+"такое."
 
 #: src-en/data/events_enlightened.xml:417
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"\"Ваш собственный... культ?\" - спрашивает один из них, но потом ненадолго "
+"задумывается и продолжает: \"Могу ли я... Я могу присоединиться к нему?\""
 
 #: src-en/data/events_enlightened.xml:419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Да, черт возьми! У нас тут вечеринка!"
 
 #: src-en/data/events_enlightened.xml:421
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
 msgstr ""
+"Глубоководный с криком выбегает из комнаты и направляется к телепортатору. "
+"Мгновением позже он телепортируется прямо в вашу комнату; он продолжает "
+"кричать. Глубоководные через связь тоже кричат. Ваш Просветленный "
+"культист... кричит. Они не устают, просто продолжают делать это. В конце "
+"концов, как и все хорошее, это должно закончиться... и заканчивается это "
+"тем, что вы бормочете что-то себе под нос, прекращая вызов и требуя зарядить "
+"ССД. Голос просто смеется, его это забавляет."
 
 #: src-en/data/events_enlightened.xml:427
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
 msgstr ""
+"Не-а. Только так много крутости, сколько нужно... спрос и предложение, и все "
+"такое."
 
 #: src-en/data/events_enlightened.xml:429
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
 msgstr ""
+"Сначала он кажется опечаленным таким ответом, но затем, набравшись "
+"решимости, выходит из комнаты. Мгновением позже он возвращается, неся с "
+"собой как можно больше лома! \"Если... я не смогу присоединиться к вашему "
+"культу напрямую... я создам здесь второй культ, во имя вашего... "
+"могущественного имени! Пожалуйста... о, пожалуйста, примите этот дар!\" "
+"Большинство божеств, наверное, обиделись бы, если бы им предложили в "
+"качестве подношения кучу мусора, но вы? Трудно придумать лучший подарок..."
 
 #: src-en/data/events_enlightened.xml:432
 msgid ""
@@ -557,16 +798,28 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Лом передается, и, когда вы прерываете связь, голос говорит: \"В этом "
+"есть... больше смысла, чем ты... понимаешь. Ложный Бог получает свою силу... "
+"от веры. Она бесполезна для тебя или меня, но для него... она - все. "
+"Обращать в свои последователи... это, мягко говоря, забавно, но также... "
+"тактическое преимущество\". Затем он замолкает, и вы остаетесь размышлять о "
+"логике силы веры... Вы пришли к выводу, что это что-то вроде лома, но для "
+"богов."
 
 #: src-en/data/events_enlightened.xml:443
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Вы что, шутите? Я ненавижу этого Темного Бога."
 
 #: src-en/data/events_enlightened.xml:445
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Глубоководные в унисон сразу же умолкают и перестают двигаться. Они все "
+"смотрят прямо на вас, когда вызов резко заканчивается. Вы не совсем "
+"понимаете, как им это удалось, не двигаясь... и прежде чем вы успеваете "
+"подумать об этом, вы осознаете, что их корабль повернулся к вашему, заряжая "
+"оружие!"
 
 #: src-en/data/events_enlightened.xml:448
 msgid ""
@@ -576,12 +829,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:458
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отлично. Я все равно не хотел с ними разговаривать..."
 
 #: src-en/data/events_enlightened.xml:460
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Корабль продолжает просто дрейфовать на месте, а вы спокойно ждете, пока "
+"зарядится ССД."
 
 #: src-en/data/events_enlightened.xml:462
 msgid ""
@@ -596,12 +851,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:472
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Как грубо с их стороны. Атакуем!"
 
 #: src-en/data/events_enlightened.xml:474
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы не можете вынести наглости этих странных рыболюдей. Как они могут спать "
+"по ночам, зная, что они одни из тех, кто не связывается со случайными "
+"кораблями поблизости вроде вашего? Вы отдаете приказ атаковать, и, распознав "
+"вашу агрессию, корабль поблизости готовится к обороне."
 
 #: src-en/data/events_enlightened.xml:478
 msgid ""
@@ -611,12 +870,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:486
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Я бы предпочел, чтобы о моем присутствии ничего не знали, спасибо."
 
 #: src-en/data/events_enlightened.xml:488
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Ну... как хочешь\". - голос умолкает. Вы остаетесь одни, глядя в пустоту, "
+"и думаете о том, как же сильно вам не хватает звезд."
 
 #: src-en/data/events_enlightened.xml:490
 msgid ""
@@ -637,76 +898,123 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/text"
 msgstr ""
+"Прежде чем вы успеваете пошевелиться, чтобы... ничего не делать, тьму "
+"пронзает яркая вспышка снаружи! Правда, ненадолго... Она исчезла так же "
+"быстро, как и появилась. Несколько секунд спустя голос обращается к вам: "
+"\"Сородичи снаружи. Это... не Просветленные. Они не... знают о твоем "
+"присутствии, стоит ли мне... это исправить?\""
 
 #: src-en/data/events_enlightened.xml:506
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Конечно, покажи мне их. Интересно, что привело их сюда..."
 
 #: src-en/data/events_enlightened.xml:508
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"Тьма снаружи отступает, и корабль глубоководных постепенно становится виден. "
+"В этой пучине культистов их появление выглядит очень необычно... Они просто "
+"дрейфуют рядом, не делая никаких попыток связаться с вами."
 
 #: src-en/data/events_enlightened.xml:511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Сделать первый шаг - вызвать их."
 
 #: src-en/data/events_enlightened.xml:513
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Они быстро принимают ваш вызов, но вы не совсем понимаете, как понимать "
+"представшее перед вами зрелище... Глубоководные, похоже, бегают вокруг и "
+"кричат? Но это не крик "
+"\"Я в смертельной опасности, пожалуйста, спасите меня!\", они выглядят, как "
+"будто в экстазе? Из-за чего-то? Или кого-то?"
 
 #: src-en/data/events_enlightened.xml:515
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что здесь происходит?"
 
 #: src-en/data/events_enlightened.xml:517
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Ты!\" Глубокий указывает на экран: "
+"\"Ты... обладаешь силой! Темный... благоволит!\" Должно быть, они говорят о "
+"том, что тьма снаружи отступает... они чуть ли не слюной исходят от этого. "
+"Что вы скажете?"
 
 #: src-en/data/events_enlightened.xml:519
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Да, я Избранный Темного Бога. Я довольно крупная шишка."
 
 #: src-en/data/events_enlightened.xml:521
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Их глаза расширились до такой степени, что это кажется абсурдным. "
+"\"Он... ОН...\", - кричат они все вместе, - "
+"\"ОН ИЗБРАННЫЙ?! ОН... ИЗБРАННЫЙ И ОН ЗАМЕТИЛ... НАС?!\" После этого "
+"начинается настоящий ад: они буквально начинают крушить все подряд. Не "
+"проходит и минуты, как один из них случайно запускает ССД среди всей этой "
+"суматохи... После того как они исчезли, голос обращается к вам, веселясь: "
+"\"Ну... может, они и чужаки, но... похоже, они отлично впишутся в ряды "
+"фанатиков\". Затем - тишина. Вы быстро понимаете, насколько вам нравится, "
+"когда вас отвлекают глупые разговоры, и остаетесь в одиночестве, глядя в "
+"темноту."
 
 #: src-en/data/events_enlightened.xml:526
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
+"(Член экипажа-глубоководный культист) Ага. У меня есть свой культ и все "
+"такое."
 
 #: src-en/data/events_enlightened.xml:528
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"\"Ваш собственный... культ?\" - спрашивает один из них, но потом ненадолго "
+"задумывается и продолжает: \"Могу ли я... Я могу присоединиться к нему?\""
 
 #: src-en/data/events_enlightened.xml:530
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Да, черт возьми! У нас тут вечеринка!"
 
 #: src-en/data/events_enlightened.xml:532
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
 msgstr ""
+"Глубоководный с криком выбегает из комнаты и направляется к телепортатору. "
+"Мгновением позже он телепортируется прямо в вашу комнату; он продолжает "
+"кричать. Глубоководные через связь тоже кричат. Ваш Просветленный "
+"культист... кричит. Они не устают, просто продолжают делать это. В конце "
+"концов, как и все хорошее, это должно закончиться... и заканчивается это "
+"тем, что вы бормочете что-то себе под нос, прекращая вызов и требуя зарядить "
+"ССД. Голос просто смеется, его это забавляет."
 
 #: src-en/data/events_enlightened.xml:538
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
 msgstr ""
+"Не-а. Только так много крутости, сколько нужно... спрос и предложение, и все "
+"такое."
 
 #: src-en/data/events_enlightened.xml:540
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
 msgstr ""
+"Сначала он кажется опечаленным таким ответом, но затем, набравшись "
+"решимости, выходит из комнаты. Мгновением позже он возвращается, неся с "
+"собой как можно больше лома! \"Если... я не смогу присоединиться к вашему "
+"культу напрямую... я создам здесь второй культ, во имя вашего... "
+"могущественного имени! Пожалуйста... о, пожалуйста, примите этот дар!\" "
+"Большинство божеств, наверное, обиделись бы, если бы им предложили в "
+"качестве подношения кучу мусора, но вы? Трудно придумать лучший подарок..."
 
 #: src-en/data/events_enlightened.xml:543
 msgid ""
@@ -717,16 +1025,28 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Лом передается, и, когда вы прерываете связь, голос говорит: \"В этом "
+"есть... больше смысла, чем ты... понимаешь. Ложный Бог получает свою силу... "
+"от веры. Она бесполезна для тебя или меня, но для него... она - все. "
+"Обращать в свои последователи... это, мягко говоря, забавно, но также... "
+"тактическое преимущество\". Затем он замолкает, и вы остаетесь размышлять о "
+"логике силы веры... Вы пришли к выводу, что это что-то вроде лома, но для "
+"богов."
 
 #: src-en/data/events_enlightened.xml:554
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Вы что, шутите? Я ненавижу этого Темного Бога."
 
 #: src-en/data/events_enlightened.xml:556
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Глубоководные в унисон сразу же умолкают и перестают двигаться. Они все "
+"смотрят прямо на вас, когда вызов резко заканчивается. Вы не совсем "
+"понимаете, как им это удалось, не двигаясь... и прежде чем вы успеваете "
+"подумать об этом, вы осознаете, что их корабль повернулся к вашему, заряжая "
+"оружие!"
 
 #: src-en/data/events_enlightened.xml:559
 msgid ""
@@ -736,12 +1056,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:569
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Отлично. Я все равно не хотел с ними разговаривать..."
 
 #: src-en/data/events_enlightened.xml:571
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Корабль продолжает просто дрейфовать на месте, а вы спокойно ждете, пока "
+"зарядится ССД."
 
 #: src-en/data/events_enlightened.xml:573
 msgid ""
@@ -756,12 +1078,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:583
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Как грубо с их стороны. Атакуем!"
 
 #: src-en/data/events_enlightened.xml:585
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы не можете вынести наглости этих странных рыболюдей. Как они могут спать "
+"по ночам, зная, что они одни из тех, кто не связывается со случайными "
+"кораблями поблизости вроде вашего? Вы отдаете приказ атаковать, и, распознав "
+"вашу агрессию, корабль поблизости готовится к обороне."
 
 #: src-en/data/events_enlightened.xml:589
 msgid ""
@@ -771,12 +1097,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:597
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Я бы предпочел, чтобы о моем присутствии ничего не знали, спасибо."
 
 #: src-en/data/events_enlightened.xml:599
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_TURQUOISE\"]/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"\"Ну... как хочешь\". - голос умолкает. Вы остаетесь одни, глядя в пустоту, "
+"и думаете о том, как же сильно вам не хватает звезд."
 
 #: src-en/data/events_enlightened.xml:601
 msgid ""
@@ -3020,6 +3348,9 @@ msgstr ""
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/text"
 msgstr ""
+"Вы ожидаете услышать голос, который обратится к вам, когда вы прибываете на "
+"маяк, но ничего не слышите. Должно быть, здесь нет ничего... ничего, кроме "
+"вас и пустоты."
 
 #: src-en/data/events_enlightened.xml:2320
 msgid ""
