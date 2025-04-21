@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-21 12:32+0000\n"
+"PO-Revision-Date: 2025-04-21 12:41+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -2626,8 +2626,8 @@ msgid ""
 msgstr ""
 "\"АГА, но это же круто, правда? Я прямо сейчас изображаю твоего СМЕРТЕЛЬНОГО "
 "врага!\" Она несколько раз моргнула, а потом продолжила: \"Теперь, когда я "
-"подумала об этом... не самая лучшая идея, да? Может, я не гожусь быть "
-"сталкером...\""
+"немного подумала об этом... не самая лучшая идея, да? Может, я не гожусь "
+"быть сталкером...\""
 
 #: src-en/data/events_enlightened.xml:1382
 msgid ""
@@ -2694,42 +2694,63 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:1406
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Возможно, мне нечему тебя научить..."
 
 #: src-en/data/events_enlightened.xml:1408
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[2]/event/text"
 msgstr ""
+"\"Оу... Не падай духом, в моем сердце ты все еще сталкер-профи!\" Она на "
+"мгновение оглядывается по сторонам, прежде чем продолжить: \"Думаю, это "
+"означает, что мне придется разбираться в этом сталкерском деле "
+"самостоятельно. Но я не сдамся! Я найду тебя в следующем секторе, и моя сила "
+"сталкера будет настолько большой, что ты меня даже не заметишь! Удачи, и "
+"пока!\" Она покидают маяк, и вы остаетесь одни... если не считать голоса, "
+"который обращается к вам: \"Харизматичная девушка, если не сказать больше\". "
+"Вам кажется, что за его словами вы слышите слабый намек на улыбку..."
 
 #: src-en/data/events_enlightened.xml:1416
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Скорее... сталкер в процессе обучения..."
 
 #: src-en/data/events_enlightened.xml:1418
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Оу... Не падай духом, в моем сердце ты все еще сталкер-профи!\" Она на "
+"мгновение оглядывается по сторонам, прежде чем продолжить: \"Думаю, это "
+"означает, что мне придется разбираться в этом сталкерском деле "
+"самостоятельно. Но я не сдамся! Я найду тебя в следующем секторе, и моя сила "
+"сталкера будет настолько большой, что ты меня даже не заметишь! Удачи, и "
+"пока!\" Она покидают маяк, и вы остаетесь одни... если не считать голоса, "
+"который обращается к вам: \"Харизматичная девушка, если не сказать больше\". "
+"Вам кажется, что за его словами вы слышите слабый намек на улыбку..."
 
 #: src-en/data/events_enlightened.xml:1426
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Ты не думала о том, чтобы не сталкерить людей?"
 
 #: src-en/data/events_enlightened.xml:1428
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Она бросает на вас короткий взгляд: \"А откуда мне знать, что произойдет с "
+"тобой, если я не буду тебя сталкерить?\""
 
 #: src-en/data/events_enlightened.xml:1430
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Ты можешь пойти со мной."
 
 #: src-en/data/events_enlightened.xml:1432
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"Ошеломленная, она отвечает: \"И все это время СРАЖАТЬСЯ? Извини, я тебя "
+"очень уважаю, но... Я не думаю, что я создана для спасения реальности. "
+"Сталкерство гораздо безопаснее! Тем не менее, я очень ценю предложение...\""
 
 #: src-en/data/events_enlightened.xml:1434
 msgid ""
@@ -2740,16 +2761,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"\"Ладно! Я приняла решение. Я выберусь отсюда и поработаю над своими "
+"навыками сталкинга... а пока береги себя, хорошо? Я найду тебя в следующем "
+"секторе! Хотя ты вряд ли меня увидишь\". С этими словами она покидает "
+"систему, а голос обращается к вам: "
+"\"Харизматичная девушка, если не сказать больше\". Вам кажется, что вы "
+"слышите слабый намек на улыбку за его словами..."
 
 #: src-en/data/events_enlightened.xml:1444
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Ты можешь жить своей собственной жизнью!"
 
 #: src-en/data/events_enlightened.xml:1446
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Она улыбается: \"Твоя жизнь намного интереснее! Кажется, что вся вселенная "
+"вращается вокруг тебя, когда ты побеждаешь всех этих плохих парней! Тем не "
+"менее, я очень ценю твою заботу...\""
 
 #: src-en/data/events_enlightened.xml:1448
 msgid ""
@@ -2760,6 +2790,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Ладно! Я приняла решение. Я выберусь отсюда и поработаю над своими "
+"навыками сталкинга... а пока береги себя, хорошо? Я найду тебя в следующем "
+"секторе! Хотя ты вряд ли меня увидишь\". С этими словами она покидает "
+"систему, а голос обращается к вам: "
+"\"Харизматичная девушка, если не сказать больше\". Вам кажется, что вы "
+"слышите слабый намек на улыбку за его словами..."
 
 #: src-en/data/events_enlightened.xml:1464
 msgid ""
@@ -2770,6 +2806,8 @@ msgstr "Продолжать атаку."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Насколько вы знаете, это может быть хитростью. Вы отключаете связь и "
+"готовитесь к бою."
 
 #: src-en/data/events_enlightened.xml:1468
 msgid ""
