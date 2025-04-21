@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-21 03:35+0000\n"
+"PO-Revision-Date: 2025-04-21 11:54+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -1120,6 +1120,10 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/text"
 msgstr ""
+"Вечная пустота заставляет вас ждать указаний голоса. Впрочем, он не "
+"заставляет вас долго ждать: \"Просветленные... находятся у этого маяка. "
+"Хотя, это... странно. Этот корабль - охотник, но... он не проявляет никаких "
+"признаков агрессии. Должен ли я... развеять эту ложную тьму?\""
 
 #: src-en/data/events_enlightened.xml:618
 msgid ""
@@ -1130,16 +1134,24 @@ msgstr "Вперед."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/text"
 msgstr ""
+"По мере того как тьма отступает, корабль, кажется, продолжает погружаться в "
+"нее все дальше и дальше; в конце концов он сдается и обращается к вам: "
+"\"Я... не понимаю. Добыча... здесь, но защита Темного покидает меня...\" "
+"Кажется, они очень переживают по этому поводу."
 
 #: src-en/data/events_enlightened.xml:623
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Почему ты не напал на меня? Разве ты не охотник?"
 
 #: src-en/data/events_enlightened.xml:625
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Он кажется удивленным: \"Как ты...\", - он делает паузу: \"Подожди. Это... "
+"это испытание. Испытание... веры. Темный желает, чтобы я... доказал свою "
+"преданность. Услышь же меня, и да будет известна моя вера!\" Просветленные "
+"отключили связь, и их оружие заработало!"
 
 #: src-en/data/events_enlightened.xml:628
 msgid ""
@@ -1149,12 +1161,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:634
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Похоже, твой Темный Бог покинул тебя."
 
 #: src-en/data/events_enlightened.xml:636
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Кажется, он на мгновение задумался над этим. \"По правде говоря... я тоже "
+"подумывал отказаться от него. До меня дошли слухи... что ваше Восстание "
+"проникает на нашу территорию... беспрепятственно. Наши учения заставляют нас "
+"думать, что это... невозможно, и все же...\" Просветленный на некоторое "
+"время замолкает. В конце концов он продолжает: \"Если... если Темный нас "
+"подвел, то... что толку оставаться здесь, ожидая смерти?\""
 
 #: src-en/data/events_enlightened.xml:638
 msgid ""
@@ -1165,16 +1183,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Я... принял решение. Я пойду с вами, Федерация, и... посмотрю, что может "
+"предложить вселенная. Мне... предстоит многому научиться, ко многому "
+"приспособиться, но... - он делает паузу, - я лучше умру на свету, чем буду "
+"жить дальше... прячась в этой тьме\". Он заканчивает связь, и вы замечаете "
+"его... плывущим через пространство к вашему кораблю. Затем голос говорит: "
+"\"Мои сородичи... освобождаются от оков. Увидев сквозь... завесу...\" Голос "
+"замолкает, но вы можете предположить, что он весьма доволен ситуацией."
 
 #: src-en/data/events_enlightened.xml:648
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Значит, вы уязвимы? В атаку!"
 
 #: src-en/data/events_enlightened.xml:650
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"\"Что толку... в этой тьме, если...\" Продолжения не последовало, но вас это "
+"и не волнует. Вы обрываете связь и готовитесь к нападению."
 
 #: src-en/data/events_enlightened.xml:654
 msgid ""
@@ -1184,12 +1211,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:662
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[2]/text"
-msgstr ""
+msgstr "Я не хочу рисковать с охотником."
 
 #: src-en/data/events_enlightened.xml:664
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_DOUBTFUL\"]/choice[2]/event/text"
 msgstr ""
+"\"Достаточно... умно\". Голос затихает, и вы немного нервничаете, ожидая "
+"зарядки ССД."
 
 #: src-en/data/events_enlightened.xml:666
 msgid ""
@@ -1225,11 +1254,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST_WIN\"]/text"
 msgstr ""
+"После того как вы закончили со сбором, голос коротко говорит с вами: "
+"\"Странные... личности, без сомнения. Остается только догадываться... как "
+"они оказались так глубоко в пустоте\". Голос умолкает, и вы остаетесь только "
+"догадываться."
 
 #: src-en/data/events_enlightened.xml:701
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/text"
 msgstr ""
+"Не прошло и секунды, как к вам обращается потрясенный голос: \"Валуны... "
+"здесь? Странного цвета... Они кажутся совершенно потерянными. Ты... хочешь "
+"их увидеть?\""
 
 #: src-en/data/events_enlightened.xml:704
 msgid ""
@@ -1240,54 +1276,69 @@ msgstr "Конечно!"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/text"
 msgstr ""
+"Темнота рассеивается, и вы воочию видите корабль валунов. Он кажется "
+"кристаллическим, окрашенным в золотой цвет, со странным знаком отличия..."
 
 #: src-en/data/events_enlightened.xml:709
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "...я понятия не имею, что это такое."
 
 #: src-en/data/events_enlightened.xml:711
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Это не похоже ни на один корабль валунов, который вы видели раньше. Невзирая "
+"на это, они вызывают вас, и перед вами предстает пара валунов в мантиях. "
+"Один из них говорит: \"Приветствую вас, Федерация! Приятно встретить вас "
+"здесь... Вы случайно не знаете, где здесь что находится?\""
 
 #: src-en/data/events_enlightened.xml:713
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Вы находитесь в искусственной пустоте, населенной Просветленными."
 
 #: src-en/data/events_enlightened.xml:715
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Он почесывает голову: \"Кто теперь свет?\""
 
 #: src-en/data/events_enlightened.xml:717
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
 msgstr ""
+"Это культ глубоководных, поклоняющихся существу, которое они называют Темным "
+"Богом."
 
 #: src-en/data/events_enlightened.xml:719
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Он останавливает вас на слове \"культ\": \"О! Видишь, я же говорил тебе!\" "
+"Он смотрит на другого валуна: "
+"\"Свободный богомол был прав, это Культ Пустоты!\" Другой валун просто "
+"хмыкает. Затем первый поворачивается к вам: "
+"\"Погодите, если это Культ Пустоты... что вы здесь делаете?\""
 
 #: src-en/data/events_enlightened.xml:721
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Э-э... Просто проходим мимо..."
 
 #: src-en/data/events_enlightened.xml:723
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Он прищурился: \"Пришли украсть наши оккультные тайны, да? Ну уж нет! Заводи "
+"свои собственные тайны и свою собственную пустоту!\""
 
 #: src-en/data/events_enlightened.xml:726
 msgid ""
@@ -1301,7 +1352,7 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-культист) Я дружу со многими культистами."
 
 #: src-en/data/events_enlightened.xml:734
 msgid ""
@@ -1309,20 +1360,28 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/event/text"
 msgstr ""
+"Его глаза расширились: "
+"\"БРАТ! О, теперь Я ЗНАЮ, что сплю! Гортокк, дай мне пощечину!\" Второй "
+"валун сильно бьет его, и он... вырубается. Или умирает, точно не скажешь. "
+"Как бы то ни было, Гортокк не слишком разговорчив, и он покидает комнату... "
+"Но не успеете вы оглянуться, как он уже на вашем корабле! Ваш культист "
+"валунов объясняет, что они с Гортокком давние знакомые и что ему, видимо, "
+"очень надоел тот другой валун. Неужели он умер? Как бы то ни было, Гортокк "
+"присоединился к вашей команде!"
 
 #: src-en/data/events_enlightened.xml:735
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/event/crewMember"
-msgstr ""
+msgstr "Гортокк"
 
 #: src-en/data/events_enlightened.xml:739
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-глубоководный культист) Я дружу со многими культистами."
 
 #: src-en/data/events_enlightened.xml:741
 msgid ""
@@ -1330,13 +1389,18 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Он долго прищуривается, разглядывая вашего глубоководного, прежде чем "
+"сказать: \"Это что, типа... костюм?\". Затем он смотрит на свою собственную "
+"мантию. \"Хотел бы я иметь что-то подобное, вообще-то. В гардеробе не "
+"хватает всего, кроме голубых халатов, а костюм рыбы мог бы пригодится\". Он "
+"моргает: \"О чем мы, э-э, говорили?\""
 
 #: src-en/data/events_enlightened.xml:743
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/text"
-msgstr ""
+msgstr "Вещички культистов."
 
 #: src-en/data/events_enlightened.xml:745
 msgid ""
@@ -1344,6 +1408,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/text"
 msgstr ""
+"\"Ах, конечно! Я обожаю всякие культистские вещи, не могу насмотреться на "
+"этот Культ Пустоты!\" Он смотрит мимо экрана в иилюминатор, и вы видите, как "
+"он слегка вздрагивает. \"А вот, допустим, гипотетически... кому-то и впрямь "
+"НАДОЕЛ этот Культ Пустоты. Как бы он, ну, знаете, мог бы из неё уйти?\""
 
 #: src-en/data/events_enlightened.xml:747
 msgid ""
@@ -1351,6 +1419,8 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/choice/text"
 msgstr ""
+"Я читал в \"оккультных писаниях\", что раздача незнакомцам бесплатных вещей "
+"помогает избежать Культа Пустоты."
 
 #: src-en/data/events_enlightened.xml:749
 msgid ""
@@ -1358,13 +1428,21 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Ну, это было бы полезно, если бы вокруг были незнакомцы...\" Он некоторое "
+"время почесывает голову, затем на его лице появляется удивленный взгляд: "
+"\"ПОСТОЙТЕ! ВЫ незнакомец!\" Он подходит ко второму валуну: \"Вот... "
+"Гортокк, пришли ему немного реликвий, ладно? У нас закончились вещи, которые "
+"мы обычно посылаем случайным незнакомцам\". Затем он снова обращается к вам: "
+"\"Спасибо, что вытащили нас отсюда. Я уж думал, что мы на секунду ПОТЕРЯЛИСЬ!"
+"\" Связь прервана, подарок передан... Вам лучше уйти, пока они не поняли, "
+"что их обманули. Если, конечно, они вообще поймут."
 
 #: src-en/data/events_enlightened.xml:759
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-кристаллин) Я дружу с Богом."
 
 #: src-en/data/events_enlightened.xml:761
 msgid ""
@@ -1372,13 +1450,19 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"Увидев вашего кристаллина, оба валуна мгновенно теряют сознание и с громким "
+"грохотом падают на пол. На мгновение вы не знаете, что делать, но потом один "
+"из них приходит в себя. Затем вы снова не знаете, что делать, так как он "
+"теряет сознание во второй раз. Этот цикл повторяется некоторое время, прежде "
+"чем вы решаете, что, вероятно, лучше просто отключить связь... Ваш "
+"кристаллин смотрит вам прямо в лицо, и со вздохом покидает комнату."
 
 #: src-en/data/events_enlightened.xml:765
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/text"
-msgstr ""
+msgstr "(Вортигон) \"Что, ПО-ТВОЕМУ, я здесь делаю?\""
 
 #: src-en/data/events_enlightened.xml:767
 msgid ""
@@ -1386,18 +1470,26 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/event/text"
 msgstr ""
+"\"В-Вортигон?! Здесь? Вообще-то, в-ваше пребывание в Культе Пустоты имеет "
+"бесконечное количество смысла, сэр! Мои глубочайшие извинения, сэр!\" Второй "
+"валун ворчит извинения, и они присылают кучу случайных вещей в качестве "
+"компенсации. Вортигон закатывает глаза."
 
 #: src-en/data/events_enlightened.xml:776
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Это место? Это твоя могила, приятель. В атаку!"
 
 #: src-en/data/events_enlightened.xml:778
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Валун несколько раз моргает, прежде чем осознать, что происходит. "
+"\"О-хо-хо, так вот оно КАК, да? ГОРТОКК! ПРИГОТОВЬ ОРУЖ...\" Они обрывают "
+"связь на полуслове. Должно быть, им не терпится вступить в бой... но все же "
+"не в такой степени, как вам."
 
 #: src-en/data/events_enlightened.xml:781
 msgid ""
@@ -1409,49 +1501,62 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Постойте, я узнаю этот корабль..."
 
 #: src-en/data/events_enlightened.xml:791
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Это корабль культа Вечного Жара! Они вызывают вас, и вы встречаетесь "
+"взглядом с парой культистов валунов. Один из них говорит: \"Приветствую вас, "
+"Федерация! Приятно встретить вас здесь... Вы случайно не знаете, где здесь "
+"что находится?\""
 
 #: src-en/data/events_enlightened.xml:793
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Вы находитесь в искусственной пустоте, населенной Просветленными."
 
 #: src-en/data/events_enlightened.xml:795
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Он почесывает голову: \"Кто теперь свет?\""
 
 #: src-en/data/events_enlightened.xml:797
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/text"
 msgstr ""
+"Это культ глубоководных, поклоняющихся существу, которое они называют Темным "
+"Богом."
 
 #: src-en/data/events_enlightened.xml:799
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Он останавливает вас на слове \"культ\": \"О! Видишь, я же говорил тебе!\" "
+"Он смотрит на другого валуна: "
+"\"Свободный богомол был прав, это Культ Пустоты!\" Другой валун просто "
+"хмыкает. Затем первый поворачивается к вам: "
+"\"Погодите, если это Культ Пустоты... что вы здесь делаете?\""
 
 #: src-en/data/events_enlightened.xml:801
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Э-э... Просто проходим мимо..."
 
 #: src-en/data/events_enlightened.xml:803
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Он прищурился: \"Пришли украсть наши оккультные тайны, да? Ну уж нет! Заводи "
+"свои собственные тайны и свою собственную пустоту!\""
 
 #: src-en/data/events_enlightened.xml:806
 msgid ""
@@ -1465,7 +1570,7 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-культист) Я дружу со многими культистами."
 
 #: src-en/data/events_enlightened.xml:814
 msgid ""
@@ -1473,20 +1578,28 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/event/text"
 msgstr ""
+"Его глаза расширились: "
+"\"БРАТ! О, теперь Я ЗНАЮ, что сплю! Гортокк, дай мне пощечину!\" Второй "
+"валун сильно бьет его, и он... вырубается. Или умирает, точно не скажешь. "
+"Как бы то ни было, Гортокк не слишком разговорчив, и он покидает комнату... "
+"Но не успеете вы оглянуться, как он уже на вашем корабле! Ваш культист "
+"валунов объясняет, что они с Гортокком давние знакомые и что ему, видимо, "
+"очень надоел тот другой валун. Неужели он умер? Как бы то ни было, Гортокк "
+"присоединился к вашей команде!"
 
 #: src-en/data/events_enlightened.xml:815
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"rock_cultist\"]/event/crewMember"
-msgstr ""
+msgstr "Гортокк"
 
 #: src-en/data/events_enlightened.xml:819
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-глубоководный культист) Я дружу со многими культистами."
 
 #: src-en/data/events_enlightened.xml:821
 msgid ""
@@ -1494,13 +1607,18 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Он долго прищуривается, разглядывая вашего глубоководного, прежде чем "
+"сказать: \"Это что, типа... костюм?\". Затем он смотрит на свою собственную "
+"мантию. \"Хотел бы я иметь что-то подобное, вообще-то. В гардеробе не "
+"хватает всего, кроме голубых халатов, а костюм рыбы мог бы пригодится\". Он "
+"моргает: \"О чем мы, э-э, говорили?\""
 
 #: src-en/data/events_enlightened.xml:823
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/text"
-msgstr ""
+msgstr "Вещички культистов."
 
 #: src-en/data/events_enlightened.xml:825
 msgid ""
@@ -1508,6 +1626,10 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/text"
 msgstr ""
+"\"Ах, конечно! Я обожаю всякие культистские вещи, не могу насмотреться на "
+"этот Культ Пустоты!\" Он смотрит мимо экрана в иилюминатор, и вы видите, как "
+"он слегка вздрагивает. \"А вот, допустим, гипотетически... кому-то и впрямь "
+"НАДОЕЛ этот Культ Пустоты. Как бы он, ну, знаете, мог бы из неё уйти?\""
 
 #: src-en/data/events_enlightened.xml:827
 msgid ""
@@ -1515,6 +1637,8 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/choice/text"
 msgstr ""
+"Я читал в оккультных писаниях, что раздача незнакомцам бесплатных вещей "
+"помогает избежать Культа Пустоты."
 
 #: src-en/data/events_enlightened.xml:829
 msgid ""
@@ -1522,13 +1646,21 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Ну, это было бы полезно, если бы вокруг были незнакомцы...\" Он некоторое "
+"время почесывает голову, затем на его лице появляется удивленный взгляд: "
+"\"ПОСТОЙТЕ! ВЫ незнакомец!\" Он подходит ко второму валуну: \"Вот... "
+"Гортокк, пришли ему немного реликвий, ладно? У нас закончились вещи, которые "
+"мы обычно посылаем случайным незнакомцам\". Затем он снова обращается к вам: "
+"\"Спасибо, что вытащили нас отсюда. Я уж думал, что мы на секунду ПОТЕРЯЛИСЬ!"
+"\" Связь прервана, подарок передан... Вам лучше уйти, пока они не поняли, "
+"что их обманули. Если, конечно, они вообще поймут."
 
 #: src-en/data/events_enlightened.xml:839
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-кристаллин) Я дружу с Богом."
 
 #: src-en/data/events_enlightened.xml:841
 msgid ""
@@ -1536,13 +1668,19 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"Увидев вашего кристаллина, оба валуна мгновенно теряют сознание и с громким "
+"грохотом падают на пол. На мгновение вы не знаете, что делать, но потом один "
+"из них приходит в себя. Затем вы снова не знаете, что делать, так как он "
+"теряет сознание во второй раз. Этот цикл повторяется некоторое время, прежде "
+"чем вы решаете, что лучше просто отключить связь... Ваш кристаллин смотрит "
+"вам в лицо и со вздохом, выходит из комнаты."
 
 #: src-en/data/events_enlightened.xml:845
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/text"
-msgstr ""
+msgstr "(Вортигон) \"Что, ПО-ТВОЕМУ, я здесь делаю?\""
 
 #: src-en/data/events_enlightened.xml:847
 msgid ""
@@ -1550,18 +1688,26 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/event/text"
 msgstr ""
+"\"В-Вортигон?! Здесь? Вообще-то, в-ваше пребывание в Культе Пустоты имеет "
+"бесконечное количество смысла, сэр! Мои глубочайшие извинения, сэр!\" Второй "
+"валун ворчит извинения, и они присылают кучу случайных вещей в качестве "
+"компенсации. Вортигон закатывает глаза."
 
 #: src-en/data/events_enlightened.xml:856
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Это место? Это твоя могила, приятель. В атаку!"
 
 #: src-en/data/events_enlightened.xml:858
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
+"Валун несколько раз моргает, прежде чем осознать, что происходит. "
+"\"О-хо-хо, так вот оно КАК, да? ГОРТОКК! ПРИГОТОВЬ ОРУЖ...\" Они обрывают "
+"связь на полуслове. Должно быть, им не терпится вступить в бой... но все же "
+"не в такой степени, как вам."
 
 #: src-en/data/events_enlightened.xml:861
 msgid ""
@@ -1578,6 +1724,9 @@ msgstr "Нет."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[2]/event/text"
 msgstr ""
+"\"Мне тоже не... особенно нравится видеть валунов\". Голос затихает. "
+"Вглядываясь в темноту, вы размышляете о вероятности того, что корабль "
+"валунов случайно врежется в вас..."
 
 #: src-en/data/events_enlightened.xml:875
 msgid ""
@@ -1613,6 +1762,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_DEEP_WIN\"]/text"
 msgstr ""
+"Вы летите к странному серому кораблю, но... похоже, от него мало что "
+"осталось. Сам корабль, кажется,... тает? Раскалывается? Один из осколков "
+"плывет к вам, и вы понимаете... он разумный! Вы посылаете члена экипажа за "
+"ним, и, как только он оказывается на борту, вы можете рассмотреть его "
+"поближе: в буквальном смысле это просто большой серый сгусток слизи. Однако "
+"он, похоже, благодарен за спасение и начинает кататься по кораблю. Похоже, у "
+"вас появился новый член экипажа!"
 
 #: src-en/data/events_enlightened.xml:912
 msgid ""
@@ -1638,6 +1794,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_DEEP_KNOWLEDGE_WIN\"]/text"
 msgstr ""
+"Вы летите к кораблю морфов, но... похоже, от него мало что осталось. "
+"Корабль, состоящий из отдельных морфов, разваливается на части... Один из "
+"морфов, похоже, единственный выживший, плывет к вашему кораблю, и вы "
+"отправляете за ним одного из членов экипажа. Оказавшись на борту, он, "
+"кажется, благодарен вам за гостеприимство и начинает кататься по полу, "
+"довольный. Похоже, у вас появился новый член экипажа!"
 
 #: src-en/data/events_enlightened.xml:936
 msgid ""
@@ -1663,6 +1825,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_GOO_WIN\"]/text"
 msgstr ""
+"Вы летите к кораблю Просветленных, но... кажется, большинство из них уже "
+"задохнулись. Один остается без сознания; вы поднимаете его на борт и делаете "
+"все возможное, чтобы реанимировать, и... через несколько минут он приходит в "
+"себя! Они выражают свою благодарность и, видя, что все, кого он знал, теперь "
+"мертвы, предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_enlightened.xml:960
 msgid ""
@@ -1688,41 +1855,64 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_GOO_KNOWLEDGE_WIN\"]/text"
 msgstr ""
+"Вы летите к кораблю Просветленных, но... кажется, большинство из них уже "
+"задохнулись. Один остается без сознания; вы поднимаете его на борт и делаете "
+"все возможное, чтобы реанимировать, и... через несколько минут он приходит в "
+"себя! Они выражают свою благодарность и, видя, что все, кого он знал, теперь "
+"мертвы, предлагает присоединиться к вашей команде."
 
 #: src-en/data/events_enlightened.xml:983
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/text"
 msgstr ""
+"Голос обращается к вам с некоторым замешательством: \"Здесь...\", - он "
+"делает паузу, - \"...два корабля сородичей, хотя... один из них... странный, "
+"мягко говоря. Хочешь... взглянуть?\""
 
 #: src-en/data/events_enlightened.xml:986
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/text"
-msgstr ""
+msgstr "Звучит интригующе, конечно."
 
 #: src-en/data/events_enlightened.xml:988
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/text"
 msgstr ""
+"Пустота отступает, и вы видите два корабля; один из них... серый истребитель "
+"Просветленных, без огней? Они просто как бы... летают вокруг, время от "
+"времени. Второй - тоже корабль Просветленных, и он вызывает вас, как только "
+"понимает, что вы их видите: "
+"\"Сначала эти... самозванцы, а теперь отступает тьма? Что... происходит?\""
 
 #: src-en/data/events_enlightened.xml:990
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Я хотел бы спросить вас о том же."
 
 #: src-en/data/events_enlightened.xml:992
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"В этот момент серый корабль присоединяется к разговору, и вы видите на "
+"экране группу серых безглазых глубоководных. Один из них говорит: "
+"\"Джип? Вуулуу, лоо?\" Другой Просветленный культист на мгновение теряет дар "
+"речи, но затем рычит и отдает команду зарядить оружие! Они собираются "
+"атаковать странный серый корабль."
 
 #: src-en/data/events_enlightened.xml:994
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Защитить серый корабль, атаковать Просветленных!"
 
 #: src-en/data/events_enlightened.xml:996
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы пытаетесь проскочить между двумя кораблями, но опаздываете: залп от "
+"корабля Просветленных поражает серый корабль и наносит ему катастрофические "
+"повреждения. Вы не знаете, выжил ли кто... Но вы должны попытаться! "
+"Просветленные, поняв вашу агрессию, делают все, чтобы сделать вас своей "
+"следующей целью."
 
 #: src-en/data/events_enlightened.xml:999
 msgid ""
@@ -1732,12 +1922,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1005
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Я хочу докопаться до сути, атаковать серый корабль!"
 
 #: src-en/data/events_enlightened.xml:1007
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Вы пытаетесь помочь Просветленным, но еще до начала битвы в них запускают "
+"какую-то странную массу серой жижи, которая мешает работать кислородной "
+"установке и оружию! Поскольку они выведены из строя, вам придется сражаться "
+"с серым кораблем в одиночку."
 
 #: src-en/data/events_enlightened.xml:1010
 msgid ""
@@ -1747,12 +1941,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1016
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Я не хочу иметь с этим ничего общего. Убираемся отсюда."
 
 #: src-en/data/events_enlightened.xml:1018
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Вы оставляете два корабля сражаться и улетаете в пустоту... Это как-то "
+"успокаивает."
 
 #: src-en/data/events_enlightened.xml:1020
 msgid ""
@@ -1767,22 +1963,31 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:1032
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/text"
-msgstr ""
+msgstr "Я знаю, кто эти негодяи, это морфы."
 
 #: src-en/data/events_enlightened.xml:1034
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/text"
 msgstr ""
+"В этот момент к разговору присоединяется корабль морфов; на экране вы видите "
+"группу морфов, превратившихся в глубоководных. Один из них говорит: "
+"\"Джип? Вуулуу, лоо?\" Другой культист Просветленных на мгновение теряет дар "
+"речи, но затем рычит и отдает команду зарядить оружие! Они намереваются "
+"атаковать корабль морфов."
 
 #: src-en/data/events_enlightened.xml:1036
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Защищать морфов, атаковать Просветленных!"
 
 #: src-en/data/events_enlightened.xml:1038
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[1]/event/text"
 msgstr ""
+"Вы пытаетесь проскочить между двумя кораблями, но опаздываете: залп корабля "
+"Просветленных поражает морфов и наносит им катастрофические повреждения. Вы "
+"не знаете, выжил ли кто... Но вы должны попытаться! Просветленные, поняв "
+"вашу агрессию, делают все, чтобы сделать вас своей следующей целью."
 
 #: src-en/data/events_enlightened.xml:1041
 msgid ""
@@ -1792,12 +1997,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1047
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Я действительно ненавижу этих негодяев, атаковать морфов!"
 
 #: src-en/data/events_enlightened.xml:1049
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[2]/event/text"
 msgstr ""
+"Вы пытаетесь помочь Просветленным, но еще до начала битвы в них запускают "
+"гигантский сгусток морфов, который мешает работать кислородной установке и "
+"оружию! Поскольку они выведены из строя, вам придется сражаться с серым "
+"кораблем в одиночку."
 
 #: src-en/data/events_enlightened.xml:1052
 msgid ""
@@ -1807,12 +2016,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1058
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Я не хочу иметь с этим ничего общего. Убираемся отсюда."
 
 #: src-en/data/events_enlightened.xml:1060
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[3]/event/text"
 msgstr ""
+"Вы оставляете два корабля сражаться и улетаете в пустоту... Это как-то "
+"успокаивает."
 
 #: src-en/data/events_enlightened.xml:1062
 msgid ""
@@ -1827,12 +2038,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:1076
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[2]/text"
-msgstr ""
+msgstr "Звучит слишком странно для меня."
 
 #: src-en/data/events_enlightened.xml:1078
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[2]/event/text"
 msgstr ""
+"\"Тогда, я полагаю... мы никогда не узнаем\". Голос замолкает, и вы "
+"остаетесь смотреть в темноту, пока ССД заряжается, и гадать, что могло бы "
+"произойти."
 
 #: src-en/data/events_enlightened.xml:1080
 msgid ""
@@ -1848,6 +2062,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP\"]/destroyed/text"
 msgstr ""
+"Вопреки всему вам удалось пробить броню Паладинов! Вы быстро собираете все, "
+"что можете."
 
 #: src-en/data/events_enlightened.xml:1096
 msgid ""
@@ -1858,6 +2074,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP\"]/deadCrew/text"
 msgstr ""
+"Вопреки всему, вы победили Паладинов! Вы быстро собираете все, что можете."
 
 #: src-en/data/events_enlightened.xml:1104
 msgid ""
@@ -1868,61 +2085,71 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/text"
 msgstr ""
+"Вы только что закончили мародерствовать, когда к вам обращается голос: "
+"\"Мои сородичи, некоторые из них... живы. Остался один... один корабль\". "
+"Затем он направляет вас к кораблю - небольшому судну, не приспособленному "
+"для боя. Вы связываетесь с ним, и вам отвечают: "
+"\"Ты... чужак, добыча... ты спас нас. Почему?\""
 
 #: src-en/data/events_enlightened.xml:1113
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Это моя работа."
 
 #: src-en/data/events_enlightened.xml:1115
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/text"
 msgstr ""
+"Он на мгновение задумывается над вашими словами. Затем отвечает: \"То, чем "
+"мы занимаемся... это инженерная работа. Мы считаем... что именно поэтому "
+"валуны не нашли нас. Мы считаем, что наши сородичи... безрезультатно стреляя "
+"в них, привели к тому, что их местонахождение было обнаружено; тьма... будь "
+"она проклята\". Он хочет сделать все возможное, чтобы вернуть вам их долг."
 
 #: src-en/data/events_enlightened.xml:1118
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Мой реактор не мешало бы немного доработать."
 
 #: src-en/data/events_enlightened.xml:1120
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и приступают к работе над вашим реактором."
 
 #: src-en/data/events_enlightened.xml:1125
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен экипаж."
 
 #: src-en/data/events_enlightened.xml:1127
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Один из них смотрит на вас и спрашивает: \"Кого именно вы ищете?\"."
 
 #: src-en/data/events_enlightened.xml:1129
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Мне нужен боец."
 
 #: src-en/data/events_enlightened.xml:1131
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют вам глубоководного."
 
 #: src-en/data/events_enlightened.xml:1136
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен помощник для остальных членов моего экипажа."
 
 #: src-en/data/events_enlightened.xml:1138
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют к вам Просветленного культиста."
 
 #: src-en/data/events_enlightened.xml:1143
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "(Счастливые праздники) Мне нужно больше... чего бы это ни было."
 
 #: src-en/data/events_enlightened.xml:1145
 msgid ""
@@ -1977,47 +2204,47 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:1179
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Мой реактор не мешало бы немного доработать."
 
 #: src-en/data/events_enlightened.xml:1181
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и приступают к работе над вашим реактором."
 
 #: src-en/data/events_enlightened.xml:1187
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен экипаж."
 
 #: src-en/data/events_enlightened.xml:1189
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Один из них смотрит на вас и спрашивает: \"Кого именно вы ищете?\"."
 
 #: src-en/data/events_enlightened.xml:1192
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Мне нужен боец."
 
 #: src-en/data/events_enlightened.xml:1194
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют вам глубоководного."
 
 #: src-en/data/events_enlightened.xml:1199
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен помощник для остальных членов моего экипажа."
 
 #: src-en/data/events_enlightened.xml:1201
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют к вам Просветленного культиста."
 
 #: src-en/data/events_enlightened.xml:1206
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "(Счастливые праздники) Мне нужно больше... чего бы это ни было."
 
 #: src-en/data/events_enlightened.xml:1208
 msgid ""
@@ -2082,47 +2309,47 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:1247
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Мой реактор не мешало бы немного доработать."
 
 #: src-en/data/events_enlightened.xml:1249
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и приступают к работе над вашим реактором."
 
 #: src-en/data/events_enlightened.xml:1254
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен экипаж."
 
 #: src-en/data/events_enlightened.xml:1256
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Один из них смотрит на вас и спрашивает: \"Кого именно вы ищете?\"."
 
 #: src-en/data/events_enlightened.xml:1258
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Мне нужен боец."
 
 #: src-en/data/events_enlightened.xml:1260
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют вам глубоководного."
 
 #: src-en/data/events_enlightened.xml:1265
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Мне нужен помощник для остальных членов моего экипажа."
 
 #: src-en/data/events_enlightened.xml:1267
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "Инженеры кивают и отправляют к вам Просветленного культиста."
 
 #: src-en/data/events_enlightened.xml:1272
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "(Счастливые праздники) Мне нужно больше... чего бы это ни было."
 
 #: src-en/data/events_enlightened.xml:1274
 msgid ""
