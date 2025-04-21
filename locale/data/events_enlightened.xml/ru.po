@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-21 12:03+0000\n"
+"PO-Revision-Date: 2025-04-21 12:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -2356,12 +2356,12 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:1242
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/text"
-msgstr "Смириться, выбрать что-то другое."
+msgstr "Смириться, и выбрать что-то другое."
 
 #: src-en/data/events_enlightened.xml:1244
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/text"
-msgstr ""
+msgstr "Вы заметили, как один из них с облегчением выдохнул."
 
 #: src-en/data/events_enlightened.xml:1247
 msgid ""
@@ -2477,37 +2477,57 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:1304
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "Они не понимают, да? Взорвем их."
 
 #: src-en/data/events_enlightened.xml:1306
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[2]/event/text"
 msgstr ""
+"\"Подожди... пож...\" Связь прервалась, когда их корабль накренился, а затем "
+"разломился пополам. Тишина становится оглушительной, пока вы грабите то, что "
+"можете, но там не так много... Какая пустая трата времени."
 
 #: src-en/data/events_enlightened.xml:1318
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/text"
 msgstr ""
+"Вы видите оранжевые вспышки, на мгновение пронзающие тьму, между которыми "
+"проходит несколько секунд. Это продолжается несколько мгновений, прежде чем "
+"голос обращается к вам, с трудом выговаривая слова: \"Сородичи здесь... "
+"их... убивают... За ними охотится корабль валунов... неизвестной мне "
+"конструкции. Кажется... он невосприимчив к огню оружия. Я... я знаю, что "
+"твое выживание является приоритетом, Федерация, но... мои сородичи...\" Он "
+"не в силах договорить."
 
 #: src-en/data/events_enlightened.xml:1321
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/text"
-msgstr ""
+msgstr "Освети путь и предоставь корабль мне."
 
 #: src-en/data/events_enlightened.xml:1323
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/text"
 msgstr ""
+"С надеждой в голосе он произносит: \"Спасибо... спасибо тебе, правда\". С "
+"чувством неотложной необходимости пустота быстро исчезает; перед вами "
+"расстилается полоса бойни, справа и слева - разбитые корабли Просветленных, "
+"и вы понимаете, что оказались лицом к лицу с Паладинами валунов."
 
 #: src-en/data/events_enlightened.xml:1326
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Сделать глубокий вдох и приступить к делу."
 
 #: src-en/data/events_enlightened.xml:1328
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Вы продвигаетесь вперед, и корабль паладинов вызывает вас: \"Федерация. Я не "
+"знаю, как вы заставили исчезнуть эту мерзкую тьму, но это не имеет значения. "
+"Старейшины требуют, чтобы неверующие этой пустоты были очищены; вы стоите на "
+"нашем пути. Смиритесь с тем, что наше возмездие будет быстрым\". Они "
+"прервали связь и приготовились к атаке... Станете ли вы просто еще одним "
+"шагом на их священной тропе войны или тем, кто положит конец этому безумию?"
 
 #: src-en/data/events_enlightened.xml:1330
 msgid ""
@@ -2517,12 +2537,19 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1336
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Если подумать..."
 
 #: src-en/data/events_enlightened.xml:1338
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Прежде чем вы успеваете предпринять какие-либо действия, с корабля паладинов "
+"раздается вызов: \"Федерация. Я не знаю, как вы заставили исчезнуть эту "
+"мерзкую тьму, но это не имеет значения. Старейшины требуют, чтобы неверующие "
+"этой пустоты были очищены; вы стоите на нашем пути. Смиритесь с тем, что "
+"наше возмездие будет быстрым\". Они прервали связь и приготовились к "
+"атаке... Станете ли вы просто еще одним шагом на их священной тропе войны "
+"или тем, кто положит конец этому безумию?"
 
 #: src-en/data/events_enlightened.xml:1340
 msgid ""
@@ -2532,7 +2559,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:1348
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[2]/text"
-msgstr ""
+msgstr "Я не могу этого сделать, мне очень жаль."
 
 #: src-en/data/events_enlightened.xml:1350
 msgid ""
