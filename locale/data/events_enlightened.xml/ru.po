@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-21 12:41+0000\n"
+"PO-Revision-Date: 2025-04-21 12:46+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -2818,51 +2818,79 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG_GUN\"]/text"
 msgstr ""
+"Вы стреляете в сейф и видите, как сама реальность искривляется: сейф исчез, "
+"телепортировавшись прочь. У вас осталось больше вопросов, чем ответов... "
+"впрочем, их не так уж и много, учитывая, что ответов у вас нет."
 
 #: src-en/data/events_enlightened.xml:1493
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[1]/text"
 msgstr ""
+"Ваш член экипажа нажимает кнопку, и вы наблюдаете, как сама реальность "
+"искривляется: сейф исчез, телепортировавшись, а на его месте появилась "
+"небольшая кучка лома... Вы не совсем понимаете, что произошло, но лом есть "
+"лом. К тому же с вашим членом экипажа все в порядке!"
 
 #: src-en/data/events_enlightened.xml:1497
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[2]/text"
 msgstr ""
+"Ваш член экипажа нажимает кнопку, и вы наблюдаете, как сама реальность "
+"искривляется: сейф исчез, телепортировавшись, а на его месте появилась "
+"несколько топливных элементов... Вы не совсем понимаете, что произошло, но "
+"топливо есть топливо. К тому же с вашим членом экипажа все в порядке!"
 
 #: src-en/data/events_enlightened.xml:1501
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[3]/text"
 msgstr ""
+"Ваш член экипажа нажимает кнопку, и вы наблюдаете, как сама реальность "
+"искривляется: сейф исчез, телепортировавшись, а на его месте появилось "
+"несколько боеголовок... Вы не совсем понимаете, что произошло, но боеголовки "
+"есть боеголовки. К тому же с вашим членом экипажа все в порядке!"
 
 #: src-en/data/events_enlightened.xml:1505
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[4]/text"
 msgstr ""
+"Ваш член экипажа нажимает кнопку, и вы наблюдаете, как сама реальность "
+"искривляется: сейф исчез, телепортировавшись, а на его месте появилось "
+"несколько дрон-комплектов... Вы не совсем понимаете, что произошло, но дрон-"
+"комплекты есть дрон-комплекты. К тому же с вашим членом экипажа все в "
+"порядке!"
 
 #: src-en/data/events_enlightened.xml:1511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/text"
 msgstr ""
+"Голос кажется растерянным, когда вы приближаетесь к маяку: "
+"\"Что? Как... я не могу...\" Он продолжает бормотать про себя."
 
 #: src-en/data/events_enlightened.xml:1514
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/text"
-msgstr ""
+msgstr "Спросить его, в чем дело."
 
 #: src-en/data/events_enlightened.xml:1516
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/text"
 msgstr ""
+"\"Ну, здесь... что-то вроде... хранилища. Меня беспокоит то, что... я не "
+"могу в него заглянуть\". Пустота отступает, и, конечно же, здесь в "
+"пространстве дрейфует гигантский сейф... Что делать?"
 
 #: src-en/data/events_enlightened.xml:1518
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr ""
+msgstr "Послать кого-нибудь открыть его."
 
 #: src-en/data/events_enlightened.xml:1520
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/text"
 msgstr ""
+"Ваш член экипажа сообщает, что к сейфу прикреплена кнопочная панель, на "
+"которой нужно набрать комбинацию из четырех цифр. Какую цифру он должен "
+"нажать?"
 
 #: src-en/data/events_enlightened.xml:1522
 msgid ""
