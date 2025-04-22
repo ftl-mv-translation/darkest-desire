@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-22 11:08+0000\n"
+"PO-Revision-Date: 2025-04-22 11:16+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -6535,52 +6535,72 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:3768
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Почему вы спрашиваете...?"
 
 #: src-en/data/events_enlightened.xml:3770
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Создается ощущение, что он пытается закатить глаза: \"Конечшно, они нужны "
+"мне для науки, а чшто еще? У вас есть чшто-нибудь или нет? Иначше вы просто "
+"тратите мое время\". Этот нетерпеливый..."
 
 #: src-en/data/events_enlightened.xml:3772
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "(Член экипажа-глубоководный) Конечно, да."
 
 #: src-en/data/events_enlightened.xml:3776
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/text"
-msgstr ""
+msgstr "(Оружие тьмы) Конечно, да."
 
 #: src-en/data/events_enlightened.xml:3778
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/text"
 msgstr ""
+"Кажется, что он в восторге от этого зрелища. \"Странная техника, с еще более "
+"странным происхождением, если верить глубоководным. Они утверждают, чшто это "
+"подарки от их \"Темного\", и я не удивлюсь, если это правда. Похоже, они "
+"используют газ, похожий, если не идентичшный, на газ этого региона; кроме "
+"того, этот газ, похоже, обладает собственным разумом...\" Он делает паузу, "
+"возможно, понимая, что слишком заговорился, а затем прочищает горло, прежде "
+"чем продолжить: \"Позвольте мне изучшить все, чшто я могу; я буду краток\"."
 
 #: src-en/data/events_enlightened.xml:3780
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/text"
-msgstr ""
+msgstr "Подождать пока ракушка закончит работу."
 
 #: src-en/data/events_enlightened.xml:3782
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/text"
 msgstr ""
+"По-видимому, ему удалось провести все быстро, поскольку спустя несколько "
+"мгновений он вернулся: \"Моя гипотеза, похоже, верна: газ, содержащийся в "
+"этом оружии, и газ, составляющий этот регион, действительно одно и то же. Я "
+"смог сверить свои выводы с результатами предыдущих тестов с другим оружием, "
+"которое мне удалось заполучшить в свои руки. Теперь, когда я получшил от "
+"него необходимую информацию, оно может стать вашим; я полагаю, чшто оно "
+"может оказаться более... полезным для такого, как вы. Счшитайте это вашей "
+"компенсацией\". Ракушка возвращает вам оружие, а вместе с ним и другое!"
 
 #: src-en/data/events_enlightened.xml:3785
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Спасибо науке!"
 
 #: src-en/data/events_enlightened.xml:3787
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Когда вы рассматриваете необычное оружие, голос обращается к вам: "
+"\"Это... оружие от Ложного Бога... почему ты хочешь его?\""
 
 #: src-en/data/events_enlightened.xml:3789
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Оно заставляют меня чувствовать себя сильным."
 
 #: src-en/data/events_enlightened.xml:3791
 msgid ""
@@ -6655,42 +6675,59 @@ msgstr ""
 #: src-en/data/events_enlightened.xml:3841
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "(Член экипажа-глубоководный) Конечно, да."
 
 #: src-en/data/events_enlightened.xml:3845
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/text"
-msgstr ""
+msgstr "(Оружие тьмы) Конечно, да."
 
 #: src-en/data/events_enlightened.xml:3847
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/text"
 msgstr ""
+"Кажется, что он в восторге от этого зрелища. \"Странная техника, с еще более "
+"странным происхождением, если верить глубоководным. Они утверждают, чшто это "
+"подарки от их \"Темного\", и я не удивлюсь, если это правда. Похоже, они "
+"используют газ, похожий, если не идентичшный, на газ этого региона; кроме "
+"того, этот газ, похоже, обладает собственным разумом...\" Он делает паузу, "
+"возможно, понимая, что слишком заговорился, а затем прочищает горло, прежде "
+"чем продолжить: \"Позвольте мне изучшить все, чшто я могу; я буду краток\"."
 
 #: src-en/data/events_enlightened.xml:3849
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/text"
-msgstr ""
+msgstr "Подождать пока ракушка закончит работу."
 
 #: src-en/data/events_enlightened.xml:3851
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/text"
 msgstr ""
+"По-видимому, ему удалось провести все быстро, поскольку спустя несколько "
+"мгновений он вернулся: \"Моя гипотеза, похоже, верна: газ, содержащийся в "
+"этом оружии, и газ, составляющий этот регион, действительно одно и то же. Я "
+"смог сверить свои выводы с результатами предыдущих тестов с другим оружием, "
+"которое мне удалось заполучшить в свои руки. Теперь, когда я получшил от "
+"него необходимую информацию, оно может стать вашим; я полагаю, чшто оно "
+"может оказаться более... полезным для такого, как вы. Счшитайте это вашей "
+"компенсацией\". Ракушка возвращает вам оружие, а вместе с ним и другое!"
 
 #: src-en/data/events_enlightened.xml:3854
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Спасибо науке!"
 
 #: src-en/data/events_enlightened.xml:3856
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Когда вы рассматриваете необычное оружие, голос обращается к вам: "
+"\"Это... оружие от Ложного Бога... почему ты хочешь его?\""
 
 #: src-en/data/events_enlightened.xml:3858
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_SHELL_RESEARCH\"]/choice[1]/event/choice/event/choice[5]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Оно заставляют меня чувствовать себя сильным."
 
 #: src-en/data/events_enlightened.xml:3860
 msgid ""
