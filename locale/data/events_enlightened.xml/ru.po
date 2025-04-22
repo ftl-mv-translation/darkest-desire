@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-22 11:32+0000\n"
+"PO-Revision-Date: 2025-04-22 15:41+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -6897,7 +6897,7 @@ msgstr "Струсить."
 #: src-en/data/events_enlightened.xml:3957
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_PUNISHMENT\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "...пока, в конце концов..."
 
 #: src-en/data/events_enlightened.xml:3960
 msgid ""
@@ -6907,155 +6907,180 @@ msgstr "Струсить."
 #: src-en/data/events_enlightened.xml:3962
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_PUNISHMENT\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "...буря стихает. Внезапно и необъяснимо все стихает."
 
 #: src-en/data/events_enlightened.xml:3972
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/text"
 msgstr ""
+"Вам кажется, что сама реальность противостоит вам, и по мере того, как вы "
+"преодолеваете тьму, слышны бесконечные удары по корпусу корабля. Скреб, "
+"царапины, треск... Неужели это звуки отчаяния? Неужели у этой забытой бездны "
+"нет стыда? С последним боевым кличем ты бросаешься навстречу тьме… и все "
+"замирает."
 
 #: src-en/data/events_enlightened.xml:3974
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Мы... мы сделали это? Мы победили?"
 
 #: src-en/data/events_enlightened.xml:3976
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Ответа нет, и все же... вы чувствуете себя благословенным. Вы наблюдаете, "
+"как ваш корпус восстанавливается на ваших глазах... Что именно вы только что "
+"пережили?"
 
 #: src-en/data/events_enlightened.xml:3981
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
-msgstr ""
+msgstr "Мы... мы сделали это? Мы победили?"
 
 #: src-en/data/events_enlightened.xml:3983
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
 msgstr ""
+"Ответа не слышно. И все же вы наблюдаете, как на ваших глазах корпус "
+"восстанавливается... Что именно вы только что пережили?"
 
 #: src-en/data/events_enlightened.xml:3988
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/text"
-msgstr ""
+msgstr "Мы... мы сделали это? Мы победили?"
 
 #: src-en/data/events_enlightened.xml:3990
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/text"
-msgstr ""
+msgstr "Ответа нет, и вы остаетесь наедине с тишиной."
 
 #: src-en/data/events_enlightened.xml:3994
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
-msgstr ""
+msgstr "Мы... мы сделали это? Мы победили?"
 
 #: src-en/data/events_enlightened.xml:3996
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT_RETRIBUTION\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
+"Тишина оглушительная. Даже тревожная, поскольку несколько только мгновений "
+"назад тьма еще терзала ваш корпус! Урон кажется минимальным, но... вас "
+"беспокоит, что тьма способна на проявление трусости."
 
 #: src-en/data/events_enlightened.xml:4003
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/text"
-msgstr ""
+msgstr "Вы у сигнала бедствия, но... голос молчит."
 
 #: src-en/data/events_enlightened.xml:4006
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/text"
-msgstr ""
+msgstr "Это была ложная тревога?"
 
 #: src-en/data/events_enlightened.xml:4008
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/text"
-msgstr ""
+msgstr "Ах, до вас наконец-то дошло. Это вы попали в беду."
 
 #: src-en/data/events_enlightened.xml:4013
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Утони..."
 
 #: src-en/data/events_enlightened.xml:4015
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "Вопрос в том..."
 
 #: src-en/data/events_enlightened.xml:4018
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "...в..."
 
 #: src-en/data/events_enlightened.xml:4020
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "...кто придет, чтобы спасти вас?"
 
 #: src-en/data/events_enlightened.xml:4023
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "..."
 
 #: src-en/data/events_enlightened.xml:4025
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вас обрывает скрипящий звук... звук металла о металл? Или, скорее, рвущегося "
+"металла... вы не уверены. Вы собираетесь с силами, когда голос вдалеке, "
+"обращается к вам: \"Чужак! Чужак, послушай... меня! Ложный Бог разрывает "
+"твою обшивку! Тьма, ты не должен...\" Если голос и продолжает говорить, вы "
+"не можете его услышать... эта головная боль..."
 
 #: src-en/data/events_enlightened.xml:4029
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Мою... обшивку?"
 
 #: src-en/data/events_enlightened.xml:4031
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы осознаете, где находитесь и что происходит. Что-то прорывается сквозь "
+"обшивку; вы не знаете, что именно, но голос подсказывает, что это сама тьма. "
+"Если это так... есть ли у вас шансы выбраться из пустоты?"
 
 #: src-en/data/events_enlightened.xml:4033
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "(Продв. Оружие) Вырваться из этой проклятой тьмы, и не сдаваться!"
 
 #: src-en/data/events_enlightened.xml:4037
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(Продв. Двигатели) Чтобы спастись от неизбежного... нужно постараться!"
 
 #: src-en/data/events_enlightened.xml:4041
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "(Продв. Щиты) Мы выстоим; барьер против бури..."
 
 #: src-en/data/events_enlightened.xml:4045
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"PALADIN_ARMOR_PLAYER\"]/text"
-msgstr ""
+msgstr "(Броня Паладина) Ха, я бы хотел посмотреть на это!"
 
 #: src-en/data/events_enlightened.xml:4049
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/text"
-msgstr ""
+msgstr "(Оружие тьмы) Я не боюсь тьмы, ибо я ей ПОВЕЛЕВАЮ! Повинуйся мне!"
 
 #: src-en/data/events_enlightened.xml:4053
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"DEEPONE_LIGHTS\"]/text"
 msgstr ""
+"(Свет глубоководных) Когда наступает рассвет, опускаются сумерки; стать тем, "
+"кого боятся тени."
 
 #: src-en/data/events_enlightened.xml:4057
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"DREAD_LIGHTS\"]/text"
 msgstr ""
+"(Страшные огни) Когда наступает рассвет, опускаются сумерки; стать тем, кого "
+"боятся тени."
 
 #: src-en/data/events_enlightened.xml:4061
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Избранный) \"РАЗРЕШИ НАМ... ПРОЙТИ, О ТЕМНЫЙ\"."
 
 #: src-en/data/events_enlightened.xml:4065
 msgid ""
