@@ -867,6 +867,34 @@
 	<time>1.33</time>
 </anim>
 
+<animSheet name="ddroom_darktemplar_dawnblessing_effect" w="280" h="35" fw="35" fh="35">effects/ddroom_darktemplar_dawnblessing_effect.png</animSheet>
+<anim name="ddroom_darktemplar_dawnblessing_effect">
+	<sheet>ddroom_darktemplar_dawnblessing_effect</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>0.66</time>
+</anim>
+
+<animSheet name="ddroom_darktemplar_abyssblessing_effect" w="280" h="35" fw="35" fh="35">effects/ddroom_darktemplar_abyssblessing_effect.png</animSheet>
+<anim name="ddroom_darktemplar_abyssblessing_effect">
+	<sheet>ddroom_darktemplar_abyssblessing_effect</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>0.66</time>
+</anim>
+
+<animSheet name="ddroom_darktemplar_starsblessing_effect" w="280" h="35" fw="35" fh="35">effects/ddroom_darktemplar_starsblessing_effect.png</animSheet>
+<anim name="ddroom_darktemplar_starsblessing_effect">
+	<sheet>ddroom_darktemplar_starsblessing_effect</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>0.66</time>
+</anim>
+
+<animSheet name="ddroom_darktemplar_mireblessing_effect" w="280" h="35" fw="35" fh="35">effects/ddroom_darktemplar_mireblessing_effect.png</animSheet>
+<anim name="ddroom_darktemplar_mireblessing_effect">
+	<sheet>ddroom_darktemplar_mireblessing_effect</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>0.66</time>
+</anim>
+
 <animSheet name="ddshrouded_in_darkness_tileeffect" w="140" h="35" fw="35" fh="35">effects/ddshrouded_in_darkness_tileeffect.png</animSheet>
 <anim name="ddshrouded_in_darkness_tileeffect">
 	<sheet>ddshrouded_in_darkness_tileeffect</sheet>
@@ -2885,6 +2913,34 @@
 	<time>1.0</time>
 </anim>
 
+<animSheet name="ddenlightened_darktemplar_dawn_buff" w="352" h="32" fw="32" fh="32">people/ddenlightened_darktemplar_dawn_buff.png</animSheet>
+<anim name="ddenlightened_darktemplar_dawn_buff">
+	<sheet>ddenlightened_darktemplar_dawn_buff</sheet>
+	<desc length="11" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_abyss_buff" w="352" h="32" fw="32" fh="32">people/ddenlightened_darktemplar_abyss_buff.png</animSheet>
+<anim name="ddenlightened_darktemplar_abyss_buff">
+	<sheet>ddenlightened_darktemplar_abyss_buff</sheet>
+	<desc length="11" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_stars_buff" w="352" h="32" fw="32" fh="32">people/ddenlightened_darktemplar_stars_buff.png</animSheet>
+<anim name="ddenlightened_darktemplar_stars_buff">
+	<sheet>ddenlightened_darktemplar_stars_buff</sheet>
+	<desc length="11" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_mire_buff" w="352" h="32" fw="32" fh="32">people/ddenlightened_darktemplar_mire_buff.png</animSheet>
+<anim name="ddenlightened_darktemplar_mire_buff">
+	<sheet>ddenlightened_darktemplar_mire_buff</sheet>
+	<desc length="11" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+
 <animSheet name="ddnightmare_regeneration" w="352" h="32" fw="32" fh="32">people/ddnightmare_regeneration.png</animSheet>
 <anim name="ddnightmare_regeneration">
 	<sheet>ddnightmare_regeneration</sheet>
@@ -2964,6 +3020,7 @@
 	<desc length="1" x="0" y="0"/>
 	<time>1</time>
 </anim>
+
 <animSheet name="disparity_liberator" w="280" h="210" fw="35" fh="35">people/disparity_liberator_base.png</animSheet>
 <animSheet name="disparity_liberator_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
 <anim name="disparity_liberator_death_right">
@@ -3106,6 +3163,955 @@
 </anim>
 <anim name="ddseraph_arbiter_portrait">
 	<sheet>ddseraph_arbiter</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierzero" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierzero_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierzero_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierzero_death_right">
+	<sheet>ddenlightened_darktemplar_tierzero_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_death_left">
+	<sheet>ddenlightened_darktemplar_tierzero_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_walk_down">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_walk_right">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_walk_up">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_walk_left">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_power_down">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_power_up">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_fly">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierzero_portrait">
+	<sheet>ddenlightened_darktemplar_tierzero</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierone_mire" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierone_mire_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierone_mire_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierone_mire_death_right">
+	<sheet>ddenlightened_darktemplar_tierone_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_death_left">
+	<sheet>ddenlightened_darktemplar_tierone_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_walk_down">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_walk_right">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_walk_up">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_walk_left">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_power_down">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_power_up">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_fly">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_mire_portrait">
+	<sheet>ddenlightened_darktemplar_tierone_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tiertwo_mire" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tiertwo_mire_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tiertwo_mire_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_death_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_death_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_walk_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_walk_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_walk_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_walk_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_shoot_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_shoot_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_shoot_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_shoot_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_power_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_power_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_fly">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_mire_portrait">
+	<sheet>ddenlightened_darktemplar_tiertwo_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierthree_mire" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierthree_mire_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierthree_mire_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierthree_mire_death_right">
+	<sheet>ddenlightened_darktemplar_tierthree_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_death_left">
+	<sheet>ddenlightened_darktemplar_tierthree_mire_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_walk_down">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_walk_right">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_walk_up">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_walk_left">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_power_down">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_power_up">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_fly">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_mire_portrait">
+	<sheet>ddenlightened_darktemplar_tierthree_mire</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierone_stars" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierone_stars_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierone_stars_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierone_stars_death_right">
+	<sheet>ddenlightened_darktemplar_tierone_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_death_left">
+	<sheet>ddenlightened_darktemplar_tierone_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_walk_down">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_walk_right">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_walk_up">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_walk_left">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_power_down">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_power_up">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_fly">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_stars_portrait">
+	<sheet>ddenlightened_darktemplar_tierone_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tiertwo_stars" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tiertwo_stars_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tiertwo_stars_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_death_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_death_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_walk_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_walk_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_walk_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_walk_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_shoot_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_shoot_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_shoot_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_shoot_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_power_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_power_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_fly">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_stars_portrait">
+	<sheet>ddenlightened_darktemplar_tiertwo_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierthree_stars" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierthree_stars_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierthree_stars_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierthree_stars_death_right">
+	<sheet>ddenlightened_darktemplar_tierthree_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_death_left">
+	<sheet>ddenlightened_darktemplar_tierthree_stars_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_walk_down">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_walk_right">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_walk_up">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_walk_left">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_power_down">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_power_up">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_fly">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_stars_portrait">
+	<sheet>ddenlightened_darktemplar_tierthree_stars</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierone_abyss" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierone_abyss_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierone_abyss_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierone_abyss_death_right">
+	<sheet>ddenlightened_darktemplar_tierone_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_death_left">
+	<sheet>ddenlightened_darktemplar_tierone_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_walk_down">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_walk_right">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_walk_up">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_walk_left">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_power_down">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_power_up">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_fly">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_abyss_portrait">
+	<sheet>ddenlightened_darktemplar_tierone_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tiertwo_abyss" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tiertwo_abyss_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tiertwo_abyss_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_death_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_death_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_walk_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_walk_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_walk_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_walk_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_shoot_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_shoot_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_shoot_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_shoot_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_power_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_power_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_fly">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_abyss_portrait">
+	<sheet>ddenlightened_darktemplar_tiertwo_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierthree_abyss" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierthree_abyss_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierthree_abyss_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_death_right">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_death_left">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_walk_down">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_walk_right">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_walk_up">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_walk_left">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_power_down">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_power_up">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_fly">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_abyss_portrait">
+	<sheet>ddenlightened_darktemplar_tierthree_abyss</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierone_dawn" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierone_dawn_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierone_dawn_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierone_dawn_death_right">
+	<sheet>ddenlightened_darktemplar_tierone_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_death_left">
+	<sheet>ddenlightened_darktemplar_tierone_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_walk_down">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_walk_right">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_walk_up">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_walk_left">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_power_down">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_power_up">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_fly">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierone_dawn_portrait">
+	<sheet>ddenlightened_darktemplar_tierone_dawn</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tiertwo_dawn" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tiertwo_dawn_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tiertwo_dawn_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_death_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_death_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_walk_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_walk_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_walk_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_walk_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_shoot_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_shoot_right">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_shoot_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_shoot_left">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_power_down">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_power_up">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_fly">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tiertwo_dawn_portrait">
+	<sheet>ddenlightened_darktemplar_tiertwo_dawn</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddenlightened_darktemplar_tierthree_dawn" w="280" h="210" fw="35" fh="35">people/ddenlightened_darktemplar_tierthree_dawn_base.png</animSheet>
+<animSheet name="ddenlightened_darktemplar_tierthree_dawn_death" w="576" h="64" fw="64" fh="64">effects/explosion_darkgod.png</animSheet>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_death_right">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_death_left">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn_death</sheet>
+	<desc length="10" x="0" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_walk_down">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_walk_right">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_walk_up">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_walk_left">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_shoot_down">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="3" x="0" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_shoot_right">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="3" x="3" y="3"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_shoot_up">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="3" x="2" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_shoot_left">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="3" x="5" y="0"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_power_down">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="7" x="0" y="2"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_power_up">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="7" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_fly">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+<anim name="ddenlightened_darktemplar_tierthree_dawn_portrait">
+	<sheet>ddenlightened_darktemplar_tierthree_dawn</sheet>
 	<desc length="1" x="0" y="0"/>
 	<time>1</time>
 </anim>
@@ -12260,6 +13266,128 @@
 </anim>
 <anim name="dddark_obelisk_portrait">
 	<sheet>dddark_obelisk</sheet>
+	<desc length="1" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<animSheet name="ddilldrythk_caretaker" w="315" h="455" fw="35" fh="35">people/ddilldrythk_caretaker_base.png</animSheet>
+<anim name="ddilldrythk_caretaker_clone">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="6" x="0" y="2"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_death_right">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="5" x="3" y="0"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_death_left">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="5" x="3" y="0"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_walk_down">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="0" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_walk_right">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="4" y="12"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_walk_up">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="0" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_walk_left">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="4" y="11"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_shoot_down">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="3" x="0" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_shoot_right">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="3" x="3" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_shoot_up">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="3" x="6" y="10"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_shoot_left">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="3" x="0" y="1"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_fire_down">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="9" x="0" y="9"/>
+	<time>1.5</time>
+</anim>
+<anim name="ddilldrythk_caretaker_fire_right">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="9" x="0" y="9"/>
+	<time>1.5</time>
+</anim>
+<anim name="ddilldrythk_caretaker_fire_up">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="9" x="0" y="9"/>
+	<time>1.5</time>
+</anim>
+<anim name="ddilldrythk_caretaker_fire_left">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="9" x="0" y="9"/>
+	<time>1.5</time>
+</anim>
+<anim name="ddilldrythk_caretaker_repair">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="0" y="8"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_punch_up">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="6" x="0" y="7"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_punch_down">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="6" x="0" y="6"/>
+	<time>1.0</time>
+</anim>
+<anim name="ddilldrythk_caretaker_teleport">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="9" x="0" y="3"/>
+	<time>0.5</time>
+</anim>
+<anim name="ddilldrythk_caretaker_type_right">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="0" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_type_left">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="4" y="5"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_type_up">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="0" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_type_down">
+	<sheet>ddilldrythk_caretaker</sheet>
+	<desc length="4" x="4" y="4"/>
+	<time>0.75</time>
+</anim>
+<anim name="ddilldrythk_caretaker_portrait">
+	<sheet>ddilldrythk_caretaker</sheet>
 	<desc length="1" x="0" y="0"/>
 	<time>1</time>
 </anim>
