@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 11:21+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-04-24 12:02+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -1463,20 +1463,18 @@ msgid ""
 msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:926
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
-msgstr "(Член экипажа-Просветленный) Провести ритуал проверки."
+msgstr "(Член экипажа-Просветленный) Провести ритуал Просветленного."
 
 #: src-en/data/events_special_lightspeed.xml.append:928
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, написанном сверкающим желтым шрифтом. В нем "
-"описывается процедура, как доказать Темному Богу свою силу и стать одним из "
-"его Избранных."
+"описывается процедура, как проявить себя перед Темным Богом и получить его "
+"дары."
 
 #: src-en/data/events_special_lightspeed.xml.append:930
 msgid ""
@@ -1498,17 +1496,19 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:940
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал благословенных даров."
 
 #: src-en/data/events_special_lightspeed.xml.append:942
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
 msgstr ""
+"Когда жертва принесена, а ваше желание известно, вы чувствуете, как в груди "
+"возникает тепло и перерастает в бушующее пламя..."
 
 #: src-en/data/events_special_lightspeed.xml.append:944
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Сосредоточиться на этом тепле."
 
 #: src-en/data/events_special_lightspeed.xml.append:952
 msgid ""
@@ -1542,19 +1542,17 @@ msgid ""
 msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:968
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
-msgstr "(Статуэтка Илл’дритк) Провести ритуал Илл'дритк."
+msgstr "(Член экипажа-Илл’дритк) Провести ритуал Илл'дритк."
 
 #: src-en/data/events_special_lightspeed.xml.append:970
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, написанном нечетким коричневым шрифтом. В нем "
-"описаны процедуры по увеличению силы и численности вашего экипажа статуэткой "
+"описаны процедуры по увеличению силы и численности вашего экипажа "
 "Илл'дритков."
 
 #: src-en/data/events_special_lightspeed.xml.append:972
@@ -1577,7 +1575,7 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:982
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал возрождения."
 
 #: src-en/data/events_special_lightspeed.xml.append:984
 msgid ""
@@ -1597,13 +1595,12 @@ msgid ""
 msgstr "Провести ритуал мутационной мутации."
 
 #: src-en/data/events_special_lightspeed.xml.append:994
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/text"
 msgstr ""
-"Ваша статуэтка Илл'дритков стоит рядом с Потусторонним фолиантом, готовая "
-"стать проводниками ритуала. Из ее полостей раздается песня, и коричневый "
-"текст в Потустороннем фолианте искажается и меняется..."
+"Ваша Илл'дритк стоит рядом с Потусторонним фолиантом, готовая стать "
+"проводниками ритуала. Из его странного, наполненного слизью тела раздается "
+"песня, и коричневый текст в Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:997
 msgid ""
