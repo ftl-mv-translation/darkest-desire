@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-04-23 09:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: German <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_storagexmlappend/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_special_storage.xml.append:3
 msgid ""
@@ -22,8 +29,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[1]/event/text"
 msgstr ""
-"Bist du sicher? Du wirst sie nicht ohne eine Klon-Kammer zurück holen können"
-" und alle Skills gehen verloren."
+"Bist du sicher? Du wirst sie nicht ohne eine Klon-Kammer zurück holen können "
+"und alle Skills gehen verloren."
 
 #: src-en/data/events_special_storage.xml.append:16
 msgid ""
@@ -72,8 +79,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod:findLike/mod:findLike/mod-"
 "append:choice[2]/event/text"
 msgstr ""
-"Bist du sicher? Du wirst sie nicht ohne eine Klon-Kammer zurück holen können"
-" und alle Skills gehen verloren."
+"Bist du sicher? Du wirst sie nicht ohne eine Klon-Kammer zurück holen können "
+"und alle Skills gehen verloren."
 
 #: src-en/data/events_special_storage.xml.append:44
 msgid ""
@@ -1187,8 +1194,7 @@ msgstr ""
 #: src-en/data/events_special_storage.xml.append:909
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LIBERATOR_BATTLE\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:911
 msgid ""
@@ -1223,8 +1229,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:934
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_LIBERATOR_BOARDER\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:936
 msgid ""
@@ -1259,8 +1264,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:959
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSERAPH_ARBITER_BATTLE\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:961
 msgid ""
@@ -1295,8 +1299,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:984
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSERAPH_ARBITER_BOARDER\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:986
 msgid ""
@@ -1331,8 +1334,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1009
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_BROODMOTHER_BATTLE\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1011
 msgid ""
@@ -1367,8 +1369,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1034
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_BROODMOTHER_BOARDER\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1036
 msgid ""
@@ -1403,8 +1404,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1059
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDHELLRAISER_FIRE_LOOT\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1061
 msgid ""
@@ -1439,8 +1439,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1084
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDHELLRAISER_HULL_LOOT\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1086
 msgid ""
@@ -1475,8 +1474,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1109
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDADMINISTRATOR_DEFAULT\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1111
 msgid ""
@@ -1586,8 +1584,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1188
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDADMINISTRATOR_SPEED\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1190
 msgid ""
@@ -1697,8 +1694,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1267
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDADMINISTRATOR_ATTACK\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1269
 msgid ""
@@ -1808,8 +1804,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDADMINISTRATOR_DEFENSE\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1348
 msgid ""
@@ -1919,8 +1914,7 @@ msgstr "Mach dafür etwas anderes."
 #: src-en/data/events_special_storage.xml.append:1425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDADMINISTRATOR_HAZARD\"]/text"
-msgstr ""
-"Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
+msgstr "Bist du dir sicher, dass du die Einstellungen der Drohne ändern willst?"
 
 #: src-en/data/events_special_storage.xml.append:1427
 msgid ""
