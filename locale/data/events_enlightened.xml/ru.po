@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 10:57+0000\n"
+"PO-Revision-Date: 2025-04-24 12:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -442,26 +442,40 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/text"
 msgstr ""
+"Из побежденного Тамплиера вырываются тени, но вместо того, чтобы погибнуть, "
+"он, похоже, переходит в состояние сна. Однако гораздо важнее то, какую "
+"угрозу представлял собой этот Тамплиер... Почему не все Просветленные "
+"обладают такой силой?"
 
 #: src-en/data/events_enlightened.xml:265
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/text"
-msgstr ""
+msgstr "Связаться с торговцами."
 
 #: src-en/data/events_enlightened.xml:267
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/text"
 msgstr ""
+"Просветленные в восторге от известия о победе над Тамплиером, и вы "
+"спрашиваете их о текущем состоянии дел. Все вместе они, кажется, не решаются "
+"ответить, но один из глубоководных говорит: \"Он... лишился благословения "
+"Темного. Теперь он... бессильный. Он... заслуживает наказания за то, что "
+"предало нас! Он... должно быть, не подчинился воли Темного! Смерть... "
+"предателю!\" Просветленные возносят хвалу своему Темному Богу, продолжая "
+"праздновать вашу победу над Тамплиером так, словно их божество само этого "
+"пожелало."
 
 #: src-en/data/events_enlightened.xml:269
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда я возьму его себе. Теперь, когда все уладилось..."
 
 #: src-en/data/events_enlightened.xml:271
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/choice/event/text"
 msgstr ""
+"Купцы не возражают, когда вы решаете оставить себе то, что осталось от их "
+"Тамплиера, и в благодарность спешат показать вам свои товары."
 
 #: src-en/data/events_enlightened.xml:274
 msgid ""
@@ -472,46 +486,69 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/text"
 msgstr ""
+"Голос кажется испуганным, когда вы приближаетесь к маяку: \"Мои... сородичи "
+"здесь, да, но... кажется, на борту их корабля идет какая-то борьба. Не "
+"хочешь ли... помочь им?\""
 
 #: src-en/data/events_enlightened.xml:291
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/text"
-msgstr ""
+msgstr "Я обязательно попробую!"
 
 #: src-en/data/events_enlightened.xml:293
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/text"
 msgstr ""
+"В вашей голове раздается благодарное ворчание, когда тени снаружи "
+"расступаются, и перед вами действительно возникает облик торгового судна "
+"Просветленных. Однако они, похоже, застыли в пустоте снаружи, поэтому вы "
+"пытаетесь вызвать их и получить более полную картину происходящего. Вам "
+"отвечает культист Просветленных, который судорожно говорит: \"Чужак! Нам... "
+"нужна помощь! О, Темный, прости нас... наш Тамплиер потерял контроль! Что "
+"мы... сделали не так, о Темный? За что ты... так наказываешь нас?\" "
+"Глубоководный продолжает сетовать на свое бесстрастное божество, как будто "
+"вас там и не было."
 
 #: src-en/data/events_enlightened.xml:295
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Ваш, э-э... Тамплиер, говорите?"
 
 #: src-en/data/events_enlightened.xml:297
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Капитан глубоководных снова поворачивается к вам, несмотря на отсутствие "
+"глаз: \"О, почему... да. Это должен был быть... подарок в знак уважения, "
+"но... он потерял контроль! Он... бесчинствует по всему кораблю, крушит "
+"вещи... безрассудно! О, Темный... почему?\""
 
 #: src-en/data/events_enlightened.xml:299
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вы пробовали избавиться от него?"
 
 #: src-en/data/events_enlightened.xml:301
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Да, но... это он возвращается. Нас... наказывают! Наказаны за... наши "
+"грехи! Пожалуйста, о Темный... прости нас!\" Учитывая, что Просветленные так "
+"уязвимы в бою, можно предположить, что они не могут сами справиться с дроном "
+"и скорее будут стоять и молиться пустоте вокруг, чем попытаются с ним "
+"справиться."
 
 #: src-en/data/events_enlightened.xml:303
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Пустота может не ответить, но я отвечу. Отправьте Тамплиера сюда!"
 
 #: src-en/data/events_enlightened.xml:305
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Просветленные благодарят вас за помощь и уходят, чтобы заманить своего "
+"Тамплиера обратно в шлюз..."
 
 #: src-en/data/events_enlightened.xml:310
 msgid ""
@@ -522,16 +559,22 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"...и им не понадобилось много времени, чтобы выбросить его в вашу сторону, "
+"привлекая внимание!"
 
 #: src-en/data/events_enlightened.xml:320
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Они могут и дальше молиться. Я не хочу иметь с этим дело."
 
 #: src-en/data/events_enlightened.xml:322
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Эти Просветленные и так едва ли замечают ваше присутствие, а вы не готовы "
+"рисковать схваткой один на один с одним из творений Темного Бога. Вы "
+"заканчиваете разговор и сомневаетесь, что они вообще заметили... но это не "
+"значит, что ваша трусость осталась незамеченной."
 
 #: src-en/data/events_enlightened.xml:325
 msgid ""
@@ -546,12 +589,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:341
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[2]/text"
-msgstr ""
+msgstr "Я бы предпочел этого не делать."
 
 #: src-en/data/events_enlightened.xml:343
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[2]/event/text"
 msgstr ""
+"Будь проклят этот маяк, вы не доверяете ни одной твари в этом адском месте. "
+"Голос вздыхает в вашей голове: \"Ну что ж... тогда ладно. Делай, что хочешь\""
+". Затем он умолкает, и вы остаетесь наедине со своими мыслями. Своими "
+"мыслями и... бескрайними просторами тьмы за иллюминатором."
 
 #: src-en/data/events_enlightened.xml:346
 msgid ""
@@ -7210,32 +7257,38 @@ msgstr "(Член экипажа-Избранный) \"РАЗРЕШИ НАМ... 
 #: src-en/data/events_enlightened.xml:4162
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"deeponecultist\"]/text"
-msgstr ""
+msgstr "(Член экипажа-глубоководный культист) \"Темный, будь с нами...\""
 
 #: src-en/data/events_enlightened.xml:4166
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/text"
 msgstr ""
+"(Шрам) "
+"\"Бросить вызов Ложному Богу... ничто не доставит мне большего удовольствия\""
+"."
 
 #: src-en/data/events_enlightened.xml:4170
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/text"
 msgstr ""
+"(Героиня) \"Значит, они хотят разрушить нашу надежду? Давайте СОКРУШИМ ИХ!\""
 
 #: src-en/data/events_enlightened.xml:4174
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "(Счастливые праздники) \"О, давайте разберемся!\""
 
 #: src-en/data/events_enlightened.xml:4178
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DISTRESS_ENLIGHTENED_JUDGMENT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[13]/text"
-msgstr ""
+msgstr "Помолиться о чуде..."
 
 #: src-en/data/events_enlightened.xml:4196
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING_FIGHT\"]/gotaway/text"
 msgstr ""
+"Странный дуэт уходит в прыжок. Полагаю, в следующий раз вам придется быть "
+"быстрее."
 
 #: src-en/data/events_enlightened.xml:4200
 msgid ""
@@ -7261,65 +7314,98 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING_FIGHT_WIN\"]/text"
 msgstr ""
+"Победив странный дуэт, вы обыскиваете его обломки в поисках чего-нибудь "
+"интересного... К сожалению, ваши поиски ни к чему не привели. Остается "
+"только тишина."
 
 #: src-en/data/events_enlightened.xml:4224
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/text"
 msgstr ""
+"Несколько мгновений вы молчите, ожидая, пока голос заговорит. Вы уже "
+"начинаете предполагать, что здесь, должно быть, ничего нет, как вдруг он "
+"произносит: \"Это... очень странно. Один из моих сородичей... делит сосуд с "
+"человеком. Может... ты встретишься с ними?\""
 
 #: src-en/data/events_enlightened.xml:4227
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Конечно, давайте узнаем, что они задумали."
 
 #: src-en/data/events_enlightened.xml:4229
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Пустота расступается, и перед вами предстает образ гражданского корабля. Они "
+"связываются с вами, и вы обнаруживаете, что на другом конце действительно "
+"человек и культист Просветленных. Человек, мускулистый и хорошо сложенный, "
+"говорит: "
+"\"Хо-хо! Федерация, да еще и Ренегат! Вы тоже ищете истину этого места?\""
 
 #: src-en/data/events_enlightened.xml:4232
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Что-то в этом роде."
 
 #: src-en/data/events_enlightened.xml:4234
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Он скрещивает руки и от души смеется: \"Ну, ты опоздал, друг! Мне кажется, "
+"мы с моей возлюбленной только что узнали величайшую тайну из всех... - он "
+"жестом показывает на культистку Просветленных, которая застенчиво улыбается "
+"и смеется, - Ммм... действительно. Тайна, которую хранят мои сородичи... это "
+"запретная любовь! Кто бы мог... знать, что чужаки могут быть такими "
+"романтичными...\" Они обнимаются, и вам становится немного неловко."
 
 #: src-en/data/events_enlightened.xml:4236
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Промолчать."
 
 #: src-en/data/events_enlightened.xml:4238
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Мужчина прекращает объятия и поворачивается к вам: \"В любом случае, "
+"приятного знакомства! Меня зовут Кир: величайший исследователь, когда-либо "
+"украшавший эту проклятую Мультивселенную!"
+"\" Вы не можете сказать, что слышали о нем... Кир продолжает: \"А со мной "
+"Лилит... моя будущая невеста и самая прекрасная дева, которую я когда-либо "
+"имел счастье встретить\". Вы никогда не видели, как краснеет глубоководный, "
+"но Лилит все же умудрилась это сделать."
 
 #: src-en/data/events_enlightened.xml:4240
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Приятно познакомиться! Я и сам в некотором роде исследователь..."
 
 #: src-en/data/events_enlightened.xml:4242
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Кир преувеличенно приподнял бровь: \"Охо? Правда?\" Он на мгновение погладил "
+"свою густую бороду: \"От одного заядлого исследователя к другому у меня есть "
+"основания полагать, что в этом месте есть тайна. За этой пустотой лежит "
+"другая плоскость, более глубокая... более темная. Моя возлюбленная тоже "
+"слышала об этом\". Он снова делает жест в сторону Лилит, которая поднимает "
+"голову и говорит: \"Я... слышала, как Старейшины говорили об этом. О "
+"царстве... где с нас берут дань, а взамен посылают дары... царство... где "
+"находится Темный\"."
 
 #: src-en/data/events_enlightened.xml:4244
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Любопытно. Вы намерены найти его?"
 
 #: src-en/data/events_enlightened.xml:4246
 msgid ""
@@ -7327,13 +7413,26 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Ха! Я бы не смог назвать себя величайшим исследователем, если бы не "
+"собирался сделать это!\" Кир принимает благородную позу, снова разражаясь "
+"заливистым смехом, но затем его поведение меняется, и он подходит ближе к "
+"экрану: \"Я не знаю, что ждет нас на той стороне, и, по правде говоря, "
+"сможем ли мы когда-нибудь вернуться. Если ты когда-нибудь соберешься нас "
+"найти...\" - он делает паузу, что-то набирая, и раздается небольшой гудок, "
+"когда ваш корабль получает подробную сверхсветовую сигнатуру, - "
+"\"...ты будешь знать, как нас найти, если мы еще живы\". Кир садится, его "
+"лицо снова озаряется: \"Не то чтобы я всерьез советовал отправиться за нами "
+"в такое адское место! Просто, если тебе вздумается последовать зову "
+"истинного исследователя и оказаться во владениях Темного Бога. К тому же мы "
+"даже не до конца уверены, что он существует на самом деле!\" Кир снова "
+"смеется, но Лилит кажется слегка встревоженной."
 
 #: src-en/data/events_enlightened.xml:4249
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я запомню об этом. Удачи, Кир. И тебе, Лилит!"
 
 #: src-en/data/events_enlightened.xml:4251
 msgid ""
@@ -7341,18 +7440,31 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Лицо Лилит светлеет, когда вы упоминаете ее, и отвечает: "
+"\"Спасибо... э-э, Федерация, да, дорогой?\" Кир с энтузиазмом кивает: \"Да! "
+"Одна из немногих благородных фракций, оставшихся во всей Мультивселенной. "
+"Некому больше доверить наше местоположение, любовь моя\". Похоже, это "
+"несколько успокаивает Лилит. Они прощаются с вами, и вы остаетесь наедине с "
+"тьмой, когда они уходят в прыжок. То есть вы остаетесь не только с тьмой, но "
+"и с голосом, который говорит: \"Как... мило. Я... желаю им всего хорошего\". "
+"Вы желаете того же."
 
 #: src-en/data/events_enlightened.xml:4264
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[2]/text"
 msgstr ""
+"Нет, я здесь только для того, чтобы получить лом. Атаковать эту сладкую "
+"парочку!"
 
 #: src-en/data/events_enlightened.xml:4266
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Мужчина нахмуривает брови: \"Ха! А я-то думал, что Федерация - уважаемая "
+"организация. Не волнуйся, моя дорогая, я вытащу нас отсюда!\" Вы слышите рев "
+"их двигателей - они пытаются скрыться!"
 
 #: src-en/data/events_enlightened.xml:4269
 msgid ""
@@ -7364,13 +7476,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Лилит смотрит на вас."
 
 #: src-en/data/events_enlightened.xml:4279
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[@req=\"LIST_ENLIGHTENED_HORRORS\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Похоже, она хочет не видеть того, что здесь происходит... Желая успокоить "
+"ее, вы говорите голосу, что вам это неинтересно. Он вздыхает: "
+"\"Как хочешь... сам...\" и замолкает. Вы остаетесь наедине с темнотой."
 
 #: src-en/data/events_enlightened.xml:4281
 msgid ""
@@ -7387,12 +7502,14 @@ msgstr "Ничего не делать."
 #: src-en/data/events_enlightened.xml:4291
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[3]/text"
-msgstr ""
+msgstr "Не очень интересно..."
 
 #: src-en/data/events_enlightened.xml:4293
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_KYRANDLILITH_MEETING\"]/choice[3]/event/text"
 msgstr ""
+"Голос, который казался заинтересованным, вздыхает: \"Решай... сам\". Все "
+"стихает, и вы остаетесь наедине с темнотой."
 
 #: src-en/data/events_enlightened.xml:4295
 msgid ""
@@ -7420,31 +7537,47 @@ msgstr ""
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"HOSTILE_ENLIGHTENED_TEXT\"]/text[2]"
 msgstr ""
+"Вы наблюдаете, как тьма отступает, и голос обращается к вам: "
+"\"Чужак! Просветленные... приближаются!\" Вы замечаете корабль, о котором "
+"идет речь, и готовите оружие."
 
 #: src-en/data/events_enlightened.xml:4319
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"HOSTILE_ENLIGHTENED_TEXT\"]/text[3]"
 msgstr ""
+"Хотя голос не говорит, он все равно заставляет тени рассеяться; из пустоты "
+"появляется корабль Просветленных с оружием наготове."
 
 #: src-en/data/events_enlightened.xml:4320
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"HOSTILE_ENLIGHTENED_TEXT\"]/text[4]"
 msgstr ""
+"На секунду все стихло... затем голос кричит: \"Чужак, засада!\". Вы едва "
+"успеваете увернуться от выстрела, как тьма сгущается... они наступают!"
 
 #: src-en/data/events_enlightened.xml:4321
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"HOSTILE_ENLIGHTENED_TEXT\"]/text[5]"
 msgstr ""
+"У этого маяка есть какое-то ощущение... неправильности. Конечно, мгновение "
+"спустя пустота отступает... и вы оказываетесь лицом к лицу с кораблем "
+"Просветленных! Как бы не сглазить."
 
 #: src-en/data/events_enlightened.xml:4322
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"HOSTILE_ENLIGHTENED_TEXT\"]/text[6]"
 msgstr ""
+"Прибыв к маяку, вы получаете сигнал с соседнего корабля Просветленных: "
+"\"Умри... чужак! Дань Темному!\" Незаметно... пустота отступает, и вы "
+"готовитесь к бою."
 
 #: src-en/data/events_enlightened.xml:4327
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD\"]/destroyed/text"
 msgstr ""
+"Последний выстрел - и дредноут разрушается; вы наблюдаете, как его корпус "
+"рассыпается и поглощается той самой тьмой, которую он поклялся защищать. Вы "
+"вышли победителем!"
 
 #: src-en/data/events_enlightened.xml:4330
 msgid ""
@@ -7455,6 +7588,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD\"]/deadCrew/text"
 msgstr ""
+"Дредноуту осталось недолго: вы наблюдаете, как бесчисленные разрывы времени "
+"и пространства разрывают его корпус, поглощая ту самую тьму, которую он "
+"поклялся защищать. Вы вышли победителем!"
 
 #: src-en/data/events_enlightened.xml:4340
 msgid ""
@@ -7465,6 +7601,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL\"]/destroyed/text"
 msgstr ""
+"Последний выстрел - и дредноут разрушается; вы наблюдаете, как его корпус "
+"рассыпается и поглощается той самой тьмой, которую он поклялся защищать. Вы "
+"вышли победителем!"
 
 #: src-en/data/events_enlightened.xml:4351
 msgid ""
@@ -7475,6 +7614,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL\"]/deadCrew/text"
 msgstr ""
+"Дредноуту осталось недолго: вы наблюдаете, как бесчисленные разрывы времени "
+"и пространства разрывают его корпус, поглощая ту самую тьму, которую он "
+"поклялся защищать. Вы вышли победителем!"
 
 #: src-en/data/events_enlightened.xml:4361
 msgid ""
@@ -7485,6 +7627,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/destroyed/text"
 msgstr ""
+"Несмотря на свою решимость, герой пал... Неужели все его усилия были "
+"напрасны?"
 
 #: src-en/data/events_enlightened.xml:4373
 msgid ""
@@ -7495,6 +7639,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/deadCrew/text"
 msgstr ""
+"Несмотря на свою решимость, герой пал... Неужели все его усилия были "
+"напрасны?"
 
 #: src-en/data/events_enlightened.xml:4382
 msgid ""
@@ -7504,11 +7650,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:4389
 msgid "data/events_enlightened.xml$//event[@name=\"DDTRUEHERO_LASTSTAND\"]/text"
 msgstr ""
+"Когда, казалось бы, герой начинает падать духом, он снова собирается с "
+"силами: \"Н-не... так быстро! Я отказываюсь... УМИРАТЬ, тем самым "
+"позволив... УМЕРЕТЬ ВСЕЛЕННОЙ!\" Вы наблюдаете, как из самой тьмы "
+"материализуются глубоководные, а на вражеском корабле затягиваются раны..."
 
 #: src-en/data/events_enlightened.xml:4395
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/text"
 msgstr ""
+"Среди обломков вы находите еще одно оружие тьмы... правда, оно вам "
+"незнакомо. Но, похоже, оно осталось совершенно невредимо... Теперь оно ваше. "
+"Остается надеяться, что оно не проклято..."
 
 #: src-en/data/events_enlightened.xml:4402
 msgid ""
@@ -7521,18 +7674,33 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Шрам смотрит на вас и торжествующе кричит: \"Так... пали пешки Ложного Бога! "
+"Кем бы они ни были... они давно поддались его нечестивому влиянию. Я буду... "
+"оплакивать то, кем они были, а не то, кем стали\". Он оглядывается по "
+"сторонам, а затем продолжает: \"И все же... битва не окончена. И никогда не "
+"закончится... до тех пор, пока существует Ложный Бог. Однако полное "
+"отречение... от его объятий, теперь, когда эта пустота останется "
+"незаполненной... должен стать сильным ударом по его могуществу\". Он "
+"замолкает и погружается в глубокую задумчивость."
 
 #: src-en/data/events_enlightened.xml:4408
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "Что дальше?"
 
 #: src-en/data/events_enlightened.xml:4410
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Он продолжает размышлять еще мгновение. Затем говорит: \"Возможно... будет "
+"лучше, если я не вернусь к своему народу, по крайней мере... пока..."
+"\", - он смотрит на вас, - \"...но это не значит, что я не могу быть среди "
+"сородичей. Я... буду стоять с вами и сражаться в вашей войне... как вы "
+"сражались в моей. Кроме того, спасение реальности... подразумевает и "
+"спасение моего народа. Веди... за собой, сородич!\" С новым союзником на "
+"своей стороне вы готовитесь оставить эту пустоту тьмы позади."
 
 #: src-en/data/events_enlightened.xml:4412
 msgid ""
@@ -7545,12 +7713,18 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы уже собираетесь уходить, когда сама реальность словно останавливается. "
+"Это напоминает вам о том, как вы впервые попали в сектор, и Шрам заморозили "
+"вас... Однако на этот раз говорит другой голос, и он произносит только одно "
+"слово... \"УТОНИ\". Вы чувствуете, как все вокруг ускоряется, а само "
+"пространство искривляется... пустота почему-то начинает светится ярче. Вы "
+"понимаете, что вас протаскивает сквозь нее со скоростью света!"
 
 #: src-en/data/events_enlightened.xml:4416
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подождите!"
 
 #: src-en/data/events_enlightened.xml:4429
 msgid ""
@@ -7563,6 +7737,8 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"К сожалению, Шрам погиб во время битвы... Вам ничего не остается делать, как "
+"идти дальше."
 
 #: src-en/data/events_enlightened.xml:4433
 msgid ""
@@ -7575,17 +7751,26 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"Вы уже собираетесь уходить, когда сама реальность словно останавливается. "
+"Это напоминает вам о том, как вы впервые попали в сектор, и Шрам заморозили "
+"вас... Однако на этот раз говорит другой голос, и он произносит только одно "
+"слово... \"УТОНИ\". Вы чувствуете, как все вокруг ускоряется, а само "
+"пространство искривляется... пустота почему-то начинает светится ярче. Вы "
+"понимаете, что вас протаскивает сквозь нее со скоростью света!"
 
 #: src-en/data/events_enlightened.xml:4437
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ухватиться за что-нибудь!"
 
 #: src-en/data/events_enlightened.xml:4450
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/text"
 msgstr ""
+"Среди обломков вы находите еще одно оружие тьмы... правда, оно вам "
+"незнакомо. Но, похоже, оно осталось совершенно невредимо... Теперь оно ваше. "
+"Остается надеяться, что оно не проклято..."
 
 #: src-en/data/events_enlightened.xml:4457
 msgid ""
@@ -7596,79 +7781,111 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/text"
 msgstr ""
+"Вы уже собираетесь уходить, когда сама реальность словно останавливается. "
+"Это напоминает вам о том, как вы впервые попали в сектор, и голос заморозил "
+"вас... но на этот раз говорит другой голос, и он произносит только одно "
+"слово: \"УТОНИ\". Вы чувствуете, как все вокруг ускоряется, а само "
+"пространство искривляется... пустота почему-то начинает светится ярче. Вы "
+"понимаете, что вас протаскивает сквозь нее со скоростью света!"
 
 #: src-en/data/events_enlightened.xml:4461
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Ухватиться за что-нибудь!"
 
 #: src-en/data/events_enlightened.xml:4472
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/text"
 msgstr ""
+"Время вокруг вас словно остановилось, и... новый голос обращается к вам, "
+"который вы словно узнаете, но не можете сказать точно: "
+"\"ТЫ... ИНТЕРЕСЕН МНЕ. ПРИДИ, Я ПРИМУ ТЕБЯ В СВОИ ОБЪЯТИЯ\". Вы чувствуете, "
+"как все вокруг ускоряется, а само пространство искривляется... пустота "
+"почему-то начинает светится ярче. Вы понимаете, что вас протаскивает сквозь "
+"нее со скоростью света!"
 
 #: src-en/data/events_enlightened.xml:4480
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/choice/text"
-msgstr ""
+msgstr "Ухватиться за что-нибудь!"
 
 #: src-en/data/events_enlightened.xml:4489
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/text"
-msgstr ""
+msgstr "Наконец-то вы добрались до выхода..."
 
 #: src-en/data/events_enlightened.xml:4492
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4494
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Он быстро отвечает: \"Здесь что-то... не так. Я...\" Это выглядит так, будто "
+"он в панике. \"...Я думаю... они пришли за мной\"."
 
 #: src-en/data/events_enlightened.xml:4496
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
-msgstr ""
+msgstr "Они? Кто?"
 
 #: src-en/data/events_enlightened.xml:4498
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
 msgstr ""
+"\"Наши люди рассказывают... истории о тех, кто избран Ложным Богом. Чтобы... "
+"полностью посвятить себя ему и всему, за что он выступает... чтобы исполнять "
+"его прихоти. Уничтожать... своих врагов во имя его. Я думаю... что теперь "
+"они придут за мной. Ты... должен уйти, если хочешь спастись. Я благодарю "
+"тебя... за все, что ты сделал для меня и моего народа\"."
 
 #: src-en/data/events_enlightened.xml:4500
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что будет с тобой?"
 
 #: src-en/data/events_enlightened.xml:4502
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
 msgstr ""
+"В его словах чувствуется нотка грусти: \"Это... не имеет значения. И "
+"никогда... не имело. Пока мой народ в безопасности... пока мой народ по-"
+"настоящему свободен, моя судьба... не имеет значения. Я могу лишь молиться, "
+"чтобы они воспользовались этой возможностью... этим шансом и никогда не "
+"возвращались к своему Темному\"."
 
 #: src-en/data/events_enlightened.xml:4504
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Нет, не так. Не сейчас. Я останусь с тобой и буду сражаться за тебя и за "
+"Просветленных."
 
 #: src-en/data/events_enlightened.xml:4506
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Кажется, он удивлен... но лишь немного. Он видел все, что вы сделали для "
+"Просветленных за время вашего совместного путешествия по этому сектору, и он "
+"понимает... он доверяет вам. \"Хорошо, чужак... нет, ты больше не чужак. "
+"Если мы умрем здесь... мы умрем здесь как сородичи\". Затем перед вами "
+"материализуется глубоководный с бесчисленными шрамами... вы оказываетесь "
+"лицом к лицу с голосом, с которым говорили."
 
 #: src-en/data/events_enlightened.xml:4508
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Как мне тебя называть?"
 
 #: src-en/data/events_enlightened.xml:4510
 msgid ""
@@ -7676,13 +7893,19 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Он прикладывает руку к глазу со шрамом и, хмыкнув, отвечает: \"Ты... уже "
+"спрашивал. Если тебе действительно нужно имя, которым меня можно называть... "
+"мои сородичи называют меня в своих сказках Шрамом... это страшные сказки, "
+"используемые для того, чтобы внушать кошмары молодым людям. Правда за "
+"ними... ужасна по-своему\". Он смотрит в пустоту за окном и опускает руку: "
+"\"Они... здесь\"."
 
 #: src-en/data/events_enlightened.xml:4511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Шрам"
 
 #: src-en/data/events_enlightened.xml:4513
 msgid ""
@@ -7697,13 +7920,17 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы наблюдаете, как Шрам взмахивает рукой, и тени снаружи отступают; на их "
+"месте появляется новая тень... Огромный корабль дизайна глубоководных "
+"приближается. Хотя дизайн корабля хорошо знаком, отсутствие света кажется "
+"тревожным... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4518
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Приготовится."
 
 #: src-en/data/events_enlightened.xml:4520
 msgid ""
@@ -7711,6 +7938,14 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ПРЕДАТЕЛЬСТВО. ТЫ УКРЫВАЕШЬ... ПРЕДАТЕЛЯ. ТЫ "
+"НАМЕРЕН СРАЖАТЬСЯ. НАШ ПОВЕЛИТЕЛЬ... НАМЕРЕН ПОБЕДИТЬ\". Они прекращают "
+"связь, и их оружие активируется... все темного дизайна. Шрам встречает ваш "
+"взгляд и говорит: \"Мы поступим мудро... не позволим их оружию зла поразить "
+"наши ряды. Готовьтесь, сородичи... и сражайтесь! За Просветленных!\" С этими "
+"словами он покидает зал и готовится к битве. Дредноут приближается, и вы "
+"понимаете, что настало время сделать то же самое... стать маяком там, где "
+"тьма разрастается сильнее всего."
 
 #: src-en/data/events_enlightened.xml:4524
 msgid ""
@@ -7723,13 +7958,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4544
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
 msgstr ""
+"Он не отвечает, и вы наблюдаете, как темнота снаружи отодвигается... из нее "
+"появляется корабль, тот самый, который вы видели, когда впервые попали в "
+"этот сектор. Затем голос говорит: \"Теперь... мы расстаемся. Поскольку "
+"эту... ложную пустоту захватили повстанцы, мои сородичи... будут вынуждены "
+"бежать. Им нужен... проводник, который обратит их к свету. Я должен... "
+"отправиться к ним сейчас и молиться, чтобы они... захотели меня выслушать. "
+"Прощай, чужак... и спасибо тебе\". Голос умолкает в последний раз, и корабль "
+"удаляется во тьму."
 
 #: src-en/data/events_enlightened.xml:4546
 msgid ""
@@ -7742,18 +7985,28 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
 msgstr ""
+"Когда вы поворачиваетесь, чтобы выйти из комнаты и приготовиться покинуть "
+"сектор... вы что-то чувствуете. Предчувствие надвигающейся гибели... когда "
+"из темноты появляется новая тень. К вам приближается огромный корабль "
+"конструкции глубоководных. Несмотря на то, что дизайн корабля хорошо знаком, "
+"отсутствие освещения вызывает тревогу... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4551
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что это такое?"
 
 #: src-en/data/events_enlightened.xml:4553
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ДАНЬ. ТЫ СОШЕЛСЯ... С ПРЕДАТЕЛЕМ. ТЫ "
+"ЗАМЫШЛЯЕШЬ... ГИБЕЛЬ НАШЕГО ЛОРДА. НО УТЕШЬСЯ, ИБО НАШ ГОСПОДИН... ТРЕБУЕТ, "
+"ЧТОБЫ ТВОЯ СМЕРТЬ БЫЛА МИЛОСЕРДНОЙ\". Они заканчивают связь, и их оружие "
+"активируется.. Вы понимаете, что одно из них неизвестной вам конструкции, но "
+"времени на раздумья нет. Дредноут готовится начать атаку, а вы - к концу."
 
 #: src-en/data/events_enlightened.xml:4557
 msgid ""
@@ -7765,13 +8018,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4569
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/text"
 msgstr ""
+"Он не отвечает, и вы наблюдаете, как темнота снаружи отодвигается... из нее "
+"появляется корабль, тот самый, который вы видели, когда впервые попали в "
+"этот сектор. Затем голос говорит: \"Теперь... мы расстаемся. Я нужен моему "
+"народу... для грядущих сражений, если мир за пределами этой ложной "
+"пустоты... будет хотя бы наполовину таким же безжалостным, как ты. И все же "
+"я прошу тебя... об одном, чужак...\" Голос делает неловкую паузу: \"...не "
+"возвращайся\". С этими словами голос умолкает в последний раз, и корабль "
+"удаляется во тьму."
 
 #: src-en/data/events_enlightened.xml:4571
 msgid ""
@@ -7784,18 +8045,28 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/text"
 msgstr ""
+"Когда вы поворачиваетесь, чтобы выйти из комнаты и приготовиться покинуть "
+"сектор... вы что-то чувствуете. Предчувствие надвигающейся гибели... когда "
+"из темноты появляется новая тень. К вам приближается огромный корабль "
+"конструкции глубоководных. Несмотря на то, что дизайн корабля хорошо знаком, "
+"отсутствие освещения вызывает тревогу... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4576
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что это такое?"
 
 #: src-en/data/events_enlightened.xml:4578
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ДАНЬ. ТЫ СОШЕЛСЯ... С ПРЕДАТЕЛЕМ. ТЫ "
+"ЗАМЫШЛЯЕШЬ... ГИБЕЛЬ НАШЕГО ЛОРДА. НО УТЕШЬСЯ, ИБО НАШ ГОСПОДИН... ТРЕБУЕТ, "
+"ЧТОБЫ ТВОЯ СМЕРТЬ БЫЛА МИЛОСЕРДНОЙ\". Они заканчивают связь, и их оружие "
+"активируется.. Вы понимаете, что одно из них неизвестной вам конструкции, но "
+"времени на раздумья нет. Дредноут готовится начать атаку, а вы - к концу."
 
 #: src-en/data/events_enlightened.xml:4582
 msgid ""
@@ -7807,37 +8078,60 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
-msgstr ""
+msgstr "Пришло время."
 
 #: src-en/data/events_enlightened.xml:4594
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
+"Вы готовы выбраться из этой богом забытой пустоты. Однако у пустоты другие "
+"планы. Вы видите, как тьма снаружи раздвигается... и из нее появляется "
+"корабль - тот самый, который вы видели, когда только вошли в этот сектор. "
+"Чего хочет это судно?"
 
 #: src-en/data/events_enlightened.xml:4596
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
-msgstr ""
+msgstr "Я устал слушать его болтовню. Взорвать его."
 
 #: src-en/data/events_enlightened.xml:4598
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
 msgstr ""
+"Выстрел пробивает корабль насквозь, но там, где он должен расколоться "
+"пополам и рассыпаться... он этого не делает. Голос обращается к вам, когда "
+"корабль бросает вызов смерти: "
+"\"Значит... вот так, да? И всего с одного выстрела...\", - он надрывно "
+"кашляет между фразами, - \"Скажи мне, чужак... или, кто ты там... что ты "
+"собираешься делать, когда покинешь... этот сектор?\". Корабль напротив "
+"начинает содрогаться."
 
 #: src-en/data/events_enlightened.xml:4600
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Конечно, я тебя порадую. Ответ прост: все, что я захочу."
 
 #: src-en/data/events_enlightened.xml:4602
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вибрация корабля усиливается, и голос отвечает: \"Этого я и боюсь. Если тебя "
+"не остановить здесь... ты убьешь всех, не так ли? Независимо от расы или "
+"принадлежности... ты просто будешь убивать, чтобы убивать. Это... жадность? "
+"Просто... злость? Или, может быть, это... тошнотворное чувство... "
+"любопытства? Посмотреть... что будет дальше? По правде говоря, это "
+"неважно... но я скажу тебе, что движет мной\". Корабль снаружи вибрирует все "
+"сильнее и сильнее, окружающая тьма начинает окутывать его... преображать. "
+"Голос продолжает: \"Это мой народ... и не только Просветленные или "
+"глубоководные, но... народ этой реальности. Из... каждой реальности. Сейчас "
+"я чувствую себя так, словно меня разрывают на части... и все же... если я не "
+"остановлю тебя здесь и сейчас... их надежды... их мечты... все будет "
+"напрасно. Именно по этой причине, чужак, я...\""
 
 #: src-en/data/events_enlightened.xml:4604
 msgid ""
@@ -7850,6 +8144,9 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"...тебе придется постараться... немного больше, чем до ЭТОГО\". Новый "
+"корабль появляется на том месте, где находился предыдущий; появляется герой, "
+"и вы готовитесь к концу."
 
 #: src-en/data/events_enlightened.xml:4615
 msgid ""
@@ -7860,60 +8157,81 @@ msgstr "Продолжить..."
 #: src-en/data/events_enlightened.xml:4629
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/text"
 msgstr ""
+"Повстанцы должны быть здесь, но... все тихо. Неужели это оно? Вы сбежали?"
 
 #: src-en/data/events_enlightened.xml:4632
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4634
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Он быстро отвечает: \"Здесь что-то... не так. Я...\" Это выглядит так, будто "
+"он в панике. \"...Я думаю... они пришли за мной\"."
 
 #: src-en/data/events_enlightened.xml:4636
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
-msgstr ""
+msgstr "Они? Кто?"
 
 #: src-en/data/events_enlightened.xml:4638
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
 msgstr ""
+"\"Наши люди рассказывают... истории о тех, кто избран Ложным Богом. Чтобы... "
+"полностью посвятить себя ему и всему, за что он выступает... чтобы исполнять "
+"его прихоти. Уничтожать... своих врагов во имя его. Я думаю... что теперь "
+"они придут за мной. Ты... должен уйти, если хочешь спастись. Я благодарю "
+"тебя... за все, что ты сделал для меня и моего народа\"."
 
 #: src-en/data/events_enlightened.xml:4640
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что будет с тобой?"
 
 #: src-en/data/events_enlightened.xml:4642
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
 msgstr ""
+"В его словах чувствуется нотка грусти: \"Это... не имеет значения. И "
+"никогда... не имело. Пока мой народ в безопасности... пока мой народ по-"
+"настоящему свободен, моя судьба... не имеет значения. Я могу лишь молиться, "
+"чтобы они воспользовались этой возможностью... этим шансом и никогда не "
+"возвращались к своему Темному\"."
 
 #: src-en/data/events_enlightened.xml:4644
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Нет, не так. Не сейчас. Я останусь с тобой и буду сражаться за тебя и за "
+"Просветленных."
 
 #: src-en/data/events_enlightened.xml:4646
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Кажется, он удивлен... но лишь немного. Он видел все, что вы сделали для "
+"Просветленных за время вашего совместного путешествия по этому сектору, и он "
+"понимает... он доверяет вам. \"Хорошо, чужак... нет, ты больше не чужак. "
+"Если мы умрем здесь... мы умрем здесь как сородичи\". Затем перед вами "
+"материализуется глубоководный с бесчисленными шрамами... вы оказываетесь "
+"лицом к лицу с голосом, с которым говорили."
 
 #: src-en/data/events_enlightened.xml:4648
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Как мне тебя называть?"
 
 #: src-en/data/events_enlightened.xml:4650
 msgid ""
@@ -7921,13 +8239,19 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Он прикладывает руку к глазу со шрамом и, хмыкнув, отвечает: \"Ты... уже "
+"спрашивал. Если тебе действительно нужно имя, которым меня можно называть... "
+"мои сородичи называют меня в своих сказках Шрамом... это страшные сказки, "
+"используемые для того, чтобы внушать кошмары молодым людям. Правда за "
+"ними... ужасна по-своему\". Он смотрит в пустоту за окном и опускает руку: "
+"\"Они... здесь\"."
 
 #: src-en/data/events_enlightened.xml:4651
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Шрам"
 
 #: src-en/data/events_enlightened.xml:4653
 msgid ""
@@ -7942,13 +8266,17 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы наблюдаете, как Шрам взмахивает рукой, и тени снаружи отступают; на их "
+"месте появляется новая тень... Огромный корабль дизайна глубоководных "
+"приближается. Хотя дизайн корабля хорошо знаком, отсутствие света кажется "
+"тревожным... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4658
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Приготовится."
 
 #: src-en/data/events_enlightened.xml:4660
 msgid ""
@@ -7956,6 +8284,14 @@ msgid ""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ПРЕДАТЕЛЬСТВО. ТЫ УКРЫВАЕШЬ... ПРЕДАТЕЛЯ. ТЫ "
+"НАМЕРЕН СРАЖАТЬСЯ. НАШ ПОВЕЛИТЕЛЬ... НАМЕРЕН ПОБЕДИТЬ\". Они прекращают "
+"связь, и их оружие активируется... все темного дизайна. Шрам встречает ваш "
+"взгляд и говорит: \"Мы поступим мудро... не позволим их оружию зла поразить "
+"наши ряды. Готовьтесь, сородичи... и сражайтесь! За Просветленных!\" С этими "
+"словами он покидает зал и готовится к битве. Дредноут приближается, и вы "
+"понимаете, что настало время сделать то же самое... стать маяком там, где "
+"тьма разрастается сильнее всего."
 
 #: src-en/data/events_enlightened.xml:4664
 msgid ""
@@ -7968,13 +8304,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4684
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
 msgstr ""
+"Он не отвечает, и вы наблюдаете, как темнота снаружи отодвигается... из нее "
+"появляется корабль, тот самый, который вы видели, когда впервые попали в "
+"этот сектор. Затем голос говорит: \"Теперь... мы расстаемся. Поскольку "
+"эту... ложную пустоту захватили повстанцы, мои сородичи... будут вынуждены "
+"бежать. Им нужен... проводник, который обратит их к свету. Я должен... "
+"отправиться к ним сейчас и молиться, чтобы они... захотели меня выслушать. "
+"Прощай, чужак... и спасибо тебе\". Голос умолкает в последний раз, и корабль "
+"удаляется во тьму."
 
 #: src-en/data/events_enlightened.xml:4686
 msgid ""
@@ -7987,18 +8331,28 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
 msgstr ""
+"Когда вы поворачиваетесь, чтобы выйти из комнаты и приготовиться покинуть "
+"сектор... вы что-то чувствуете. Предчувствие надвигающейся гибели... когда "
+"из темноты появляется новая тень. К вам приближается огромный корабль "
+"конструкции глубоководных. Несмотря на то, что дизайн корабля хорошо знаком, "
+"отсутствие освещения вызывает тревогу... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4691
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что это такое?"
 
 #: src-en/data/events_enlightened.xml:4693
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ДАНЬ. ТЫ СОШЕЛСЯ... С ПРЕДАТЕЛЕМ. ТЫ "
+"ЗАМЫШЛЯЕШЬ... ГИБЕЛЬ НАШЕГО ЛОРДА. НО УТЕШЬСЯ, ИБО НАШ ГОСПОДИН... ТРЕБУЕТ, "
+"ЧТОБЫ ТВОЯ СМЕРТЬ БЫЛА МИЛОСЕРДНОЙ\". Они заканчивают связь, и их оружие "
+"активируется.. Вы понимаете, что одно из них неизвестной вам конструкции, но "
+"времени на раздумья нет. Дредноут готовится начать атаку, а вы - к концу."
 
 #: src-en/data/events_enlightened.xml:4697
 msgid ""
@@ -8010,13 +8364,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/text"
-msgstr ""
+msgstr "Спросить голос, что сейчас происходит."
 
 #: src-en/data/events_enlightened.xml:4709
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/text"
 msgstr ""
+"Он не отвечает, и вы наблюдаете, как темнота снаружи отодвигается... из нее "
+"появляется корабль, тот самый, который вы видели, когда впервые попали в "
+"этот сектор. Затем голос говорит: \"Теперь... мы расстаемся. Я нужен моему "
+"народу... для грядущих сражений, если мир за пределами этой ложной "
+"пустоты... будет хотя бы наполовину таким же безжалостным, как ты. И все же "
+"я прошу тебя... об одном, чужак...\" Голос делает неловкую паузу: \"...не "
+"возвращайся\". С этими словами голос умолкает в последний раз, и корабль "
+"удаляется во тьму."
 
 #: src-en/data/events_enlightened.xml:4711
 msgid ""
@@ -8029,18 +8391,28 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/text"
 msgstr ""
+"Когда вы поворачиваетесь, чтобы выйти из комнаты и приготовиться покинуть "
+"сектор... вы что-то чувствуете. Предчувствие надвигающейся гибели... когда "
+"из темноты появляется новая тень. К вам приближается огромный корабль "
+"конструкции глубоководных. Несмотря на то, что дизайн корабля хорошо знаком, "
+"отсутствие освещения вызывает тревогу... как и отсутствие цвета."
 
 #: src-en/data/events_enlightened.xml:4716
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что это такое?"
 
 #: src-en/data/events_enlightened.xml:4718
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Дредноут вызывает вас: \"ЧУЖАК. ДАНЬ. ТЫ СОШЕЛСЯ... С ПРЕДАТЕЛЕМ. ТЫ "
+"ЗАМЫШЛЯЕШЬ... ГИБЕЛЬ НАШЕГО ЛОРДА. НО УТЕШЬСЯ, ИБО НАШ ГОСПОДИН... ТРЕБУЕТ, "
+"ЧТОБЫ ТВОЯ СМЕРТЬ БЫЛА МИЛОСЕРДНОЙ\". Они заканчивают связь, и их оружие "
+"активируется.. Вы понимаете, что одно из них неизвестной вам конструкции, но "
+"времени на раздумья нет. Дредноут готовится начать атаку, а вы - к концу."
 
 #: src-en/data/events_enlightened.xml:4722
 msgid ""
@@ -8052,37 +8424,60 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
-msgstr ""
+msgstr "Пришло время."
 
 #: src-en/data/events_enlightened.xml:4734
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
+"Вы готовы выбраться из этой богом забытой пустоты. Однако у пустоты другие "
+"планы. Вы видите, как тьма снаружи раздвигается... и из нее появляется "
+"корабль - тот самый, который вы видели, когда только вошли в этот сектор. "
+"Чего хочет это судно?"
 
 #: src-en/data/events_enlightened.xml:4736
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
-msgstr ""
+msgstr "Я устал слушать его болтовню. Взорвать его."
 
 #: src-en/data/events_enlightened.xml:4738
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
 msgstr ""
+"Выстрел пробивает корабль насквозь, но там, где он должен расколоться "
+"пополам и рассыпаться... он этого не делает. Голос обращается к вам, когда "
+"корабль бросает вызов смерти: "
+"\"Значит... вот так, да? И всего с одного выстрела...\", - он надрывно "
+"кашляет между фразами, - \"Скажи мне, чужак... или, кто ты там... что ты "
+"собираешься делать, когда покинешь... этот сектор?\". Корабль напротив "
+"начинает содрогаться."
 
 #: src-en/data/events_enlightened.xml:4740
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Конечно, я тебя порадую. Ответ прост: все, что я захочу."
 
 #: src-en/data/events_enlightened.xml:4742
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вибрация корабля усиливается, и голос отвечает: \"Этого я и боюсь. Если тебя "
+"не остановить здесь... ты убьешь всех, не так ли? Независимо от расы или "
+"принадлежности... ты просто будешь убивать, чтобы убивать. Это... жадность? "
+"Просто... злость? Или, может быть, это... тошнотворное чувство... "
+"любопытства? Посмотреть... что будет дальше? По правде говоря, это "
+"неважно... но я скажу тебе, что движет мной\". Корабль снаружи вибрирует все "
+"сильнее и сильнее, окружающая тьма начинает окутывать его... преображать. "
+"Голос продолжает: \"Это мой народ... и не только Просветленные или "
+"глубоководные, но... народ этой реальности. Из... каждой реальности. Сейчас "
+"я чувствую себя так, словно меня разрывают на части... и все же... если я не "
+"остановлю тебя здесь и сейчас... их надежды... их мечты... все будет "
+"напрасно. Именно по этой причине, чужак, я...\""
 
 #: src-en/data/events_enlightened.xml:4744
 msgid ""
@@ -8095,6 +8490,9 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"...тебе придется постараться... немного больше, чем до ЭТОГО\". Новый "
+"корабль появляется на том месте, где находился предыдущий; появляется герой, "
+"и вы готовитесь к концу."
 
 #: src-en/data/events_enlightened.xml:4755
 msgid ""
@@ -8121,102 +8519,153 @@ msgstr "Вы чувствуете... что вас осуждают, когда 
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
+"Просветленные, какими бы фанатичными они ни были, все же не полностью "
+"пренебрегают своей жизнью. Они хотят капитулировать."
 
 #: src-en/data/events_enlightened.xml:4789
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
+"Вы получаете несколько сообщений, состоящих из полной тарабарщины и "
+"сопровождаемых взяткой. Вы полагаете, что это означает, что они хотят "
+"сдаться."
 
 #: src-en/data/events_enlightened.xml:4790
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
+"Вы получаете вызов и видите, что тьма начинает проникать на корабль "
+"Просветленных. Они готовы сдаться."
 
 #: src-en/data/events_enlightened.xml:4791
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
+"\"Темный... Темный предлагает перемирие\". Почему же тогда, скажите на "
+"милость, он продолжает мучить вас?"
 
 #: src-en/data/events_enlightened.xml:4792
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
+"Когда противостоящий корабль Просветленных начинает разваливаться, вы "
+"получаете отчаянный вызов о капитуляции."
 
 #: src-en/data/events_enlightened.xml:4793
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
+"Просветленные молятся своему Темному Богу, прося его о милости... они просят "
+"и вас."
 
 #: src-en/data/events_enlightened.xml:4797
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_ESCAPE\"]/text"
-msgstr ""
+msgstr "Ваши сканеры фиксируют сигнатуры ССД, Просветленные пытаются сбежать!"
 
 #: src-en/data/events_enlightened.xml:4807
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[1]"
 msgstr ""
+"Разбирая странный корабль, вы задаетесь вопросом, сколько урона было "
+"нанесено его корпусу до вашей схватки."
 
 #: src-en/data/events_enlightened.xml:4808
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[2]"
 msgstr ""
+"Просветленные обращаются с последней мольбой к своему Темному Богу, когда их "
+"корабль разваливается на части... а затем они оказываются в той самой "
+"пустоте, в которой провели всю свою жизнь."
 
 #: src-en/data/events_enlightened.xml:4809
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[3]"
 msgstr ""
+"Во время операции по разборке корабля на лом ваш экипаж заметил, что огни, "
+"украшающие корпус Просветленных, кажется, никогда не угасают. Вы находите "
+"это довольно ироничным."
 
 #: src-en/data/events_enlightened.xml:4810
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[4]"
 msgstr ""
+"Вы наблюдаете, как светящиеся обломки Просветленных уплывают во тьму, чтобы "
+"быть поглощенными... они похожи на звезды, которые гаснут."
 
 #: src-en/data/events_enlightened.xml:4811
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[5]"
 msgstr ""
+"Похоже, в этом проклятом море теней охотники стали жертвами. Вы не можете не "
+"задаться вопросом, должно ли было все закончиться именно так."
 
 #: src-en/data/events_enlightened.xml:4812
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[6]"
 msgstr ""
+"Вы вздохнули с облегчением, когда убедились, что угроза устранена. Каждая "
+"секунда, проведенная в этой пустоте, - это секунда, которую вы предпочли бы "
+"провести в любом другом месте."
 
 #: src-en/data/events_enlightened.xml:4813
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[7]"
 msgstr ""
+"Корабль разрывается на части гораздо сильнее, чем вы ожидали, разбрасывая во "
+"все стороны желтые обломки. Или они были коричневыми? Ответ кажется "
+"неважным, поскольку обломки поглощает тьма."
 
 #: src-en/data/events_enlightened.xml:4822
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[1]"
 msgstr ""
+"Бродя по коридорам странного корабля, вы задаетесь вопросом, сколько урона "
+"было нанесено его корпусу до вашей схватки."
 
 #: src-en/data/events_enlightened.xml:4823
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[2]"
 msgstr ""
+"Разбирая корабль, вы натыкаетесь на умирающего Просветленного, который, "
+"встретившись с вами взглядом, бормочет молитву Темному Богу, после чего "
+"теряет сознание и умирает. Отлично, теперь вы прокляты..."
 
 #: src-en/data/events_enlightened.xml:4824
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[3]"
 msgstr ""
+"Во время операции по разборке корабля на лом ваш экипаж заметил, что огни, "
+"украшающие корпус Просветленных, кажется, никогда не угасают. Вы находите "
+"это довольно ироничным."
 
 #: src-en/data/events_enlightened.xml:4825
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[4]"
 msgstr ""
+"Пока ваш экипаж исследует опустевший корабль, вы изучаете базу данных о "
+"морских обитателей Старой Земли. У Просветленных прекрасный вкус в "
+"корабельной архитектуре, но у них также есть и не менее прекрасный лом."
 
 #: src-en/data/events_enlightened.xml:4826
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[5]"
 msgstr ""
+"Хотя вы едва понимаете существ, которых только что убили, вы не можете "
+"избавиться от ощущения, что все не должно было закончиться именно так."
 
 #: src-en/data/events_enlightened.xml:4827
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[6]"
 msgstr ""
+"Вы вздохнули с облегчением, когда выяснилось, что экипаж погиб. Каждая "
+"секунда, проведенная в этой пустоте, - это секунда, которую вы предпочли бы "
+"провести в любом другом месте."
 
 #: src-en/data/events_enlightened.xml:4828
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[7]"
 msgstr ""
+"Среди лома ваш экипаж начинает спорить о том, какого цвета огни, "
+"используемые Просветленными. Очевидно, что они желтые, но вы не хотите "
+"портить им веселье... впрочем, не так уж это и важно среди этой темноты, не "
+"так ли?"
