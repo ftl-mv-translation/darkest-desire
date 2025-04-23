@@ -837,13 +837,15 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[16]/text"
 msgstr ""
-"(Arbiter Drone) Set the state of the drone. [Current mode: Anti-Person]"
+"(Abyss I Templar Drone) Set the state of the drone. [Current mode: Anti-"
+"Person]"
 
 #: src-en/data/events_special_storage.xml.append:528
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[17]/text"
-msgstr "(Arbiter Drone) Set the state of the drone. [Current mode: Boarder]"
+msgstr ""
+"(Abyss I Templar Drone) Set the state of the drone. [Current mode: Boarder]"
 
 #: src-en/data/events_special_storage.xml.append:532
 msgid ""
@@ -926,7 +928,8 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[28]/text"
 msgstr ""
-"(Liberator Drone) Set the state of the drone. [Current mode: Anti-Person]"
+"(Mire I Templar Drone) Set the state of the drone. [Current mode: Anti-"
+"Person]"
 
 #: src-en/data/events_special_storage.xml.append:576
 msgid ""
@@ -3349,13 +3352,13 @@ msgstr "Level 3 Corruptor. [UNAVAILABLE: system is not level 2]"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr "Level 3 Corruptor [Cost: 65~, 6{]"
+msgstr "Level 3 Corruptor [Cost: 80~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr "Level 4 Corruptor [Cost: 80~, 8{, 3}]"
+msgstr "Level 4 Corruptor [Cost: 110~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2346
 msgid ""
@@ -3505,7 +3508,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Perform the upgrade. [Cost: 40~, 3{]"
+msgstr "Perform the upgrade. [Cost: 80~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2477
 msgid ""
@@ -3541,7 +3544,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Perform the upgrade. [Cost: 80~, 8{, 3}]"
+msgstr "Perform the upgrade. [Cost: 110~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2505
 msgid ""
@@ -4011,8 +4014,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/text"
 msgstr ""
 "Though you can't read the text, this section's diagrams showcase depictions "
-"of darkness and ritualistic devotion. You'll need to find somebody who "
-"understands the text to perform its rituals."
+"of wispy, shadowy darkness and ritualistic devotion. You'll need to find "
+"somebody who understands the text to perform its rituals."
 
 #: src-en/data/events_special_storage.xml.append:2802
 msgid ""
@@ -4025,9 +4028,10 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
 "Your Enlightened crew member writes you a cipher. Using it, you're able to "
-"understand what the text describes: a single ritual that allows Enlightened "
-"to ascend from their position as mere cultists, and become one of the Dark "
-"God's Chosen."
+"understand what the text describes: a couple rituals; one that allows "
+"Enlightened to ascend from their position as mere cultists, and become one "
+"of the Dark God's Chosen, and a second that allows you to collect a form of "
+"robotic gifts unique to the Enlightened."
 
 #: src-en/data/events_special_storage.xml.append:2806
 msgid ""
@@ -4150,10 +4154,10 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
-"Your Ill'drythk Statue secretes a white substance over the relevant pages, "
-"which appears to transcribe them into a language you can understand. Looking"
-" at the pages now, you're able to comprehend their purpose: hunting down "
-"fellow Ill'drythk trees and claiming their Statues."
+"Your Ill'drythk crew member secretes a white substance over the relevant "
+"pages, which appears to transcribe them into a language you can understand. "
+"Looking at the pages now, you're able to comprehend their purpose: hunting "
+"down other Ill'drythk trees and claiming their power."
 
 #: src-en/data/events_special_storage.xml.append:2879
 msgid ""
@@ -4165,7 +4169,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/event/text"
 msgstr ""
 "RITUAL OF RIVALRY:\n"
-"\t\t\t\t\t\t\tThis ritual gives you the location of a Ill'drythk tree, which you can crew kill to subsume one of its Ill'drythk Statues into your own collective. Destroying the tree won't yield any special rewards."
+"\t\t\t\t\t\t\tThis ritual gives you the location of an Ill'drythk tree, which you can crew kill to subsume one of its Ill'drythk Statues into your own collective. Destroying the tree won't yield any special rewards."
 
 #: src-en/data/events_special_storage.xml.append:2884
 msgid ""
@@ -4199,7 +4203,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[5]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[3]/event/text"
 msgstr ""
 "RITUAL OF MUTINOUS MUTATION:\n"
-"\t\t\t\t\t\t\tThis ritual gives you the location of an Ill'drythk Pale Heart; a particularly powerful Ill'drythk tree that has unlocked the secrets of Ill'drythk mutation. Killing its crew allows you to claim these secrets for yourself, but destroying it will destroy its secrets with it. You need at least three Ill'drythk Statues to act as conduits for the ritual, and you can only perform it once."
+"\t\t\t\t\t\t\tThis ritual gives you the location of an Ill'drythk Pale Heart; a particularly powerful Ill'drythk tree that has unlocked the secrets of Ill'drythk mutation. Killing its crew allows you to claim these secrets for yourself, but destroying it will destroy its secrets with it. You need to have made at least two sacrifices in the name of Ill'drythk rituals in order to perform this ritual, and you can only perform it once."
 
 #: src-en/data/events_special_storage.xml.append:2906
 msgid ""
@@ -4398,7 +4402,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/text"
 msgstr ""
 "RITUAL OF SOUL FIRING:\n"
-"\t\t\t\t\t\t\tThis ritual gives you the location of a Shell ship, which you can weaken to allow the nearest Soulplague mass to subsume them into the Children of the Stars' collective. Doing so allows them to grant you a reward in return, in the form of a random Soulplague weapon. Completely destroying the ship or killing its crew will result in you failing the ritual, and not receiving any additional rewards."
+"\t\t\t\t\t\t\tThis ritual gives you the location of a Shell ship, which you can get to low hull health to allow the nearest Soulplague mass to subsume them into the Children of the Stars' collective. Doing so allows them to grant you a reward in return, in the form of a random Soulplague weapon. Completely destroying the ship or killing its crew will result in you failing the ritual, and not receiving any additional rewards."
 
 #: src-en/data/events_special_storage.xml.append:3021
 msgid ""
@@ -4415,7 +4419,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[4]/event/text"
 msgstr ""
 "RITUAL OF SOUL BINDING:\n"
-"\t\t\t\t\t\t\tThis ritual gives you the location of the nearest Soulplague mass, which you can attempt to bind to your service. Doing so will have the mass attack you with all the souls it can afford to; you will have to survive an onslaught of Soulplague Husks and Huskweavers as they invade in waves. If you can survive the assault, you can bind the mass to your service, and it will arrive to assist you in any future fights you demand it to. You need at least six Soulplague-aligned crew to function as conduits for the ritual, and you can only perform it once."
+"\t\t\t\t\t\t\tThis ritual gives you the location of the nearest Soulplague mass, which you can attempt to bind to your service. Doing so will have the mass attack you with all the souls it can afford to; you will have to survive an onslaught of Soulplague Husks and Huskweavers as they invade in waves. If you can survive the assault, you can bind the mass to your service, and it will arrive to assist you in any future fights you demand it to. You need to have made at least three sacrifices in the name of Soulplague rituals in order to perform this ritual, and you can only perform it once."
 
 #: src-en/data/events_special_storage.xml.append:3032
 msgid ""
