@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 09:13+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_sector_ddcoremassxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_sector_ddcoremass.xml:5
 msgid ""
@@ -421,8 +414,8 @@ msgstr ""
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"STORE_LOAD_DDSOULPLAGUE\"]/text"
 msgstr ""
-"Antes de comprar, aún tienes algo de tiempo para hacer algo más abordo de la "
-"nave."
+"Antes de comprar, aún tienes algo de tiempo para hacer algo más abordo de la"
+" nave."
 
 #: src-en/data/events_sector_ddcoremass.xml:292
 msgid ""
@@ -6273,1000 +6266,1025 @@ msgstr "Continuar..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4421
 msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4430
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4432
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4438
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4448
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4456
+msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4428
+#: src-en/data/events_sector_ddcoremass.xml:4464
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4430
+#: src-en/data/events_sector_ddcoremass.xml:4466
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4433
+#: src-en/data/events_sector_ddcoremass.xml:4469
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4435
+#: src-en/data/events_sector_ddcoremass.xml:4471
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4444
+#: src-en/data/events_sector_ddcoremass.xml:4480
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4446
+#: src-en/data/events_sector_ddcoremass.xml:4482
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4448
+#: src-en/data/events_sector_ddcoremass.xml:4484
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4450
+#: src-en/data/events_sector_ddcoremass.xml:4486
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4453
+#: src-en/data/events_sector_ddcoremass.xml:4489
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4455
+#: src-en/data/events_sector_ddcoremass.xml:4491
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4459
+#: src-en/data/events_sector_ddcoremass.xml:4495
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4461
+#: src-en/data/events_sector_ddcoremass.xml:4497
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4463
+#: src-en/data/events_sector_ddcoremass.xml:4499
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4465
+#: src-en/data/events_sector_ddcoremass.xml:4501
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4469
+#: src-en/data/events_sector_ddcoremass.xml:4505
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4471
+#: src-en/data/events_sector_ddcoremass.xml:4507
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4473
+#: src-en/data/events_sector_ddcoremass.xml:4509
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4475
+#: src-en/data/events_sector_ddcoremass.xml:4511
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4477
+#: src-en/data/events_sector_ddcoremass.xml:4513
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4479
+#: src-en/data/events_sector_ddcoremass.xml:4515
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4481
+#: src-en/data/events_sector_ddcoremass.xml:4517
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4483
+#: src-en/data/events_sector_ddcoremass.xml:4519
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4485
+#: src-en/data/events_sector_ddcoremass.xml:4521
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4487
+#: src-en/data/events_sector_ddcoremass.xml:4523
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4489
+#: src-en/data/events_sector_ddcoremass.xml:4525
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4491
+#: src-en/data/events_sector_ddcoremass.xml:4527
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4493
+#: src-en/data/events_sector_ddcoremass.xml:4529
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4495
+#: src-en/data/events_sector_ddcoremass.xml:4531
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4497
+#: src-en/data/events_sector_ddcoremass.xml:4533
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4499
+#: src-en/data/events_sector_ddcoremass.xml:4535
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4501
+#: src-en/data/events_sector_ddcoremass.xml:4537
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4503
+#: src-en/data/events_sector_ddcoremass.xml:4539
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4505
+#: src-en/data/events_sector_ddcoremass.xml:4541
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4507
+#: src-en/data/events_sector_ddcoremass.xml:4543
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4509
+#: src-en/data/events_sector_ddcoremass.xml:4545
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4511
+#: src-en/data/events_sector_ddcoremass.xml:4547
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4513
+#: src-en/data/events_sector_ddcoremass.xml:4549
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4527
+#: src-en/data/events_sector_ddcoremass.xml:4563
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4529
+#: src-en/data/events_sector_ddcoremass.xml:4565
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4531
+#: src-en/data/events_sector_ddcoremass.xml:4567
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4557
+#: src-en/data/events_sector_ddcoremass.xml:4593
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4567
+#: src-en/data/events_sector_ddcoremass.xml:4603
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4573
+#: src-en/data/events_sector_ddcoremass.xml:4609
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4576
+#: src-en/data/events_sector_ddcoremass.xml:4612
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4578
+#: src-en/data/events_sector_ddcoremass.xml:4614
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4580
+#: src-en/data/events_sector_ddcoremass.xml:4616
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4582
+#: src-en/data/events_sector_ddcoremass.xml:4618
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4586
+#: src-en/data/events_sector_ddcoremass.xml:4622
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4588
+#: src-en/data/events_sector_ddcoremass.xml:4624
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4590
+#: src-en/data/events_sector_ddcoremass.xml:4626
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4592
+#: src-en/data/events_sector_ddcoremass.xml:4628
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4594
+#: src-en/data/events_sector_ddcoremass.xml:4630
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4596
+#: src-en/data/events_sector_ddcoremass.xml:4632
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4598
+#: src-en/data/events_sector_ddcoremass.xml:4634
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4600
+#: src-en/data/events_sector_ddcoremass.xml:4636
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4602
+#: src-en/data/events_sector_ddcoremass.xml:4638
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4604
+#: src-en/data/events_sector_ddcoremass.xml:4640
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4608
+#: src-en/data/events_sector_ddcoremass.xml:4644
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4610
+#: src-en/data/events_sector_ddcoremass.xml:4646
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4629
+#: src-en/data/events_sector_ddcoremass.xml:4665
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4632
+#: src-en/data/events_sector_ddcoremass.xml:4668
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4634
+#: src-en/data/events_sector_ddcoremass.xml:4670
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4643
+#: src-en/data/events_sector_ddcoremass.xml:4679
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4645
+#: src-en/data/events_sector_ddcoremass.xml:4681
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4648
+#: src-en/data/events_sector_ddcoremass.xml:4684
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4650
+#: src-en/data/events_sector_ddcoremass.xml:4686
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4654
+#: src-en/data/events_sector_ddcoremass.xml:4690
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4656
+#: src-en/data/events_sector_ddcoremass.xml:4692
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4658
+#: src-en/data/events_sector_ddcoremass.xml:4694
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4660
+#: src-en/data/events_sector_ddcoremass.xml:4696
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4664
+#: src-en/data/events_sector_ddcoremass.xml:4700
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4666
+#: src-en/data/events_sector_ddcoremass.xml:4702
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4668
+#: src-en/data/events_sector_ddcoremass.xml:4704
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4670
+#: src-en/data/events_sector_ddcoremass.xml:4706
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4672
+#: src-en/data/events_sector_ddcoremass.xml:4708
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4674
+#: src-en/data/events_sector_ddcoremass.xml:4710
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4676
+#: src-en/data/events_sector_ddcoremass.xml:4712
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4678
+#: src-en/data/events_sector_ddcoremass.xml:4714
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4680
+#: src-en/data/events_sector_ddcoremass.xml:4716
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4682
+#: src-en/data/events_sector_ddcoremass.xml:4718
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4684
+#: src-en/data/events_sector_ddcoremass.xml:4720
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4686
+#: src-en/data/events_sector_ddcoremass.xml:4722
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4688
+#: src-en/data/events_sector_ddcoremass.xml:4724
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4690
+#: src-en/data/events_sector_ddcoremass.xml:4726
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4692
+#: src-en/data/events_sector_ddcoremass.xml:4728
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4694
+#: src-en/data/events_sector_ddcoremass.xml:4730
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4696
+#: src-en/data/events_sector_ddcoremass.xml:4732
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4698
+#: src-en/data/events_sector_ddcoremass.xml:4734
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4700
+#: src-en/data/events_sector_ddcoremass.xml:4736
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4702
+#: src-en/data/events_sector_ddcoremass.xml:4738
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4704
+#: src-en/data/events_sector_ddcoremass.xml:4740
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4718
+#: src-en/data/events_sector_ddcoremass.xml:4754
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4720
+#: src-en/data/events_sector_ddcoremass.xml:4756
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4722
+#: src-en/data/events_sector_ddcoremass.xml:4758
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4746
+#: src-en/data/events_sector_ddcoremass.xml:4782
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4748
+#: src-en/data/events_sector_ddcoremass.xml:4784
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4751
+#: src-en/data/events_sector_ddcoremass.xml:4787
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4753
+#: src-en/data/events_sector_ddcoremass.xml:4789
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4755
+#: src-en/data/events_sector_ddcoremass.xml:4791
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4757
+#: src-en/data/events_sector_ddcoremass.xml:4793
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4761
+#: src-en/data/events_sector_ddcoremass.xml:4797
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4763
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"0\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4767
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"2\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4769
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"2\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4784
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4786
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4788
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4791
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/crewMember"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4793
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"0\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4795
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"0\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4799
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4803
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4801
+#: src-en/data/events_sector_ddcoremass.xml:4805
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4810
+#: src-en/data/events_sector_ddcoremass.xml:4820
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4812
+#: src-en/data/events_sector_ddcoremass.xml:4822
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_sector_ddcoremass.xml:4814
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4816
+#: src-en/data/events_sector_ddcoremass.xml:4824
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4818
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4821
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/crewMember"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4823
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4825
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4827
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/crewMember"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4829
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"0\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4831
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4833
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4835
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"2\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4837
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4839
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"0\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4841
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"0\"]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4845
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
-" and @lvl=\"2\"]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddcoremass.xml:4847
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4868
+#: src-en/data/events_sector_ddcoremass.xml:4846
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4848
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4850
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4852
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4854
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4857
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/crewMember"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4859
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4861
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4863
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4865
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4867
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4869
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4871
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/choice/text"
-msgstr "Continuar..."
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4876
+#: src-en/data/events_sector_ddcoremass.xml:4873
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4875
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4877
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4881
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_sector_ddcoremass.xml:4888
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_DEATHTOEVIL\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"2\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4894
+#: src-en/data/events_sector_ddcoremass.xml:4883
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
+" and @lvl=\"2\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4903
+#: src-en/data/events_sector_ddcoremass.xml:4904
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_sector_ddcoremass.xml:4905
-msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/text"
+"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4907
 msgid ""
+"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4912
+msgid ""
+"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4917
+msgid ""
+"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4924
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_DEATHTOEVIL\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4930
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4939
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/text"
+msgstr "Continuar..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4941
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4943
+msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4909
+#: src-en/data/events_sector_ddcoremass.xml:4945
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4911
+#: src-en/data/events_sector_ddcoremass.xml:4947
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4912
+#: src-en/data/events_sector_ddcoremass.xml:4948
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4914
+#: src-en/data/events_sector_ddcoremass.xml:4950
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4916
+#: src-en/data/events_sector_ddcoremass.xml:4952
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4919
+#: src-en/data/events_sector_ddcoremass.xml:4955
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4921
+#: src-en/data/events_sector_ddcoremass.xml:4957
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4927
+#: src-en/data/events_sector_ddcoremass.xml:4963
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4929
+#: src-en/data/events_sector_ddcoremass.xml:4965
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4947
+#: src-en/data/events_sector_ddcoremass.xml:4983
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4948
+#: src-en/data/events_sector_ddcoremass.xml:4984
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/visitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4950
+#: src-en/data/events_sector_ddcoremass.xml:4986
 msgid "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4958
+#: src-en/data/events_sector_ddcoremass.xml:4994
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4960
+#: src-en/data/events_sector_ddcoremass.xml:4996
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4967
+#: src-en/data/events_sector_ddcoremass.xml:5003
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4969
+#: src-en/data/events_sector_ddcoremass.xml:5005
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4971
+#: src-en/data/events_sector_ddcoremass.xml:5007
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4973
+#: src-en/data/events_sector_ddcoremass.xml:5009
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4985
+#: src-en/data/events_sector_ddcoremass.xml:5021
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4996
+#: src-en/data/events_sector_ddcoremass.xml:5032
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:4998
+#: src-en/data/events_sector_ddcoremass.xml:5034
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5000
+#: src-en/data/events_sector_ddcoremass.xml:5036
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5002
+#: src-en/data/events_sector_ddcoremass.xml:5038
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5004
+#: src-en/data/events_sector_ddcoremass.xml:5040
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5006
+#: src-en/data/events_sector_ddcoremass.xml:5042
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5010
+#: src-en/data/events_sector_ddcoremass.xml:5046
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5012
+#: src-en/data/events_sector_ddcoremass.xml:5048
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_sector_ddcoremass.xml:5028
+#: src-en/data/events_sector_ddcoremass.xml:5064
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5030
+#: src-en/data/events_sector_ddcoremass.xml:5066
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5035
+#: src-en/data/events_sector_ddcoremass.xml:5071
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5037
+#: src-en/data/events_sector_ddcoremass.xml:5073
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5042
+#: src-en/data/events_sector_ddcoremass.xml:5078
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5052
+#: src-en/data/events_sector_ddcoremass.xml:5088
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5054
+#: src-en/data/events_sector_ddcoremass.xml:5090
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddcoremass.xml:5062
+#: src-en/data/events_sector_ddcoremass.xml:5098
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"

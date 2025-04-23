@@ -7403,18 +7403,52 @@ msgstr "Continue..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4421
 msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/text"
+msgstr ""
+"As the battle draws on, you're expecting the Coremass to strike at your ship... but, instead, you hear faint whispers at the edge of your mind once more:\n"
+"\t\n"
+"\t\"...no... no more suffering...\"\n"
+"\t\"...thhhhis madness... ends here...\"\n"
+"\t\"...even if i... must die withhh it...\"\n"
+"\t\n"
+"\tOutside, the Coremass' heart glows brighter, and its monstrous, innumerable tentacles are halted in their approach as they're wracked by violent spasms..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4430
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4432
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/text"
+msgstr ""
+"...before they seem to be possessed by a new conviction, focusing their ire "
+"upon the Soulplague Devourer!"
+
+#: src-en/data/events_sector_ddcoremass.xml:4438
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "The Soulplague Coremass will attack after this countdown."
+
+#: src-en/data/events_sector_ddcoremass.xml:4448
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/choice/text"
+msgstr "Everyone; keep up the pressure! We can do this!"
+
+#: src-en/data/events_sector_ddcoremass.xml:4456
+msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/text"
 msgstr ""
 "With its guardian defeated, the heart lays exposed... all that's left is to "
 "finish this."
 
-#: src-en/data/events_sector_ddcoremass.xml:4428
+#: src-en/data/events_sector_ddcoremass.xml:4464
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/text"
 msgstr "Search for the heroine who assisted you."
 
-#: src-en/data/events_sector_ddcoremass.xml:4430
+#: src-en/data/events_sector_ddcoremass.xml:4466
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/text"
@@ -7423,13 +7457,13 @@ msgstr ""
 "approach, she turns to face you, \"Comrade! Is it over? Is the heart "
 "exposed?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4433
+#: src-en/data/events_sector_ddcoremass.xml:4469
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/text"
 msgstr "It is. What do we do next?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4435
+#: src-en/data/events_sector_ddcoremass.xml:4471
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/text"
@@ -7442,13 +7476,13 @@ msgstr ""
 "\t\t\t\t\t\n"
 "\t\t\t\t\tThe armored woman looks at you, distraction apparent on your face, and tilts her head, \"Is something the matter? If not, I believe it to be time we end this. With its guardian defeated, all it takes is one powerful strike to destroy the heart, and end this nightmare once and for all... fret not! I can do it safely, from here. Such is the power of a hero's hope...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4444
+#: src-en/data/events_sector_ddcoremass.xml:4480
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/text"
 msgstr "I think... the heart is speaking to me."
 
-#: src-en/data/events_sector_ddcoremass.xml:4446
+#: src-en/data/events_sector_ddcoremass.xml:4482
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/event/text"
@@ -7462,14 +7496,14 @@ msgstr ""
 "speaking to you, there should be a way to reveal its true intentions beyond "
 "a shadow of a doubt..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4448
+#: src-en/data/events_sector_ddcoremass.xml:4484
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/text"
 msgstr "(Hope's Flame) Burn away the shadows of doubt."
 
-#: src-en/data/events_sector_ddcoremass.xml:4450
+#: src-en/data/events_sector_ddcoremass.xml:4486
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7482,14 +7516,14 @@ msgstr ""
 "around it... suddenly, it dissipates, and the luminous shell of the heart "
 "begins to... crack."
 
-#: src-en/data/events_sector_ddcoremass.xml:4453
+#: src-en/data/events_sector_ddcoremass.xml:4489
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/text"
 msgstr "Stare in awe."
 
-#: src-en/data/events_sector_ddcoremass.xml:4455
+#: src-en/data/events_sector_ddcoremass.xml:4491
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7502,14 +7536,14 @@ msgstr ""
 "space... as it does so, the Coremass outside begins to scream, and shake - "
 "this place is breaking apart!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4459
+#: src-en/data/events_sector_ddcoremass.xml:4495
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/text"
 msgstr "Grab that Shell; we need to brace ourselves!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4461
+#: src-en/data/events_sector_ddcoremass.xml:4497
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7521,14 +7555,14 @@ msgstr ""
 "you maneuver the ship to pick them up as the Coremass around you rapidly "
 "deteriorates..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4463
+#: src-en/data/events_sector_ddcoremass.xml:4499
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4465
+#: src-en/data/events_sector_ddcoremass.xml:4501
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7538,14 +7572,14 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. You've... done "
 "it! You've destroyed the Coremass!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4469
+#: src-en/data/events_sector_ddcoremass.xml:4505
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Look to the armored figure, and the strange Shell."
 
-#: src-en/data/events_sector_ddcoremass.xml:4471
+#: src-en/data/events_sector_ddcoremass.xml:4507
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7555,14 +7589,14 @@ msgstr ""
 "huddled over the Shell, who's collapsed on the floor, and performing some "
 "kind of maneuver..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4473
+#: src-en/data/events_sector_ddcoremass.xml:4509
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Let her do her thing."
 
-#: src-en/data/events_sector_ddcoremass.xml:4475
+#: src-en/data/events_sector_ddcoremass.xml:4511
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7574,14 +7608,14 @@ msgstr ""
 "flash of familiar, golden light as she strikes the Shell and cries out, "
 "\"LIVE, DAMN YOU! You won't die here - not on MY watch!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4477
+#: src-en/data/events_sector_ddcoremass.xml:4513
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Are you sure that's..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4479
+#: src-en/data/events_sector_ddcoremass.xml:4515
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7594,14 +7628,14 @@ msgstr ""
 "interrupted as he's forced to cough again, making a mess on the floor next "
 "to him."
 
-#: src-en/data/events_sector_ddcoremass.xml:4481
+#: src-en/data/events_sector_ddcoremass.xml:4517
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "The others? Who do you mean?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4483
+#: src-en/data/events_sector_ddcoremass.xml:4519
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7611,7 +7645,7 @@ msgstr ""
 "Coremass with me thhhhis entire time. Are thhhhey... here? Are thhhhey "
 "alright?\" He must mean the Children of the Stars..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4485
+#: src-en/data/events_sector_ddcoremass.xml:4521
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7620,7 +7654,7 @@ msgstr ""
 "Well... I don't think there's any part of 'them' left. I fear the "
 "mattervirus has entirely corrupted them."
 
-#: src-en/data/events_sector_ddcoremass.xml:4487
+#: src-en/data/events_sector_ddcoremass.xml:4523
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7632,14 +7666,14 @@ msgstr ""
 " to rot here, alone, forever, to condone for my mistakes...?\" He seems a "
 "bit out of it..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4489
+#: src-en/data/events_sector_ddcoremass.xml:4525
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Who exactly ARE you? And, uh... what did you do?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4491
+#: src-en/data/events_sector_ddcoremass.xml:4527
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7652,14 +7686,14 @@ msgstr ""
 "answer your questions, \"I... suppose I am as I said, hah... 'foolish'. As "
 "for what I've done... where do I even begin?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4493
+#: src-en/data/events_sector_ddcoremass.xml:4529
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr "Why not from the beginning?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4495
+#: src-en/data/events_sector_ddcoremass.xml:4531
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7676,14 +7710,14 @@ msgstr ""
 "Alkali's destructive influence.\" The Shell pauses, looking up again, "
 "\"Thhhat's... where everythhhhing went wrong.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4497
+#: src-en/data/events_sector_ddcoremass.xml:4533
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr "What happened?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4499
+#: src-en/data/events_sector_ddcoremass.xml:4535
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7695,14 +7729,14 @@ msgstr ""
 " anymore. Ultimately, thhhhough, thhhe real nail in the coffin... was "
 "thhhhat damnable artifact.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4501
+#: src-en/data/events_sector_ddcoremass.xml:4537
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr "Artifact?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4503
+#: src-en/data/events_sector_ddcoremass.xml:4539
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7714,14 +7748,14 @@ msgstr ""
 "minds out here before we finished thhhhe project, I... I struck a deal. I "
 "struck a deal, and it damned everyone... Gods...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4505
+#: src-en/data/events_sector_ddcoremass.xml:4541
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "You struck a deal with... who, exactly?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4507
+#: src-en/data/events_sector_ddcoremass.xml:4543
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7738,14 +7772,14 @@ msgstr ""
 "Everybody who trusted me... even our work's been taken, and twisted into "
 "thhhhis... thhhhese... thhhhese ABOMINATIONS!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4509
+#: src-en/data/events_sector_ddcoremass.xml:4545
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Do you mean the mattervirus?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4511
+#: src-en/data/events_sector_ddcoremass.xml:4547
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7760,21 +7794,21 @@ msgstr ""
 "\"We were... we were trying to help people... What have I done... I'm all "
 "alone, and I've... I've bastardized thhheir work...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4513
+#: src-en/data/events_sector_ddcoremass.xml:4549
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "I..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4527
+#: src-en/data/events_sector_ddcoremass.xml:4563
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "Actually, you don't have to explain it. I already know."
 
-#: src-en/data/events_sector_ddcoremass.xml:4529
+#: src-en/data/events_sector_ddcoremass.xml:4565
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7784,26 +7818,26 @@ msgstr ""
 "were trying to help people, and I... Gods, what have I done... I'm all "
 "alone, and I've... I've bastardized thhheir work...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4531
+#: src-en/data/events_sector_ddcoremass.xml:4567
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "not(@lvl)]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
 msgstr "I..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4557
+#: src-en/data/events_sector_ddcoremass.xml:4593
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and not(@lvl)]/event/choice/event/choice/event/choice[2]/text"
 msgstr "Stay quiet."
 
-#: src-en/data/events_sector_ddcoremass.xml:4567
+#: src-en/data/events_sector_ddcoremass.xml:4603
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and @lvl=\"0\"]/text"
 msgstr "Search for the heroine who assisted you."
 
-#: src-en/data/events_sector_ddcoremass.xml:4573
+#: src-en/data/events_sector_ddcoremass.xml:4609
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/text"
 msgstr ""
@@ -7811,24 +7845,24 @@ msgstr ""
 "off in every direction. As it's obliterated, the Coremass outside begins to "
 "scream, and shake - this place is breaking apart!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4576
+#: src-en/data/events_sector_ddcoremass.xml:4612
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/text"
 msgstr "Brace yourself!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4578
+#: src-en/data/events_sector_ddcoremass.xml:4614
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/text"
 msgstr ""
 "You look for cover, and seldom find it, but it turns out to be unnecessary "
 "as the Coremass around you rapidly deteriorates..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4580
+#: src-en/data/events_sector_ddcoremass.xml:4616
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4582
+#: src-en/data/events_sector_ddcoremass.xml:4618
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/text"
 msgstr ""
@@ -7836,12 +7870,12 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. You've... done "
 "it! You've destroyed the Coremass!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4586
+#: src-en/data/events_sector_ddcoremass.xml:4622
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/text"
 msgstr "Hell yeah!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4588
+#: src-en/data/events_sector_ddcoremass.xml:4624
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -7851,12 +7885,12 @@ msgstr ""
 "Multiverse. Hmmm... that settles it, then! Onwards, together - on a hero's "
 "journey!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4590
+#: src-en/data/events_sector_ddcoremass.xml:4626
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr "Wait, what? You're sticking around?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4592
+#: src-en/data/events_sector_ddcoremass.xml:4628
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -7867,12 +7901,12 @@ msgstr ""
 "stood with me, shoulder to shoulder, together as heroes, for no reason other"
 " reason other than because it was right. We are COMRADES!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4594
+#: src-en/data/events_sector_ddcoremass.xml:4630
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Well, um! Alright! Care to introduce yourself, then?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4596
+#: src-en/data/events_sector_ddcoremass.xml:4632
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -7880,12 +7914,12 @@ msgstr ""
 "and strikes a pose, \"I, AM A HEROINE! Savior to my people, slayer of "
 "villains - THE STUFF OF LEGENDS!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4598
+#: src-en/data/events_sector_ddcoremass.xml:4634
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Right... and, who are your people exactly?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4600
+#: src-en/data/events_sector_ddcoremass.xml:4636
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -7894,13 +7928,13 @@ msgstr ""
 " I think about it... well, whatever! Point being - we are COMRADES now! "
 "ONWARDS!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4602
+#: src-en/data/events_sector_ddcoremass.xml:4638
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "Onwards! For the Multiverse!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4604
+#: src-en/data/events_sector_ddcoremass.xml:4640
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
@@ -7910,13 +7944,13 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4608
+#: src-en/data/events_sector_ddcoremass.xml:4644
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "Onwards! For the Multiverse!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4610
+#: src-en/data/events_sector_ddcoremass.xml:4646
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
@@ -7926,7 +7960,7 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4629
+#: src-en/data/events_sector_ddcoremass.xml:4665
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/text"
 msgstr ""
@@ -7934,12 +7968,12 @@ msgstr ""
 " able to finish what she started. It's what she would have wanted, you "
 "feel..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4632
+#: src-en/data/events_sector_ddcoremass.xml:4668
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/text"
 msgstr "Turn to the heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4634
+#: src-en/data/events_sector_ddcoremass.xml:4670
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/text"
 msgstr ""
@@ -7951,12 +7985,12 @@ msgstr ""
 "\t\t\t\n"
 "\t\t\tIs it trying to lure you in, even now? If it truly is speaking to you, there should be a way to reveal its true intentions beyond a shadow of a doubt..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4643
+#: src-en/data/events_sector_ddcoremass.xml:4679
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/text"
 msgstr "(Hope's Flame) Burn away the shadows of doubt."
 
-#: src-en/data/events_sector_ddcoremass.xml:4645
+#: src-en/data/events_sector_ddcoremass.xml:4681
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/text"
 msgstr ""
@@ -7966,12 +8000,12 @@ msgstr ""
 "Coremass' heart, forming a sort of barrier around it... suddenly, it "
 "dissipates, and the luminous shell of the heart begins to... crack."
 
-#: src-en/data/events_sector_ddcoremass.xml:4648
+#: src-en/data/events_sector_ddcoremass.xml:4684
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/text"
 msgstr "Stare in awe."
 
-#: src-en/data/events_sector_ddcoremass.xml:4650
+#: src-en/data/events_sector_ddcoremass.xml:4686
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/text"
 msgstr ""
@@ -7982,24 +8016,24 @@ msgstr ""
 "space... as it does so, the Coremass outside begins to scream, and shake - "
 "this place is breaking apart!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4654
+#: src-en/data/events_sector_ddcoremass.xml:4690
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/text"
 msgstr "Grab that Shell; we need to brace ourselves!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4656
+#: src-en/data/events_sector_ddcoremass.xml:4692
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/text"
 msgstr ""
 "Though it's a risky maneuver, you fly the ship over to pick the Shell up as "
 "the Coremass around you rapidly deteriorates..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4658
+#: src-en/data/events_sector_ddcoremass.xml:4694
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4660
+#: src-en/data/events_sector_ddcoremass.xml:4696
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8007,12 +8041,12 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. You've... done "
 "it! You've destroyed the Coremass!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4664
+#: src-en/data/events_sector_ddcoremass.xml:4700
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Tend to the strange Shell."
 
-#: src-en/data/events_sector_ddcoremass.xml:4666
+#: src-en/data/events_sector_ddcoremass.xml:4702
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8021,12 +8055,12 @@ msgstr ""
 "let that stop you from saving them... they don't seem to be breathing, but "
 "they're warm to the touch, and their body seems to be pulsating."
 
-#: src-en/data/events_sector_ddcoremass.xml:4668
+#: src-en/data/events_sector_ddcoremass.xml:4704
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Try shaking them."
 
-#: src-en/data/events_sector_ddcoremass.xml:4670
+#: src-en/data/events_sector_ddcoremass.xml:4706
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8037,12 +8071,12 @@ msgstr ""
 "something out, \"Thhhhe... othhhers... did you...\" He's interrupted as he's"
 " forced to cough again, making a mess on the floor next to him."
 
-#: src-en/data/events_sector_ddcoremass.xml:4672
+#: src-en/data/events_sector_ddcoremass.xml:4708
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "The others? Who do you mean?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4674
+#: src-en/data/events_sector_ddcoremass.xml:4710
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8050,14 +8084,14 @@ msgstr ""
 "Coremass with me thhhhis entire time. Are thhhhey... here? Are thhhhey "
 "alright?\" He must mean the Children of the Stars..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4676
+#: src-en/data/events_sector_ddcoremass.xml:4712
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 "Well... I don't think there's any part of 'them' left. I fear the "
 "mattervirus has entirely corrupted them."
 
-#: src-en/data/events_sector_ddcoremass.xml:4678
+#: src-en/data/events_sector_ddcoremass.xml:4714
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8067,12 +8101,12 @@ msgstr ""
 " to rot here, alone, forever, to condone for my mistakes...?\" He seems a "
 "bit out of it..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4680
+#: src-en/data/events_sector_ddcoremass.xml:4716
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Who exactly ARE you? And, uh... what did you do?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4682
+#: src-en/data/events_sector_ddcoremass.xml:4718
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8083,12 +8117,12 @@ msgstr ""
 "answer your questions, \"I... suppose I am as I said, hah... 'foolish'. As "
 "for what I've done... where do I even begin?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4684
+#: src-en/data/events_sector_ddcoremass.xml:4720
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr "Why not from the beginning?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4686
+#: src-en/data/events_sector_ddcoremass.xml:4722
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
@@ -8103,12 +8137,12 @@ msgstr ""
 "Alkali's destructive influence.\" The Shell pauses, looking up again, "
 "\"Thhhat's... where everythhhhing went wrong.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4688
+#: src-en/data/events_sector_ddcoremass.xml:4724
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr "What happened?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4690
+#: src-en/data/events_sector_ddcoremass.xml:4726
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -8118,12 +8152,12 @@ msgstr ""
 " anymore. Ultimately, thhhhough, thhhe real nail in the coffin... was "
 "thhhhat damnable artifact.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4692
+#: src-en/data/events_sector_ddcoremass.xml:4728
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr "Artifact?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4694
+#: src-en/data/events_sector_ddcoremass.xml:4730
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
@@ -8133,12 +8167,12 @@ msgstr ""
 "minds out here before we finished thhhhe project, I... I struck a deal. I "
 "struck a deal, and it damned everyone... Gods...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4696
+#: src-en/data/events_sector_ddcoremass.xml:4732
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "You struck a deal with... who, exactly?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4698
+#: src-en/data/events_sector_ddcoremass.xml:4734
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8153,12 +8187,12 @@ msgstr ""
 "Everybody who trusted me... even our work's been taken, and twisted into "
 "thhhhis... thhhhese... thhhhese ABOMINATIONS!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4700
+#: src-en/data/events_sector_ddcoremass.xml:4736
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Do you mean the mattervirus?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4702
+#: src-en/data/events_sector_ddcoremass.xml:4738
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8171,17 +8205,17 @@ msgstr ""
 "\"We were... we were trying to help people... What have I done... I'm all "
 "alone, and I've... I've bastardized thhheir work...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4704
+#: src-en/data/events_sector_ddcoremass.xml:4740
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "I..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4718
+#: src-en/data/events_sector_ddcoremass.xml:4754
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "Actually, you don't have to explain it. I already know."
 
-#: src-en/data/events_sector_ddcoremass.xml:4720
+#: src-en/data/events_sector_ddcoremass.xml:4756
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
@@ -8189,17 +8223,17 @@ msgstr ""
 "were trying to help people, and I... Gods, what have I done... I'm all "
 "alone, and I've... I've bastardized thhheir work...\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4722
+#: src-en/data/events_sector_ddcoremass.xml:4758
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
 msgstr "I..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4746
+#: src-en/data/events_sector_ddcoremass.xml:4782
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/text"
 msgstr "Destroy the heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4748
+#: src-en/data/events_sector_ddcoremass.xml:4784
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/text"
 msgstr ""
@@ -8207,24 +8241,24 @@ msgstr ""
 "off in every direction. As it's obliterated, the Coremass outside begins to "
 "scream, and shake - this place is breaking apart!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4751
+#: src-en/data/events_sector_ddcoremass.xml:4787
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/text"
 msgstr "Brace yourself!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4753
+#: src-en/data/events_sector_ddcoremass.xml:4789
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
 "You look for cover, and seldom find it, but it turns out to be unnecessary "
 "as the Coremass around you rapidly deteriorates..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4755
+#: src-en/data/events_sector_ddcoremass.xml:4791
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4757
+#: src-en/data/events_sector_ddcoremass.xml:4793
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -8232,13 +8266,13 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. You've... done "
 "it! You've destroyed the Coremass!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4761
+#: src-en/data/events_sector_ddcoremass.xml:4797
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "What... now?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4763
+#: src-en/data/events_sector_ddcoremass.xml:4799
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
@@ -8248,13 +8282,13 @@ msgstr ""
 "something you could've done differently? You're not sure, but you do know "
 "this: there's nothing left here. It's time to move on."
 
-#: src-en/data/events_sector_ddcoremass.xml:4767
+#: src-en/data/events_sector_ddcoremass.xml:4803
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "What... now?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4769
+#: src-en/data/events_sector_ddcoremass.xml:4805
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
@@ -8264,7 +8298,7 @@ msgstr ""
 "something you could've done differently? You're not sure, but you do know "
 "this: there's nothing left here. It's time to move on."
 
-#: src-en/data/events_sector_ddcoremass.xml:4784
+#: src-en/data/events_sector_ddcoremass.xml:4820
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/text"
 msgstr ""
@@ -8279,12 +8313,12 @@ msgstr ""
 "along, wherever you're headed, and maybe we can, um... destroy thhhhem, "
 "togethhher?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4786
+#: src-en/data/events_sector_ddcoremass.xml:4822
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/text"
 msgstr "Assuming you're up for kicking some Rebel ass first, then I'm in!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4788
+#: src-en/data/events_sector_ddcoremass.xml:4824
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/text"
 msgstr ""
@@ -8292,18 +8326,18 @@ msgstr ""
 "say? Figures thhhat they're still kicking about, even after I spend just shy"
 " of a dozen centuries in semi-stasis... count me in!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4791
+#: src-en/data/events_sector_ddcoremass.xml:4827
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/crewMember"
 msgstr "The Foolish"
 
-#: src-en/data/events_sector_ddcoremass.xml:4793
+#: src-en/data/events_sector_ddcoremass.xml:4829
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "Hell yeah!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4795
+#: src-en/data/events_sector_ddcoremass.xml:4831
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
@@ -8313,13 +8347,13 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4799
+#: src-en/data/events_sector_ddcoremass.xml:4835
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "Hell yeah!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4801
+#: src-en/data/events_sector_ddcoremass.xml:4837
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING_PARTTWO\"]/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
@@ -8329,7 +8363,7 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4810
+#: src-en/data/events_sector_ddcoremass.xml:4846
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/text"
 msgstr ""
@@ -8343,12 +8377,12 @@ msgstr ""
 " to woe, here, and give up... who will carry on your fallen friends' legacy?"
 " Who will avenge their deaths, and live to remember their names?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4812
+#: src-en/data/events_sector_ddcoremass.xml:4848
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4814
+#: src-en/data/events_sector_ddcoremass.xml:4850
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/text"
 msgstr ""
@@ -8361,12 +8395,12 @@ msgstr ""
 "come along, wherever you're headed, and maybe we can, um... destroy thhhhem,"
 " togethhher?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4816
+#: src-en/data/events_sector_ddcoremass.xml:4852
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/text"
 msgstr "Assuming you're up for kicking some Rebel ass first, then I'm in!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4818
+#: src-en/data/events_sector_ddcoremass.xml:4854
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/text"
 msgstr ""
@@ -8374,17 +8408,17 @@ msgstr ""
 "say? Figures thhhat they're still kicking about, even after I spend just shy"
 " of a dozen centuries in semi-stasis... count me in!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4821
+#: src-en/data/events_sector_ddcoremass.xml:4857
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/crewMember"
 msgstr "The Foolish"
 
-#: src-en/data/events_sector_ddcoremass.xml:4823
+#: src-en/data/events_sector_ddcoremass.xml:4859
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/text"
 msgstr "Hell yeah!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4825
+#: src-en/data/events_sector_ddcoremass.xml:4861
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8392,12 +8426,12 @@ msgstr ""
 " to you, causing you to recoil at her might as she speaks, \"It's settled, "
 "then! Onwards, together - on a hero's journey!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4827
+#: src-en/data/events_sector_ddcoremass.xml:4863
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr "Wait, you're coming too?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4829
+#: src-en/data/events_sector_ddcoremass.xml:4865
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8408,12 +8442,12 @@ msgstr ""
 "stood with me, shoulder to shoulder, together as heroes, for no reason other"
 " reason other than because it was right. We are COMRADES!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4831
+#: src-en/data/events_sector_ddcoremass.xml:4867
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Well, um! Alright! Care to introduce yourself, then?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4833
+#: src-en/data/events_sector_ddcoremass.xml:4869
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8421,12 +8455,12 @@ msgstr ""
 "and strikes a pose, \"I, AM A HEROINE! Savior to my people, slayer of "
 "villains - THE STUFF OF LEGENDS!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4835
+#: src-en/data/events_sector_ddcoremass.xml:4871
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Right... and, who are your people exactly?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4837
+#: src-en/data/events_sector_ddcoremass.xml:4873
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8437,13 +8471,13 @@ msgstr ""
 "best to join in her excitement, \"Yes, uhhh... Onwards! For, um... thhhhe "
 "Multiverse??\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4839
+#: src-en/data/events_sector_ddcoremass.xml:4875
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "Onwards! For the Multiverse!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4841
+#: src-en/data/events_sector_ddcoremass.xml:4877
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
@@ -8453,13 +8487,13 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4845
+#: src-en/data/events_sector_ddcoremass.xml:4881
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "Onwards! For the Multiverse!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4847
+#: src-en/data/events_sector_ddcoremass.xml:4883
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_GREATESTENDING\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
@@ -8469,27 +8503,27 @@ msgstr ""
 "in this hell... but new journeys, and experiences, await you yet. Which "
 "ones, exactly... who's to say?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4868
+#: src-en/data/events_sector_ddcoremass.xml:4904
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/text"
 msgstr "Even after all of that, they still fall. Can anything stop you?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4871
+#: src-en/data/events_sector_ddcoremass.xml:4907
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4876
+#: src-en/data/events_sector_ddcoremass.xml:4912
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/text"
 msgstr "Even after all of that, they still fall. Can anything stop you?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4881
+#: src-en/data/events_sector_ddcoremass.xml:4917
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4888
+#: src-en/data/events_sector_ddcoremass.xml:4924
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_DEATHTOEVIL\"]/text"
 msgstr ""
@@ -8498,7 +8532,7 @@ msgstr ""
 "ship miraculously begins to regenerate, as the souls of ones you've damned "
 "seem to rise around you... here come more Husks!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4894
+#: src-en/data/events_sector_ddcoremass.xml:4930
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
 msgstr ""
@@ -8510,55 +8544,55 @@ msgstr ""
 "REFORGE HER IN YOUR HONOR. GO FORTH, AND DO AS YOU SEE FIT.\" Indeed, you "
 "shall. That's all you've ever done, for as long as you can remember."
 
-#: src-en/data/events_sector_ddcoremass.xml:4903
+#: src-en/data/events_sector_ddcoremass.xml:4939
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4905
+#: src-en/data/events_sector_ddcoremass.xml:4941
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/text"
 msgstr "Next to the weapon, a Huskweaver also manifests..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4907
+#: src-en/data/events_sector_ddcoremass.xml:4943
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/crewMember"
 msgstr "V'iln"
 
-#: src-en/data/events_sector_ddcoremass.xml:4909
+#: src-en/data/events_sector_ddcoremass.xml:4945
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4911
+#: src-en/data/events_sector_ddcoremass.xml:4947
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/text"
 msgstr "...as well as a Child of the Stars."
 
-#: src-en/data/events_sector_ddcoremass.xml:4912
+#: src-en/data/events_sector_ddcoremass.xml:4948
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/crewMember"
 msgstr "Sly'r"
 
-#: src-en/data/events_sector_ddcoremass.xml:4914
+#: src-en/data/events_sector_ddcoremass.xml:4950
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/text"
 msgstr "Now, there's one more thing..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4916
+#: src-en/data/events_sector_ddcoremass.xml:4952
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 "You snap your fingers, and the Coremass' heart violently detonates. Serves "
 "him right. The Coremass around you screams, and begins to crumble..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4919
+#: src-en/data/events_sector_ddcoremass.xml:4955
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4921
+#: src-en/data/events_sector_ddcoremass.xml:4957
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/event/text"
@@ -8567,13 +8601,13 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. What a pitiful "
 "thing."
 
-#: src-en/data/events_sector_ddcoremass.xml:4927
+#: src-en/data/events_sector_ddcoremass.xml:4963
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4929
+#: src-en/data/events_sector_ddcoremass.xml:4965
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"2\"]/event/text"
@@ -8582,30 +8616,30 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. What a pitiful "
 "thing."
 
-#: src-en/data/events_sector_ddcoremass.xml:4947
+#: src-en/data/events_sector_ddcoremass.xml:4983
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/unvisitedTooltip"
 msgstr "The center of the Coremass, and the location of its heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4948
+#: src-en/data/events_sector_ddcoremass.xml:4984
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/visitedTooltip"
 msgstr "Visited location."
 
-#: src-en/data/events_sector_ddcoremass.xml:4950
+#: src-en/data/events_sector_ddcoremass.xml:4986
 msgid "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/text"
 msgstr ""
 "This is it; the center of the Soulplague Coremass. The faint light you've "
 "been seeing throughout your journey here doesn't seem so distant anymore... "
 "this must be the location of the heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4958
+#: src-en/data/events_sector_ddcoremass.xml:4994
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
 msgstr "Head deeper."
 
-#: src-en/data/events_sector_ddcoremass.xml:4960
+#: src-en/data/events_sector_ddcoremass.xml:4996
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
@@ -8616,13 +8650,13 @@ msgstr ""
 "\t\t\t\"...thhhhe devourer... hunts for you!\"\n"
 "\t\t\t\"...you must... leave, before it's too late!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4967
+#: src-en/data/events_sector_ddcoremass.xml:5003
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Huh?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4969
+#: src-en/data/events_sector_ddcoremass.xml:5005
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
@@ -8631,13 +8665,13 @@ msgstr ""
 "less hushed, and more... strained. Before you can think to act on these "
 "words of warning, though, a massive shadow looms into view..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4971
+#: src-en/data/events_sector_ddcoremass.xml:5007
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4973
+#: src-en/data/events_sector_ddcoremass.xml:5009
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
@@ -8650,20 +8684,20 @@ msgstr ""
 "\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\tYour death... is this the end?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4985
+#: src-en/data/events_sector_ddcoremass.xml:5021
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "The Soulplague Coremass will attack after this countdown."
 
-#: src-en/data/events_sector_ddcoremass.xml:4996
+#: src-en/data/events_sector_ddcoremass.xml:5032
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "No, it's not... a Renegade makes their own fate."
 
-#: src-en/data/events_sector_ddcoremass.xml:4998
+#: src-en/data/events_sector_ddcoremass.xml:5034
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8674,14 +8708,14 @@ msgstr ""
 "brighter tomorrow - these ideals burn inside you, and you feel a kindred "
 "soul reach out to you from the vast sea of light and madness outside..."
 
-#: src-en/data/events_sector_ddcoremass.xml:5000
+#: src-en/data/events_sector_ddcoremass.xml:5036
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Reach a hand out to it."
 
-#: src-en/data/events_sector_ddcoremass.xml:5002
+#: src-en/data/events_sector_ddcoremass.xml:5038
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8699,14 +8733,14 @@ msgstr ""
 "horrific ship, and then back at you, \"...and it seems I'm not too late. The"
 " heart's guardian awaits; are you ready, comrade?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:5004
+#: src-en/data/events_sector_ddcoremass.xml:5040
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/text"
 msgstr "Of course. I stand with you."
 
-#: src-en/data/events_sector_ddcoremass.xml:5006
+#: src-en/data/events_sector_ddcoremass.xml:5042
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8717,27 +8751,27 @@ msgstr ""
 "ship, and you prepare yourself... this is it. It's time to prove your "
 "convictions, or die trying!"
 
-#: src-en/data/events_sector_ddcoremass.xml:5010
+#: src-en/data/events_sector_ddcoremass.xml:5046
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/crewMember"
 msgstr "The Heroine"
 
-#: src-en/data/events_sector_ddcoremass.xml:5012
+#: src-en/data/events_sector_ddcoremass.xml:5048
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:5028
+#: src-en/data/events_sector_ddcoremass.xml:5064
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
 msgstr "Finally... is she here?"
 
-#: src-en/data/events_sector_ddcoremass.xml:5030
+#: src-en/data/events_sector_ddcoremass.xml:5066
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
@@ -8750,13 +8784,13 @@ msgstr ""
 "don't know what you are - what you've done. I may be a prisoner here, but "
 "you're something far more lowly: a prisoner to your own desires.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:5035
+#: src-en/data/events_sector_ddcoremass.xml:5071
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "And, you're what? Here to lecture me?"
 
-#: src-en/data/events_sector_ddcoremass.xml:5037
+#: src-en/data/events_sector_ddcoremass.xml:5073
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -8766,20 +8800,20 @@ msgstr ""
 "for the sake of its own well-being. I am willing to be a pawn to its schemes"
 " if it means you and your reign of terror die right here, right now.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:5042
+#: src-en/data/events_sector_ddcoremass.xml:5078
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "The Soulplague Coremass will attack after this countdown."
 
-#: src-en/data/events_sector_ddcoremass.xml:5052
+#: src-en/data/events_sector_ddcoremass.xml:5088
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 "So be it, then, but... I think you'll find that your efforts are for naught."
 
-#: src-en/data/events_sector_ddcoremass.xml:5054
+#: src-en/data/events_sector_ddcoremass.xml:5090
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
@@ -8789,7 +8823,7 @@ msgstr ""
 "THE PAIN YOU'D SO QUICKLY INFLICT UNTO OTHERS!\" There's a cry, as her ship "
 "flies towards your own... this is it. It's time to end this farce."
 
-#: src-en/data/events_sector_ddcoremass.xml:5062
+#: src-en/data/events_sector_ddcoremass.xml:5098
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
