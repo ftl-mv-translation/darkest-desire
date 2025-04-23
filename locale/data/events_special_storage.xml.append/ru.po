@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 10:56+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"PO-Revision-Date: 2025-04-23 11:21+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -3203,12 +3203,14 @@ msgid ""
 msgstr "Корруптор 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2338
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
 msgstr "Корруптор 3 уровня [Цена: 65~, 6{]"
 
 #: src-en/data/events_special_storage.xml.append:2342
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
@@ -3351,6 +3353,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2475
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
@@ -3385,6 +3388,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:2503
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
