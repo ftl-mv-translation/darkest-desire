@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 10:52+0000\n"
+"PO-Revision-Date: 2025-04-26 15:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_darkonexml/ru/>\n"
@@ -23,6 +23,9 @@ msgstr ""
 #: src-en/data/events_darkone.xml:15
 msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_WIN\"]/text"
 msgstr ""
+"Вы заставили тьму на время ослабнуть, но она вернется. Тем временем в ваших "
+"руках появилось топливо... Темный Бог приглашает вас двигаться вперед. "
+"Продолжайте бежать."
 
 #: src-en/data/events_darkone.xml:20
 msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_WIN\"]/choice/text"
@@ -31,39 +34,57 @@ msgstr "Бежим!"
 #: src-en/data/events_darkone.xml:26
 msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_FAIL\"]/text"
 msgstr ""
+"Тьма терзает и разрывает ваш корпус корабля, но вы успеваете освободиться от "
+"ее хватки, прежде чем получаете серьезные повреждения. Тем временем в вашем "
+"трюме материализовалось топливо... Темный Бог приглашает вас двигаться "
+"вперед. Продолжайте бежать."
 
 #: src-en/data/events_darkone.xml:38
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_INTERVENTION\"]/text"
 msgstr ""
+"Вы чувствуете, как горит ваша грудь, и ваше желание исполняется... Судно "
+"противника больше не существует, а подарок оказался в ваших руках. Такова "
+"награда за преданность."
 
 #: src-en/data/events_darkone.xml:49
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/text"
 msgstr ""
+"Наконец ваш корабль останавливается... Где же вы, черт возьми? Все консоли "
+"вашего корабля мигают красным, то включаясь, то выключаясь; звучат сигналы "
+"тревоги."
 
 #: src-en/data/events_darkone.xml:53
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Собраться с мыслями."
 
 #: src-en/data/events_darkone.xml:55
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Паника ни к чему хорошему не приведет, поэтому вы берете паузу, чтобы "
+"успокоиться и понять, что происходит. Ваш Атлас показывает, что вас много "
+"раз затягивало в пустоту... Это уже не территория Просветленных. Впрочем, "
+"надежда есть: сектор усеян маяками, и среди них есть выход."
 
 #: src-en/data/events_darkone.xml:57
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Ну вот и все! Прорываемся к выходу!"
 
 #: src-en/data/events_darkone.xml:59
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"Пока вы придумываете план побега, в голове звучит тот же голос, который вы "
+"слышали раньше: \"В МОИХ ОБЪЯТИЯХ ТЫ УТОНЕШЬ. ДОКАЖИ СВОЮ СИЛУ, БОРИСЬ ИЛИ "
+"ПОГИБНИ. ЭТО МОЙ ПРИКАЗ\". Вы чувствуете, как с вас снимают бремя... и тут "
+"же тени снаружи начинают царапать ваш корабль! Бегите к выходу!"
 
 #: src-en/data/events_darkone.xml:65
 msgid ""
@@ -71,7 +92,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Приготовиться защищаться!"
 
 #: src-en/data/events_darkone.xml:67
 msgid ""
@@ -80,6 +101,8 @@ msgid ""
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы готовитесь к бою, одна из консолей мигает. Это сигнал Кира и "
+"Лилит... они тоже здесь. Возможно, вы еще сможете связаться с ними."
 
 #: src-en/data/events_darkone.xml:72
 msgid ""
@@ -87,31 +110,40 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приготовиться защищаться!"
 
 #: src-en/data/events_darkone.xml:80
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Собраться с мыслями."
 
 #: src-en/data/events_darkone.xml:82
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Паника ни к чему хорошему не приведет, поэтому вы берете паузу, чтобы "
+"успокоиться и понять, что происходит. Ваш Атлас показывает, что вас много "
+"раз затягивало в пустоту... Это уже не территория Просветленных. Впрочем, "
+"надежда есть: сектор усеян маяками, и среди них есть выход."
 
 #: src-en/data/events_darkone.xml:84
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "Ну вот и все! Прорываемся к выходу!"
 
 #: src-en/data/events_darkone.xml:86
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Пока вы придумываете план побега, в вашей голове звучит тот же голос, "
+"который вы слышали раньше: \"В МОИХ ОБЪЯТИЯХ Я ПРИНИМАЮ ТЕБЯ. НО МОЯ ВОЛЯ "
+"ВСЁ ЕЩЁ ТЛЕЕТ. ВОЗЖЕЛАЙ ВМЕШАТЕЛЬСТВА - И ОНО СОВЕРШИТСЯ\". С этими словами "
+"вы чувствуете, как с вас снимается бремя... и тут же тени снаружи начинают "
+"царапать ваш корабль! Бегите к выходу!"
 
 #: src-en/data/events_darkone.xml:92
 msgid ""
@@ -119,7 +151,7 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Приготовиться защищаться!"
 
 #: src-en/data/events_darkone.xml:94
 msgid ""
@@ -128,6 +160,8 @@ msgid ""
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы готовитесь к бою, одна из консолей мигает. Это сигнал Кира и "
+"Лилит... они тоже здесь. Возможно, вы еще сможете связаться с ними."
 
 #: src-en/data/events_darkone.xml:99
 msgid ""
@@ -135,35 +169,47 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Приготовиться защищаться!"
 
 #: src-en/data/events_darkone.xml:109
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/text"
 msgstr ""
+"Тьма и здесь разрушает ваш корпус. Бегите или отбивайтесь от нее, пока она "
+"не успела нанести серьезный урон!"
 
 #: src-en/data/events_darkone.xml:115
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:119
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[2]/text"
-msgstr ""
+msgstr "Приготовиться!"
 
 #: src-en/data/events_darkone.xml:129
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DARKNESSSHIP_DEFEATED\"]/text"
-msgstr ""
+msgstr "Когда тьма уничтожена, обелискам больше некуда девать энергию."
 
 #: src-en/data/events_darkone.xml:133
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER_SUCCESS\"]/text"
 msgstr ""
+"Темный обелиск и его потустороннее порождение падают, и снова раздается смех:"
+" \"ВОИСТИНУ, ПЛАМЕННОЕ ЖЕЛАНИЕ. ТЫ ВОЗДАЛ МНЕ, И Я ВОЗДАМ ТЕБЕ... ИДИ "
+"ВПЕРЕД. ТВОЯ ВЕРА ЗАВЕДЕТ ТЕБЯ ДАЛЕКО\". Рядом с вами появляется награда за "
+"ваши усилия, и вы готовитесь отправиться дальше в безумие, которое ждет вас "
+"впереди."
 
 #: src-en/data/events_darkone.xml:142
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/text"
 msgstr ""
+"Ваше пожелание услышано, и волна потусторонней энергии провозглашает: "
+"\"...ПРЕУСПЕТЬ? ДА БУДЕТ ТАК!\" Вы не чувствуете, что это то, чего вы "
+"действительно желали, и все еще желаете... Еще одна волна энергии "
+"захлестывает вас, и вы понимаете, что ваше испытание началось! О свободе "
+"воли вам придется поразмышлять в другой раз."
 
 #: src-en/data/events_darkone.xml:149
 msgid ""
@@ -174,11 +220,20 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/choice/event/text"
 msgstr ""
+"Появляется странные, оскверненные обелиски... кажется, они черпают энергию "
+"из тьмы снаружи. Если вы сможете уничтожить тьму, обелиски больше не смогут "
+"использовать энергию, но в качестве альтернативы вы можете просто "
+"сосредоточиться на уничтожении обелисков. Уничтожение тьмы не обязательно "
+"для того, чтобы преодолеть испытание."
 
 #: src-en/data/events_darkone.xml:158
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/text"
 msgstr ""
+"Темные обелиски и их потусторонние отродья падают, и снова раздается смех: "
+"\"ВОИСТИНУ, ПЛАМЕННОЕ ЖЕЛАНИЕ. ТЫ ВОЗДАЛ МНЕ, И Я ВОЗДАМ ТЕБЕ... ИДИ ВПЕРЕД. "
+"ТВОЯ ВЕРА ЗАВЕДЕТ ТЕБЯ ДАЛЕКО\". Рядом с вами появляется награда за ваши "
+"усилия..."
 
 #: src-en/data/events_darkone.xml:165
 msgid ""
@@ -189,16 +244,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/choice/event/text"
 msgstr ""
+"...как и раньше. С обретенными дарами вы готовитесь отправиться дальше в "
+"безумное путешествие."
 
 #: src-en/data/events_darkone.xml:174
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/text"
 msgstr ""
+"Ваше желание услышано, и волна потусторонней энергии рычит: "
+"\"...ЗАКРИЧАТЬ? ДА БУДЕТ ТАК!\" Вы не чувствуете, что это то, чего вы "
+"действительно желали, и все еще желаете.. Еще одна волна энергии "
+"захлестывает вас, и вы понимаете, что ваше испытание началось! О свободе "
+"воли вам придется поразмыслить в другой раз."
 
 #: src-en/data/events_darkone.xml:179
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:184
 msgid ""
@@ -209,11 +271,16 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/choice/event/text"
 msgstr ""
+"Появляется странные, оскверненные обелиски... кажется, они черпают энергию "
+"из тьмы снаружи. Если вы сможете уничтожить тьму, обелиски больше не смогут "
+"использовать энергию, но в качестве альтернативы вы можете просто "
+"сосредоточиться на уничтожении обелисков. Уничтожение тьмы не обязательно "
+"для того, чтобы преодолеть испытание."
 
 #: src-en/data/events_darkone.xml:193
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:199
 msgid ""
@@ -223,12 +290,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:201
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:208
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/text"
 msgstr ""
+"Темные обелиски и их потусторонние отродья падают, и снова раздается смех: "
+"\"ВОИСТИНУ, ПЛАМЕННОЕ ЖЕЛАНИЕ. ТЫ ВОЗДАЛ МНЕ, И Я ВОЗДАМ ТЕБЕ... ИДИ ВПЕРЕД. "
+"ТВОЯ ВЕРА ЗАВЕДЕТ ТЕБЯ ДАЛЕКО\". Рядом с вами появляется награда за ваши "
+"усилия..."
 
 #: src-en/data/events_darkone.xml:215
 msgid ""
@@ -238,7 +309,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:217
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/text"
-msgstr ""
+msgstr "...и еще один..."
 
 #: src-en/data/events_darkone.xml:220
 msgid ""
@@ -249,21 +320,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/text"
 msgstr ""
+"...как и... Избранный глубоководных?! Вы принимаете его за захватчика и "
+"готовитесь защищаться, но, к вашему удивлению, он начинает кланяться, когда "
+"вы снова слышите голос: \"СЛУЖИТЬ - ЗНАЧИТ ХОТЕТЬ БЫТЬ ЧАСТЬЮ ЧЕГО-ТО БОЛЕЕ "
+"ВЕЛИКОГО. ЭТОТ СЛУЖИТ МНЕ, КАК ТЫ СЛУЖИЛ МОИМ РАЗВЛЕЧЕНИЯМ; ТАК И Я СЛУЖУ "
+"ТЕБЕ. ТАК И ОНИ СЛУЖАТ ТЕБЕ\". Наступает тишина, и вы обеспокоены от "
+"присутствия вашего новообретенного компаньона... На чьей же стороне Темный "
+"Бог? Неужели все это для него лишь игра? Вы не получите ответа, но "
+"единственная и ясная истина заключается в том, что один из его самых "
+"почитаемых воинов теперь в ваших рядах."
 
 #: src-en/data/events_darkone.xml:223
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Нерваздрен"
 
 #: src-en/data/events_darkone.xml:231
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/text"
 msgstr ""
+"Ваше желание услышано, и волна потусторонней энергии рычит: "
+"\"...СТРАДАНИЕ? ДА БУДЕТ ТАК!\" Вы не чувствуете, что это то, чего вы "
+"действительно желали, и до сих пор желаете... Еще одна волна энергии "
+"захлестывает вас, и вы понимаете, что ваше испытание началось! О свободе "
+"воли вам придется поразмыслить в другой раз."
 
 #: src-en/data/events_darkone.xml:236
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:241
 msgid ""
@@ -274,16 +359,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/choice/event/text"
 msgstr ""
+"Появляется странные, оскверненные обелиски... кажется, они черпают энергию "
+"из тьмы снаружи. Если вы сможете уничтожить тьму, обелиски больше не смогут "
+"использовать энергию, но в качестве альтернативы вы можете просто "
+"сосредоточиться на уничтожении обелисков. Уничтожение тьмы не обязательно "
+"для того, чтобы преодолеть испытание."
 
 #: src-en/data/events_darkone.xml:250
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:254
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:259
 msgid ""
@@ -293,12 +383,12 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:261
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:268
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:274
 msgid ""
@@ -308,12 +398,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:276
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:283
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/text"
 msgstr ""
+"Темные обелиски, море их порождений и даже Избранные Темного Бога пали... В "
+"воздухе пахнет кровью и серой, и вы чувствуете себя измученным."
 
 #: src-en/data/events_darkone.xml:289
 msgid ""
@@ -324,6 +416,14 @@ msgstr "Собраться."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/text"
 msgstr ""
+"Вы поднимаетесь, вытирая пыль с колен, и в вашей голове раздаются "
+"аплодисменты. Если бы вы не были так измотаны, у вас бы разболелась "
+"голова... Они продолжаются еще мгновение, а затем резко прекращаются, когда "
+"голос обращается к вам: \"НЕУДЕРЖИМОЕ ЖЕЛАНИЕ. НЕПОКОЛЕБИМАЯ СИЛА. "
+"НЕВЕРОЯТНАЯ СТОЙКОСТЬ. ТЫ ДОСТОИН СЛУЖИТЬ И БЫТЬ СЛУЖИМЫМ, СОСУД. ПРИМИ МОЮ "
+"БЛАГОСКЛОННОСТЬ, МОЮ СИЛУ, МОИХ ИЗБРАННЫХ - И СТУПАЙ ВПЕРЕД. ТВОЯ СУДЬБА В "
+"ТВОИХ РУКАХ\". Раздается треск молнии, в ваших системах появляются странные "
+"схемы, а рядом с вами возникает оружие из чистой, хаотичной энергии..."
 
 #: src-en/data/events_darkone.xml:295
 msgid ""
@@ -333,7 +433,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:297
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "...и еще одна награда..."
 
 #: src-en/data/events_darkone.xml:300
 msgid ""
@@ -343,7 +443,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:302
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "...и снова..."
 
 #: src-en/data/events_darkone.xml:305
 msgid ""
@@ -354,21 +454,28 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"...и еще, в виде одного из Избранных Темного Бога. Похоже, вы действительно "
+"заслужили его расположение."
 
 #: src-en/data/events_darkone.xml:308
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Нерваздрен"
 
 #: src-en/data/events_darkone.xml:320
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/text"
 msgstr ""
+"Ваше желание услышано, и волна потусторонней энергии рычит: "
+"\"...ПОДДАТЬСЯ? ДА БУДЕТ ТАК!\" Вы не чувствуете, что это то, чего вы "
+"действительно желали, и до сих пор желаете... Еще одна волна энергии "
+"захлестывает вас, и вы понимаете, что ваше испытание началось! О свободе "
+"воли вам придется поразмыслить в другой раз."
 
 #: src-en/data/events_darkone.xml:325
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:330
 msgid ""
@@ -379,16 +486,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/choice/event/text"
 msgstr ""
+"Появляется странные, оскверненные обелиски... кажется, они черпают энергию "
+"из тьмы снаружи. Если вы сможете уничтожить тьму, обелиски больше не смогут "
+"использовать энергию, но в качестве альтернативы вы можете просто "
+"сосредоточиться на уничтожении обелисков. Уничтожение тьмы не обязательно "
+"для того, чтобы преодолеть испытание."
 
 #: src-en/data/events_darkone.xml:339
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:343
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:348
 msgid ""
@@ -398,17 +510,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:350
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:357
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:361
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:366
 msgid ""
@@ -418,17 +530,17 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:368
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:375
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/text"
-msgstr ""
+msgstr "Еще одна волна энергии накатывает, когда ваше испытание усложняется..."
 
 #: src-en/data/events_darkone.xml:379
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Ваше испытание началось..."
 
 #: src-en/data/events_darkone.xml:384
 msgid ""
@@ -438,12 +550,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:386
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "...и появляются еще одни обелиски."
 
 #: src-en/data/events_darkone.xml:393
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/text"
 msgstr ""
+"Еще одна волна энергии, отличная от остальных, накатывает, когда ваше "
+"испытание достигает кульминации..."
 
 #: src-en/data/events_darkone.xml:398
 msgid ""
@@ -454,105 +568,152 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/choice/event/text"
 msgstr ""
+"...и голос звучит в вашей голове: \"ЭТО МОЕ ЖЕЛАНИЕ - ЧТОБЫ ТЫ УМЕР ЗДЕСЬ, И "
+"ЭТО ЖЕЛАНИЕ МОИХ ИЗБРАННЫХ. ПРОДОЛЖАЙ СРАЖАТЬСЯ, И, МОЖЕТ БЫТЬ, ТЫ СТАНЕШЬ "
+"ОДНИМ ИЗ НИХ\". Когда темные обелиски излучают свет, молнии бьют в глаза, а "
+"Избранные глубоководных проникают на ваш корабль... вы чувствуете, как "
+"внутри вас разгорается желание победить. Свобода воли - это способность "
+"противостоять трудностям, считавшимся невозможными, и брать судьбу в свои "
+"руки."
 
 #: src-en/data/events_darkone.xml:412
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/text"
 msgstr ""
+"В воздухе витает напряжение. Вы испытывали подобное чувство на протяжении "
+"всего своего недолгого пребывания в этом мире, но никогда не ощущали его так "
+"сильно, как сейчас. Однако здесь ничего нет, и даже темнота снаружи остается "
+"неподвижной... Вы не можете сказать, что вас заставило прийти сюда."
 
 #: src-en/data/events_darkone.xml:415
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/text"
-msgstr ""
+msgstr "Здравствуй?"
 
 #: src-en/data/events_darkone.xml:417
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/text"
 msgstr ""
+"Вы кричите, и все вокруг дрожит. ВЫ дрожите. Пока вы пытаетесь устоять на "
+"ногах, голос снова обращается к вам в вашем сознании: \"УТОНИ\". От одного "
+"этого слова вы падаете на колени: боль проносится по всему телу, и вы "
+"теряете сознание. Вы чувствуете себя так, словно ваше существование "
+"находится в руках самой сути бытия."
 
 #: src-en/data/events_darkone.xml:419
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Что... ты... хочешь...?"
 
 #: src-en/data/events_darkone.xml:421
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/text"
 msgstr ""
+"Каждое слово причиняет вам еще большую боль, но вы все равно вынуждены "
+"произносить их. Вы не считаете, что это ваши слова или что они отражают ваши "
+"мысли, и все же вам кажется, что у вас нет другого выбора, кроме как "
+"произнести их. В вашей голове раздается звук, напоминающий смех, и голос "
+"возвращается: \"ЭТО НЕ МОЕ ДЕЛО. ЖЕЛАТЬ... И, ОДНАКО, Я ИСПЫТЫВАЮ "
+"УДОВОЛЬСТВИЕМ ОТ ТВОИХ СТРАДАНИЙ\"."
 
 #: src-en/data/events_darkone.xml:423
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Бороться с болью."
 
 #: src-en/data/events_darkone.xml:425
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ваше тело горит, когда вы медленно, но верно заставляете себя подняться. "
+"Каждая ваша конечность словно наливается непосильным весом, но вы все равно "
+"поднимаетесь на ноги. По мере того как вы это делаете, снова раздается смех: "
+"\"ДА. КРИЧИ, СТРАДАЙ, СТОЙ... Я ХОЧУ УВИДЕТЬ ВСЕ ЭТО. СКАЖИТЕ МНЕ. ТЫ ХОЧЕШЬ "
+"ПРЕУСПЕТЬ, КРИЧАТЬ, СТРАДАТЬ ИЛИ ПОДДАТЬСЯ?\""
 
 #: src-en/data/events_darkone.xml:427
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:429
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/event/text"
 msgstr ""
+"Голос смеется, и смеется, и смеется, и смеется, пока не затихает, и подарок "
+"не оказывается в ваших руках. Такова награда за преданность."
 
 #: src-en/data/events_darkone.xml:434
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Избранный) \"Я ХОЧУ... МИРА, ГОСПОДЬ\"."
 
 #: src-en/data/events_darkone.xml:436
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"Когда ваш Избранный Темного Бога заговорил, наступила напряженная тишина, и "
+"ненависть в воздухе рассеялась. Должно быть, его просьба сработала, "
+"поскольку на маяке больше ничего интересного не происходит."
 
 #: src-en/data/events_darkone.xml:440
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "(Испытание для начинающих) Я хочу... преуспеть."
 
 #: src-en/data/events_darkone.xml:444
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "(Промежуточное испытание) Я хочу... кричать."
 
 #: src-en/data/events_darkone.xml:448
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "(Трудное испытание) Я хочу... страдать."
 
 #: src-en/data/events_darkone.xml:452
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[6]/text"
-msgstr ""
+msgstr "(Невозможное испытание) Я хочу... поддастся."
 
 #: src-en/data/events_darkone.xml:464
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[1]"
 msgstr ""
+"В воздухе вспыхивает ненависть, когда вы понимаете, что не только тьма здесь "
+"жаждет вашего уничтожения... Из глубин безумия снаружи появляется еще один "
+"гладкий, черный корабль, состоящий из чистой тьмы. Приготовьтесь!"
 
 #: src-en/data/events_darkone.xml:465
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[2]"
 msgstr ""
+"Похоже, Избранные Темного Бога не собираются отказываться от своего "
+"стремления уничтожить вас: еще один их корабль прорывается сквозь тьму и "
+"готовится к атаке!"
 
 #: src-en/data/events_darkone.xml:466
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[3]"
 msgstr ""
+"Ваша кровь стынет в жилах, когда снаружи появляется корабль... уже знакомый "
+"вам. Предзнаменование смерти. Тьма в своем проявлении. Избранные Темного "
+"Бога... они приближаются, а вы готовитесь защищаться."
 
 #: src-en/data/events_darkone.xml:467
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[4]"
 msgstr ""
+"Снаружи становится все темнее, когда вы понимаете, что это не просто маяк... "
+"Вы забрели на территорию Избранных Темного Бога, и они выбрали вас в "
+"качестве своей следующей жертвы!"
 
 #: src-en/data/events_darkone.xml:476
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/text"
 msgstr ""
+"Несмотря на то, что здесь вы встретили сильного врага, вы понимаете, что "
+"теряете силы, как в борьбе с повстанцами... так и тьмой, если уж на то "
+"пошло. Вам нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:480
 msgid ""
@@ -563,21 +724,28 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"Но прежде чем вы это сделаете, рядом с вами появится оружие... Вы узнаете в "
+"нем то самое, которым владеют Избранные. Вы не из тех, кто отказывается от "
+"бесплатных подарков, но вам остается только догадываться о цели такой "
+"щедрости..."
 
 #: src-en/data/events_darkone.xml:493
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:497
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "(Член экипажа-Избранный) \"ЭТОТ... ОН ОДИН ИЗ СВОИХ\"."
 
 #: src-en/data/events_darkone.xml:499
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"Избранные останавливают свою атаку, как только понимают, что перед ними "
+"находятся свои. Не говоря ни слова, они погружаются обратно во тьму, а вы "
+"вспоминаете, что у благосклонности злых божеств есть свои преимущества..."
 
 #: src-en/data/events_darkone.xml:504
 msgid ""
@@ -608,16 +776,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT_WIN\"]/text"
 msgstr ""
+"В вашей груди пылает пламя, а рядом с вами появляется награда за победу над "
+"этими странными незваными гостями. Тем не менее вы понимаете, что теряете "
+"силы как в борьбе с повстанцами... так и с тьмой, если уж на то пошло. Вам "
+"нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:547
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/text"
 msgstr ""
+"...и становится еще темнее, когда открывается червоточина и из нее "
+"появляется корабль Просветленных. Возможно, они не знают, где находятся и "
+"что здесь делают, но они знают одно: вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:551
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:555
 msgid ""
@@ -648,16 +823,23 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT_WIN\"]/text"
 msgstr ""
+"В вашей груди пылает пламя, а рядом с вами появляется награда за победу над "
+"этими странными незваными гостями. Тем не менее вы понимаете, что теряете "
+"силы как в борьбе с повстанцами... так и с тьмой, если уж на то пошло. Вам "
+"нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:586
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/text"
 msgstr ""
+"...и сверкает фиолетовым, когда открывается червоточина и из нее появляется "
+"кристаллический корабль. Возможно, они не знают, где находятся и что здесь "
+"делают, но они знают одно: вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:590
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:594
 msgid ""
@@ -688,16 +870,24 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT_WIN\"]/text"
 msgstr ""
+"В вашей груди пылает пламя, а рядом с вами появляется награда за победу над "
+"этими странными незваными гостями. Тем не менее вы понимаете, что теряете "
+"силы как в борьбе с повстанцами... так и с тьмой, если уж на то пошло. Вам "
+"нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:625
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/text"
 msgstr ""
+"...и уступает место далекому светящемуся маяку, когда открывается "
+"червоточина и из нее появляется переливающийся маслянистый корабль. "
+"Возможно, они не знают, где находятся и что здесь делают, но они знают одно: "
+"вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:634
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:638
 msgid ""
@@ -728,21 +918,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN\"]/text"
 msgstr ""
+"Наступает неловкая тишина, когда странные незваные гости рассыпаются, и вы "
+"чувствуете, что уничтожение не было единственным выходом. Тем не менее вы "
+"понимаете, что теряете силы как в борьбе с повстанцами... так и с тьмой, "
+"если уж на то пошло. Вам нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:668
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"В вашей голове раздается слабое пение, когда из одного из странных, павших "
+"незваных гостей прорастает новая жизнь... и формируется новая. Вы готовитесь "
+"к худшему, но оно просто убегает в угол, а вы моргаете... значит, оно "
+"дружелюбное? Тем не менее вы понимаете, что теряете силы как в борьбе с "
+"повстанцами... так и с тьмой, если уж на то пошло. Вам нужно двигаться "
+"дальше."
 
 #: src-en/data/events_darkone.xml:674
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/text"
 msgstr ""
+"...и странный туман надвигается на вас, когда открывается червоточина и из "
+"нее появляется мохнатая масса. Возможно, они не знают, где находятся и что "
+"здесь делают, но они знают одно: вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:678
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:682
 msgid ""
@@ -773,21 +976,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN\"]/text"
 msgstr ""
+"Наступает неловкое молчание, пока странные незваные гости исчезают, и вы "
+"чувствуете, что убийство было не единственным выходом. Тем не менее вы "
+"понимаете, что теряете силы как в борьбе с повстанцами... так и с тьмой, "
+"если уж на то пошло. Вам нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:712
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Шепот странного корабля затихает, а то, что от него осталось, превращается в "
+"нечто единое... по вашему мнению, в чумную оболочку. Она появляется рядом с "
+"вами, и вы готовитесь к худшему, но она просто стоит и булькает. Значит, она "
+"дружелюбная? Тем не менее вы понимаете, что теряете силы как в борьбе с "
+"повстанцами... так и с тьмой, если уж на то пошло. Вам нужно двигаться "
+"дальше."
 
 #: src-en/data/events_darkone.xml:718
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/text"
 msgstr ""
+"...и уступив место далекому светящемуся маяку, открывается червоточина, и из "
+"нее появляется переливающийся маслянистый корабль. С корабля доносится "
+"слабый шепот... Возможно, они не знают, где находятся и что здесь делают, но "
+"они знают одно: вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:727
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:731
 msgid ""
@@ -818,21 +1035,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN\"]/text"
 msgstr ""
+"Наступает неловкая тишина, когда странные незваные гости исчезают, и вы "
+"чувствуете, что убийство не было единственным выходом. Тем не менее вы "
+"понимаете, что теряете силы как в борьбе с повстанцами... так и с тьмой, "
+"если уж на то пошло. Вам нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:761
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Из того, что осталось от странного корабля, вырывается молния, и ее энергия "
+"сливается рядом с вами в одну из странных сущностей, с которыми вы только "
+"что сражались. Вы приготовились к худшему, но оно просто стоит и смотрит на "
+"вас из-под мантии. Значит, оно дружелюбно? Тем не менее вы понимаете, что "
+"теряете силы как в борьбе с повстанцами... так и с тьмой, если уж на то "
+"пошло. Вам нужно двигаться дальше."
 
 #: src-en/data/events_darkone.xml:767
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/text"
 msgstr ""
+"...и тут надвигается мощный космический шторм, открывается червоточина, и из "
+"нее появляется темный, разукрашенный корабль. Возможно, они не знают, где "
+"находятся и что здесь делают, но они знают одно: вы - их следующая цель!"
 
 #: src-en/data/events_darkone.xml:771
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "Я хочу... вмешательства."
 
 #: src-en/data/events_darkone.xml:775
 msgid ""
@@ -842,6 +1072,8 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:781
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE\"]/text"
 msgstr ""
+"Острая боль пронзает вашу голову, а тьма за иллюминатором начинает "
+"меняться..."
 
 #: src-en/data/events_darkone.xml:784
 msgid ""
@@ -851,6 +1083,9 @@ msgstr "Продолжить..."
 #: src-en/data/events_darkone.xml:790
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/text"
 msgstr ""
+"Здесь не чувствуется зла в воздухе... Напротив, вы чувствуете тепло. "
+"Успокоение. Блаженство, когда с вас снимают бремя... Но какое бремя "
+"беспокоит вас больше всего?"
 
 #: src-en/data/events_darkone.xml:793
 msgid ""
