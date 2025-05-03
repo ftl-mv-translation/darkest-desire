@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-03 14:49+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-04 15:49+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_sector_ddsoulplaguexml/ru/>\n"
 "Language: ru\n"
@@ -1349,7 +1349,7 @@ msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "В его поведении произошла еще одна перемена, но в ней меньше неловкости и "
-"больше защиты. \"Секрет. Это... вряд ли вас касается. У нас... были свои "
+"больше защиты. Скрытность. \"Это... вряд ли вас касается. У нас... были свои "
 "причины прийти сюда. В это... проклятое место...\" На мгновение воцаряется "
 "тяжелая тишина, прежде чем глубоководный прочищает горло и продолжает: "
 "\"Итак... вы заинтересованы в торговле или нет?\""
@@ -6126,6 +6126,17 @@ msgstr "Атаковать корабль Ясновидящих самим."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[@req=\"unique_nights\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Благодаря более прямолинейному подходу вам удается догнать корабль "
+"Ясновидящих, в то время как оболочки все еще отстают. Оружие заряжено, "
+"намерения ясны, но Ясновидящие все равно обращаются к вам: \"Это что "
+"ШШШУТКА? У нассс Федералы на хвосссте даже ЗДЕСССЬ? Ты дружишшшь ссс этими "
+"радужными уродами, или как? Так вот, сссвежие новосссти, придурок, мы знаем "
+"всссе о маленьких сссекретах ракушшшек!\" Говорящий Ясновидящий слизень на "
+"мгновение приостанавливается, его глазные стебли все ближе и ближе "
+"приближаются к монитору: \"Вы двое, должно быть, в сссговоре... Вы не можете "
+"нассс обмануть! Мы не позволим вам вссстать у нассс на пути!\" Вы не очень "
+"понимаете, о чем он говорит, но он отключает связь и, похоже, намерен "
+"защищаться, несмотря ни на что. Приготовьтесь!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3530
 msgid ""
@@ -6135,12 +6146,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ddsoulplague.xml:3536
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[@req=\"unique_nights\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Не обращать внимания на страдания Ясновидящих."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3538
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[@req=\"unique_nights\"]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Чтобы заставить вас действовать, нужно нечто большее, чем судьба нескольких "
+"жалких Ясновидящих. Кроме того, если им нужна была ваша помощь, они могли "
+"сами попросить о ней."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3540
 msgid ""
@@ -6155,7 +6169,7 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_ddsoulplague.xml:3554
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[2]/text"
-msgstr ""
+msgstr "У меня золотое сердце. Спасти корабль Ясновидящих!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3556
 msgid ""
@@ -6176,12 +6190,23 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ddsoulplague.xml:3565
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[3]/text"
-msgstr ""
+msgstr "У меня ледяное сердце.. Атаковать корабль Ясновидящих самим!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3567
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[3]/event/text"
 msgstr ""
+"Благодаря более прямолинейному подходу вам удается догнать корабль "
+"Ясновидящих, в то время как оболочки все еще отстают. Оружие заряжено, "
+"намерения ясны, но Ясновидящие все равно обращаются к вам: \"Это что "
+"ШШШУТКА? У нассс Федералы на хвосссте даже ЗДЕСССЬ? Ты дружишшшь ссс этими "
+"радужными уродами, или как? Так вот, сссвежие новосссти, придурок, мы знаем "
+"всссе о маленьких сссекретах ракушшшек!\" Говорящий Ясновидящий слизень на "
+"мгновение приостанавливается, его глазные стебли все ближе и ближе "
+"приближаются к монитору: \"Вы двое, должно быть, в сссговоре... Вы не можете "
+"нассс обмануть! Мы не позволим вам вссстать у нассс на пути!\" Вы не очень "
+"понимаете, о чем он говорит, но он отключает связь и, похоже, намерен "
+"защищаться, несмотря ни на что. Приготовьтесь!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3570
 msgid ""
@@ -6192,11 +6217,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[4]/text"
 msgstr ""
+"Мое сердце сделано из стали. Не обращать внимания на страдания Ясновидящих."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3578
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_CLAIRVOYANTGREED\"]/choice[4]/event/text"
 msgstr ""
+"Чтобы заставить вас действовать, нужно нечто большее, чем судьба нескольких "
+"жалких Ясновидящих. Кроме того, если им нужна была ваша помощь, они могли "
+"сами попросить о ней."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3580
 msgid ""
@@ -6262,144 +6291,239 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/text"
 msgstr ""
+"Сейчас вы ждете сюрпризов от оболочек, но вам все равно не дает покоя мысль "
+"о том, что никому в этом секторе нельзя доверять. Кстати, о людях в этом "
+"секторе..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3637
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Найти этого Стража ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3639
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Вы находите Стража ракушку и просите его объяснить, что произошло и почему "
+"он здесь. Хотя он все еще на взводе, он стараются изо всех сил ответить на "
+"ваши вопросы: \"Это... было чшто-то вроде отчшаянной попытки. В условиях "
+"войны между районами некоторые из нас устали от сражений. Проливать кровь "
+"своих... и поэтому мы пришли в этот сектор в поисках места, свободного от "
+"влияния Гениократии. До нас дошли слухи о других ракушках, живущих здесь "
+"тайно, и мы сговорились, чштобы сбежать... но мы не нашли здесь ничшего, "
+"кроме этой мерзости чшумы прилива! Она убила остальных, а мне оставалось "
+"только молчшать... пока вы не нашли меня. Остальное вы знаете...\" Страж "
+"вздыхает, и его взгляд переключается на что-то другое..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3641
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and not(@lvl)]/event/choice/text"
 msgstr ""
+"Это... ужасно. Мне очень жаль. Вы можете остаться на борту, если хотите."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3643
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
+"Его внимание возвращается к вам, и он кивают: \"Вы спасли мне жизнь, "
+"Ренегат. Самое меньшее, чшто я могу сделать, - это двигаться дальше и "
+"рассказывать о том, чшто здесь произошло. Кто знает... может быть, когда-"
+"нибудь эта борьба закончшится, и я смогу вернуться в Гениократию, где меня "
+"ждет теплый прием\". Действительно... звучит неплохо. Возможно, когда-нибудь "
+"и войны Федерации закончатся, и вы сами обретете подобный мир. Это идеал, за "
+"который стоит бороться, больше ничего не остается."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3649
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Найти этого Стража ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3651
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_GUARDIAN\"]/choice[@req=\"shell_guardian\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"К сожалению, он, похоже, погиб во время боя. Скорее всего, вы никогда не "
+"узнаете правду о том, что здесь произошло."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3657
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/text"
 msgstr ""
+"Сейчас вы ждете сюрпризов от оболочек, но вам все равно не дает покоя мысль "
+"о том, что никому в этом секторе нельзя доверять. Кстати, о людях в этом "
+"секторе..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3659
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Найти Механика ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3661
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Вы находите Механика ракушек и просите его объяснить, что произошло и почему "
+"он здесь. Хотя он все еще на взводе, он стараются изо всех сил ответить на "
+"ваши вопросы: \"Мы хотели убраться подальше от всех распрей и междоусобиц "
+"районов... поэтому мы объединились и сели на один корабль, а Стражи среди "
+"нас сделали вид, чшто мы выполняем приказ Мендака, и нашли более безопасное "
+"место. Ходили слухи, чшто здесь тайно живут другие ракушки, и мы надеялись "
+"найти их... но все, чшто мы нашли, - это мерзость чшумы прилива! Они убили "
+"остальных, а я делал все, чшо мог, чштобы остаться незамечшенным... пока вы "
+"не нашли меня. Остальное вы знаете...\" Механик вздыхает, и его взгляд "
+"переключается на что-то другое..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3663
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and not(@lvl)]/event/choice/text"
 msgstr ""
+"Это... ужасно. Мне очень жаль. Вы можете остаться на борту, если хотите."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3665
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
+"Его внимание возвращается к вам, и он кивает: \"Мне почшти некуда идти, и я "
+"счшитаю, чшто самое меньшее, чшто я могу сделать, - это попытаться стать "
+"полезным и отплатить за второй шанс на жизнь, который вы мне дали. Кто "
+"знает... может быть, когда-нибудь эта борьба закончшится, и я смогу "
+"вернуться в Гениократию, где меня ждет теплый прием\". Действительно... "
+"звучит неплохо. Возможно, когда-нибудь и войны Федерации закончатся, и вы "
+"сами обретете подобный мир. Это идеал, за который стоит бороться, если "
+"ничего другого не остается."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3671
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Найти Механика ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3673
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_MECHANIC\"]/choice[@req=\"shell_mechanic\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"К сожалению, он, похоже, погиб во время боя. Скорее всего, вы никогда не "
+"узнаете правду о том, что здесь произошло."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3679
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/text"
 msgstr ""
+"Сейчас вы ждете сюрпризов от оболочек, но вам все равно не дает покоя мысль "
+"о том, что никому в этом секторе нельзя доверять. Кстати, о людях в этом "
+"секторе..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3681
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Найти Ученого ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3683
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Вы находите Ученого ракушек и просите его объяснить, что произошло и почему "
+"он здесь. Хотя он все еще на взводе, он стараются изо всех сил отвечать на "
+"ваши вопросы: \"Я... не знаю, почшему я позволил им убедить меня пойти с "
+"ними! У меня с самого начшала было плохое предчшувствие! Все хотели убраться "
+"подальше от гражданской войны и найти более безопасное место, но вместо "
+"того, чштобы присоединиться к какой-нибудь нейтральной территории, они "
+"прислушивались к слухам... к рассказам о других ракушках, живущих здесь в "
+"тайне. Я знал, чшто это слишком хорошо, чштобы быть правдой! Все, чшто мы "
+"нашли, - это УЖАСНЫХ чшумных... тварей! Они убили остальных, и мне "
+"оставалось только молчать... пока вы меня не нашли. Остальное, вы знаете...\""
+" Ученый вздыхает, и его взгляд переключается на что-то другое..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3685
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and not(@lvl)]/event/choice/text"
 msgstr ""
+"Это... ужасно. Мне очень жаль. Вы можете остаться на борту, если хотите."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3687
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and not(@lvl)]/event/choice/event/text"
 msgstr ""
+"Его внимание возвращается к вам, и он кивает: \"Мне больше некуда идти, даже "
+"если бы я захотел... Жаль только, чшто они меня не послушали, и мы не "
+"затаились на какое-то время в каком-нибудь секторе Союза. Теперь я могу "
+"надеяться только на то, чшто, может быть, когда-нибудь эта борьба "
+"закончшится, и я все же смогу вернуться в Гениократию, где меня ждет теплый "
+"прием...\" Действительно, звучит неплохо. Возможно, когда-нибудь и войны "
+"Федерации закончатся, и вы сами обретете подобный мир. Это идеал, за который "
+"стоит бороться, если не больше."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3693
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Найти Ученого ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3695
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_SCIENTIST\"]/choice[@req=\"shell_scientist\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"К сожалению, он, похоже, погиб во время боя. Скорее всего, вы никогда не "
+"узнаете правду о том, что здесь произошло."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3701
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_FIGHT_WIN_HUSK\"]/text"
 msgstr ""
+"Сейчас вы ждете сюрпризов от оболочек, но вам все равно не дает покоя мысль "
+"о том, что никому в этом секторе нельзя доверять. Хотя тайна, почему эти "
+"ракушки оказались здесь, возможно, никогда не будет раскрыта, вы, по крайней "
+"мере, выбрались целыми и невредимыми."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3713
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_GUARDIAN\"]/text"
 msgstr ""
+"Приближаясь к источнику звука, он становится немного отчетливее: это хриплое "
+"дыхание измученной ракушки. Обнаружив его в углу, кажется, паника охватывает "
+"ее, и ее взгляд беспорядочно мечется между разными точками на потолке, пока "
+"она с трудом выдавливает несколько слов: "
+"\"Они... здесь... Здесь... опасно! Бегите!\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3716
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_GUARDIAN\"]/choice/text"
-msgstr ""
+msgstr "Взять с собой ракушку и бежать!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3718
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_GUARDIAN\"]/choice/event/text"
 msgstr ""
+"Ваш приказ выполнен, и ракушку поспешно тащат с собой; по видеоканалу "
+"слышится бульканье, источник которого не виден. Когда вы покидаете корабль "
+"ракушек, вы спешите отстыковаться от другого корабля. Пока вы это делаете, "
+"ракушка обретает самообладание, и вы лучше видите ее на свету: это Страж. "
+"Неудивительно, что его корабль окрашен в разные цвета, но то, что один из "
+"Стражей Гениократии так запаниковал и был сломлен, внушает опасения... "
+"Теперь он торопливо заговорил:\n"
+"\n"
+"\t\t\t\"Здесь опасно! Они...\"\n"
+"\n"
+"\t\t\tКорабль вздрагивает, прерывая разговор, и вы понимаете, что второе "
+"судно начало двигаться. Вы едва успеваете отстыковаться и отойти на "
+"небольшое расстояние, как его двигатели, а затем и оружие выходят на полную "
+"мощность!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3726
 msgid ""
@@ -6410,16 +6534,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_MECHANIC\"]/text"
 msgstr ""
+"Приближаясь к источнику звука, он становится немного отчетливее: это хриплое "
+"дыхание измученной ракушки. Обнаружив его в углу, кажется, паника охватывает "
+"ее, и ее взгляд беспорядочно мечется между разными точками на потолке, пока "
+"она тихо говорит: \"Этот корабль атакован... Здесь нет надежды... Если вы "
+"останетесь здесь, мы оба умрем... как... они...\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3737
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_MECHANIC\"]/choice/text"
-msgstr ""
+msgstr "Взять с собой ракушку и бежать!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3739
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_MECHANIC\"]/choice/event/text"
 msgstr ""
+"Ваш приказ выполнен, и ракушку поспешно тащат с собой; по видеоканалу "
+"слышится бульканье, источник которого не виден. Когда вы покидаете корабль "
+"ракушек, вы спешите отстыковаться от другого корабля. Пока вы это делаете, "
+"ракушка обретает самообладание, и вы лучше видите ее на свету: это Механик. "
+"Странно, что между двумя районами существует раскол, но времени задавать "
+"вопросы нет... Теперь он говорит более разборчиво:\n"
+"\n"
+"\t\t\t\"Этот корабль хорошо защищен? Эти монстры доказали, чшто способны...\""
+"\n"
+"\n"
+"\t\t\tКорабль вздрагивает, прерывая разговор, и вы понимаете, что второе "
+"судно начало двигаться. Вы едва успеваете отстыковаться и отойти на "
+"небольшое расстояние, как его двигатели, а затем и оружие выходят на полную "
+"мощность!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3747
 msgid ""
@@ -6430,16 +6573,34 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_SCIENTIST\"]/text"
 msgstr ""
+"Приближаясь к источнику звука, он становится немного отчетливее: это хриплое "
+"дыхание измученной ракушки. Обнаружив его в углу, кажется, паника охватывает "
+"ее, и ее взгляд беспорядочно мечется между разными точками на потолке, "
+"торопливо говоря: \"Они достанут нас... они достанут нас, как достали всех "
+"остальных! ВЫТАЩИТЕ МЕНЯ ОТСЮДА!\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3758
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_SCIENTIST\"]/choice/text"
-msgstr ""
+msgstr "Взять с собой ракушку и бежать!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3760
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_SCIENTIST\"]/choice/event/text"
 msgstr ""
+"Ваш приказ выполнен, и ракушку поспешно тащат с собой; по видеоканалу "
+"слышится бульканье, источник которого не виден. Когда вы покидаете корабль "
+"ракушек, вы спешите отстыковаться от другого корабля. Пока вы это делаете, "
+"ракушка обретает самообладание, и вы лучше видите ее на свету: это Ученый. "
+"Странно, что между двумя районами существует раскол, но времени задавать "
+"вопросы нет... Теперь он говорит более разборчиво:\n"
+"\n"
+"\t\t\t\"Мы должны немедленно покинуть маяк, пока они...\"\n"
+"\n"
+"\t\t\tКорабль вздрагивает, прерывая разговор, и вы понимаете, что второе "
+"судно начало двигаться. Вы едва успеваете отстыковаться и отойти на "
+"небольшое расстояние, как его двигатели, а затем и оружие выходят на полную "
+"мощность!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3768
 msgid ""
@@ -6450,6 +6611,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_HUSK\"]/text"
 msgstr ""
+"Приближаясь к источнику звука, он становится немного отчетливее: он немного "
+"более влажный, чем вы предполагали. Что-то вроде бульканья... прежде чем вы "
+"успеваете толком об этом подумать, таинственная фигура в углу приближается, "
+"и ее гуманоидная форма извивается и двигается в тенях. Раздается крик, и "
+"истина становится очевидной: это не что иное, как оболочка!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3779
 msgid ""
@@ -6460,6 +6626,14 @@ msgstr "Бежим!"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED_STRANGESOUND_HUSK\"]/choice/event/text"
 msgstr ""
+"Ваш приказ выполнен, и вы бегом отправляетесь обратно; по видеоканалу слышно "
+"дальнейшее бульканье, многие источники которого не видны. Когда вы покинули "
+"корабль ракушек, вы спешите отстыковаться от него. Пока вы это делаете, ваш "
+"корабль вздрагивает, и вы понимаете, что второе судно начало двигаться. Вы "
+"едва успеваете отстыковаться и отойти на небольшое расстояние, как его "
+"двигатели, а затем и оружие выходят на полную мощность! Что еще хуже, "
+"похоже, несколько оболочек воспользовались возможностью просочиться внутрь, "
+"пока вы были заняты..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3785
 msgid ""
@@ -6470,143 +6644,199 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED\"]/text"
 msgstr ""
+"Видеоканал подключается, и перед вами открывается вид на темную комнату... "
+"На мгновение вы не знаете, как поступить, но тут ваше внимание привлекает "
+"странный хрип в углу комнаты. Может быть, это не столько хрип, сколько... "
+"стон? Как будто кто-то испытывает боль..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3795
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED\"]/choice[1]/text"
-msgstr ""
+msgstr "Узнать от чего или кого исходит источник странного звука."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3799
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED\"]/choice[2]/text"
-msgstr ""
+msgstr "Убираемся отсюда!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3801
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_BOARDED\"]/choice[2]/event/text"
 msgstr ""
+"Что бы здесь ни произошло, вы не собираетесь допустить, чтобы это привело к "
+"новым разрушениям. Вы в панике спешите вернуться на корабль, отстыковаться "
+"от корабля, а затем улететь на безопасное расстояние. В самом деле, то, что "
+"здесь произошло, останется загадкой, но это может пойти вам только на "
+"пользу..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3813
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_SUCCESS\"]/text"
 msgstr ""
+"Ваш член экипажа готовится, и вы совершаете маневр, чтобы позволить ему "
+"подняться на борт. Соединив два корабля, ваш член экипажа может подняться на "
+"борт; осторожно, чтобы не заполонить ваш корабль токсинами другого. Его "
+"вылазка должна быть короткой, но, похоже, он достаточно хорошо переносит "
+"корабельные газы."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3815
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_SUCCESS\"]/choice/text"
-msgstr ""
+msgstr "Подключиться к видеоканалу вашего члена экипажа."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3821
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_FAILURE\"]/text"
 msgstr ""
+"Ваш член экипажа готовится, и вы совершаете маневр, чтобы позволить ему "
+"подняться на борт. Соединив два корабля, ваш член экипажа может подняться на "
+"борт; осторожно, чтобы не заполонить ваш корабль токсинами другого."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3823
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_FAILURE\"]/choice/text"
-msgstr ""
+msgstr "Подключиться к видеоканалу вашего члена экипажа."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3825
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_FAILURE\"]/choice/event/text"
 msgstr ""
+"Видеозапись, полученная в результате, мягко говоря, ужасного качества. Ваш "
+"член экипажа успевает сделать лишь несколько шагов по кораблю, прежде чем "
+"его движения становятся вялыми, и он начинает биться в конвульсиях. "
+"Единственным утешением является то, что дальше его ждет быстрая смерть... "
+"Операция провалилась. Вам придется отступить."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3828
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER_TOXINGAMBLE_FAILURE\"]/choice/event/removeCrew/text"
 msgstr ""
+"Вам удается оживить члена экипажа благодаря Клон-отсеку, но вы все равно не "
+"очень-то настаиваете на том, чтобы отправить кого-нибудь обратно, чтобы "
+"повторить попытку. Это было... неприятно, если не сказать больше."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3836
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/text"
 msgstr ""
+"Из-за забастовки в их военном регионе редко можно увидеть боевые корабли "
+"Гениократии, курсирующие даже в их собственных секторах, не говоря уже о "
+"таком заброшенном и безжизненном регионе, как этот. Тем не менее, один из "
+"них стоит здесь, в приличном состоянии... но он не предпринимает никаких "
+"попыток двигаться или вызвать вас в ответ на ваше прибытие. Это вызывает "
+"беспокойство, учитывая маяк бедствия..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3840
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/text"
-msgstr ""
+msgstr "Кажется, корабль заслуживает доверия. Связаться с кораблем."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3842
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/text"
 msgstr ""
+"Вы пытаетесь вызвать корабль ракушек, но не получаете никакого ответа. Вы "
+"пытаетесь еще несколько раз, но ничего не меняется: полное радиомолчание."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3844
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Может, высадимся на борт? Там может понадобиться наша помощь..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3846
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"Не смотря на благие намерения, вы понимаете, что это все еще корабль "
+"ракушек, на который вы пытаетесь проникнуть. Вам понадобится член экипажа, "
+"способный противостоять ядовитым газам корабля, если только вы не "
+"заинтересованы в том, чтобы разбрасываться жизнями."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3848
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-ракушка) Позволить своей ракушке подняться на корабль."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3850
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/event/text"
 msgstr ""
+"Ваша ракушка кивает своей... ракушкой, и вы совершаете маневр, чтобы "
+"позволить ей подняться на борт. Состыковав два корабля, ваша ракушка может "
+"подняться на борт; осторожно, чтобы не заполонить ваш корабль токсинами "
+"другого."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3852
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/text"
-msgstr ""
+msgstr "Подключиться к видеоканалу вашей ракушки."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3858
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/text"
 msgstr ""
+"(Анаэробный экипаж) Разрешить члену анаэробного экипажа подняться на борт "
+"корабля."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3860
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/event/text"
 msgstr ""
+"Ему придется поторопиться, чтобы не получить большую дозу токсинов, и вы "
+"совершаете маневр, чтобы позволить ей подняться на борт. Состыковав два "
+"корабля, ваш член экипажа может подняться на борт; осторожно, чтобы не "
+"заполонить ваш корабль токсинами другого."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3862
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/event/choice/text"
-msgstr ""
+msgstr "Подключиться к видеоканалу вашего члена экипажа."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3868
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING\"]/text"
-msgstr ""
+msgstr "(Абордажный дрон) Разрешить вашему дрону подняться на борт корабля."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3870
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING\"]/event/text"
 msgstr ""
+"Ваш дрон оживает, и вы совершаете маневр, чтобы позволить ей подняться на "
+"борт. Состыковав два корабля, ваш дрон может подняться на борт; осторожно, "
+"чтобы не заполонить ваш корабль токсинами другого."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3872
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_BOARDING\"]/event/choice/text"
-msgstr ""
+msgstr "Подключиться к видеоканалу вашего дрона."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3878
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Мы должны попытаться, даже рискуя собственной жизнью. Разрешить одному из "
+"членов экипажа подняться на борт корабля."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3882
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Похоже, у вас нет экипажа для этой операции."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3886
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "Неважно, мы не можем позволить себе рисковать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3888
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"Вся эта ситуация выглядит подозрительно, и вы не можете позволить себе "
+"рисковать с токсинами на корабле ракушек, зная, что на борту могут таиться "
+"другие потенциальные опасности. Хотя вы не удовлетворены, вы считаете "
+"необходимым оставить корабль в покое и подождать, пока зарядится ваш ССД."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3890
 msgid ""
@@ -6621,12 +6851,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_ddsoulplague.xml:3902
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Я знаю, как привлечь их внимание. Атакуем!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3904
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Даже когда вы нападаете на них, ракушки не предпринимают никаких попыток "
+"защититься. Странно, что их корабль все еще работает, но вы решили, что, "
+"наверное, опоздали, чтобы спасти их. Как бы то ни было, вам остается "
+"разобрать на лом то немногое, что осталось от их обломков."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3908
 msgid ""
@@ -6637,16 +6871,25 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Собирая обломки, вы понимаете, что что-то не так. Некоторые из них кажутся "
+"маслянистыми и переливающимися... Должно быть, этот корабль заражен чумой "
+"прилива! Прежде чем вы успеваете исправить свою ошибку, часть обломков "
+"сочится, пузырится, и небольшая орда оболочек появляется, чтобы сделать вас "
+"своей следующей жертвой!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3917
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "Как грубо! Тогда я проигнорирую их в ответ."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3919
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Какая наглость у этих пришельцев, клянусь... Вы отложили свою НЕВЕРОЯТНО "
+"срочную миссию по СПАСЕНИЯ РЕАЛЬНОСТИ, чтобы ответить на их сигнал бедствия, "
+"а они даже не могут собраться с силами, чтобы ответить на ваш вызов? В "
+"добрый путь, говорите вы, оставляя корабль в покое и ожидая зарядки ССД."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3921
 msgid ""
@@ -6661,12 +6904,16 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_ddsoulplague.xml:3933
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[2]/text"
-msgstr ""
+msgstr "Здесь что-то неладное. Оставить корабль в покое."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3935
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SHELLSOLDIER\"]/choice[2]/event/text"
 msgstr ""
+"Весь этот сектор держит вас в напряжении, и вы не собираетесь позволить "
+"оболочкам одержать над вами верх. Вы ни на секунду не доверяете этим "
+"ракушкам. Оставив корабль в покое, они, в свою очередь, оставляют в покое "
+"вас, и вы ждете пока зарядится ССД."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3937
 msgid ""
@@ -6682,76 +6929,113 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/text"
 msgstr ""
+"Вам придется объяснить слизню уничтожение его корабля... в любом случае, вы "
+"можете потратить несколько минут на то, чтобы разобрать его на лом."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3957
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/text"
-msgstr ""
+msgstr "Вызвать слизня."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3959
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/text"
 msgstr ""
+"С тех пор как вы в последний раз обращались к нему, объем слизи немного "
+"увеличился, и слизень с нетерпением отвечает: "
+"\"ТЫ ЖИВ! Значит, ты показал им, что к чему, да? Очиссстил его?\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3961
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Ну, да, но я, э-э... возможно, уничтожил твой корабль."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3963
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Вы ожидаете бурных эмоций, но слизень остается на удивление спокойным: \"Вот "
+"черт. Ну, неважно. Я вроде как сссоврал, что это мой корабль, в общем. "
+"Просссто каталссся зайцем, по большшшей часссти\". Слизень на мгновение "
+"застывает в собственной слизи, размышляя, а потом снова смотрит на вас: "
+"\"Ссскажи, ты ведь на корабле, не так ли? На корабле, где... есссть месссто "
+"для такого, как я, да?\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3965
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Эм..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3967
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Он прерывает вас: \"Отлично! Тогда я посссижу здесссь, пока ты придешшшь за "
+"мой! Не то чтобы я мог сссделать здесссь что-то сссущессственное\". Вы "
+"вздыхаете и решаете, что есть вещи похуже, чем бесплатные члены экипажа, "
+"пока вы поднимаете капсулу слизня на борт... только будьте осторожны со "
+"слизью, ладно?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3968
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[1]/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Слизелорд"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3976
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[2]/text"
-msgstr ""
+msgstr "Предоставить слизня его судьбе."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3978
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_NOSHIP\"]/choice[2]/event/text"
 msgstr ""
+"Вы, как будто, РЕАЛЬНО испытываете дискомфорт от конфронтации. Настолько, "
+"что вы скорее позволите кому-то утонуть в луже собственной слизи, дрейфуя в "
+"капсуле в космосе, чем сообщите ему плохие новости. Именно поэтому вам "
+"поручено спасать реальность, а не заниматься чем-то более сложным, например, "
+"связями с общественностью..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3984
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/text"
 msgstr ""
+"Опустошив корабль от оболочек, вы вызываете слизня и сообщаете ему новости: "
+"\"Так и знал, что могу доверять Федерации! Не то чтобы у меня было "
+"ссслишшшком много вариантов в этой ссситуации. Подбросссишшшь меня до моего "
+"корабля, хорошшшо?\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3986
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[1]/text"
-msgstr ""
+msgstr "Сделать то, что просит слизень."
 
 #: src-en/data/events_sector_ddsoulplague.xml:3988
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[1]/event/text"
 msgstr ""
+"Вам удается обнаружить его капсулу и без особых проблем вернуть его на свой "
+"корабль. Как только он устроился внутри, он снова вызывает вас: \"О, ДЕРЬМО, "
+"как же здесссь просссторно, когда всссе ушшшли. Ссскажи, ты почесссал мне "
+"ссспинку, может, я почешшшу тебе? Поссскольку всссе оссстальные мертвы, я не "
+"вижу причин, по которым ты не можешшшь взять кое-что из их вещей. Хотя бы "
+"НЕМНОГО! Ссслизню же надо что-то есссть!\" Слизень передает вам довольно "
+"большой куш, и вы понимаете, что среди различных ресурсов есть странное "
+"оружие... зараженное материя-вирусом чумы прилива!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3992
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что это значит?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:3994
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Слизень оглядывается, \"О, это? Сссегодня утром всссе были одержимы этой "
+"шшштукой. Нашшшел ее плавающей в косссмосссе. Забавно, но это поссследнее, "
+"что я помню, что делал перед тем, как это зомби-дерьмо попало в "
+"вентилятор... Ты же не думаешшшь, что это как-то сссвязано?\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:3996
 msgid ""
@@ -6762,51 +7046,79 @@ msgstr "Моргнуть несколько раз."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"Да, возможно, это просссто сссовпадение. В любом ссслучае, ссспасссибо еще "
+"раз! Мне нужно придумать, как выбратьссся из этого мессста...\" Слизень "
+"смотрит на пульты управления кораблем, как вы полагаете, в замешательстве, "
+"затем нажимает наугад кнопку и прыгает с маяка. Вы полностью уверены в его "
+"способности найти выход из этого ада."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4008
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[2]/text"
-msgstr ""
+msgstr "Предоставить слизня его судьбе."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4010
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER_FIGHT_WIN_SHIPSAVED\"]/choice[2]/event/text"
 msgstr ""
+"Честно говоря, вы не можете оправдать этот поступок. Вам просто не нравится "
+"этот парень. Вы заканчиваете разговор, не сказав больше ни слова, и "
+"некоторое время тратите на то, чтобы собрать все, что можно, с его корабля."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4018
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/text"
 msgstr ""
+"Вы замечаете бездействующий корабль слизней и получаете сигнал, когда "
+"появляетесь на маяке, но быстро понимаете, что сигнал исходит из места, "
+"расположенного немного дальше корабля и скрытого туманностью. Странно..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4022
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/text"
-msgstr ""
+msgstr "Ответить на загадочный вызов."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4024
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/text"
 msgstr ""
+"Вас встречает невероятно клаустрофобное зрелище: слизень сидит, практически "
+"прижавшись лицом к экрану. Помещение, в котором он находится, больше похожа "
+"на тюремную камеру: каждая из ее стен находится в нескольких сантиметрах от "
+"слизня, который говорит: \"СССЛАВА БОГАМ! Я уж думал, мои героичессские "
+"ссспасссительные чувссства меня подводят! Я сссейчассс в СССПАСССАТЕЛЬНОЙ "
+"КАПСССУЛЕ, немного поодаль, пытаюсссь ссспастись посссле того, как эти "
+"масссляниссстые УБЛЮДКИ угнали мой корабль!\" Камера слегка перемещается, и "
+"вы видите нижнюю часть капсулы; этот слизень практически плавает в "
+"собственной слизи."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4026
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Как давно ты... находишься там?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4028
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Слизень трясет камерой: \"Разве это имеет ЗНАЧЕНИЯ? Подай сслизню щупальце и "
+"разберисссь ссс этими шшштуками, ладно? Или, например, руку? ЧТО БЫ У ТЕБЯ "
+"НИ БЫЛО! ЗДЕСССЬ ВОНЯЕТ! Я не могу большшше терпеть ни СССЕКУНДЫ!\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4030
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Хорошо-хорошо. Я очищу твой корабль."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4032
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Я всссегда знал, что вы, Федералы, классссные ребята! Всссегда их любил!\" "
+"Ну да... в любом случае, несмотря на льстивые речи слизня, вы выдвигаетесь, "
+"чтобы разобраться с оболочками на борту его корабля. Когда вы приближаетесь, "
+"корабль слизня слегка начинает двигаться, и вы на мгновение напряглись, а "
+"затем начинает рывками приближаться!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4035
 msgid ""
@@ -6816,22 +7128,31 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ddsoulplague.xml:4041
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Что мне с этого?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4043
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Ух, ты говоришшшь как мая бывшшшая. Ну, не знаю, моя благодарносссть? "
+"Разве вы, Федералы, не питаетесссь любовью и радугой, или еще каким-нибудь "
+"другим дерьмом?\""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4045
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Я люблю любовь и радугу... конечно, я сделаю это."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4047
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"Он танцует, насколько это возможно в его замкнутом пространстве: "
+"\"Я всссегда знал, что вы, Федералы, классссные ребята! Всссегда их любил!\" "
+"Ну да... в любом случае, несмотря на льстивые речи слизня, вы выдвигаетесь, "
+"чтобы разобраться с оболочками на борту его корабля. Когда вы приближаетесь, "
+"корабль слизня слегка начинает двигаться, и вы на мгновение напряглись, а "
+"затем начинает рывками приближаться!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4050
 msgid ""
@@ -6841,12 +7162,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ddsoulplague.xml:4056
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Прости, но я не буду этого делать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4058
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"Трудно понять выражение лица слизня, но вы уверены, что, когда вы закончили "
+"разговор, его переполняли смешанные чувства ужаса и безнадежности. К "
+"сожалению для них, вы не можете решать проблемы ВСЕХ. Вы должны заботиться о "
+"себе! О себе и о своей, э-э... команде! Да! Вы просто хороший капитан! Верно?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4060
 msgid ""
@@ -6861,12 +7186,15 @@ msgstr "Ничего не делать."
 #: src-en/data/events_sector_ddsoulplague.xml:4076
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на вызов и на корабль."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4078
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_NAIVEEXPLORER\"]/choice[2]/event/text"
 msgstr ""
+"Слизни не дают вам покоя и в секторах, НЕ заполненных пожирающими материю "
+"зомби, а, насколько вы помните, этот сектор КАК РАЗ полон пожирающих материю "
+"зомби. Здесь определенно что-то неладное, и вы на это не поведетесь!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4080
 msgid ""
@@ -6902,206 +7230,313 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_HUSK_FIGHT_WIN\"]/text"
 msgstr ""
+"Тот факт, что маяк бедствия на корабле все еще был включен, не дает вам "
+"покоя. Неужели вы опоздали, чтобы прийти на помощь? Может, оболочки включили "
+"его как приманку? Хотелось бы надеяться, что они не настолько умны... "
+"Впрочем, правду вы, возможно, никогда не узнаете."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4122
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/text"
 msgstr ""
+"Вам не понадобилось много времени, чтобы определить точное местоположение "
+"сигнала: корабль ланиусов среди облаков. Когда вы приближаетесь, они "
+"вызывают вас: \"Видишь луч помощи? Здесь помощь? Съели топливо, не "
+"двигаемся. Нужна помощь\". Действительно, их двигатели отключены... "
+"неизвестно, как давно они здесь застряли."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4125
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/text"
-msgstr ""
+msgstr "Передать ланиусам немного своего топлива."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4127
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/text"
 msgstr ""
+"Вы отправляете несколько топливных элементов, но выражение лица ланиуса не "
+"меняется. Тем не менее, вы полагаете, что он благодарен, поскольку он "
+"продолжает: \"Здесь много опасностей. Плохой металл, видел многих. Из "
+"плохого металла получаются плохие люди. Знайте места, помогайте знать места. "
+"Помогите избежать плохого человека\". Вы на мгновение растерялись, но затем "
+"ваши навигационные системы получили новые данные... Ланиусы прислали карту "
+"сектора в качестве благодарности!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4133
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4135
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Благодарю тебя. Спасибо, двигайся скорее\". Вы оставляете ланиусов и сами "
+"готовитесь к прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4139
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Спросить их, что они вообще здесь делали."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4141
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Думаем о заброшенном, ищем металл. Нашел плохой металл. Плохой металл "
+"вредит. Сейчас ищу металл в другом месте, топливо поможет\". Честно говоря, "
+"вы бы и сами хотели поискать лом в другом месте..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4143
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Интересно. Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4145
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Благодарю тебя. Спасибо, двигайся скорее\". Вы оставляете ланиусов и сами "
+"готовитесь к прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4153
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[2]/text"
-msgstr ""
+msgstr "Воспользоваться их беспомощностью и атаковать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4155
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[2]/event/text"
 msgstr ""
+"В своем нынешнем состоянии ланиусы не способны оказать серьезное "
+"сопротивление, и вы легко заставите их сдаться. Они нехотя отдают все, что "
+"могут, по вашему требованию, и ваша казна немного пополняется от этого. "
+"Хорошо, что правду об этом злодеянии они унесут с собой в могилу, здесь, в "
+"глуши..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4160
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[3]/text"
-msgstr ""
+msgstr "Извиниться и сказать, что ним не можете помочь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4162
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_LANIUS\"]/choice[3]/event/text"
 msgstr ""
+"Выражение его лица не меняется, но вы понимаете, что он разочарован, когда "
+"он говорит: \"Все в порядке. Может быть, другая помощь. Поможет луч. В любом "
+"случае, спасибо\". К сожалению, вы оставляете ланиусов на произвол судьбы и "
+"готовитесь к прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4168
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/text"
 msgstr ""
+"Вам не понадобилось много времени, чтобы определить точное местоположение "
+"сигнала: корабль Сепаратистов среди облаков. Они вызывают вас, когда вы "
+"приближаетесь: \"Федерация: -здесь?- Мы: должны [попросить] вас сохранить "
+"наше присутствие здесь в -тайне-. Вы здесь, чтобы -помочь?- Наш корпус "
+"-поврежден-. Мы: можем [починить] его, но у нас [закончились] дрон-"
+"комплекты, из которых можно [создать] наши [ремонтные] -дроны-\". "
+"Действительно, их корпус сильно поврежден... Неизвестно, сколько боев они "
+"здесь пережили."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4171
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/text"
-msgstr ""
+msgstr "Передать Сепаратистам часть своих дрон-комплектов."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4173
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/text"
 msgstr ""
+"Вы передаете несколько дрон-комплектов, и Сепаратист отвесил отвесный поклон "
+"в знак благодарности. У вас возникает ощущение, что они не склонны так "
+"поступать, но тем не менее вы цените этот жест. Он продолжает: \"Мы: "
+"[благодарим] -вас-. Мы: многое [увидели] -здесь-. Позвольте: нам [поделиться]"
+" этим с -вами-\". Вы на мгновение растерялись, но затем ваши навигационные "
+"системы получают новые данные... Сепаратисты прислали карту сектора в "
+"качестве благодарности!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4179
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4181
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Вы: слишком добры, чтобы [благодарить] -нас-. Удачи: вам, что бы вы ни "
+"[делали] -здесь-\". Вы оставляете Сепаратистов и готовитесь к прыжку к "
+"следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4185
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Спросить их, что они вообще здесь делали."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4187
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Он, кажется, не решается ответить, так как на мгновение замирает, прежде чем "
+"наконец заговорить: \"Мы: хотели кое-что [выяснить]: -здесь- Благо: с "
+"помощью которого можно было бы [разрушить] -Гармонию-. К сожалению: такое "
+"изобилие чумных оболочек не входило в наши -расчеты-. Мы: [считаем], что "
+"пора -уходить-\". Вы бы и сами хотели уйти, честно говоря..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4189
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Интересно. Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4191
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Вы: слишком добры, чтобы [благодарить] -нас-. Удачи: вам, что бы вы ни "
+"[делали] -здесь-\". Вы оставляете Сепаратистов и готовитесь к прыжку к "
+"следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4199
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[2]/text"
-msgstr ""
+msgstr "Воспользоваться их беспомощностью и атаковать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4201
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[2]/event/text"
 msgstr ""
+"В своем нынешнем состоянии Сепаратисты не способны оказать серьезное "
+"сопротивление, и вы легко заставите их сдаться. Они нехотя отдают все, что "
+"могут, по вашему требованию, и ваша казна немного пополняется от этого. "
+"Хорошо, что правду об этом злодеянии они унесут с собой в могилу, здесь, в "
+"глуши..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4206
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[3]/text"
-msgstr ""
+msgstr "Извиниться и сказать, что ним не можете помочь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4208
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_ENGI\"]/choice[3]/event/text"
 msgstr ""
+"Его фигура слегка съеживается, когда вы озвучиваете свою позицию: "
+"\"Все: в -порядке-. Возможно: другая помощь [прибудет] -когда-то-\" К "
+"сожалению, вы оставляете Сепаратистов на произвол судьбы и готовитесь к "
+"прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4214
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/text"
 msgstr ""
+"Вам не понадобилось много времени, чтобы определить точное местоположение "
+"сигнала: пиратский корабль среди облаков. Когда вы приближаетесь, они "
+"вызывают вас: \"Ренегат? Какого черта ты делаешь здесь, в ЭТОЙ дыре? Ладно, "
+"неважно. Мы только что столкнулись с какими-то уродами, и эти твари утащили "
+"капитана. Я бы с радостью засунул их обратно в ту адскую нору, из которой "
+"они вылезли, но у нас закончились боеголовки в бою… выручи, а?\" И правда, "
+"их оружие не заряжено… хотя кто знает, насколько искренни их намерения."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4217
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/text"
-msgstr ""
+msgstr "Передать пиратам часть своих боеголовок."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4219
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/text"
 msgstr ""
+"Вы пересылаете несколько боеголовок, и пират, потирая руки, говорит: \"Вот "
+"теперь мы в деле! Эй, мы будем держать это в тайне. Знай, что помогать "
+"таким, как мы, нехорошо, даже если это по доброте твоей чертовой души или "
+"чего-то там еще\". На мгновение он почесывает подбородок, казалось, глубоко "
+"задумавшись, прежде чем продолжить: \"Знаешь, капитан не согласился бы с "
+"этим, но его здесь нет, не так ли? А я не из тех, кто оставляет долги "
+"неоплаченными\". Вы на мгновение растерялись, но затем ваши навигационные "
+"системы получили новые данные... пираты в качестве благодарности прислали "
+"карту сектора!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4225
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4227
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"\"Спасибо, славный мерзавец! Пора бы уже навалять этим радужным выродкам по "
+"полной\". Вы оставляете пиратов и готовитесь к прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4231
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Спросить их, что они вообще здесь делали."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4233
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"\"Поначалу капитан был уверен, что ракушки оставили здесь что-то ценное, и "
+"это выглядело достаточно веселой забавой. Это было до того, как его задницу "
+"с воплями вытащили из шлюза. Тем не менее мы хорошо осмотрели это место до "
+"того, как все случилось, и если здесь и есть какие-то чертовы тайные "
+"сокровища, то они чертовски хорошо спрятаны\". Возможность найти спрятанные "
+"сокровища, безусловно, заманчиво..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4235
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "Интересно. Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4237
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"\"Спасибо, славный мерзавец! Пора бы уже навалять этим радужным выродкам по "
+"полной\". Вы оставляете пиратов и готовитесь к прыжку к следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4245
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[2]/text"
-msgstr ""
+msgstr "Воспользоваться их беспомощностью и атаковать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4247
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[2]/event/text"
 msgstr ""
+"В своем нынешнем состоянии пираты не способны оказать серьезное "
+"сопротивление, и вы легко заставите их сдаться. Они нехотя отдают все, что "
+"могут, по вашему требованию, и ваша казна немного пополняется от этого. "
+"Хорошо, что правду об этом злодеянии они унесут с собой в могилу, здесь, в "
+"глуши..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4252
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[3]/text"
-msgstr ""
+msgstr "Извиниться и сказать, что ним не можете помочь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4254
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[3]/event/text"
 msgstr ""
+"Он слегка морщится, но кивает головой: \"Федерация, по идее, и не должна "
+"помогать таким ублюдкам, как мы. Разберемся сами. Мы, конечно, ублюдки, но "
+"чертовски изобретательные!\" По крайней мере, настроение у них бодрое. С "
+"сожалением вы оставляете пиратов на произвол судьбы и готовитесь к прыжку к "
+"следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4260
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_HUSK\"]/text"
 msgstr ""
+"Вам не понадобилось много времени, чтобы определить точное местоположение "
+"сигнала: корабль среди облаков. Однако что-то в его движениях кажется вам "
+"странным, и вдруг вас осеняет: этот корабль захватили оболочки! Теперь они "
+"знают о вашем присутствии и готовятся захватить ваш корабль!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4263
 msgid ""
@@ -7112,21 +7547,27 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS\"]/text"
 msgstr ""
+"Согласно вашей карте, здесь есть сигнал бедствия, но ваши системы считают, "
+"что его источник находится немного глубже в туманности. Чтобы найти его, вам "
+"придется потрудиться."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4273
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS\"]/choice[1]/text"
-msgstr ""
+msgstr "Найти источник сигнала."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4277
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS\"]/choice[2]/text"
-msgstr ""
+msgstr "Не обращать внимания на сигнал."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4279
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS\"]/choice[2]/event/text"
 msgstr ""
+"У вас свои приоритеты, и вам неинтересно искать иголку в стоге сена. "
+"Довольный своим решением, вы в ожидании зарядки ССД остаетесь один на один с "
+"грозовыми тучами."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4281
 msgid ""
@@ -7142,51 +7583,71 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS_LOOTLIST_GOODIES\"]/text"
 msgstr ""
+"Набор добычи странный, почти случайный, но вы довольны всем, что удалось "
+"заполучить. После сбора обломков остается только покинуть маяк."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4304
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS_LOOTLIST_BADDIES\"]/text"
 msgstr ""
+"Вы быстро обнаруживаете, что здесь мало чего ценного; в основном это просто "
+"обгоревшие обломки. Однако, подняв их на борт, вы начинаете присматриваться "
+"к ним... они обгоревшие или... маслянистые?"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4307
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS_LOOTLIST_BADDIES\"]/choice/text"
-msgstr ""
+msgstr "Минутку!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4309
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS_LOOTLIST_BADDIES\"]/choice/event/text"
 msgstr ""
+"Это не обычный лом... Часть его заражена проклятым материя-вирусом! Прежде "
+"чем вы успеваете осознать это, зараженный лом пузырится и сочится, и "
+"несколько чумных оболочек оживают!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4317
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/text"
 msgstr ""
+"Не самое приятное зрелище встречает вас здесь, когда вы с нетерпением ждете "
+"ответа на сигнал бедствия... Корабль, который его посылал, полностью "
+"разрушен и не подлежит восстановлению. Теперь это не более чем груда лома, "
+"плывущая среди облаков."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4320
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/choice/text"
-msgstr ""
+msgstr "Черт..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4322
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/choice/event/text"
 msgstr ""
+"Вам удается обнаружить среди обломков маяк бедствия и навсегда заглушить его "
+"сигнал. Жаль, что вы опоздали, но вы надеетесь, что души, павшие здесь, "
+"смогут хотя бы упокоиться с миром. Однако другая часть вас чувствует "
+"возможность..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4324
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Возможность, несомненно! Разграбить эти обломки!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4328
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Будем уважительны. Не тревожить обломки."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4330
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_SMOLDERINGREMAINS\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"Здесь погибли люди, и вы не собираетесь отказываться от того немногого, что "
+"осталось в качестве доказательства их существования. С тяжелым сердцем вы "
+"удаляетесь от обломков и находите тихое место, чтобы поразмыслить, пока ССД "
+"корабля заряжается."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4332
 msgid ""
@@ -7222,11 +7683,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT_WIN\"]/text"
 msgstr ""
+"Неужели оболочки устроили засаду? Вы содрогаетесь от такой мысли... Тем не "
+"менее, мало что остается делать, кроме как двигаться дальше. По крайней "
+"мере, на один корабль, полный бездумных зомби, в галактике станет меньше."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4370
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/text"
 msgstr ""
+"В туманности вы не сразу заметите корабль, подающий сигнал бедствия... к "
+"сожалению, как и не сразу понимаете, что его пилотируют оболочки! Они "
+"приближаются к вам!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4375
 msgid ""
@@ -7237,6 +7704,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_HUSKSWAITING\"]/text"
 msgstr ""
+"Вы надеялись, что менее туманные области сектора будут немного безопаснее, "
+"но корабль, мельтешащий туда-сюда, похоже, намерен разрушить эту надежду... "
+"Оболочки, на подходе!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4392
 msgid ""
@@ -7267,21 +7737,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT_FIGHT_WIN\"]/text"
 msgstr ""
+"Вы понимаете, что в этом секторе нельзя доверять ничему, независимо от того, "
+"находитесь ли вы в самой туманности или нет. С таким количеством оболочек, "
+"как здесь, вы удивляетесь, как сильно они успели распространиться..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4421
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/text"
 msgstr ""
+"Здесь находится корабль ракушек, но они не обращают внимания на ваше "
+"появление. Странно, что они здесь, но, полагаете, оказаться где угодно, "
+"только не в туманности, предпочтительнее."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4424
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[1]/text"
-msgstr ""
+msgstr "Может, нам стоит привлечь их внимание? Вызвать ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4426
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[1]/event/text"
 msgstr ""
+"Вы посылаете запрос на вызов, и их корабль слегка начинает двигаться, а "
+"потом начинает метаться взад-вперед, как пьяный... Это вовсе не ракушки! Их "
+"хаотичные движения только усиливаются, и вы понимаете, что потревожили "
+"гнездо оболочек!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4429
 msgid ""
@@ -7292,11 +7772,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[2]/text"
 msgstr ""
+"Они могут игнорировать меня, но я не собираюсь игнорировать их. Атаковать "
+"ракушек!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4437
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[2]/event/text"
 msgstr ""
+"Вы приближаетесь к ракушкам, заряжая оружие, и их корабль слегка начинает "
+"двигаться, а потом начинает метаться взад-вперед, как пьяный... Это вовсе не "
+"ракушки! Их хаотичные движения только усиливаются, и вы понимаете, что "
+"потревожили гнездо оболочек!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4440
 msgid ""
@@ -7306,12 +7792,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_sector_ddsoulplague.xml:4446
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[3]/text"
-msgstr ""
+msgstr "Предоставить их самим себе. Не обращать внимания на ракушек."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4448
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_SHELLBAIT\"]/choice[3]/event/text"
 msgstr ""
+"Честно говоря, вам не очень интересно, почему они здесь. А вот что вам "
+"действительно интересно, так это выбраться отсюда, и ожидание зарядки ССД "
+"способствуют достижению этой цели."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4450
 msgid ""
@@ -7327,6 +7816,9 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_RESPITE\"]/text"
 msgstr ""
+"Покой в таком неспокойном секторе, как этот, - большая редкость, и все же "
+"вам удалось найти тихий, пустой уголок вдали от всего этого хаоса. Вам "
+"придется наслаждаться им, пока он продолжается..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4464
 msgid ""
@@ -7342,6 +7834,11 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_HUSKATTACK\"]/text"
 msgstr ""
+"Когда последняя звено разрывается, коробка начинает шуметь... ее боковая "
+"стенка лопается, и из нее в воздух проникает прогорклый запах. Вы делаете "
+"шаг назад, когда из отверстия сочится черная масса, а перед вами начинают "
+"собираться оболочки! Хоть бы раз вам повезло и вы нашли какую-нибудь "
+"добычу..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4487
 msgid ""
