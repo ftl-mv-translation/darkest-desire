@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-23 10:57+0000\n"
+"PO-Revision-Date: 2025-05-06 23:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_sector_ddcoremassxml/ru/>\n"
@@ -37,65 +37,124 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS_FIGHT_WIN\"]/text"
 msgstr ""
+"Теперь, когда Дети Звезд пали, кажется, что масса снаружи успокоилась - ее "
+"гигантские тентакли решили оставить ваш корабль в покое и снова слиться "
+"воедино. Вы задаетесь вопросом, как именно Дети управляют ею, и как это "
+"вообще работает... независимо от ответа, вам удалось избежать использования "
+"силы пламени. Надеюсь, с ним в руках, а может, и с удачей, вы сможете "
+"выполнить свою задачу - добраться до сердца этого адского места и уничтожить "
+"материя-вирус раз и навсегда. Если взглянуть на карту, то окажется, что "
+"странные показания сектора наиболее плотны у его выхода... Это и есть "
+"сердце. Осталось только отправиться в путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:26
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS_FIGHT_WIN\"]/choice/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:36
 msgid "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/text"
 msgstr ""
+"Ваш корабль выбрасывает из другого конца червоточины, и она стремительно "
+"закрывается за вами... Вы оказываетесь в темной, почти бездонной пустоте "
+"космоса. Ни одна звезда не светит в темноте снаружи; единственным источником "
+"света здесь является слабое разноцветное свечение далеко вдалеке."
 
 #: src-en/data/events_sector_ddcoremass.xml:46
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/text"
-msgstr ""
+msgstr "Это... тюрьма?"
 
 #: src-en/data/events_sector_ddcoremass.xml:48
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/text"
 msgstr ""
+"Крошечный клочок тьмы снаружи выделяется из остальной неисчислимой массы, и "
+"вы понимаете, что это не просто обычная тьма... всё это место — одна "
+"непостижимо огромная пещера зараженная чумой прилива! Этот осколок, ставший "
+"подвижным, направляется к вашему кораблю, в то время как чьи-то шепоты "
+"начинают затуманивать ваш разум:\n"
+"\n"
+"\t\t\t\"...незваный гость... здесь...\"\n"
+"\t\t\t\"...свежая плоть... присоединяйся к нам...\"\n"
+"\t\t\t\"...стань... семьей...\"\n"
+"\n"
+"Вы изо всех сил пытаетесь выбросить эти мысли из головы, но они, кажется, "
+"только продолжают наводнять ее."
 
 #: src-en/data/events_sector_ddcoremass.xml:57
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "\"Что... ты такое? Убирайся из моей головы!\""
 
 #: src-en/data/events_sector_ddcoremass.xml:59
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/text"
 msgstr ""
+"Эти шепоты такое мягкие, почти приветливые:\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"...мы... Дети...\"\n"
+"\t\t\t\t\t\"...Дети звезд...\"\n"
+"\t\t\t\t\t\"...Дети... Звезд...\"\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВидения их образов наполняют ваш разум: темные, зловещие ракушки, "
+"чьи центры излучают радужный свет... хотя их подобия кажутся вам более "
+"знакомыми, вас не покидает тревожное чувство, что их разумы ничуть не менее "
+"пусты, чем виденные вами чумные оболочки. Их взгляды кажутся... такими же "
+"пустыми."
 
 #: src-en/data/events_sector_ddcoremass.xml:67
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дети... Та закованная в броню дама упоминала о вас."
 
 #: src-en/data/events_sector_ddcoremass.xml:69
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Как только вы упоминаете ее, голоса становятся зловещими и укоряющими:\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"...героиня... презренная...\"\n"
+"\t\t\t\t\t\t\t\"...пешка надежды... ужасная тварь...\"\n"
+"\t\t\t\t\t\t\t\"...крушительница звезд... убийца...\""
 
 #: src-en/data/events_sector_ddcoremass.xml:75
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я... знаю твои уловки! Ты не сможешь меня обмануть! Сгинь!"
 
 #: src-en/data/events_sector_ddcoremass.xml:77
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Даже когда вы осуждаете их, шепоты снова становятся мягкими:\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\"...не нужно... спешить...\"\n"
+"\t\t\t\t\t\t\t\t\t\"...долгий путь... к сердцу...\"\n"
+"\t\t\t\t\t\t\t\t\t\"...присоединись к нашим объятиям... познай утешение...\""
+"\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\tВы чувствуете, как золотое пламя, данное вам, горит ярче в "
+"вашей руке; оно все еще не горячее на ощупь. Более того, вы обнаруживаете, "
+"что оно стало еще более успокаивающим после предложения голосов в вашей "
+"голове... так вот какова природа той истины, которую оно должно было открыть?"
 
 #: src-en/data/events_sector_ddcoremass.xml:85
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/text"
-msgstr ""
+msgstr "(Пламя надежды) Сжечь тени сомнений."
 
 #: src-en/data/events_sector_ddcoremass.xml:87
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/text"
 msgstr ""
+"Вы крепче сжимаете пламя, и неизмеримая масса чумы прилива снаружи реагирует "
+"на ваше действие. Ее часть вздымается, бросаясь на ваш корабль с яростным "
+"ревом, и голоса в вашей голове кричат... но никто из них ничего не может "
+"сделать. Сила пламени вырывается наружу в виде волны света, исходящей от "
+"вашего корабля, - волны несравненной мощи, которая одновременно уничтожает и "
+"странный, зараженный чумой прилива корабль, и ту волну массы, что неслась на "
+"вас."
 
 #: src-en/data/events_sector_ddcoremass.xml:92
 msgid ""
@@ -106,128 +165,193 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/text"
 msgstr ""
+"После этого у вас остается истина, открытая пламенем... чувство уюта. Хотя "
+"вы не понимаете этого, вы чувствуете, что эта истина может принимать любую "
+"форму, какую вы пожелаете."
 
 #: src-en/data/events_sector_ddcoremass.xml:97
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Я бы нашел утешение... в получении ремонта."
 
 #: src-en/data/events_sector_ddcoremass.xml:99
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Остаточная энергия, высвобожденная пламенем, словно сгущается и собирается "
+"вокруг вашего корабля. Когда эта сила рассеивается, вы понимаете, что корпус "
+"вашего судна чудесным образом восстановлен... что же это такое, в конце "
+"концов? Независимо от ответа, вы должны помнить слова закованной в броню "
+"леди: его сила конечна. Надеюсь, с его помощью и, возможно, с небольшой "
+"удачей, вы сможете выполнить свою задачу - добраться до сердца этого адского "
+"места и уничтожить материя-вирус раз и навсегда. Взглянув на карту, вы "
+"видите, что странные показания сектора наиболее плотные на его выходе... "
+"должно быть, там и находится сердце. Теперь осталось только отправиться в "
+"путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:102
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[1]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:106
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[1]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:108
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[1]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы собираетесь уходить, вы чувствуете, что чего-то не хватает... вашей "
+"связи с массой чумы прилива, с которой вы связаны. Должно быть, она не может "
+"связаться с вами здесь, внутри Сердцевины... Вам придется обойтись без нее, "
+"пока вы не достигнете сердца."
 
 #: src-en/data/events_sector_ddcoremass.xml:115
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я бы нашел утешение... в получении топлива."
 
 #: src-en/data/events_sector_ddcoremass.xml:117
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Остаточная энергия, высвобожденная пламенем, словно сгущается и собирается "
+"внутри вашего корабля. Когда эта энергия исчезает, вы понимаете, что в вашем "
+"трюме чудесным образом появилось топливо... что же это такое, в конце "
+"концов? Независимо от ответа, вы должны помнить слова закованной в броню "
+"леди: его сила конечна. Надеюсь, с его помощью и, возможно, с небольшой "
+"удачей, вы сможете выполнить свою задачу - добраться до сердца этого адского "
+"места и уничтожить материя-вирус раз и навсегда. Взглянув на карту, вы "
+"видите, что странные показания сектора наиболее плотные на его выходе... "
+"должно быть, там и находится сердце. Теперь осталось только отправиться в "
+"путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:122
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[2]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:126
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[2]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:128
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[2]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы собираетесь уходить, вы чувствуете, что чего-то не хватает... вашей "
+"связи с массой чумы прилива, с которой вы связаны. Должно быть, она не может "
+"связаться с вами здесь, внутри Сердцевины... Вам придется обойтись без нее, "
+"пока вы не достигнете сердца."
 
 #: src-en/data/events_sector_ddcoremass.xml:135
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Я бы нашел утешение... в получении боеголовок."
 
 #: src-en/data/events_sector_ddcoremass.xml:137
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Остаточная энергия, высвобожденная пламенем, словно сгущается и собирается "
+"внутри вашего корабля. Когда эта энергия исчезает, вы понимаете, что в вашем "
+"трюме чудесным образом появились боеголовки... что же это такое, в конце "
+"концов? Независимо от ответа, вы должны помнить слова закованной в броню "
+"леди: его сила конечна. Надеюсь, с его помощью и, возможно, с небольшой "
+"удачей, вы сможете выполнить свою задачу - добраться до сердца этого адского "
+"места и уничтожить материя-вирус раз и навсегда. Взглянув на карту, вы "
+"видите, что странные показания сектора наиболее плотные на его выходе... "
+"должно быть, там и находится сердце. Теперь осталось только отправиться в "
+"путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:142
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[3]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:146
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[3]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:148
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[3]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы собираетесь уходить, вы чувствуете, что чего-то не хватает... вашей "
+"связи с массой чумы прилива, с которой вы связаны. Должно быть, она не может "
+"связаться с вами здесь, внутри Сердцевины... Вам придется обойтись без нее, "
+"пока вы не достигнете сердца."
 
 #: src-en/data/events_sector_ddcoremass.xml:155
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "Я бы нашел утешение... в получении дрон-комплектов."
 
 #: src-en/data/events_sector_ddcoremass.xml:157
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[4]/event/text"
 msgstr ""
+"Остаточная энергия, высвобожденная пламенем, словно сгущается и собирается "
+"внутри вашего корабля. Когда эта энергия исчезает, вы понимаете, что в вашем "
+"трюме чудесным образом появились дрон-комплекты... что же это такое, в конце "
+"концов? Независимо от ответа, вы должны помнить слова закованной в броню "
+"леди: его сила конечна. Надеюсь, с его помощью и, возможно, с небольшой "
+"удачей, вы сможете выполнить свою задачу - добраться до сердца этого адского "
+"места и уничтожить материя-вирус раз и навсегда. Взглянув на карту, вы "
+"видите, что странные показания сектора наиболее плотные на его выходе... "
+"должно быть, там и находится сердце. Теперь осталось только отправиться в "
+"путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:162
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[4]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:166
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[4]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вперед, к сердцу!"
 
 #: src-en/data/events_sector_ddcoremass.xml:168
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice[4]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы собираетесь уходить, вы чувствуете, что чего-то не хватает... вашей "
+"связи с массой чумы прилива, с которой вы связаны. Должно быть, она не может "
+"связаться с вами здесь, внутри Сердцевины... Вам придется обойтись без нее, "
+"пока вы не достигнете сердца."
 
 #: src-en/data/events_sector_ddcoremass.xml:179
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Мы должны использовать пламя с умом. Пока отложить его на потом."
 
 #: src-en/data/events_sector_ddcoremass.xml:181
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы вспоминаете предупреждение закованной в броню леди о том, что сила "
+"пламени конечна... вы не намерены использовать его так скоро. Когда вы "
+"убираете пламя, неизмеримая масса чумы прилива снаружи, кажется, реагирует. "
+"Ее часть вздымается, бросаясь на ваш корабль с яростным ревом, и голоса в "
+"вашей голове кричат... похоже, они поняли, что их уловка раскрыта, и теперь "
+"атакуют вместе с массой вокруг вас!"
 
 #: src-en/data/events_sector_ddcoremass.xml:187
 msgid ""
@@ -252,6 +376,10 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Когда вы переходите в атакующую позицию, вы чувствуете, что чего-то не "
+"хватает... вашей связи с массой чумы прилива, с которой вы связаны. Должно "
+"быть, она не может связаться с вами здесь, внутри Сердцевины... Вам придется "
+"обойтись без нее, пока вы не достигнете сердца."
 
 #: src-en/data/events_sector_ddcoremass.xml:206
 msgid ""
@@ -263,106 +391,155 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[1]"
 msgstr ""
+"Вы все глубже и глубже погружаетесь в Сердцевину, и лишь надежда освещает "
+"вам путь..."
 
 #: src-en/data/events_sector_ddcoremass.xml:225
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[2]"
 msgstr ""
+"Бездна и здесь извивается и вздымается с той же бешеной яростью. Один этот "
+"вид мог бы свести с ума, если бы ваше сердце не было таким закаленным..."
 
 #: src-en/data/events_sector_ddcoremass.xml:226
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[3]"
 msgstr ""
+"Еще один прыжок - и еще одно вторжение в брюхо чудовища, и конца этому "
+"безумию не видно..."
 
 #: src-en/data/events_sector_ddcoremass.xml:227
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[4]"
 msgstr ""
+"Зловещие тени пляшут в уголках вашего зрения, приглашая погрузиться в "
+"паранойю. Вы должны закрыть глаза на эти уловки разума и сосредоточиться на "
+"выполнении поставленной задачи..."
 
 #: src-en/data/events_sector_ddcoremass.xml:228
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[5]"
 msgstr ""
+"Стоять на краю пропасти и все равно толкать себя дальше за ее край - признак "
+"либо героизма, либо глупости. Что именно, покажет только время..."
 
 #: src-en/data/events_sector_ddcoremass.xml:229
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[6]"
 msgstr ""
+"Часть вас тоскует по безмятежности былых времен, когда бесконечный объем "
+"Сердцевины вновь встречает вас. Позвольте этому стремлению к более простым "
+"временам подпитывать вас и ваши силы, когда вы будете углубляться в хаос "
+"впереди..."
 
 #: src-en/data/events_sector_ddcoremass.xml:230
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[7]"
 msgstr ""
+"В этом проклятом месте вы не должны терять бдительности ни на секунду, чтобы "
+"не поддаться его хитрости или жестокости..."
 
 #: src-en/data/events_sector_ddcoremass.xml:231
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[8]"
 msgstr ""
+"Хотя вы и понимаете, что делаете успехи, но не можете отделаться от "
+"ощущения, что вы заблудились в этой бездонной преисподней..."
 
 #: src-en/data/events_sector_ddcoremass.xml:232
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[9]"
 msgstr ""
+"Удобства реальности кажутся такими далекими от этого мрачного места, когда "
+"вы снова вглядываетесь в бескрайние просторы скверны материя-вируса..."
 
 #: src-en/data/events_sector_ddcoremass.xml:233
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[10]"
 msgstr ""
+"Вам сказали, что эта холодная плоскость - тюрьма. И действительно, вам "
+"кажется, что это слово еще никогда не звучало так метко..."
 
 #: src-en/data/events_sector_ddcoremass.xml:234
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_VENTUREDEEPER\"]/text[11]"
 msgstr ""
+"Еще много, много монстров, зараженных чумой прилива, предстоит сразить. "
+"Приготовьтесь, ибо это место и его мерзости готовы к встрече с вами..."
 
 #: src-en/data/events_sector_ddcoremass.xml:238
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_UTILIZINGHOPESFLAME\"]/text[1]"
 msgstr ""
+"Схватившись за пламя, его сила вырывается наружу - шепоты переходят в крики, "
+"но теперь они мало что могут сделать, чтобы спастись."
 
 #: src-en/data/events_sector_ddcoremass.xml:239
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_UTILIZINGHOPESFLAME\"]/text[2]"
 msgstr ""
+"Одно прикосновение к пламени - и все... Безумие этого места мало что может "
+"сделать, когда сталкивается с надеждой."
 
 #: src-en/data/events_sector_ddcoremass.xml:240
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_UTILIZINGHOPESFLAME\"]/text[3]"
 msgstr ""
+"Вы касаетесь пламени, и волна разрушения устремляется вперед. Участь, "
+"достойная этих ужасных созданий - нет, скорее, монстров. Насмешка над всем, "
+"что значит жить. Они говорят о семье и ничего о ней не знают..."
 
 #: src-en/data/events_sector_ddcoremass.xml:241
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_UTILIZINGHOPESFLAME\"]/text[4]"
 msgstr ""
+"Крепче сжимая пламя, вы чувствуете, как проявляется его сила и уничтожает "
+"окружающие вас тени. Такова сила надежды даже в самых темных безднах."
 
 #: src-en/data/events_sector_ddcoremass.xml:245
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_HOSTILITIESBEGIN\"]/text[1]"
 msgstr ""
+"Поняв, что их уловки на вас не действуют, шепот умолкает, и Сердцевина "
+"приближается... приготовьтесь!"
 
 #: src-en/data/events_sector_ddcoremass.xml:246
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_HOSTILITIESBEGIN\"]/text[2]"
 msgstr ""
+"Как бы вы ни боролись с шепотом в голове, леденящие душу крики Сердцевины - "
+"совсем другое дело. К сожалению, с этим придется смириться, поскольку она и "
+"его приспешники наступают!"
 
 #: src-en/data/events_sector_ddcoremass.xml:247
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_HOSTILITIESBEGIN\"]/text[3]"
 msgstr ""
+"Шепот становится все громче и громче, пока не превращается в гортанный крик; "
+"вы должны игнорировать его попытки попытки отвлечь вас и защищаться!"
 
 #: src-en/data/events_sector_ddcoremass.xml:248
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_HOSTILITIESBEGIN\"]/text[4]"
 msgstr ""
+"Вы не настолько глупы, чтобы поверить во всю эту чепуху, которую хотят "
+"впарить вам здешние монстры. Но, похоже, они знают о вашем неприятии, раз "
+"переходят в атаку!"
 
 #: src-en/data/events_sector_ddcoremass.xml:249
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DDCOREMASS_HOSTILITIESBEGIN\"]/text[5]"
 msgstr ""
+"Сердцевина снаружи извивается и ревет, ее бесконечное море щупалец пытается "
+"сомкнуться вокруг вашего корабля... хотя вам удается уклониться от большей "
+"части, они все равно остаются угрозой во время предстоящей битвы."
 
 #: src-en/data/events_sector_ddcoremass.xml:259
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DESTROYED_DDCOREMASS_CHILDRENOFTHESTARS\"]/text[1]"
 msgstr ""
+"Хотя Сердцевина продолжает свирепствовать, вам удается собрать все, что "
+"можно, с обломков корабля, зараженного чумой прилива, и продолжить путь."
 
 #: src-en/data/events_sector_ddcoremass.xml:260
 msgid ""
@@ -393,6 +570,8 @@ msgstr ""
 msgid ""
 "data/events_sector_ddcoremass.xml$//textList[@name=\"TEXT_DEAD_CREW_DDCOREMASS_CHILDRENOFTHESTARS\"]/text[1]"
 msgstr ""
+"Хотя Сердцевина продолжает свирепствовать, вам удается собрать все, что "
+"можно, с обломков корабля, зараженного чумой прилива, и продолжить путь."
 
 #: src-en/data/events_sector_ddcoremass.xml:275
 msgid ""
