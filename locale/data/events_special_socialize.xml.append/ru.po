@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-04 15:49+0000\n"
+"PO-Revision-Date: 2025-05-10 23:49+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_socializexmlappend/ru/>\n"
@@ -17,41 +17,54 @@ msgstr ""
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_THE_SCARRED_NOTHING\"]/text"
 msgstr ""
+"Вы видите, что Шрам находится в каком-то медитативном состоянии... смотрит в "
+"пустоту. Вы решаете, что лучше оставить его в покое."
 
 #: src-en/data/events_special_socialize.xml.append:26
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/text"
 msgstr ""
+"Шрам стоит на коленях на земле... Может быть, он находит эту позу "
+"расслабляющей? Независимо от этого, он говорит: "
+"\"Встречался с... сородичем. Вам что-то... было нужно?\""
 
 #: src-en/data/events_special_socialize.xml.append:28
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/text"
-msgstr ""
+msgstr "У меня возник вопрос."
 
 #: src-en/data/events_special_socialize.xml.append:30
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/text"
-msgstr ""
+msgstr "Его глаза слегка прищурились: \"О... чем?\""
 
 #: src-en/data/events_special_socialize.xml.append:32
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Он касается вас! Расскажите мне больше о себе."
 
 #: src-en/data/events_special_socialize.xml.append:34
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Его взгляд стал прежним, и вы видите, что тело Шрам расслабилось: "
+"\"Неожиданная просьба. Что... ты бы хотел узнать?\""
 
 #: src-en/data/events_special_socialize.xml.append:36
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Как вы украли свои способности? Как это произошло?"
 
 #: src-en/data/events_special_socialize.xml.append:38
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Хм...\", - он закрывает глаза и на мгновение задумываются над этим "
+"вопросом. Затем: \"Не только мое тело покрыто шрамами, но и... мой разум. Я "
+"мало что помню из того, что произошло... в тот день. Огромная машина, "
+"парящая в бесконечной бездне... но это все, чем она была, - машиной. Она... "
+"что-то сделала со мной, захотела моего рабства. Я... проявил себя, и она "
+"посчитала меня подходящим кандидатом для вознесения. Она... ошиблось\"."
 
 #: src-en/data/events_special_socialize.xml.append:40
 msgid ""
@@ -62,211 +75,358 @@ msgstr "И?"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Улыбка на его лице исчезает: \"И... это все, что я могу вспомнить. Ложный "
+"Бог... даровал мне силу, и я вырвался из-под его власти. Теперь я... назван "
+"своим народом предателем. За мной охотятся, изгоняют… отвергают. Что "
+"касается моих способностей... - рука начинает дематериализовываться, исчезая "
+"из реальности, но затем снова стабилизируется, - ...я считаю, что Ложный Бог "
+"хотел даровать мне власть над своей... фальшивой пустотой. Я могу "
+"контролировать его тьму... стать ею и противостоять ее притяжению к моей "
+"душе\". После минутного молчания улыбка Шрама возвращается, и он снова "
+"говорит: \"Спасибо... за расспросы, сородич, но я должен вернуться к "
+"своим... размышлениям. Надеюсь, твое любопытство... удовлетворено\"."
 
 #: src-en/data/events_special_socialize.xml.append:48
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Каким вы были раньше, когда еще поклонялись Темному Богу?"
 
 #: src-en/data/events_special_socialize.xml.append:50
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Я был... охотником, набожным... до предела. Дань, которую я собирал, "
+"была... непревзойденной. Многие пали от моей руки во имя Ложного Бога... "
+"ложной цели. Я не жду, что когда-нибудь по-настоящему раскаюсь или прощу "
+"себя, но... если Ложный Бог будет повержен, а его безумию будет положен "
+"конец... думаю, я смогу спокойно отдохнуть. А пока...\" - улыбается Шрам, \""
+"...веди меня, сородич\"."
 
 #: src-en/data/events_special_socialize.xml.append:54
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "Какое ваше любимое хобби?"
 
 #: src-en/data/events_special_socialize.xml.append:56
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Он моргает раз, потом еще раз, прежде чем ответить: "
+"\"Это... наблюдение за звездами\". Взгляд Шрама опускается на пол, и у вас "
+"возникает ощущение, что он... смущен? \"Я... нахожу это успокаивающим. "
+"Это... это все, что я могу сказать по этому поводу. А теперь... прости, "
+"мне... нужно заняться... очень важной медитацией\". Вы выходите из комнаты, "
+"почти довольные, но потом решаете вернуться на цыпочках и заглянуть в "
+"дверной проем... Вы успеваете заметить, как Шрам смотрит в иллюминатор, а "
+"потом поворачивается, заставляя вас бежать по коридору."
 
 #: src-en/data/events_special_socialize.xml.append:64
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Ничего такого, просто проверяю."
 
 #: src-en/data/events_special_socialize.xml.append:66
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_1\"]/choice[2]/event/text"
 msgstr ""
+"\"Ну... ладно. Да, я в полном порядке\". Это все, что он говорит, прежде чем "
+"закрыть глаза, фактически уходя от разговора."
 
 #: src-en/data/events_special_socialize.xml.append:71
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_2\"]/text"
 msgstr ""
+"Вы находитесь у двери каюты Шрама, когда слышите сильный грохот, доносящийся "
+"изнутри. Вы вбегаете внутрь и обнаруживаете... Шрама, стоящего над грудой "
+"разбитой посуды. \"Эй, сородич! Это... не то, чем кажется!\" На что именно "
+"это похоже? Вы не понимаете, но вам не по себе от всей этой сцены, и вы "
+"покидаете каюту, не сказав ни слова..."
 
 #: src-en/data/events_special_socialize.xml.append:74
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_3\"]/text"
 msgstr ""
+"Шрам роется в трюме среди запасов еды. Заметив ваше присутствие, он говорит: "
+"\"А, сородич. Не знаешь ли ты... где мы храним рыбу?\""
 
 #: src-en/data/events_special_socialize.xml.append:76
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_3\"]/choice/text"
-msgstr ""
+msgstr "Рыбу? Разве это не... каннибализм?"
 
 #: src-en/data/events_special_socialize.xml.append:78
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_3\"]/choice/event/text"
 msgstr ""
+"Он перестает рыться, поворачивается и смотрит на вас: "
+"\"Что... это значит? Я что... похож на рыбу?\" Вы решаете, что лучше не "
+"отвечать, и проводите его к рыбе."
 
 #: src-en/data/events_special_socialize.xml.append:83
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_4\"]/text"
 msgstr ""
+"В каюте царит кромешная тьма, но у вас возникает ощущение, что Шрам здесь "
+"медитирует... Хотя скорее это не ощущение, поскольку вы слышите его странные "
+"гортанные напевы сквозь темноту. Лучше не мешать ему."
 
 #: src-en/data/events_special_socialize.xml.append:86
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_5\"]/text"
 msgstr ""
+"Вы застаете Шрама в коридоре, рисующего... на стене. Рисунки очень грубые, "
+"но, похоже, это изображения глубоководных и их кораблей. Шрам поворачивается "
+"к вам: \"Сородич! Я... надеюсь, ты не против. Я не смог найти никакой... "
+"бумаги, и я пытаюсь... вспомнить\"."
 
 #: src-en/data/events_special_socialize.xml.append:88
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_5\"]/choice/text"
-msgstr ""
+msgstr "Вспомнить? Что?"
 
 #: src-en/data/events_special_socialize.xml.append:90
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_GENERIC_5\"]/choice/event/text"
 msgstr ""
+"\"Вспомнить... мое прошлое и людей в нем. Все... что было до моей встречи с "
+"Ложным Богом, кажется таким... туманным. Тем не менее, кусочки и фрагменты "
+"возвращаются ко мне... время от времени. Я не хочу снова забыть, поэтому "
+"я... запечатляю их в искусстве\". Вспомнить... Это слово странно звучит в "
+"вашем сознании, но вы не можете понять, почему. Тем не менее, вы находите "
+"это чувство приятным и оставляете Шрама рисовать."
 
 #: src-en/data/events_special_socialize.xml.append:95
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_THEHUNGER_1\"]/text"
 msgstr ""
+"Вы обнаруживаете Голода, заглядывающего в каюту Шрама через щель в двери. "
+"Герметичную щель... Не смотря на это, он понимает, что вы его поймали, и "
+"говорит: "
+"\"КАПИТАН. Зап-п-п-п-ос: Субъект: ПРЕДАТЕЛЬ. Запрос: Запрос: Запрос:\" Он "
+"продолжает повторять слово \"запрос\", даже когда вы сдаетесь и выходите из "
+"комнаты..."
 
 #: src-en/data/events_special_socialize.xml.append:98
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_THEHUNGER_2\"]/text"
 msgstr ""
+"Шрам и Голод отдыхают вместе, вам кажется... Шрам говорит: \"Ты... странно "
+"говоришь, даже по сравнению с твоими сородичами. Что именно... сделал с "
+"тобой Ложный Бог?\" Голод слегка покачивается на месте: \"ВВЕРХ. В-в-в-в-"
+"вниз? Субъект-ткъьус: ВЕЗДЕ. Состояние: Состояние! ШРАМ\". Шрам кажется "
+"обеспокоенным этим, но больше ничего не говорит. Они сидят в тишине, и вы "
+"выходите из комнаты, не зная, что и думать..."
 
 #: src-en/data/events_special_socialize.xml.append:101
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_1\"]/text"
 msgstr ""
+"Вортигон смотрит на Шрама, а тот сидит в глубокой задумчивости. Он смотрит "
+"на вас и говорит: \"Почему он проводит весь день в медитации, если у него "
+"нету Бога, которому он мог бы молиться? Чего именно он добивается?\" Вы и "
+"сами не вполне понимаете."
 
 #: src-en/data/events_special_socialize.xml.append:103
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_1\"]/choice/text"
-msgstr ""
+msgstr "Возможно, это как-то связано с его силой?"
 
 #: src-en/data/events_special_socialize.xml.append:105
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_1\"]/choice/event/text"
 msgstr ""
+"Он закатывает глаза: \"Сила, которую он украл у того самого существа, "
+"которое он порицает! Он что-то скрывает. Я не знаю, что именно, но если что-"
+"то случится... не говорите, что никто этого не предвидел! А до тех пор, "
+"полагаю, мне придется довериться вашей вере в него\". Вортигон снова "
+"начинает пристально смотреть на вас, а вы возвращаетесь к своему... занятию."
 
 #: src-en/data/events_special_socialize.xml.append:110
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_2\"]/text"
 msgstr ""
+"Сцена напряженная... Вы обнаруживаете, что Вортигон и Шрам сидят вместе в "
+"неловком молчании. В конце концов Шрам говорит: "
+"\"Ты... не доверяешь мне. Скажи мне, жрец... что ты знаешь о Ложном Боге?\" "
+"Вортигон от души смеется: \"Никогда не слышал о нем! Действительно ложный, "
+"но его сила кажется очень реальной... сила, которую ты используешь по своей "
+"воле, ради своей выгоды. Скажи мне, предатель... что ты знаешь о доверии? О "
+"вере или преданности?\" Лицо Шрама вспыхивает гневом... такого гнева вы в "
+"нем еще не видели."
 
 #: src-en/data/events_special_socialize.xml.append:112
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_2\"]/choice/text"
-msgstr ""
+msgstr "Прервать их."
 
 #: src-en/data/events_special_socialize.xml.append:114
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_VORTIGON_2\"]/choice/event/text"
 msgstr ""
+"Лицо Шрама становится спокойным, и он смотрит на вас: "
+"\"Сородич! Приятно... встретить тебя здесь. На... твоем корабле...\" "
+"Вортигон, молча, смотрит в зоркий глаз Шрама. Вы разрядили обстановку, но "
+"теперь стало очень неловко... Шрам кашляет: \"Я... наверное, мне пора. Мы "
+"можем... продолжить это в другой раз, Вортигон\". Они встают, и Вортигон "
+"отвечает: \"Да, думаю, мы можем. А пока...\" Вортигон закрывает глаза и "
+"складывает руки в молитве: \"...мне нужно помолиться богам\"."
 
 #: src-en/data/events_special_socialize.xml.append:119
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_SLOCKNOG_1\"]/text"
 msgstr ""
+"Слокног и Шрам, похоже, общаются за сигаретой каждый, курят вместе и говорят:"
+" \"Так приятно вссстретить другого изгнанника. А я-то думал, что я один "
+"такой, кого отвергли мои же сссородичи!\" Шрам слегка улыбается: \"Я... "
+"думаю, наши ситуации имеют много... различий, король, но... должен "
+"согласиться, это приятно. Немногие... так добры ко мне\". Они продолжают "
+"беседовать, и вы покидаете комнату с улыбкой на лице."
 
 #: src-en/data/events_special_socialize.xml.append:122
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_SCARRED_ALKALI_1\"]/text"
 msgstr ""
+"Вы обнаруживаете не Шрама, а Алькали, который подбегает к вам в расстроенных "
+"чувствах: \"Капитан... этот изверг, этот Шрам, он отказывается называть меня "
+"по имени! Настаивает на том, чштобы называть меня Научшная штучшка!\". Ты "
+"можешь в это поверить? Я знаю, чшто другие расы обычшно примитивны, но это "
+"уже слишком. И для меня, и для них...\" Он уходит, подавленный."
 
 #: src-en/data/events_special_socialize.xml.append:144
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_THE_HUNGER_NOTHING\"]/text"
 msgstr ""
+"Голод, похоже, вгрызается в пол в своей каюте... он обращается к вам: "
+"\"КАПИТАН. Сложжжжжжный с-с-с-случай: ГОЛОД. Решение? Решение? Решение! "
+"ТОРОПИТЬСЯ\". Похоже, он хочет, чтобы вы привели корабль в движение. Сейчас."
 
 #: src-en/data/events_special_socialize.xml.append:147
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_1\"]/text"
 msgstr ""
+"Найти его несложно... Следует просто идти по царапинам на полу и в конце "
+"концов вы обнаруживаете Голода посреди коридора, вращающегося на месте."
 
 #: src-en/data/events_special_socialize.xml.append:149
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Привлечь его внимание."
 
 #: src-en/data/events_special_socialize.xml.append:151
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_1\"]/choice[1]/event/text"
 msgstr ""
+"Лицо Голода поворачивается к вам, в то время как остальное его тело "
+"продолжает вращаться: \"ОШИБКА ПРОТОКОЛА: ПРОТОКОЛ \"ПРИВЕТСТВИЕ\" "
+"ПОВРЕЖДЕН. ПРИМЕНЯЕТСЯ РЕЗЕРВНЫЙ ПРОТОКОЛ: ПРОТОКОЛ \"ПРОЩАНИЕ\". П-п-п-п-"
+"прощайте, капитан? Капитан! Пока-ока, капитан!\" С этими словами вы "
+"наблюдаете за тем, как он удаляется, но его лицо все еще обращено к вашему, "
+"когда он заходит за угол."
 
 #: src-en/data/events_special_socialize.xml.append:155
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Оставить его в покое."
 
 #: src-en/data/events_special_socialize.xml.append:157
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_1\"]/choice[2]/event/text"
 msgstr ""
+"Если подумать, у вас нет настроения \"разговаривать\" с Голодом... Вы "
+"оставляете его наедине с его странными вращениями."
 
 #: src-en/data/events_special_socialize.xml.append:162
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_2\"]/text"
 msgstr ""
+"Вы обнаруживаете, что Голод в трюме разрывает запасы еды. Досадно, но лучше "
+"уж еда, чем вы... наверное, лучше оставить его наедине."
 
 #: src-en/data/events_special_socialize.xml.append:165
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_3\"]/text"
 msgstr ""
+"После недолгих поисков вы находите Голод, вырывающего кусок из стены. "
+"Похоже, это была лишняя часть - вы в этом уверены. Это, по-видимому, "
+"удовлетворяет его, и лицо Голода приближается к вашему: \"Субъект... "
+"субъект? Субъект!: ГОЛОД. Ссссостояние: УДОВЛЕТВОРЕН. Запрос: Запрос: Запрос:"
+" ГОВОРИТЕ, капитан! Капитан, г-г-говорите!\""
 
 #: src-en/data/events_special_socialize.xml.append:167
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_3\"]/choice/text"
-msgstr ""
+msgstr "Эм, привет. Как дела, Голод?"
 
 #: src-en/data/events_special_socialize.xml.append:169
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_GENERIC_3\"]/choice/event/text"
 msgstr ""
+"\"ПРИВЕТ СУБЪЕКТ: вам! И вам тоже, каааапитан! Капитан? Капитан. П-п-повтор "
+"состояния: ГОЛОД… голод? Голод! УДОВЛЕТВОРЕН\". Проходит несколько "
+"мгновений, и он слегка подрагивает: \"ОБНОВЛЕНИЕ состояния? Обновление: "
+"Голод не-не-не… удовлетворен? Неудовлетворен. РЕШЕНИЕ: пожирать! П-п-п-пока, "
+"капитан...? Пока\". Он скрываются в проделанной им дыре в стене, а вы "
+"остаетесь гадать, насколько этот корабль остается боеспособен…"
 
 #: src-en/data/events_special_socialize.xml.append:174
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_1\"]/text"
 msgstr ""
+"Вы застаете Турзила за осмотром Голода - он тычет в него и ощупывает. Вы уже "
+"собираетесь заговорить, как вдруг рука Турзила отрывается от плеча - Голод "
+"мгновенно поглощает ее в ответ на раздражитель. Тем не менее, Турзил "
+"остается невозмутим."
 
 #: src-en/data/events_special_socialize.xml.append:176
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_1\"]/choice/text"
-msgstr ""
+msgstr "У вас все э-э... в порядке?"
 
 #: src-en/data/events_special_socialize.xml.append:178
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_1\"]/choice/event/text"
 msgstr ""
+"Турзил поворачивается к вам: "
+"\"Зрение вас -подводит-, капитан? Потому что я не вижу здесь ничего \"в "
+"порядке\". Он снова обращает взгляд на Голод: \"Это не [просто] случай "
+"разрушения связи с Гармонией, и это не [просто] энжи. Это -многие- энжи, "
+"страдающие. Удерживаемые вместе [темными] силами. Силами, которые я не в "
+"состоянии постичь\". Голод извивается несколько секунд, прежде чем "
+"заговорить: \"ГОЛОД: Тьма! Тьма, т-т-тьмааа... ГАРМОНИЯ: под контролем? Под "
+"контролем! ЭРОЗИЯ: Исчезла? Исчезла! ЦЕНА: Принята. Принята, принята, "
+"принята! ДОСТАТОЧНО\". Турзил резко отвечает: \"Ты просто сменил одного "
+"жестокого хозяина на другого. Ты все так же в ловушке, как и я, как и любой "
+"другой энжи\". Он издает механический вздох и поворачивается, чтобы уйти: "
+"\"Остается лишь -надеяться-, что у него все еще есть шанс. [Удачи] вам в "
+"поисках, капитан\". Вы остаетесь наедине с Голодом, который, похоже, вновь "
+"принялся грызть руку Турзила."
 
 #: src-en/data/events_special_socialize.xml.append:183
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_2\"]/text"
 msgstr ""
+"Вы входите в каюту Голода, но с удивлением обнаруживаете, что там стоит "
+"Турзил. Похоже, он осматривает каюту и повреждения, которые она получила с "
+"тех пор, как в ней поселился Голод... а их немало."
 
 #: src-en/data/events_special_socialize.xml.append:185
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_2\"]/choice[1]/text"
-msgstr ""
+msgstr "Кашлянуть."
 
 #: src-en/data/events_special_socialize.xml.append:187
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_2\"]/choice[1]/event/text"
 msgstr ""
+"Турзил кажется испуганным, но лишь на мгновение: "
+"\"Капитан. Что вы -думаете- о Диссонансе?\""
 
 #: src-en/data/events_special_socialize.xml.append:189
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_THE_HUNGER_TURZIL_2\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"То, что они делают, неправильно. Энджи из Гармонии не заслуживают того, "
+"чтобы страдать из-за их действий."
 
 #: src-en/data/events_special_socialize.xml.append:191
 msgid ""
