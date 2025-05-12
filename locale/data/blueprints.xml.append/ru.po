@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-26 15:02+0000\n"
+"PO-Revision-Date: 2025-05-13 14:34+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -66,6 +66,8 @@ msgstr "Медуза"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DEEPONE_JELLYFISH\"]/desc"
 msgstr ""
+"Оружие, созданное глубоководными, стреляет лучом, наносящим ионный урон и "
+"способным оглушать."
 
 #: src-en/data/blueprints.xml.append:168
 msgid ""
@@ -81,6 +83,8 @@ msgstr "€ Медуза"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DEEPONE_JELLYFISH_ELITE\"]/desc"
 msgstr ""
+"Оружие глубоководных, модифицированное Просветленными. Увеличенная длина "
+"луча и уменьшена скорость (действует дольше), оглушение длится чуть дольше."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -96,26 +100,32 @@ msgstr "Н. сумерки"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE\"]/desc"
 msgstr ""
+"Оружие массового поражения, которое, кажется, использует силу самого Темного "
+"Бога."
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE\"]/spawnCrew/name"
-msgstr ""
+msgstr "Космическая слеза"
 
 #: src-en/data/blueprints.xml.append:267
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDIVINE_DUALITY\"]/title"
-msgstr ""
+msgstr "Божественная дуальность"
 
 #: src-en/data/blueprints.xml.append:268
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDIVINE_DUALITY\"]/short"
-msgstr ""
+msgstr "Б. дуальн."
 
 #: src-en/data/blueprints.xml.append:270
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDIVINE_DUALITY\"]/desc"
 msgstr ""
+"Истинное со-бытие того, что существует и не существует. Выпускает шквал "
+"лазеров, пропитанных божественной энергией, каждый снаряд сжигает врагов/"
+"благословляет союзников и имеет шанс вызвать возгорание/породить Голодную "
+"тень."
 
 #: src-en/data/blueprints.xml.append:330
 msgid ""
@@ -125,17 +135,19 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:389
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_DARKGOD\"]/title"
-msgstr ""
+msgstr "Пелена"
 
 #: src-en/data/blueprints.xml.append:390
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_DARKGOD\"]/short"
-msgstr ""
+msgstr "Пелена"
 
 #: src-en/data/blueprints.xml.append:392
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"SHOTGUN_DARKGOD\"]/desc"
 msgstr ""
+"Выпускает облако теней по очень большой площади, что делает его очень "
+"неточным."
 
 #: src-en/data/blueprints.xml.append:403
 msgid ""
@@ -145,16 +157,17 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:464
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_DARKGOD\"]/title"
-msgstr ""
+msgstr "Погибель света"
 
 #: src-en/data/blueprints.xml.append:465
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_DARKGOD\"]/short"
-msgstr ""
+msgstr "П. света"
 
 #: src-en/data/blueprints.xml.append:467
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_DARKGOD\"]/desc"
 msgstr ""
+"Быстродействующий лазер, снаряды которого, кажется, воплощают саму тьму."
 
 #: src-en/data/blueprints.xml.append:478
 msgid ""
@@ -164,12 +177,12 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:536
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_DISPARITY_LOOT\"]/title"
-msgstr ""
+msgstr "Погибель света"
 
 #: src-en/data/blueprints.xml.append:537
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"LASER_DISPARITY_LOOT\"]/short"
-msgstr ""
+msgstr "П. света"
 
 #: src-en/data/blueprints.xml.append:539
 msgid ""
@@ -185,15 +198,16 @@ msgstr "Голодная тень"
 
 #: src-en/data/blueprints.xml.append:610
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DARKGOD\"]/title"
-msgstr ""
+msgstr "Неизбежные муки"
 
 #: src-en/data/blueprints.xml.append:611
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DARKGOD\"]/short"
-msgstr ""
+msgstr "Н. муки"
 
 #: src-en/data/blueprints.xml.append:613
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DARKGOD\"]/desc"
 msgstr ""
+"Бомбовое оружие, внутри которого находится неописуемая, всепожирающая тьма."
 
 #: src-en/data/blueprints.xml.append:622
 msgid ""
@@ -203,17 +217,19 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:674
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DD_BEAM_INSTANT_DARKGOD\"]/title"
-msgstr ""
+msgstr "Надвигающаяся тишина"
 
 #: src-en/data/blueprints.xml.append:675
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DD_BEAM_INSTANT_DARKGOD\"]/short"
-msgstr ""
+msgstr "Н. тишина"
 
 #: src-en/data/blueprints.xml.append:676
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DD_BEAM_INSTANT_DARKGOD\"]/desc"
 msgstr ""
+"Упреждающее оружие, луч которого искривляет пространство вокруг себя, "
+"втягивая свет и оставляя лишь тьму."
 
 #: src-en/data/blueprints.xml.append:682
 msgid ""
@@ -223,17 +239,19 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:741
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_CHARGE_DARKGOD\"]/title"
-msgstr ""
+msgstr "Нисхождение сумерек"
 
 #: src-en/data/blueprints.xml.append:742
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_CHARGE_DARKGOD\"]/short"
-msgstr ""
+msgstr "Н. сумерек"
 
 #: src-en/data/blueprints.xml.append:744
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_CHARGE_DARKGOD\"]/desc"
 msgstr ""
+"Способное заряжать несколько снарядов, это оружие вызывает у вас "
+"непреодолимое чувство тревоги."
 
 #: src-en/data/blueprints.xml.append:755
 msgid ""
@@ -243,22 +261,24 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:815
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/title"
-msgstr ""
+msgstr "Руническое безумие"
 
 #: src-en/data/blueprints.xml.append:816
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/short"
-msgstr ""
+msgstr "Р. безумие"
 
 #: src-en/data/blueprints.xml.append:818
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/desc"
 msgstr ""
+"Особое бомбовое оружие упреждающего действия, способное использовать силу "
+"Темного Бога."
 
 #: src-en/data/blueprints.xml.append:826
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/spawnCrew/name"
-msgstr ""
+msgstr "Темный обелиск"
 
 #: src-en/data/blueprints.xml.append:884
 msgid ""
@@ -272,162 +292,192 @@ msgstr "Конец надежды"
 
 #: src-en/data/blueprints.xml.append:886
 msgid "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDEND_OF_HOPE\"]/desc"
-msgstr ""
+msgstr "Наблюдайте, как надежда и жизнь угасают одним махом."
 
 #: src-en/data/blueprints.xml.append:895
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDEND_OF_HOPE\"]/spawnCrew/name"
-msgstr ""
+msgstr "Космическая слеза"
 
 #: src-en/data/blueprints.xml.append:947
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Чумное осколочное орудие"
 
 #: src-en/data/blueprints.xml.append:948
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. Оск."
 
 #: src-en/data/blueprints.xml.append:950
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает Осколочное орудие мод. I, но оно "
+"основательно осквернено материя-вирусом чумы души. При попадании в отсек оно "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:1297
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Чумной точечный луч"
 
 #: src-en/data/blueprints.xml.append:1298
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. точ."
 
 #: src-en/data/blueprints.xml.append:1299
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает точечный рад-луч \"Анелас\", но оно "
+"основательно осквернено материя-вирусом чумы души. Попадая в отсек, он "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:1632
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Чумной фазер"
 
 #: src-en/data/blueprints.xml.append:1633
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. Фазер"
 
 #: src-en/data/blueprints.xml.append:1636
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает Фазер мод. II, но оно основательно "
+"осквернено материя-вирусом чумы души. Попадая в отсек, он поражает врагов "
+"чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:1933
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Чумная ракетница"
 
 #: src-en/data/blueprints.xml.append:1934
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. Ракетница"
 
 #: src-en/data/blueprints.xml.append:1935
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает тяжелую ракетную установку \"Гермес\", "
+"но оно основательно осквернено материя-вирусом чумы души. Попадая в отсек, "
+"он поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:2277
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Чумной тяжелый лазер"
 
 #: src-en/data/blueprints.xml.append:2278
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Ч. тяж. лаз."
 
 #: src-en/data/blueprints.xml.append:2280
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает тяжелый лазер мод. III, но оно "
+"основательно осквернено материя-вирусом чумы души. Попадая в отсек, он "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:2622
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Чумное осколочное орудие"
 
 #: src-en/data/blueprints.xml.append:2623
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Ч. Оск."
 
 #: src-en/data/blueprints.xml.append:2625
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSHOTGUN_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает Осколочное орудие мод. I, но оно "
+"основательно осквернено материя-вирусом чумы души. При попадании в отсек оно "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:2972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Чумной точечный луч"
 
 #: src-en/data/blueprints.xml.append:2973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Ч. точ."
 
 #: src-en/data/blueprints.xml.append:2974
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFOCUS_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает точечный рад-луч \"Анелас\", но оно "
+"основательно осквернено материя-вирусом чумы души. Попадая в отсек, он "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:3306
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Чумной фазер"
 
 #: src-en/data/blueprints.xml.append:3307
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Ч. Фазер"
 
 #: src-en/data/blueprints.xml.append:3310
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает Фазер мод. II, но оно основательно "
+"осквернено материя-вирусом чумы души. Попадая в отсек, он поражает врагов "
+"чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:3607
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Чумная ракетница"
 
 #: src-en/data/blueprints.xml.append:3608
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Ч. Ракетница"
 
 #: src-en/data/blueprints.xml.append:3609
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDMISSILES_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает тяжелую ракетную установку \"Гермес\", "
+"но оно основательно осквернено материя-вирусом чумы души. Попадая в отсек, "
+"он поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:3951
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Чумной тяжелый лазер"
 
 #: src-en/data/blueprints.xml.append:3952
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Ч. тяж. лаз."
 
 #: src-en/data/blueprints.xml.append:3954
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDLASER_HEAVY_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"Внешне это оружие смутно напоминает тяжелый лазер мод. III, но оно "
+"основательно осквернено материя-вирусом чумы души. Попадая в отсек, он "
+"поражает врагов чумой, заражая и мешая им."
 
 #: src-en/data/blueprints.xml.append:4296
 msgid ""
@@ -443,6 +493,8 @@ msgstr "Харибда"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDEEP_ONE_SHOTGUN\"]/desc"
 msgstr ""
+"Это оружие, подвергшееся многочисленным модификациям глубоководных, стреляет "
+"облаком ионных теней, способных разрушать щиты и порождать Голодные тени."
 
 #: src-en/data/blueprints.xml.append:4311
 msgid ""
@@ -463,6 +515,10 @@ msgstr "Харибда™"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDEEP_ONE_SHOTGUN_CHAOS\"]/desc"
 msgstr ""
+"Это оружие, подвергшееся многочисленным модификациям глубоководных, стреляет "
+"облаком ионных теней, способных разрушать щиты и порождать Голодные тени.\n"
+"\tХаотическая версия выпускает в два раза больше снарядов, но имеет огромный "
+"радиус поражения."
 
 #: src-en/data/blueprints.xml.append:4390
 msgid ""
@@ -472,77 +528,94 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:4452
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM\"]/title"
-msgstr ""
+msgstr "Ад, посланный небесами"
 
 #: src-en/data/blueprints.xml.append:4453
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM\"]/short"
-msgstr ""
+msgstr "Ад небес"
 
 #: src-en/data/blueprints.xml.append:4456
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM\"]/desc"
 msgstr ""
+"Пылая потусторонней энергией, это оружие использует фазовую технологию, "
+"чтобы пробивать щиты, вызывать возгорания и накладывать на пораженные отсеки "
+"эффект Божественного гнева\"."
 
 #: src-en/data/blueprints.xml.append:4547
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотичный ад, посланный небесами"
 
 #: src-en/data/blueprints.xml.append:4548
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM_CHAOS\"]/short"
-msgstr ""
+msgstr "Ад небес™"
 
 #: src-en/data/blueprints.xml.append:4551
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDPHASE_SERAPHIM_CHAOS\"]/desc"
 msgstr ""
+"Пылая потусторонней энергией, это оружие использует фазовую технологию, "
+"чтобы пробивать щиты, вызывать возгорания и накладывать на пораженные отсеки "
+"эффект Божественного гнева\".\n"
+"\tХаотическая версия стреляет гораздо быстрее, но не наносит ионного урона."
 
 #: src-en/data/blueprints.xml.append:4642
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE\"]/title"
-msgstr ""
+msgstr "Морс"
 
 #: src-en/data/blueprints.xml.append:4643
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE\"]/short"
-msgstr ""
+msgstr "Морс"
 
 #: src-en/data/blueprints.xml.append:4645
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE\"]/desc"
 msgstr ""
+"То, что когда-то было Цепным вулканом, похоже, было полностью поглощено "
+"материя-вирусом чумы души, усилив хаос, который он может вызвать, и позволив "
+"ему заражать отсеки чумой."
 
 #: src-en/data/blueprints.xml.append:4994
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_CHAOS\"]/title"
-msgstr ""
+msgstr "Хаотичный Морс"
 
 #: src-en/data/blueprints.xml.append:4995
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_CHAOS\"]/short"
-msgstr ""
+msgstr "Морс™"
 
 #: src-en/data/blueprints.xml.append:4997
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_CHAOS\"]/desc"
 msgstr ""
+"То, что когда-то было Цепным вулканом, похоже, было полностью поглощено "
+"материя-вирусом чумы души, усилив хаос, который он может вызвать, и позволив "
+"ему заражать отсеки чумой.\n"
+"\tХаотическая версия пробивает все щиты, но не наносит урона корпусу."
 
 #: src-en/data/blueprints.xml.append:5347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_ENEMY\"]/title"
-msgstr ""
+msgstr "Морс"
 
 #: src-en/data/blueprints.xml.append:5348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_ENEMY\"]/short"
-msgstr ""
+msgstr "Морс"
 
 #: src-en/data/blueprints.xml.append:5350
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDCHAINLASER_SOULPLAGUE_ENEMY\"]/desc"
 msgstr ""
+"То, что когда-то было Цепным вулканом, похоже, было полностью поглощено "
+"материя-вирусом чумы души, усилив хаос, который он может вызвать, и позволив "
+"ему заражать отсеки чумой."
 
 #: src-en/data/blueprints.xml.append:5699
 msgid ""
@@ -2597,7 +2670,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:14662
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_ECLIPTIC_EXTINCTION\"]/spawnCrew/name"
-msgstr ""
+msgstr "Космическая слеза"
 
 #: src-en/data/blueprints.xml.append:14718
 msgid ""
@@ -3414,7 +3487,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:16331
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"spacetear\"]/title"
-msgstr ""
+msgstr "Космическая слеза"
 
 #: src-en/data/blueprints.xml.append:16332
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"spacetear\"]/short"
@@ -7487,7 +7560,7 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:18369
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"dddark_obelisk\"]/title"
-msgstr ""
+msgstr "Темный обелиск"
 
 #: src-en/data/blueprints.xml.append:18370
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"dddark_obelisk\"]/short"
@@ -7511,7 +7584,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:18381
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddark_obelisk_enemy\"]/title"
-msgstr ""
+msgstr "Темный обелиск"
 
 #: src-en/data/blueprints.xml.append:18382
 msgid ""
