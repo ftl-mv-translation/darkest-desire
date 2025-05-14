@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-13 14:34+0000\n"
+"PO-Revision-Date: 2025-05-15 12:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
@@ -18,54 +18,113 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[1]/tooltip"
 msgstr ""
+"ФОНАРИ ГЛУБОКОВОДНЫХ:\n"
+"У этого врага установлены Фонари глубоководных. В равной степени устойчивые "
+"и ослепляющие, они с вероятностью 50% сводят на нет ионный урон, а скорость "
+"передвижения и скорость саботажа абордажников снижаются на 15%."
 
 #: src-en/data/hyperspace.xml.append:10
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
+"СТРАШНЫЕ ФОНАРИ:\n"
+"У этого врага установлены Страшные фонари. Они менее устойчивы, чем другие, "
+"имеют 20% шанс свести на нет ионный урон, но источают зловещую энергию, "
+"которая снижает скорость передвижения абордажников на 50% и скорость их "
+"саботажа на 15%, а также увеличивает скорость передвижения союзников (на "
+"этом корабле) на 15%."
 
 #: src-en/data/hyperspace.xml.append:15
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
+"КРИСТАЛЛИЧЕСКАЯ БРОНЯ ДИССОНАНСА:\n"
+"У этого врага есть Кристаллическая броня Диссонанса. Неистовая комбинация "
+"тьмы и кристаллических технологий, она каким-то образом попала в руки "
+"Диссонанса. Получив урон по корпусу, они с вероятностью 50% не откалывают "
+"осколки, а выпускают взрыв тьмы, который отражается на вашем корабле в виде "
+"голодной тени."
 
 #: src-en/data/hyperspace.xml.append:20
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
+"ЛУЧЕЗАРНОЕ ПЛАМЯ:\n"
+"Этот враг находится под защитой Лучезарного пламени. Это не просто огонь, "
+"это пламя с вероятностью 70% отвечает шквалом огненных шаров, когда вы "
+"наносите урон корпусу. Пробивая щиты, эти огненные шары не только вызывают "
+"пожары и наносят системный урон, но и накладывают на пораженные отсеки "
+"эффекты Божественного гнева. Этот эффект снимает сопротивление к огню и "
+"усиливает как урон от огня, получаемый вашим экипажем, так и исцеление, "
+"получаемое врагами от огня."
 
 #: src-en/data/hyperspace.xml.append:25
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"РАЗЛОМ КОШМАРОВ:\n"
+"Этот враг способен открыть разлом во владения Темного Бога. Разлом "
+"периодически выпускает хаотические болты энергии, которые проявляются в виде "
+"кошмарных теней, но если разлом разрушится, тени быстро исчезнут вместе с "
+"ним."
 
 #: src-en/data/hyperspace.xml.append:30
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"БЛАГОСЛОВЕНИЕ БУРИ:\n"
+"Этот враг благословлен Бурей. Он находятся под защитой потусторонней и "
+"электрической силы, обеспечивая прочный Суперщит и баффы для своих дронов и "
+"экипажа, подчиненных Буре. Такие дроны и экипаж дают 1 энергию системам "
+"своего корабля и отнимают 1 энергию у систем вашего, а также получают "
+"следующие прибавки к характеристикам: 1.6x скорость передвижения/ремонта и "
+"1.3x боевой/урон при саботаже. Кроме того, некоторые члены экипажа могут "
+"периодически вызывать молнии, которые ионизируют системы и порождают "
+"монстров."
 
 #: src-en/data/hyperspace.xml.append:35
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"ВСЕПОГЛОЩАЮЩАЯ ТЬМА:\n"
+"Этот враг находится под защитой Всепоглощающей тьмы. Эта гнетущая и "
+"эльдрическая сила снижает скорость передвижения абордажников на 50%, "
+"скорость саботажа - на 30%, а также накладывает на них дебафф Утонуть в "
+"глубине, еще больше замедляющий скорость передвижения, не дающий "
+"воспользоваться и восстанавливать способности. Кроме того, их экипаж находит "
+"эту тьму теплой и успокаивающей, обеспечивая исцеление со скоростью 1.8 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
+"ГАЗ ЧУМЫ ДУШИ:\n"
+"Этот вражеский корабль наполнен смертоносным, потусторонним газом, который "
+"со временем наносит пассивный урон вашему экипажу в размере 3.7 ОЗ/с и "
+"заражает их чумой души. При гибели любой союзник, зараженный чумой, "
+"воскресает на вашем корабле в виде вражеской чумной оболочки, независимо от "
+"того, где он погиб.\n"
+"Дроны и члены экипажа, связанные с чумой души, имеют иммунитет."
 
 #: src-en/data/hyperspace.xml.append:46
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
+"ГАЗ СЕРАФИМОВ:\n"
+"Этот вражеский корабль наполнен смертоносным небесным газом, который со "
+"временем наносит вашему экипажу пассивный урон со скоростью 2.3 ОЗ/с и "
+"накладывает на них эффекты Божественного гнева. Кроме того, пожары на их "
+"корабле будут автоматически потушены, а их экипаж получит положительный "
+"эффект от Божественного гнева, пока они находится на своем корабле.\n"
+"Ничто не имеет иммунитета."
 
 #: src-en/data/hyperspace.xml.append:812
 msgid ""
@@ -90,7 +149,7 @@ msgstr "Голод"
 
 #: src-en/data/hyperspace.xml.append:981
 msgid "data/hyperspace.xml.append$//human[@name=\"Kyr\"]/@name"
-msgstr ""
+msgstr "Кир"
 
 #: src-en/data/hyperspace.xml.append:982
 msgid "data/hyperspace.xml.append$//deeponecultist[@name=\"Lilith\"]/@name"
@@ -104,7 +163,7 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//ddultimaarmor_enemy[@name=\"Ultima "
 "Armor\"]/@name"
-msgstr ""
+msgstr "Ультима броня"
 
 #: src-en/data/hyperspace.xml.append:1003
 msgid ""
@@ -128,13 +187,13 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_ULTIMA_MANIFESTATION_SHIP\"]/crew/ddtempest_spawn_warden[1]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1007
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_ULTIMA_MANIFESTATION_SHIP\"]/crew/ddtempest_spawn_warden[2]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1016
 msgid ""
@@ -146,7 +205,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_ROCK_ENFORCER\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1026
 msgid ""
@@ -158,7 +217,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_SLUG_INTERCEPTOR\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1036
 msgid ""
@@ -170,7 +229,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_CRYSTAL_TRANSPORT\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1046
 msgid ""
@@ -182,7 +241,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_UNION_OUTRIDER\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1056
 msgid ""
@@ -194,7 +253,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_ENGI_PROTECTOR\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1066
 msgid ""
@@ -206,7 +265,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_MANTIS_MARAUDER\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1076
 msgid ""
@@ -218,7 +277,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_VAMPWEED_TRAPPER\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:1087
 msgid ""
@@ -230,7 +289,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DDTEMPEST_DEEP_ONE_CARRIER\"]/crew/ddtempest_spawn_warden[@name=\"Warden\"]/@name"
-msgstr ""
+msgstr "Надзиратель"
 
 #: src-en/data/hyperspace.xml.append:3165
 msgid ""
@@ -267,19 +326,25 @@ msgstr "Лилит"
 
 #: src-en/data/hyperspace.xml.append:3658
 msgid "data/hyperspace.xml.append$//ddultimaarmor[@name=\"Ultima Armor\"]/@name"
-msgstr ""
+msgstr "Ультима броня"
 
 #: src-en/data/hyperspace.xml.append:4509
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml.append:4510
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deepone\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 30с ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 95 ОЗ]\n"
+"\t\t\t\tВпадает в безумие, замедляясь и теряя способность к управлению и "
+"ремонту, но получая следующие преимущества:\n"
+"\t\t\t\t-1.8x урон в бою\n"
+"\t\t\t\t-0.5x сопротивление урону\n"
+"\t\t\t\t-2 ОЗ/с лечения"
 
 #: src-en/data/hyperspace.xml.append:4598
 msgid ""
@@ -291,13 +356,18 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deeponecultist\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БЛАГОСЛОВЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:4618
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deeponecultist\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:25с  ДЛИТЕЛЬНОСТЬ:15с]\n"
+"\t\t\t\tПродлевает действие пассивных эффектов союзников Просветленных "
+"культистов на оба корабля.\n"
+"\t\t\t\tПросветленный культист не может обслуживать или ремонтировать "
+"корабль и замедляется, пока действует его благословение."
 
 #: src-en/data/hyperspace.xml.append:4741
 msgid ""
@@ -309,115 +379,143 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"spacetear\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СЛЕЗА"
 
 #: src-en/data/hyperspace.xml.append:4790
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"spacetear\"]/powerEffect/tooltip"
 msgstr ""
+"Наносит 1 урон корпусу/системе, 15 урона экипажу и накладывает 2-секундное "
+"оглушение с вероятностью 40% вызвать возгорание."
 
 #: src-en/data/hyperspace.xml.append:4893
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ВОЗНЕСЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:4894
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:120с ДЛИТЕЛЬНОСТЬ:21с]\n"
+"\t\t\tОбманом заставляет Темного Бога разорвать его душу, заставляя ее "
+"бушевать в виде разрыва пространства-времени, с повреждениями корпуса/"
+"системы, ионным уроном, оглушением, пробоинами, дебаффами по всему кораблю и "
+"взрывом при смерти.\n"
+"\t\t\tВо время буйства его физическая форма неподвижна и беззащитна.\n"
+"\t\t\tДеформация пространства-времени запрещает телепортацию до окончания "
+"разрыва."
 
 #: src-en/data/hyperspace.xml.append:4902
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Несломленный"
 
 #: src-en/data/hyperspace.xml.append:4986
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarredascended\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПОКАЯНИЕ"
 
 #: src-en/data/hyperspace.xml.append:4987
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarredascended\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "П-О-К-А-Я-Н-И-Е"
 
 #: src-en/data/hyperspace.xml.append:5024
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"blobdeepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЯРОСТЬ"
 
 #: src-en/data/hyperspace.xml.append:5025
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"blobdeepone\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 30с ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 70 ОЗ]\n"
+"\t\t\t\tВпадает в безумие, замедляясь и теряя способность к управлению и "
+"ремонту, но получая следующие преимущества:\n"
+"\t\t\t\t-1.8x урон в бою\n"
+"\t\t\t\t-0.5x сопротивление урону\n"
+"\t\t\t\t-2 ОЗ/с лечения"
 
 #: src-en/data/hyperspace.xml.append:5078
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПЕРЕХОД"
 
 #: src-en/data/hyperspace.xml.append:5079
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:3с]\n"
+"\t\t\t\tС ПРАЗДНИКОМ!\n"
+"\t\t\t\t(переключение на лечение)\n"
+"\t\t\t\tПосмотрите на эту команду... у нас все получится!"
 
 #: src-en/data/hyperspace.xml.append:5106
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays_healing\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПЕРЕХОД"
 
 #: src-en/data/hyperspace.xml.append:5107
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays_healing\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:3с]\n"
+"\t\t\t\tС ПРАЗДНИКОМ!\n"
+"\t\t\t\t(переключение на скорость)\n"
+"\t\t\t\tПосмотрите на эту команду... у нас все получится!"
 
 #: src-en/data/hyperspace.xml.append:5141
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_liberator\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОСВОБОЖДЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5142
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_liberator\"]/powerEffect/tooltip"
 msgstr ""
+"Свобода, хотя и труднодостижима, но все же доступна. Ухватитесь за нее и не "
+"отпускайте."
 
 #: src-en/data/hyperspace.xml.append:5184
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_arbiter\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "КАТАРСИС"
 
 #: src-en/data/hyperspace.xml.append:5185
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_arbiter\"]/powerEffect/tooltip"
 msgstr ""
+"Они грешат, и поэтому горят. Восславь их раскаяние, ибо даже бездушные молят "
+"о пощаде."
 
 #: src-en/data/hyperspace.xml.append:5266
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_broodmother\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ИНКУБАЦИЯ"
 
 #: src-en/data/hyperspace.xml.append:5267
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_broodmother\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Авто: Порождает голодную тень."
 
 #: src-en/data/hyperspace.xml.append:5273
 msgid ""
@@ -429,31 +527,39 @@ msgstr "Голодная тень"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5309
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ   СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, добавляющий 50% (от стандартной) скорости исцеления всем союзным "
+"энджи на любом корабле. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:5317
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Стандартный маяк"
 
 #: src-en/data/hyperspace.xml.append:5424
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5425
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, добавляющую 50% (от стандартной) скорости передвижения всем "
+"союзным энджи на любом корабле. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:5433
 msgid ""
@@ -465,7 +571,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5542
 msgid ""
@@ -483,7 +589,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5679
 msgid ""
@@ -501,7 +607,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:5818
 msgid ""
@@ -2301,7 +2407,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_spawn_warden\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "МОЛИТВА"
 
 #: src-en/data/hyperspace.xml.append:36296
 msgid ""
@@ -2806,7 +2912,7 @@ msgstr "ДОПОЛНИТЕЛЬНЫЕ СИСТЕМЫ"
 #: src-en/data/hyperspace.xml.append:39080
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39081
 msgid ""
@@ -2821,7 +2927,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39123
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39124
 msgid ""
@@ -2836,7 +2942,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39167
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39168
 msgid ""
@@ -2851,7 +2957,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39210
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39211
 msgid ""
@@ -2866,7 +2972,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39253
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39254
 msgid ""
@@ -2881,7 +2987,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39904
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39905
 msgid ""
@@ -2896,7 +3002,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39947
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39948
 msgid ""
@@ -2911,7 +3017,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:39991
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:39992
 msgid ""
@@ -2926,7 +3032,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:40034
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:40035
 msgid ""
@@ -2941,7 +3047,7 @@ msgstr ""
 #: src-en/data/hyperspace.xml.append:40077
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/buttonText"
-msgstr ""
+msgstr "УСКОРЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:40078
 msgid ""
