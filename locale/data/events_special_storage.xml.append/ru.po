@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-14 14:50+0000\n"
+"PO-Revision-Date: 2025-05-15 12:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -256,7 +256,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:155
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike[3]/mod:findLike/mod-"
 "append:choice/text"
@@ -6652,9 +6651,9 @@ msgstr ""
 "\t[Глубоководные исцеляются со скоростью 1 ОЗ/с в любое время и получают +20 "
 "макс. ОЗ]\n"
 "\t\n"
-"[Предупреждение: После ее добавления вы больше не сможете применять основные "
-"модификации к экипажу расы глубоководных. Вы также не сможете деактивировать "
-"эту модификацию]"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы глубоководных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:4214
 msgid ""
@@ -6680,6 +6679,12 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_RAGE\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию: Безрассудная ярость.\n"
+"\t[Глубоководные восстанавливают свои способности в 3 раза быстрее]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы глубоководных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:4245
 msgid ""
@@ -6705,6 +6710,13 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_DEEPBREATH\"]/text"
 msgstr ""
+"Вы хотите добавить модификацию: Глубокое дыхание.\n"
+"\t[Глубоководным больше не нужен кислород, и они получают 1.2х скорость "
+"саботажа]\n"
+"\t\n"
+"\t[Предупреждение: После ее добавления вы больше не сможете применять "
+"основные модификации к экипажу расы глубоководных. Вы также не сможете "
+"деактивировать эту модификацию]"
 
 #: src-en/data/events_special_storage.xml.append:4275
 msgid ""
