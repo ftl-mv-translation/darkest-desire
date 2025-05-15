@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 13:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -3409,18 +3409,16 @@ msgid ""
 msgstr "Корруптор 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2338
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr "Корруптор 3 уровня [Цена: 80~, 4{]"
+msgstr "Корруптор 3 уровня [Цена: 70~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2342
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr "Корруптор 4 уровня [Цена: 110~, 6{, 3}]"
+msgstr "Корруптор 4 уровня [Цена: 100~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2346
 msgid ""
@@ -3571,11 +3569,10 @@ msgstr ""
 "\t[Эффекты: 16с заражения, 5с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2475
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Установить улучшение. [Цена: 80~, 4{]"
+msgstr "Установить улучшение. [Цена: 70~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2477
 msgid ""
@@ -3608,11 +3605,10 @@ msgstr ""
 "\t[Эффекты: 17с заражения, 4с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2503
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Установить улучшение. [Цена: 110~, 6{, 3}]"
+msgstr "Установить улучшение. [Цена: 100~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2505
 msgid ""
