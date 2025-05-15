@@ -75,8 +75,9 @@ msgstr "€ Jellyfish"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DEEPONE_JELLYFISH_ELITE\"]/desc"
 msgstr ""
-"A Deep One weapon modified by the Enlightened. Longer beam length and slower"
-" speed (lasts longer), stuns last slightly longer."
+"A Deep One weapon modified by the Enlightened. Longer beam length, slower "
+"speed (lasts longer) and slightly longer stun duration than the non-elite "
+"version, but also costs slightly more power."
 
 #: src-en/data/blueprints.xml.append:204
 msgid ""
@@ -2538,7 +2539,7 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/desc"
 msgstr ""
-"[Base cooldown: 50] Powers a sinister, piercing beam that causes breaches, "
+"[Base cooldown: 45] Powers a sinister, piercing beam that causes breaches, "
 "spawns Hungering Shadows, and completely obliterates any entity it hits."
 
 #: src-en/data/blueprints.xml.append:14311
@@ -2567,7 +2568,7 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/desc"
 msgstr ""
-"[Base cooldown: 50] Powers a sinister, piercing beam that causes breaches, "
+"[Base cooldown: 45] Powers a sinister, piercing beam that causes breaches, "
 "spawns Hungering Shadows, and completely obliterates any entity it hits."
 
 #: src-en/data/blueprints.xml.append:14374
@@ -2595,7 +2596,8 @@ msgstr "Artillery"
 #: src-en/data/blueprints.xml.append:14437
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/desc"
-msgstr "[Base cooldown: 18] Fires a burst of 3 flak-like shadow projectiles."
+msgstr ""
+"[Base cooldown: 12.5] Fires a burst of 3 flak-like shadow projectiles."
 
 #: src-en/data/blueprints.xml.append:14438
 msgid ""
@@ -2624,7 +2626,7 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/desc"
 msgstr ""
-"[Base cooldown: 15] Fires a piercing beam that summons a Hungering Shadow "
+"[Base cooldown: 14] Fires a piercing beam that summons a Hungering Shadow "
 "and creates a temporary shroud of darkness in the room hit."
 
 #: src-en/data/blueprints.xml.append:14512
@@ -2667,7 +2669,7 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_ECLIPTIC_EXTINCTION\"]/desc"
 msgstr ""
-"[Base cooldown: 75] Releases a mass of unimaginable power, which will "
+"[Base cooldown: 70] Releases a mass of unimaginable power, which will "
 "devastate the enemy ship if not outright obliterate it."
 
 #: src-en/data/blueprints.xml.append:14650
@@ -7733,7 +7735,7 @@ msgid ""
 msgstr ""
 "Enemies in the same room are infected with Soulplague, and it inflicts a "
 "room with Plagueridden upon death. Ability temporarily heals all Soulplague-"
-"aligned allies on the same ship over time."
+"aligned allies in the same room over time."
 
 #: src-en/data/blueprints.xml.append:17814
 msgid ""
@@ -7766,7 +7768,7 @@ msgid ""
 msgstr ""
 "Enemies in the same room are infected with Soulplague, and it inflicts a "
 "room with Plagueridden upon death. Ability temporarily heals all Soulplague-"
-"aligned allies on the same ship over time."
+"aligned allies in the same room over time."
 
 #: src-en/data/blueprints.xml.append:17826
 msgid ""
@@ -8252,9 +8254,8 @@ msgstr "Tide"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_corruptor_tide\"]/powerList/power[1]"
 msgstr ""
-"Max HP reduced to 25, crew/door damage and sabotage speed increased to 1.3x,"
-" 0.7x movement speed. Immune to suffocation and mind control, but weak to "
-"fire."
+"Max HP reduced to 25 and movement speed reduced to 0.7x. Immune to "
+"suffocation and mind control, but 2x weak to fire."
 
 #: src-en/data/blueprints.xml.append:18010
 msgid ""
@@ -8286,9 +8287,8 @@ msgstr "Tide"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_corruptor_tide_enemy\"]/powerList/power[1]"
 msgstr ""
-"Max HP reduced to 25, crew/door damage and sabotage speed increased to 1.3x,"
-" 0.7x movement speed. Immune to suffocation and mind control, but weak to "
-"fire."
+"Max HP reduced to 25 and movement speed reduced to 0.7x. Immune to "
+"suffocation and mind control, but 2x weak to fire."
 
 #: src-en/data/blueprints.xml.append:18022
 msgid ""
@@ -8395,8 +8395,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18066
 msgid ""
@@ -8427,8 +8427,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_cinderbark\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18080
 msgid ""
@@ -8459,8 +8459,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_frostwood\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18094
 msgid ""
@@ -8491,8 +8491,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_ironbound\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18108
 msgid ""
@@ -8523,8 +8523,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_leafhost\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18122
 msgid ""
@@ -8555,8 +8555,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_toxblood\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18136
 msgid ""
@@ -8588,8 +8588,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_voidroot\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: Fills a room with fog, temporarily blinding enemies and "
-"allowing all ally Ill'drythk Statues in the room to act."
+"Active Ability: Fills a room with fog, temporarily allowing all ally "
+"Ill'drythk Statues in the room to act."
 
 #: src-en/data/blueprints.xml.append:18150
 msgid ""

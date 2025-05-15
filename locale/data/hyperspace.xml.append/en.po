@@ -19,7 +19,7 @@ msgid ""
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "DREAD LIGHTS:\n"
-"This enemy has Dread Lights installed. Less resistant, they have a 20% chance to negate ion damage, but they exude an ominous energy that decreases boarders' movement speed by 50% and their sabotage speed by 15%, while also increasing ally (on this ship) movement speed by 15%."
+"This enemy has Dread Lights installed. Less resistant than other Deep One Lights, they have a 20% chance to negate ion damage, but they exude an ominous energy that decreases boarders' movement speed by 50% and their sabotage speed by 15%, while also increasing enemy (on their ship) movement speed by 15%."
 
 #: src-en/data/hyperspace.xml.append:15
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 "append:shipIcon[7]/tooltip"
 msgstr ""
 "OVERWHELMING DARKNESS:\n"
-"This enemy is protected by an Overwhelming Darkness. This oppressive and eldritch force decreases boarders' movement speed by 50%, and their sabotage speed by 30%, but they're also inflicted with the Drowning in the Deep debuff, slowing their movement speed even further, silencing them, and preventing their abilities from regenerating. Additionally, their crew finds this darkness to be warm and soothing, providing a very slight heal of 1.8hp/s over time."
+"This enemy is protected by an Overwhelming Darkness. This oppressive and eldritch force decreases boarders' movement speed by 50%, and their sabotage speed by 30%, but they're also inflicted with the Drowning in the Deep debuff, slowing their movement speed even further, silencing them, and preventing their abilities from regenerating. Additionally, enemies find this darkness to be warm and soothing, providing a very slight heal of 1.8hp/s over time."
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
@@ -2052,7 +2052,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_shell\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:9s DURATION:15s]\n"
-"\t\t\t\tTakes 20 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship heal over time."
+"\t\t\t\tTakes 20 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies in the same room heal over time."
 
 #: src-en/data/hyperspace.xml.append:24700
 msgid ""
@@ -2066,7 +2066,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_shell_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:9s DURATION:15s]\n"
-"\t\t\t\tTakes 20 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship heal over time."
+"\t\t\t\tTakes 20 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies in the same room heal over time."
 
 #: src-en/data/hyperspace.xml.append:25408
 msgid ""
@@ -2080,7 +2080,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_lanius\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:14s DURATION:31s]\n"
-"\t\t\t\tTakes 14 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship, other than Soulplague Cultists, drain oxygen over time. Additionally damages enemies in the same room over time."
+"\t\t\t\tTakes 14 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship, other than Children of the Stars, drain oxygen over time. Additionally damages enemies in the same room over time."
 
 #: src-en/data/hyperspace.xml.append:26127
 msgid ""
@@ -2094,7 +2094,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:14s DURATION:31s]\n"
-"\t\t\t\tTakes 14 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship, other than Soulplague Cultists, drain oxygen over time. Additionally damages enemies in the same room over time."
+"\t\t\t\tTakes 14 damage and triggers a temporary effect that makes itself and all Soulplague-aligned allies on the same ship, other than Children of the Stars, drain oxygen over time. Additionally damages enemies in the same room over time."
 
 #: src-en/data/hyperspace.xml.append:26845
 msgid ""
@@ -2304,7 +2304,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:40s  DURATION:7s  -90HP]\n"
-"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Soulplague Cultists' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
+"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
 
 #: src-en/data/hyperspace.xml.append:34121
 msgid ""
@@ -2318,7 +2318,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:3s  -4HP]\n"
-"\t\t\t\t\t\t\t\tThe Foolish channels its power through this Soulplague Cultist to call down beams on the enemy ship that summon Soulplague Husks."
+"\t\t\t\t\t\t\t\tThe Foolish channels its power through this Child of the Stars to call down beams on the enemy ship that summon Soulplague Husks."
 
 #: src-en/data/hyperspace.xml.append:34629
 msgid ""
@@ -2332,7 +2332,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:40s  DURATION:7s  -90HP]\n"
-"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Soulplague Cultists' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
+"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
 
 #: src-en/data/hyperspace.xml.append:34852
 msgid ""
@@ -2346,7 +2346,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:3s  -4HP]\n"
-"\t\t\t\t\t\t\t\tThe Foolish channels its power through this Soulplague Cultist to call down beams on the enemy ship that summon Soulplague Husks."
+"\t\t\t\t\t\t\t\tThe Foolish channels its power through this Child of the Stars to call down beams on the enemy ship that summon Soulplague Husks."
 
 #: src-en/data/hyperspace.xml.append:35014
 msgid ""
@@ -3338,7 +3338,7 @@ msgstr "Boon of the Deep"
 #: src-en/data/hyperspace.xml.append:44821
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE\"]/secretDescription"
-msgstr "Receive the Boon of ??? from Thest."
+msgstr "Receive the Boon of the Deep from Thest."
 
 #: src-en/data/hyperspace.xml.append:44822
 msgid ""
@@ -3360,7 +3360,7 @@ msgstr "Boon of the Devourer"
 #: src-en/data/hyperspace.xml.append:44830
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_CREW\"]/secretDescription"
-msgstr "Receive the Boon of ??? from Thest."
+msgstr "Receive the Boon of the Devourer from Thest."
 
 #: src-en/data/hyperspace.xml.append:44831
 msgid ""
@@ -3382,7 +3382,7 @@ msgstr "Grant of Corrupting"
 #: src-en/data/hyperspace.xml.append:44839
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/secretDescription"
-msgstr "Receive the Grant of ??? from Corby."
+msgstr "Receive the Grant of Corrupting from Corby."
 
 #: src-en/data/hyperspace.xml.append:44840
 msgid ""
@@ -3404,7 +3404,7 @@ msgstr "Blessing of Dread"
 #: src-en/data/hyperspace.xml.append:44848
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE_EQUIPMENT\"]/secretDescription"
-msgstr "Receive the Blessing of ??? from Wakeson."
+msgstr "Receive the Blessing of Dread from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:44849
 msgid ""
@@ -3426,7 +3426,7 @@ msgstr "Blessing of Ravenous Darkness"
 #: src-en/data/hyperspace.xml.append:44857
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/secretDescription"
-msgstr "Receive the Blessing of ??? from Wakeson."
+msgstr "Receive the Blessing of Ravenous Darkness from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:44858
 msgid ""
@@ -3448,7 +3448,7 @@ msgstr "Blessing of Iridescent Corruption"
 #: src-en/data/hyperspace.xml.append:44866
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/secretDescription"
-msgstr "Receive the Blessing of ??? from Wakeson."
+msgstr "Receive the Blessing of Iridescent Corruption from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:44867
 msgid ""
