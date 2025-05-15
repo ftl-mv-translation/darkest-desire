@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 13:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_deeponexml/ru/>\n"
 "Language: ru\n"
@@ -2624,7 +2624,6 @@ msgid ""
 msgstr "Поторопитесь!"
 
 #: src-en/data/events_deepone.xml:1517
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Член экипажа-слизень) Позволить вашему слизню провести вас через тьму."
@@ -5169,14 +5168,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_deepone.xml:2995
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/text"
 msgstr ""
-"Когда их ритуал завершается, от корабля Союза исходит волна разрушительной "
-"энергии, разрывая его на части, и облако тьмы заполняет пространство вокруг. "
-"Часть этой странной тьмы успевает просочиться в образовавшиеся пробоины в "
-"вашем корабле, и вы понимаете, что у вас появилась нежелательные гости!"
+"Пространство за иллюминатором искажается, когда гражданские выкрикивают "
+"последний таинственный напев..."
 
 #: src-en/data/events_deepone.xml:2999
 msgid ""
@@ -5184,14 +5180,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_deepone.xml:3001
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/event/text"
 msgstr ""
-"Когда их ритуал завершается, от корабля Союза исходит волна разрушительной "
-"энергии, разрывая его на части, и облако тьмы заполняет пространство вокруг. "
-"Часть этой странной тьмы успевает просочиться в образовавшиеся пробоины в "
-"вашем корабле, и вы понимаете, что у вас появилась нежелательные гости!"
+"...и дело сделано. Когда их ритуал завершается, от корабля Союза исходит "
+"волна разрушительной энергии, разрывая его на части, и облако тьмы заполняет "
+"пространство вокруг. Часть этой странной тьмы успевает просочиться в "
+"образовавшиеся пробоины в вашем корабле, и вы понимаете, что у вас появилась "
+"компания!"
 
 #: src-en/data/events_deepone.xml:3013
 msgid ""
@@ -5219,101 +5215,200 @@ msgstr ""
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
+"(Потусторонний фолиант) Они нужны мне для моих собственных целей, балабол."
 
 #: src-en/data/events_deepone.xml:3027
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
+"Уловив суть требований горожан, вы демонстративно поднимаете Потусторонний "
+"фолиант, чтобы все могли его увидеть. Это слегка усмиряет их ярость - они "
+"отступают, пораженные видом книги. Но вскоре снова берутся за свое. У тебя "
+"тоже есть эти знания… но почему ты считаешь себя более достойным "
+"использовать эти жертвы, чем мы? Чем ТЫ лучше?"
 
 #: src-en/data/events_deepone.xml:3029
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
 msgstr ""
+"(Лилит) Я величественнее, и поэтому я провожу ритуалы вознесения, простак."
 
 #: src-en/data/events_deepone.xml:3031
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Багрово-красные тексты?! Я не раз ловил себя на том, что "
+"смотрю на эти адские, непонятные эзотерические символы... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3036
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
 msgstr ""
+"(Член экипажа-энджи Диссонанса) Я величественнее, и поэтому я провожу "
+"ритуалы Сказок о кристаллах, простак."
 
 #: src-en/data/events_deepone.xml:3038
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Яркие пурпурные тексты?! Я не раз терялся в их "
+"изображениях бескрайних, клубящихся грозовых облаков... Поистине, твоя связь "
+"с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе "
+"- быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\""
+". Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3043
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
+"(Член экипажа-Просветленный) Я величественнее, и поэтому я провожу ритуалы "
+"Молитв испытания, простак."
 
 #: src-en/data/events_deepone.xml:3045
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Сверкающие желтые тексты?! Я не раз ловил себя на том, "
+"что смотрю на их странные, темные образы... Поистине, твоя связь с НИМ "
+"сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе - "
+"быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\". "
+"Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3050
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
 msgstr ""
+"(Член экипажа-Избранный) Я величественнее, и поэтому я провожу ритуалы "
+"Темных призывов, простак."
 
 #: src-en/data/events_deepone.xml:3052
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Тусклые серые тексты?! Я не раз ловил себя на том, что "
+"очарован их полными ненависти рисунками... Поистине, твоя связь с НИМ "
+"сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе - "
+"быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\". "
+"Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3057
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
 msgstr ""
+"(Член экипажа Илл’дритков) Я величественнее, и поэтому я провожу ритуалы "
+"Гимнов спасения, простак."
 
 #: src-en/data/events_deepone.xml:3059
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Нечеткие коричневые тексты?! Я не раз ловил себя на том, "
+"что смотрю на эти эльдрические, похожие на растения изображения... Поистине, "
+"твоя связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3064
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
 msgstr ""
+"(Член экипажа-Буря) Я величественнее, и поэтому я провожу ритуалы Вестей "
+"бури, простак."
 
 #: src-en/data/events_deepone.xml:3066
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Электрические синие тексты?! Я не раз терялся в их "
+"изображениях бескрайних, клубящихся грозовых облаков... Поистине, твоя связь "
+"с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе "
+"- быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\""
+". Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3071
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
 msgstr ""
+"(Ультима броня) Я величественнее, и поэтому я провожу ритуалы Эдиктов "
+"неорожденных, простак."
 
 #: src-en/data/events_deepone.xml:3073
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Ослепительно белые тексты?! Я не раз ловил себя на том, "
+"что смотрю на изображение этой странной, зловещей брони... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3078
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
+"(Член экипажа-чума души) Я величественнее, и поэтому я провожу ритуалы "
+"Порочащего шепота, простак."
 
 #: src-en/data/events_deepone.xml:3080
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Переливающиеся радужные тексты?! Переливающиеся радужные "
+"тексты?! Я не раз ловил себя на том, что очарован их изображениями смерти и "
+"разложения... Поистине, твоя связь с НИМ сильнее, чем наша. В таком случае, "
+"позволь нам служить ЕМУ, служа тебе - быть может, хоть капля твоего величия "
+"снизойдет и на нас, о великий федди\". Мгновение вы не можете понять - они "
+"действительно в восхищаются вами или просто издеваются, но тут с их корабля "
+"телепортируют человеческую жертву, преподнося вам ее как дань. Быть злым, "
+"кровожадным культистом, пожалуй, имеет и свои социальные преимущества... ну, "
+"если вы водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3085
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
-msgstr ""
+msgstr "Я просто изучаю \"Руководство для начинающих по оккультизму\"."
 
 #: src-en/data/events_deepone.xml:3087
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
 msgstr ""
+"\"И это все? Что ж, добро пожаловать в клуб, федди; ты ничуть не лучше нас! "
+"Если ты думаешь, что можешь переступать через нас, стоя здесь как равный "
+"нам, значит, тебя ждет совсем другое!"
+"\" Гражданин разворачивается и кричит в коридор: \"ПРИГОТОВЬТЕСЬ К "
+"ЖЕРТВОПРИНОШЕНИЮ! Этот маяк будет взорван к чертям собачьим! ВО ИМЯ НЕГО!\" "
+"Вам нужно остановить их, пока они не сделали то, что задумали, и быстро!"
 
 #: src-en/data/events_deepone.xml:3090
 msgid ""
@@ -5338,101 +5433,201 @@ msgstr ""
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
+"(Потусторонний фолиант) Ладно, так и быть. Если притворяться дурачком тебя "
+"устраивает... Он мне нужен для моих целей, балабол."
 
 #: src-en/data/events_deepone.xml:3104
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
+"Уловив суть требований горожан, вы демонстративно поднимаете Потусторонний "
+"фолиант, чтобы все могли его увидеть. Это слегка усмиряет их ярость - они "
+"отступают, пораженные видом книги. Но вскоре снова берутся за свое. У тебя "
+"тоже есть эти знания… но почему ты считаешь себя более достойным "
+"использовать эти жертвы, чем мы? Чем ТЫ лучше?"
 
 #: src-en/data/events_deepone.xml:3106
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
 msgstr ""
+"(Лилит) Я величественнее, и поэтому я провожу ритуалы вознесения, простак."
 
 #: src-en/data/events_deepone.xml:3108
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Багрово-красные тексты?! Я не раз ловил себя на том, что "
+"смотрю на эти адские, непонятные эзотерические символы... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3113
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
 msgstr ""
+"(Член экипажа-энджи Диссонанса) Я величественнее, и поэтому я провожу "
+"ритуалы Сказок о кристаллах, простак."
 
 #: src-en/data/events_deepone.xml:3115
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Яркие пурпурные тексты?! Я не раз терялся в их "
+"изображениях бескрайних, клубящихся грозовых облаков... Поистине, твоя связь "
+"с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе "
+"- быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\""
+". Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3120
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
+"(Член экипажа-Просветленный) Я величественнее, и поэтому я провожу ритуалы "
+"Молитв испытания, простак."
 
 #: src-en/data/events_deepone.xml:3122
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Сверкающие желтые тексты?! Я не раз ловил себя на том, "
+"что смотрю на их странные, темные образы... Поистине, твоя связь с НИМ "
+"сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе - "
+"быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\". "
+"Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3127
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
 msgstr ""
+"(Член экипажа-Избранный) Я величественнее, и поэтому я провожу ритуалы "
+"Темных призывов, простак."
 
 #: src-en/data/events_deepone.xml:3129
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Тусклые серые тексты?! Я не раз ловил себя на том, что "
+"очарован их полными ненависти рисунками... Поистине, твоя связь с НИМ "
+"сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе - "
+"быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\". "
+"Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3134
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
 msgstr ""
+"(Член экипажа Илл’дритков) Я величественнее, и поэтому я провожу ритуалы "
+"Гимнов спасения, простак."
 
 #: src-en/data/events_deepone.xml:3136
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Нечеткие коричневые тексты?! Я не раз ловил себя на том, "
+"что смотрю на эти эльдрические, похожие на растения изображения... Поистине, "
+"твоя связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3141
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
 msgstr ""
+"(Член экипажа-Буря) Я величественнее, и поэтому я провожу ритуалы Вестей "
+"бури, простак."
 
 #: src-en/data/events_deepone.xml:3143
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Электрические синие тексты?! Я не раз терялся в их "
+"изображениях бескрайних, клубящихся грозовых облаков... Поистине, твоя связь "
+"с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, служа тебе "
+"- быть может, хоть капля твоего величия снизойдет и на нас, о великий федди\""
+". Мгновение вы не можете понять - они действительно в восхищаются вами или "
+"просто издеваются, но тут с их корабля телепортируют человеческую жертву, "
+"преподнося вам ее как дань. Быть злым, кровожадным культистом, пожалуй, "
+"имеет и свои социальные преимущества... ну, если вы водитесь с такими же "
+"больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3148
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
 msgstr ""
+"(Ультима броня) Я величественнее, и поэтому я провожу ритуалы Эдиктов "
+"неорожденных, простак."
 
 #: src-en/data/events_deepone.xml:3150
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Ослепительно белые тексты?! Я не раз ловил себя на том, "
+"что смотрю на изображение этой странной, зловещей брони... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3155
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
+"(Член экипажа-чума души) Я величественнее, и поэтому я провожу ритуалы "
+"Порочащего шепота, простак."
 
 #: src-en/data/events_deepone.xml:3157
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Переливающиеся радужные тексты?! Переливающиеся радужные "
+"тексты?! Я не раз ловил себя на том, что очарован их изображениями смерти и "
+"разложения... Поистине, твоя связь с НИМ сильнее, чем наша. В таком случае, "
+"позволь нам служить ЕМУ, служа тебе - быть может, хоть капля твоего величия "
+"снизойдет и на нас, о великий федди\". Мгновение вы не можете понять - они "
+"действительно в восхищаются вами или просто издеваются, но тут с их корабля "
+"телепортируют человеческую жертву, преподнося вам ее как дань. Быть злым, "
+"кровожадным культистом, пожалуй, имеет и свои социальные преимущества... ну, "
+"если вы водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3162
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
-msgstr ""
+msgstr "Я просто изучаю \"Руководство для начинающих по оккультизму\"."
 
 #: src-en/data/events_deepone.xml:3164
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
 msgstr ""
+"\"И это все? Что ж, добро пожаловать в клуб, федди; ты ничуть не лучше нас! "
+"Если ты думаешь, что можешь переступать через нас, стоя здесь как равный "
+"нам, значит, тебя ждет совсем другое!"
+"\" Гражданин разворачивается и кричит в коридор: \"ПРИГОТОВЬТЕСЬ К "
+"ЖЕРТВОПРИНОШЕНИЮ! Этот маяк будет взорван к чертям собачьим! ВО ИМЯ НЕГО!\" "
+"Вам нужно остановить их, пока они не сделали то, что задумали, и быстро!"
 
 #: src-en/data/events_deepone.xml:3167
 msgid ""
@@ -5445,13 +5640,12 @@ msgid ""
 msgstr "(Человеческая жертва) Да, хорошо. Можете забрать."
 
 #: src-en/data/events_deepone.xml:3177
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы телепортируете подготовленную человеческую жертву, и гражданин по связи "
 "приходит в восторг: "
-"\"О! Ты знаком с путями Темного...? Член Федерации...? Ты что, шпион?\" Вы "
+"\"О! Ты знаком с ЕГО путями...? Член Федерации...? Ты что, шпион?\" Вы "
 "пожимаете плечами, а гражданский смеется: \"Ну, спасибо, Ренегат! Мы "
 "отправляемся проливать кровь! Может быть, на этот раз ритуал осквернения...\""
 " Их корабль прыгает с маяка, а вы остаетесь в некотором замешательстве и с "
