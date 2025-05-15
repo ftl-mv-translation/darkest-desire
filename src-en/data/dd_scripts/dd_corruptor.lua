@@ -14,7 +14,7 @@ local function vter(cvec)
 end
 
 local systemIdName = "dd_corruptor"
-local corruptor_durations = {8, 13, 16, 17}
+local corruptor_durations = {10, 17, 22, 25}
 corruptor_durations[0] = 0
 
 local roomAnimString = "effects/ddsoulplague_corruptor_room_effect"
@@ -28,7 +28,7 @@ end
 --Handles tooltips and mousever descriptions per level
 local function get_level_description_corruptor(systemId, level, tooltip)
     if systemId == Hyperspace.ShipSystem.NameToSystemId(systemIdName) then
-        return string.format("%is infection, %is per spawn", corruptor_durations[level], 8 - level)
+        return string.format("%is infection, %is per spawn", corruptor_durations[level], 10 - level)
     end
 end
 
@@ -37,7 +37,7 @@ script.on_internal_event(Defines.InternalEvents.GET_LEVEL_DESCRIPTION, get_level
 --Utility function to check if the SystemBox instance is for our customs system
 local function is_corruptor(systemBox)
     local systemName = Hyperspace.ShipSystem.SystemIdToName(systemBox.pSystem.iSystemType)
-    return systemName == systemIdName and systemBox.bPlayerUI and systemBox.pSystem.iHackEffect == 0
+    return systemName == systemIdName and systemBox.bPlayerUI
 end
 
 --Utility function to check if the SystemBox instance is for our customs system
@@ -113,8 +113,13 @@ script.on_internal_event(Defines.InternalEvents.SYSTEM_BOX_MOUSE_MOVE, corruptor
 local corruptor_targetting = false
 local corruptor_targetRoom = nil
 local corruptor_targetShip = nil
+script.on_init(function()
+    corruptor_targetting = false
+    corruptor_targetRoom = nil
+    corruptor_targetShip = nil
+end)
 local cursorImage = Hyperspace.Resources:CreateImagePrimitiveString("mouse/pointer_"..systemIdName..".png", 0, 0, 0, Graphics.GL_Color(1, 1, 1, 1), 1.0, false)
-local corruptorSpawnTimerMax = 8
+local corruptorSpawnTimerMax = 10
 local corruptorSpawnTimer = 0
 local corruptorDuration = 0
 local corruptor_targetRoomTemp = nil
@@ -260,9 +265,13 @@ end)
 
 --Utility function to see if the system is ready for use
 local function corruptor_ready(shipSystem)
-   return not shipSystem:GetLocked() and shipSystem:Functioning()
+   return not shipSystem:GetLocked() and shipSystem:Functioning() and shipSystem.iHackEffect <= 1
 end
---Initializes primitive for UI elements
+--Utility function to see if the system is ready for use
+local function corruptor_ready_enemy(shipSystem)
+   return not shipSystem:GetLocked() and shipSystem:Functioning() and shipSystem.iHackEffect <= 1 and Hyperspace.ships.enemy._targetable.hostile
+end
+--Initializes primitive for UI GetAllSegments()
 local buttonBase = {}
 local buttonCharging = {}
 script.on_init(function()
@@ -320,10 +329,20 @@ function(systemBox, ignoreStatus)
 end, corruptor_render)
 
 local corruptor_targetRoomEnemy = nil
-local corruptorSpawnTimerMaxEnemy = 8
+local corruptorSpawnTimerMaxEnemy = 10
 local corruptorSpawnTimerEnemy = 0
 local corruptorDurationEnemy = 0
 
+script.on_internal_event(Defines.InternalEvents.ON_TICK, function()
+    if corruptor_targetRoomEnemy then
+        if (not Hyperspace.ships.enemy) or Hyperspace.ships.enemy._targetable.hostile == false then
+            corruptor_targetRoomEnemy = nil
+        end
+    end
+end)
+script.on_init(function()
+    corruptor_targetRoomEnemy = nil
+end)
 
 script.on_render_event(Defines.RenderEvents.SHIP, function() end, function(ship)
     for i = 0, 1 do
@@ -361,7 +380,7 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
 
         if corruptor_targetRoomTemp and corruptor_ready(corruptorSystem) then
             local effectivePower = corruptorSystem:GetEffectivePower()
-            corruptorSpawnTimerMax = 8 - effectivePower
+            corruptorSpawnTimerMax = 10 - effectivePower
             corruptorSpawnTimer = corruptorSpawnTimerMax
             corruptor_targetRoom = corruptor_targetRoomTemp
             corruptor_targetShip = corruptor_targetShipTemp
@@ -399,15 +418,15 @@ script.on_internal_event(Defines.InternalEvents.SHIP_LOOP, function(shipManager)
             end
         end
         if corruptorSystem then
-            if corruptor_ready(corruptorSystem) and not corruptor_targetRoomEnemy then
+            if corruptor_ready_enemy(corruptorSystem) and not corruptor_targetRoomEnemy then
                 local effectivePower = corruptorSystem:GetEffectivePower()
-                corruptorSpawnTimerMaxEnemy = 8 - effectivePower
+                corruptorSpawnTimerMaxEnemy = 10 - effectivePower
                 corruptorSpawnTimerEnemy = corruptorSpawnTimerMax
                 corruptor_targetRoomEnemy = get_room_at_location(Hyperspace.ships.player, Hyperspace.ships.player:GetRandomRoomCenter(), false)
                 corruptorDurationEnemy = corruptor_durations[effectivePower]
                 corruptor_spawn(corruptor_targetRoomEnemy, 0, corruptorSystem._shipObj.iShipId, 1, false)
                 --corruptor_explosion(corruptorSystem._shipObj.iShipId, corruptor_targetShipEnemy, corruptor_targetRoomEnemy)
-            elseif corruptor_ready(corruptorSystem) and corruptor_targetRoomEnemy then
+            elseif corruptor_ready_enemy(corruptorSystem) and corruptor_targetRoomEnemy then
                 corruptorSpawnTimerEnemy = corruptorSpawnTimerEnemy - Hyperspace.FPS.SpeedFactor/16
                 if corruptorSpawnTimerEnemy <= 0 then
                     corruptorSpawnTimerEnemy = corruptorSpawnTimerMaxEnemy
