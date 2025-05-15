@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 12:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_deeponexml/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
 
 #: src-en/data/events_deepone.xml:6
 msgid ""
@@ -1248,8 +1241,8 @@ msgstr "Continua..."
 #: src-en/data/events_deepone.xml:937
 msgid "data/events_deepone.xml$//event[@name=\"STORE_LOAD_DEEPONE\"]/text"
 msgstr ""
-"Prima di fare acquisti, hai ancora del tempo per fare qualcosa a bordo della "
-"tua nave."
+"Prima di fare acquisti, hai ancora del tempo per fare qualcosa a bordo della"
+" tua nave."
 
 #: src-en/data/events_deepone.xml:939
 msgid ""
@@ -3762,1194 +3755,1414 @@ msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3006
+#: src-en/data/events_deepone.xml:2999
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3001
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3013
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3008
+#: src-en/data/events_deepone.xml:3015
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_WIN\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3014
+#: src-en/data/events_deepone.xml:3021
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3017
+#: src-en/data/events_deepone.xml:3025
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3019
-msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3021
-msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3023
-msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3027
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3032
+#: src-en/data/events_deepone.xml:3029
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3034
+#: src-en/data/events_deepone.xml:3031
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3036
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3038
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3043
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3045
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3048
+#: src-en/data/events_deepone.xml:3050
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/event/choice/text"
-msgstr "Continua..."
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3052
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3057
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
+msgstr ""
 
 #: src-en/data/events_deepone.xml:3059
 msgid ""
-"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/text"
-msgstr "La nave va in pezzi e recuperi rapidamente quello che puoi."
-
-#: src-en/data/events_deepone.xml:3062
-msgid ""
-"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/choice/text"
-msgstr "Continua..."
-
-#: src-en/data/events_deepone.xml:3067
-msgid ""
-"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/text"
-msgstr "Con l'equipaggio morto, recuperi tutto quello che puoi."
-
-#: src-en/data/events_deepone.xml:3070
-msgid ""
-"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/choice/text"
-msgstr "Continua..."
-
-#: src-en/data/events_deepone.xml:3077
-msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3079
+#: src-en/data/events_deepone.xml:3064
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3081
+#: src-en/data/events_deepone.xml:3066
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3071
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3073
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3078
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3080
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3085
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[2]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3091
+#: src-en/data/events_deepone.xml:3087
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3093
+#: src-en/data/events_deepone.xml:3090
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3098
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3095
+#: src-en/data/events_deepone.xml:3100
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3097
+#: src-en/data/events_deepone.xml:3102
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3099
-msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3104
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3106
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3108
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3113
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3115
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3118
+#: src-en/data/events_deepone.xml:3120
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/choice/text"
-msgstr "Continua..."
-
-#: src-en/data/events_deepone.xml:3137
-msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3139
+#: src-en/data/events_deepone.xml:3122
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/text"
-msgstr "Contatta la nave."
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3127
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3129
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3134
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3136
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
+msgstr ""
 
 #: src-en/data/events_deepone.xml:3141
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3143
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3145
+#: src-en/data/events_deepone.xml:3148
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3147
+#: src-en/data/events_deepone.xml:3150
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3149
-msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3151
-msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3153
-msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3155
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3157
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3162
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3164
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3166
+#: src-en/data/events_deepone.xml:3167
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/text"
-msgstr ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/choice/text"
+msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3168
+#: src-en/data/events_deepone.xml:3175
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3170
-msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3177
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
-msgstr ""
-
-#: src-en/data/events_deepone.xml:3179
-msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3181
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3183
+#: src-en/data/events_deepone.xml:3186
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3190
+#: src-en/data/events_deepone.xml:3188
 msgid ""
-"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_deepone.xml:3192
 msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3197
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3199
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3202
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3213
+msgid ""
+"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/text"
+msgstr "La nave va in pezzi e recuperi rapidamente quello che puoi."
+
+#: src-en/data/events_deepone.xml:3216
+msgid ""
+"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3221
+msgid ""
+"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/text"
+msgstr "Con l'equipaggio morto, recuperi tutto quello che puoi."
+
+#: src-en/data/events_deepone.xml:3224
+msgid ""
+"data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3231
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3233
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3235
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3239
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3245
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3247
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3249
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3251
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3253
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3258
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3260
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3267
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3269
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3272
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_deepone.xml:3291
+msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3293
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/text"
+msgstr "Contatta la nave."
+
+#: src-en/data/events_deepone.xml:3295
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3297
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3299
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3301
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3303
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3305
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3307
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3309
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3311
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3318
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3320
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3322
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3324
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3331
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3333
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3335
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3337
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3344
+msgid ""
+"data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/text"
+msgstr ""
+
+#: src-en/data/events_deepone.xml:3346
+msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3194
+#: src-en/data/events_deepone.xml:3348
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3196
+#: src-en/data/events_deepone.xml:3350
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3203
+#: src-en/data/events_deepone.xml:3357
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3205
+#: src-en/data/events_deepone.xml:3359
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3210
+#: src-en/data/events_deepone.xml:3364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3212
+#: src-en/data/events_deepone.xml:3366
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3219
+#: src-en/data/events_deepone.xml:3373
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3221
+#: src-en/data/events_deepone.xml:3375
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3223
+#: src-en/data/events_deepone.xml:3377
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3225
+#: src-en/data/events_deepone.xml:3379
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3232
+#: src-en/data/events_deepone.xml:3386
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3234
+#: src-en/data/events_deepone.xml:3388
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3242
+#: src-en/data/events_deepone.xml:3396
 #, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/text"
 msgstr "Lascia stare."
 
-#: src-en/data/events_deepone.xml:3244
+#: src-en/data/events_deepone.xml:3398
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3246
+#: src-en/data/events_deepone.xml:3400
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3250
+#: src-en/data/events_deepone.xml:3404
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3258
+#: src-en/data/events_deepone.xml:3412
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/text"
 msgstr "Ignorala."
 
-#: src-en/data/events_deepone.xml:3260
+#: src-en/data/events_deepone.xml:3414
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3262
+#: src-en/data/events_deepone.xml:3416
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3266
+#: src-en/data/events_deepone.xml:3420
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3275
+#: src-en/data/events_deepone.xml:3429
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3279
+#: src-en/data/events_deepone.xml:3433
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3286
+#: src-en/data/events_deepone.xml:3440
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/text"
 msgstr "La nave va in pezzi e recuperi rapidamente quello che puoi."
 
-#: src-en/data/events_deepone.xml:3289
+#: src-en/data/events_deepone.xml:3443
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3294
+#: src-en/data/events_deepone.xml:3448
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/text"
 msgstr "Con l'equipaggio morto, recuperi tutto quello che puoi."
 
-#: src-en/data/events_deepone.xml:3297
+#: src-en/data/events_deepone.xml:3451
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3304
+#: src-en/data/events_deepone.xml:3458
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN_DEEPONE_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3309
+#: src-en/data/events_deepone.xml:3463
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3311
+#: src-en/data/events_deepone.xml:3465
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3315
+#: src-en/data/events_deepone.xml:3469
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3320
+#: src-en/data/events_deepone.xml:3474
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3323
+#: src-en/data/events_deepone.xml:3477
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3327
+#: src-en/data/events_deepone.xml:3481
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3332
+#: src-en/data/events_deepone.xml:3486
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3335
+#: src-en/data/events_deepone.xml:3489
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3339
+#: src-en/data/events_deepone.xml:3493
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3344
+#: src-en/data/events_deepone.xml:3498
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3347
+#: src-en/data/events_deepone.xml:3501
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3351
+#: src-en/data/events_deepone.xml:3505
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3359
+#: src-en/data/events_deepone.xml:3513
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3361
+#: src-en/data/events_deepone.xml:3515
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/text"
 msgstr "Attacca i cacciatori."
 
-#: src-en/data/events_deepone.xml:3363
+#: src-en/data/events_deepone.xml:3517
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3366
+#: src-en/data/events_deepone.xml:3520
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3372
+#: src-en/data/events_deepone.xml:3526
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3374
+#: src-en/data/events_deepone.xml:3528
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3377
+#: src-en/data/events_deepone.xml:3531
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3383
+#: src-en/data/events_deepone.xml:3537
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3390
+#: src-en/data/events_deepone.xml:3544
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3393
+#: src-en/data/events_deepone.xml:3547
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3400
+#: src-en/data/events_deepone.xml:3554
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3402
+#: src-en/data/events_deepone.xml:3556
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3404
+#: src-en/data/events_deepone.xml:3558
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3406
+#: src-en/data/events_deepone.xml:3560
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3408
+#: src-en/data/events_deepone.xml:3562
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3410
+#: src-en/data/events_deepone.xml:3564
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3412
+#: src-en/data/events_deepone.xml:3566
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3414
+#: src-en/data/events_deepone.xml:3568
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3416
+#: src-en/data/events_deepone.xml:3570
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3418
+#: src-en/data/events_deepone.xml:3572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3420
+#: src-en/data/events_deepone.xml:3574
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3422
+#: src-en/data/events_deepone.xml:3576
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3424
+#: src-en/data/events_deepone.xml:3578
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3426
+#: src-en/data/events_deepone.xml:3580
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3428
+#: src-en/data/events_deepone.xml:3582
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3430
+#: src-en/data/events_deepone.xml:3584
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3432
+#: src-en/data/events_deepone.xml:3586
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3434
+#: src-en/data/events_deepone.xml:3588
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3436
+#: src-en/data/events_deepone.xml:3590
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3444
+#: src-en/data/events_deepone.xml:3598
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3446
+#: src-en/data/events_deepone.xml:3600
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3451
+#: src-en/data/events_deepone.xml:3605
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3453
+#: src-en/data/events_deepone.xml:3607
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3458
+#: src-en/data/events_deepone.xml:3612
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3460
+#: src-en/data/events_deepone.xml:3614
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3465
+#: src-en/data/events_deepone.xml:3619
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3467
+#: src-en/data/events_deepone.xml:3621
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3478
+#: src-en/data/events_deepone.xml:3632
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3480
+#: src-en/data/events_deepone.xml:3634
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3482
+#: src-en/data/events_deepone.xml:3636
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3484
+#: src-en/data/events_deepone.xml:3638
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3486
+#: src-en/data/events_deepone.xml:3640
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3488
+#: src-en/data/events_deepone.xml:3642
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3490
+#: src-en/data/events_deepone.xml:3644
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3492
+#: src-en/data/events_deepone.xml:3646
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3494
+#: src-en/data/events_deepone.xml:3648
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3496
+#: src-en/data/events_deepone.xml:3650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3504
+#: src-en/data/events_deepone.xml:3658
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3506
+#: src-en/data/events_deepone.xml:3660
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3511
+#: src-en/data/events_deepone.xml:3665
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3513
+#: src-en/data/events_deepone.xml:3667
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3518
+#: src-en/data/events_deepone.xml:3672
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3520
+#: src-en/data/events_deepone.xml:3674
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3525
+#: src-en/data/events_deepone.xml:3679
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3527
+#: src-en/data/events_deepone.xml:3681
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3540
+#: src-en/data/events_deepone.xml:3694
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3542
+#: src-en/data/events_deepone.xml:3696
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3544
+#: src-en/data/events_deepone.xml:3698
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3546
+#: src-en/data/events_deepone.xml:3700
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3548
+#: src-en/data/events_deepone.xml:3702
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3550
+#: src-en/data/events_deepone.xml:3704
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3553
+#: src-en/data/events_deepone.xml:3707
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3567
+#: src-en/data/events_deepone.xml:3721
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3569
+#: src-en/data/events_deepone.xml:3723
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3571
+#: src-en/data/events_deepone.xml:3725
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3575
+#: src-en/data/events_deepone.xml:3729
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3583
+#: src-en/data/events_deepone.xml:3737
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3585
+#: src-en/data/events_deepone.xml:3739
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3587
+#: src-en/data/events_deepone.xml:3741
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3591
+#: src-en/data/events_deepone.xml:3745
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3600
+#: src-en/data/events_deepone.xml:3754
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/text"
 msgstr "La nave va in pezzi e recuperi rapidamente quello che puoi."
 
-#: src-en/data/events_deepone.xml:3603
+#: src-en/data/events_deepone.xml:3757
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3608
+#: src-en/data/events_deepone.xml:3762
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/text"
 msgstr "Con l'equipaggio morto, recuperi tutto quello che puoi."
 
-#: src-en/data/events_deepone.xml:3611
+#: src-en/data/events_deepone.xml:3765
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3618
+#: src-en/data/events_deepone.xml:3772
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3627
+#: src-en/data/events_deepone.xml:3781
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3629
+#: src-en/data/events_deepone.xml:3783
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3638
+#: src-en/data/events_deepone.xml:3792
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3641
+#: src-en/data/events_deepone.xml:3795
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3643
+#: src-en/data/events_deepone.xml:3797
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3652
+#: src-en/data/events_deepone.xml:3806
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3654
+#: src-en/data/events_deepone.xml:3808
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3666
+#: src-en/data/events_deepone.xml:3820
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3669
+#: src-en/data/events_deepone.xml:3823
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3671
+#: src-en/data/events_deepone.xml:3825
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3673
+#: src-en/data/events_deepone.xml:3827
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3675
+#: src-en/data/events_deepone.xml:3829
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3679
+#: src-en/data/events_deepone.xml:3833
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3681
+#: src-en/data/events_deepone.xml:3835
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3684
+#: src-en/data/events_deepone.xml:3838
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3692
+#: src-en/data/events_deepone.xml:3846
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3694
+#: src-en/data/events_deepone.xml:3848
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3698
+#: src-en/data/events_deepone.xml:3852
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3704
+#: src-en/data/events_deepone.xml:3858
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3706
+#: src-en/data/events_deepone.xml:3860
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3708
+#: src-en/data/events_deepone.xml:3862
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3712
+#: src-en/data/events_deepone.xml:3866
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3720
+#: src-en/data/events_deepone.xml:3874
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3722
+#: src-en/data/events_deepone.xml:3876
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3725
+#: src-en/data/events_deepone.xml:3879
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3731
+#: src-en/data/events_deepone.xml:3885
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3733
+#: src-en/data/events_deepone.xml:3887
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3735
+#: src-en/data/events_deepone.xml:3889
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[1]/text"
 msgstr "Fai qualcosa a bordo."
 
-#: src-en/data/events_deepone.xml:3739
+#: src-en/data/events_deepone.xml:3893
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[2]/text"
 msgstr "Non fare niente."
 
-#: src-en/data/events_deepone.xml:3761
+#: src-en/data/events_deepone.xml:3915
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_DEEP\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3767
+#: src-en/data/events_deepone.xml:3921
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3768
+#: src-en/data/events_deepone.xml:3922
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3769
+#: src-en/data/events_deepone.xml:3923
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3776
+#: src-en/data/events_deepone.xml:3930
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_THEOCRACY\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3782
+#: src-en/data/events_deepone.xml:3936
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3783
+#: src-en/data/events_deepone.xml:3937
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3784
+#: src-en/data/events_deepone.xml:3938
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3791
+#: src-en/data/events_deepone.xml:3945
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_PIRATE\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3797
+#: src-en/data/events_deepone.xml:3951
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3798
+#: src-en/data/events_deepone.xml:3952
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3799
+#: src-en/data/events_deepone.xml:3953
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3806
+#: src-en/data/events_deepone.xml:3960
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_REBEL\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3812
+#: src-en/data/events_deepone.xml:3966
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3813
+#: src-en/data/events_deepone.xml:3967
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3814
+#: src-en/data/events_deepone.xml:3968
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3821
+#: src-en/data/events_deepone.xml:3975
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_LANIUS\"]/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_deepone.xml:3827
+#: src-en/data/events_deepone.xml:3981
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3828
+#: src-en/data/events_deepone.xml:3982
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3829
+#: src-en/data/events_deepone.xml:3983
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3835
+#: src-en/data/events_deepone.xml:3989
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[1]/text"
 msgstr "Accetta l'offerta."
 
-#: src-en/data/events_deepone.xml:3842
+#: src-en/data/events_deepone.xml:3996
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[2]/text"
 msgstr "Non accettiamo nessuna resa!"
 
-#: src-en/data/events_deepone.xml:3848
+#: src-en/data/events_deepone.xml:4002
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3849
+#: src-en/data/events_deepone.xml:4003
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3850
+#: src-en/data/events_deepone.xml:4004
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3851
+#: src-en/data/events_deepone.xml:4005
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3852
+#: src-en/data/events_deepone.xml:4006
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3853
+#: src-en/data/events_deepone.xml:4007
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3857
+#: src-en/data/events_deepone.xml:4011
 msgid "data/events_deepone.xml$//event[@name=\"DEEPONE_ESCAPE\"]/text"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3867
+#: src-en/data/events_deepone.xml:4021
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3868
+#: src-en/data/events_deepone.xml:4022
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3869
+#: src-en/data/events_deepone.xml:4023
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3870
+#: src-en/data/events_deepone.xml:4024
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3871
+#: src-en/data/events_deepone.xml:4025
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3872
+#: src-en/data/events_deepone.xml:4026
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3873
+#: src-en/data/events_deepone.xml:4027
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[7]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3882
+#: src-en/data/events_deepone.xml:4036
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3883
+#: src-en/data/events_deepone.xml:4037
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3884
+#: src-en/data/events_deepone.xml:4038
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3885
+#: src-en/data/events_deepone.xml:4039
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3886
+#: src-en/data/events_deepone.xml:4040
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3887
+#: src-en/data/events_deepone.xml:4041
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_deepone.xml:3888
+#: src-en/data/events_deepone.xml:4042
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[7]"
 msgstr ""

@@ -5116,7 +5116,21 @@ msgstr ""
 "outside. Some of this strange darkness manages to seep into the newly formed"
 " breaches in your ship, as you realize you've got unwanted company!"
 
-#: src-en/data/events_deepone.xml:3006
+#: src-en/data/events_deepone.xml:2999
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_deepone.xml:3001
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/event/text"
+msgstr ""
+"With their ritual complete, a wave of destructive energy is sent out from "
+"the Union ship as it's torn apart, and a cloud of darkness fills the space "
+"outside. Some of this strange darkness manages to seep into the newly formed"
+" breaches in your ship, as you realize you've got unwanted company!"
+
+#: src-en/data/events_deepone.xml:3013
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_WIN\"]/text"
 msgstr ""
@@ -5124,12 +5138,12 @@ msgstr ""
 " you've dirtied your hands with Union blood nonetheless. It's hard to win, "
 "sometimes..."
 
-#: src-en/data/events_deepone.xml:3008
+#: src-en/data/events_deepone.xml:3015
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_WIN\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3014
+#: src-en/data/events_deepone.xml:3021
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/text"
 msgstr ""
@@ -5138,28 +5152,427 @@ msgstr ""
 "threateningly, and say \"Give us a human sacrifice or it's YOUR head that's "
 "rolling, Renegade!\" Not exactly a warm welcome..."
 
-#: src-en/data/events_deepone.xml:3017
+#: src-en/data/events_deepone.xml:3025
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
+msgstr ""
+"(Otherworldly Tome) I need them for my own purposes, you blabbering fool."
+
+#: src-en/data/events_deepone.xml:3027
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
+msgstr ""
+"Picking up on the reasoning behind the citizen's demands, you brandish the "
+"Otherworldly Tome for them to see. Doing so quells their aggression "
+"slightly, as they stagger backwards at the sight of it, but then they step "
+"back forward, \"You may possess THEIR teachings as well, but what makes you "
+"any more worthy of using these sacrifices than us? What makes YOU better?\""
+
+#: src-en/data/events_deepone.xml:3029
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
+msgstr "(Lilith) I am greater, for I pursue the Ascension Rituals, simpleton."
+
+#: src-en/data/events_deepone.xml:3031
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The crimson red texts?! I've caught myself staring at "
+"those hellish, incomprehensible diagrams more than once... truly, your cause"
+" to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3036
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
+msgstr ""
+"(Disparity Crew) I am greater, for I pursue the Crystalline Tales, moron."
+
+#: src-en/data/events_deepone.xml:3038
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The vibrant purple texts?! I've caught myself staring "
+"at those beautiful, crystalline depictions more than once... truly, your "
+"cause to THEM is greater than ours. In that case, allow us to serve THEM "
+"through serving you; pray be that an ounce of your greatness may rub off on "
+"us, o' Feddie one.\" For a moment, you can't tell if they're completely "
+"enthralled by you, or if they're making fun of you, but then a human "
+"sacrifice is beamed over from their ship and offered to you in the name of "
+"tribute. Being an evil, murderous cultist has its social perks as well, you "
+"suppose... assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3043
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
+msgstr ""
+"(Enlightened Crew) I am greater, for I pursue the Prayers of Proving, idiot."
+
+#: src-en/data/events_deepone.xml:3045
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The glistening yellow texts?! I've caught myself "
+"staring at their strange, dark imagery more than once... truly, your cause "
+"to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3050
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr "(Chosen Crew) I am greater, for I pursue the Dark Callings, dumbass."
+
+#: src-en/data/events_deepone.xml:3052
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The murky gray texts?! I've caught myself enamored by "
+"their hateful illustrations more than once... truly, your cause to THEM is "
+"greater than ours. In that case, allow us to serve THEM through serving you;"
+" pray be that an ounce of your greatness may rub off on us, o' Feddie one.\""
+" For a moment, you can't tell if they're completely enthralled by you, or if"
+" they're making fun of you, but then a human sacrifice is beamed over from "
+"their ship and offered to you in the name of tribute. Being an evil, "
+"murderous cultist has its social perks as well, you suppose... assuming you "
+"associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3057
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
+msgstr ""
+"(Ill'drythk Crew) I am greater, for I pursue the Hymns to Salvation, "
+"ignoramus."
+
+#: src-en/data/events_deepone.xml:3059
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The fuzzy brown texts?! I've caught myself staring at "
+"those eldritch, plant-like caricatures more than once... truly, your cause "
+"to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3064
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
+msgstr ""
+"(Tempest Crew) I am greater, for I pursue the Tidings of the Tempest, "
+"stupid."
+
+#: src-en/data/events_deepone.xml:3066
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The electric blue texts?! I've caught myself lost in "
+"their pictures of vast, stormy clouds more than once... truly, your cause to"
+" THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3071
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
+msgstr ""
+"(Ultima Armor) I am greater, for I pursue the Neoborn Edicts, imbecile."
+
+#: src-en/data/events_deepone.xml:3073
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The blindingly white texts?! I've caught myself staring"
+" at the image of that strange, ominous armor more than once... truly, your "
+"cause to THEM is greater than ours. In that case, allow us to serve THEM "
+"through serving you; pray be that an ounce of your greatness may rub off on "
+"us, o' Feddie one.\" For a moment, you can't tell if they're completely "
+"enthralled by you, or if they're making fun of you, but then a human "
+"sacrifice is beamed over from their ship and offered to you in the name of "
+"tribute. Being an evil, murderous cultist has its social perks as well, you "
+"suppose... assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3078
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+msgstr ""
+"(Soulplague Crew) I am greater, for I pursue the Corrupting Whispers, "
+"dimwit."
+
+#: src-en/data/events_deepone.xml:3080
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The iridescent rainbow texts?! I've caught myself "
+"fascinated by their portrayals of death and decay more than once... truly, "
+"your cause to THEM is greater than ours. In that case, allow us to serve "
+"THEM through serving you; pray be that an ounce of your greatness may rub "
+"off on us, o' Feddie one.\" For a moment, you can't tell if they're "
+"completely enthralled by you, or if they're making fun of you, but then a "
+"human sacrifice is beamed over from their ship and offered to you in the "
+"name of tribute. Being an evil, murderous cultist has its social perks as "
+"well, you suppose... assuming you associate yourself with like-minded "
+"sickos, that is."
+
+#: src-en/data/events_deepone.xml:3085
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
+msgstr "I simply pursue the Beginner's Guide to the Occult."
+
+#: src-en/data/events_deepone.xml:3087
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
+msgstr ""
+"\"Is that all? Well, welcome to the club, Feddie; you're no better than us "
+"at all! If you think you can step all over us while standing here as our "
+"equals, then you've got another thing coming!\" The citizen turns around, "
+"yelling off into the hallway, \"PREPARE THE SACRIFICE! This beacon is being "
+"blown to HELL! IN THEIR NAME!\" You're going to need to stop them before "
+"they do whatever it is they're doing, and fast!"
+
+#: src-en/data/events_deepone.xml:3090
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_deepone.xml:3098
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/text"
 msgstr "Woah, woah, woah. What the hell are you talking about?"
 
-#: src-en/data/events_deepone.xml:3019
+#: src-en/data/events_deepone.xml:3100
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/text"
 msgstr ""
 "They interrupt you, mid-sentence, \"NO! No questions. Not unless you want us"
 " to drag this beacon to HELL! WE'VE SEEN HORRORS GREATER THAN DEATH! WE'RE "
 "NOT AFRAID OF YOU!\" You're not even sure if you're the one they're shouting"
 " at... regardless, they've made their demands clear. What's your answer?"
 
-#: src-en/data/events_deepone.xml:3021
+#: src-en/data/events_deepone.xml:3102
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
+msgstr ""
+"(Otherworldly Tome) Fine, then. If playing stupid doesn't satisfy you... I "
+"need them for my own purposes, you blabbering fool."
+
+#: src-en/data/events_deepone.xml:3104
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
+msgstr ""
+"Picking up on the reasoning behind the citizen's demands, you brandish the "
+"Otherworldly Tome for them to see. Doing so quells their aggression "
+"slightly, as they stagger backwards at the sight of it, but then they step "
+"back forward, \"You may possess THEIR teachings as well, but what makes you "
+"any more worthy of using these sacrifices than us? What makes YOU better?\""
+
+#: src-en/data/events_deepone.xml:3106
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
+msgstr "(Lilith) I am greater, for I pursue the Ascension Rituals, simpleton."
+
+#: src-en/data/events_deepone.xml:3108
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The crimson red texts?! I've caught myself staring at "
+"those hellish, incomprehensible diagrams more than once... truly, your cause"
+" to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3113
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
+msgstr ""
+"(Disparity Crew) I am greater, for I pursue the Crystalline Tales, moron."
+
+#: src-en/data/events_deepone.xml:3115
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The vibrant purple texts?! I've caught myself staring "
+"at those beautiful, crystalline depictions more than once... truly, your "
+"cause to THEM is greater than ours. In that case, allow us to serve THEM "
+"through serving you; pray be that an ounce of your greatness may rub off on "
+"us, o' Feddie one.\" For a moment, you can't tell if they're completely "
+"enthralled by you, or if they're making fun of you, but then a human "
+"sacrifice is beamed over from their ship and offered to you in the name of "
+"tribute. Being an evil, murderous cultist has its social perks as well, you "
+"suppose... assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3120
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
+msgstr ""
+"(Enlightened Crew) I am greater, for I pursue the Prayers of Proving, idiot."
+
+#: src-en/data/events_deepone.xml:3122
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The glistening yellow texts?! I've caught myself "
+"staring at their strange, dark imagery more than once... truly, your cause "
+"to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3127
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr "(Chosen Crew) I am greater, for I pursue the Dark Callings, dumbass."
+
+#: src-en/data/events_deepone.xml:3129
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The murky gray texts?! I've caught myself enamored by "
+"their hateful illustrations more than once... truly, your cause to THEM is "
+"greater than ours. In that case, allow us to serve THEM through serving you;"
+" pray be that an ounce of your greatness may rub off on us, o' Feddie one.\""
+" For a moment, you can't tell if they're completely enthralled by you, or if"
+" they're making fun of you, but then a human sacrifice is beamed over from "
+"their ship and offered to you in the name of tribute. Being an evil, "
+"murderous cultist has its social perks as well, you suppose... assuming you "
+"associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3134
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
+msgstr ""
+"(Ill'drythk Crew) I am greater, for I pursue the Hymns to Salvation, "
+"ignoramus."
+
+#: src-en/data/events_deepone.xml:3136
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The fuzzy brown texts?! I've caught myself staring at "
+"those eldritch, plant-like caricatures more than once... truly, your cause "
+"to THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3141
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
+msgstr ""
+"(Tempest Crew) I am greater, for I pursue the Tidings of the Tempest, "
+"stupid."
+
+#: src-en/data/events_deepone.xml:3143
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The electric blue texts?! I've caught myself lost in "
+"their pictures of vast, stormy clouds more than once... truly, your cause to"
+" THEM is greater than ours. In that case, allow us to serve THEM through "
+"serving you; pray be that an ounce of your greatness may rub off on us, o' "
+"Feddie one.\" For a moment, you can't tell if they're completely enthralled "
+"by you, or if they're making fun of you, but then a human sacrifice is "
+"beamed over from their ship and offered to you in the name of tribute. Being"
+" an evil, murderous cultist has its social perks as well, you suppose... "
+"assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3148
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
+msgstr ""
+"(Ultima Armor) I am greater, for I pursue the Neoborn Edicts, imbecile."
+
+#: src-en/data/events_deepone.xml:3150
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The blindingly white texts?! I've caught myself staring"
+" at the image of that strange, ominous armor more than once... truly, your "
+"cause to THEM is greater than ours. In that case, allow us to serve THEM "
+"through serving you; pray be that an ounce of your greatness may rub off on "
+"us, o' Feddie one.\" For a moment, you can't tell if they're completely "
+"enthralled by you, or if they're making fun of you, but then a human "
+"sacrifice is beamed over from their ship and offered to you in the name of "
+"tribute. Being an evil, murderous cultist has its social perks as well, you "
+"suppose... assuming you associate yourself with like-minded sickos, that is."
+
+#: src-en/data/events_deepone.xml:3155
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+msgstr ""
+"(Soulplague Crew) I am greater, for I pursue the Corrupting Whispers, "
+"dimwit."
+
+#: src-en/data/events_deepone.xml:3157
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+msgstr ""
+"The citizen gasps, \"The iridescent rainbow texts?! I've caught myself "
+"fascinated by their portrayals of death and decay more than once... truly, "
+"your cause to THEM is greater than ours. In that case, allow us to serve "
+"THEM through serving you; pray be that an ounce of your greatness may rub "
+"off on us, o' Feddie one.\" For a moment, you can't tell if they're "
+"completely enthralled by you, or if they're making fun of you, but then a "
+"human sacrifice is beamed over from their ship and offered to you in the "
+"name of tribute. Being an evil, murderous cultist has its social perks as "
+"well, you suppose... assuming you associate yourself with like-minded "
+"sickos, that is."
+
+#: src-en/data/events_deepone.xml:3162
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
+msgstr "I simply pursue the Beginner's Guide to the Occult."
+
+#: src-en/data/events_deepone.xml:3164
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
+msgstr ""
+"\"Is that all? Well, welcome to the club, Feddie; you're no better than us "
+"at all! If you think you can step all over us while standing here as our "
+"equals, then you've got another thing coming!\" The citizen turns around, "
+"yelling off into the hallway, \"PREPARE THE SACRIFICE! This beacon is being "
+"blown to HELL! In THEIR name!\" You're going to need to stop them before "
+"they do whatever it is they're doing, and fast!"
+
+#: src-en/data/events_deepone.xml:3167
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_deepone.xml:3175
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
 msgstr "(Human Sacrifice) Yeah, alright. You can have it."
 
-#: src-en/data/events_deepone.xml:3023
+#: src-en/data/events_deepone.xml:3177
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "You beam your prepared human sacrifice over, and the citizen over the comms "
 "becomes ecstatic, \"OH! You're familiar with the Dark One's ways...? A "
@@ -5169,19 +5582,19 @@ msgstr ""
 "out of the beacon, and you're left somewhat confused and considerably less "
 "sacrifice-ful."
 
-#: src-en/data/events_deepone.xml:3027
+#: src-en/data/events_deepone.xml:3181
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
 msgstr "You cannot clone your human sacrifice, as they are not dead."
 
-#: src-en/data/events_deepone.xml:3032
+#: src-en/data/events_deepone.xml:3186
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr "(Human Crew) Yeah, alright. You can have them."
 
-#: src-en/data/events_deepone.xml:3034
+#: src-en/data/events_deepone.xml:3188
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "You beam your human over, ignoring their kicking and screaming, and the "
 "citizen over the comms calms down a bit, \"Finally, FINALLY! We can take "
@@ -5191,19 +5604,19 @@ msgstr ""
 "this time...\" Their ship jumps out of the beacon, and you're left somewhat "
 "horrified and considerably less crew-ful."
 
-#: src-en/data/events_deepone.xml:3038
+#: src-en/data/events_deepone.xml:3192
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
 msgstr "You cannot clone your human crew member, as they are not dead."
 
-#: src-en/data/events_deepone.xml:3043
+#: src-en/data/events_deepone.xml:3197
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/text"
 msgstr "I'm not sending anybody over to die, you psycho."
 
-#: src-en/data/events_deepone.xml:3045
+#: src-en/data/events_deepone.xml:3199
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/text"
 msgstr ""
 "\"Then you're condemning us ALL to death, FEDDIE! You, us, AND your little "
 "buddies... PREPARE TO DIE!\" You watch as they stand around a ritual circle "
@@ -5211,32 +5624,32 @@ msgstr ""
 "you're going to need to stop them before they do whatever it is they're "
 "doing, and fast!"
 
-#: src-en/data/events_deepone.xml:3048
+#: src-en/data/events_deepone.xml:3202
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice/event/choice[3]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3059
+#: src-en/data/events_deepone.xml:3213
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/text"
 msgstr "The ship breaks apart and you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3062
+#: src-en/data/events_deepone.xml:3216
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3067
+#: src-en/data/events_deepone.xml:3221
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/text"
 msgstr "With the crew dead you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3070
+#: src-en/data/events_deepone.xml:3224
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3077
+#: src-en/data/events_deepone.xml:3231
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/text"
 msgstr ""
@@ -5247,14 +5660,14 @@ msgstr ""
 "there's little you can do sitting here pondering... it's time to leave, "
 "unanswered qustions in tow."
 
-#: src-en/data/events_deepone.xml:3079
+#: src-en/data/events_deepone.xml:3233
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 "(Soulplague Crew) Your Soulplague-aligned crew member makes a strange "
 "gurgling noise."
 
-#: src-en/data/events_deepone.xml:3081
+#: src-en/data/events_deepone.xml:3235
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
@@ -5262,12 +5675,12 @@ msgstr ""
 "living through with your crew member making noises like that... can't they "
 "see you're trying to solve a mystery here?"
 
-#: src-en/data/events_deepone.xml:3085
+#: src-en/data/events_deepone.xml:3239
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[2]/text"
 msgstr "I don't get paid enough for this..."
 
-#: src-en/data/events_deepone.xml:3091
+#: src-en/data/events_deepone.xml:3245
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/text"
 msgstr ""
@@ -5277,24 +5690,24 @@ msgstr ""
 "\"...scrap... give... scrap...\" You can hardly make out their form under "
 "their robes, but you get the sense that something is off..."
 
-#: src-en/data/events_deepone.xml:3093
+#: src-en/data/events_deepone.xml:3247
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/text"
 msgstr "Hold on. Scrap? What for, and how much?"
 
-#: src-en/data/events_deepone.xml:3095
+#: src-en/data/events_deepone.xml:3249
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/text"
 msgstr ""
 "The cloaked Deep One lowers their head even more, \"...reward... boon... "
 "favor... 60...\" They say no more than that."
 
-#: src-en/data/events_deepone.xml:3097
+#: src-en/data/events_deepone.xml:3251
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/text"
 msgstr "Alright, sure. Color me intrigued."
 
-#: src-en/data/events_deepone.xml:3099
+#: src-en/data/events_deepone.xml:3253
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/text"
 msgstr ""
@@ -5308,12 +5721,12 @@ msgstr ""
 "in your head, and then you realize what it is you're facing: a Soulplague "
 "Husk."
 
-#: src-en/data/events_deepone.xml:3104
+#: src-en/data/events_deepone.xml:3258
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/text"
 msgstr "Uh... what was my reward, exactly?"
 
-#: src-en/data/events_deepone.xml:3106
+#: src-en/data/events_deepone.xml:3260
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -5323,12 +5736,12 @@ msgstr ""
 "spread... love...\" The Husk staggers away, and you make a mental note to "
 "check the ship's carbon monoxide levels..."
 
-#: src-en/data/events_deepone.xml:3113
+#: src-en/data/events_deepone.xml:3267
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/text"
 msgstr "No, sorry. Not interested."
 
-#: src-en/data/events_deepone.xml:3115
+#: src-en/data/events_deepone.xml:3269
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/text"
 msgstr ""
@@ -5339,35 +5752,35 @@ msgstr ""
 "strange, wobbly advance towards you. With its weapons hot, your instincts "
 "begin to kick in... prepare for battle!"
 
-#: src-en/data/events_deepone.xml:3118
+#: src-en/data/events_deepone.xml:3272
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3137
+#: src-en/data/events_deepone.xml:3291
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/text"
 msgstr ""
 "Arriving at the distress beacon, you spot a Deep One ship off in the "
 "distance. It makes no attempt to move."
 
-#: src-en/data/events_deepone.xml:3139
+#: src-en/data/events_deepone.xml:3293
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/text"
 msgstr "Hail the ship."
 
-#: src-en/data/events_deepone.xml:3141
+#: src-en/data/events_deepone.xml:3295
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/text"
 msgstr ""
 "Your attempts to hail the ship are met with failure. They aren't denied, "
 "they just don't seem to reach the ship in the first place..."
 
-#: src-en/data/events_deepone.xml:3143
+#: src-en/data/events_deepone.xml:3297
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/text"
 msgstr "Approach the ship and inspect it."
 
-#: src-en/data/events_deepone.xml:3145
+#: src-en/data/events_deepone.xml:3299
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -5377,12 +5790,12 @@ msgstr ""
 "the wreck and its distress beacon have been drifting like this, when you "
 "notice... shuffling, amongst the wreckage?"
 
-#: src-en/data/events_deepone.xml:3147
+#: src-en/data/events_deepone.xml:3301
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Get a closer look."
 
-#: src-en/data/events_deepone.xml:3149
+#: src-en/data/events_deepone.xml:3303
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -5391,12 +5804,12 @@ msgstr ""
 "couple minutes later. It might be alive, but it still appears to be in "
 "terrible condition; it's barely holding on."
 
-#: src-en/data/events_deepone.xml:3151
+#: src-en/data/events_deepone.xml:3305
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/text"
 msgstr "(Upg. Medbay) Use your upgraded Medbay to save it."
 
-#: src-en/data/events_deepone.xml:3153
+#: src-en/data/events_deepone.xml:3307
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
@@ -5405,12 +5818,12 @@ msgstr ""
 "and thank-you's upon you, friend. Without you...\" it pauses, \"I'm afraid I"
 " would've... met my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3155
+#: src-en/data/events_deepone.xml:3309
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3157
+#: src-en/data/events_deepone.xml:3311
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
@@ -5422,12 +5835,12 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3164
+#: src-en/data/events_deepone.xml:3318
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/text"
 msgstr "(Upg. Clonebay) Use your upgraded Clonebay to save it."
 
-#: src-en/data/events_deepone.xml:3166
+#: src-en/data/events_deepone.xml:3320
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
@@ -5436,12 +5849,12 @@ msgstr ""
 "upon you, friend. Without you...\" it pauses, \"I'm afraid I would've... met"
 " my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3168
+#: src-en/data/events_deepone.xml:3322
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3170
+#: src-en/data/events_deepone.xml:3324
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
@@ -5453,12 +5866,12 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3177
+#: src-en/data/events_deepone.xml:3331
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
 msgstr "(Medical Crew) Use your medical crew to save it."
 
-#: src-en/data/events_deepone.xml:3179
+#: src-en/data/events_deepone.xml:3333
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
 msgstr ""
@@ -5467,12 +5880,12 @@ msgstr ""
 "upon you, friend. Without you...\" it pauses, \"I'm afraid I would've... met"
 " my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3181
+#: src-en/data/events_deepone.xml:3335
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3183
+#: src-en/data/events_deepone.xml:3337
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/event/text"
 msgstr ""
@@ -5484,12 +5897,12 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3190
+#: src-en/data/events_deepone.xml:3344
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/text"
 msgstr "(Medical Drone) Use a medical drone to save it."
 
-#: src-en/data/events_deepone.xml:3192
+#: src-en/data/events_deepone.xml:3346
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/text"
 msgstr ""
@@ -5498,12 +5911,12 @@ msgstr ""
 "you's upon you, friend. Without you...\" it pauses, \"I'm afraid I "
 "would've... met my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3194
+#: src-en/data/events_deepone.xml:3348
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3196
+#: src-en/data/events_deepone.xml:3350
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/event/text"
 msgstr ""
@@ -5515,12 +5928,12 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3203
+#: src-en/data/events_deepone.xml:3357
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
 msgstr "(Medical Bomb) Use a medical bomb to save it. [-1}]"
 
-#: src-en/data/events_deepone.xml:3205
+#: src-en/data/events_deepone.xml:3359
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
 msgstr ""
@@ -5529,12 +5942,12 @@ msgstr ""
 "you's upon you, friend. Without you...\" it pauses, \"I'm afraid I "
 "would've... met my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3210
+#: src-en/data/events_deepone.xml:3364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3212
+#: src-en/data/events_deepone.xml:3366
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/event/text"
 msgstr ""
@@ -5546,13 +5959,13 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3219
+#: src-en/data/events_deepone.xml:3373
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
 msgstr ""
 "(Reconstructive Teleporter) Use your Reconstructive Teleporter to save it."
 
-#: src-en/data/events_deepone.xml:3221
+#: src-en/data/events_deepone.xml:3375
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/text"
 msgstr ""
@@ -5562,12 +5975,12 @@ msgstr ""
 "you's upon you, friend. Without you...\" it pauses, \"I'm afraid I "
 "would've... met my end in that wreck.\""
 
-#: src-en/data/events_deepone.xml:3223
+#: src-en/data/events_deepone.xml:3377
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/text"
 msgstr "What happened to your ship?"
 
-#: src-en/data/events_deepone.xml:3225
+#: src-en/data/events_deepone.xml:3379
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/event/text"
 msgstr ""
@@ -5579,97 +5992,97 @@ msgstr ""
 "my aid, as I've had yours.\" With that, it turns away. You have questions, "
 "but... you're happy to have its aid."
 
-#: src-en/data/events_deepone.xml:3232
+#: src-en/data/events_deepone.xml:3386
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/text"
 msgstr "I can't save it."
 
-#: src-en/data/events_deepone.xml:3234
+#: src-en/data/events_deepone.xml:3388
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/event/text"
 msgstr ""
 "The Deep One, having suffered too much trauma, dies mere moments later. With"
 " nothing left to do, you're forced to move on. Damn it all..."
 
-#: src-en/data/events_deepone.xml:3242
+#: src-en/data/events_deepone.xml:3396
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/text"
 msgstr "Give up."
 
-#: src-en/data/events_deepone.xml:3244
+#: src-en/data/events_deepone.xml:3398
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Oh well, you tried. If they want help the least they can do is answer your "
 "calls... You turn away and prepare to leave the beacon."
 
-#: src-en/data/events_deepone.xml:3246
+#: src-en/data/events_deepone.xml:3400
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3250
+#: src-en/data/events_deepone.xml:3404
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3258
+#: src-en/data/events_deepone.xml:3412
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/text"
 msgstr "Ignore it."
 
-#: src-en/data/events_deepone.xml:3260
+#: src-en/data/events_deepone.xml:3414
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/text"
 msgstr ""
 "You've got better things to be doing than saving people. You turn away and "
 "prepare to leave the beacon."
 
-#: src-en/data/events_deepone.xml:3262
+#: src-en/data/events_deepone.xml:3416
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3266
+#: src-en/data/events_deepone.xml:3420
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3275
+#: src-en/data/events_deepone.xml:3429
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/destroyed/text"
 msgstr ""
 "Though the Deep Ones aren't here to thank you, you feel rather good about "
 "yourself as you scrap the Clansman ship."
 
-#: src-en/data/events_deepone.xml:3279
+#: src-en/data/events_deepone.xml:3433
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/deadCrew/text"
 msgstr ""
 "Though the Deep Ones aren't here to thank you, you feel rather good about "
 "yourself as you scrap the Clansman ship."
 
-#: src-en/data/events_deepone.xml:3286
+#: src-en/data/events_deepone.xml:3440
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/text"
 msgstr "The ship breaks apart and you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3289
+#: src-en/data/events_deepone.xml:3443
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3294
+#: src-en/data/events_deepone.xml:3448
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/text"
 msgstr "With the crew dead you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3297
+#: src-en/data/events_deepone.xml:3451
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3304
+#: src-en/data/events_deepone.xml:3458
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN_DEEPONE_WIN\"]/text"
 msgstr ""
@@ -5680,75 +6093,75 @@ msgstr ""
 "ssssseeing you, Fed.\" With that, the Clansmen jump out of the beacon. Not "
 "exactly a standing ovation, but they seemed thankful enough."
 
-#: src-en/data/events_deepone.xml:3309
+#: src-en/data/events_deepone.xml:3463
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/text"
 msgstr ""
 "Miraculously, you manage to escape from the fight unscathed and find "
 "somewhere quiet to keep your distance while the FTL charges."
 
-#: src-en/data/events_deepone.xml:3311
+#: src-en/data/events_deepone.xml:3465
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3315
+#: src-en/data/events_deepone.xml:3469
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3320
+#: src-en/data/events_deepone.xml:3474
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/text"
 msgstr ""
 "Though your ship catches a few stray blasts, you manage to escape from the "
 "fight and find somewhere quiet to recuperate while the FTL charges."
 
-#: src-en/data/events_deepone.xml:3323
+#: src-en/data/events_deepone.xml:3477
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3327
+#: src-en/data/events_deepone.xml:3481
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3332
+#: src-en/data/events_deepone.xml:3486
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/text"
 msgstr ""
 "Your ship catches more crossfire than you would've liked, but you do manage "
 "to escape and find somewhere quiet to recuperate while the FTL charges."
 
-#: src-en/data/events_deepone.xml:3335
+#: src-en/data/events_deepone.xml:3489
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3339
+#: src-en/data/events_deepone.xml:3493
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3344
+#: src-en/data/events_deepone.xml:3498
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/text"
 msgstr ""
 "Your ship catches more crossfire than you would've liked, but you do manage "
 "to escape and find somewhere quiet to recuperate while the FTL charges."
 
-#: src-en/data/events_deepone.xml:3347
+#: src-en/data/events_deepone.xml:3501
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3351
+#: src-en/data/events_deepone.xml:3505
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3359
+#: src-en/data/events_deepone.xml:3513
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/text"
 msgstr ""
 "Upon arriving at the distress beacon, you're immediately greeted with the "
@@ -5757,12 +6170,12 @@ msgstr ""
 "hunt for Deep Ones for sport, and you'll have to pick a side fast unless you"
 " want to get caught in the crossfire."
 
-#: src-en/data/events_deepone.xml:3361
+#: src-en/data/events_deepone.xml:3515
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/text"
 msgstr "Attack the Clansmen."
 
-#: src-en/data/events_deepone.xml:3363
+#: src-en/data/events_deepone.xml:3517
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/text"
 msgstr ""
@@ -5771,17 +6184,17 @@ msgstr ""
 "seizes the opportunity to escape and leave the system. Suppose you won't be "
 "getting any thanks..."
 
-#: src-en/data/events_deepone.xml:3366
+#: src-en/data/events_deepone.xml:3520
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3372
+#: src-en/data/events_deepone.xml:3526
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/text"
 msgstr "Attack the Deep Ones."
 
-#: src-en/data/events_deepone.xml:3374
+#: src-en/data/events_deepone.xml:3528
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/text"
 msgstr ""
@@ -5790,17 +6203,17 @@ msgstr ""
 "firing; they're watching the fight from a distance. Suppose you won't be "
 "getting any help..."
 
-#: src-en/data/events_deepone.xml:3377
+#: src-en/data/events_deepone.xml:3531
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3383
+#: src-en/data/events_deepone.xml:3537
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[3]/text"
 msgstr "Take your chances; try to escape."
 
-#: src-en/data/events_deepone.xml:3390
+#: src-en/data/events_deepone.xml:3544
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/text"
 msgstr ""
 "You arrive at the distress beacon, but the Deep One ship here quickly turns "
@@ -5808,12 +6221,12 @@ msgstr ""
 " not typically malevolent, perhaps something's made these Deep Ones "
 "desperate... regardless, it's time to defend yourself!"
 
-#: src-en/data/events_deepone.xml:3393
+#: src-en/data/events_deepone.xml:3547
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3400
+#: src-en/data/events_deepone.xml:3554
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/text"
 msgstr ""
@@ -5821,24 +6234,24 @@ msgstr ""
 "must be the source of the distress call, but nothing seems immediately wrong"
 " from this distance."
 
-#: src-en/data/events_deepone.xml:3402
+#: src-en/data/events_deepone.xml:3556
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/text"
 msgstr "Get closer and investigate."
 
-#: src-en/data/events_deepone.xml:3404
+#: src-en/data/events_deepone.xml:3558
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/text"
 msgstr ""
 "Nothing seems out of the ordinary here. Ships are flying in and out at a "
 "regular pace and Deep Ones are casually roaming the streets undisturbed."
 
-#: src-en/data/events_deepone.xml:3406
+#: src-en/data/events_deepone.xml:3560
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/text"
 msgstr "Land and narrow down the source of the distress call."
 
-#: src-en/data/events_deepone.xml:3408
+#: src-en/data/events_deepone.xml:3562
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -5850,34 +6263,34 @@ msgstr ""
 " residential district. There still isn't anything that strikes you as an "
 "emergency as you stand at the door."
 
-#: src-en/data/events_deepone.xml:3410
+#: src-en/data/events_deepone.xml:3564
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Knock."
 
-#: src-en/data/events_deepone.xml:3412
+#: src-en/data/events_deepone.xml:3566
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr "No answer is made, and you can't hear any noise from inside."
 
-#: src-en/data/events_deepone.xml:3414
+#: src-en/data/events_deepone.xml:3568
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
 msgstr "Knock again."
 
-#: src-en/data/events_deepone.xml:3416
+#: src-en/data/events_deepone.xml:3570
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "This time, you knock much louder. Something shuffles around inside, but "
 "nobody comes to answer the door."
 
-#: src-en/data/events_deepone.xml:3418
+#: src-en/data/events_deepone.xml:3572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr "Knock again..."
 
-#: src-en/data/events_deepone.xml:3420
+#: src-en/data/events_deepone.xml:3574
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -5886,12 +6299,12 @@ msgstr ""
 "your uniform before speaking, \"Federation, here... at my door? For... what "
 "purpose?\""
 
-#: src-en/data/events_deepone.xml:3422
+#: src-en/data/events_deepone.xml:3576
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
 msgstr "There's a distress call emitting from inside your house."
 
-#: src-en/data/events_deepone.xml:3424
+#: src-en/data/events_deepone.xml:3578
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -5901,12 +6314,12 @@ msgstr ""
 "seems to be in a serious amount of disrepair. \"Is this... the source of the"
 " call?\""
 
-#: src-en/data/events_deepone.xml:3426
+#: src-en/data/events_deepone.xml:3580
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
 msgstr "Indeed, that's a distress beacon."
 
-#: src-en/data/events_deepone.xml:3428
+#: src-en/data/events_deepone.xml:3582
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
@@ -5917,12 +6330,12 @@ msgstr ""
 "you, officer. I... wish there were any way I could make this... up to you, "
 "but, I don't think there is.\""
 
-#: src-en/data/events_deepone.xml:3430
+#: src-en/data/events_deepone.xml:3584
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr "(Deep One Crew) Maybe there is?"
 
-#: src-en/data/events_deepone.xml:3432
+#: src-en/data/events_deepone.xml:3586
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
@@ -5932,12 +6345,12 @@ msgstr ""
 "what that was about, but it hushes you and insists that you both wait a "
 "moment."
 
-#: src-en/data/events_deepone.xml:3434
+#: src-en/data/events_deepone.xml:3588
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr "We'll wait, then."
 
-#: src-en/data/events_deepone.xml:3436
+#: src-en/data/events_deepone.xml:3590
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
@@ -5949,12 +6362,12 @@ msgstr ""
 " abandon everything it has going on here, but... you're not one to turn down"
 " new deckhands."
 
-#: src-en/data/events_deepone.xml:3444
+#: src-en/data/events_deepone.xml:3598
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr "(Free Mantis Crew) \"Do not doubts traveler-salesing!\""
 
-#: src-en/data/events_deepone.xml:3446
+#: src-en/data/events_deepone.xml:3600
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
@@ -5968,12 +6381,12 @@ msgstr ""
 "mind, but you're not one to turn down hospitality. You accept the reward, "
 "bidding the Deep One farewell, and then begin your trek back to the ship."
 
-#: src-en/data/events_deepone.xml:3451
+#: src-en/data/events_deepone.xml:3605
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Slug Crew) \"Heh, typical sssscam!\""
 
-#: src-en/data/events_deepone.xml:3453
+#: src-en/data/events_deepone.xml:3607
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
@@ -5991,12 +6404,12 @@ msgstr ""
 "You accept the reward, bidding the Deep One farewell, and then begin your "
 "trek back to the ship."
 
-#: src-en/data/events_deepone.xml:3458
+#: src-en/data/events_deepone.xml:3612
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr "(Engineer Crew) Have your engineer inspect the beacon."
 
-#: src-en/data/events_deepone.xml:3460
+#: src-en/data/events_deepone.xml:3614
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
@@ -6012,12 +6425,12 @@ msgstr ""
 "accept the reward, bidding the Deep One farewell, and then begin your trek "
 "back to the ship."
 
-#: src-en/data/events_deepone.xml:3465
+#: src-en/data/events_deepone.xml:3619
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/text"
 msgstr "You wouldn't happen to have any... junk lying around, would you?"
 
-#: src-en/data/events_deepone.xml:3467
+#: src-en/data/events_deepone.xml:3621
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
@@ -6028,12 +6441,12 @@ msgstr ""
 " but you do get to break down the beacon and get the barest amount of "
 "something out of it..."
 
-#: src-en/data/events_deepone.xml:3478
+#: src-en/data/events_deepone.xml:3632
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
 msgstr "Enough of this, break the door down!"
 
-#: src-en/data/events_deepone.xml:3480
+#: src-en/data/events_deepone.xml:3634
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -6042,12 +6455,12 @@ msgstr ""
 "uniform before speaking, \"Federation, here... at my door? For... what "
 "purpose?\""
 
-#: src-en/data/events_deepone.xml:3482
+#: src-en/data/events_deepone.xml:3636
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
 msgstr "There's a distress call emitting from inside your house."
 
-#: src-en/data/events_deepone.xml:3484
+#: src-en/data/events_deepone.xml:3638
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -6057,12 +6470,12 @@ msgstr ""
 "seems to be in a serious amount of disrepair. \"Is this... the source of the"
 " call?\""
 
-#: src-en/data/events_deepone.xml:3486
+#: src-en/data/events_deepone.xml:3640
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/text"
 msgstr "Indeed, that's a distress beacon."
 
-#: src-en/data/events_deepone.xml:3488
+#: src-en/data/events_deepone.xml:3642
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -6073,12 +6486,12 @@ msgstr ""
 "you, officer. I... wish there were any way I could make this... up to you, "
 "but, I don't think there is.\""
 
-#: src-en/data/events_deepone.xml:3490
+#: src-en/data/events_deepone.xml:3644
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr "(Deep One Crew) Maybe there is?"
 
-#: src-en/data/events_deepone.xml:3492
+#: src-en/data/events_deepone.xml:3646
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
@@ -6088,12 +6501,12 @@ msgstr ""
 "what that was about, but it hushes you and insists that you both wait a "
 "moment."
 
-#: src-en/data/events_deepone.xml:3494
+#: src-en/data/events_deepone.xml:3648
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr "We'll wait, then."
 
-#: src-en/data/events_deepone.xml:3496
+#: src-en/data/events_deepone.xml:3650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
@@ -6105,12 +6518,12 @@ msgstr ""
 " abandon everything it has going on here, but... you're not one to turn down"
 " new deckhands."
 
-#: src-en/data/events_deepone.xml:3504
+#: src-en/data/events_deepone.xml:3658
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr "(Free Mantis Crew) \"Do not doubts traveler-salesing!\""
 
-#: src-en/data/events_deepone.xml:3506
+#: src-en/data/events_deepone.xml:3660
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
@@ -6124,12 +6537,12 @@ msgstr ""
 "mind, but you're not one to turn down hospitality. You accept the reward, "
 "bidding the Deep One farewell, and then begin your trek back to the ship."
 
-#: src-en/data/events_deepone.xml:3511
+#: src-en/data/events_deepone.xml:3665
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Slug Crew) \"Heh, typical sssscam!\""
 
-#: src-en/data/events_deepone.xml:3513
+#: src-en/data/events_deepone.xml:3667
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
@@ -6147,12 +6560,12 @@ msgstr ""
 "You accept the reward, bidding the Deep One farewell, and then begin your "
 "trek back to the ship."
 
-#: src-en/data/events_deepone.xml:3518
+#: src-en/data/events_deepone.xml:3672
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr "(Engineer Crew) Have your engineer inspect the beacon."
 
-#: src-en/data/events_deepone.xml:3520
+#: src-en/data/events_deepone.xml:3674
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
@@ -6168,12 +6581,12 @@ msgstr ""
 "accept the reward, bidding the Deep One farewell, and then begin your trek "
 "back to the ship."
 
-#: src-en/data/events_deepone.xml:3525
+#: src-en/data/events_deepone.xml:3679
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/text"
 msgstr "You wouldn't happen to have any... junk lying around, would you?"
 
-#: src-en/data/events_deepone.xml:3527
+#: src-en/data/events_deepone.xml:3681
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
@@ -6184,12 +6597,12 @@ msgstr ""
 " but you do get to break down the beacon and get the barest amount of "
 "something out of it..."
 
-#: src-en/data/events_deepone.xml:3540
+#: src-en/data/events_deepone.xml:3694
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
 msgstr "Break the door down."
 
-#: src-en/data/events_deepone.xml:3542
+#: src-en/data/events_deepone.xml:3696
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
@@ -6201,12 +6614,12 @@ msgstr ""
 "in terror, it runs past you and through the hole you've just created. "
 "Suppose you won't get a chance to explain yourself..."
 
-#: src-en/data/events_deepone.xml:3544
+#: src-en/data/events_deepone.xml:3698
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/text"
 msgstr "Uh oh."
 
-#: src-en/data/events_deepone.xml:3546
+#: src-en/data/events_deepone.xml:3700
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -6217,12 +6630,12 @@ msgstr ""
 "gotten out of control... and they're only going to get worse unless you get "
 "out of here quickly!"
 
-#: src-en/data/events_deepone.xml:3548
+#: src-en/data/events_deepone.xml:3702
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
 msgstr "It's time to leave!"
 
-#: src-en/data/events_deepone.xml:3550
+#: src-en/data/events_deepone.xml:3704
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -6231,76 +6644,76 @@ msgstr ""
 "a Deep One ship begins to tail you; looks like you're not getting out of "
 "this without a fight... and to think, you were just trying to help!"
 
-#: src-en/data/events_deepone.xml:3553
+#: src-en/data/events_deepone.xml:3707
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3567
+#: src-en/data/events_deepone.xml:3721
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/text"
 msgstr "Must be a false alarm."
 
-#: src-en/data/events_deepone.xml:3569
+#: src-en/data/events_deepone.xml:3723
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Everything seems to be in order here. Satisfied, you turn away from the "
 "settlement and prepare to leave the system."
 
-#: src-en/data/events_deepone.xml:3571
+#: src-en/data/events_deepone.xml:3725
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3575
+#: src-en/data/events_deepone.xml:3729
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3583
+#: src-en/data/events_deepone.xml:3737
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/text"
 msgstr "Not interested."
 
-#: src-en/data/events_deepone.xml:3585
+#: src-en/data/events_deepone.xml:3739
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/text"
 msgstr ""
 "You can't afford to be distracted, you have a mission to complete. Turning "
 "away from the settlement, you prepare to leave the system."
 
-#: src-en/data/events_deepone.xml:3587
+#: src-en/data/events_deepone.xml:3741
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3591
+#: src-en/data/events_deepone.xml:3745
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3600
+#: src-en/data/events_deepone.xml:3754
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/text"
 msgstr "The ship breaks apart and you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3603
+#: src-en/data/events_deepone.xml:3757
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3608
+#: src-en/data/events_deepone.xml:3762
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/text"
 msgstr "With the crew dead you quickly salvage what you can."
 
-#: src-en/data/events_deepone.xml:3611
+#: src-en/data/events_deepone.xml:3765
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3618
+#: src-en/data/events_deepone.xml:3772
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/text"
 msgstr ""
@@ -6311,12 +6724,12 @@ msgstr ""
 "it is, or what exactly's going on, but you know you've got to get out of "
 "here, and fast!"
 
-#: src-en/data/events_deepone.xml:3627
+#: src-en/data/events_deepone.xml:3781
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/text"
 msgstr "Make a break for it!"
 
-#: src-en/data/events_deepone.xml:3629
+#: src-en/data/events_deepone.xml:3783
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/event/text"
 msgstr ""
@@ -6324,7 +6737,7 @@ msgstr ""
 "and more Soulplague Husks begin to flood in from the resulting breaches. "
 "They're trying to prevent your getaway!"
 
-#: src-en/data/events_deepone.xml:3638
+#: src-en/data/events_deepone.xml:3792
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/text"
 msgstr ""
@@ -6332,12 +6745,12 @@ msgstr ""
 "as its matter twists and writhes... as it takes on a new form. Rather than "
 "any being, though, it instead resembles some sort of oily weapon..."
 
-#: src-en/data/events_deepone.xml:3641
+#: src-en/data/events_deepone.xml:3795
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/text"
 msgstr "What in the hell is going on...?"
 
-#: src-en/data/events_deepone.xml:3643
+#: src-en/data/events_deepone.xml:3797
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/text"
 msgstr ""
@@ -6348,12 +6761,12 @@ msgstr ""
 "it is, or what exactly's going on, but you know you've got to get out of "
 "here, and fast!"
 
-#: src-en/data/events_deepone.xml:3652
+#: src-en/data/events_deepone.xml:3806
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/text"
 msgstr "Make a break for it!"
 
-#: src-en/data/events_deepone.xml:3654
+#: src-en/data/events_deepone.xml:3808
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/event/text"
 msgstr ""
@@ -6361,7 +6774,7 @@ msgstr ""
 "and more Soulplague Husks begin to flood in from the resulting breaches. "
 "They're trying to prevent your getaway!"
 
-#: src-en/data/events_deepone.xml:3666
+#: src-en/data/events_deepone.xml:3820
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/text"
 msgstr ""
@@ -6369,12 +6782,12 @@ msgstr ""
 " beacon and are met with a Deep One ship. Its engines are off, but it "
 "otherwise appears to be powered... what exactly do they need help with?"
 
-#: src-en/data/events_deepone.xml:3669
+#: src-en/data/events_deepone.xml:3823
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/text"
 msgstr "Hail the drifting ship."
 
-#: src-en/data/events_deepone.xml:3671
+#: src-en/data/events_deepone.xml:3825
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/text"
 msgstr ""
@@ -6386,13 +6799,13 @@ msgstr ""
 "they're aware that they've been hailed, they don't seem to want to act on "
 "it. Or do much of anything, really. They're just standing there."
 
-#: src-en/data/events_deepone.xml:3673
+#: src-en/data/events_deepone.xml:3827
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 "(Soulplague Crew) Have your Soulplague-aligned crew member gurgle back."
 
-#: src-en/data/events_deepone.xml:3675
+#: src-en/data/events_deepone.xml:3829
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
@@ -6402,12 +6815,12 @@ msgstr ""
 "room... then, their ship's engines roar to life! Whatever the hell's going "
 "on, they seem to be making a move on your ship. Get ready!"
 
-#: src-en/data/events_deepone.xml:3679
+#: src-en/data/events_deepone.xml:3833
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3681
+#: src-en/data/events_deepone.xml:3835
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/text"
 msgstr ""
@@ -6417,17 +6830,17 @@ msgstr ""
 "your crew member's gurgling somehow convinced it to do so. Still, its allies"
 " don't seem to be so agreeable!"
 
-#: src-en/data/events_deepone.xml:3684
+#: src-en/data/events_deepone.xml:3838
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3692
+#: src-en/data/events_deepone.xml:3846
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/text"
 msgstr "Clear your throat."
 
-#: src-en/data/events_deepone.xml:3694
+#: src-en/data/events_deepone.xml:3848
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -6437,39 +6850,39 @@ msgstr ""
 "their ship's engines roar to life! Whatever the hell's going on, they seem "
 "to be making a move on your ship. Get ready!"
 
-#: src-en/data/events_deepone.xml:3698
+#: src-en/data/events_deepone.xml:3852
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3704
+#: src-en/data/events_deepone.xml:3858
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/text"
 msgstr "Cut the call. This is weird."
 
-#: src-en/data/events_deepone.xml:3706
+#: src-en/data/events_deepone.xml:3860
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 "Indeed, you end communications with the strange Deep Ones and aren't once "
 "bothered by them as you prepare to leave the beacon."
 
-#: src-en/data/events_deepone.xml:3708
+#: src-en/data/events_deepone.xml:3862
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3712
+#: src-en/data/events_deepone.xml:3866
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3720
+#: src-en/data/events_deepone.xml:3874
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/text"
 msgstr "Attack the ship, before they realize you're here."
 
-#: src-en/data/events_deepone.xml:3722
+#: src-en/data/events_deepone.xml:3876
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/text"
 msgstr ""
@@ -6478,39 +6891,39 @@ msgstr ""
 "opposing ship's engines roar to life! Whatever the hell's going on, they "
 "seem to be making a move on your ship. Get ready!"
 
-#: src-en/data/events_deepone.xml:3725
+#: src-en/data/events_deepone.xml:3879
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3731
+#: src-en/data/events_deepone.xml:3885
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/text"
 msgstr "Ignore them. If they want help, they can ask for it."
 
-#: src-en/data/events_deepone.xml:3733
+#: src-en/data/events_deepone.xml:3887
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/text"
 msgstr ""
 "And, yet... they don't ask for it. You're left completely undisturbed as you"
 " sit there, preparing to leave the beacon."
 
-#: src-en/data/events_deepone.xml:3735
+#: src-en/data/events_deepone.xml:3889
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[1]/text"
 msgstr "Do something onboard the ship."
 
-#: src-en/data/events_deepone.xml:3739
+#: src-en/data/events_deepone.xml:3893
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[2]/text"
 msgstr "Do nothing."
 
-#: src-en/data/events_deepone.xml:3761
+#: src-en/data/events_deepone.xml:3915
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_DEEP\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3767
+#: src-en/data/events_deepone.xml:3921
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[1]"
 msgstr ""
@@ -6519,7 +6932,7 @@ msgstr ""
 " aggressors... Regardless of what's got them on edge, you have to defend "
 "yourself!"
 
-#: src-en/data/events_deepone.xml:3768
+#: src-en/data/events_deepone.xml:3922
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[2]"
 msgstr ""
@@ -6527,7 +6940,7 @@ msgstr ""
 "welcome here. This space... is sacred!\" You must be encroaching on their "
 "territory, and they see it fit to have you removed by force!"
 
-#: src-en/data/events_deepone.xml:3769
+#: src-en/data/events_deepone.xml:3923
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[3]"
 msgstr ""
@@ -6535,12 +6948,12 @@ msgstr ""
 "messages that all say the same thing: \"TRIBUTE.\" Vague and ominous, but "
 "one thing's for sure; it's time for battle."
 
-#: src-en/data/events_deepone.xml:3776
+#: src-en/data/events_deepone.xml:3930
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_THEOCRACY\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3782
+#: src-en/data/events_deepone.xml:3936
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[1]"
 msgstr ""
@@ -6550,7 +6963,7 @@ msgstr ""
 "you and allow the Deep One ship to escape. A thankless job, being a "
 "distraction..."
 
-#: src-en/data/events_deepone.xml:3783
+#: src-en/data/events_deepone.xml:3937
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[2]"
 msgstr ""
@@ -6558,7 +6971,7 @@ msgstr ""
 " towards you; it seems they're keen to prey on more than just the Deep Ones."
 " Show them what happens when you try to prey on an apex predator."
 
-#: src-en/data/events_deepone.xml:3784
+#: src-en/data/events_deepone.xml:3938
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[3]"
 msgstr ""
@@ -6566,12 +6979,12 @@ msgstr ""
 " for themselves.\" With that, a Theocracy ship flies into view and prepares "
 "to engage."
 
-#: src-en/data/events_deepone.xml:3791
+#: src-en/data/events_deepone.xml:3945
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_PIRATE\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3797
+#: src-en/data/events_deepone.xml:3951
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[1]"
 msgstr ""
@@ -6579,7 +6992,7 @@ msgstr ""
 "vaguely controlled territory that is Deep One space. One comes at you now, "
 "weapons hot!"
 
-#: src-en/data/events_deepone.xml:3798
+#: src-en/data/events_deepone.xml:3952
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[2]"
 msgstr ""
@@ -6588,7 +7001,7 @@ msgstr ""
 "seems confident in its ability to take you on; it approaches, ready to "
 "attack."
 
-#: src-en/data/events_deepone.xml:3799
+#: src-en/data/events_deepone.xml:3953
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[3]"
 msgstr ""
@@ -6597,12 +7010,12 @@ msgstr ""
 "preternatural instincts or blind luck, seconds later, a pirate ship reveals "
 "itself from behind a nearby satellite and moves in to attack!"
 
-#: src-en/data/events_deepone.xml:3806
+#: src-en/data/events_deepone.xml:3960
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_REBEL\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3812
+#: src-en/data/events_deepone.xml:3966
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[1]"
 msgstr ""
@@ -6611,7 +7024,7 @@ msgstr ""
 "work for them. Likewise, there's nothing stopping you from making short work"
 " of them."
 
-#: src-en/data/events_deepone.xml:3813
+#: src-en/data/events_deepone.xml:3967
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[2]"
 msgstr ""
@@ -6620,7 +7033,7 @@ msgstr ""
 "Ones, let alone in empty space, but you're not given much of a chance to "
 "think about it; here it comes!"
 
-#: src-en/data/events_deepone.xml:3814
+#: src-en/data/events_deepone.xml:3968
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[3]"
 msgstr ""
@@ -6629,12 +7042,12 @@ msgstr ""
 " \"...62103. Protocol: Neutralization.\" With that, it bares its weapons and"
 " begins its assault."
 
-#: src-en/data/events_deepone.xml:3821
+#: src-en/data/events_deepone.xml:3975
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_LANIUS\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_deepone.xml:3827
+#: src-en/data/events_deepone.xml:3981
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[1]"
 msgstr ""
@@ -6643,7 +7056,7 @@ msgstr ""
 " of metal left... they must not all be content with their meal, however; one"
 " of the ships breaks off from the wreck and decides you're its next feast!"
 
-#: src-en/data/events_deepone.xml:3828
+#: src-en/data/events_deepone.xml:3982
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[2]"
 msgstr ""
@@ -6652,7 +7065,7 @@ msgstr ""
 "fleets, the Lanius are practically free to roam and eat what they like. "
 "Unfortunately for you, that includes Renegades!"
 
-#: src-en/data/events_deepone.xml:3829
+#: src-en/data/events_deepone.xml:3983
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[3]"
 msgstr ""
@@ -6660,65 +7073,65 @@ msgstr ""
 "lacking, \"Eaten need, not eat, eat. Thank.\" Moments later, their weapons "
 "go online and they begin their assault!"
 
-#: src-en/data/events_deepone.xml:3835
+#: src-en/data/events_deepone.xml:3989
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[1]/text"
 msgstr "Accept their offer."
 
-#: src-en/data/events_deepone.xml:3842
+#: src-en/data/events_deepone.xml:3996
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[2]/text"
 msgstr "We will not accept surrender!"
 
-#: src-en/data/events_deepone.xml:3848
+#: src-en/data/events_deepone.xml:4002
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
 "The Deep Ones, as hot-headed as they are, still don't have complete "
 "disregard for their lives. They're offering a surrender."
 
-#: src-en/data/events_deepone.xml:3849
+#: src-en/data/events_deepone.xml:4003
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
 "You receive several messages that are composed of complete gibberish and "
 "accompanied by bribes. You assume this is their idea of surrendering."
 
-#: src-en/data/events_deepone.xml:3850
+#: src-en/data/events_deepone.xml:4004
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
 "The Deep Ones hail and struggle to speak your tongue, \"For...give... "
 "Please.\""
 
-#: src-en/data/events_deepone.xml:3851
+#: src-en/data/events_deepone.xml:4005
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
 "In a moment of clarity, the Deep Ones forget their rage for but a moment and"
 " plead for their lives."
 
-#: src-en/data/events_deepone.xml:3852
+#: src-en/data/events_deepone.xml:4006
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
 "As the opposing Deep One ship buckles and begins to collapse, you receive a "
 "desperate hail for surrender."
 
-#: src-en/data/events_deepone.xml:3853
+#: src-en/data/events_deepone.xml:4007
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
 "Fear's not a look that well-suits the Deep Ones. Nevertheless, they cower "
 "before you, begging to be spared."
 
-#: src-en/data/events_deepone.xml:3857
+#: src-en/data/events_deepone.xml:4011
 msgid "data/events_deepone.xml$//event[@name=\"DEEPONE_ESCAPE\"]/text"
 msgstr ""
 "Your scanners are picking up FTL signatures, the Deep Ones are trying to "
 "escape!"
 
-#: src-en/data/events_deepone.xml:3867
+#: src-en/data/events_deepone.xml:4021
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[1]"
 msgstr ""
@@ -6726,21 +7139,21 @@ msgstr ""
 "would've been better off had they never left the water if the likes of you "
 "are all that awaits them in space."
 
-#: src-en/data/events_deepone.xml:3868
+#: src-en/data/events_deepone.xml:4022
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[2]"
 msgstr ""
 "The Deep One ship sends one last hail as it splits into two, yet your "
 "translator can't even begin to decipher it."
 
-#: src-en/data/events_deepone.xml:3869
+#: src-en/data/events_deepone.xml:4023
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[3]"
 msgstr ""
 "During the scrapping operation, your crew comments that the lights adorning "
 "the Deep Ones' hull appear to never die. You find that quite ironic."
 
-#: src-en/data/events_deepone.xml:3870
+#: src-en/data/events_deepone.xml:4024
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[4]"
 msgstr ""
@@ -6748,14 +7161,14 @@ msgstr ""
 "ship. The Deep Ones have fine taste in ship architecture, yet they have "
 "finer scrap."
 
-#: src-en/data/events_deepone.xml:3871
+#: src-en/data/events_deepone.xml:4025
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[5]"
 msgstr ""
 "Though you barely understand the creatures you've just blown up, you can't "
 "help but feel like it didn't have to end this way."
 
-#: src-en/data/events_deepone.xml:3872
+#: src-en/data/events_deepone.xml:4026
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[6]"
 msgstr ""
@@ -6763,14 +7176,14 @@ msgstr ""
 " eliminated. There's a certain lingering dread that accompanies those in the"
 " presence of the Deep Ones..."
 
-#: src-en/data/events_deepone.xml:3873
+#: src-en/data/events_deepone.xml:4027
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[7]"
 msgstr ""
 "The ship breaks apart much more violently than you expected it to, sending "
 "cyan debris in all directions. Or was it turquoise?"
 
-#: src-en/data/events_deepone.xml:3882
+#: src-en/data/events_deepone.xml:4036
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[1]"
 msgstr ""
@@ -6778,7 +7191,7 @@ msgstr ""
 "Deep Ones would've been better off had they never left the water if the "
 "likes of you are all that awaits them in space."
 
-#: src-en/data/events_deepone.xml:3883
+#: src-en/data/events_deepone.xml:4037
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[2]"
 msgstr ""
@@ -6786,14 +7199,14 @@ msgstr ""
 "gaze and mutters something before collapsing, yet your translator can't even"
 " begin to decipher it."
 
-#: src-en/data/events_deepone.xml:3884
+#: src-en/data/events_deepone.xml:4038
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[3]"
 msgstr ""
 "During the scrapping operation, your crew comments that the lights adorning "
 "the Deep Ones' halls appear to never die. You find that quite ironic."
 
-#: src-en/data/events_deepone.xml:3885
+#: src-en/data/events_deepone.xml:4039
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[4]"
 msgstr ""
@@ -6801,14 +7214,14 @@ msgstr ""
 "now-empty ship. The Deep Ones have fine taste in ship architecture, yet they"
 " have finer scrap."
 
-#: src-en/data/events_deepone.xml:3886
+#: src-en/data/events_deepone.xml:4040
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[5]"
 msgstr ""
 "Though you barely understand the creatures you've just slaughtered, you "
 "can't help but feel like it didn't have to end this way."
 
-#: src-en/data/events_deepone.xml:3887
+#: src-en/data/events_deepone.xml:4041
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[6]"
 msgstr ""
@@ -6816,7 +7229,7 @@ msgstr ""
 "eliminated. There's a certain lingering dread that accompanies those in the "
 "presence of the Deep Ones..."
 
-#: src-en/data/events_deepone.xml:3888
+#: src-en/data/events_deepone.xml:4042
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[7]"
 msgstr ""
