@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 13:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 13:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -24,17 +24,16 @@ msgstr ""
 "передвижения и скорость саботажа абордажников снижаются на 15%."
 
 #: src-en/data/hyperspace.xml.append:10
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[2]/tooltip"
 msgstr ""
 "СТРАШНЫЕ ФОНАРИ:\n"
-"У этого врага установлены Страшные фонари. Они менее устойчивы, чем другие, "
-"имеют 20% шанс свести на нет ионный урон, но источают зловещую энергию, "
-"которая снижает скорость передвижения абордажников на 50% и скорость их "
-"саботажа на 15%, а также увеличивает скорость передвижения союзников (на "
-"этом корабле) на 15%."
+"У этого врага установлены Страшные фонари. Они менее устойчивы, чем Фонари "
+"глубоководных, имеют 20% шанс свести на нет ионный урон, но источают "
+"зловещую энергию, которая снижает скорость передвижения абордажников на 50% "
+"и скорость их саботажа на 15%, а также увеличивает скорость передвижения "
+"противников (на их корабле) на 15%."
 
 #: src-en/data/hyperspace.xml.append:15
 msgid ""
@@ -89,7 +88,6 @@ msgstr ""
 "монстров."
 
 #: src-en/data/hyperspace.xml.append:35
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
@@ -99,8 +97,8 @@ msgstr ""
 "эльдрическая сила снижает скорость передвижения абордажников на 50%, "
 "скорость саботажа - на 30%, а также накладывает на них дебафф Утонуть в "
 "глубине, еще больше замедляющий скорость передвижения, не дающий "
-"воспользоваться и восстанавливать способности. Кроме того, их экипаж находит "
-"эту тьму теплой и успокаивающей, обеспечивая исцеление со скоростью 1.8 ОЗ/с."
+"воспользоваться и восстанавливать способности. Кроме того, враги находят эту "
+"тьму теплой и успокаивающей, обеспечивая исцеление со скоростью 1.8 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
@@ -133,6 +131,10 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
+"ДЕРЕВО ИЛЛ'ДРИТКОВ:\n"
+"От этого вражеского корабля и его странных обитателей исходит зловещий "
+"туман. Если ваш экипаж окажется в заполненных им помещениях, он будет "
+"ослеплен и не сможет уничтожить вражеские статуи Илл’дритков."
 
 #: src-en/data/hyperspace.xml.append:1485
 msgid ""
@@ -347,7 +349,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deepone\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА: 30с ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 95 ОЗ]\n"
+"[ПЕРЕЗАРЯДКА: 30с  ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 95 ОЗ]\n"
 "\t\t\t\tВпадает в безумие, замедляясь и теряя способность к управлению и "
 "ремонту, но получая следующие преимущества:\n"
 "\t\t\t\t-1.8x урон в бою\n"
@@ -408,7 +410,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:120с ДЛИТЕЛЬНОСТЬ:21с]\n"
+"[ПЕРЕЗАРЯДКА:120с  ДЛИТЕЛЬНОСТЬ:21с]\n"
 "\t\t\tОбманом заставляет Темного Бога разорвать его душу, заставляя ее "
 "бушевать в виде разрыва пространства-времени, с повреждениями корпуса/"
 "системы, ионным уроном, оглушением, пробоинами, дебаффами по всему кораблю и "
@@ -446,7 +448,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"blobdeepone\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА: 30с ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 70 ОЗ]\n"
+"[ПЕРЕЗАРЯДКА: 30с  ДЛИТЕЛЬНОСТЬ: 30с НЕОБХОДИМО МЕНЬШЕ 70 ОЗ]\n"
 "\t\t\t\tВпадает в безумие, замедляясь и теряя способность к управлению и "
 "ремонту, но получая следующие преимущества:\n"
 "\t\t\t\t-1.8x урон в бою\n"
@@ -573,7 +575,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Маяк скорости"
 
 #: src-en/data/hyperspace.xml.append:7053
 msgid ""
@@ -586,12 +588,16 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, увеличивая на 30% (от стандартного) урона и скорости саботажа "
+"всем союзным энджи на любом корабле. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:7062
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Атакующий маяк"
 
 #: src-en/data/hyperspace.xml.append:7190
 msgid ""
@@ -604,12 +610,17 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ОПАСНОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, увеличивая на 50% (от стандартной) скорость ремонта и добавляет "
+"мультипликативное 0.77х сопротивление урону всем союзным энджи на любом "
+"корабле. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:7199
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Защитный маяк"
 
 #: src-en/data/hyperspace.xml.append:7329
 msgid ""
@@ -622,1056 +633,1378 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, добавляет мультипликативное 0.5х сопротивление опасностям "
+"(огонь/удушье) всем союзным энджи на любом корабле и исцеляет их на 1 ОЗ/с. "
+"Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:7338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Маяк опасности"
 
 #: src-en/data/hyperspace.xml.append:7494
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОЧИСТКА"
 
 #: src-en/data/hyperspace.xml.append:7495
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:11с]\n"
+"\t\t\t\tИспользует свой свет, чтобы нанести удар по вражескому кораблю, "
+"нанося системный урон, вызывая возгорание и накладывая на отсеки эффект "
+"Божественного гнева."
 
 #: src-en/data/hyperspace.xml.append:7521
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОЧИСТКА"
 
 #: src-en/data/hyperspace.xml.append:7522
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:19с]\n"
+"\t\t\t\tИспользует свой свет, чтобы нанести удар по вражескому кораблю, "
+"нанося системный урон, вызывая возгорание и накладывая на отсеки эффект "
+"Божественного гнева."
 
 #: src-en/data/hyperspace.xml.append:7570
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОПУСТОШИТЬ"
 
 #: src-en/data/hyperspace.xml.append:7571
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:15с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\tЭта способность заряжается, когда в отсеке есть враги, и автоматически "
+"используется, когда в отсеке находится враг, если у Голода меньше 200 "
+"здоровья.\n"
+"\t\t\tГолод запирует отсек и устанавливает маяк, который заставляет его (и "
+"всех остальных союзных энджи) впасть в неистовое буйство, пожирая всех "
+"врагов внутри и используя их в качестве пищи для восстановления своего "
+"здоровья. Невозможно управлять или телепортироваться во время буйства."
 
 #: src-en/data/hyperspace.xml.append:7579
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Маяк буйства"
 
 #: src-en/data/hyperspace.xml.append:7633
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОПУСТОШИТЬ"
 
 #: src-en/data/hyperspace.xml.append:7634
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\tЭта способность заряжается, когда в отсеке есть враги, и автоматически "
+"используется, когда в отсеке находится враг, если у Голода меньше 50 "
+"здоровья.\n"
+"\t\t\tГолод запирует отсек и устанавливает маяк, который заставляет его (и "
+"всех остальных союзных энджи) впасть в неистовое буйство, пожирая всех "
+"врагов внутри и используя их в качестве пищи для восстановления своего "
+"здоровья. Невозможно управлять или телепортироваться во время буйства."
 
 #: src-en/data/hyperspace.xml.append:7642
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Маяк буйства"
 
 #: src-en/data/hyperspace.xml.append:8117
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8118
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8188
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8189
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8248
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8249
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8320
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8321
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8380
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_a\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8381
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_a\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8451
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_a\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8452
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_a\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8511
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8512
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8518
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:8597
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_b\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8598
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_b\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8657
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_c\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8658
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_c\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8728
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_c\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8729
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_c\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8789
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8790
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:8796
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:8875
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ad\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:8876
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ad\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:8935
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ae\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:8936
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ae\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9006
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ae\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9007
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ae\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9066
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_af\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9067
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_af\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9137
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_af\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9138
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_af\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9197
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ag\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9198
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ag\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9268
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ag\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9269
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ag\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9329
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9330
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9336
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:9351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:9430
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9431
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bd\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9490
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9491
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9497
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:9576
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_be\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9577
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_be\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9636
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9637
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9643
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:9722
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9723
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bf\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9782
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9783
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9789
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:9868
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:9869
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bg\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:9929
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:9930
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:9936
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:10015
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10016
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cd\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10075
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ce\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10076
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ce\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10146
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ce\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10147
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ce\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10206
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10207
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cf\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10277
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10278
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cf\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10337
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cg\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10408
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10409
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cg\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10469
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10470
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10476
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:10555
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_adj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10556
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_adj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10615
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_aej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10616
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_aej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10686
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_aej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10687
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_aej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10746
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_afj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10747
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_afj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10817
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_afj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10818
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_afj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:10877
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_agj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:10878
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_agj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:10948
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_agj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:10949
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_agj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11009
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11010
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11016
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11031
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11110
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11111
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bdj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11170
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11171
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11177
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11256
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11257
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11316
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11317
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11402
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11403
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bfj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11462
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11463
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11469
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11548
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11549
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bgj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11609
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11610
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11616
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:11695
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11696
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cdj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11755
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11756
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11826
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11827
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cej\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:11886
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:11887
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cfj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:11957
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:11958
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cfj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:12017
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗЛОМ"
 
 #: src-en/data/hyperspace.xml.append:12018
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cgj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПробивает дыру в пространстве-времени, создавая разлом в царство "
+"Темного Бога на вражеском корабле. Разлом будет периодически извергать "
+"хаотические разряды энергии, проявляющиеся в виде кошмарных теней, однако "
+"если разлом будет уничтожен, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:12088
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БОЛТ"
 
 #: src-en/data/hyperspace.xml.append:12089
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cgj\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tВыпускает хаотический болт энергии, который проявляется в виде "
+"кошмарных теней."
 
 #: src-en/data/hyperspace.xml.append:12163
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_terror\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТЕРРОР-ИЗ"
 
 #: src-en/data/hyperspace.xml.append:12164
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_terror\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:16с]\n"
+"\t\t\tВызывает пробоину... как ужас-но... для них..."
 
 #: src-en/data/hyperspace.xml.append:12259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greaterpriest\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ГАЗ"
 
 #: src-en/data/hyperspace.xml.append:12260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greaterpriest\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:10с]\n"
+"\t\t\tПривлекает внимание Темного Бога к себе и своим собратьям-кошмарам на "
+"любом корабле, даруя им защиту в виде увеличенной на 50% скорости исцеления "
+"и сопротивления боевому урону."
 
 #: src-en/data/hyperspace.xml.append:12321
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_stalker\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПРЕСЛ"
 
 #: src-en/data/hyperspace.xml.append:12322
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_stalker\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с  ДЛИТЕЛЬНОСТЬ:7с]\n"
+"\t\t\tПостоянно переходит в состояние невидимости и обратно."
 
 #: src-en/data/hyperspace.xml.append:12472
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermass\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Кошмар"
 
 #: src-en/data/hyperspace.xml.append:12522
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_martyr\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ДЕТОНАЦИЯ"
 
 #: src-en/data/hyperspace.xml.append:12523
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_martyr\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:1с]\n"
+"\t\t\t\tВзрывается, когда достигает врага, наносит 15 ед. урона, оглушает на "
+"4 секунды и наносит 1 ед. системного урона. Без дружественного огня."
 
 #: src-en/data/hyperspace.xml.append:12572
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermartyr\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ДЕТОНАЦИЯ"
 
 #: src-en/data/hyperspace.xml.append:12573
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermartyr\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:1с]\n"
+"\t\t\t\tВзрывается, когда достигает врага, наносит 30 ед. урона, оглушает на "
+"6 секунд, наносит 2 ед. системного урона, запирает отсек и с вероятностью "
+"60% вызывает возгорание. Без дружественного огня."
 
 #: src-en/data/hyperspace.xml.append:12645
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УЛЬТИМА"
 
 #: src-en/data/hyperspace.xml.append:12646
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:40с ДЛИТЕЛЬНОСТЬ: 13с]\n"
+"\t\t\t\tПереполненная Ультима силой, Ультимы броня выходит за пределы своих "
+"возможностей и быстро регенерирует, становясь практически неуязвимой, "
+"неподвижной, неспособной действовать. Одновременно вызывается Вихрь Бури и "
+"наносит огромный ионный урон помещению (если оно находится на корабле "
+"противника), а также поражает всех врагов на том же корабле Потреблением "
+"Ультимы, заменяя их способности на те, которые периодически наносят им урон "
+"и вызывают Бурю молний, направленные на вас."
 
 #: src-en/data/hyperspace.xml.append:12742
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УЛЬТИМА"
 
 #: src-en/data/hyperspace.xml.append:12743
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:60с  ДЛИТЕЛЬНОСТЬ: 13с]\n"
+"\t\t\t\tПереполненная Ультима силой, Ультимы броня выходит за пределы своих "
+"возможностей и быстро регенерирует, становясь практически неуязвимой, "
+"неподвижной, неспособной действовать. Одновременно вызывается Вихрь Бури и "
+"наносит огромный ионный урон помещению (если оно находится на корабле "
+"противника), а также поражает всех врагов на том же корабле Потреблением "
+"Ультимы, заменяя их способности на те, которые периодически наносят им урон "
+"и вызывают Бурю молний, направленные на вас."
 
 #: src-en/data/hyperspace.xml.append:12844
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УЛЬТИСМЕРТЬ"
 
 #: src-en/data/hyperspace.xml.append:12845
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\t\t\tЭтот экипаж находится под действием Потребления Ультимы. Он "
+"периодически получает 30 ед. урона и призывает на врагов Бурю молний."
 
 #: src-en/data/hyperspace.xml.append:12884
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СПАД"
 
 #: src-en/data/hyperspace.xml.append:12885
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:13с]\n"
+"\t\t\t\tИсчерпав свою Ультима силу, Ультима броня возвращается в свою "
+"обычную форму."
 
 #: src-en/data/hyperspace.xml.append:12955
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УЛЬТИСМЕРТЬ"
 
 #: src-en/data/hyperspace.xml.append:12956
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\t\t\tЭтот экипаж находится под действием Потребления Ультимы. Он "
+"периодически получает 30 ед. урона и призывает на врагов Бурю молний."
 
 #: src-en/data/hyperspace.xml.append:12995
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СПАД"
 
 #: src-en/data/hyperspace.xml.append:12996
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:13с]\n"
+"\t\t\t\tИсчерпав свою Ультима силу, Ультима броня возвращается в свою "
+"обычную форму."
 
 #: src-en/data/hyperspace.xml.append:13052
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШТОРМ"
 
 #: src-en/data/hyperspace.xml.append:13053
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:16с]\n"
+"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
+"воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
+"порождения малой бури."
 
 #: src-en/data/hyperspace.xml.append:13113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШТОРМ"
 
 #: src-en/data/hyperspace.xml.append:13114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
+"воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
+"порождения малой бури."
 
 #: src-en/data/hyperspace.xml.append:13185
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_thunder_blight\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УВЯДАНИЕ"
 
 #: src-en/data/hyperspace.xml.append:13194
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_thunder_blight\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:20с  ДЛИТЕЛЬНОСТЬ:20с]\n"
+"\t\t\t\tУвядает и высвобождает поглощенную энергию, ионизируя и призывая в "
+"помещение Вихрь Бури. Вихрь Бури значительно замедляет скорость передвижения "
+"противников и заставляет их получать двойной урон от всех источников."
 
 #: src-en/data/hyperspace.xml.append:13274
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_living_lightning\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗРЯД"
 
 #: src-en/data/hyperspace.xml.append:13275
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_living_lightning\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с]\n"
+"\t\t\t\tБьет электрическими разрядами по врагам в помещение, нанося урон и "
+"ненадолго оглушая их."
 
 #: src-en/data/hyperspace.xml.append:13322
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_roiling_storm\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОСКОЛОК"
 
 #: src-en/data/hyperspace.xml.append:13323
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_roiling_storm\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:12с ДЛИТЕЛЬНОСТЬ:20с]\n"
+"\t\t\t\tРазмножается и порождает кипящий осколок - очень слабое существо, "
+"которое при смерти наносит ионный урон и оглушает врагов. Живет 20 секунд."
 
 #: src-en/data/hyperspace.xml.append:13331
 msgid ""
@@ -1690,6 +2023,11 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:25с]\n"
+"\t\t\t\tПризывает голодную тень на 21 секунду и создает в текущем отсеке "
+"полупостоянную пелену тьмы, которая рассеивается только при прыжке. "
+"Вражеский экипаж в отсеке получает дебафф Утонуть в глубине, а союзные "
+"голодные тени получают способность превращаться в опустошающие тени."
 
 #: src-en/data/hyperspace.xml.append:13454
 msgid ""
@@ -1701,379 +2039,491 @@ msgstr "Голодная тень"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/roomStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЭВОЛЮЦИЯ"
 
 #: src-en/data/hyperspace.xml.append:13523
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/roomStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:1с]\n"
+"\t\t\t\t\t\t\tПревращается в опустошающую тень, становясь намного сильнее."
 
 #: src-en/data/hyperspace.xml.append:13621
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddevouring_shadow\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СУККУМБ"
 
 #: src-en/data/hyperspace.xml.append:13627
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddevouring_shadow\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:50с]\n"
+"\t\t\t\tМгновенно умирает, когда тьма, питающая его превращение, иссякает."
 
 #: src-en/data/hyperspace.xml.append:15074
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПЛЕН ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:15075
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:16с  ДЛИТЕЛЬНОСТЬ:12с]\n"
+"\t\t\t\tПолучает 7 урона и призывает два болта чумы души, чтобы атаковать "
+"вражеский корабль, потенциально вызывая пробоины, призывая чумные души и "
+"запирая все помещения, в которые попадает."
 
 #: src-en/data/hyperspace.xml.append:15573
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПЛЕН ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:15574
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:16с  ДЛИТЕЛЬНОСТЬ:12с]\n"
+"\t\t\t\tПолучает 7 урона и призывает два болта чумы души, чтобы атаковать "
+"вражеский корабль, призывая чумные души и запирая все помещения, в которые "
+"попадает."
 
 #: src-en/data/hyperspace.xml.append:16070
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СВЕРХДУША"
 
 #: src-en/data/hyperspace.xml.append:16071
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:21с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, увеличивая на 50% (от стандартной) скорость ремонта и "
+"мультипликативную 0.77х устойчивость к урону всем союзникам, имеющим "
+"отношение к чуме души на любом корабле."
 
 #: src-en/data/hyperspace.xml.append:16080
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Чумной маяк"
 
 #: src-en/data/hyperspace.xml.append:16580
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СВЕРХДУША"
 
 #: src-en/data/hyperspace.xml.append:16581
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:21с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, увеличивая на 50% (от стандартной) скорость ремонта и "
+"мультипликативную 0.77х устойчивость к урону всем союзникам, имеющим "
+"отношение к чуме души на любом корабле."
 
 #: src-en/data/hyperspace.xml.append:16591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "Чумной маяк"
 
 #: src-en/data/hyperspace.xml.append:17148
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СИЛА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:17149
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:15с  ДЛИТЕЛЬНОСТЬ:20с]\n"
+"\t\t\t\tПолучает 10 ед. урона и вызывает временный эффект, который "
+"заставляет всех союзников, связанных с чумой души, истощают на 1 вражеские "
+"системы и дают 1 дополнительную энергию своим."
 
 #: src-en/data/hyperspace.xml.append:17875
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СИЛА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:17876
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:15с  ДЛИТЕЛЬНОСТЬ:20с]\n"
+"\t\t\t\tПолучает 10 ед. урона и вызывает временный эффект, который "
+"заставляет всех союзников, связанных с чумой души, истощают на 1 вражеские "
+"системы и дают 1 дополнительную энергию своим."
 
 #: src-en/data/hyperspace.xml.append:18601
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЗАЛ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:18602
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tПолучает 15 ед. урона и создает в текущем отсеке полупостоянный "
+"экземпляр чумной души, который исчезает только при прыжке."
 
 #: src-en/data/hyperspace.xml.append:19371
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЗАЛ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:19372
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:30с]\n"
+"\t\t\t\tПолучает 15 ед. урона и создает в текущем отсеке полупостоянный "
+"экземпляр чумной души, который исчезает только при прыжке."
 
 #: src-en/data/hyperspace.xml.append:20139
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЯРОСТЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:20140
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\tПолучает 3 урона и делает всех союзников по чуме души в том же "
+"отсеке полупостоянно сильнее, увеличение урона длится до следующего прыжка. "
+"Для активации требуется наличие врага в отсеке."
 
 #: src-en/data/hyperspace.xml.append:20647
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЯРОСТЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:20648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\tПолучает 3 урона и делает всех союзников по чуме души в том же "
+"отсеке полупостоянно сильнее, увеличение урона длится до следующего прыжка. "
+"Для активации требуется наличие врага в отсеке."
 
 #: src-en/data/hyperspace.xml.append:21153
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БРОНЯ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:21154
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с ДЛИТЕЛЬНОСТЬ:24с]\n"
+"\t\t\t\tПолучает 15 единиц урона и приобретает временный эффект, дающий "
+"повышенную устойчивость к боевому урону и способность исцеляться от пожаров."
 
 #: src-en/data/hyperspace.xml.append:21854
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "БРОНЯ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:21855
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:7с ДЛИТЕЛЬНОСТЬ:24с]\n"
+"\t\t\t\tПолучает 15 единиц урона и приобретает временный эффект, дающий "
+"повышенную устойчивость к боевому урону и способность исцеляться от пожаров."
 
 #: src-en/data/hyperspace.xml.append:22554
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПОРЧА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:22555
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:24с ДЛИТЕЛЬНОСТЬ:14с]\n"
+"\t\t\t\tПолучает 12 ед. урона и вызывает временный эффект, заставляющий всех "
+"союзников, связанных с чумой души, в том же отсеке быстрее восстанавливать "
+"свои способности. Кроме того, враги в том же отсеке получают дополнительный "
+"боевой урон."
 
 #: src-en/data/hyperspace.xml.append:23274
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПОРЧА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:23275
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:24с ДЛИТЕЛЬНОСТЬ:14с]\n"
+"\t\t\t\tПолучает 12 ед. урона и вызывает временный эффект, заставляющий всех "
+"союзников, связанных с чумой души, в том же отсеке быстрее восстанавливать "
+"свои способности. Кроме того, враги в том же отсеке получают дополнительный "
+"боевой урон."
 
 #: src-en/data/hyperspace.xml.append:23991
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЛЕЧЕНИЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:23992
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ:15с]\n"
+"\t\t\t\tПолучает 20 ед. урона и вызывает временный эффект, который "
+"заставляет себя и всех союзников связанных с чумой души в том же отсеке "
+"исцеляться с течением времени."
 
 #: src-en/data/hyperspace.xml.append:24700
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЛЕЧЕНИЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:24701
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ:15с]\n"
+"\t\t\t\tПолучает 20 ед. урона и вызывает временный эффект, который "
+"заставляет себя и всех союзников связанных с чумой души в том же отсеке "
+"исцеляться с течением времени."
 
 #: src-en/data/hyperspace.xml.append:25408
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ГНИЛЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:25409
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:14с  ДЛИТЕЛЬНОСТЬ:31с]\n"
+"\t\t\t\tПолучает 14 ед. урона и запускает временный эффект, который "
+"заставляет его самого и всех союзников на том же корабле, кроме Детей Звезд, "
+"лишиться кислорода на некоторое время. Дополнительно наносит урон врагам в "
+"том же отсеке в течение определенного времени."
 
 #: src-en/data/hyperspace.xml.append:26127
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ГНИЛЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:26128
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:14с  ДЛИТЕЛЬНОСТЬ:31с]\n"
+"\t\t\t\tПолучает 14 ед. урона и запускает временный эффект, который "
+"заставляет его самого и всех союзников на том же корабле, кроме Детей Звезд, "
+"лишиться кислорода на некоторое время. Дополнительно наносит урон врагам в "
+"том же отсеке в течение определенного времени."
 
 #: src-en/data/hyperspace.xml.append:26845
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "КРИК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:26846
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ:18с]\n"
+"\t\t\t\tПолучает 17 урона и запускает временный эффект, который заставляет "
+"его самого и всех врагов, независимо от их местоположения, передвигаться, "
+"ремонтировать и совершать диверсии значительно медленнее."
 
 #: src-en/data/hyperspace.xml.append:27577
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "КРИК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:27578
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:9с  ДЛИТЕЛЬНОСТЬ:18с]\n"
+"\t\t\t\tПолучает 17 урона и запускает временный эффект, который заставляет "
+"его самого и всех врагов, независимо от их местоположения, передвигаться, "
+"ремонтировать и совершать диверсии значительно медленнее."
 
 #: src-en/data/hyperspace.xml.append:28313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УДАР ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:28314
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:6с]\n"
+"\t\t\t\tПолучает 7 ед. урона и вызывает на вражеском корабле луч, который "
+"наносит помещению, в которое попал, чумную душу и с низким шансом порождает "
+"случайную оболочку. Не может быть использовано при полном здоровье."
 
 #: src-en/data/hyperspace.xml.append:28813
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "УДАР ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:28814
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:6с]\n"
+"\t\t\t\tПолучает 7 ед. урона и вызывает на вражеском корабле луч, который "
+"наносит помещению, в которое попал, чумную душу и с низким шансом порождает "
+"случайную оболочку. Не может быть использовано при полном здоровье."
 
 #: src-en/data/hyperspace.xml.append:29319
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШОК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:29320
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\tПолучает 4 ед. урона и ненадолго оглушает всех существ в помещении. "
+"Будет автоматически использоваться, пока в помещении находятся враги."
 
 #: src-en/data/hyperspace.xml.append:29826
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШОК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:29827
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:4с]\n"
+"\t\t\t\tПолучает 4 ед. урона и ненадолго оглушает всех существ в помещении. "
+"Будет автоматически использоваться, пока в помещении находятся враги."
 
 #: src-en/data/hyperspace.xml.append:30325
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШТОРМ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:30326
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:3с]\n"
+"\t\t\t\tПолучает 1 ед. урона и вызывает три луча, которые порождают "
+"случайных оболочек. Не может породить других оболочек обелисков."
 
 #: src-en/data/hyperspace.xml.append:30825
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ШТОРМ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:30826
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:3с]\n"
+"\t\t\t\tПолучает 1 ед. урона и вызывает три луча, которые порождают "
+"случайных оболочек. Не может породить других оболочек обелисков."
 
 #: src-en/data/hyperspace.xml.append:30856
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "МОЛИТВА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:30857
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с ДЛИТЕЛЬНОСТЬ:21с -40ОЗ]\n"
+"\t\t\t\tВызывает на вражеском корабле луч, который призывает случайную "
+"чумную оболочку. Медленно восстанавливает 42 здоровья."
 
 #: src-en/data/hyperspace.xml.append:30892
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "МОЛИТВА ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:30893
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:5с ДЛИТЕЛЬНОСТЬ:21с -40ОЗ]\n"
+"\t\t\t\tВызывает на вражеском корабле луч, который призывает случайную "
+"чумную оболочку. Медленно восстанавливает 42 здоровья."
 
 #: src-en/data/hyperspace.xml.append:31408
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТКАНЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:31409
 msgid ""
@@ -2085,7 +2535,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТКАНЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:32167
 msgid ""
@@ -2097,7 +2547,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СМЕРТЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:32911
 msgid ""
@@ -2109,7 +2559,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СМЕРТЬ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:33411
 msgid ""
@@ -2121,7 +2571,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СЕРДЦЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:33900
 msgid ""
@@ -2133,7 +2583,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ВСПЛЕСК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:34122
 msgid ""
@@ -2145,7 +2595,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СЕРДЦЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:34630
 msgid ""
@@ -2157,7 +2607,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ВСПЛЕСК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:34853
 msgid ""
@@ -2176,6 +2626,10 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:19с  ДЛИТЕЛЬНОСТЬ:3с]\n"
+"\t\t\t\tНа короткое время помещение окутывает таинственный туман, позволяя "
+"статуям союзников Илл’дритков действовать свободно, независимо от наличия "
+"или отсутствия врагов."
 
 #: src-en/data/hyperspace.xml.append:35223
 msgid ""
@@ -2469,7 +2923,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38305
 msgid ""
@@ -2481,7 +2935,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38377
 msgid ""
@@ -2493,7 +2947,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38448
 msgid ""
@@ -2505,7 +2959,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38541
 msgid ""
@@ -2517,7 +2971,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38634
 msgid ""
@@ -2529,7 +2983,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38726
 msgid ""
@@ -2541,7 +2995,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38819
 msgid ""
@@ -2553,7 +3007,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:38912
 msgid ""
@@ -2565,7 +3019,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:39003
 msgid ""
@@ -2577,7 +3031,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:39106
 msgid ""
@@ -2589,7 +3043,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:39209
 msgid ""
@@ -2601,7 +3055,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Эта способность активируется автоматически в бою."
 
 #: src-en/data/hyperspace.xml.append:39301
 msgid ""
@@ -2926,6 +3380,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:40595
 msgid ""
@@ -2941,6 +3399,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:40638
 msgid ""
@@ -2956,6 +3418,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:40682
 msgid ""
@@ -2971,6 +3437,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ОПАСНОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:40725
 msgid ""
@@ -2986,6 +3456,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:40768
 msgid ""
@@ -3001,6 +3475,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:41419
 msgid ""
@@ -3016,6 +3494,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:41462
 msgid ""
@@ -3031,6 +3513,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:41506
 msgid ""
@@ -3046,6 +3532,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ОПАСНОСТЬ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:41549
 msgid ""
@@ -3061,6 +3551,10 @@ msgstr "УСКОРЕНИЕ"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
+"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"ускорения, усиливая эффект каждого маяка на всех союзных энджи на обоих "
+"кораблях. Переключает форму."
 
 #: src-en/data/hyperspace.xml.append:41592
 msgid ""
