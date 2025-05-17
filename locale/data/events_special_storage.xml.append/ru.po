@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-16 13:50+0000\n"
+"PO-Revision-Date: 2025-05-17 14:07+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -474,7 +474,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_JOB\"]/mod-"
 "append:choice[1]/text"
-msgstr "(Корруптор) Изучить систему Корруптор."
+msgstr "(Осквернитель) Изучить систему Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:302
 msgid ""
@@ -3395,7 +3395,7 @@ msgstr "Глубокое дыхание [Не добавлено]"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_SYSTEM\"]/mod-"
 "append:choice/text"
-msgstr "Корруптор."
+msgstr "Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:2332
 msgid ""
@@ -3406,25 +3406,25 @@ msgstr "Какое улучшение вы хотите установить?"
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"0\"]/text"
-msgstr "Корруптор 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
+msgstr "Осквернитель 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2338
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr "Корруптор 3 уровня [Цена: 70~, 4{]"
+msgstr "Осквернитель 3 уровня [Цена: 70~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr "Корруптор 4 уровня [Цена: 100~, 6{, 3}]"
+msgstr "Осквернитель 4 уровня [Цена: 100~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2346
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"4\"]/text"
-msgstr "Корруптор 4 уровня [УЖЕ УСТАНОВЛЕНО]"
+msgstr "Осквернитель 4 уровня [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2350
 msgid ""
@@ -3472,8 +3472,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_MATTERDISPERSER\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Рассеиватель материи.\n"
-"\t[Эффекты: Система Корруптор исцеляет весь экипаж, связанный с чумой души, "
-"в целевом отсеке на 8 ОЗ каждый раз, когда она порождает чумные души]"
+"\t[Эффекты: Система Осквернитель исцеляет весь экипаж, связанный с чумой "
+"души, в целевом отсеке на 8 ОЗ каждый раз, когда она порождает чумные души]"
 
 #: src-en/data/events_special_storage.xml.append:2383
 msgid ""
@@ -3500,7 +3500,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_PSYCHICEMANATOR\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Психический излучатель.\n"
-"\t[Эффекты: Система Корруптор оглушает всех членов экипажа, не являющихся "
+"\t[Эффекты: Система Осквернитель оглушает всех членов экипажа, не являющихся "
 "связанными с чумой души в отсеке на 2 секунды каждый раз, когда она "
 "порождает чумную душу]"
 
@@ -3529,8 +3529,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_DENSITYAMPLIFIER\"]/text"
 msgstr ""
 "Вы собираетесь установить улучшение Усилитель плотности\n"
-"\t[Эффекты: Чумные души, порожденные системой Корруптор имеют +10 макс. ОЗ и "
-"получают 0.25x урона от огня, не совместимо с Корруптор 3 уровня]"
+"\t[Эффекты: Чумные души, порожденные системой Осквернитель имеют +10 макс. "
+"ОЗ и получают 0.25x урона от огня, не совместимо с Осквернитель 3 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2441
 msgid ""
@@ -3554,7 +3554,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_DENSITYAMPLIFIER\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr "Это улучшение недоступно: оно не совместимо с Корруптор 3 уровня."
+msgstr "Это улучшение недоступно: оно не совместимо с Осквернитель 3 уровня."
 
 #: src-en/data/events_special_storage.xml.append:2460
 msgid ""
@@ -3565,7 +3565,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/text"
 msgstr ""
-"Вы собираетесь улучшить Корруптор до 3 уровня.\n"
+"Вы собираетесь улучшить Осквернитель до 3 уровня.\n"
 "\t[Эффекты: 16с заражения, 5с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2475
@@ -3601,7 +3601,7 @@ msgstr "Неважно."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/text"
 msgstr ""
-"Вы собираетесь улучшить Корруптор до 4 уровня.\n"
+"Вы собираетесь улучшить Осквернитель до 4 уровня.\n"
 "\t[Эффекты: 17с заражения, 4с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2503
@@ -5173,26 +5173,26 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/text"
 msgstr ""
 "Истинная природа материя-вируса чумы души и, соответственно, системы "
-"Корруптор остается загадкой для большинства, но ее полезность в сценариях "
+"Осквернитель остается загадкой для большинства, но ее полезность в сценариях "
 "самообороны и боя привела к коммерциализации и широкому распространению по "
 "всей Мультивселенной. По правде говоря, никто не знает, кто изобрел "
-"Корруптор и как он вообще распространился, но теперь его можно встретить в "
-"магазинах везде и всюду.\n"
+"Осквернитель и как он вообще распространился, но теперь его можно встретить "
+"в магазинах везде и всюду.\n"
 "\n"
-"\tСчитается, что кормление Корруптора сущностями (иначе известных как чумные "
-"оболочки), расширяет возможности порождаемых им чумных душ. Вы можете "
+"\tСчитается, что кормление Осквернителя сущностями (иначе известных как "
+"чумные оболочки), расширяет возможности порождаемых им чумных душ. Вы можете "
 "сделать это здесь, если у вас есть оболочки, которыми вы можете пожертвовать."
 
 #: src-en/data/events_special_storage.xml.append:3387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_human\"]/text"
-msgstr "(Оболочка человека) Скормить свою оболочку человека Корруптору."
+msgstr "(Оболочка человека) Скормить свою оболочку человека Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_human\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3391
@@ -5206,7 +5206,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_human\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_HUMAN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3396
@@ -5215,7 +5215,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3399
 msgid ""
@@ -5231,14 +5231,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЧЕЛОВЕКА: Чумные души Корруптора имеют +0.4 "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЧЕЛОВЕКА: Чумные души Осквернителя имеют +0.4 "
 "скорости передвижения."
 
 #: src-en/data/events_special_storage.xml.append:3410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_human\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_HUMAN\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3414
 msgid ""
@@ -5248,13 +5249,14 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_crystal\"]/text"
-msgstr "(Оболочка кристаллина) Скормить свою оболочку кристаллина Корруптору."
+msgstr ""
+"(Оболочка кристаллина) Скормить свою оболочку кристаллина Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_crystal\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3424
@@ -5268,7 +5270,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_crystal\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_CRYSTAL\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3429
@@ -5277,7 +5279,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3432
 msgid ""
@@ -5293,14 +5295,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ КРИСТАЛЛИНА: Чумные души Корруптора получают +10 "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ КРИСТАЛЛИНА: Чумные души Осквернителя получают +10 "
 "макс. ОЗ."
 
 #: src-en/data/events_special_storage.xml.append:3443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_crystal\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_CRYSTAL\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3447
 msgid ""
@@ -5310,13 +5313,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3453
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_engi\"]/text"
-msgstr "(Оболочка энджи) Скормить свою оболочку энджи Корруптору."
+msgstr "(Оболочка энджи) Скормить свою оболочку энджи Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_engi\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3457
@@ -5330,7 +5333,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_engi\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ENGI\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3462
@@ -5339,7 +5342,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3465
 msgid ""
@@ -5355,14 +5358,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЭНДЖИ: Чумные души Корруптора получают 1.3х "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЭНДЖИ: Чумные души Осквернителя получают 1.3х "
 "скорость ремонта."
 
 #: src-en/data/events_special_storage.xml.append:3476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_engi\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ENGI\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3480
 msgid ""
@@ -5372,13 +5376,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_zoltan\"]/text"
-msgstr "(Оболочка золтана) Скормить свою оболочку золтана Корруптору."
+msgstr "(Оболочка золтана) Скормить свою оболочку золтана Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_zoltan\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3490
@@ -5392,7 +5396,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_zoltan\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ZOLTAN\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3495
@@ -5401,7 +5405,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3498
 msgid ""
@@ -5417,14 +5421,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЗОЛТАНА: Чумные души Корруптора дают 1 единицу "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЗОЛТАНА: Чумные души Осквернителя дают 1 единицу "
 "энергии для дружественных систем."
 
 #: src-en/data/events_special_storage.xml.append:3509
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_zoltan\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ZOLTAN\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3513
 msgid ""
@@ -5434,13 +5439,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3519
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_orchid\"]/text"
-msgstr "(Оболочка орхидеи) Скормить свою оболочку орхидеи Корруптору."
+msgstr "(Оболочка орхидеи) Скормить свою оболочку орхидеи Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3521
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_orchid\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3523
@@ -5454,7 +5459,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_orchid\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ORCHID\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3528
@@ -5463,7 +5468,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3531
 msgid ""
@@ -5479,14 +5484,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ОРХИДЕИ: Чумные души Корруптора обеспечивают "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ОРХИДЕИ: Чумные души Осквернителя обеспечивают "
 "кислородом занимаемые ими помещения."
 
 #: src-en/data/events_special_storage.xml.append:3542
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_orchid\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ORCHID\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3546
 msgid ""
@@ -5496,13 +5502,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3552
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_mantis\"]/text"
-msgstr "(Оболочка богомола) Скормить свою оболочку богомола Корруптору."
+msgstr "(Оболочка богомола) Скормить свою оболочку богомола Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3554
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_mantis\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3556
@@ -5516,7 +5522,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_mantis\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_MANTIS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3561
@@ -5525,7 +5531,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3564
 msgid ""
@@ -5541,14 +5547,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ БОГОМОЛА: Чумные души Корруптора получают +0.2х "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ БОГОМОЛА: Чумные души Осквернителя получают +0.2х "
 "боевого урона."
 
 #: src-en/data/events_special_storage.xml.append:3575
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_mantis\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_MANTIS\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3579
 msgid ""
@@ -5558,13 +5565,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3585
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_rockman\"]/text"
-msgstr "(Оболочка валуна) Скормить свою оболочку валуна Корруптору."
+msgstr "(Оболочка валуна) Скормить свою оболочку валуна Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3587
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_rockman\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3589
@@ -5578,7 +5585,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_rockman\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ROCK\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3594
@@ -5587,7 +5594,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3597
 msgid ""
@@ -5603,14 +5610,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ВАЛУНА: Чумные души Корруптора получают 0.1x урона "
-"от пожаров."
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ВАЛУНА: Чумные души Осквернителя получают 0.1x "
+"урона от пожаров."
 
 #: src-en/data/events_special_storage.xml.append:3608
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_rockman\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_ROCK\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3612
 msgid ""
@@ -5620,13 +5628,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_slug\"]/text"
-msgstr "(Оболочка слизня) Скормить свою оболочку слизня Корруптору."
+msgstr "(Оболочка слизня) Скормить свою оболочку слизня Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3620
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_slug\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3622
@@ -5640,7 +5648,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_slug\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_SLUG\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3627
@@ -5649,7 +5657,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3630
 msgid ""
@@ -5665,14 +5673,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ СЛИЗНЯ: Чумные души Корруптора получают 1.3x "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ СЛИЗНЯ: Чумные души Осквернителя получают 1.3x "
 "скорости саботажа."
 
 #: src-en/data/events_special_storage.xml.append:3641
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_slug\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_SLUG\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3645
 msgid ""
@@ -5682,13 +5691,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3651
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_shell\"]/text"
-msgstr "(Оболочка ракушки) Скормить свою оболочку ракушки Корруптору."
+msgstr "(Оболочка ракушки) Скормить свою оболочку ракушки Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_shell\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3655
@@ -5702,7 +5711,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_shell\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_SHELL\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3660
@@ -5711,7 +5720,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3663
 msgid ""
@@ -5727,14 +5736,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ РАКУШКИ: Чумные души Корруптора получают 1.3x "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ РАКУШКИ: Чумные души Осквернителя получают 1.3x "
 "скорости лечения."
 
 #: src-en/data/events_special_storage.xml.append:3674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_shell\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_SHELL\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3678
 msgid ""
@@ -5744,13 +5754,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_lanius\"]/text"
-msgstr "(Оболочка ланиуса) Скормить свою оболочку ланиуса Корруптору."
+msgstr "(Оболочка ланиуса) Скормить свою оболочку ланиуса Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3686
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_lanius\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3688
@@ -5764,7 +5774,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_lanius\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_LANIUS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3693
@@ -5773,7 +5783,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3696
 msgid ""
@@ -5789,14 +5799,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЛАНИУСА: Чумные души Корруптора высасывают кислород "
-"из занимаемых ими помещений."
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ЛАНИУСА: Чумные души Осквернителя высасывают "
+"кислород из занимаемых ими помещений."
 
 #: src-en/data/events_special_storage.xml.append:3707
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_lanius\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_LANIUS\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3711
 msgid ""
@@ -5806,13 +5817,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3717
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_ghost\"]/text"
-msgstr "(Оболочка призрака) Скормить свою оболочку призрака Корруптору."
+msgstr "(Оболочка призрака) Скормить свою оболочку призрака Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3719
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_ghost\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3721
@@ -5826,7 +5837,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_ghost\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_GHOST\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3726
@@ -5835,7 +5846,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3729
 msgid ""
@@ -5851,14 +5862,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ПРИЗРАКА: Чумные души Корруптора способны проходить "
-"сквозь двери."
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ПРИЗРАКА: Чумные души Осквернителя способны "
+"проходить сквозь двери."
 
 #: src-en/data/events_special_storage.xml.append:3740
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_ghost\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_GHOST\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3744
 msgid ""
@@ -5869,13 +5881,14 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/text"
 msgstr ""
-"(Оболочка глубоководного) Скормить свою оболочку глубоководного Корруптору."
+"(Оболочка глубоководного) Скормить свою оболочку глубоководного "
+"Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3754
@@ -5889,7 +5902,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3759
@@ -5898,7 +5911,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3762
 msgid ""
@@ -5914,14 +5927,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Чумные души Корруптора получают "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Чумные души Осквернителя получают "
 "0.8x урона от экипажа."
 
 #: src-en/data/events_special_storage.xml.append:3773
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3777
 msgid ""
@@ -5931,13 +5945,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3783
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_leech\"]/text"
-msgstr "(Оболочка пиявки) Скормить свою оболочку пиявки Корруптору."
+msgstr "(Оболочка пиявки) Скормить свою оболочку пиявки Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3785
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_leech\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3787
@@ -5951,7 +5965,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_leech\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_LEECH\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3792
@@ -5960,7 +5974,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3795
 msgid ""
@@ -5976,14 +5990,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ПИЯВКИ: Чумные души Корруптора оглушаются на 0.1х "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ПИЯВКИ: Чумные души Осквернителя оглушаются на 0.1х "
 "меньше времени."
 
 #: src-en/data/events_special_storage.xml.append:3806
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_leech\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_LEECH\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3810
 msgid ""
@@ -5993,13 +6008,13 @@ msgstr "Неважно, заняться чем-то еще."
 #: src-en/data/events_special_storage.xml.append:3816
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_obelisk\"]/text"
-msgstr "(Оболочка обелиска) Скормить свою оболочку обелиска Корруптору."
+msgstr "(Оболочка обелиска) Скормить свою оболочку обелиска Осквернительу."
 
 #: src-en/data/events_special_storage.xml.append:3818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_obelisk\"]/event/text"
 msgstr ""
-"Если скормить оболочку Корруптору, она будет поглощена им целиком, а сама "
+"Если скормить оболочку Осквернительу, она будет поглощена им целиком, а сама "
 "оболочка станет невосстановимой. Вы уверены, что хотите это сделать?"
 
 #: src-en/data/events_special_storage.xml.append:3820
@@ -6013,7 +6028,7 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_obelisk\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_OBELISK\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
-"Ваша оболочка захвачена щупальцами Корруптора и медленно впитывается в его "
+"Ваша оболочка захвачена щупальцами Осквернителя и медленно впитывается в его "
 "сущность..."
 
 #: src-en/data/events_special_storage.xml.append:3825
@@ -6022,7 +6037,7 @@ msgid ""
 " and @lvl=\"0\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать свою оболочку, так как теперь она является частью "
-"Корруптора."
+"Осквернителя."
 
 #: src-en/data/events_special_storage.xml.append:3828
 msgid ""
@@ -6038,14 +6053,15 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ОБЕЛИСКА: Чумные души Корруптора получают 0.5х "
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ОБЕЛИСКА: Чумные души Осквернителя получают 0.5х "
 "урона от экипажа."
 
 #: src-en/data/events_special_storage.xml.append:3840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_obelisk\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_OBELISK\""
 " and @lvl=\"1\"]/text"
-msgstr "Вы не можете дважды скормить Корруптору один и тот же вариант оболочки."
+msgstr ""
+"Вы не можете дважды скормить Осквернительу один и тот же вариант оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3844
 msgid ""
