@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-17 14:07+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-05-18 14:50+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -277,7 +277,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike[4]/mod:findLike/mod-"
 "append:choice[1]/text"
-msgstr "(Дрон \"Бродяга\") Принять форму \"Бродяги\" Диссонанса."
+msgstr "(Дрон \"Матка\") Принять форму \"Бродяги\" Диссонанса."
 
 #: src-en/data/events_special_storage.xml.append:174
 msgid ""
@@ -810,13 +810,13 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
-"(Дрон \"Бродяга\") Настроить режим дрона. [Текущий режим: Противопехотный]"
+"(Дрон \"Матка\") Настроить режим дрона. [Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:484
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[6]/text"
-msgstr "(Дрон \"Бродяга\") Настроить режим дрона. [Текущий режим: Абордажный]"
+msgstr "(Дрон \"Матка\") Настроить режим дрона. [Текущий режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:488
 msgid ""
@@ -1090,8 +1090,7 @@ msgstr "В какую элитную форму Диссонанса вы хот
 #: src-en/data/events_special_storage.xml.append:639
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_REAL\"]/choice[@req=\"disparity_engidefault\"]/text"
-msgstr ""
-"(Форма по умолчанию) Переводит элиту Диссонанса в ее форму по умолчанию."
+msgstr "(Стандартная форма) Переводит элиту Диссонанса в ее стандартную форму."
 
 #: src-en/data/events_special_storage.xml.append:643
 msgid ""
@@ -1131,7 +1130,7 @@ msgstr "Вы решаете ничего не делать и готовитес
 #: src-en/data/events_special_storage.xml.append:671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_DEFAULTTO\"]/text"
-msgstr "В какую форму вы хотите перейти по умолчанию?"
+msgstr "В какую форму вы хотите перейти с стандартной?"
 
 #: src-en/data/events_special_storage.xml.append:673
 msgid ""
@@ -1206,7 +1205,7 @@ msgstr "В какую форму вы хотели бы перейти с фор
 #: src-en/data/events_special_storage.xml.append:725
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_SPEEDTO\"]/choice[1]/text"
-msgstr "Перейти в форму по умолчанию."
+msgstr "Перейти в стандартную форму."
 
 #: src-en/data/events_special_storage.xml.append:727
 msgid ""
@@ -1276,7 +1275,7 @@ msgstr "В какую форму вы хотели бы перейти с фор
 #: src-en/data/events_special_storage.xml.append:777
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_ATTACKTO\"]/choice[1]/text"
-msgstr "Перейти в форму по умолчанию."
+msgstr "Перейти в стандартную форму."
 
 #: src-en/data/events_special_storage.xml.append:779
 msgid ""
@@ -1346,7 +1345,7 @@ msgstr "В какую форму вы хотели бы перейти с фор
 #: src-en/data/events_special_storage.xml.append:829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_DEFENSETO\"]/choice[1]/text"
-msgstr "Перейти в форму по умолчанию."
+msgstr "Перейти в стандартную форму."
 
 #: src-en/data/events_special_storage.xml.append:831
 msgid ""
@@ -1416,7 +1415,7 @@ msgstr "В какую форму вы хотели бы перейти с фор
 #: src-en/data/events_special_storage.xml.append:881
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DISPARITYFORMSWITCH_HAZARDTO\"]/choice[1]/text"
-msgstr "Перейти в форму по умолчанию."
+msgstr "Перейти в стандартную форму."
 
 #: src-en/data/events_special_storage.xml.append:883
 msgid ""
@@ -3810,10 +3809,10 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
 "ИНКАНТАЦИЯ ВЕЛИКИХ КОШМАРНЫХ МАСС:\n"
-"\t\t\t\t\t\t\t\t\tВместо того чтобы вызывать меньшие кошмарные массы, Разлом "
-"теперь будет вызывать великие кошмарные массы, которые обладают более "
+"\t\t\t\t\t\t\t\t\tВместо того чтобы вызывать Меньшие кошмарные массы, Разлом "
+"теперь будет вызывать Великие кошмарные массы, которые обладают более "
 "высокими характеристиками и после смерти распадаются на меньшие кошмарные "
-"массы. Кошмарные ползуны теряют 0.3 базового урона."
+"массы. Кошмарные ползуны теряют 0.3х базового урона."
 
 #: src-en/data/events_special_storage.xml.append:2623
 msgid ""
@@ -4024,13 +4023,13 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:2742
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[3]/text"
-msgstr "Изучить Кристалл радуги."
+msgstr "Изучить Радужный кристалл."
 
 #: src-en/data/events_special_storage.xml.append:2744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[3]/event/text"
 msgstr ""
-"КРИСТАЛЛ РАДУГИ:\n"
+"РАДУЖНЫЙ КРИСТАЛЛ:\n"
 "\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их "
 "способностью давать эффект каждого маяка одновременно. Такое количество "
 "эффектов оказывается крайне нестабильным, поэтому они имеют на 12 меньше "
