@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-19 15:49+0000\n"
+"PO-Revision-Date: 2025-05-19 19:02+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -10695,7 +10695,7 @@ msgstr "Благословение ненасытной тьмы"
 #: src-en/data/blueprints.xml.append:20618
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_DISPARITY_EQUIPMENT\"]/desc"
-msgstr "Ваши голодные тени имеют +10 макс. ОЗ."
+msgstr "Ваши голодные тени получают +10 макс. ОЗ."
 
 #: src-en/data/blueprints.xml.append:20624
 msgid ""
@@ -11172,7 +11172,7 @@ msgstr "Малое усиление ускорения порождений"
 #: src-en/data/blueprints.xml.append:20907
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MINOR_HASTEDSPAWN\"]/desc"
-msgstr "Ваши порождения Бури получают +0.3 скорости передвижения."
+msgstr "Ваши Штормовые порождения получают +0.3 скорости передвижения."
 
 #: src-en/data/blueprints.xml.append:20914
 msgid ""
@@ -11214,7 +11214,7 @@ msgstr "Малое усиление разрушительных молний"
 #: src-en/data/blueprints.xml.append:20939
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MINOR_DESTRUCTIVELIGHTNING\"]/desc"
-msgstr "Ваши Живые молнии имеют +0.5 скорости саботажа."
+msgstr "Ваши Живые молнии получают +0.5 скорости саботажа."
 
 #: src-en/data/blueprints.xml.append:20946
 msgid ""
@@ -11237,7 +11237,7 @@ msgstr "Малое усиление ультима вознесения"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MINOR_ULTIMASCENSION\"]/desc"
 msgstr ""
-"Ультима броня имеет +1 заряд способности и получает +1 заряд за каждый "
+"Ультима броня получает +1 заряд способности и получает +1 заряд за каждый "
 "прыжок."
 
 #: src-en/data/blueprints.xml.append:20962
@@ -11305,7 +11305,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:21010
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MAJOR_THREATENINGSTORMS\"]/title"
-msgstr "Значительное усиление угрожающие штормов"
+msgstr "Значительное усиление угрожающих штормов"
 
 #: src-en/data/blueprints.xml.append:21011
 msgid ""
@@ -11333,8 +11333,8 @@ msgstr "Значительное усиление неудержимых пор�
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MAJOR_UNSTOPPABLESPAWN\"]/desc"
 msgstr ""
-"Порождения Бури имеют +50 здоровья и оглушаются на 0.25х меньше времени, чем "
-"обычно."
+"Порождения Бури получают +50 здоровья и оглушаются на 0.25х меньше времени, "
+"чем обычно."
 
 #: src-en/data/blueprints.xml.append:21034
 msgid ""
@@ -11345,7 +11345,7 @@ msgstr "Значительное усиление ультима вознесе�
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_MAJOR_ULTIMASCENSION\"]/desc"
 msgstr ""
-"Ультима броня имеет +1 заряд способности и получает +1 заряд за каждый "
+"Ультима броня получает +1 заряд способности и получает +1 заряд за каждый "
 "прыжок."
 
 #: src-en/data/blueprints.xml.append:21042
@@ -11416,12 +11416,13 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:21090
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_COSMIC_GODLYSTORMS\"]/title"
-msgstr "Космическое усиление божественной бури"
+msgstr "Космическое усиление божественных штормов"
 
 #: src-en/data/blueprints.xml.append:21091
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_COSMIC_GODLYSTORMS\"]/desc"
-msgstr "Ваши Бушующие штормы имеют +1 к скорости восстановления способностей."
+msgstr ""
+"Ваши Бушующие штормы получают +1 к скорости восстановления способностей."
 
 #: src-en/data/blueprints.xml.append:21098
 msgid ""
@@ -11441,7 +11442,7 @@ msgstr "Космическое усиление божественных уда�
 #: src-en/data/blueprints.xml.append:21107
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_EMPOWERMENT_COSMIC_GODLYBLIGHTS\"]/desc"
-msgstr "Ваши Громовые удары имеют +1 к скорости восстановления способностей."
+msgstr "Ваши Громовые удары получают +1 к скорости восстановления способностей."
 
 #: src-en/data/blueprints.xml.append:21114
 msgid ""
@@ -11596,7 +11597,7 @@ msgstr "Усилитель плотности"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DD_INTERNAL_AUGMENT3\"]/desc"
 msgstr ""
-"Приливы чумы души, порожденные вашей системой Осквернитель, имеют +10 "
+"Приливы чумы души, порожденные вашей системой Осквернитель, получают +10 "
 "максимальных ОЗ и получают 0.25x урона от огня."
 
 #: src-en/data/blueprints.xml.append:21202
@@ -11619,7 +11620,7 @@ msgstr "Субсумация кристаллинов"
 #: src-en/data/blueprints.xml.append:21210
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_CRYSTAL\"]/desc"
-msgstr "Приливы чумы души, созданные вашим Осквернителем имеют +10 макс. ОЗ."
+msgstr "Приливы чумы души, созданные вашим Осквернителем получают +10 макс. ОЗ."
 
 #: src-en/data/blueprints.xml.append:21216
 msgid ""
