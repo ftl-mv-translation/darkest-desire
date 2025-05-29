@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 18:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_sector_ddcoremassxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ddcoremass.xml:5
 msgid ""
@@ -233,6 +226,11 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:194
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:197
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"START_DDCOREMASS\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[@req=\"dd_soulplaguemassbindedcheck\""
@@ -421,8 +419,8 @@ msgstr ""
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"STORE_LOAD_DDSOULPLAGUE\"]/text"
 msgstr ""
-"Antes de comprar, aún tienes algo de tiempo para hacer algo más abordo de la "
-"nave."
+"Antes de comprar, aún tienes algo de tiempo para hacer algo más abordo de la"
+" nave."
 
 #: src-en/data/events_sector_ddcoremass.xml:292
 msgid ""
@@ -580,6 +578,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_LOVEFRIENDS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[4]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:400
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_LOVEFRIENDS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[4]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:403
@@ -761,6 +766,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[4]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:528
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_CHERISHWEAPONS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[4]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:531
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_CHERISHWEAPONS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -939,6 +951,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[4]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:656
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_EMBRACEDARKNESS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[4]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:659
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"STORE_DDCOREMASS_EMBRACEDARKNESS\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -1098,6 +1117,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:775
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_CRUMBLINGCHILD\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:778
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_CRUMBLINGCHILD\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -1255,6 +1281,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_DAMNATIONSTOUCH\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:887
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_DAMNATIONSTOUCH\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:890
@@ -1992,6 +2025,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1167
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_HUSKGRAVEYARD\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1170
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_HUSKGRAVEYARD\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -2167,6 +2207,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1293
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_EMBODIEDWEAPON\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1296
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"SCHISM_DDCOREMASS_EMBODIEDWEAPON\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -2226,6 +2273,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_WOUNDEDSPACE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:1361
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_WOUNDEDSPACE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:1364
@@ -2313,6 +2367,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1437
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_ASTEROIDASSAULT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1440
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_ASTEROIDASSAULT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -2398,6 +2459,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1513
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_DYINGPLANET\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1516
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_DYINGPLANET\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -2481,6 +2549,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_MASSINFIGHTING\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:1589
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_MASSINFIGHTING\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:1592
@@ -2650,6 +2725,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1725
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_FUELCOLLECTION\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1728
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_FUELCOLLECTION\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -2791,6 +2873,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_MISSILEPILE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:1840
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_MISSILEPILE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:1843
@@ -2936,6 +3025,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:1955
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_DRONEDONATION\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:1958
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_DRONEDONATION\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -3077,6 +3173,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_SCRAPHEAP\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:2070
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"ITEMS_DDCOREMASS_SCRAPHEAP\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:2073
@@ -3238,6 +3341,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:2197
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_HUMANLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:2200
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_HUMANLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -3395,6 +3505,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_CRYSTALLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:2308
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_CRYSTALLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:2311
@@ -3556,6 +3673,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:2419
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ENGILOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:2422
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ENGILOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -3713,6 +3837,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ZOLTANLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:2530
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ZOLTANLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:2533
@@ -3874,6 +4005,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:2641
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ORCHIDLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:2644
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ORCHIDLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -4031,6 +4169,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_MANTISLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:2752
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_MANTISLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:2755
@@ -4192,6 +4337,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:2863
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ROCKLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:2866
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_ROCKLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -4349,6 +4501,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_SLUGLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:2974
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_SLUGLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:2977
@@ -4510,6 +4669,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:3085
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_SHELLLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:3088
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_SHELLLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -4667,6 +4833,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_LANIUSLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:3196
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_LANIUSLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:3199
@@ -4828,6 +5001,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:3307
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_DEEPONELOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:3310
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_DEEPONELOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -4987,6 +5167,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:3418
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_GHOSTLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:3421
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_GHOSTLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -5144,6 +5331,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_LEECHLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:3529
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DISTRESS_DDCOREMASS_LEECHLOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:3532
@@ -5363,6 +5557,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:3695
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_ELITE_ENCOUNTER\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:3698
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_ELITE_ENCOUNTER\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -5504,6 +5705,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_DROWN\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:3815
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_DROWN\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:3818
@@ -5649,6 +5857,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:3926
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_LOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:3929
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_LOVE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -5790,6 +6005,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_SINK\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4037
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_SINK\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4040
@@ -5935,6 +6157,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:4148
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_EMBRACE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:4151
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_EMBRACE\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -6076,6 +6305,13 @@ msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_SORROW\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4259
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_SORROW\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4262
@@ -6221,6 +6457,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice[3]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:4370
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_DEATH\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice[3]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:4373
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"HOSTILE_DDCOREMASS_STARCHILD_DEATH\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
@@ -6289,6 +6532,11 @@ msgstr ""
 #: src-en/data/events_sector_ddcoremass.xml:4438
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_NOTALLHOPEISLOST\"]/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4445
+msgid ""
+"data/events_sector_ddcoremass.xml$//backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ALLY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4448
@@ -7194,6 +7442,13 @@ msgid ""
 "@lvl=\"0\"]/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr ""
 
+#: src-en/data/events_sector_ddcoremass.xml:5028
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
+msgstr ""
+
 #: src-en/data/events_sector_ddcoremass.xml:5032
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
@@ -7277,6 +7532,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:5085
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"1\"]/event/choice/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:5088

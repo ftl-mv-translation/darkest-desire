@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 18:12+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Italian <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_special_transportsxmlappend/it/>\n"
-"Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_transports.xml.append:3
 msgid ""
@@ -266,6 +259,11 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:217
+msgid ""
+"data/events_special_transports.xml.append$//backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
 msgstr ""
 
 #: src-en/data/events_special_transports.xml.append:220

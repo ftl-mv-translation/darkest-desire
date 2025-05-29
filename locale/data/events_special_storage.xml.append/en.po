@@ -1447,6 +1447,13 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "The Soulplague mass will attack after this countdown."
 
+#: src-en/data/events_special_storage.xml.append:954
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[1]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ALLY\"]/tooltip"
+msgstr ""
+"You're within a Soulplague mass. It will periodically assault the enemy "
+"ship."
+
 #: src-en/data/events_special_storage.xml.append:957
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[1]/event/choice/text"
@@ -1473,6 +1480,13 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"ddhuman_sacrifice\"]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "The Soulplague mass will attack after this countdown."
 
+#: src-en/data/events_special_storage.xml.append:977
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"ddhuman_sacrifice\"]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ALLY\"]/tooltip"
+msgstr ""
+"You're within a Soulplague mass. It will periodically assault the enemy "
+"ship."
+
 #: src-en/data/events_special_storage.xml.append:980
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"ddhuman_sacrifice\"]/event/choice/text"
@@ -1498,6 +1512,13 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/triggeredEvent/triggeredEventBox/tooltip"
 msgstr "The Soulplague mass will attack after this countdown."
+
+#: src-en/data/events_special_storage.xml.append:1000
+msgid ""
+"data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ALLY\"]/tooltip"
+msgstr ""
+"You're within a Soulplague mass. It will periodically assault the enemy "
+"ship."
 
 #: src-en/data/events_special_storage.xml.append:1003
 msgid ""
