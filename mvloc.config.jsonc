@@ -12,7 +12,9 @@
 		"data/events_special_ddrituals.xml",
 		"data/events_sector_ddcoremass.xml",
 		"data/events_sector_ddsoulplague.xml",
+		"data/events_sector_ddantumbra.xml",
 
+		"data/events_addon_icon.xml.append",
 		"data/events_sector_laststand.xml.append",
 		"data/events_sector_showdown.xml.append",
 		"data/events_ships.xml.append",
@@ -62,6 +64,9 @@
 
 		// events
 		"//text",
+		"//hover-text",
+		"//text-aea-alternative",
+
 		"//triggeredEventBox/tooltip",
 		"//unvisitedTooltip",
 		"//visitedTooltip",
@@ -120,9 +125,9 @@
 
     "packaging": {
         "fullOriginal": [
-            "https://github.com/ftl-mv-translation/darkest-desire/raw/darkest-desire-english/darkestdesirev3.4.2.zip",
+            "https://github.com/ftl-mv-translation/darkest-desire/raw/darkest-desire-english/darkestdesirev4.0.0.zip",
         ],
         "prefix": "Darkest-Desire",
-        "version": "3.4.2"
+        "version": "4.0.0"
     }
 }
