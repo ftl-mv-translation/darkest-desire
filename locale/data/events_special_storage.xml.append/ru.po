@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-11 07:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:3
 msgid ""
@@ -483,6 +491,7 @@ msgstr ""
 "типа."
 
 #: src-en/data/events_special_storage.xml.append:354
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/text"
 msgstr ""
@@ -490,8 +499,8 @@ msgstr ""
 "качестве человеческой жертвы делает его бесполезным для большинства задач и "
 "лишает чувства собственного достоинства, но позволяет ему не занимать места "
 "в экипаже (что делает его полезным для будущих жертвоприношений, требуемых "
-"Потусторонним фолиантом). Вы не можете подготовить дополнительных жерв, если"
-" у вас уже есть восемь или более подготовленных."
+"Потусторонним фолиантом). Вы не можете подготовить дополнительных жерв, если "
+"у вас уже есть восемь или более подготовленных."
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
@@ -499,6 +508,7 @@ msgid ""
 msgstr "(Человеческий экипаж) Приготовить человеческую жертву."
 
 #: src-en/data/events_special_storage.xml.append:358
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/text"
 msgstr ""
@@ -789,12 +799,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:550
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:559
 msgid ""
@@ -821,12 +837,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:569
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:578
 msgid ""
@@ -853,12 +875,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:588
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:597
 msgid ""
@@ -885,12 +913,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:607
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:616
 msgid ""
@@ -917,12 +951,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:626
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:635
 msgid ""
@@ -1047,12 +1087,13 @@ msgstr ""
 "Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:710
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. [Текущий режим: "
-"Противопехотный]"
+"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. "
+"[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:714
 msgid ""
@@ -1063,12 +1104,13 @@ msgstr ""
 "Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:718
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[20]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. [Текущий режим: "
-"Противопехотный]"
+"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. "
+"[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:722
 msgid ""
@@ -1651,6 +1693,7 @@ msgstr ""
 "масса появилась."
 
 #: src-en/data/events_special_storage.xml.append:1126
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[1]/text"
 msgstr ""
@@ -1671,6 +1714,7 @@ msgid ""
 msgstr "Перейти к битве!"
 
 #: src-en/data/events_special_storage.xml.append:1139
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
 msgstr ""
@@ -1697,6 +1741,7 @@ msgid ""
 msgstr "Перейти к битве!"
 
 #: src-en/data/events_special_storage.xml.append:1156
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
@@ -3569,12 +3614,14 @@ msgid ""
 msgstr "Осквернитель 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2502
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
 msgstr "Осквернитель 3 уровня [Цена: 70~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2506
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
@@ -3593,6 +3640,7 @@ msgid ""
 msgstr "Рассеиватель материи [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2518
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT1\""
 " and @lvl=\"0\"]/text"
@@ -3605,6 +3653,7 @@ msgid ""
 msgstr "Психический излучатель [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2526
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT2\""
 " and @lvl=\"0\"]/text"
@@ -3617,6 +3666,7 @@ msgid ""
 msgstr "Усилитель плотности [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2534
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
@@ -3635,6 +3685,7 @@ msgstr ""
 "\t[Эффекты: Система Осквернитель исцеляет весь экипаж, связанный с чумой души, в целевом отсеке на 8 ОЗ каждый раз, когда она порождает прилив чумы души]"
 
 #: src-en/data/events_special_storage.xml.append:2547
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_MATTERDISPERSER\"]/choice[@req=\"dd_corruptor\"]/text"
 msgstr "Установить улучшение. [Цена: 40~, 3{]"
@@ -3662,6 +3713,7 @@ msgstr ""
 "\t[Эффекты: Система Осквернитель оглушает всех членов экипажа, не являющихся связанными с чумой души в отсеке на 2 секунды каждый раз, когда она порождает прилив чумы души]"
 
 #: src-en/data/events_special_storage.xml.append:2576
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_PSYCHICEMANATOR\"]/choice[@req=\"dd_corruptor\"]/text"
 msgstr "Установить улучшение. [Цена: 50~, 1|]"
@@ -3689,6 +3741,7 @@ msgstr ""
 "\t[Эффекты: Приливы чумы души, порожденные системой Осквернитель получают +10 макс. ОЗ и получают 0.25x урона от огня, не совместимо с Осквернитель 3 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2605
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_DENSITYAMPLIFIER\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"1\"]/text"
@@ -3725,6 +3778,7 @@ msgstr ""
 "\t[Эффекты: 16с заражения, 5с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2639
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
@@ -3761,6 +3815,7 @@ msgstr ""
 "\t[Эффекты: 17с заражения, 4с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2667
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
@@ -3808,6 +3863,7 @@ msgid ""
 msgstr "(Мутаген Илл'дритк) Мутировать статую Илл'дритк."
 
 #: src-en/data/events_special_storage.xml.append:2707
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[4]/text"
@@ -3826,6 +3882,7 @@ msgid ""
 msgstr "(Министр) Оживить Министра."
 
 #: src-en/data/events_special_storage.xml.append:2721
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
@@ -4147,11 +4204,15 @@ msgid ""
 msgstr "Изучить Кристалл удобства."
 
 #: src-en/data/events_special_storage.xml.append:2905
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/text"
 msgstr ""
 "КРИСТАЛЛ УДОБСТВА:\n"
-"\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их способностью к ремонту и +0.8 к базовой скорости передвижения. Взамен ваша элита Диссонанса теряют память о том, как ремонтировать, и ремонтируют на 0.67х медленнее."
+"\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их "
+"способностью к ремонту и +0.8 к базовой скорости передвижения. Взамен ваша "
+"элита Диссонанса теряют память о том, как ремонтировать, и ремонтируют на "
+"0.67х медленнее."
 
 #: src-en/data/events_special_storage.xml.append:2908
 msgid ""
@@ -4344,11 +4405,18 @@ msgid ""
 msgstr "Изучить ритуал Разрушения света."
 
 #: src-en/data/events_special_storage.xml.append:3022
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"dddeepone_chosen\"]/event/choice[1]/event/text"
 msgstr ""
 "РИТУАЛ РАЗРУШЕНИЯ СВЕТА:\n"
-"\t\t\t\t\t\t\tЭтот ритуал позволяет узнать местоположение корабля, принадлежащего случайному врагу Темного Бога. Победив его, вы получаете его благосклонность в виде двух случайных наград из базового пула ритуалов (вы можете получить одну и ту же награду дважды, награды от ритуалов Порчи, Истинной преданности и Печати не появляются). Кроме того, вы получите дополнительную награду в зависимости от появившегося врага, но этот ритуал гарантированно вызовет случайный побочный эффект."
+"\t\t\t\t\t\t\tЭтот ритуал позволяет узнать местоположение корабля, "
+"принадлежащего случайному врагу Темного Бога. Победив его, вы получаете его "
+"благосклонность в виде двух случайных наград из базового пула ритуалов (вы "
+"можете получить одну и ту же награду дважды, награды от ритуалов Порчи, "
+"Истинной преданности и Печати не появляются). Кроме того, вы получите "
+"дополнительную награду в зависимости от появившегося врага, но этот ритуал "
+"гарантированно вызовет случайный побочный эффект."
 
 #: src-en/data/events_special_storage.xml.append:3025
 msgid ""
@@ -4616,11 +4684,16 @@ msgid ""
 msgstr "Изучить ритуал Сплетение душ."
 
 #: src-en/data/events_special_storage.xml.append:3179
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
 msgstr ""
 "РИТУАЛ СПЛЕТЕНИЯ ДУШ:\n"
-"\t\t\t\t\t\t\tЭтот ритуал позволяет накормить сгусток материя-вируса чумы души, чтобы придать ему силу и позволить стать Ткачом оболочек. Для этого требуются души 1-2 дополнительных человеческих жертв. Если не наделить сгусток силой должным образом, он станет враждебным и просто мутирует в чумную оболочку."
+"\t\t\t\t\t\t\tЭтот ритуал позволяет накормить сгусток материя-вируса чумы "
+"души, чтобы придать ему силу и позволить стать Ткачом оболочек. Для этого "
+"требуются души 1-2 дополнительных человеческих жертв. Если не наделить "
+"сгусток силой должным образом, он станет враждебным и просто мутирует в "
+"чумную оболочку."
 
 #: src-en/data/events_special_storage.xml.append:3182
 msgid ""
@@ -4672,11 +4745,13 @@ msgid ""
 msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:3222
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/text"
 msgstr "Изучить черную надпись \"Руководство для начинающих по оккультизму\"."
 
 #: src-en/data/events_special_storage.xml.append:3224
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/text"
 msgstr ""
@@ -4816,16 +4891,21 @@ msgid ""
 msgstr "Изучить требования и правила ритуалов."
 
 #: src-en/data/events_special_storage.xml.append:3349
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[1]/event/text"
 msgstr ""
 "Правила изложены следующим образом:\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПРАВИЛО 1: РИТУАЛЫ ДОЛЖНЫ ПРОВОДИТЬСЯ НА СВЕРХСВЕТОВОЙ СКОРОСТИ.\n"
-"\t\t\t\t\tПРАВИЛО 2: РИТУАЛЫ, ЗА ИСКЛЮЧЕНИЕМ РИТУАЛА ОХОТЫ, ТРЕБУЮТ ЧЕЛОВЕЧЕСКОЙ ЖЕРТВЫ.\n"
-"\t\t\t\t\tПРАВИЛО 3: ЕСЛИ ЧЕЛОВЕЧЕСКАЯ ЖЕРТВА НЕДОСТУПНА, В ЖЕРТВУ МОЖЕТ БЫТЬ ПРИНЕСЕНО ОГРОМНОЕ КОЛИЧЕСТВА ЛОМА (100 ЛОМА).\n"
-"\t\t\t\t\tПРАВИЛО 4: НЕКОТОРЫЕ РИТУАЛЫ ТРЕБУЮТ ОПРЕДЕЛЕННЫХ ПОСЛЕДОВАТЕЛЕЙ И ПОНИМАНИЯ ПУТЕЙ ТЕМНОГО.\n"
-"\t\t\t\t\tПРАВИЛО 5: ЗА НЕИСПОЛНЕНИЕ РИТУАЛА ОБЫЧНО НЕ ПОЛАГАЕТСЯ НИКАКИХ НАКАЗАНИЙ, НО ТВОЯ ЖЕРТВА НЕ БУДЕТ ВОЗВРАЩЕНА."
+"\t\t\t\t\tПРАВИЛО 2: РИТУАЛЫ, ЗА ИСКЛЮЧЕНИЕМ РИТУАЛА ОХОТЫ, ТРЕБУЮТ "
+"ЧЕЛОВЕЧЕСКОЙ ЖЕРТВЫ.\n"
+"\t\t\t\t\tПРАВИЛО 3: ЕСЛИ ЧЕЛОВЕЧЕСКАЯ ЖЕРТВА НЕДОСТУПНА, В ЖЕРТВУ МОЖЕТ "
+"БЫТЬ ПРИНЕСЕНО ОГРОМНОЕ КОЛИЧЕСТВА ЛОМА (100 ЛОМА).\n"
+"\t\t\t\t\tПРАВИЛО 4: НЕКОТОРЫЕ РИТУАЛЫ ТРЕБУЮТ ОПРЕДЕЛЕННЫХ ПОСЛЕДОВАТЕЛЕЙ И "
+"ПОНИМАНИЯ ПУТЕЙ ТЕМНОГО.\n"
+"\t\t\t\t\tПРАВИЛО 5: ЗА НЕИСПОЛНЕНИЕ РИТУАЛА ОБЫЧНО НЕ ПОЛАГАЕТСЯ НИКАКИХ "
+"НАКАЗАНИЙ, НО ТВОЯ ЖЕРТВА НЕ БУДЕТ ВОЗВРАЩЕНА."
 
 #: src-en/data/events_special_storage.xml.append:3357
 msgid ""
@@ -4833,14 +4913,23 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:3359
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[1]/event/choice/event/text"
 msgstr ""
-"ПРАВИЛО 6: НЕКОТОРЫЕ РИТУАЛЫ МОГУТ БЫТЬ ДОСТУПНЫ ТОЛЬКО ПОСЛЕ ВЫПОЛНЕНИЯ ИХ ПРЕДВАРИТЕЛЬНЫХ УСЛОВИЙ.\n"
-"\t\t\t\t\t\t\tПРАВИЛО 7: ЕСЛИ ТЫ ПРОВЕДЕШЬ РИТУАЛ, А ЗАТЕМ ИЗМЕНИШЬ МАРШРУТ, ВСЕ ПОЛУЧЕННЫЕ КВЕСТЫ БУДУТ ПОТЕРЯНЫ.\n"
-"\t\t\t\t\t\t\tПРАВИЛО 8: ЕСЛИ ТЫ ХОЧЕШЬ И ПРОВЕСТИ РИТУАЛ, И ПОГОВОРИТЬ С ОПРЕДЕЛЕННЫМ КУРАТОРОМ, ТЫ ДОЛЖЕН ПОСМОТРЕТЬ ИХ ЗАДАНИЯ И ИСПОЛЬЗОВАТЬ МОДУЛЬ СКОРОСТИ ПРЫЖКА.\n"
-"\t\t\t\t\t\t\tПРАВИЛО 9: СУЩЕСТВУЕТ ВЕРОЯТНОСТЬ ТОГО, ЧТО НЕКОТОРЫЕ РИТУАЛЫ МОГУТ ВЫЗВАТЬ НЕЖЕЛАТЕЛЬНЫЕ ПОБОЧНЫЕ ЭФФЕКТЫ; ОНИ НЕ ПОМЕШАЮТ ЗАВЕРШЕНИЮ РИТУАЛА.\n"
-"\t\t\t\t\t\t\tПРАВИЛО 10: НЕКОТОРЫЕ РИТУАЛЫ МОГУТ В РЕДКИХ СЛУЧАЯХ ПОЗВОЛИТЬ ОСОБЫМ ПОСЛЕДОВАТЕЛЯМ ТЕМНОГО БОГА ЯВИТЬСЯ К ВАМ. ПОБЕДА НАД НИМИ МОЖЕТ ПРИНЕСТИ ДОПОЛНИТЕЛЬНЫЕ НАГРАДЫ."
+"ПРАВИЛО 6: НЕКОТОРЫЕ РИТУАЛЫ МОГУТ БЫТЬ ДОСТУПНЫ ТОЛЬКО ПОСЛЕ ВЫПОЛНЕНИЯ ИХ "
+"ПРЕДВАРИТЕЛЬНЫХ УСЛОВИЙ.\n"
+"\t\t\t\t\t\t\tПРАВИЛО 7: ЕСЛИ ТЫ ПРОВЕДЕШЬ РИТУАЛ, А ЗАТЕМ ИЗМЕНИШЬ МАРШРУТ, "
+"ВСЕ ПОЛУЧЕННЫЕ КВЕСТЫ БУДУТ ПОТЕРЯНЫ.\n"
+"\t\t\t\t\t\t\tПРАВИЛО 8: ЕСЛИ ТЫ ХОЧЕШЬ И ПРОВЕСТИ РИТУАЛ, И ПОГОВОРИТЬ С "
+"ОПРЕДЕЛЕННЫМ КУРАТОРОМ, ТЫ ДОЛЖЕН ПОСМОТРЕТЬ ИХ ЗАДАНИЯ И ИСПОЛЬЗОВАТЬ "
+"МОДУЛЬ СКОРОСТИ ПРЫЖКА.\n"
+"\t\t\t\t\t\t\tПРАВИЛО 9: СУЩЕСТВУЕТ ВЕРОЯТНОСТЬ ТОГО, ЧТО НЕКОТОРЫЕ РИТУАЛЫ "
+"МОГУТ ВЫЗВАТЬ НЕЖЕЛАТЕЛЬНЫЕ ПОБОЧНЫЕ ЭФФЕКТЫ; ОНИ НЕ ПОМЕШАЮТ ЗАВЕРШЕНИЮ "
+"РИТУАЛА.\n"
+"\t\t\t\t\t\t\tПРАВИЛО 10: НЕКОТОРЫЕ РИТУАЛЫ МОГУТ В РЕДКИХ СЛУЧАЯХ ПОЗВОЛИТЬ "
+"ОСОБЫМ ПОСЛЕДОВАТЕЛЯМ ТЕМНОГО БОГА ЯВИТЬСЯ К ВАМ. ПОБЕДА НАД НИМИ МОЖЕТ "
+"ПРИНЕСТИ ДОПОЛНИТЕЛЬНЫЕ НАГРАДЫ."
 
 #: src-en/data/events_special_storage.xml.append:3365
 msgid ""
@@ -7458,13 +7547,16 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:4964
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
-"...пока, в конце концов, процесс не завершается. Ваша оболочка была поглощена.\n"
+"...пока, в конце концов, процесс не завершается. Ваша оболочка была "
+"поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Приливы чумы души Осквернителя получают 0.8x урона от экипажа."
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Приливы чумы души Осквернителя "
+"получают 0.8x урона от экипажа."
 
 #: src-en/data/events_special_storage.xml.append:4973
 msgid ""
@@ -7854,24 +7946,28 @@ msgid ""
 msgstr "Пожиратель чумы души [Сердцевина чумы души]"
 
 #: src-en/data/events_special_storage.xml.append:5210
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[6]/text"
 msgstr "??? [Зона Темного Бога]"
 
 #: src-en/data/events_special_storage.xml.append:5214
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[7]/text"
 msgstr "Воплощение Ультимы [???]"
 
 #: src-en/data/events_special_storage.xml.append:5218
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[8]/text"
 msgstr "Бледное сердце [???]"
 
 #: src-en/data/events_special_storage.xml.append:5222
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[9]/text"
@@ -7920,6 +8016,7 @@ msgid ""
 msgstr "Крейсер чумы души (?)"
 
 #: src-en/data/events_special_storage.xml.append:5255
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_MV\"]/mod-"
 "append:choice[1]/event/text"
@@ -7927,7 +8024,10 @@ msgstr ""
 "КЛАСС: Крейсер чумы души\n"
 "\t\t\tФРАКЦИЯ: Связанный с чумой души\n"
 "\t\t\t\n"
-"\t\t\tХотя этот корабль не похож ни на один из виденных кем-либо кораблей чумы души, он, несомненно, полностью осквернен материя-вирусом чумы души. Вы мало что знаете о нем... но воспоминания о его шепоте до сих пор не покидают ваш разум."
+"\t\t\tХотя этот корабль не похож ни на один из виденных кем-либо кораблей "
+"чумы души, он, несомненно, полностью осквернен материя-вирусом чумы души. Вы "
+"мало что знаете о нем... но воспоминания о его шепоте до сих пор не покидают "
+"ваш разум."
 
 #: src-en/data/events_special_storage.xml.append:5260
 msgid ""
