@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 12:25+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_sector_ddcoremassxml/ru/>\n"
 "Language: ru\n"
@@ -2849,11 +2849,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:1436
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_MASSINFIGHTING\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr "Предоставить им возможность уничтожить астероиды."
+msgstr "Оставить их в покое."
 
 #: src-en/data/events_sector_ddcoremass.xml:1438
 msgid ""
@@ -7211,15 +7210,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4087
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"...открывая знакомое зрелище туманности, когда пространство-время "
-"рассыпается, а дополнительное измерение Сердцевины разрывается на части. "
-"Вы... сделали это! Вы уничтожили Сердцевину!"
+"...открывая знакомое зрелище звезд, когда пространство-время рассыпается, а "
+"дополнительное измерение Сердцевины разрывается на части. Вы... сделали это! "
+"Вы уничтожили Сердцевину!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4091
 msgid ""
@@ -7513,13 +7511,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4204
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/text"
 msgstr ""
-"...открывая знакомое зрелище туманности, когда пространство-время "
-"рассыпается, а дополнительное измерение Сердцевины разрывается на части. "
-"Вы... сделали это! Вы уничтожили Сердцевину!"
+"...открывая знакомое зрелище звезд, когда пространство-время рассыпается, а "
+"дополнительное измерение Сердцевины разрывается на части. Вы... сделали это! "
+"Вы уничтожили Сердцевину!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4208
 msgid ""
@@ -7664,13 +7661,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4275
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"...открывая знакомое зрелище туманности, когда пространство-время "
-"рассыпается, а дополнительное измерение Сердцевины разрывается на части. "
-"Вы... сделали это! Вы уничтожили Сердцевину!"
+"...открывая знакомое зрелище звезд, когда пространство-время рассыпается, а "
+"дополнительное измерение Сердцевины разрывается на части. Вы... сделали это! "
+"Вы уничтожили Сердцевину!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4279
 msgid ""
@@ -7891,13 +7887,12 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4372
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
-"...открывая знакомое зрелище туманности, когда пространство-время "
-"рассыпается, а дополнительное измерение Сердцевины разрывается на части. "
-"Вы... сделали это! Вы уничтожили Сердцевину!"
+"...открывая знакомое зрелище звезд, когда пространство-время рассыпается, а "
+"дополнительное измерение Сердцевины разрывается на части. Вы... сделали это! "
+"Вы уничтожили Сердцевину!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4376
 msgid ""
@@ -8115,14 +8110,13 @@ msgstr ""
 "тех, кого вы прокляли, словно восстают вокруг вас... А вот и новые оболочки!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4488
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
 msgstr ""
 "Победив еще одного так называемого героя, вы стоите над телом павшего, и "
 "тогда раздается голос Темного Бога: "
-"\"ДАЖЕ Я... ИСПЫТАЛ ТРУДНОСТИ С НЕЙ. НЕВООБРАЗИМОЕ ВОЛЯ... Я ЗАВИДУЮ ТЕБЕ\". "
-"В комнате вспыхивает ослепительный свет. Когда он гаснет - перед вами "
+"\"ДАЖЕ Я ИСПЫТАЛ ТРУДНОСТИ С НЕЙ. НЕМЫСЛЕМАЯ ВОЛЯ... Я ЗАВИДУЮ ТЕБЕ\". В "
+"комнате вспыхивает ослепительный свет. Когда он гаснет - перед вами "
 "появляется оружие, какого вы никогда прежде не видел. \"ЭТА ГЕРОИНЯ... "
 "ТЕПЕРЬ МОЯ. ДЛЯ ТАКОГО, КАК ТЫ... Я ПЕРЕКУЮ ЕЕ ОРУЖИЕ В ТВОЮ ЧЕСТЬ. ИДИ. "
 "ТВОРИ, КАК СЧИТАЕШЬ НУЖНЫМ\". Так и будет. Вы всегда так поступали - сколько "
@@ -8176,18 +8170,18 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4514
-#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"...открывая знакомое зрелище туманности, когда пространство-время "
-"рассыпается, а дополнительное измерение Сердцевины разрывается на части. "
-"Какая мерзость."
+"...открывая знакомое зрелище звезд, когда пространство-время рассыпается, а "
+"дополнительное измерение Сердцевины разрывается на части. Какая мерзость."
 
 #: src-en/data/events_sector_ddcoremass.xml:4528
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_ALONE\"]/text"
 msgstr ""
+"Вы снова оказываетесь перед выходом из этого ужасного путешествия... на этот "
+"раз - возьмете ли вы его?"
 
 #: src-en/data/events_sector_ddcoremass.xml:4536
 msgid ""
