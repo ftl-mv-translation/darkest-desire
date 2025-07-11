@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 12:25+0000\n"
+"PO-Revision-Date: 2025-07-12 15:46+0000\n"
 "Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -414,12 +414,14 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_AUG\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "(Взломщик МВ-приводов) Вызвать МВ-судно из Darkest Desire."
 
 #: src-en/data/events_special_storage.xml.append:289
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_1\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. Вызов "
+"босса Мультивселенной требует 7{."
 
 #: src-en/data/events_special_storage.xml.append:291
 msgid ""
@@ -430,6 +432,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_1\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:301
 msgid ""
@@ -440,6 +445,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_2\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. Вызов "
+"босса Мультивселенной требует 7{."
 
 #: src-en/data/events_special_storage.xml.append:309
 msgid ""
@@ -450,6 +457,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_2\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:319
 msgid ""
@@ -460,6 +470,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_3\"]/text"
 msgstr ""
+"Вы проверяете, какие корабли доступны для вызова в данный момент. Вызов "
+"босса Мультивселенной требует 7{."
 
 #: src-en/data/events_special_storage.xml.append:327
 msgid ""
@@ -470,6 +482,9 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$/dummyroot/event[@name=\"STORAGE_CHECK_AUG_DD_BOSS_SPAWNER_3\"]/choice[1]/event/text"
 msgstr ""
+"Вы включаете машину на полную мощность и наблюдаете, как открывается разлом, "
+"тряся корабль. Затем она внезапно отключается, и мигающий зеленый свет "
+"вместе с строчкой координат информирует вас о том, что это сработало."
 
 #: src-en/data/events_special_storage.xml.append:337
 msgid ""
@@ -1087,12 +1102,11 @@ msgstr ""
 "Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:710
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[18]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. "
+"(Дрон Тамплиеров \"Бездна\" мод. II) Настроить режим дрона. "
 "[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:714
@@ -1104,12 +1118,11 @@ msgstr ""
 "Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:718
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[20]/text"
 msgstr ""
-"(Дрон Тамплиеров \"Бездна\" мод. I) Настроить режим дрона. "
+"(Дрон Тамплиеров \"Бездна\" мод. III) Настроить режим дрона. "
 "[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:722
@@ -8187,10 +8200,19 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:5367
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
+"ПРОФИЛЬ: The Shade\n"
+"\t\t\tТитул: ???\n"
+"\t\t\tВид: ??? - Возраст: ??? - Пол: ???\n"
+"\t\t\t\n"
+"\t\t\tThe Shade, as it's come to be called, is an entirely mysterious "
+"construct that simply appeared one day. Having emerged from a strange "
+"wormhole, with an even stranger threat in tow, one can only guess as to its "
+"origins..."
 
 #: src-en/data/events_special_storage.xml.append:5373
 msgid ""
