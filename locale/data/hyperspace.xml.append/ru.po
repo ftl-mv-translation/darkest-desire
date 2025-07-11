@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 12:25+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -535,13 +535,12 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:7277
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ   СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, добавляющий 50% (от стандартной) скорости исцеления всем союзным "
 "энджи на любом корабле. Переключает форму."
 
@@ -558,13 +557,12 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:7393
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, добавляющую 50% (от стандартной) скорости передвижения всем союзным "
 "энджи на любом корабле. Переключает форму."
 
@@ -581,13 +579,12 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:7510
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, увеличивая на 30% (от стандартного) урона и скорости саботажа всем "
 "союзным энджи на любом корабле. Переключает форму."
 
@@ -604,13 +601,12 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:7647
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ОПАСНОСТЬ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, увеличивая на 50% (от стандартной) скорость ремонта и добавляет "
 "мультипликативное 0.77х сопротивление урону всем союзным энджи на любом "
 "корабле. Переключает форму."
@@ -628,13 +624,12 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:7786
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, добавляет мультипликативное 0.5х сопротивление опасностям "
 "(огонь/удушье) всем союзным энджи на любом корабле и исцеляет их на 1 ОЗ/с. "
 "Переключает форму."
@@ -1784,12 +1779,11 @@ msgid ""
 msgstr "ШТОРМ"
 
 #: src-en/data/hyperspace.xml.append:13510
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:16с]\n"
+"[ПЕРЕЗАРЯДКА:25с]\n"
 "\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
 "воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
 "порождения малой бури."
@@ -1801,12 +1795,11 @@ msgid ""
 msgstr "ШТОРМ"
 
 #: src-en/data/hyperspace.xml.append:13571
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:16с]\n"
+"[ПЕРЕЗАРЯДКА:25с]\n"
 "\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
 "воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
 "порождения малой бури."
@@ -1942,13 +1935,12 @@ msgid ""
 msgstr "СВЕРХДУША"
 
 #: src-en/data/hyperspace.xml.append:16498
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:21с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, увеличивая на 50% (от стандартной) скорость ремонта и "
 "мультипликативную 0.77х устойчивость к урону всем союзникам, имеющим "
 "отношение к чуме души на любом корабле."
@@ -1966,13 +1958,12 @@ msgid ""
 msgstr "СВЕРХДУША"
 
 #: src-en/data/hyperspace.xml.append:17008
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:21с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, увеличивая на 50% (от стандартной) скорость ремонта и "
 "мультипликативную 0.77х устойчивость к урону всем союзникам, имеющим "
 "отношение к чуме души на любом корабле."
@@ -2400,12 +2391,11 @@ msgid ""
 msgstr "ВСПЛЕСК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:34549
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:3с  -4 ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:3с  -30 ОЗ]\n"
 "\t\t\t\t\t\t\t\tЧерез это Дитя Звезд Глупец направляет свою силу на "
 "вражеский корабль, чтобы вызвать чумных оболочек."
 
@@ -2434,12 +2424,11 @@ msgid ""
 msgstr "ВСПЛЕСК ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:35280
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[ПЕРЕЗАРЯДКА:3с  -4 ОЗ]\n"
+"[ПЕРЕЗАРЯДКА:3с  -30 ОЗ]\n"
 "\t\t\t\t\t\t\t\tЧерез это Дитя Звезд Глупец направляет свою силу на "
 "вражеский корабль, чтобы вызвать чумных оболочек."
 
@@ -2638,14 +2627,13 @@ msgid ""
 msgstr "СУД"
 
 #: src-en/data/hyperspace.xml.append:37662
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_shell\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:3с  ДЛИТЕЛЬНОСТЬ:21с]\n"
 "\t\t\t\tИспользует свой свет, чтобы выпустить святой газ, нанося урон и "
-"накладывая на текущий отсек эффект Божественного суда с очень низким шансом "
+"накладывая на текущий отсек эффект Божественного суда с низким шансом "
 "вызвать пожар."
 
 #: src-en/data/hyperspace.xml.append:37746
@@ -3444,12 +3432,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:42599
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3464,12 +3451,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:42642
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3484,12 +3470,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:42686
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3521,12 +3506,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:42772
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3541,12 +3525,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:43423
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СКОРОСТЬ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3561,12 +3544,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:43466
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: АТАКА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3581,12 +3563,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:43510
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ЗАЩИТА]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3601,12 +3582,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:43553
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: ОПАСНОСТЬ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3621,12 +3601,11 @@ msgid ""
 msgstr "РАЗГОН"
 
 #: src-en/data/hyperspace.xml.append:43596
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:2с  ДЛИТЕЛЬНОСТЬ: РАЗНАЯ  СЛЕДУЮЩАЯ ФОРМА: СТАНДАРТНАЯ]\n"
-"\t\t\t\tПолучает 20 единиц урона и порождает маяк, который издает команду "
+"\t\t\t\tПолучает 10 единиц урона и порождает маяк, который издает команду "
 "разгона, усиливая эффект каждого маяка на всех союзных энджи на любом "
 "корабле. Переключает форму."
 
@@ -3841,10 +3820,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/hyperspace.xml.append:48123
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/secretDescription"
-msgstr "Получите благословение страха от Уэйксона."
+msgstr "Получите благословение ??? от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:48124
 msgid ""
