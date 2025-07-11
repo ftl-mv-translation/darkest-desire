@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-11 07:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_sector_ddcoremassxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ddcoremass.xml:5
 msgid ""
@@ -2841,6 +2849,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:1436
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"NEUTRAL_DDCOREMASS_MASSINFIGHTING\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
@@ -7202,6 +7211,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4087
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN\"]/choice[@req=\"ddunique_theheroine\""
 " and "
@@ -7503,6 +7513,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4204
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_HEROINEENDING\"]/choice/event/choice/event/text"
 msgstr ""
@@ -7653,6 +7664,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4275
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[@req=\"dd_soulplague_coremass_hopesflamecharges\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -7879,6 +7891,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4372
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_THEDEVOURER_WIN_FOOLISHENDING\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -8102,16 +8115,18 @@ msgstr ""
 "тех, кого вы прокляли, словно восстают вокруг вас... А вот и новые оболочки!"
 
 #: src-en/data/events_sector_ddcoremass.xml:4488
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
 msgstr ""
 "Победив еще одного так называемого героя, вы стоите над телом павшего, и "
-"тогда раздается голос Темного Бога: \"ДАЖЕ Я... ИСПЫТАЛ ТРУДНОСТИ С НЕЙ. "
-"НЕВООБРАЗИМОЕ ВОЛЯ... Я ЗАВИДУЮ ТЕБЕ\". В комнате вспыхивает ослепительный "
-"свет. Когда он гаснет - перед вами появляется оружие, какого вы никогда "
-"прежде не видел. \"ЭТА ГЕРОИНЯ... ТЕПЕРЬ МОЯ. ДЛЯ ТАКОГО, КАК ТЫ... Я "
-"ПЕРЕКУЮ ЕЕ ОРУЖИЕ В ТВОЮ ЧЕСТЬ. ИДИ. ТВОРИ, КАК СЧИТАЕШЬ НУЖНЫМ\". Так и "
-"будет. Вы всегда так поступали - сколько себя помните."
+"тогда раздается голос Темного Бога: "
+"\"ДАЖЕ Я... ИСПЫТАЛ ТРУДНОСТИ С НЕЙ. НЕВООБРАЗИМОЕ ВОЛЯ... Я ЗАВИДУЮ ТЕБЕ\". "
+"В комнате вспыхивает ослепительный свет. Когда он гаснет - перед вами "
+"появляется оружие, какого вы никогда прежде не видел. \"ЭТА ГЕРОИНЯ... "
+"ТЕПЕРЬ МОЯ. ДЛЯ ТАКОГО, КАК ТЫ... Я ПЕРЕКУЮ ЕЕ ОРУЖИЕ В ТВОЮ ЧЕСТЬ. ИДИ. "
+"ТВОРИ, КАК СЧИТАЕШЬ НУЖНЫМ\". Так и будет. Вы всегда так поступали - сколько "
+"себя помните."
 
 #: src-en/data/events_sector_ddcoremass.xml:4496
 msgid ""
@@ -8161,6 +8176,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4514
+#, fuzzy
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
