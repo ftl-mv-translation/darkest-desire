@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-11 12:25+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datatext_miscxmlappend/ru/>\n"
 "Language: ru\n"
@@ -28,12 +28,12 @@ msgstr "МАГАЗИН [ЧУМНЫЕ ДУШИ]"
 #: src-en/data/text_misc.xml.append:4
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_store_ddantumbra_lightborne\"]"
-msgstr ""
+msgstr "МАГАЗИН [СВЕТ]"
 
 #: src-en/data/text_misc.xml.append:5
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_store_ddantumbra_shadows\"]"
-msgstr ""
+msgstr "МАГАЗИН [ТЕНЬ]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddkyrandlilith\"]"
@@ -99,15 +99,15 @@ msgstr "СЕРДЦЕ [ВЫХОД]"
 #: src-en/data/text_misc.xml.append:21
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_gravedigger\"]"
-msgstr ""
+msgstr "МОГИЛЬЩИК [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_godcore\"]"
-msgstr ""
+msgstr "БОЖЕСТВЕННОЕ ЯДРО [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_genesis\"]"
-msgstr ""
+msgstr "ГЕНЕЗИС [ВЫХОД]"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"hack_dd_corruptor\"]"
@@ -116,11 +116,13 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:25
 msgid "data/text_misc.xml.append$//text[@name=\"dd_corruptor\"]"
-msgstr ""
+msgstr "осквернитель"
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
 msgstr ""
+"На вас нападает масса чумы душ. Пока она остается в потревоженном состоянии, "
+"она будет периодически нападать на ваш корабль."
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
@@ -150,6 +152,10 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:38
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
+"ДОБЫЧА ЛОЖНОГО СИЯНИЯ\n"
+"+Поражает помещения эрозией и эффектом Лучезарного осквернения, +8 "
+"выстрелов, -69 длина луча\n"
+"+Порождает случайных Рожденных светом вместо голодных теней"
 
 #: src-en/data/text_misc.xml.append:42
 msgid "data/text_misc.xml.append$//text[@name=\"tip_shadow_weapon\"]"
@@ -168,7 +174,17 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
 msgstr ""
+"Совет: Лучезарные ядра вызывают в помещениях эрозию и эффект лучезарного "
+"осквернения, который наносит врагам небольшой урон и снижает их боевой урон "
+"и скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
+"раскрыть потенциал Рожденных светом, на что способно большинство Лучезарных "
+"ядер."
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
+"Совет: Оружие Рожденных светом накладывает на помещения эффект Лучезарного "
+"осквернения, который наносит врагам небольшой урон, снижает их боевой урон и "
+"скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
+"раскрыть потенциал Рожденных светом, в дополнение к их генерации с помощью "
+"Лучезарных ядер."
