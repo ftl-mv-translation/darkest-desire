@@ -1,61 +1,85 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-11 12:25+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_mechanicalxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_mechanical.xml.append:25
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_DREADNOUGHTOFDARKNESS\"]/lose/@text"
 msgstr ""
+"Щупальца обхватывают остатки корабля, и снова... ваше зрение исчезает, "
+"погружаясь в непроглядную тьму."
 
 #: src-en/data/events_special_mechanical.xml.append:29
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THEBEHEMOTH\"]/lose/@text"
 msgstr ""
+"Ваше зрение расплывается, когда корабль рядом готовится к штурму Связи... "
+"Это конец для вас."
 
 #: src-en/data/events_special_mechanical.xml.append:33
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_SERAPHIMBOSS\"]/lose/@text"
 msgstr ""
+"Когда Серафимы обрушиваются на вас, а ваш корабль охвачен пламенем... каким-"
+"то образом вы чувствуете покой."
 
 #: src-en/data/events_special_mechanical.xml.append:37
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THEWINGS\"]/lose/@text"
 msgstr ""
+"От жгучей ненависти воздух вокруг вас начинает потрескивать... в конце "
+"концов, вы задыхаетесь."
 
 #: src-en/data/events_special_mechanical.xml.append:41
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THEDEVOURER\"]/lose/@text"
 msgstr ""
+"Вы клянетесь, что слышите крик в своем разуме... но сейчас это не имеет "
+"значения. Ничто не имеет значения."
 
 #: src-en/data/events_special_mechanical.xml.append:45
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_ARCHANGELPROTOCOL\"]/lose/@text"
 msgstr ""
+"Здесь, в конце этого бессмысленного сна... вы чувствуете, что кто-то, где-"
+"то, взывает к вам."
 
 #: src-en/data/events_special_mechanical.xml.append:49
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_APOTHEOSISENGINE\"]/lose/@text"
 msgstr ""
+"Вы слышите последний, душераздирающий крик, когда кто-то, где-то, взывает к "
+"вам из тьмы..."
 
 #: src-en/data/events_special_mechanical.xml.append:53
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_DIVINEECHO\"]/lose/@text"
-msgstr ""
+msgstr "Такова, похоже, истинная цена божественности."
 
 #: src-en/data/events_special_mechanical.xml.append:57
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THESCARRED\"]/lose/@text"
 msgstr ""
+"Кем бы... вы ни были, я могу лишь надеяться, что это поражение... охладит "
+"ваш пыл."
 
 #: src-en/data/events_special_mechanical.xml.append:61
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THEHUNGERSERAPH\"]/lose/@text"
-msgstr ""
+msgstr "Вам не б-б-больно, к-каааапитан? ОШИБКА ПРОТОКОЛА: НЕДОСТАТОЧНО БОЛЬНО."
 
 #: src-en/data/events_special_mechanical.xml.append:65
 msgid ""
 "data/events_special_mechanical.xml.append$//event[@name=\"DDDEATH_THEHEROINE\"]/lose/@text"
-msgstr ""
+msgstr "ТЫ СЛЫШИШЬ ЭТО, СОРОДИЧ...? ЭТО... звук надежды, триумфа."
