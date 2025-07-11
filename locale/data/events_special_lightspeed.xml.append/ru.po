@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-12 15:46+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -234,9 +234,20 @@ msgid ""
 msgstr "Вы не можете изменить точку назначения во время этого прыжка."
 
 #: src-en/data/events_special_lightspeed.xml.append:207
+#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDANTUMBRA_WARP\"]/text"
 msgstr ""
+"Название: ???\n"
+"\tТип: ???\n"
+"\tДоминирующая фракция: ???\n"
+"\tУровень угрозы повстанцев: ???\n"
+"\n"
+"\tIt's not stars that fly past you, as your vessel continues to be dragged "
+"through the wormhole - but entire realities. You're being pulled, and "
+"pulled, and pulled further still towards what your ship's now-fading "
+"readings indicate to be the edge of the Multiverse. The edge of everything, "
+"as you know it..."
 
 #: src-en/data/events_special_lightspeed.xml.append:214
 msgid ""
@@ -257,7 +268,7 @@ msgstr "Вы не можете изменить точку назначения 
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice[1]/text"
-msgstr "Перейти в сектор неизвестный сектор."
+msgstr "Перейти в неизвестный сектор."
 
 #: src-en/data/events_special_lightspeed.xml.append:233
 msgid ""
@@ -269,7 +280,7 @@ msgstr "Перейти в сектор глубоководных."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr "Перейти в сектор неизвестный сектор."
+msgstr "Перейти в неизвестный сектор."
 
 #: src-en/data/events_special_lightspeed.xml.append:247
 msgid ""
@@ -278,7 +289,6 @@ msgid ""
 msgstr "Провести ритуал с использованием Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:253
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/text"
 msgstr ""
