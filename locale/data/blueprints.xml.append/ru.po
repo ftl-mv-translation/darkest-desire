@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-12 15:46+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
 "Language: ru\n"
@@ -2877,22 +2877,21 @@ msgid ""
 msgstr "Артиллерия"
 
 #: src-en/data/blueprints.xml.append:16476
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/desc"
 msgstr ""
-"[Базовая перезарядка: 14] Выпускает пронзающий луч, который призывает "
-"голодную тень и создает временную пелену тьмы в отсеке, куда попадает."
+"[Базовая перезарядка: 14] Выпускает пронзающий луч, который повреждает "
+"системы, призывает голодную тень и создает временную пелену тьмы в отсеке, "
+"куда попадает."
 
 #: src-en/data/blueprints.xml.append:16477
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/tooltip"
 msgstr ""
 "Артиллерия: Выпускает пронзающий луч, который со 100% вероятностью призывает "
 "голодную тень на 21 секунду и дополнительно создает временную пелену тьмы в "
-"отсеке, в которое попадает, на 12 секунд. С вероятностью 30% вызывает "
-"пробоины."
+"отсеке, в которое попадает, на 12 секунд. С вероятностью 60% вызывает "
+"пробоины и наносит 2 системных урона."
 
 #: src-en/data/blueprints.xml.append:16486
 msgid ""
@@ -4008,16 +4007,14 @@ msgstr ""
 "течение определенного времени. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21246
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/title"
-msgstr "Тамплиер Бездны мод. II [Абордаж]"
+msgstr "Тамплиер Бездны мод. III [Абордаж]"
 
 #: src-en/data/blueprints.xml.append:21247
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/short"
-msgstr "Т. Бездны II [А]"
+msgstr "Т. Бездны III [А]"
 
 #: src-en/data/blueprints.xml.append:21248
 #, fuzzy
@@ -4164,16 +4161,14 @@ msgstr ""
 "показатели у союзных Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21363
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/title"
-msgstr "Тамплиер Звезд мод. II [Абордаж]"
+msgstr "Тамплиер Звезд мод. III [Абордаж]"
 
 #: src-en/data/blueprints.xml.append:21364
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/short"
-msgstr "Звезд. Тампл. II [А]"
+msgstr "Звезд. Тампл. III [А]"
 
 #: src-en/data/blueprints.xml.append:21365
 #, fuzzy
@@ -4327,16 +4322,14 @@ msgstr ""
 "эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21480
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/title"
-msgstr "Тамплиер Топь мод. II [Абордаж]"
+msgstr "Тамплиер Топь мод. III [Абордаж]"
 
 #: src-en/data/blueprints.xml.append:21481
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/short"
-msgstr "Тампл. Топь II [А]"
+msgstr "Тампл. Топь III [А]"
 
 #: src-en/data/blueprints.xml.append:21482
 #, fuzzy
@@ -4491,16 +4484,14 @@ msgstr ""
 "вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21597
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/title"
-msgstr "Тамплиер Рассвет мод. II [Абордаж]"
+msgstr "Тамплиер Рассвет мод. III [Абордаж]"
 
 #: src-en/data/blueprints.xml.append:21598
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/short"
-msgstr "Тампл. Рас. II [А]"
+msgstr "Тампл. Рас. III [А]"
 
 #: src-en/data/blueprints.xml.append:21599
 #, fuzzy
@@ -4605,14 +4596,13 @@ msgid ""
 msgstr "Просветленный"
 
 #: src-en/data/blueprints.xml.append:21683
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"deeponecultist_enemy\"]/powerList/power[1]"
 msgstr ""
-"Излучает мощную успокаивающую ауру, которая: увеличивает скорость "
-"передвижения, скорость ремонта, урон в бою, скорость саботажа на 10%, также "
-"макс. ОЗ на +15 всего союзного экипажа на том же корабле. Сам получает "
-"двойной урон и не может сражаться."
+"Излучает пассивную ауру, которая: увеличивает скорость передвижения, "
+"скорость ремонта, урон в бою, скорость саботажа на 10%, также макс. ОЗ на +"
+"15 всего союзного экипажа на том же корабле. Сам получает 1.5x урон от всех "
+"источников и не может сражаться."
 
 #: src-en/data/blueprints.xml.append:21684
 msgid ""
@@ -4804,21 +4794,19 @@ msgid ""
 msgstr "Пожиратель"
 
 #: src-en/data/blueprints.xml.append:21777
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger\"]/powerList/power[1]"
 msgstr ""
 "Не может сражаться или совершать диверсии, но практически неуязвим для "
 "входящего урона. Имеет огромное количество ОЗ, однако естественным образом "
-"истощается по мере того, как голод пожирает его, а маяки Диссонанса "
+"истощается по мере того, как голод пожирает его. Маяки Диссонанса "
 "увеличивают скорость этого истощения."
 
 #: src-en/data/blueprints.xml.append:21778
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger\"]/powerList/power[2]"
 msgstr ""
-"Активная способность: Когда уровень ОЗ опускается ниже 200, а способность "
+"Активная способность: Когда его ОЗ опускается ниже 200, а способность "
 "заряжается за счет сражения с врагами, он порождает специальный маяк, "
 "который приводит его и всех союзных энджи в ярость."
 
@@ -4840,21 +4828,19 @@ msgid ""
 msgstr "Пожиратель"
 
 #: src-en/data/blueprints.xml.append:21789
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger_enemy\"]/powerList/power[1]"
 msgstr ""
 "Не может сражаться или совершать диверсии, но практически неуязвим для "
 "входящего урона. Имеет огромное количество ОЗ, однако естественным образом "
-"истощается по мере того, как голод пожирает его, а маяки Диссонанса "
+"истощается по мере того, как голод пожирает его. Маяки Диссонанса "
 "увеличивают скорость этого истощения."
 
 #: src-en/data/blueprints.xml.append:21790
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger_enemy\"]/powerList/power[2]"
 msgstr ""
-"Активная способность: Когда ОЗ падает ниже 50, и если способность была "
+"Активная способность: Когда его ОЗ падает ниже 50, и если способность была "
 "заряжена от сражения с врагами, он порождает специальный маяк, который "
 "приводит его и всех союзных энджи в ярость. Крайне важно не давать Голоду "
 "зарядиться и держаться его подальше, пока его здоровье ниже 50!"
@@ -7632,7 +7618,6 @@ msgid ""
 msgstr "Вел. масса"
 
 #: src-en/data/blueprints.xml.append:22789
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_greatermass\"]/powerList/power[1]"
 msgstr ""
@@ -9370,12 +9355,11 @@ msgid ""
 msgstr "Статуя"
 
 #: src-en/data/blueprints.xml.append:23427
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue\"]/powerList/power[1]"
 msgstr ""
 "Чрезвычайно быстрая, сильная и невосприимчивая к контролю разума, но уязвима "
-"к удушью и огню, получая от них 3х урона. Не может двигаться, пока враги "
+"к удушью и огню, получая от них 5х урона. Не может двигаться, пока враги "
 "находятся в том же отсеке, но эти враги получают эффект Тревоги, замедляющий "
 "их скорость передвижения"
 
@@ -9387,7 +9371,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23432
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_cinderbark\"]/desc"
 msgstr ""
@@ -9395,7 +9378,7 @@ msgstr ""
 "пепельной коры.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23435
@@ -9423,7 +9406,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23446
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_frostwood\"]/desc"
 msgstr ""
@@ -9431,7 +9413,7 @@ msgstr ""
 "морозного дерева.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23449
@@ -9459,7 +9441,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23460
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_ironbound\"]/desc"
 msgstr ""
@@ -9467,7 +9448,7 @@ msgstr ""
 "Железной плоти.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23463
@@ -9496,7 +9477,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23474
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_leafhost\"]/desc"
 msgstr ""
@@ -9504,7 +9484,7 @@ msgstr ""
 "листоносца.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23477
@@ -9533,7 +9513,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23488
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_toxblood\"]/desc"
 msgstr ""
@@ -9541,7 +9520,7 @@ msgstr ""
 "ядовитой плоти.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23491
@@ -9569,7 +9548,6 @@ msgstr ""
 "действовать всем союзным статуям Илл’дритков в помещении."
 
 #: src-en/data/blueprints.xml.append:23502
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_voidroot\"]/desc"
 msgstr ""
@@ -9577,7 +9555,7 @@ msgstr ""
 "корня пустоты.\n"
 "\t\n"
 "\tНаследует характеристики Илл’дритков: Чрезвычайно быстрая, мощная, "
-"невосприимчивая к контролю разума, но уязвима к удушению, получая 3х урона и "
+"невосприимчивая к контролю разума, но уязвима к удушению, получая 5х урона и "
 "неспособная действовать, когда рядом находятся враги."
 
 #: src-en/data/blueprints.xml.append:23505
@@ -9721,7 +9699,6 @@ msgid ""
 msgstr "Воплощение"
 
 #: src-en/data/blueprints.xml.append:23565
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofdetermination\"]/powerList/power"
 msgstr ""
