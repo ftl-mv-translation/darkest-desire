@@ -26,8 +26,8 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
-"DISPARITY CRYSTAL ARMOR:\n"
-"This enemy has Disparity Crystal Armor. A foul combination of darkness and Crystal tech, it's somehow fallen into the Disparity's hands. Upon taking hull damage, rather than recoiling with damaging shards, they have a 50% chance of releasing a blast of darkness that will manifest on your ship as a Hungering Shadow."
+"SHADOW-CRYSTAL ARMOR:\n"
+"This enemy has Shadow-Crystal Armor - a mysterious, and foul, combination of darkness and Crystal tech. Upon taking hull damage, rather than recoiling with damaging shards, they have a 50% chance of releasing a blast of darkness that will manifest on your ship as a Hungering Shadow."
 
 #: src-en/data/hyperspace.xml.append:20
 msgid ""
@@ -51,7 +51,7 @@ msgid ""
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "TEMPEST BLESSING:\n"
-"This enemy is blessed by the Tempest. They're protected by an otherworldly and electrical power, providing a sturdy supershield and buffs to their drones and Tempest-aligned crew. Such drones and crew provide 1 power to systems on their ship and drain 1 power from systems on yours, and they receive the following stat boosts: 1.6x movement/repair speed and 1.3x combat/sabotage damage. Additionally, some of their crew may be capable of periodically summoning bolts of lightning that ion systems and spew forth monsters."
+"This enemy is blessed by the Tempest. They're protected by an otherworldly and electrical power, providing a thin supershield and buffs to their drones and Tempest-aligned crew. Such drones and crew provide 1 power to systems on their ship and drain 1 power from systems on yours, and they receive the following stat boosts: 1.6x movement/repair speed and 1.3x combat/sabotage damage. Additionally, some of their crew may be capable of periodically summoning bolts of lightning that ion systems and spew forth monsters."
 
 #: src-en/data/hyperspace.xml.append:35
 msgid ""
@@ -67,7 +67,7 @@ msgid ""
 "append:shipIcon[8]/tooltip"
 msgstr ""
 "SOULPLAGUE GAS:\n"
-"This enemy ship is filled with a deadly, otherworldly gas which will passively damage your crew over time for 3.7hp/s and infect them with Soulplague. If killed, any ally crew infected with Soulplague will resurrect as an enemy Soulplague Husk on your ship, regardless of where they die.\n"
+"This enemy ship is filled with a deadly, otherworldly gas which will passively damage your crew over time for 2.3hp/s and infect them with Soulplague. If killed, any ally crew infected with Soulplague will resurrect as an enemy Soulplague Husk on your ship, regardless of where they die. Husks created via Soulplague infection, and certain other means, are briefly vulnerable when freshly resurrected - taking double damage from all sources and having their combat damage/movement/sabotage speed halved for 4 seconds.\n"
 "Drones and Soulplague-aligned crew are immune."
 
 #: src-en/data/hyperspace.xml.append:46
@@ -76,7 +76,7 @@ msgid ""
 "append:shipIcon[9]/tooltip"
 msgstr ""
 "SERAPHIM GAS:\n"
-"This enemy ship is filled with a deadly, heavenly gas which will passively damage your crew over time for 2.3hp/s and inflict them with the effects of Divine Judgment. Additionally, fires on their ship will automatically be extinguished and their crew benefit from the positive effects of Divine Judgment while on their ship.\n"
+"This enemy ship is filled with a deadly, heavenly gas which will passively damage your crew over time for 7.77hp/s and inflict them with the effects of Divine Judgment. Additionally, fires on their ship will automatically be extinguished and their crew benefit from the positive effects of Divine Judgment while on their ship.\n"
 "Nothing is immune."
 
 #: src-en/data/hyperspace.xml.append:52
@@ -346,8 +346,8 @@ msgid ""
 "append:race[@name=\"deeponecultist\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:25s  DURATION:15s]\n"
-"\t\t\t\tExtends the Enlightened Cultist's passive ally effects to affect both ships.\n"
-"\t\t\t\tThe Enlightened Cultist will be unable to man or repair and is slowed down while its Bless is active."
+"\t\t\t\tExtends the Enlightened Cultist's passive ally effects to affect both ships, and additionally allows all ally Hungering Shadows to be controlled.\n"
+"\t\t\t\tThe Enlightened Cultist will be unable to man or repair and is slowed down while its ability is active."
 
 #: src-en/data/hyperspace.xml.append:6724
 msgid ""
@@ -510,7 +510,7 @@ msgid ""
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) heal speed to all allied Engi on either ship. Switch forms."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) heal speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7285
 msgid ""
@@ -530,7 +530,7 @@ msgid ""
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) movement speed to all allied Engi on either ship. Switch forms."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) movement speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7401
 msgid ""
@@ -550,7 +550,7 @@ msgid ""
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 30% (of default) damage and sabotage speed to all allied Engi on either ship. Switch forms."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 30% (of default) damage and sabotage speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7518
 msgid ""
@@ -570,7 +570,7 @@ msgid ""
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Engi on either ship. Switch forms."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7655
 msgid ""
@@ -590,7 +590,7 @@ msgid ""
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding a multiplicative 0.5x hazard (fire/suffocation) resistance to all allied Engi on either ship and healing them for 1hp/s. Switch forms."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding a multiplicative 0.5x hazard (fire/suffocation) resistance to all allied Engi on either ship and healing them for 1hp/s. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7794
 msgid ""
@@ -1741,7 +1741,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:16s]\n"
+"[COOLDOWN:25s]\n"
 "\t\t\t\tReleases a storm of energy that strikes at the enemy ship and manifests as Tempest Lightning, ioning rooms and potentially summoning Minor Tempest Spawn."
 
 #: src-en/data/hyperspace.xml.append:13570
@@ -1755,7 +1755,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:16s]\n"
+"[COOLDOWN:25s]\n"
 "\t\t\t\tReleases a storm of energy that strikes at the enemy ship and manifests as Tempest Lightning, ioning rooms and potentially summoning Minor Tempest Spawn."
 
 #: src-en/data/hyperspace.xml.append:13642
@@ -1894,7 +1894,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:21s  DURATION:VARIABLE]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Soulplague-aligned crew on either ship."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Soulplague-aligned crew on either ship."
 
 #: src-en/data/hyperspace.xml.append:16507
 msgid ""
@@ -1914,7 +1914,7 @@ msgid ""
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:21s  DURATION:VARIABLE]\n"
-"\t\t\t\tTake 20 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Soulplague-aligned crew on either ship."
+"\t\t\t\tTake 10 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Soulplague-aligned crew on either ship."
 
 #: src-en/data/hyperspace.xml.append:17018
 msgid ""
@@ -2326,7 +2326,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:40s  DURATION:7s  -90HP]\n"
-"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
+"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at significant cost to themselves. Moves very slowly while active."
 
 #: src-en/data/hyperspace.xml.append:34548
 msgid ""
@@ -2339,7 +2339,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[CD:3s  -4HP]\n"
+"[CD:3s  -30HP]\n"
 "\t\t\t\t\t\t\t\tThe Foolish channels its power through this Child of the Stars to call down beams on the enemy ship that summon Soulplague Husks."
 
 #: src-en/data/hyperspace.xml.append:35056
@@ -2354,7 +2354,7 @@ msgid ""
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[CD:40s  DURATION:7s  -90HP]\n"
-"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at very little cost to themselves. Moves very slowly while active."
+"\t\t\t\tTakes 90 damage and triggers a temporary effect that overwrites ally Children of the Stars' abilities, allowing them to rapid-fire summon Soulplague Husks at significant cost to themselves. Moves very slowly while active."
 
 #: src-en/data/hyperspace.xml.append:35279
 msgid ""
@@ -2367,7 +2367,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
-"[CD:3s  -4HP]\n"
+"[CD:3s  -30HP]\n"
 "\t\t\t\t\t\t\t\tThe Foolish channels its power through this Child of the Stars to call down beams on the enemy ship that summon Soulplague Husks."
 
 #: src-en/data/hyperspace.xml.append:35441
@@ -2570,7 +2570,7 @@ msgid ""
 "append:race[@name=\"ddseraph_shell\"]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:3s DURATION:21s]\n"
-"\t\t\t\tHarnesses its light to release a holy gas, taking damage and inflicting the current room with a stack of Divine Judgment with a very low chance to cause a fire."
+"\t\t\t\tHarnesses its light to release a holy gas, taking damage and inflicting the current room with a stack of Divine Judgment with a low chance to cause a fire."
 
 #: src-en/data/hyperspace.xml.append:37746
 msgid ""
@@ -3394,7 +3394,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:42607
 msgid ""
@@ -3411,7 +3411,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:42650
 msgid ""
@@ -3428,7 +3428,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:42694
 msgid ""
@@ -3462,7 +3462,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:42780
 msgid ""
@@ -3479,7 +3479,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:43431
 msgid ""
@@ -3496,7 +3496,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:43474
 msgid ""
@@ -3513,7 +3513,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:43518
 msgid ""
@@ -3530,7 +3530,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:43561
 msgid ""
@@ -3547,7 +3547,7 @@ msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/tooltip"
 msgstr ""
 "[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
-"\t\t\t\t\t\tTake 20 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
+"\t\t\t\t\t\tTake 10 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:43604
 msgid ""
@@ -3677,7 +3677,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/description"
 msgstr ""
 "Show a max-level Corruptor system to Corby.\n"
-"\t\t\t\tWhile in effect; +5 max health for Soulplague Tides."
+"\t\t\t\tWhile in effect; +5 max health for ally Soulplague Tides."
 
 #: src-en/data/hyperspace.xml.append:48089
 msgid ""
@@ -3721,7 +3721,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/description"
 msgstr ""
 "Show any Disparity equipment to Wakeson.\n"
-"\t\t\t\tWhile in effect; +10 max health for Hungering Shadows."
+"\t\t\t\tWhile in effect; +10 max health for ally Hungering Shadows."
 
 #: src-en/data/hyperspace.xml.append:48107
 msgid ""
@@ -3743,7 +3743,7 @@ msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/description"
 msgstr ""
 "Show any Soulplague equipment to Wakeson.\n"
-"\t\t\t\tWhile in effect; Husks take 0.25x damage from fire."
+"\t\t\t\tWhile in effect; ally Husks take 0.25x damage from fire."
 
 #: src-en/data/hyperspace.xml.append:48116
 msgid ""
@@ -3763,7 +3763,7 @@ msgstr "Blessing of ???"
 #: src-en/data/hyperspace.xml.append:48123
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/secretDescription"
-msgstr "Receive the Blessing of Dread from Wakeson."
+msgstr "Receive the Blessing of ??? from Wakeson."
 
 #: src-en/data/hyperspace.xml.append:48124
 msgid ""
@@ -4744,7 +4744,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48551
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CREW_DDTHEFOOLISH\"]/secretDescription"
-msgstr "Latch onto hope and uncover a forgotten truth."
+msgstr "Latch onto hope, and uncover a shrouded truth."
 
 #: src-en/data/hyperspace.xml.append:48552
 msgid ""

@@ -94,7 +94,9 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE\"]/desc"
 msgstr ""
 "A weapon of mass destruction that seems to harness the power of the Dark God"
-" itself."
+" itself. Fires a Pinpoint beam that pierces most shields, deals rapid "
+"erosion damage and generates volatile tears in space that ravage the target "
+"room."
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
@@ -266,7 +268,8 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/desc"
 msgstr ""
 "A special Pre-emptive Bomb weapon capable of drawing on the power of the "
-"Dark God's mad domain."
+"Dark God's mad domain. Summons a Dark Obelisk, which manipulates crew "
+"damage-taken multipliers and periodically summons random chaos."
 
 #: src-en/data/blueprints.xml.append:722
 msgid ""
@@ -2912,8 +2915,8 @@ msgstr "Artillery"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/desc"
 msgstr ""
-"[Base cooldown: 14] Fires a piercing beam that summons a Hungering Shadow "
-"and creates a temporary shroud of darkness in the room hit."
+"[Base cooldown: 14] Fires a piercing beam that damages systems, summons a "
+"Hungering Shadow and creates a temporary shroud of darkness in the room hit."
 
 #: src-en/data/blueprints.xml.append:16477
 msgid ""
@@ -2921,8 +2924,8 @@ msgid ""
 msgstr ""
 "Artillery: Fires a piercing beam that has a 100% chance of summoning a "
 "Hungering Shadow for 21 seconds and additionally creates a temporary shroud "
-"of darkness in the room hit for 12 seconds. Has a 30% chance to cause "
-"breaches."
+"of darkness in the room hit for 12 seconds. Has a 60% chance to cause "
+"breaches and deals 2 system damage."
 
 #: src-en/data/blueprints.xml.append:16486
 msgid ""
@@ -3812,7 +3815,7 @@ msgstr "Broodmother [A]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DISPARITY_BROODMOTHERTOG_DEFEND\"]/desc"
 msgstr ""
-"[CURRENT MODE: Anti-Personnel] A strange drone which harbors an ancient darkness inside it, which proliferates and spawns Hungering Shadows periodically.\n"
+"[CURRENT MODE: Anti-Personnel] A strange drone that harbors an ancient darkness inside of it, which proliferates and spawns Hungering Shadows periodically.\n"
 "    \n"
 "-175 HP, can't attack or sabotage\n"
 "-0.8x movement speed\n"
@@ -3832,7 +3835,7 @@ msgstr "Broodmother [B]"
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DISPARITY_BROODMOTHERTOG_BOARDER\"]/desc"
 msgstr ""
-"[CURRENT MODE: Boarding] A strange drone which harbors an ancient darkness inside it, which proliferates and spawns Hungering Shadows periodically.\n"
+"[CURRENT MODE: Boarding] A strange drone that harbors an ancient darkness inside of it, which proliferates and spawns Hungering Shadows periodically.\n"
 "    \n"
 "-175 HP, can't attack or sabotage\n"
 "-0.8x movement speed\n"
@@ -3999,7 +4002,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21168
 msgid ""
@@ -4019,7 +4022,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21190
 msgid ""
@@ -4039,7 +4042,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21207
 msgid ""
@@ -4059,7 +4062,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21229
 msgid ""
@@ -4079,17 +4082,17 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21246
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/title"
-msgstr "Abyss Templar II [Boarding]"
+msgstr "Abyss Templar III [Boarding]"
 
 #: src-en/data/blueprints.xml.append:21247
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/short"
-msgstr "A. Templar II [B]"
+msgstr "A. Templar III [B]"
 
 #: src-en/data/blueprints.xml.append:21248
 msgid ""
@@ -4099,7 +4102,7 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing ally Templars over time. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Abyss, draining health from enemies in rooms it marks and healing itself and other ally Templars over time. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21268
 msgid ""
@@ -4119,7 +4122,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21285
 msgid ""
@@ -4139,7 +4142,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21307
 msgid ""
@@ -4159,7 +4162,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21324
 msgid ""
@@ -4179,7 +4182,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21346
 msgid ""
@@ -4199,17 +4202,17 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21363
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/title"
-msgstr "Stars Templar II [Boarding]"
+msgstr "Stars Templar III [Boarding]"
 
 #: src-en/data/blueprints.xml.append:21364
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/short"
-msgstr "S. Templar II [B]"
+msgstr "S. Templar III [B]"
 
 #: src-en/data/blueprints.xml.append:21365
 msgid ""
@@ -4219,7 +4222,7 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for ally Templars. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Stars, enfeebling enemy combat damage/damage resistance in rooms it marks and empowering these same stats for itself and other ally Templars. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21385
 msgid ""
@@ -4239,7 +4242,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21402
 msgid ""
@@ -4259,7 +4262,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21424
 msgid ""
@@ -4279,7 +4282,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21441
 msgid ""
@@ -4299,7 +4302,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21463
 msgid ""
@@ -4319,17 +4322,17 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21480
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/title"
-msgstr "Mire Templar II [Boarding]"
+msgstr "Mire Templar III [Boarding]"
 
 #: src-en/data/blueprints.xml.append:21481
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/short"
-msgstr "M. Templar II [B]"
+msgstr "M. Templar III [B]"
 
 #: src-en/data/blueprints.xml.append:21482
 msgid ""
@@ -4339,7 +4342,7 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering ally Templar movement speed/door damage. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Mire, reducing enemy movement/repair speed in rooms it marks and empowering its own and other ally Templar movement speed/door damage. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21502
 msgid ""
@@ -4359,7 +4362,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21519
 msgid ""
@@ -4379,7 +4382,7 @@ msgstr ""
 "    \n"
 "-225 HP, 1.1x combat damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21541
 msgid ""
@@ -4399,7 +4402,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21558
 msgid ""
@@ -4419,7 +4422,7 @@ msgstr ""
 "    \n"
 "-300 HP, 1.5x combat damage, 2x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21580
 msgid ""
@@ -4439,17 +4442,17 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21597
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/title"
-msgstr "Dawn Templar II [Boarding]"
+msgstr "Dawn Templar III [Boarding]"
 
 #: src-en/data/blueprints.xml.append:21598
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/short"
-msgstr "D. Templar II [B]"
+msgstr "D. Templar III [B]"
 
 #: src-en/data/blueprints.xml.append:21599
 msgid ""
@@ -4459,7 +4462,7 @@ msgstr ""
 "    \n"
 "-400 HP, 2x combat damage, 4x door damage\n"
 "-0.5x movement speed\n"
-"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
+"-Fighting enemies allows it to utilize its Blessing of the Dawn, increasing enemy hazard vulnerability, bolstering its own and ally Templar fire resistance and additionally forcing both enemies and ally Templars to generate oxygen. This effect can stack."
 
 #: src-en/data/blueprints.xml.append:21612
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"deepone\"]/desc"
@@ -4512,11 +4515,12 @@ msgstr "Enlightened"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"deeponecultist\"]/powerList/power[1]"
 msgstr ""
-"Emanates a powerful, soothing aura, increasing movement speed (20%), repair "
-"speed (20%), damage (20%), sabotage speed (20%), max HP (+20), and "
-"decreasing damage taken (10%) of all other allied crew on the same ship. Can"
-" activate its ability to spread these effects to temporarily include the "
-"opposite ship. Takes double damage themselves and can't fight."
+"Emanates a passive aura, increasing movement speed (20%), repair speed "
+"(20%), damage (20%), sabotage speed (20%), max HP (+20), and decreasing "
+"damage taken (10%) for all other allied crew on the same ship. Can activate "
+"its ability to allow its passive effects to include both ships, in addition "
+"to making ally Hungering Shadows controllable. Takes 1.5x damage from all "
+"sources, and can't fight."
 
 #: src-en/data/blueprints.xml.append:21662
 msgid ""
@@ -4548,10 +4552,10 @@ msgstr "Enlightened"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"deeponecultist_enemy\"]/powerList/power[1]"
 msgstr ""
-"Emanates a powerful, soothing aura, increasing movement speed (10%), repair "
-"speed (10%), damage (10%), sabotage speed (10%), and max HP (+15) of all "
-"other allied crew on the same ship. Takes double damage themselves and can't"
-" fight."
+"Emanates a passive aura, increasing movement speed (10%), repair speed "
+"(10%), damage (10%), sabotage speed (10%), and max HP (+15) of all other "
+"allied crew on the same ship. Takes 1.5x damage from all sources, and can't "
+"fight."
 
 #: src-en/data/blueprints.xml.append:21684
 msgid ""
@@ -4621,7 +4625,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thescarred\"]/desc"
 msgstr ""
-"This Deep One has been forsaken by his kind and their Dark God, yet he's taken the power to resist both for himself.\n"
+"This Deep One has been forsaken by both their kind and their Dark God, and yet... it seems that, somehow, they've taken the power to resist both for themself.\n"
 "\t\n"
 "\tInherited Deep One stats: 140 health, 40% slower movement, 60% suffocation resistance and 1.4x fire weakness"
 
@@ -4647,7 +4651,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thescarredascended\"]/desc"
 msgstr ""
-"This Deep One has been FOR-SA-K-EN by his kind and their FA-LS-E God, yet he's taken the power to ASCE-ND for himself.\n"
+"This Deep One has been FOR-SA-K-EN by both their kind and their FA-LS-E God, and yet... it seems that, somehow, they've taken the power to ASCE-ND for themself.\n"
 "\t\n"
 "\tInherited Deep One stats: I A-M SO MU-C-H M-ORE NO-W"
 
@@ -4741,15 +4745,15 @@ msgid ""
 msgstr ""
 "Cannot fight or sabotage, but is practically invulnerable to incoming "
 "damage. Has an immense amount of HP, but naturally decays as their hunger "
-"eats away at them, and Disparity beacons increase the rate of this decay."
+"eats away at them. Disparity beacons increase the rate of this decay."
 
 #: src-en/data/blueprints.xml.append:21778
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: When HP falls below 200, assuming their ability has been "
-"charged via stalking enemies, they will spawn a special beacon that sends "
-"them and all allied Engi on a rampage."
+"Active Ability: When their HP falls below 200, assuming their ability has "
+"been charged via stalking enemies, they will spawn a special beacon that "
+"sends them and all allied Engi on a rampage."
 
 #: src-en/data/blueprints.xml.append:21782
 msgid ""
@@ -4774,16 +4778,17 @@ msgid ""
 msgstr ""
 "Cannot fight or sabotage, but is practically invulnerable to incoming "
 "damage. Has an immense amount of HP, but naturally decays as their hunger "
-"eats away at them, and Disparity beacons increase the rate of this decay."
+"eats away at them. Disparity beacons increase the rate of this decay."
 
 #: src-en/data/blueprints.xml.append:21790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger_enemy\"]/powerList/power[2]"
 msgstr ""
-"Active Ability: When HP falls below 50, assuming their ability has been "
-"charged via stalking enemies, they will spawn a special beacon that sends "
-"them and all allied Engi on a rampage. It's of the upmost importance that "
-"you avoid giving the Hunger charge, and stay away while they're below 50 HP!"
+"Active Ability: When their HP falls below 50, assuming their ability has "
+"been charged via stalking enemies, they will spawn a special beacon that "
+"sends them and all allied Engi on a rampage. It's of the upmost importance "
+"that you avoid giving the Hunger charge, and stay away while they're below "
+"50 HP!"
 
 #: src-en/data/blueprints.xml.append:21794
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi\"]/desc"
@@ -7510,7 +7515,7 @@ msgid ""
 msgstr ""
 "Tankier (110 HP), with much stronger draining powers (3hp/s, -0.975 "
 "oxygen/s, 3 bars of power) and no disadvantage at breaking down doors. "
-"Slightly slower (0.3x), but it splits into two Lesser Masses upon death.("
+"Slightly slower (0.3x), but it splits into two Lesser Masses upon death."
 
 #: src-en/data/blueprints.xml.append:22790
 msgid ""
@@ -7582,16 +7587,16 @@ msgstr "Will rapidly disintegrate should the rift be closed."
 #: src-en/data/blueprints.xml.append:22818
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/desc"
 msgstr ""
-"This strange set of sentient armor hums with unrealized power. Upon its "
-"chestpiece is written a name: 'EVELYN.'"
+"The Tempest's Wings - this strange set of sentient armor hums with "
+"unrealized power. Upon its chestpiece is written a name: 'EVELYN.'"
 
 #: src-en/data/blueprints.xml.append:22819
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/title"
-msgstr "Ultima Armor"
+msgstr "Dark Wings"
 
 #: src-en/data/blueprints.xml.append:22820
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/short"
-msgstr "U. Armor"
+msgstr "Wings"
 
 #: src-en/data/blueprints.xml.append:22825
 msgid ""
@@ -7605,27 +7610,27 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/powerList/power[2]"
 msgstr ""
-"Recharges its ability slowly, but it inflicts enemies in the same room with "
-"Storm Omen (speeding it up). Capable of a devastating transformation once "
-"its ability is charged, fully healing, summoning a Tempest Whirlwind, "
-"damaging enemies ship-wide and conjuring barrages of Tempest Lightning."
+"Recharges its ability slowly, but also inflicts enemies in the same room "
+"with Storm Omen. Capable of a devastating transformation once its ability is"
+" charged, fully healing, summoning a Tempest Whirlwind, damaging enemies "
+"ship-wide and conjuring barrages of Tempest Lightning."
 
 #: src-en/data/blueprints.xml.append:22830
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/desc"
 msgstr ""
-"This strange set of sentient armor hums with unrealized power. Upon its "
-"chestpiece is written a name: 'EVELYN.'"
+"The Tempest's Wings - this strange set of sentient armor hums with "
+"unrealized power. Upon its chestpiece is written a name: 'EVELYN.'"
 
 #: src-en/data/blueprints.xml.append:22831
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/title"
-msgstr "Ultima Armor"
+msgstr "Dark Wings"
 
 #: src-en/data/blueprints.xml.append:22832
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/short"
-msgstr "U. Armor"
+msgstr "Wings"
 
 #: src-en/data/blueprints.xml.append:22837
 msgid ""
@@ -7639,26 +7644,26 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/powerList/power[2]"
 msgstr ""
-"Recharges its ability slowly, but it inflicts enemies in the same room with "
-"Storm Omen (speeding it up). Capable of a devastating transformation once "
-"its ability is charged, fully healing, summoning a Tempest Whirlwind, "
-"damaging enemies ship-wide and conjuring barrages of Tempest Lightning."
+"Recharges its ability slowly, but also inflicts enemies in the same room "
+"with Storm Omen. Capable of a devastating transformation once its ability is"
+" charged, fully healing, summoning a Tempest Whirlwind, damaging enemies "
+"ship-wide and conjuring barrages of Tempest Lightning."
 
 #: src-en/data/blueprints.xml.append:22842
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/desc"
 msgstr ""
-"ULTIMA_POWER:ERROR:INTEGER_OVERFLOW.EXECUTING_COMMAND:UNIVERSAL_EXTERMINATION.REQUEST:SUBJECT_EVELYN:STRING:\"Are"
+"ULTIMA_POWER:ERROR:INTEGER_OVERFLOW.EXECUTING_COMMAND:HEAVEN_SUNDERING.REQUEST:SUBJECT_EVELYN:STRING:\"Are"
 " you watching?\""
 
 #: src-en/data/blueprints.xml.append:22843
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/title"
-msgstr "Ultima Armor"
+msgstr "Dark Wings"
 
 #: src-en/data/blueprints.xml.append:22844
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/short"
-msgstr "U. Armor"
+msgstr "Wings"
 
 #: src-en/data/blueprints.xml.append:22849
 msgid ""
@@ -7680,18 +7685,18 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/desc"
 msgstr ""
-"ULTIMA_POWER:ERROR:INTEGER_OVERFLOW.EXECUTING_COMMAND:UNIVERSAL_EXTERMINATION.REQUEST:SUBJECT_EVELYN:STRING:\"Are"
+"ULTIMA_POWER:ERROR:INTEGER_OVERFLOW.EXECUTING_COMMAND:HEAVEN_SUNDERING.REQUEST:SUBJECT_EVELYN:STRING:\"Are"
 " you watching?\""
 
 #: src-en/data/blueprints.xml.append:22855
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/title"
-msgstr "Ultima Armor"
+msgstr "Dark Wings"
 
 #: src-en/data/blueprints.xml.append:22856
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/short"
-msgstr "U. Armor"
+msgstr "Wings"
 
 #: src-en/data/blueprints.xml.append:22861
 msgid ""
@@ -7739,9 +7744,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_stormborn_spawn\"]/powerList/power[2]"
 msgstr ""
-"Recharges its ability slowly, but it inflicts enemies in the same room with "
-"Storm Omen (speeding it up). Once its ability is charged, it automatically "
-"activates and summons 3 bolts of Tempest Lightning on the enemy ship."
+"Recharges its ability slowly, but also inflicts enemies in the same room "
+"with Storm Omen, increasing nearby Tempest-aligned crews' ability recharge "
+"rates. Once its ability is charged, it automatically activates and summons 3"
+" bolts of Tempest Lightning on the enemy ship."
 
 #: src-en/data/blueprints.xml.append:22878
 msgid ""
@@ -7773,9 +7779,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerList/power[2]"
 msgstr ""
-"Recharges its ability slowly, but it inflicts enemies in the same room with "
-"Storm Omen (speeding it up). Once its ability is charged, it automatically "
-"activates and summons 3 bolts of Tempest Lightning on the enemy ship."
+"Recharges its ability slowly, but also inflicts enemies in the same room "
+"with Storm Omen, increasing nearby Tempest-aligned crews' ability recharge "
+"rates. Once its ability is charged, it automatically activates and summons 3"
+" bolts of Tempest Lightning on the enemy ship."
 
 #: src-en/data/blueprints.xml.append:22890
 msgid ""
@@ -7805,10 +7812,11 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_thunder_blight\"]/powerList/power[2]"
 msgstr ""
-">Recharges its ability slowly, but it inflicts enemies in the same room with"
-" Storm Omen (speeding it up). Its ability only charges if enemies are in the"
-" room, but automatically activates, ioning and summoning a Tempest Whirlwind"
-" in the room."
+">Recharges its ability slowly, but also inflicts enemies in the same room "
+"with Storm Omen. Its ability only charges if enemies are in the room, but "
+"automatically activates, ioning and summoning a Tempest Whirlwind in the "
+"room, massively slowing down enemy movement speed and making them take "
+"double damage from all sources."
 
 #: src-en/data/blueprints.xml.append:22902
 msgid ""
@@ -8891,7 +8899,8 @@ msgid ""
 msgstr ""
 "Enemies in the same room are infected with Soulplague, and it inflicts a "
 "room with Plagueridden upon death. Ability spawns three random Husks in "
-"enemy rooms."
+"enemy rooms. Husks created this way are exempt from the temporary "
+"weakness/vulnerability that typically affects most freshly spawned Husks."
 
 #: src-en/data/blueprints.xml.append:23300
 msgid ""
@@ -8924,7 +8933,8 @@ msgid ""
 msgstr ""
 "Enemies in the same room are infected with Soulplague, and it inflicts a "
 "room with Plagueridden upon death. Ability spawns three random Husks in "
-"enemy rooms."
+"enemy rooms. Husks created this way are exempt from the temporary "
+"weakness/vulnerability that typically affects most freshly spawned Husks."
 
 #: src-en/data/blueprints.xml.append:23312
 msgid ""
@@ -8957,7 +8967,8 @@ msgid ""
 msgstr ""
 "Active Ability: Combusts, taking heavy self damage to summon a random "
 "Soulplague Husk on the enemy ship. Slowly regenerates health back "
-"afterwards."
+"afterwards. Husks created this way are exempt from the temporary "
+"weakness/vulnerability that typically affects most freshly spawned Husks."
 
 #: src-en/data/blueprints.xml.append:23326
 msgid ""
@@ -8990,7 +9001,8 @@ msgid ""
 msgstr ""
 "Active Ability: Combusts, taking heavy self damage to summon a random "
 "Soulplague Husk on the enemy ship. Slowly regenerates health back "
-"afterwards."
+"afterwards. Husks created this way are exempt from the temporary "
+"weakness/vulnerability that typically affects most freshly spawned Husks."
 
 #: src-en/data/blueprints.xml.append:23340
 msgid ""
@@ -9210,7 +9222,7 @@ msgstr "Statue"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue\"]/powerList/power[1]"
 msgstr ""
-"Extremely fast, powerful and immune to mind control but 3x weak to both "
+"Extremely fast, powerful and immune to mind control but 5x weak to both "
 "suffocation and fire. It's incapable of moving while enemies are present in "
 "the same room, but said enemies are inflicted with Anxious, slowing their "
 "movement speed."
@@ -9228,7 +9240,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Cinderbark Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to suffocation and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to suffocation and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23435
 msgid ""
@@ -9260,7 +9272,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Frostwood Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to suffocation/fire and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to suffocation/fire and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23449
 msgid ""
@@ -9292,7 +9304,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Ironbound Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to fire and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to fire and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23463
 msgid ""
@@ -9324,7 +9336,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Leafhost Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to suffocation/fire and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to suffocation/fire and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23477
 msgid ""
@@ -9356,7 +9368,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Toxblood Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to suffocation/fire and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to suffocation/fire and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23491
 msgid ""
@@ -9388,7 +9400,7 @@ msgid ""
 msgstr ""
 "An Ill'drythk Statue that's undergone a mutation as a result of injecting it with Voidroot Mutagen.\n"
 "\t\n"
-"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 3x weak to suffocation/fire and incapable of acting while enemies are nearby."
+"\tInherited Ill'drythk stats: Extremely fast, powerful, and immune to mind control but 5x weak to suffocation/fire and incapable of acting while enemies are nearby."
 
 #: src-en/data/blueprints.xml.append:23505
 msgid ""
@@ -9533,7 +9545,7 @@ msgstr "Manifestation"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofdetermination\"]/powerList/power"
 msgstr ""
-"Manifestation of Deterimination: Nearby enemies are siphoned for their "
+"Manifestation of Determination: Nearby enemies are siphoned for their "
 "energy, increasing the Heroine's ability regen rate for every enemy in the "
 "room. Affected enemies regenerate their own abilities slower."
 
@@ -9750,7 +9762,7 @@ msgid ""
 msgstr ""
 "Has amplified Shell damage resistance, meaning it takes 0.6x combat damage, "
 "deals 1.5x damage, suffocates at half speed, resists mind control and heals "
-"from fires. Has slow health regen and can teleport anywhere."
+"from fires. Has health regen after a delay, and can teleport anywhere."
 
 #: src-en/data/blueprints.xml.append:23665
 msgid ""
@@ -9783,7 +9795,7 @@ msgid ""
 msgstr ""
 "Has amplified Shell damage resistance, meaning it takes 0.6x combat damage, "
 "deals 1.5x damage, suffocates at half speed, resists mind control and heals "
-"from fires. Has slow health regen and can teleport anywhere."
+"from fires. Has health regen after a delay, and can teleport anywhere."
 
 #: src-en/data/blueprints.xml.append:23677
 msgid ""
@@ -9864,7 +9876,7 @@ msgid ""
 msgstr ""
 "Lobotomized through a cruel and brutal ritual, this human has been prepared for a future sacrifice.\n"
 "\n"
-"\tInherited Human stats: minor hazard resistance"
+"\tInherited Human stats: minor fire resistance"
 
 #: src-en/data/blueprints.xml.append:23709
 msgid ""
@@ -9888,8 +9900,9 @@ msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddhuman_sacrifice\"]/powerList/power[2]"
 msgstr ""
 "Hindered and incapable of most action, the damage to their brain is "
-"irreversible by any means. Unable to be used for most blue options, as they "
-"are barely cognizant."
+"irreversible by any means. Though they're unable to be used for most blue "
+"options, as they are barely cognizant, some dark power allows them to "
+"sustain themselves anaerobically."
 
 #: src-en/data/blueprints.xml.append:23734
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"dddark_obelisk\"]/desc"
@@ -9972,9 +9985,9 @@ msgstr "Caretaker"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_caretaker\"]/powerList/power[1]"
 msgstr ""
-"Incapable of fighting, but has 1.5x repair speed, 3x fire extinguish speed, "
-"quick-to-act 2.1hp/s regeneration, mind control immunity and 0.25x hazard "
-"resistance."
+"Incapable of fighting or teleporting, but has 1.5x repair speed, 3x fire "
+"extinguish speed, quick-to-act 2.1hp/s regeneration, mind control immunity "
+"and 0.25x hazard resistance."
 
 #: src-en/data/blueprints.xml.append:23766
 msgid ""
@@ -10087,8 +10100,8 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/powerList/power[2]"
 msgstr ""
-"Incapable of holding this form for long, it will return to its normal form "
-"after 13 seconds."
+"Incapable of holding this form for long, she will return to her normal form "
+"after 20 seconds."
 
 #: src-en/data/blueprints.xml.append:23808
 msgid ""
@@ -11919,16 +11932,15 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:26553
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DISPARITY_CRYSTAL_ARMOR\"]/title"
-msgstr "Disparity Crystal Armor"
+msgstr "Shadow-Crystal Armor"
 
 #: src-en/data/blueprints.xml.append:26554
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DISPARITY_CRYSTAL_ARMOR\"]/desc"
 msgstr ""
-"A foul combination of darkness and Crystal tech that belongs to the "
-"Disparity. Upon taking hull damage, your ship has a 50% chance of releasing "
-"a blast of darkness that will pierce all shields and manifest as a Hungering"
-" Shadow."
+"A mysterious, and foul, combination of darkness and Crystal tech. Upon "
+"taking hull damage, your ship has a 50% chance of releasing a blast of "
+"darkness that will pierce all shields and manifest as a Hungering Shadow."
 
 #: src-en/data/blueprints.xml.append:26561
 msgid ""
@@ -12222,8 +12234,8 @@ msgstr "Tempest Blessing"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_ENEMY\"]/desc"
 msgstr ""
-"[Level 1] Blessed by the Tempest, your ship is warded against enemy attacks "
-"and your Tempest-aligned crew and drones surge with eldritch electricity. "
+"[Level ??] Blessed by the Tempest, your ship is warded against enemy attacks"
+" and your Tempest-aligned crew and drones surge with eldritch electricity. "
 "Should you desire greater blessings still, you must perform rituals and help"
 " establish new Cults of the Tempest across this reality."
 
@@ -12686,7 +12698,7 @@ msgstr "Soulplague Gas"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_GAS\"]/desc"
 msgstr ""
 "Your ship is filled with a deadly, otherworldly gas which will passively "
-"damage boarders over time for 3.7hp/s and infect them with Soulplague. If "
+"damage boarders over time for 2.3hp/s and infect them with Soulplague. If "
 "killed, any enemy crew infected with Soulplague will resurrect as an ally "
 "Soulplague Husk on the enemy ship, regardless of where they die. Drones and "
 "Soulplague-aligned crew are immune."
@@ -12701,7 +12713,7 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_GAS_ENEMY\"]/desc"
 msgstr ""
 "Your ship is filled with a deadly, otherworldly gas which will passively "
-"damage boarders over time for 3.7hp/s and infect them with Soulplague. If "
+"damage boarders over time for 2.3hp/s and infect them with Soulplague. If "
 "killed, any enemy crew infected with Soulplague will resurrect as an ally "
 "Soulplague Husk on the enemy ship, regardless of where they die. Drones and "
 "Soulplague-aligned crew are immune."
@@ -12714,7 +12726,7 @@ msgstr "Seraphim Gas"
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DDSERAPHIM_GAS\"]/desc"
 msgstr ""
 "Your ship is filled with a deadly, heavenly gas which will passively damage "
-"boarders over time for 2.3hp/s and inflict them with the effects of Divine "
+"boarders over time for 7.77hp/s and inflict them with the effects of Divine "
 "Judgment. Additionally, fires on your ship will automatically be "
 "extinguished and your crew benefit from the positive effects of Divine "
 "Judgment while on your ship. Nothing is immune."
@@ -13041,7 +13053,7 @@ msgstr "Deep One Subsumation"
 #: src-en/data/blueprints.xml.append:27259
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\"]/desc"
-msgstr "Your Corruptor Tides have 0.8x combat damage resistance."
+msgstr "Your Corruptor Tides can be controlled."
 
 #: src-en/data/blueprints.xml.append:27265
 msgid ""
