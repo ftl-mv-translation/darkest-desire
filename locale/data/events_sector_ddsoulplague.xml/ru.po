@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-11 07:23+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_sector_ddsoulplaguexml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ddsoulplague.xml:13
 msgid ""
@@ -742,6 +750,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:473
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[4]/text"
 msgstr "Нет, к черту. Убьем этого парня."
@@ -1375,6 +1384,7 @@ msgstr ""
 "щедро вознаградим вас... всем, что сможем выделить\"."
 
 #: src-en/data/events_sector_ddsoulplague.xml:847
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"SHOTGUN_DARKGOD\"]/text"
 msgstr "Передать им свое темное осколочное оружие."
@@ -1390,6 +1400,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:858
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"LASER_DARKGOD\"]/text"
 msgstr "Передать им свое темное легкое лазерное оружие."
@@ -1405,6 +1416,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:869
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"BOMB_DARKGOD\"]/text"
 msgstr "Передать им свое оружие - темную бомбу."
@@ -1420,6 +1432,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:880
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DD_BEAM_INSTANT_DARKGOD\"]/text"
 msgstr "Передать им свое темное лучевое оружие."
@@ -1435,6 +1448,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:891
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DDLASER_CHARGE_DARKGOD\"]/text"
 msgstr "Передать им свой темный зарядный лазер."
@@ -1483,6 +1497,7 @@ msgstr ""
 "щедро вознаградим вас... всем, что сможем выделить\"."
 
 #: src-en/data/events_sector_ddsoulplague.xml:919
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"DRONE_MINISHROUD\"]/text"
 msgstr "Передать им свой темный боевой дрон."
@@ -1498,6 +1513,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:930
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DISPARITYBROODMOTHER\"]/text"
 msgstr "Передать им свой темный противопехотный дрон."
@@ -1513,6 +1529,7 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:941
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DDDISPARITYADMINISTRATOR\"]/text"
 msgstr "Передать им свой темный служебный дрон."
@@ -2040,6 +2057,7 @@ msgstr ""
 " появившись на вашем корабле через несколько мгновений..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:1270
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/choice/event/choice/text"
 msgstr "Да, пошел ты в Алькали! Время торговать!"
@@ -2647,6 +2665,7 @@ msgstr ""
 "обломков!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1675
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP\"]/choice[@req=\"SCRAP_COLLECTOR\"]/text"
 msgstr ""
@@ -2654,6 +2673,7 @@ msgstr ""
 "лома!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1679
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP\"]/choice[@req=\"MAGNET_ARM\"]/text"
 msgstr ""
@@ -7336,6 +7356,7 @@ msgstr ""
 "следующему маяку."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4214
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/text"
 msgstr ""
@@ -7344,8 +7365,8 @@ msgstr ""
 "вызывают вас: \"Ренегат? Какого черта ты делаешь здесь, в ЭТОЙ дыре? Ладно, "
 "неважно. Мы только что столкнулись с какими-то уродами, и эти твари утащили "
 "капитана. Я бы с радостью засунул их обратно в ту адскую нору, из которой "
-"они вылезли, но у нас закончились боеголовки в бою... выручи, а?\" И правда,"
-" их оружие не заряжено... хотя кто знает, насколько искренни их намерения."
+"они вылезли, но у нас закончились боеголовки в бою... выручи, а?\" И правда, "
+"их оружие не заряжено... хотя кто знает, насколько искренни их намерения."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4217
 msgid ""
@@ -7372,6 +7393,7 @@ msgid ""
 msgstr "Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4227
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -7400,6 +7422,7 @@ msgid ""
 msgstr "Интересно. Поблагодарить их за помощь и отправиться в путь."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4237
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_STRANDEDGOOBERS_SEARCHLIST_PIRATE\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -8009,6 +8032,7 @@ msgstr ""
 "понимаете, что это оболочки, и, похоже, вы привлекли их внимание!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4622
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[1]"
 msgstr ""
@@ -8017,6 +8041,7 @@ msgstr ""
 "когда она неуверенно приближается!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4623
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[2]"
 msgstr ""
@@ -8025,6 +8050,7 @@ msgstr ""
 "движется. Это еще один корабль оболочек, и они направляются к вам!"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4624
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[3]"
 msgstr ""
@@ -8535,6 +8561,7 @@ msgstr ""
 "пребывания в их реальности\"."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4857
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
@@ -9405,17 +9432,18 @@ msgid ""
 msgstr "Мне придется отказаться, извините."
 
 #: src-en/data/events_sector_ddsoulplague.xml:5229
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
-"Энергия в ее движениях угасает, едва заметно, когда она снова кивает "
-"головой: \"Тогда... не обращайте на меня внимания. Это моя вина, что я с "
-"самого начала приняла вас за героя... но не волнуйтесь! Однажды я найду "
-"нужную мне помощь. А пока...\" За ее спиной, пока она говорит, появляется "
-"еще один портал, и она охотно направляется к нему, \"...желаю вам удачи в "
-"ваших собственных трудностях\". Портал поглощает ее и тут же закрывается, "
-"оставляя вас в тишине. Часть вас чувствует вину, но... у вас действительно "
-"свои проблемы. Вам придется двигаться дальше."
+"Энергия в ее движениях угасает, едва заметно, когда она снова кивает головой:"
+" \"Тогда... не обращайте на меня внимания. Это моя вина, что я с самого "
+"начала приняла вас за героя... но не волнуйтесь! Однажды я найду нужную мне "
+"помощь. А пока...\" За ее спиной, пока она говорит, появляется еще один "
+"портал, и она охотно направляется к нему, "
+"\"...желаю вам удачи в ваших собственных трудностях\". Портал поглощает ее и "
+"тут же закрывается, оставляя вас в тишине. Часть вас чувствует вину, но... у "
+"вас действительно свои проблемы. Вам придется двигаться дальше."
 
 #: src-en/data/events_sector_ddsoulplague.xml:5247
 msgid ""
@@ -9518,14 +9546,15 @@ msgid ""
 msgstr "Мне придется отказаться, извините."
 
 #: src-en/data/events_sector_ddsoulplague.xml:5286
+#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
-"Энергия в ее движениях угасает, едва заметно, когда она снова кивает "
-"головой: \"Тогда... не обращайте на меня внимания. Это моя вина, что я с "
-"самого начала приняла вас за героя... но не волнуйтесь! Однажды я найду "
-"нужную мне помощь. А пока...\" За ее спиной, пока она говорит, появляется "
-"еще один портал, и она охотно направляется к нему, \"...желаю вам удачи в "
-"ваших собственных трудностях\". Портал поглощает ее и тут же закрывается, "
-"оставляя вас в тишине. Часть вас чувствует вину, но... у вас действительно "
-"свои проблемы. Вам придется двигаться дальше."
+"Энергия в ее движениях угасает, едва заметно, когда она снова кивает головой:"
+" \"Тогда... не обращайте на меня внимания. Это моя вина, что я с самого "
+"начала приняла вас за героя... но не волнуйтесь! Однажды я найду нужную мне "
+"помощь. А пока...\" За ее спиной, пока она говорит, появляется еще один "
+"портал, и она охотно направляется к нему, "
+"\"...желаю вам удачи в ваших собственных трудностях\". Портал поглощает ее и "
+"тут же закрывается, оставляя вас в тишине. Часть вас чувствует вину, но... у "
+"вас действительно свои проблемы. Вам придется двигаться дальше."
