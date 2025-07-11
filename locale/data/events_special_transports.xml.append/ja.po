@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 05:39+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_special_transportsxmlappend/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_transports.xml.append:3
 msgid ""
@@ -77,8 +70,7 @@ msgstr "何もしない。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_ENLIGHTENED\"]/text"
 msgstr ""
-"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち"
-"帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
 
 #: src-en/data/events_special_transports.xml.append:59
 msgid ""
@@ -145,8 +137,7 @@ msgstr "何もしない。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DISPARITY\"]/text"
 msgstr ""
-"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち"
-"帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
 
 #: src-en/data/events_special_transports.xml.append:113
 msgid ""
@@ -325,5 +316,113 @@ msgstr "何もしない。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDCOREMASS\"]/text"
 msgstr ""
-"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち"
-"帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+"敵クルーは死亡し、敵船が残されました。その貨物はあなたのものです。自船に持ち帰った貨物には、あなたが期待していた特別な技術が搭載されていました。"
+
+#: src-en/data/events_special_transports.xml.append:269
+msgid ""
+"data/events_special_transports.xml.append$//ship[@name=\"SHIP_DDFALSE_RADIANCE_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:279
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_special_transports.xml.append:280
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/visitedTooltip"
+msgstr "探索済みの場所。面白いものは何も残っていない。"
+
+#: src-en/data/events_special_transports.xml.append:281
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "未訪問の場所。"
+
+#: src-en/data/events_special_transports.xml.append:283
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:286
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:288
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:291
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:293
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:296
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:302
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:304
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:306
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:310
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:318
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:320
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:323
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/choice[1]/text"
+msgstr "船内で何かをする。"
+
+#: src-en/data/events_special_transports.xml.append:327
+#, fuzzy
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/choice[2]/text"
+msgstr "何もしない。"
+
+#: src-en/data/events_special_transports.xml.append:335
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDFALSE_RADIANCE\"]/text"
+msgstr ""

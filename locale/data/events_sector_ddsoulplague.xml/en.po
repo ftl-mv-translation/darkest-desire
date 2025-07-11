@@ -7536,27 +7536,27 @@ msgstr "Do nothing."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4347
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/text"
 msgstr "The ship breaks apart and you quickly salvage what you can."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4350
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/choice/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4355
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/text"
 msgstr "With the crew dead you quickly salvage what you can."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4358
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/choice/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4365
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT_WIN\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT_WIN\"]/text"
 msgstr ""
 "Was this some kind of ambush by the Husks? You shiver at the possibility... "
 "still, there's little left to do but move on. At the very least, that's one "
@@ -7564,7 +7564,7 @@ msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4370
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/text"
 msgstr ""
 "Within a clearing in the nebula, it doesn't take you very long to spot the "
 "ship emitting the distress call... unfortunately, nor does it take you very "
@@ -7572,7 +7572,7 @@ msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4375
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/choice/text"
 msgstr "Continue..."
 
 #: src-en/data/events_sector_ddsoulplague.xml:4389
@@ -7975,7 +7975,32 @@ msgstr ""
 "ship, much shakier in its approach... you quickly realize that they're "
 "Husks, and it seems you've pulled their attention!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4627
+#: src-en/data/events_sector_ddsoulplague.xml:4622
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[1]"
+msgstr ""
+"There's a sinking feeling in your stomach as the shadow of a ship looms "
+"within the nebula outside. You catch its attention, and your worst fears are"
+" confirmed as it makes its unsteady approach!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4623
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[2]"
+msgstr ""
+"For a moment, there's a glimmer of hope in your heart as you spot a ship "
+"amidst the storm... but it's extinguished in an instant when you notice the "
+"way they move. It's yet another Husk ship, and they're headed this way!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4624
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[3]"
+msgstr ""
+"A ship roars past you as you enter the beacon, but you don't get a good look"
+" at it before it sinks deeper into the nebula. Following it comes a second "
+"ship, much shakier in its approach... you quickly realize that they're "
+"Husks, and it seems you've pulled their attention!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4633
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[1]"
 msgstr ""
@@ -7983,7 +8008,7 @@ msgstr ""
 "remains of the Husk-infested ship. Would be a shame if you picked up any "
 "contaminated scrap, and the cycle started anew..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4628
+#: src-en/data/events_sector_ddsoulplague.xml:4634
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[2]"
 msgstr ""
@@ -7991,7 +8016,7 @@ msgstr ""
 "Husk ship breaks apart, but you're able to avoid their path and find what "
 "resources you can among the wreckage."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4629
+#: src-en/data/events_sector_ddsoulplague.xml:4635
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[3]"
 msgstr ""
@@ -7999,7 +8024,7 @@ msgstr ""
 "Hopefully, the ship's previous owners can rest easy now that you've avenged "
 "them."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4630
+#: src-en/data/events_sector_ddsoulplague.xml:4636
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[4]"
 msgstr ""
@@ -8008,7 +8033,7 @@ msgstr ""
 "hands, but there's little to worry about if you can keep these victories "
 "against its Husks consistent."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4631
+#: src-en/data/events_sector_ddsoulplague.xml:4637
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[5]"
 msgstr ""
@@ -8017,7 +8042,7 @@ msgstr ""
 "stacks of scrap and resources... you could get used to this, if this place "
 "didn't make you feel so uncomfortable."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4632
+#: src-en/data/events_sector_ddsoulplague.xml:4638
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[6]"
 msgstr ""
@@ -8025,7 +8050,7 @@ msgstr ""
 "they're fully functional, but you're confident enough in your abilities to "
 "discern between authentic matter and... the more icky bits."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4641
+#: src-en/data/events_sector_ddsoulplague.xml:4647
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[1]"
 msgstr ""
@@ -8033,7 +8058,7 @@ msgstr ""
 " traversed. Best make this quick, before anyone steps in any iridescent "
 "puddles of infected matter..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4642
+#: src-en/data/events_sector_ddsoulplague.xml:4648
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[2]"
 msgstr ""
@@ -8041,7 +8066,7 @@ msgstr ""
 "that birthed them is not to be underestimated as you carefully gather what "
 "loot you can from the ship's remains."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4643
+#: src-en/data/events_sector_ddsoulplague.xml:4649
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[3]"
 msgstr ""
@@ -8049,7 +8074,7 @@ msgstr ""
 "feel for its previous occupants... the, uh, NOT horribly oily and tentacled "
 "ones."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4644
+#: src-en/data/events_sector_ddsoulplague.xml:4650
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[4]"
 msgstr ""
@@ -8057,7 +8082,7 @@ msgstr ""
 "them now being little more than puddles on the floor, you're free to "
 "scavenge the inside of the ship they'd hijacked."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4645
+#: src-en/data/events_sector_ddsoulplague.xml:4651
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[5]"
 msgstr ""
@@ -8065,7 +8090,7 @@ msgstr ""
 "horrors, the spoils of war are now yours for the taking. Just make sure to "
 "leave any rainbow bits behind, yeah?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4646
+#: src-en/data/events_sector_ddsoulplague.xml:4652
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[6]"
 msgstr ""
@@ -8075,17 +8100,22 @@ msgstr ""
 "very-much-still activated matter aboard their ship... it takes a careful eye"
 " to discern between what's valuable and what's life-threatening."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4654
+#: src-en/data/events_sector_ddsoulplague.xml:4660
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4664
+#: src-en/data/events_sector_ddsoulplague.xml:4671
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_HOSTILE_DDSOULPLAGUE_HUSKS\"]/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4681
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_STORM\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4670
+#: src-en/data/events_sector_ddsoulplague.xml:4687
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO_TEXT\"]/text[1]"
 msgstr ""
@@ -8093,7 +8123,7 @@ msgstr ""
 "you'll take blowing up Auto-ships over Husks any day. They're much less "
 "messy, and much more... crunchy."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4671
+#: src-en/data/events_sector_ddsoulplague.xml:4688
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO_TEXT\"]/text[2]"
 msgstr ""
@@ -8102,12 +8132,12 @@ msgstr ""
 "into your mind. You have to hope that the Corruptor system remains under-"
 "utilized by the galaxy at large..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4679
+#: src-en/data/events_sector_ddsoulplague.xml:4696
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4685
+#: src-en/data/events_sector_ddsoulplague.xml:4702
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG_TEXT\"]/text[1]"
 msgstr ""
@@ -8116,7 +8146,7 @@ msgstr ""
 " unfortunately, as they point their weapons at you and demand your "
 "valuables... some things never change."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4686
+#: src-en/data/events_sector_ddsoulplague.xml:4703
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG_TEXT\"]/text[2]"
 msgstr ""
@@ -8129,12 +8159,12 @@ msgstr ""
 "send Federation vessels to collect taxes, and why does it not surprise you "
 "that a Slug would sooner hide in a zombie-infested sector than pay them?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4694
+#: src-en/data/events_sector_ddsoulplague.xml:4711
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4700
+#: src-en/data/events_sector_ddsoulplague.xml:4717
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST_TEXT\"]/text[1]"
 msgstr ""
@@ -8143,7 +8173,7 @@ msgstr ""
 "only signifier is the fact that the ruined vessel's approaching steadily, "
 "with its weapons charging!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4701
+#: src-en/data/events_sector_ddsoulplague.xml:4718
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST_TEXT\"]/text[2]"
 msgstr ""
@@ -8153,36 +8183,36 @@ msgstr ""
 "just don't like you, but it seems that they're intent on attacking "
 "regardless!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4709
+#: src-en/data/events_sector_ddsoulplague.xml:4726
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4716
+#: src-en/data/events_sector_ddsoulplague.xml:4733
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/destroyed/text"
 msgstr ""
 "There's a piercing, yet heavenly, cry that rings in your head as the "
 "Seraphim Prophet crumbles, and explodes... you've survived!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4719
+#: src-en/data/events_sector_ddsoulplague.xml:4736
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4724
+#: src-en/data/events_sector_ddsoulplague.xml:4741
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/deadCrew/text"
 msgstr ""
 "There's a piercing, yet heavenly, cry that rings in your head as the final "
 "Seraph falls, and their ship crumbles, and explodes... you've survived!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4729
+#: src-en/data/events_sector_ddsoulplague.xml:4746
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/deadCrew/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4736
+#: src-en/data/events_sector_ddsoulplague.xml:4753
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/text"
 msgstr ""
@@ -8194,12 +8224,12 @@ msgstr ""
 "otherwise.\" He begins to walk away, when you realize that you do have a "
 "question in mind still..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4738
+#: src-en/data/events_sector_ddsoulplague.xml:4755
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/text"
 msgstr "Wait, what's your name?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4740
+#: src-en/data/events_sector_ddsoulplague.xml:4757
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/text"
 msgstr ""
@@ -8212,12 +8242,85 @@ msgstr ""
 "to leave; a comfort born from the fact that you won't have to face these "
 "horrors alone."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4743
+#: src-en/data/events_sector_ddsoulplague.xml:4760
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/crewMember"
 msgstr "The Minister"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4749
+#: src-en/data/events_sector_ddsoulplague.xml:4762
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/text"
+msgstr "Let's head out, then!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4764
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/text"
+msgstr ""
+"As you prepare to set off, though... something amidst the nebula's clouds "
+"catches your attention. You quickly realize what it is - a gap in the seams "
+"that bind the Multiverse. This is what the Seraphim must've come here to "
+"protect..."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4771
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
+msgstr "(The Shade) Behind you, the cloaked figure stirs..."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4773
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
+msgstr ""
+"For the first time ever, you spot the Shade moving in the presence of no "
+"enemies. You notice that its gaze seems fixated on the spacetime anomaly "
+"outside... and it hits you. You've seen one of these gaps in the seams "
+"before, when you first met the Shade - back in the domain of the Dark God..."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4775
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/text"
+msgstr "Continue..."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4777
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
+msgstr ""
+"Pondering this, you almost miss as something within the Shade's cloak "
+"glows... and the tear outside begins to resonate."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4785
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
+msgstr "Wait, what are you doing?"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4787
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
+msgstr ""
+"You don't get a verbal answer - rather, you receive a very, very physical "
+"one... as a shockwave roars out from the seams' gap, and you find your ship "
+"being pulled in at impossible speeds! There's no escaping this - you need to"
+" grab onto something, and fast!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4790
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
+msgstr "Reach out for something!"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4803
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[2]/text"
+msgstr "Turn away from the strange thing."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4805
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"You've no intention of breaching this thing, with no expertise of your own -"
+" who knows what hellish reality you'd end up in! More than satisfied in "
+"leaving the seams' gap alone, you find yourself preparing to head out once "
+"more."
+
+#: src-en/data/events_sector_ddsoulplague.xml:4815
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/text"
 msgstr ""
@@ -8225,12 +8328,12 @@ msgstr ""
 "unclear what went wrong, and how, but his body is simply floating here in "
 "space... unmoving. His vital signatures read back negative."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4751
+#: src-en/data/events_sector_ddsoulplague.xml:4817
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/text"
 msgstr "Retrieve the old man's corpse."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4753
+#: src-en/data/events_sector_ddsoulplague.xml:4819
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/text"
 msgstr ""
@@ -8241,12 +8344,12 @@ msgstr ""
 " a white orb embedded in the middle of the armor's chest, and you're sent "
 "back reeling as electricity begins to arc around it!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4755
+#: src-en/data/events_sector_ddsoulplague.xml:4821
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/text"
 msgstr "Watch in awe."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4757
+#: src-en/data/events_sector_ddsoulplague.xml:4823
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/text"
 msgstr ""
@@ -8259,12 +8362,12 @@ msgstr ""
 "\"...that some hooligan would come across me first. So, you did survive... "
 "and, somehow, you've gotten to me before any of my underlings. Wondrous.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4759
+#: src-en/data/events_sector_ddsoulplague.xml:4825
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/text"
 msgstr "Is that any way to thank me? I just saved your life!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4761
+#: src-en/data/events_sector_ddsoulplague.xml:4827
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8276,12 +8379,12 @@ msgstr ""
 " be revived as soon I'm within an environment considered suitable for "
 "habitation. Thus is the Tempest's will.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4763
+#: src-en/data/events_sector_ddsoulplague.xml:4829
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr "The Tempest?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4765
+#: src-en/data/events_sector_ddsoulplague.xml:4831
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8293,12 +8396,12 @@ msgstr ""
 " ship, as well, by the look of things...\" The man puts a hand to his temple"
 " once more, and you get the feeling that he does that a lot..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4767
+#: src-en/data/events_sector_ddsoulplague.xml:4833
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Your patron? Your work? Tasks? Seraphim? I have a lot of questions..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4769
+#: src-en/data/events_sector_ddsoulplague.xml:4835
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8308,14 +8411,14 @@ msgstr ""
 "suspect that the Tempest wants me here, regardless of my own desires. Very "
 "well; I will answer your questions, belligerent one. Ask away...\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4771
+#: src-en/data/events_sector_ddsoulplague.xml:4837
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
 "You mentioned that this Tempest is your patron. What does that entail, "
 "exactly? Who are they?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4773
+#: src-en/data/events_sector_ddsoulplague.xml:4839
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
@@ -8330,12 +8433,12 @@ msgstr ""
 "branded me in this DAMNABLE armor! It's been decades since I was forced to "
 "don it, and not once within that time have I been free from its confines.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4775
+#: src-en/data/events_sector_ddsoulplague.xml:4841
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr "What is it exactly?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4777
+#: src-en/data/events_sector_ddsoulplague.xml:4843
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8346,14 +8449,14 @@ msgstr ""
 "curse to some, but... I've a mission, here in life, that I simply cannot "
 "allow myself to fail. The armor ensures that, in its own way.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4779
+#: src-en/data/events_sector_ddsoulplague.xml:4845
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 "That's a lot to absorb... let's take a step back for a moment. The Shells we"
 " fought also mentioned these seams; what are they?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4781
+#: src-en/data/events_sector_ddsoulplague.xml:4847
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8363,12 +8466,12 @@ msgstr ""
 "lane, so to speak, fail to do so.\" He looks you over, judgmentally, \"I... "
 "don't suppose you're familiar with Universal Cluster Theory?\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4783
+#: src-en/data/events_sector_ddsoulplague.xml:4849
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "I, uh, can't say I am."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4785
+#: src-en/data/events_sector_ddsoulplague.xml:4851
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8387,12 +8490,12 @@ msgstr ""
 "realities more in-line with our own 'cluster'; say, one where Slugs love to "
 "eat chocolate pudding for no reason apparent to us.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4787
+#: src-en/data/events_sector_ddsoulplague.xml:4853
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "Right... and where do the Seraphim come into this?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4789
+#: src-en/data/events_sector_ddsoulplague.xml:4855
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8412,14 +8515,14 @@ msgstr ""
 "and I merely adopted the term after my brief incursion through their "
 "reality.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4791
+#: src-en/data/events_sector_ddsoulplague.xml:4857
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 "Fuck, alright... that's a lot to take in. You mentioned that the Seraphim "
 "used to be less aggressive. Did something happen?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4793
+#: src-en/data/events_sector_ddsoulplague.xml:4859
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8430,14 +8533,14 @@ msgstr ""
 "for me to say, but the fact of the matter is that they defend these breaches"
 " in the seams with their lives, as you've seen here today.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4795
+#: src-en/data/events_sector_ddsoulplague.xml:4861
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 "Speaking of... is that why you came out here, then? To breach the seams and "
 "enter the Seraphim's reality again?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4797
+#: src-en/data/events_sector_ddsoulplague.xml:4863
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8448,12 +8551,12 @@ msgstr ""
 "open for someone, or something, and has used me to ensure that that's the "
 "case.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4799
+#: src-en/data/events_sector_ddsoulplague.xml:4865
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "If the breach is open, then... could we enter it?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4801
+#: src-en/data/events_sector_ddsoulplague.xml:4867
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8467,14 +8570,14 @@ msgstr ""
 "the-know would be suicidal enough to agree to it. I only did it, so long "
 "ago, because I felt I had no other choice...\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4803
+#: src-en/data/events_sector_ddsoulplague.xml:4869
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 "Right... you keep alluding to that. What drove you to travel through hell "
 "and seek the Tempest's audience, then?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4805
+#: src-en/data/events_sector_ddsoulplague.xml:4871
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8486,12 +8589,12 @@ msgstr ""
 "this project that I stumbled upon Universal Cluster Theory, as well as... "
 "darker findings.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4807
+#: src-en/data/events_sector_ddsoulplague.xml:4873
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "Darker findings? Such as?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4809
+#: src-en/data/events_sector_ddsoulplague.xml:4875
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8504,12 +8607,12 @@ msgstr ""
 "The consequences that I would be the one to pay! The consequences that... my"
 " daughter would pay.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4811
+#: src-en/data/events_sector_ddsoulplague.xml:4877
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "Your daughter..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4813
+#: src-en/data/events_sector_ddsoulplague.xml:4879
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8528,12 +8631,12 @@ msgstr ""
 "Drive off before much more was lost, but it was already too late at that "
 "point. I'd felt like I'd lost everything.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4815
+#: src-en/data/events_sector_ddsoulplague.xml:4881
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "I see. I'm sorry..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4817
+#: src-en/data/events_sector_ddsoulplague.xml:4883
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8553,12 +8656,12 @@ msgstr ""
 " saw of him, or the Rebellion... I've been the Tempest's Hand ever since "
 "that journey concluded.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4819
+#: src-en/data/events_sector_ddsoulplague.xml:4885
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr "So, you work for the Tempest, but... what of your wish?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4821
+#: src-en/data/events_sector_ddsoulplague.xml:4887
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -8569,77 +8672,77 @@ msgstr ""
 "eyes, \"I can only pray that at the end of this journey, the Tempest grants "
 "my wish, and I can see her again.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4823
+#: src-en/data/events_sector_ddsoulplague.xml:4889
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4829
+#: src-en/data/events_sector_ddsoulplague.xml:4895
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4835
+#: src-en/data/events_sector_ddsoulplague.xml:4901
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4841
+#: src-en/data/events_sector_ddsoulplague.xml:4907
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4847
+#: src-en/data/events_sector_ddsoulplague.xml:4913
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4853
+#: src-en/data/events_sector_ddsoulplague.xml:4919
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4859
+#: src-en/data/events_sector_ddsoulplague.xml:4925
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4865
+#: src-en/data/events_sector_ddsoulplague.xml:4931
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4871
+#: src-en/data/events_sector_ddsoulplague.xml:4937
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4877
+#: src-en/data/events_sector_ddsoulplague.xml:4943
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4883
+#: src-en/data/events_sector_ddsoulplague.xml:4949
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4889
+#: src-en/data/events_sector_ddsoulplague.xml:4955
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4895
+#: src-en/data/events_sector_ddsoulplague.xml:4961
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[2]/text"
 msgstr "I have no further questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4901
+#: src-en/data/events_sector_ddsoulplague.xml:4967
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "Actually, honestly, I'll pass on the questions."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4917
+#: src-en/data/events_sector_ddsoulplague.xml:4983
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/text"
 msgstr ""
@@ -8648,13 +8751,13 @@ msgstr ""
 "comes. He hasn't left without a word, has he? You still haven't gotten your "
 "loot! Maybe you can find his ship amidst the nebula, somehow...?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4920
+#: src-en/data/events_sector_ddsoulplague.xml:4986
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/text"
 msgstr ""
 "(Stormborn Spawn) Look to the monstrous blob you were given for answers."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4922
+#: src-en/data/events_sector_ddsoulplague.xml:4988
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/event/text"
 msgstr ""
@@ -8665,51 +8768,51 @@ msgstr ""
 "to somewhere nearby. You can't explain it, but you feel as if you understand"
 " the old man's exact location just through this thing's connection to him..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4924
+#: src-en/data/events_sector_ddsoulplague.xml:4990
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/event/choice/text"
 msgstr "Follow this strange feeling."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4930
+#: src-en/data/events_sector_ddsoulplague.xml:4996
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Slug Crew) Have your Slug try to locate him."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4932
+#: src-en/data/events_sector_ddsoulplague.xml:4998
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
 "Your Slug looks over the vast space outside, and is able to get a faint "
 "reading some distance away... emphasis on faint. Has something gone wrong?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4934
+#: src-en/data/events_sector_ddsoulplague.xml:5000
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/text"
 msgstr "Follow your Slug's reading."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4940
+#: src-en/data/events_sector_ddsoulplague.xml:5006
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
 msgstr "(Telepathic Shell) Have your Shell try to locate him."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4942
+#: src-en/data/events_sector_ddsoulplague.xml:5008
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
 "Your Shell looks over the vast space outside, and is able to get a faint "
 "reading some distance away... emphasis on faint. Has something gone wrong?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4944
+#: src-en/data/events_sector_ddsoulplague.xml:5010
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice/text"
 msgstr "Follow your Shell's reading."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4950
+#: src-en/data/events_sector_ddsoulplague.xml:5016
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/text"
 msgstr "(Lifeform Scanner) Try to locate him with the Lifeform Scanner."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4952
+#: src-en/data/events_sector_ddsoulplague.xml:5018
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/event/text"
 msgstr ""
@@ -8717,34 +8820,34 @@ msgstr ""
 "a faint reading some distance away... emphasis on faint. Has something gone "
 "wrong?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4954
+#: src-en/data/events_sector_ddsoulplague.xml:5020
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/event/choice/text"
 msgstr "Follow your Lifeform Scanner's reading."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4960
+#: src-en/data/events_sector_ddsoulplague.xml:5026
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/text"
 msgstr "(Adv. Sensors) Try to locate him with your powerful sensors."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4962
+#: src-en/data/events_sector_ddsoulplague.xml:5028
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/event/text"
 msgstr ""
 "Your sensors scan over the vast space outside, and are able to get a faint "
 "reading some distance away... emphasis on faint. Has something gone wrong?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4964
+#: src-en/data/events_sector_ddsoulplague.xml:5030
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/event/choice/text"
 msgstr "Follow your sensors' reading."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4970
+#: src-en/data/events_sector_ddsoulplague.xml:5036
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[6]/text"
 msgstr "Try to find him yourself."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4972
+#: src-en/data/events_sector_ddsoulplague.xml:5038
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[6]/event/text"
 msgstr ""
@@ -8755,12 +8858,12 @@ msgstr ""
 "additional minutes is going to change that. It's time to leave, empty-"
 "handed..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4986
+#: src-en/data/events_sector_ddsoulplague.xml:5052
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/beaconType/unvisitedTooltip"
 msgstr "The strange Crystal transport's coordinates pointed to this location."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4988
+#: src-en/data/events_sector_ddsoulplague.xml:5054
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/text"
 msgstr ""
@@ -8768,13 +8871,13 @@ msgstr ""
 "here, you can't make it out amongst the nebula. The space here feels as dead"
 " as the rest of the sector."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4991
+#: src-en/data/events_sector_ddsoulplague.xml:5057
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/text"
 msgstr "There's got to be something here!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4993
+#: src-en/data/events_sector_ddsoulplague.xml:5059
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/text"
@@ -8789,13 +8892,13 @@ msgstr ""
 "binding regent?\" You're unsure of how to respond, and the man repeats "
 "himself after a moment, \"Well? You have, haven't you?\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4995
+#: src-en/data/events_sector_ddsoulplague.xml:5061
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "I, uh..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:4997
+#: src-en/data/events_sector_ddsoulplague.xml:5063
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/text"
@@ -8806,13 +8909,13 @@ msgstr ""
 "\"You are not Vydoorin. Tell me; how did you find me here, in the middle of "
 "nowhere?\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4999
+#: src-en/data/events_sector_ddsoulplague.xml:5065
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Well, I..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5001
+#: src-en/data/events_sector_ddsoulplague.xml:5067
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
@@ -8823,13 +8926,13 @@ msgstr ""
 " him see over your shoulder, before shaking his head and sighing, \"Your "
 "vessel will have to do. It seems capable enough, if little else.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5003
+#: src-en/data/events_sector_ddsoulplague.xml:5069
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
 msgstr "What? What are you talking about?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5005
+#: src-en/data/events_sector_ddsoulplague.xml:5071
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
@@ -8845,13 +8948,13 @@ msgstr ""
 "but it should remain feasible as long as you simply DON'T die. Can you "
 "manage that?\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5007
+#: src-en/data/events_sector_ddsoulplague.xml:5073
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Hold on. THEIR force? You're still speaking vaguely..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5009
+#: src-en/data/events_sector_ddsoulplague.xml:5075
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
@@ -8862,14 +8965,14 @@ msgstr ""
 "overtakes the both of you, its sheer brilliance piercing even the nebula "
 "around you, and you're left dazed..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5012
+#: src-en/data/events_sector_ddsoulplague.xml:5078
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Gather your wits."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5014
+#: src-en/data/events_sector_ddsoulplague.xml:5080
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
@@ -8885,14 +8988,14 @@ msgstr ""
 "drive has been overloaded with energy somehow, crippling it for the time "
 "being... it seems you'll have to do as the old man asks."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5017
+#: src-en/data/events_sector_ddsoulplague.xml:5083
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Take a deep breath, and face the flaming ship."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5019
+#: src-en/data/events_sector_ddsoulplague.xml:5085
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
@@ -8911,14 +9014,14 @@ msgstr ""
 "though? Seams? Taint? Burning? You don't like the sound of that last one in "
 "particular..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5022
+#: src-en/data/events_sector_ddsoulplague.xml:5089
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5024
+#: src-en/data/events_sector_ddsoulplague.xml:5091
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
@@ -8931,27 +9034,27 @@ msgstr ""
 "man's idea of assistance?! It'll have to do, as the flaming Shell ship "
 "approaches; prepare yourself!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5026
+#: src-en/data/events_sector_ddsoulplague.xml:5093
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
 msgstr "Mist'tsk"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5028
+#: src-en/data/events_sector_ddsoulplague.xml:5095
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5048
+#: src-en/data/events_sector_ddsoulplague.xml:5115
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"1\"]/text"
 msgstr "The Ultima Armor seems to almost look at you."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5050
+#: src-en/data/events_sector_ddsoulplague.xml:5117
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"1\"]/event/text"
@@ -8960,7 +9063,7 @@ msgstr ""
 "Armor doesn't want you to find it... it looks like you'll have to leave, "
 "with nothing but disappointment to show for it."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5056
+#: src-en/data/events_sector_ddsoulplague.xml:5123
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ENCOUNTER_DDSOULPLAGUE_ELITE\"]/text"
 msgstr ""
@@ -8969,46 +9072,46 @@ msgstr ""
 "here. You're considering asking them why when they turn to face you, weapons"
 " charging! They must consider you a threat!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5060
+#: src-en/data/events_sector_ddsoulplague.xml:5127
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ENCOUNTER_DDSOULPLAGUE_ELITE\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5070
+#: src-en/data/events_sector_ddsoulplague.xml:5137
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/beaconType/unvisitedTooltip"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 "You noticed this location, and its corrupted data, as you entered the "
 "sector."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5072
+#: src-en/data/events_sector_ddsoulplague.xml:5139
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/text"
 msgstr ""
 "The strange, marked beacon appears to have led you to a clearing in the "
 "nebula, but... is there nothing else here?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5076
+#: src-en/data/events_sector_ddsoulplague.xml:5143
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/text"
 msgstr "I don't see anything."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5078
+#: src-en/data/events_sector_ddsoulplague.xml:5145
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/text"
 msgstr ""
 "You remark at the beacon's emptiness to yourself, and a rogue thought enters your head:\n"
 "\t\t\t\n"
 "\t\t\tFor you haven't the eyes to see."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5082
+#: src-en/data/events_sector_ddsoulplague.xml:5149
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/text"
 msgstr "The eyes to see... what does that mean?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5084
+#: src-en/data/events_sector_ddsoulplague.xml:5151
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/text"
 msgstr ""
 "An explosion from behind you sends you flying into the ship's console, and you turn around to see... someone armored head-to-toe, stepping out of some kind of portal. No, not so much stepping out as much as they're fighting their way out - the spear in their hands tearing away at the goopy, oily tentacles that threaten to pull them in. You realize that you recognize these tentacles... this is Soulplague-infected matter! You watch, in awe, as the figure finishes cutting away at the tentacles, and the portal shuts closed behind them. They take a moment to wipe themself off, deactivated Soulplague matter splattering against the floor as they do so, before turning to you, pointing at themself, and finally speaking:\n"
 "\t\t\t\t\t\n"
@@ -9016,29 +9119,29 @@ msgstr ""
 "\t\t\t\t\t\n"
 "\t\t\t\t\tYou figure that sounded cooler in their head, and you're still not really sure what that means, but at the very least you're able to remark on their voice. Though they're muffled behind their helmet, you feel that they sound feminine, theatrical and exhausted. Especially exhausted."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5091
+#: src-en/data/events_sector_ddsoulplague.xml:5158
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/text"
 msgstr ""
 "Alright, uh... ma'am? Who are you? And do you often break into people's "
 "ships via portal...?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5093
+#: src-en/data/events_sector_ddsoulplague.xml:5160
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 "\"Break into - you're here because you got my message, RIGHT? You got it, "
 "didn't you?\" She didn't object to being called ma'am, so that's that "
 "settled. As far as her message goes..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5095
+#: src-en/data/events_sector_ddsoulplague.xml:5162
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr "Do you mean that weird series of rhymes?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5097
+#: src-en/data/events_sector_ddsoulplague.xml:5164
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "She puts her gauntlets together, spear still in hand, awkwardly, \"YES! "
 "You've answered the hero's call! Good, because there's not a lot of time to "
@@ -9050,14 +9153,14 @@ msgstr ""
 "got a hero's heart, and that's all that matters! Though, it does make this "
 "rather awkward... do you have any idea what's happening?\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5099
+#: src-en/data/events_sector_ddsoulplague.xml:5166
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr "Not a clue."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5101
+#: src-en/data/events_sector_ddsoulplague.xml:5168
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 "\"I see... well, you're my only chance now, lest I wait another lifetime! "
 "I'll have to make this as quick as I can.\" She gathers her thoughts for a "
@@ -9068,14 +9171,14 @@ msgstr ""
 "echoes of its work if you've come this close to their center, right?\" She "
 "gestures outside, and stares inquisitively."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5103
+#: src-en/data/events_sector_ddsoulplague.xml:5170
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr "Do you mean the Soulplague mattervirus?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5105
+#: src-en/data/events_sector_ddsoulplague.xml:5172
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 "The armored woman nods, \"It doesn't matter what you want to call it; what "
 "it is, is entropy incarnate. It's less of a 'matter' virus, though that "
@@ -9092,30 +9195,30 @@ msgstr ""
 "space, and time, in order to accomplish one goal: keeping ME trapped "
 "forever.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5107
+#: src-en/data/events_sector_ddsoulplague.xml:5174
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr ""
 "Well... you don't look particularly trapped. Or extradimensional, for that "
 "matter."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5109
+#: src-en/data/events_sector_ddsoulplague.xml:5176
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "She throws her hands in the air, \"HEY! Don't you be getting sarcastic with "
 "ME! It's not easy fending off endless waves of mindless, tentacled freaks "
 "for... one, two... four... ugh, I don't know, centuries? Wow, yeah... you're"
 " really the first person I've talked to since this whole thing's started.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5111
+#: src-en/data/events_sector_ddsoulplague.xml:5178
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "Wait, centuries?! Like, literally?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5113
+#: src-en/data/events_sector_ddsoulplague.xml:5180
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "\"YES, literally! Well... also no, not literally. Like I said, this "
 "extradimensional prison doesn't function by the same rules as the rest of "
@@ -9128,14 +9231,14 @@ msgstr ""
 " to drown in.\" She holds one hand at her waist, and the other way up high, "
 "as if that's necessary to illustrate her point."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5115
+#: src-en/data/events_sector_ddsoulplague.xml:5182
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Alright, and you... what? Broke out of these oceans?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5117
+#: src-en/data/events_sector_ddsoulplague.xml:5184
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "She resets her hands, and shakes her head, \"Oh, how I wish I could. I'm "
 "only here on borrowed time... time I've slowly accrued over the course of "
@@ -9150,14 +9253,14 @@ msgstr ""
 "seen the state this sector's in... if you don't act, would the mattervirus "
 "one day come to overtake other sectors, too? Would its expansion ever end?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5119
+#: src-en/data/events_sector_ddsoulplague.xml:5186
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Well, what am I supposed to do? You sound, uh... pretty capable."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5121
+#: src-en/data/events_sector_ddsoulplague.xml:5188
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Your comment seems to have stroked her ego slightly, \"Well, as capable as I"
 " am, there's still only so many of me. The rate at which the metaphorical "
@@ -9168,16 +9271,16 @@ msgstr ""
 "armored woman poses, triumphantly, and you can't help but feel a little "
 "embarrassed."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5123
+#: src-en/data/events_sector_ddsoulplague.xml:5190
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 "You're certain that this heart exists? And that it's the only thing keeping "
 "the mattervirus going?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5125
+#: src-en/data/events_sector_ddsoulplague.xml:5192
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "She nods, \"You'll see what I mean soon enough, if you haven't already, but "
 "it has a way of worming its way into your mind. For better, or for worse, I "
@@ -9189,14 +9292,14 @@ msgstr ""
 "asking such a harrowing task of anyone, and I cannot guarantee that you and "
 "your comrades here will make it out with their lives.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5127
+#: src-en/data/events_sector_ddsoulplague.xml:5194
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr "This sounds absurd, but... screw it, I'm in."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5129
+#: src-en/data/events_sector_ddsoulplague.xml:5196
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 "There's a loud, clanging noise as she slams the butt of her spear against "
 "the floor, and puts her hand to her chest once more, \"THAT'S THE HEROIC "
@@ -9219,16 +9322,16 @@ msgstr ""
 "hands... but it doesn't burn you. Rather, you feel that you find it "
 "soothing."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5132
+#: src-en/data/events_sector_ddsoulplague.xml:5199
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 "Alright, I'll try to be smart about it. When exactly are we expecting your "
 "captors to return, then?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5134
+#: src-en/data/events_sector_ddsoulplague.xml:5201
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 "\"Well... it's taking longer than I'd expected, but-\" Before she can finish"
 " her sentence, another portal appears from the ether and opens up behind "
@@ -9240,45 +9343,45 @@ msgstr ""
 "more as the Soulplague wave completely envelops her, successfully dragging "
 "her in, and the portal closes."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5136
+#: src-en/data/events_sector_ddsoulplague.xml:5203
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr "Wait! How am I meant to follow you?!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5138
+#: src-en/data/events_sector_ddsoulplague.xml:5205
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "Though the silence is deafening, you get your answer another way as the "
 "space outside seems to shift, and twist..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5140
+#: src-en/data/events_sector_ddsoulplague.xml:5207
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5142
+#: src-en/data/events_sector_ddsoulplague.xml:5209
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...and, indeed, some sort sort of vast mass appears, in addition to the "
 "sporadic spawning of innumerable rainbow wormholes. It looks like this is "
 "it... having already made your decision, you move to fly into one of the "
 "wormholes. Brace yourself; you're entering lightspeed!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5145
+#: src-en/data/events_sector_ddsoulplague.xml:5212
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Hold onto something!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5160
+#: src-en/data/events_sector_ddsoulplague.xml:5227
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "I'll have to pass, sorry."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5162
+#: src-en/data/events_sector_ddsoulplague.xml:5229
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 "The energy in her movements fades, ever so slightly, as she nods her head "
 "once more, \"Then... pay me no mind. It's my fault for assuming you were a "
@@ -9289,14 +9392,14 @@ msgstr ""
 "of you feels guilty, but... you've your own struggles indeed. You'll have to"
 " press on."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5180
+#: src-en/data/events_sector_ddsoulplague.xml:5247
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "I do; no need to explain."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5182
+#: src-en/data/events_sector_ddsoulplague.xml:5249
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 "She nods, \"Then, tell me - are you to be the fellow hero I seek? There is "
 "little shame in walking away; as troublesome as it'll be to get another "
@@ -9304,14 +9407,14 @@ msgstr ""
 "I cannot guarantee that you and your comrades here will make it out with "
 "their lives.\""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5184
+#: src-en/data/events_sector_ddsoulplague.xml:5251
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
 msgstr "Of course! I'm in."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5186
+#: src-en/data/events_sector_ddsoulplague.xml:5253
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
 "There's a loud, clanging noise as she slams the butt of her spear against "
 "the floor, and puts her hand to her chest once more, \"THAT'S THE HEROIC "
@@ -9334,16 +9437,16 @@ msgstr ""
 "hands... but it doesn't burn you. Rather, you feel that you find it "
 "soothing."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5189
+#: src-en/data/events_sector_ddsoulplague.xml:5256
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/text"
 msgstr ""
 "Alright, I'll try to be smart about it. When exactly are we expecting your "
 "captors to return, then?"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5191
+#: src-en/data/events_sector_ddsoulplague.xml:5258
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
 msgstr ""
 "\"Well... it's taking longer than I'd expected, but-\" Before she can finish"
 " her sentence, another portal appears from the ether and opens up behind "
@@ -9355,45 +9458,45 @@ msgstr ""
 "more as the Soulplague wave completely envelops her, successfully dragging "
 "her in, and the portal closes."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5193
+#: src-en/data/events_sector_ddsoulplague.xml:5260
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/text"
 msgstr "Wait! How am I meant to follow you?!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5195
+#: src-en/data/events_sector_ddsoulplague.xml:5262
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "Though the silence is deafening, you get your answer another way as the "
 "space outside seems to shift, and twist..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5197
+#: src-en/data/events_sector_ddsoulplague.xml:5264
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5199
+#: src-en/data/events_sector_ddsoulplague.xml:5266
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...and, indeed, some sort sort of vast mass appears, in addition to the "
 "sporadic spawning of innumerable rainbow wormholes. It looks like this is "
 "it... having already made your decision, you move to fly into one of the "
 "wormholes. Brace yourself; you're entering lightspeed!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5202
+#: src-en/data/events_sector_ddsoulplague.xml:5269
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Hold onto something!"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5217
+#: src-en/data/events_sector_ddsoulplague.xml:5284
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
 msgstr "I'll have to pass, sorry."
 
-#: src-en/data/events_sector_ddsoulplague.xml:5219
+#: src-en/data/events_sector_ddsoulplague.xml:5286
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
 "The energy in her movements fades, ever so slightly, as she nods her head "
 "once more, \"Then... pay me no mind. It's my fault for assuming you were a "

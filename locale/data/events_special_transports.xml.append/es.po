@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 05:40+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_special_transportsxmlappend/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_transports.xml.append:3
 msgid ""
@@ -76,9 +69,9 @@ msgstr "No hacer nada."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_ENLIGHTENED\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
 
 #: src-en/data/events_special_transports.xml.append:59
 msgid ""
@@ -146,9 +139,9 @@ msgstr "No hacer nada."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DISPARITY\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
 
 #: src-en/data/events_special_transports.xml.append:113
 msgid ""
@@ -326,6 +319,114 @@ msgstr "No hacer nada."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDCOREMASS\"]/text"
 msgstr ""
-"La tripulación está muerta, dejandote con el control de la nave. Su carga es "
-"tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes "
-"de vuelta a tu nave."
+"La tripulación está muerta, dejandote con el control de la nave. Su carga es"
+" tuya ahora. Abordo está la tecnología especial que esperabas, la cual traes"
+" de vuelta a tu nave."
+
+#: src-en/data/events_special_transports.xml.append:269
+msgid ""
+"data/events_special_transports.xml.append$//ship[@name=\"SHIP_DDFALSE_RADIANCE_TRANSPORT_LOOT\"]/escape/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:279
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/unvisitedTooltip"
+msgstr "Una ubicación no visitada."
+
+#: src-en/data/events_special_transports.xml.append:280
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/visitedTooltip"
+msgstr "Ubicación explorada. No hay nada más de interés."
+
+#: src-en/data/events_special_transports.xml.append:281
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/undiscoveredTooltip"
+msgstr "Una ubicación no visitada."
+
+#: src-en/data/events_special_transports.xml.append:283
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:286
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:288
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:291
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:293
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:296
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:302
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:304
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:306
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:310
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:318
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr "..."
+
+#: src-en/data/events_special_transports.xml.append:320
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_special_transports.xml.append:323
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/choice[1]/text"
+msgstr "Hacer algo abordo de la nave."
+
+#: src-en/data/events_special_transports.xml.append:327
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/choice[2]/text"
+msgstr "No hacer nada."
+
+#: src-en/data/events_special_transports.xml.append:335
+msgid ""
+"data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDFALSE_RADIANCE\"]/text"
+msgstr ""

@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 05:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_sector_ddsoulplaguexml/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ddsoulplague.xml:13
 msgid ""
@@ -5449,37 +5442,37 @@ msgstr "何もしない。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4347
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/text"
 msgstr "船はばらばらになり、あなたはすぐにできる限りの物を回収します。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4350
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/choice/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/destroyed/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4355
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/text"
 msgstr "敵クルーは死亡し、あなたはすぐにできる限りのものをサルベージします。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4358
 msgid ""
-"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/choice/text"
+"data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT\"]/deadCrew/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4365
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT_WIN\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH_FIGHT_WIN\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4370
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4375
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DISTRESS_DDSOULPLAGUE_HUSKAMBUSH\"]/choice/text"
 msgstr "次へ…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4389
@@ -5777,891 +5770,966 @@ msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_STORM_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4627
+#: src-en/data/events_sector_ddsoulplague.xml:4622
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[1]"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4623
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4624
+msgid ""
+"data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_LIGHTNEBULA_TEXT\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4633
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4628
+#: src-en/data/events_sector_ddsoulplague.xml:4634
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4629
+#: src-en/data/events_sector_ddsoulplague.xml:4635
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4630
+#: src-en/data/events_sector_ddsoulplague.xml:4636
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4631
+#: src-en/data/events_sector_ddsoulplague.xml:4637
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4632
+#: src-en/data/events_sector_ddsoulplague.xml:4638
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DESTROYED_DDSOULPLAGUE_HUSKS\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4641
+#: src-en/data/events_sector_ddsoulplague.xml:4647
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4642
+#: src-en/data/events_sector_ddsoulplague.xml:4648
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4643
+#: src-en/data/events_sector_ddsoulplague.xml:4649
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4644
+#: src-en/data/events_sector_ddsoulplague.xml:4650
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4645
+#: src-en/data/events_sector_ddsoulplague.xml:4651
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4646
+#: src-en/data/events_sector_ddsoulplague.xml:4652
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"TEXT_DEAD_CREW_DDSOULPLAGUE_HUSKS\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4654
+#: src-en/data/events_sector_ddsoulplague.xml:4660
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4664
+#: src-en/data/events_sector_ddsoulplague.xml:4671
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_HOSTILE_DDSOULPLAGUE_HUSKS\"]/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_ddsoulplague.xml:4681
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_HUSKS_STORM\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4670
+#: src-en/data/events_sector_ddsoulplague.xml:4687
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4671
+#: src-en/data/events_sector_ddsoulplague.xml:4688
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4679
+#: src-en/data/events_sector_ddsoulplague.xml:4696
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_AUTO\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4685
+#: src-en/data/events_sector_ddsoulplague.xml:4702
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4686
+#: src-en/data/events_sector_ddsoulplague.xml:4703
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4694
+#: src-en/data/events_sector_ddsoulplague.xml:4711
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_SLUG\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4700
+#: src-en/data/events_sector_ddsoulplague.xml:4717
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4701
+#: src-en/data/events_sector_ddsoulplague.xml:4718
 msgid ""
 "data/events_sector_ddsoulplague.xml$//textList[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4709
+#: src-en/data/events_sector_ddsoulplague.xml:4726
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_HOSTILE_DDSOULPLAGUE_GHOST\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4716
+#: src-en/data/events_sector_ddsoulplague.xml:4733
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/destroyed/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4719
+#: src-en/data/events_sector_ddsoulplague.xml:4736
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/destroyed/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4724
+#: src-en/data/events_sector_ddsoulplague.xml:4741
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/deadCrew/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4729
+#: src-en/data/events_sector_ddsoulplague.xml:4746
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT\"]/deadCrew/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:4736
+#: src-en/data/events_sector_ddsoulplague.xml:4753
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4738
+#: src-en/data/events_sector_ddsoulplague.xml:4755
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4740
+#: src-en/data/events_sector_ddsoulplague.xml:4757
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4743
+#: src-en/data/events_sector_ddsoulplague.xml:4760
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4749
+#: src-en/data/events_sector_ddsoulplague.xml:4762
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4751
+#: src-en/data/events_sector_ddsoulplague.xml:4764
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4753
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4755
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4757
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4759
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4761
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4763
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4765
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4767
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4769
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4771
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4773
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4775
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/text"
+msgstr "次へ…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4777
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4779
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4781
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4783
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4785
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4787
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4789
+#: src-en/data/events_sector_ddsoulplague.xml:4790
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4791
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4793
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4795
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4797
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4799
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4801
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4803
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4805
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4807
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4809
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4811
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:4813
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED_NOMOREQUESTIONS\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4815
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4817
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4819
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4821
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4823
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4825
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4827
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4829
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4831
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4833
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4835
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4837
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4839
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4841
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4843
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4845
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4847
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4849
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4851
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4853
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4855
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4857
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4859
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4861
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4863
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4865
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4867
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4869
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4871
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4873
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4875
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4877
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4879
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4881
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4883
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4885
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4887
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4889
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4895
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:4901
 msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4907
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4913
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4919
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4925
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4931
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4937
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4943
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4949
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4955
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4961
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:4967
+msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN_OLDMANLOCATED\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4917
+#: src-en/data/events_sector_ddsoulplague.xml:4983
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4920
+#: src-en/data/events_sector_ddsoulplague.xml:4986
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4922
+#: src-en/data/events_sector_ddsoulplague.xml:4988
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4924
+#: src-en/data/events_sector_ddsoulplague.xml:4990
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"ddtempest_stormborn_spawn\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4930
+#: src-en/data/events_sector_ddsoulplague.xml:4996
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4932
+#: src-en/data/events_sector_ddsoulplague.xml:4998
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4934
+#: src-en/data/events_sector_ddsoulplague.xml:5000
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4940
+#: src-en/data/events_sector_ddsoulplague.xml:5006
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4942
+#: src-en/data/events_sector_ddsoulplague.xml:5008
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4944
+#: src-en/data/events_sector_ddsoulplague.xml:5010
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4950
+#: src-en/data/events_sector_ddsoulplague.xml:5016
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4952
+#: src-en/data/events_sector_ddsoulplague.xml:5018
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4954
+#: src-en/data/events_sector_ddsoulplague.xml:5020
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"LIFE_SCANNER\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4960
+#: src-en/data/events_sector_ddsoulplague.xml:5026
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4962
+#: src-en/data/events_sector_ddsoulplague.xml:5028
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4964
+#: src-en/data/events_sector_ddsoulplague.xml:5030
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[@req=\"sensors\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4970
+#: src-en/data/events_sector_ddsoulplague.xml:5036
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[6]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4972
+#: src-en/data/events_sector_ddsoulplague.xml:5038
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER_SERAPHIMPROPHET_FIGHT_WIN\"]/choice[6]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4986
+#: src-en/data/events_sector_ddsoulplague.xml:5052
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4988
+#: src-en/data/events_sector_ddsoulplague.xml:5054
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4991
+#: src-en/data/events_sector_ddsoulplague.xml:5057
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4993
+#: src-en/data/events_sector_ddsoulplague.xml:5059
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4995
+#: src-en/data/events_sector_ddsoulplague.xml:5061
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4997
+#: src-en/data/events_sector_ddsoulplague.xml:5063
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:4999
+#: src-en/data/events_sector_ddsoulplague.xml:5065
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5001
+#: src-en/data/events_sector_ddsoulplague.xml:5067
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5003
+#: src-en/data/events_sector_ddsoulplague.xml:5069
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5005
+#: src-en/data/events_sector_ddsoulplague.xml:5071
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5007
+#: src-en/data/events_sector_ddsoulplague.xml:5073
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5009
+#: src-en/data/events_sector_ddsoulplague.xml:5075
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5012
+#: src-en/data/events_sector_ddsoulplague.xml:5078
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5014
+#: src-en/data/events_sector_ddsoulplague.xml:5080
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5017
+#: src-en/data/events_sector_ddsoulplague.xml:5083
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5019
+#: src-en/data/events_sector_ddsoulplague.xml:5085
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5022
+#: src-en/data/events_sector_ddsoulplague.xml:5089
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5024
+#: src-en/data/events_sector_ddsoulplague.xml:5091
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5026
+#: src-en/data/events_sector_ddsoulplague.xml:5093
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5028
+#: src-en/data/events_sector_ddsoulplague.xml:5095
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5048
+#: src-en/data/events_sector_ddsoulplague.xml:5115
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5050
+#: src-en/data/events_sector_ddsoulplague.xml:5117
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_QUEST_DDSOULPLAGUE_THEMINISTER\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5056
+#: src-en/data/events_sector_ddsoulplague.xml:5123
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ENCOUNTER_DDSOULPLAGUE_ELITE\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5060
+#: src-en/data/events_sector_ddsoulplague.xml:5127
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ENCOUNTER_DDSOULPLAGUE_ELITE\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_sector_ddsoulplague.xml:5070
+#: src-en/data/events_sector_ddsoulplague.xml:5137
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/beaconType/unvisitedTooltip"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/beaconType/unvisitedTooltip"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5072
+#: src-en/data/events_sector_ddsoulplague.xml:5139
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5076
+#: src-en/data/events_sector_ddsoulplague.xml:5143
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5078
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5082
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5084
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5091
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5093
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5095
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5097
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5099
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5101
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5103
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5105
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5107
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5109
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5111
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5113
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5115
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5117
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5119
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5121
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5123
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5125
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5127
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5129
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5132
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5134
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5136
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5138
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
-
-#: src-en/data/events_sector_ddsoulplague.xml:5140
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "次へ…"
-
-#: src-en/data/events_sector_ddsoulplague.xml:5142
-msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5145
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5149
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5151
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5158
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5160
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5162
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5164
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5166
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5168
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5170
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5172
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5174
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5176
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5178
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5180
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5182
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5184
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5186
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5189
+#: src-en/data/events_sector_ddsoulplague.xml:5188
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5191
+#: src-en/data/events_sector_ddsoulplague.xml:5190
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5193
+#: src-en/data/events_sector_ddsoulplague.xml:5192
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5195
+#: src-en/data/events_sector_ddsoulplague.xml:5194
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5197
+#: src-en/data/events_sector_ddsoulplague.xml:5196
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr "次へ…"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
 
 #: src-en/data/events_sector_ddsoulplague.xml:5199
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5202
+#: src-en/data/events_sector_ddsoulplague.xml:5201
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5217
+#: src-en/data/events_sector_ddsoulplague.xml:5203
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_ddsoulplague.xml:5219
+#: src-en/data/events_sector_ddsoulplague.xml:5205
 msgid ""
-"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/event/text"
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5207
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_ddsoulplague.xml:5209
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5212
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5227
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5229
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5247
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5249
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5251
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5253
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5256
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5258
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5260
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5262
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5264
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "次へ…"
+
+#: src-en/data/events_sector_ddsoulplague.xml:5266
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5269
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5284
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddsoulplague.xml:5286
+msgid ""
+"data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_LIGHT_DDSOULPLAGUE_BEACONOFHOPE_QUEST\"]/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""

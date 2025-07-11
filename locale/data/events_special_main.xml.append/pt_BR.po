@@ -1,53 +1,46 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 05:42+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Portuguese (Brazil) <https://weblate.hyperq.be/projects/"
-"darkest-desire/dataevents_special_mainxmlappend/pt_BR/>\n"
-"Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
-#: src-en/data/events_special_main.xml.append:20
+#: src-en/data/events_special_main.xml.append:23
 msgid ""
 "data/events_special_main.xml.append$//mod-"
 "append:backgroundObject[@name=\"DDOTHERWORLDLY_TOME_ISHERE\"]/tooltip"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:29
+#: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/text"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:31
+#: src-en/data/events_special_main.xml.append:34
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_main.xml.append:33
+#: src-en/data/events_special_main.xml.append:36
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:40
+#: src-en/data/events_special_main.xml.append:43
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_special_main.xml.append:42
+#: src-en/data/events_special_main.xml.append:45
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/event/text"
 msgstr ""
 
-#: src-en/data/events_special_main.xml.append:45
+#: src-en/data/events_special_main.xml.append:48
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/event/crewMember"

@@ -5,13 +5,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src-en/data/events_special_main.xml.append:20
+#: src-en/data/events_special_main.xml.append:23
 msgid ""
 "data/events_special_main.xml.append$//mod-"
 "append:backgroundObject[@name=\"DDOTHERWORLDLY_TOME_ISHERE\"]/tooltip"
 msgstr "A book atop a crate."
 
-#: src-en/data/events_special_main.xml.append:29
+#: src-en/data/events_special_main.xml.append:32
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/text"
 msgstr ""
@@ -22,13 +22,13 @@ msgstr ""
 "completely alien to you, you feel a sense of understanding as you gloss over"
 " them... this book has been left here, for you. As you desired."
 
-#: src-en/data/events_special_main.xml.append:31
+#: src-en/data/events_special_main.xml.append:34
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:33
+#: src-en/data/events_special_main.xml.append:36
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/text"
@@ -37,13 +37,13 @@ msgstr ""
 "the book in. You're not sure as to its exact purpose, or why you felt so "
 "drawn to it in the first place, but it's yours now."
 
-#: src-en/data/events_special_main.xml.append:40
+#: src-en/data/events_special_main.xml.append:43
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_main.xml.append:42
+#: src-en/data/events_special_main.xml.append:45
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/event/text"
@@ -57,7 +57,7 @@ msgstr ""
 "expression whatsoever. Indeed, their eyes are practically glazed over... "
 "this'll have to do, you suppose."
 
-#: src-en/data/events_special_main.xml.append:45
+#: src-en/data/events_special_main.xml.append:48
 msgid ""
 "data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/event/crewMember"
