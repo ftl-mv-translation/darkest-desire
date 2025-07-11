@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-11 12:25+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -1693,12 +1693,11 @@ msgstr ""
 "масса появилась."
 
 #: src-en/data/events_special_storage.xml.append:1126
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[1]/text"
 msgstr ""
 "Не приносить жертву, но приказать массе чумы души атаковать вашего врага. "
-"[28с перезарядка]"
+"[28-34с перезарядка]"
 
 #: src-en/data/events_special_storage.xml.append:1128
 msgid ""
@@ -1714,12 +1713,11 @@ msgid ""
 msgstr "Перейти к битве!"
 
 #: src-en/data/events_special_storage.xml.append:1139
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
 msgstr ""
 "(Человеческое жертвоприношение) Принести подготовленную человеческую жертву "
-"и приказать массе чуме души атаковать вашего врага. [14с перезарядка]"
+"и приказать массе чуме души атаковать вашего врага. [14-20с перезарядка]"
 
 #: src-en/data/events_special_storage.xml.append:1141
 msgid ""
@@ -1741,13 +1739,12 @@ msgid ""
 msgstr "Перейти к битве!"
 
 #: src-en/data/events_special_storage.xml.append:1156
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDSOULPLAGUE_MASS_SUMMON\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
 "(Член экипажа-человек) Принести в жертву одного из членов вашего "
 "человеческого экипажа и приказать массе чумы души атаковать вашего врага. "
-"[14с перезарядка]"
+"[14-20с перезарядка]"
 
 #: src-en/data/events_special_storage.xml.append:1158
 msgid ""
@@ -3614,18 +3611,16 @@ msgid ""
 msgstr "Осквернитель 3 уровня. [НЕДОСТУПНО: система не 2 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2502
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr "Осквернитель 3 уровня [Цена: 70~, 4{]"
+msgstr "Осквернитель 3 уровня [Цена: 85~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2506
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr "Осквернитель 4 уровня [Цена: 100~, 6{, 3}]"
+msgstr "Осквернитель 4 уровня [Цена: 120~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2510
 msgid ""
@@ -3640,11 +3635,10 @@ msgid ""
 msgstr "Рассеиватель материи [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2518
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT1\""
 " and @lvl=\"0\"]/text"
-msgstr "Рассеиватель материи. [Цена: 40~, 3{]"
+msgstr "Рассеиватель материи. [Цена: 45~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:2522
 msgid ""
@@ -3653,11 +3647,10 @@ msgid ""
 msgstr "Психический излучатель [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2526
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT2\""
 " and @lvl=\"0\"]/text"
-msgstr "Психический излучатель [Цена: 50~, 1|]"
+msgstr "Психический излучатель [Цена: 65~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:2530
 msgid ""
@@ -3666,11 +3659,10 @@ msgid ""
 msgstr "Усилитель плотности [УЖЕ УСТАНОВЛЕНО]"
 
 #: src-en/data/events_special_storage.xml.append:2534
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Усилитель плотности [Цена: 35~, 2{, 2}]"
+msgstr "Усилитель плотности [Цена: 40~, 2{, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:2538
 msgid ""
@@ -3685,10 +3677,9 @@ msgstr ""
 "\t[Эффекты: Система Осквернитель исцеляет весь экипаж, связанный с чумой души, в целевом отсеке на 8 ОЗ каждый раз, когда она порождает прилив чумы души]"
 
 #: src-en/data/events_special_storage.xml.append:2547
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_MATTERDISPERSER\"]/choice[@req=\"dd_corruptor\"]/text"
-msgstr "Установить улучшение. [Цена: 40~, 3{]"
+msgstr "Установить улучшение. [Цена: 45~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:2549
 msgid ""
@@ -3713,10 +3704,9 @@ msgstr ""
 "\t[Эффекты: Система Осквернитель оглушает всех членов экипажа, не являющихся связанными с чумой души в отсеке на 2 секунды каждый раз, когда она порождает прилив чумы души]"
 
 #: src-en/data/events_special_storage.xml.append:2576
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_PSYCHICEMANATOR\"]/choice[@req=\"dd_corruptor\"]/text"
-msgstr "Установить улучшение. [Цена: 50~, 1|]"
+msgstr "Установить улучшение. [Цена: 65~, 1|]"
 
 #: src-en/data/events_special_storage.xml.append:2578
 msgid ""
@@ -3741,11 +3731,10 @@ msgstr ""
 "\t[Эффекты: Приливы чумы души, порожденные системой Осквернитель получают +10 макс. ОЗ и получают 0.25x урона от огня, не совместимо с Осквернитель 3 уровня]"
 
 #: src-en/data/events_special_storage.xml.append:2605
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_DENSITYAMPLIFIER\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"1\"]/text"
-msgstr "Установить улучшение. [Цена: 35~, 2{, 2}]"
+msgstr "Установить улучшение. [Цена: 40~, 2{, 2}]"
 
 #: src-en/data/events_special_storage.xml.append:2607
 msgid ""
@@ -3778,11 +3767,10 @@ msgstr ""
 "\t[Эффекты: 16с заражения, 5с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2639
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Установить улучшение. [Цена: 70~, 4{]"
+msgstr "Установить улучшение. [Цена: 85~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:2641
 msgid ""
@@ -3815,11 +3803,10 @@ msgstr ""
 "\t[Эффекты: 17с заражения, 4с на порождение]"
 
 #: src-en/data/events_special_storage.xml.append:2667
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Установить улучшение. [Цена: 100~, 6{, 3}]"
+msgstr "Установить улучшение. [Цена: 120~, 6{, 3}]"
 
 #: src-en/data/events_special_storage.xml.append:2669
 msgid ""
@@ -4204,7 +4191,6 @@ msgid ""
 msgstr "Изучить Кристалл удобства."
 
 #: src-en/data/events_special_storage.xml.append:2905
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/text"
 msgstr ""
@@ -4212,7 +4198,7 @@ msgstr ""
 "\t\t\t\t\t\t\tЭтот странный кристалл усиливает маяки Диссонанса, наделяя их "
 "способностью к ремонту и +0.8 к базовой скорости передвижения. Взамен ваша "
 "элита Диссонанса теряют память о том, как ремонтировать, и ремонтируют на "
-"0.67х медленнее."
+"33% медленнее."
 
 #: src-en/data/events_special_storage.xml.append:2908
 msgid ""
