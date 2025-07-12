@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-12 15:46+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-07-13 22:46+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_lightspeedxmlappend/ru/>\n"
 "Language: ru\n"
@@ -234,7 +234,6 @@ msgid ""
 msgstr "Вы не можете изменить точку назначения во время этого прыжка."
 
 #: src-en/data/events_special_lightspeed.xml.append:207
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDANTUMBRA_WARP\"]/text"
 msgstr ""
@@ -243,11 +242,10 @@ msgstr ""
 "\tДоминирующая фракция: ???\n"
 "\tУровень угрозы повстанцев: ???\n"
 "\n"
-"\tIt's not stars that fly past you, as your vessel continues to be dragged "
-"through the wormhole - but entire realities. You're being pulled, and "
-"pulled, and pulled further still towards what your ship's now-fading "
-"readings indicate to be the edge of the Multiverse. The edge of everything, "
-"as you know it..."
+"\tЭто не звезды пролетают мимо вас, пока ваше судно продолжает продвигаться "
+"через червоточину, а целые реальности. Вас тянет, тянет и тянет все дальше к "
+"тому, что, судя по исчезающим показаниям вашего корабля, является краем "
+"Мультивселенной. Краем всего, что вы знаете..."
 
 #: src-en/data/events_special_lightspeed.xml.append:214
 msgid ""
@@ -359,12 +357,12 @@ msgid ""
 msgstr "Неважно, отменить ритуал."
 
 #: src-en/data/events_special_lightspeed.xml.append:305
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
 "Вы начинаете сомневаться. Наверняка это того не стоит... Вы покидаете "
-"комнату и оставляете Потусторонний фолиант."
+"комнату и оставляете Потусторонний фолиант, и в вашей душе все еще остается "
+"чувство сожаления."
 
 #: src-en/data/events_special_lightspeed.xml.append:308
 msgid ""
@@ -375,11 +373,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/text"
 msgstr ""
+"(Божественная форма жизни) Провести ритуал Божественных остатков без каких-"
+"либо затрат."
 
 #: src-en/data/events_special_lightspeed.xml.append:318
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/event/text"
 msgstr ""
+"Ваш корабль — это божественное начало, и вы не будете клясться ничем другим. "
+"В глубине вашего сознания начинают звучать аккорды... пока, наконец, на "
+"седьмой и последней ноте, вы не понимаете, чего от вас хотят. Где находится "
+"наследие вашего корабля — где должен ударить ваш клинок. Идите же... и "
+"верните своему кораблю то, что ему по праву принадлежит."
 
 #: src-en/data/events_special_lightspeed.xml.append:322
 msgid ""
@@ -411,7 +416,7 @@ msgstr "Я хочу... дань."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Вы не провести ритуал Охоты, если у вас накопилось слишком много жертв."
 
 #: src-en/data/events_special_lightspeed.xml.append:342
 msgid ""
@@ -516,12 +521,11 @@ msgstr ""
 "меняется. Вы моргаете, и лом исчезает. Жертва принесена."
 
 #: src-en/data/events_special_lightspeed.xml.append:370
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/text"
 msgstr ""
 "Жертва принесена, и вы готовы совершить ритуал... Впрочем, времени на "
-"раздумья почти не осталось, поскольку место встречи уже близко."
+"раздумья почти не осталось, поскольку ваш пункт назначения приближается."
 
 #: src-en/data/events_special_lightspeed.xml.append:373
 msgid ""
@@ -634,41 +638,45 @@ msgid ""
 msgstr "Я хочу... преданности."
 
 #: src-en/data/events_special_lightspeed.xml.append:427
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/text"
-msgstr "Провести ритуал Разрешения."
+msgstr "Провести ритуал Ужасных зрелищ."
 
 #: src-en/data/events_special_lightspeed.xml.append:429
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
-"Вы закрываете глаза и думаете о своей миссии... спасти эту реальность от "
-"Восстания. Вы не хотите жертвовать чужими душами ради извращенной игры "
-"Темного Бога. Он принимает это, всегда стремясь угодить, и желает услышать "
-"ваше желание..."
+"Как того требует ритуал, вы закрываете глаза и произносите инкантацию. "
+"Ужасающие видения начинают затуманивать ваш разум... невообразимые "
+"чудовищные существа, а также искаженные реальности, рожденные из теней и "
+"пепла - если бы вы не находились под бдительным взором Темного Бога, вы бы, "
+"скорее всего, сошли с ума. Однако, зная, что он наблюдает за вами, вы "
+"понимаете, что должны закалить свой разум, чтобы противостоять этим "
+"кошмарам, и осуществить свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:431
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/choice/text"
-msgstr "Я желаю... разрешения."
+msgstr "Я желаю... ужасных зрелищ."
 
 #: src-en/data/events_special_lightspeed.xml.append:437
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/text"
-msgstr ""
+msgstr "Провести ритуал Жуткого посвящения."
 
 #: src-en/data/events_special_lightspeed.xml.append:439
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/text"
 msgstr ""
+"С помощью маркера вы рисуете на полу грубую иллюстрацию глубоководного. С "
+"помощью ножа вы проливаете свою кровь на рисунок. Наконец, с помощью "
+"молитвы... вы просите аудиенции у Темного Бога. Он слышит вас, и вы "
+"понимаете, что должны осуществить свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:441
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/choice/text"
-msgstr ""
+msgstr "Я желаю... инаугурации."
 
 #: src-en/data/events_special_lightspeed.xml.append:447
 msgid ""
@@ -692,7 +700,7 @@ msgstr "Я желаю... разрешения."
 #: src-en/data/events_special_lightspeed.xml.append:455
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[8]/event/choice[2]/text"
-msgstr ""
+msgstr "Нет... подождите, я хочу продолжить свое посвящение."
 
 #: src-en/data/events_special_lightspeed.xml.append:463
 msgid ""
@@ -1846,15 +1854,14 @@ msgid ""
 msgstr "Провести ритуал Связывание душ."
 
 #: src-en/data/events_special_lightspeed.xml.append:1160
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/text"
 msgstr ""
 "Члены вашего экипажа связанный с чумой души стоит рядом с Потусторонним "
 "фолиантом, готовый стать проводниками ритуала. Его тело начинают искажаться, "
-"из него вырываются щупальца чумы души, которые на мгновение сжимаются, "
-"прежде чем неизбежно засохнуть, а радужный текст в Потустороннем фолианте "
-"искажается и меняется..."
+"из него вырываются зараженные щупальца чумы души, которые на мгновение "
+"сжимаются, прежде чем неизбежно засохнуть, а радужный текст в Потустороннем "
+"фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1163
 msgid ""
@@ -1864,25 +1871,27 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:1171
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "(Живой Светоносец) Провести ритуал Светоносца."
 
 #: src-en/data/events_special_lightspeed.xml.append:1173
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"Вы листаете страницы Потустороннего фолианта и в конце концов натыкаетесь на "
+"текст, написанный старым, выцветшим чернилами. В нем описаны несколько "
+"способов получения могущественных Светоносцев и дальнейшего усиления их силы."
 
 #: src-en/data/events_special_lightspeed.xml.append:1175
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Провести ритуал Новорожденных звезд."
 
 #: src-en/data/events_special_lightspeed.xml.append:1177
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/text"
 msgstr ""
-"Когда жертва принесена, а ваше желание известно, серый текст в Потустороннем "
-"фолианте искажается и меняется..."
+"Когда жертва принесена, а ваше желание известно, выцветший текст в "
+"Потусторонней фолианте извивается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1179
 msgid ""
@@ -1892,12 +1901,14 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:1185
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал Принятие световой ванны."
 
 #: src-en/data/events_special_lightspeed.xml.append:1187
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/event/text"
 msgstr ""
+"После того, как жертва была принесена, и ваше желание стало известно, вы "
+"чувствуете необъяснимую напряженность в воздухе..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1189
 msgid ""
@@ -1907,12 +1918,14 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:1195
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Провести ритуал Божественных останков."
 
 #: src-en/data/events_special_lightspeed.xml.append:1197
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/event/text"
 msgstr ""
+"После того, как жертва была принесена, и ваше желание стало известно, в "
+"вашем разуме зазвучала мелодия..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1199
 msgid ""
@@ -2073,11 +2086,12 @@ msgid ""
 msgstr "Неважно."
 
 #: src-en/data/events_special_lightspeed.xml.append:1322
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/text"
 msgstr ""
-"Название: Пространство глубоководных\n"
+"Вы собираетесь изменить маршрут. Ниже приведена запись Атласа для этого "
+"сектора.\n"
+"\tНазвание: Пространство глубоководных\n"
 "\tТип: Нейтральный\n"
 "\tУникальный: Нет\n"
 "\tДоминирующая фракция: Глубоководные\n"
@@ -2120,11 +2134,10 @@ msgid ""
 msgstr "Перейти в Штурм Диссонанса."
 
 #: src-en/data/events_special_lightspeed.xml.append:1360
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
-msgstr "Перейти в Туманную мертвую зону."
+msgstr "Штурм Диссонанса остается позади вас."
 
 #: src-en/data/events_special_lightspeed.xml.append:1364
 msgid ""
@@ -2136,7 +2149,7 @@ msgstr "Перейти в Туманную мертвую зону."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "Туманная мертвая зона осталась позади."
 
 #: src-en/data/events_special_lightspeed.xml.append:1374
 msgid ""
