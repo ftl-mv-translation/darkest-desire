@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-13 22:46+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_disparityxml/ru/>\n"
 "Language: ru\n"
@@ -1094,12 +1094,18 @@ msgstr "Продолжить..."
 #: src-en/data/events_disparity.xml:633
 msgid ""
 "data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/text"
-msgstr ""
+msgstr "(Владычица) Подождите минутку..."
 
 #: src-en/data/events_disparity.xml:635
 msgid ""
 "data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/text"
 msgstr ""
+"Вы уже видели эти теневые кристаллы раньше - в Антумбральном измерении. Они "
+"были созданы Тенями измерения и использовались Протоколами Архангела в целях "
+"самообороны. Но для обывателя все это звучит безумно... и вы не имеете ни "
+"малейшего представления, как они оказались в руках Диссонанса. Вы стараетесь "
+"как можно лучше рассказать кристаллину всю информацию, которую знаете о "
+"таинственной темной броне, не выглядя при этом сумасшедшим."
 
 #: src-en/data/events_disparity.xml:637
 msgid ""
@@ -2444,6 +2450,8 @@ msgstr "(Продв. Сенсоры) Провести очень большое 
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
 msgstr ""
+"(Сканеры дальнего действия) Произвести чрезвычайно обширное сканирование "
+"местности."
 
 #: src-en/data/events_disparity.xml:1409
 msgid ""
@@ -2493,6 +2501,8 @@ msgstr "(Продв. Сенсоры) Провести очень большое 
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
 msgstr ""
+"(Сканеры дальнего действия) Произвести чрезвычайно обширное сканирование "
+"местности."
 
 #: src-en/data/events_disparity.xml:1437
 msgid ""
@@ -2541,6 +2551,8 @@ msgstr "(Продв. Сенсоры) Провести очень большое 
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
 msgstr ""
+"(Сканеры дальнего действия) Произвести чрезвычайно обширное сканирование "
+"местности."
 
 #: src-en/data/events_disparity.xml:1465
 msgid ""
@@ -2722,13 +2734,12 @@ msgid ""
 msgstr "Ничто... желает быть всем."
 
 #: src-en/data/events_disparity.xml:1559
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"Вы резко проснулись, спина болит от... почему вы спали на полу? Поднявшись и "
-"собравшись с мыслями, вы понимаете, что понятия не имеете, где находитесь. "
-"Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
+"Вы резко проснулись, спина болит от... почему вы ВООБЩЕ спали на земле? "
+"Поднявшись и собравшись с мыслями, вы понимаете, что понятия не имеете, где "
+"находитесь. Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
 
 #: src-en/data/events_disparity.xml:1564
 msgid ""
@@ -3190,13 +3201,12 @@ msgid ""
 msgstr "Ничто... желает быть всем."
 
 #: src-en/data/events_disparity.xml:1835
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"Вы резко проснулись, спина болит от... почему вы спали на полу? Поднявшись и "
-"собравшись с мыслями, вы понимаете, что понятия не имеете, где находитесь. "
-"Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
+"Вы резко проснулись, спина болит от... почему вы ВООБЩЕ спали на земле? "
+"Поднявшись и собравшись с мыслями, вы понимаете, что понятия не имеете, где "
+"находитесь. Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
 
 #: src-en/data/events_disparity.xml:1840
 msgid ""
@@ -3356,13 +3366,12 @@ msgid ""
 msgstr "Ничто... желает быть всем."
 
 #: src-en/data/events_disparity.xml:1901
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"Вы резко проснулись, спина болит от... почему вы спали на полу? Поднявшись и "
-"собравшись с мыслями, вы понимаете, что понятия не имеете, где находитесь. "
-"Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
+"Вы резко проснулись, спина болит от... почему вы ВООБЩЕ спали на земле? "
+"Поднявшись и собравшись с мыслями, вы понимаете, что понятия не имеете, где "
+"находитесь. Прошло какое-то время с тех пор, как вы, должно быть, заснули..."
 
 #: src-en/data/events_disparity.xml:1906
 msgid ""
@@ -3713,7 +3722,6 @@ msgid ""
 msgstr "Ага, нет. Неважно."
 
 #: src-en/data/events_disparity.xml:2092
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
@@ -5269,7 +5277,6 @@ msgid ""
 msgstr "Большой парень?"
 
 #: src-en/data/events_disparity.xml:2951
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -5841,7 +5848,6 @@ msgid ""
 msgstr "Утони."
 
 #: src-en/data/events_disparity.xml:3262
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
 msgstr "Нет, к черту. Вернуться назад."
@@ -6998,7 +7004,6 @@ msgstr ""
 "верить... в свободу для всех."
 
 #: src-en/data/events_disparity.xml:4021
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISTRESS_DISPARITY_FEDERATION_LIFEGAMBLE_OMGTHEYREOK\"]/choice[@req=\"dd_disparity_assistance\"]/event/choice/event/text"
 msgstr ""
@@ -8226,16 +8231,15 @@ msgid ""
 msgstr "Вместе мы сможем это сделать!"
 
 #: src-en/data/events_disparity.xml:4712
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/text"
 msgstr ""
 "Или вы так думали. Когда чудовище Диссонанса разлетается на куски, из его "
 "обшивки вырывается море тьмы... она окружает вас, Серафима, Связь, все. Вы "
-"наблюдаете, как часть ее сливается в сферу рядом со Связью... а затем, когда "
-"сфера отражается и извивается, вы чувствуете, как ваш корабль начинает "
-"притягивать... она оказывает какое-то гравитационное воздействие на все "
-"вокруг!"
+"наблюдаете, как часть его сливаются в странный пространственный разлом рядом "
+"со Связью... а затем, когда разлом увеличивается и извивается, вы "
+"чувствуете, как ваш корабль начинает притягивать... она оказывает какое-то "
+"гравитационное воздействие на все вокруг!"
 
 #: src-en/data/events_disparity.xml:4721
 msgid ""
@@ -8297,19 +8301,18 @@ msgid ""
 msgstr "Оскверненный?"
 
 #: src-en/data/events_disparity.xml:4736
-#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "Он продолжает: \"Имен у Оскверненного: бесчисленное множество... "
 "соответствующие результаты базы данных: Оскверненный, Темный, Темный Бог, "
-"Освободитель, Буря...\", - пауза, - \"...последующие записи в базе данных: "
-"повреждены. Источник повреждения: неизвестен; считается неактуальным. "
-"Обновлена директива Серафима: выжидать. Федерация: согласна с директивой "
-"Серафима\". Прежде чем он успевает продолжить, пламя, окутывающее Серафима, "
-"усиливается, и незнакомый бесплотный голос произносит: \"У тебя есть один из "
-"моих клинков, Ренегат, ВЛАДЕЙ ИМ ДОСТОЙНО. Я БУДУ НАБЛЮДАТЬ ЗА ВАМИ ОБОИМИ\""
-". Божественные объятия голоса исчезают, и пламя Серафима снова "
+"Освободитель, Буря, Божественность...\", - пауза, - \"...последующие записи "
+"в базе данных: повреждены. Источник повреждения: неизвестен; считается "
+"неактуальным. Обновлена директива Серафима: выжидать. Федерация: согласна с "
+"директивой Серафима\". Прежде чем он успевает продолжить, пламя, окутывающее "
+"Серафима, усиливается, и незнакомый бесплотный голос произносит: \"У тебя "
+"есть один из моих клинков, Ренегат, ВЛАДЕЙ ИМ ДОСТОЙНО. Я БУДУ НАБЛЮДАТЬ ЗА "
+"ВАМИ ОБОИМИ\". Божественные объятия голоса исчезают, и пламя Серафима снова "
 "успокаивается. Вы не в курсе последствий, но... вы полагаете, что, по "
 "крайней мере, на данный момент все кончено. Несмотря на то что Связь "
 "потеряна, Серафим, похоже, не теряет надежды... Вы решаете, что тоже будете "
@@ -8323,22 +8326,30 @@ msgstr "Воскресенье"
 #: src-en/data/events_disparity.xml:4739
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда вперед!"
 
 #: src-en/data/events_disparity.xml:4741
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Однако, когда вы готовитесь к отбытию, ваше внимание привлекает что-то в "
+"космосе. Вы быстро понимаете, что это такое - тот самый разлом в "
+"пространстве, который вы видели в темноте, поглощающий Связь... только "
+"теперь он, кажется, успокоился. Как он оказался здесь?"
 
 #: src-en/data/events_disparity.xml:4748
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "(Тень) За вашей спиной движется закутанная в плащ фигура..."
 
 #: src-en/data/events_disparity.xml:4750
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"Впервые вы замечаете, что Тень движется в отсутствие врагов. Вы замечаете, "
+"что ее взгляд кажется прикованным к аномалии пространства-времени снаружи... "
+"и вас озаряет. Вы уже видели один из этих разломов в швах, когда впервые "
+"встретили Тень - в зоне Темного Бога..."
 
 #: src-en/data/events_disparity.xml:4752
 msgid ""
@@ -8349,31 +8360,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"Размышляя об этом, вы едва не пропускаете момент, когда что-то внутри плаща "
+"Тени начинает светиться... и разлом снаружи начинает резонировать."
 
 #: src-en/data/events_disparity.xml:4762
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, что ты делаешь?"
 
 #: src-en/data/events_disparity.xml:4764
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы не получаете словесного ответа - вместо этого вы получаете очень, очень "
+"физический ответ... когда ударная волна вырывается из странного разлома в "
+"пространстве, и вы обнаруживаете, что ваш корабль втягивается с "
+"невообразимой скоростью! От этого не сбежать - вам нужно за что-то "
+"ухватиться, и быстро!"
 
 #: src-en/data/events_disparity.xml:4767
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дотянуться до чего-нибудь!"
 
 #: src-en/data/events_disparity.xml:4780
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отдалиться от этого странного явления."
 
 #: src-en/data/events_disparity.xml:4782
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не собираетесь связываться с этой штукой, не имея никакого представления "
+"о ней - кто знает, что она может с вами сделать. Более чем довольные тем, "
+"что оставили разлом в пространстве вдали, вы готовитесь снова отправиться в "
+"путь."
 
 #: src-en/data/events_disparity.xml:4794
 msgid ""
@@ -8418,22 +8440,30 @@ msgstr ""
 #: src-en/data/events_disparity.xml:4804
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда вперед!"
 
 #: src-en/data/events_disparity.xml:4806
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Однако, когда вы готовитесь к отбытию, ваше внимание привлекает что-то в "
+"космосе. Вы быстро понимаете, что это такое - тот самый разлом в "
+"пространстве, который вы видели в темноте, поглощающий Связь... только "
+"теперь он, кажется, успокоился. Как он оказался здесь?"
 
 #: src-en/data/events_disparity.xml:4813
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "(Тень) За вашей спиной движется закутанная в плащ фигура..."
 
 #: src-en/data/events_disparity.xml:4815
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"Впервые вы замечаете, что Тень движется в отсутствие врагов. Вы замечаете, "
+"что ее взгляд кажется прикованным к аномалии пространства-времени снаружи... "
+"и вас озаряет. Вы уже видели один из этих разломов в швах, когда впервые "
+"встретили Тень - в зоне Темного Бога..."
 
 #: src-en/data/events_disparity.xml:4817
 msgid ""
@@ -8444,31 +8474,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"Размышляя об этом, вы едва не пропускаете момент, когда что-то внутри плаща "
+"Тени начинает светиться... и разлом снаружи начинает резонировать."
 
 #: src-en/data/events_disparity.xml:4827
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, что ты делаешь?"
 
 #: src-en/data/events_disparity.xml:4829
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы не получаете словесного ответа - вместо этого вы получаете очень, очень "
+"физический ответ... когда ударная волна вырывается из странного разлома в "
+"пространстве, и вы обнаруживаете, что ваш корабль втягивается с "
+"невообразимой скоростью! От этого не сбежать - вам нужно за что-то "
+"ухватиться, и быстро!"
 
 #: src-en/data/events_disparity.xml:4832
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дотянуться до чего-нибудь!"
 
 #: src-en/data/events_disparity.xml:4845
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отдалиться от этого странного явления."
 
 #: src-en/data/events_disparity.xml:4847
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не собираетесь связываться с этой штукой, не имея никакого представления "
+"о ней - кто знает, что она может с вами сделать. Более чем довольные тем, "
+"что оставили разлом в пространстве вдали, вы готовитесь снова отправиться в "
+"путь."
 
 #: src-en/data/events_disparity.xml:4863
 msgid ""
@@ -8620,22 +8661,30 @@ msgstr "Голод"
 #: src-en/data/events_disparity.xml:4928
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда вперед!"
 
 #: src-en/data/events_disparity.xml:4930
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Однако, когда вы готовитесь к отбытию, ваше внимание привлекает что-то в "
+"космосе. Вы быстро понимаете, что это такое - тот самый разлом в "
+"пространстве, который вы видели в темноте, поглощающий Связь... только "
+"теперь он, кажется, успокоился. Как он оказался здесь?"
 
 #: src-en/data/events_disparity.xml:4937
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "(Тень) За вашей спиной движется закутанная в плащ фигура..."
 
 #: src-en/data/events_disparity.xml:4939
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"Впервые вы замечаете, что Тень движется в отсутствие врагов. Вы замечаете, "
+"что ее взгляд кажется прикованным к аномалии пространства-времени снаружи... "
+"и вас озаряет. Вы уже видели один из этих разломов в швах, когда впервые "
+"встретили Тень - в зоне Темного Бога..."
 
 #: src-en/data/events_disparity.xml:4941
 msgid ""
@@ -8646,31 +8695,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"Размышляя об этом, вы едва не пропускаете момент, когда что-то внутри плаща "
+"Тени начинает светиться... и разлом снаружи начинает резонировать."
 
 #: src-en/data/events_disparity.xml:4951
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, что ты делаешь?"
 
 #: src-en/data/events_disparity.xml:4953
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы не получаете словесного ответа - вместо этого вы получаете очень, очень "
+"физический ответ... когда ударная волна вырывается из странного разлома в "
+"пространстве, и вы обнаруживаете, что ваш корабль втягивается с "
+"невообразимой скоростью! От этого не сбежать - вам нужно за что-то "
+"ухватиться, и быстро!"
 
 #: src-en/data/events_disparity.xml:4956
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дотянуться до чего-нибудь!"
 
 #: src-en/data/events_disparity.xml:4969
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отдалиться от этого странного явления."
 
 #: src-en/data/events_disparity.xml:4971
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не собираетесь связываться с этой штукой, не имея никакого представления "
+"о ней - кто знает, что она может с вами сделать. Более чем довольные тем, "
+"что оставили разлом в пространстве вдали, вы готовитесь снова отправиться в "
+"путь."
 
 #: src-en/data/events_disparity.xml:4985
 msgid ""
@@ -8715,22 +8775,30 @@ msgstr ""
 #: src-en/data/events_disparity.xml:4995
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда вперед!"
 
 #: src-en/data/events_disparity.xml:4997
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"Однако, когда вы готовитесь к отбытию, ваше внимание привлекает что-то в "
+"космосе. Вы быстро понимаете, что это такое - тот самый разлом в "
+"пространстве, который вы видели в темноте, поглощающий Связь... только "
+"теперь он, кажется, успокоился. Как он оказался здесь?"
 
 #: src-en/data/events_disparity.xml:5004
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "(Тень) За вашей спиной движется закутанная в плащ фигура..."
 
 #: src-en/data/events_disparity.xml:5006
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"Впервые вы замечаете, что Тень движется в отсутствие врагов. Вы замечаете, "
+"что ее взгляд кажется прикованным к аномалии пространства-времени снаружи... "
+"и вас озаряет. Вы уже видели один из этих разломов в швах, когда впервые "
+"встретили Тень - в зоне Темного Бога..."
 
 #: src-en/data/events_disparity.xml:5008
 msgid ""
@@ -8741,31 +8809,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"Размышляя об этом, вы едва не пропускаете момент, когда что-то внутри плаща "
+"Тени начинает светиться... и разлом снаружи начинает резонировать."
 
 #: src-en/data/events_disparity.xml:5018
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, что ты делаешь?"
 
 #: src-en/data/events_disparity.xml:5020
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы не получаете словесного ответа - вместо этого вы получаете очень, очень "
+"физический ответ... когда ударная волна вырывается из странного разлома в "
+"пространстве, и вы обнаруживаете, что ваш корабль втягивается с "
+"невообразимой скоростью! От этого не сбежать - вам нужно за что-то "
+"ухватиться, и быстро!"
 
 #: src-en/data/events_disparity.xml:5023
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дотянуться до чего-нибудь!"
 
 #: src-en/data/events_disparity.xml:5036
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отдалиться от этого странного явления."
 
 #: src-en/data/events_disparity.xml:5038
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHESERAPHIM_WIN\"]/choice/event/choice[2]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не собираетесь связываться с этой штукой, не имея никакого представления "
+"о ней - кто знает, что она может с вами сделать. Более чем довольные тем, "
+"что оставили разлом в пространстве вдали, вы готовитесь снова отправиться в "
+"путь."
 
 #: src-en/data/events_disparity.xml:5054
 msgid ""
@@ -8837,22 +8916,29 @@ msgstr "...а также дрон Освободитель."
 #: src-en/data/events_disparity.xml:5103
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Тогда вперед!"
 
 #: src-en/data/events_disparity.xml:5105
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Однако, когда вы готовитесь к уходу, ваше внимание привлекает что-то в "
+"космосе. Вы быстро понимаете, что это такое, ведь Темный Бог оставил это "
+"здесь для вас - разлом в реальности. Разлом в швах..."
 
 #: src-en/data/events_disparity.xml:5112
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "(Тень) За вашей спиной движется закутанная в плащ фигура..."
 
 #: src-en/data/events_disparity.xml:5114
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"Впервые вы замечаете, что Тень движется в отсутствие врагов. Вы замечаете, "
+"что ее взгляд кажется прикованным к аномалии пространства-времени снаружи... "
+"и вас озаряет. Вы уже видели один из этих разломов в швах, когда впервые "
+"встретили Тень - в зоне Темного Бога..."
 
 #: src-en/data/events_disparity.xml:5116
 msgid ""
@@ -8863,31 +8949,42 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"Размышляя об этом, вы едва не пропускаете момент, когда что-то внутри плаща "
+"Тени начинает светиться... и разлом снаружи начинает резонировать."
 
 #: src-en/data/events_disparity.xml:5126
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Подожди, что ты делаешь?"
 
 #: src-en/data/events_disparity.xml:5128
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы не получаете словесного ответа - вместо этого вы получаете очень, очень "
+"физический ответ... когда ударная волна вырывается из странного разлома в "
+"пространстве, и вы обнаруживаете, что ваш корабль втягивается с "
+"невообразимой скоростью! От этого не сбежать - вам нужно за что-то "
+"ухватиться, и быстро!"
 
 #: src-en/data/events_disparity.xml:5131
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Дотянуться до чего-нибудь!"
 
 #: src-en/data/events_disparity.xml:5144
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от подарка."
 
 #: src-en/data/events_disparity.xml:5146
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вы не собираетесь связываться с этой штукой, не имея никакого представления "
+"о ней - кто знает, что она может с вами сделать. Более чем довольные тем, "
+"что оставили разлом в пространстве вдали, вы готовитесь снова отправиться в "
+"путь."
 
 #: src-en/data/events_disparity.xml:5167
 msgid ""
