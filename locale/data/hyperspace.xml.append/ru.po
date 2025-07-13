@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 12:25+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"PO-Revision-Date: 2025-07-13 22:46+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
 "Language: ru\n"
@@ -30,25 +30,30 @@ msgstr ""
 "У этого врага установлены Страшные фонари. Они менее устойчивы, чем Фонари глубоководных, имеют 20% шанс свести на нет ионный урон, но источают зловещую энергию, которая снижает скорость передвижения абордажников на 50% и скорость их саботажа на 15%, а также увеличивает скорость передвижения противников (на их корабле) на 15%."
 
 #: src-en/data/hyperspace.xml.append:15
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[3]/tooltip"
 msgstr ""
-"КРИСТАЛЛИЧЕСКАЯ БРОНЯ ДИССОНАНСА:\n"
-"У этого врага есть Кристаллическая броня Диссонанса. Неистовая комбинация "
-"тьмы и кристаллических технологий, она каким-то образом попала в руки "
-"Диссонанса. Получив урон по корпусу, они с вероятностью 50% не откалывают "
-"осколки, а выпускают взрыв тьмы, который отражается на вашем корабле в виде "
-"голодной тени."
+"ТЕНЕВАЯ КРИСТАЛЛИЧЕСКАЯ БРОНЯ:\n"
+"У этого врага есть Теневая кристаллическая броня - загадочное и зловещее "
+"сочетание тьмы и кристальной технологии. При получении повреждений корпуса, "
+"вместо того чтобы испускать разрушительные осколки, он с 50% вероятностью "
+"выпускает взрыв тьмы, который проявится на вашем корабле в виде голодной "
+"тени."
 
 #: src-en/data/hyperspace.xml.append:20
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[4]/tooltip"
 msgstr ""
-"ЛУЧЕЗАРНОЕ ПЛАМЯ:\n"
-"Этот враг находится под защитой Лучезарного пламени. Это не просто огонь, это пламя с вероятностью 70% отвечает шквалом огненных шаров, когда вы наносите урон корпусу. Пробивая щиты, эти огненные шары не только вызывают пожары и наносят системный урон, но и накладывают на пораженные отсеки эффекты Божественного суда. Этот эффект снимает сопротивление к огню и усиливает как урон от огня, получаемый вашим экипажем, так и исцеление, получаемое врагами от огня."
+"СИЯЮЩЕЕ ПЛАМЯ:\n"
+"Этот враг находится под защитой Сияющего пламени. Это не просто огонь, это "
+"пламя с вероятностью 70% отвечает шквалом огненных шаров, когда вы наносите "
+"урон корпусу. Пробивая щиты, эти огненные шары не только вызывают пожары и "
+"наносят системный урон, но и накладывают на пораженные отсеки эффекты "
+"Божественного суда. Этот эффект снимает сопротивление к огню и усиливает как "
+"урон от огня, получаемый вашим экипажем, так и исцеление, получаемое врагами "
+"от огня."
 
 #: src-en/data/hyperspace.xml.append:25
 msgid ""
@@ -59,20 +64,18 @@ msgstr ""
 "Этот враг способен открыть разлом во владения Темного Бога. Разлом периодически выпускает хаотические болты энергии, которые проявляются в виде кошмарных теней, но если разлом будет закрыт, тени быстро исчезнут вместе с ним."
 
 #: src-en/data/hyperspace.xml.append:30
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
 "БЛАГОСЛОВЕНИЕ БУРИ:\n"
-"Этот враг благословлен Бурей. Он находятся под защитой потусторонней и "
-"электрической силы, обеспечивая прочный Суперщит и баффы для своих дронов и "
-"экипажа, подчиненных Буре. Такие дроны и экипаж дают 1 энергию системам "
-"своего корабля и отнимают 1 энергию у систем вашего, а также получают "
-"следующие прибавки к характеристикам: 1.6x скорость передвижения/ремонта и "
-"1.3x боевой/урон при саботаже. Кроме того, некоторые члены экипажа могут "
-"периодически вызывать молнии, которые ионизируют системы и порождают "
-"монстров."
+"Этот враг благословлен Бурей. Он защищен сверхъестественной электрической "
+"силой, которая создает Суперщит и баффы для своих дронов и экипажа, "
+"подчиненных Буре. Такие дроны и экипаж дают 1 энергию системам своего "
+"корабля и отнимают 1 энергию у систем вашего, а также получают следующие "
+"прибавки к характеристикам: 1.6x скорость передвижения/ремонта и 1.3x боевой/"
+"урон при саботаже. Кроме того, некоторые члены экипажа могут периодически "
+"вызывать молнии, которые ионизируют системы и порождают монстров."
 
 #: src-en/data/hyperspace.xml.append:35
 msgid ""
@@ -83,28 +86,30 @@ msgstr ""
 "Этот враг находится под защитой Всепоглощающей тьмы. Эта гнетущая и хтоническая сила снижает скорость передвижения абордажников на 50%, скорость саботажа - на 30%, а также накладывает на них ослабление Утонуть в глубине, еще больше замедляющий скорость передвижения, не дающий воспользоваться и восстанавливать способности. Кроме того, враги находят эту тьму теплой и успокаивающей, обеспечивая исцеление со скоростью 1.8 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:40
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
 "ГАЗ ЧУМЫ ДУШИ:\n"
 "Этот вражеский корабль наполнен смертоносным, потусторонним газом, который "
-"со временем наносит пассивный урон вашему экипажу в размере 3.7 ОЗ/с и "
+"со временем наносит пассивный урон вашему экипажу в размере 2.3 ОЗ/с и "
 "заражает их чумой души. При гибели любой союзник, зараженный чумой, "
 "воскресает на вашем корабле в виде вражеской чумной оболочки, независимо от "
-"того, где он погиб.\n"
+"того, где он погиб. Оболочки, созданные в результате заражения инфекцией "
+"чумы души и некоторыми другими способами, в течение короткого времени после "
+"воскрешения уязвимы - они получают двойной урон от всех источников, а их "
+"боевой урон, скорость движения и скорость саботажа уменьшаются вдвое на 4 "
+"секунды.\n"
 "Дроны и члены экипажа, связанные с чумой души, имеют иммунитет."
 
 #: src-en/data/hyperspace.xml.append:46
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
 "ГАЗ СЕРАФИМОВ:\n"
 "Этот вражеский корабль наполнен смертоносным небесным газом, который со "
-"временем наносит вашему экипажу пассивный урон со скоростью 2.3 ОЗ/с и "
+"временем наносит вашему экипажу пассивный урон со скоростью 7.77 ОЗ/с и "
 "накладывает на них эффекты Божественного суда. Кроме того, пожары на их "
 "корабле будут автоматически потушены, а их экипаж получит положительный "
 "эффект от Божественного суда, пока они находится на своем корабле.\n"
@@ -123,12 +128,26 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
+"СИЯЮЩАЯ ЖИЗНЕННАЯ ФОРМА:\n"
+"Этот вражеский корабль - странное живое существо. Он восстанавливает свои "
+"повреждения, заделывая пробоины, а его помещения находятся под воздействием "
+"эффекта Сияющего осквернения. Этот эффект наносит вашему экипажу урон в "
+"размере 1 ОЗ/с, снижает их боевой урон, скорость передвижения и скорость "
+"саботажа на 20% и позволяет их странным призываемым сущностям существовать "
+"беспрепятственно. Наконец, ваш экипаж на борту этого корабля норовит убить "
+"друг друга - каждый из них пассивно наносит урон своим союзникам поблизости "
+"в размере 6 ОЗ/с."
 
 #: src-en/data/hyperspace.xml.append:62
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
+"УЖАСНЫЙ ГЕНЕРАТОР ПОМЕХ ДЛЯ ЗАЩИТНЫХ ДРОНОВ:\n"
+"Этот враг будет блокировать ваши оборонительные дроны, делая их неспособными "
+"стрелять. В отличие от обычного генератора помех для защитных дронов, этот, "
+"похоже, питается сверхъестественной силой - его невозможно отключить "
+"никакими средствами."
 
 #: src-en/data/hyperspace.xml.append:1499
 msgid ""
@@ -328,7 +347,7 @@ msgstr "Героиня"
 msgid ""
 "data/hyperspace.xml.append$//ddunique_theoverseer[@name=\"The "
 "Overseer\"]/@name"
-msgstr ""
+msgstr "Владычица"
 
 #: src-en/data/hyperspace.xml.append:5306
 msgid "data/hyperspace.xml.append$//enlightened_horror[@name=\"Lilith\"]/@name"
@@ -368,16 +387,16 @@ msgid ""
 msgstr "БЛАГО"
 
 #: src-en/data/hyperspace.xml.append:6589
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deeponecultist\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с  ДЛИТЕЛЬНОСТЬ:15с]\n"
 "\t\t\t\tПродлевает действие пассивных эффектов союзников Просветленных "
-"культистов на оба корабля.\n"
+"культистов на оба корабля, а также позволяет контролировать всех союзных "
+"голодных теней.\n"
 "\t\t\t\tПросветленный культист не может обслуживать или ремонтировать "
-"корабль и замедляется, пока действует его благословение."
+"корабль и замедляется, пока его способность активна."
 
 #: src-en/data/hyperspace.xml.append:6724
 msgid ""
@@ -2373,7 +2392,6 @@ msgid ""
 msgstr "СЕРДЦЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:34327
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/tooltip"
@@ -2381,7 +2399,7 @@ msgstr ""
 "[ПЕРЕЗАРЯДКА:40с  ДЛИТЕЛЬНОСТЬ:7с  -90 ОЗ]\n"
 "\t\t\t\tПолучает 90 ед. урона и вызывает временный эффект, который отменяет "
 "способности союзников Детей Звезд, позволяя им быстро вызывать чумных "
-"оболочек без особых затрат для себя. Передвигается очень медленно, пока "
+"оболочек за значительную жертву. Передвигается очень медленно, пока "
 "способность активна."
 
 #: src-en/data/hyperspace.xml.append:34548
@@ -2406,7 +2424,6 @@ msgid ""
 msgstr "СЕРДЦЕ ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:35057
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/tooltip"
@@ -2414,7 +2431,7 @@ msgstr ""
 "[ПЕРЕЗАРЯДКА:40с  ДЛИТЕЛЬНОСТЬ:7с  -90 ОЗ]\n"
 "\t\t\t\tПолучает 90 ед. урона и вызывает временный эффект, который отменяет "
 "способности союзников Детей Звезд, позволяя им быстро вызывать чумных "
-"оболочек без особых затрат для себя. Передвигается очень медленно, пока "
+"оболочек за значительную жертву. Передвигается очень медленно, пока "
 "способность активна."
 
 #: src-en/data/hyperspace.xml.append:35279
@@ -2938,13 +2955,22 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theoverseer\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "АНТУМБРА"
 
 #: src-en/data/hyperspace.xml.append:39916
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theoverseer\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 30с  ДЛИТЕЛЬНОСТЬ: 20с]\n"
+"Переполненная Антумбральной энергией, Владычица превышает свои пределы и "
+"быстро восстанавливается, становясь практически неуязвимой, неподвижной, "
+"неспособной атаковать и действовать. Одновременно с этим она позволяет всем "
+"союзным Светоносцам на том же корабле считаться голодными тенями для целей "
+"получения и наложения усилений от других голодных теней, накладывает на "
+"текущий отсек Сияющее осквернение, призывает несколько дронов света и тьмы и "
+"распространяет свое пассивное усиление голодной тени усиленное на 4 на всех "
+"голодных теней на том же корабле."
 
 #: src-en/data/hyperspace.xml.append:40219
 msgid ""
@@ -2957,12 +2983,15 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFANTUMBRA\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 20с]\n"
+"После того как сила Антумбральной энергии иссякает, Владычица возвращается к "
+"своей обычной форме."
 
 #: src-en/data/hyperspace.xml.append:40517
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_clusterular\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Светоносец"
 
 #: src-en/data/hyperspace.xml.append:40533
 msgid ""
@@ -2975,114 +3004,139 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_clusterular\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕХАРЯДКА: 1с]\n"
+"Умирает мгновенно, разделившись на четыре клеточных единицы Светоносцев."
 
 #: src-en/data/hyperspace.xml.append:40631
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_tormentular\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "МУЧЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:40632
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_tormentular\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "На короткое время оглушает врагов, находящихся в том же помещении."
 
 #: src-en/data/hyperspace.xml.append:40671
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_warlockular\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СВЕТОВОЕ ШОУ"
 
 #: src-en/data/hyperspace.xml.append:40672
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_warlockular\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 9с]\n"
+"Наносит 1 ед. урона корпусу, 3 ед. урона системе, 45 ед. урона экипажу и "
+"накладывает оглушение на 3 секунды с 100% вероятностью вызвать пробоину."
 
 #: src-en/data/hyperspace.xml.append:40706
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_timelux\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "СИЯНИЕ ВРЕМЕНИ"
 
 #: src-en/data/hyperspace.xml.append:40707
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_timelux\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 8с  ДЛИТЕЛЬНОСТЬ: 4с]\n"
+"Враги, находящиеся в том же отсеке, временно застывают на месте и теряют "
+"способность действовать."
 
 #: src-en/data/hyperspace.xml.append:40847
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_devourlux\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПОГЛОЩЕНИЕ СВЕТА"
 
 #: src-en/data/hyperspace.xml.append:40848
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_devourlux\"]/powerEffect/tooltip"
 msgstr ""
+"Поглощает других Светоносцев, чтобы исцелить себя и со временем стать "
+"полупостоянно сильнее."
 
 #: src-en/data/hyperspace.xml.append:40923
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[1]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОМАНДА"
 
 #: src-en/data/hyperspace.xml.append:40924
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 6с]\n"
+"\t\t\t\t\t\tЭтот Светоносец был воодушевлен Светокомандующим и будет "
+"периодически разжигать огонь."
 
 #: src-en/data/hyperspace.xml.append:40951
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[2]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОМАНДА"
 
 #: src-en/data/hyperspace.xml.append:40952
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 6с]\n"
+"\t\t\t\t\t\tЭтот Светоносец был воодушевлен Светокомандующим и будет "
+"периодически наносить урон ближайшим врагам."
 
 #: src-en/data/hyperspace.xml.append:40978
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОМАНДА"
 
 #: src-en/data/hyperspace.xml.append:40979
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 6с]\n"
+"\t\t\t\t\t\tЭтот Светоносец был воодушевлен Светокомандующим и будет "
+"периодически наносить помещениям урон с помощью Сияющего осквернения."
 
 #: src-en/data/hyperspace.xml.append:41102
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОМАНДА"
 
 #: src-en/data/hyperspace.xml.append:41103
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 6с]\n"
+"\t\t\t\t\t\tЭтот Светоносец воодушевлен Светокомандующим и будет "
+"периодически наносить урон системам противника."
 
 #: src-en/data/hyperspace.xml.append:41130
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "КОМАНДА"
 
 #: src-en/data/hyperspace.xml.append:41131
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 6с]\n"
+"\t\t\t\t\t\tЭтот Светоносец воодушевлен Светокомандующим и будет "
+"периодически лечить союзников."
 
 #: src-en/data/hyperspace.xml.append:41156
 msgid ""
@@ -3623,7 +3677,7 @@ msgstr "Порождение"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[7]/mod-"
 "append:page[1]/section/@text"
-msgstr ""
+msgstr "Темнейшие достижения"
 
 #: src-en/data/hyperspace.xml.append:48045
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE\"]/name"
@@ -3671,22 +3725,25 @@ msgstr "Благо получено"
 #: src-en/data/hyperspace.xml.append:48063
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/name"
-msgstr ""
+msgstr "Благо траншей"
 
 #: src-en/data/hyperspace.xml.append:48064
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:48065
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:48066
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/description"
 msgstr ""
+"Покажите Сесту Избранного глубоководного.\n"
+"\t\t\t\tПока действует, союзные глубоководные уменьшают скорость перезарядки "
+"способностей ближайших врагов на 50% каждый."
 
 #: src-en/data/hyperspace.xml.append:48068
 msgid ""
@@ -3696,17 +3753,17 @@ msgstr "Благо получено"
 #: src-en/data/hyperspace.xml.append:48074
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/name"
-msgstr ""
+msgstr "Благо небес"
 
 #: src-en/data/hyperspace.xml.append:48075
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/secretName"
-msgstr ""
+msgstr "Благо ???"
 
 #: src-en/data/hyperspace.xml.append:48076
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/secretDescription"
-msgstr ""
+msgstr "Получите благо ??? от Сеста."
 
 #: src-en/data/hyperspace.xml.append:48077
 msgid ""
@@ -3729,12 +3786,12 @@ msgid ""
 msgstr "Получите дар осквернения от Корби."
 
 #: src-en/data/hyperspace.xml.append:48087
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/description"
 msgstr ""
 "Покажите Корби полностью модернизированную систему Осквернитель.\n"
-"\t\t\t\tПока действует; +5 к максимальному здоровью Приливам чумы души."
+"\t\t\t\tПока действует; +5 к максимальному здоровью союзным Приливам чумы "
+"души."
 
 #: src-en/data/hyperspace.xml.append:48089
 msgid ""
@@ -3774,12 +3831,11 @@ msgid ""
 msgstr "Получите благословение ненасытной тьмы от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:48105
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/description"
 msgstr ""
 "Покажите любое оборудование Диссонанса Уэйксону.\n"
-"\t\t\t\tПока действует; +10 к максимальному здоровью Голодным теням."
+"\t\t\t\tПока действует; +10 к максимальному здоровью союзным Голодным теням."
 
 #: src-en/data/hyperspace.xml.append:48107
 msgid ""
@@ -3797,12 +3853,11 @@ msgid ""
 msgstr "Получите благословение радужного осквернения от Уэйксона."
 
 #: src-en/data/hyperspace.xml.append:48114
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/description"
 msgstr ""
 "Покажите любое оборудование чумы души Уэйксону.\n"
-"\t\t\t\tПока действует; оболочки получают 0.25x урона от огня."
+"\t\t\t\tПока действует; союзные оболочки получают 0.25x урона от огня."
 
 #: src-en/data/hyperspace.xml.append:48116
 msgid ""
@@ -4786,10 +4841,9 @@ msgid ""
 msgstr "???"
 
 #: src-en/data/hyperspace.xml.append:48551
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_CREW_DDTHEFOOLISH\"]/secretDescription"
-msgstr "Уцепитесь за надежду и раскройте забытую правду."
+msgstr "Ухватись за надежду и раскройте скрытую правду."
 
 #: src-en/data/hyperspace.xml.append:48552
 msgid ""
