@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-14 11:07+0000\n"
+"PO-Revision-Date: 2025-07-14 18:10+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -506,16 +506,16 @@ msgstr ""
 "типа."
 
 #: src-en/data/events_special_storage.xml.append:354
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/text"
 msgstr ""
 "Вы уверены, что хотите это сделать? Подготовка одного из членов экипажа в "
 "качестве человеческой жертвы делает его бесполезным для большинства задач и "
-"лишает чувства собственного достоинства, но позволяет ему не занимать места "
-"в экипаже (что делает его полезным для будущих жертвоприношений, требуемых "
-"Потусторонним фолиантом). Вы не можете подготовить дополнительных жерв, если "
-"у вас уже есть восемь или более подготовленных."
+"лишает ее когнитивных способностей, но позволяет ей выживать без кислорода и "
+"не занимать места в экипаже (что делает его полезным для будущих "
+"жертвоприношений, требуемых Потусторонним фолиантом). Кроме того, подготовка "
+"жертв дает вам преимущество в виде возможности выбирать тип человека, "
+"которого вы приносите в жертву."
 
 #: src-en/data/events_special_storage.xml.append:356
 msgid ""
@@ -523,22 +523,27 @@ msgid ""
 msgstr "(Человеческий экипаж) Приготовить человеческую жертву."
 
 #: src-en/data/events_special_storage.xml.append:358
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/text"
-msgstr ""
-"Вы совершаете ритуал и касаетесь рукой головы своего члена экипажа. Прежде "
-"чем он успеет среагировать, его тело обмякает, а взгляд затуманивается..."
+msgstr "Какой тип людей вы хотите подготовить в качестве жертвы?"
 
 #: src-en/data/events_special_storage.xml.append:360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human\"]/text"
-msgstr ""
+msgstr "(Человек) Подготовить обычного человека в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:362
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:369
 msgid ""
@@ -556,6 +561,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:376
 msgid ""
@@ -565,12 +572,20 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:382
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_medic\"]/text"
-msgstr ""
+msgstr "(Человек-Медик) Подготовить человеческого Медика в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:384
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_medic\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:391
 msgid ""
@@ -588,6 +603,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_medic\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:398
 msgid ""
@@ -597,12 +614,20 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:404
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_engineer\"]/text"
-msgstr ""
+msgstr "(Человек-Инженер) Подготовить человека-Инженера в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:406
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_engineer\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:413
 msgid ""
@@ -620,6 +645,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_engineer\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:420
 msgid ""
@@ -629,12 +656,20 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:426
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_soldier\"]/text"
-msgstr ""
+msgstr "(Человек-Солдат) Подготовить человека-Солдата в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:428
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_soldier\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:435
 msgid ""
@@ -652,6 +687,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_soldier\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:442
 msgid ""
@@ -661,12 +698,20 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_technician\"]/text"
-msgstr ""
+msgstr "(Техник Вентворта) Подготовить Техника Вентворта в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_technician\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:457
 msgid ""
@@ -684,6 +729,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_technician\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:464
 msgid ""
@@ -693,12 +740,20 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:470
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Человек) Подготовить случайного человека в качестве жертвы."
 
 #: src-en/data/events_special_storage.xml.append:472
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
+"Вы выполняете ритуал и, следуя инструкциям из Потустороннего фолианта, "
+"закрываете глаза...\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t...слышен громкий, хрустящий звук, после чего вы чувствуете, как "
+"член вашего экипажа отчаянно пытается удержаться за вас.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВскоре его хватка ослабевает, и на мгновение вы остаетесь наедине "
+"с его криками."
 
 #: src-en/data/events_special_storage.xml.append:479
 msgid ""
@@ -716,6 +771,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
 msgstr ""
+"В конце концов, наступает тишина, и вы открываете глаза - зная, что "
+"загадочное деяние свершилось."
 
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
@@ -725,17 +782,18 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[7]/text"
-msgstr ""
+msgstr "Пожалуй, лучше забыть об этом. Лучше заняться чем-то другим."
 
 #: src-en/data/events_special_storage.xml.append:498
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "У вас нет людей, которых можно было бы подготовить в качестве жертв."
 
 #: src-en/data/events_special_storage.xml.append:502
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\"]/text"
 msgstr ""
+"Вы не можете приготовить дополнительные жертвы, когда их у вас слишком много."
 
 #: src-en/data/events_special_storage.xml.append:506
 msgid ""
@@ -814,14 +872,13 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:550
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"ее в флакон, понимая: это - мутаген Корня пустоты, за который вы "
 "пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
@@ -852,14 +909,13 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:569
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"ее в флакон, понимая: это - мутаген Железной плоти, за который вы "
 "пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
@@ -890,14 +946,13 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:588
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"ее в флакон, понимая: это - мутаген Ядовитой плоти, за который вы "
 "пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
@@ -928,15 +983,14 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:607
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
-"пожертвовали своим членом экипажа.\n"
+"ее в флакон, понимая: это - мутаген Листоносца, за который вы пожертвовали "
+"своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
 "дритка в любое время через кнопку склада на корабле."
@@ -966,14 +1020,13 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:626
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген морозного дерева, за который вы "
+"ее в флакон, понимая: это - мутаген Пепельной коры, за который вы "
 "пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
@@ -1294,12 +1347,16 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Вы не можете призывать свою связанную с чумой души массу, пока находитесь "
+"под угрозой со стороны противника."
 
 #: src-en/data/events_special_storage.xml.append:813
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"Вы не можете призывать свою связанную с чумой души массу, пока вам активно "
+"помогает другая."
 
 #: src-en/data/events_special_storage.xml.append:823
 msgid ""
@@ -3863,17 +3920,19 @@ msgid ""
 msgstr "(Мутаген Илл'дритк) Мутировать статую Илл'дритк."
 
 #: src-en/data/events_special_storage.xml.append:2707
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[4]/text"
-msgstr "(Министр) Оживить Министра."
+msgstr ""
+"(Искра божественности) Потратить свою Искру божественности, чтобы получите "
+"Частицу божественности."
 
 #: src-en/data/events_special_storage.xml.append:2711
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"(Частица божественности) Наполнить свой корабль Частицей божественности."
 
 #: src-en/data/events_special_storage.xml.append:2715
 msgid ""
@@ -3882,14 +3941,14 @@ msgid ""
 msgstr "(Министр) Оживить Министра."
 
 #: src-en/data/events_special_storage.xml.append:2721
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/text"
 msgstr ""
 "Открыв книгу, вы видите, что ее содержимое разделено на разные цвета. "
 "Ритуалы можно проводить только во время путешествия на световой скорости, "
 "поскольку они требуют определенной привязки к темным энергиям "
-"Мультивселенной. Здесь вы можете изучить ритуалы и выяснить, что они делают."
+"Мультивселенной. Здесь вы можете изучить доступные ритуалы и выяснить, что "
+"они делают."
 
 #: src-en/data/events_special_storage.xml.append:2724
 msgid ""
@@ -4404,7 +4463,6 @@ msgid ""
 msgstr "Изучить ритуал Разрушения света."
 
 #: src-en/data/events_special_storage.xml.append:3022
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"dddeepone_chosen\"]/event/choice[1]/event/text"
 msgstr ""
@@ -4413,9 +4471,10 @@ msgstr ""
 "принадлежащего случайному врагу Темного Бога. Победив его, вы получаете его "
 "благосклонность в виде двух случайных наград из базового пула ритуалов (вы "
 "можете получить одну и ту же награду дважды, награды от ритуалов Порчи, "
-"Истинной преданности и Печати не появляются). Кроме того, вы получите "
-"дополнительную награду в зависимости от появившегося врага, но этот ритуал "
-"гарантированно вызовет случайный побочный эффект."
+"Истинной преданности, Ужасного зрелища, Жуткой инаугурации и Печати не "
+"появляются). Кроме того, вы получите дополнительную награду в зависимости от "
+"появившегося врага, но этот ритуал гарантированно вызовет случайный побочный "
+"эффект."
 
 #: src-en/data/events_special_storage.xml.append:3025
 msgid ""
@@ -4683,16 +4742,15 @@ msgid ""
 msgstr "Изучить ритуал Сплетение душ."
 
 #: src-en/data/events_special_storage.xml.append:3179
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[8]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
 msgstr ""
 "РИТУАЛ СПЛЕТЕНИЯ ДУШ:\n"
-"\t\t\t\t\t\t\tЭтот ритуал позволяет накормить сгусток материя-вируса чумы "
-"души, чтобы придать ему силу и позволить стать Ткачом оболочек. Для этого "
-"требуются души 1-2 дополнительных человеческих жертв. Если не наделить "
-"сгусток силой должным образом, он станет враждебным и просто мутирует в "
-"чумную оболочку."
+"\t\t\t\t\t\t\tЭтот ритуал позволяет призвать и накормить сгусток материя-"
+"вируса чумы души, чтобы придать ему силу и позволить стать Ткачом оболочек. "
+"Для этого требуются души 1-2 дополнительных человеческих жертв. Если не "
+"наделить сгусток силой должным образом, он станет враждебным и просто "
+"мутирует в чумную оболочку."
 
 #: src-en/data/events_special_storage.xml.append:3182
 msgid ""
@@ -4744,39 +4802,49 @@ msgid ""
 msgstr "Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:3222
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/text"
-msgstr "Изучить черную надпись \"Руководство для начинающих по оккультизму\"."
+msgstr "Изучить выцветший текст \"Оды свету и тьме\"."
 
 #: src-en/data/events_special_storage.xml.append:3224
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/text"
 msgstr ""
-"Вы понимаете, что СПОСОБНЫ прочитать этот раздел... в нем описаны несколько "
-"основных ритуалов, а также подробно описаны требования и правила ритуалов в "
-"целом."
+"Хотя вы не можете прочитать текст, вы понимаете, что даже если бы могли, он, "
+"похоже, был стерт песками времени. Из того немногого, что осталось, вы "
+"можете разглядеть смутные изображения глаз - много, много глаз, все "
+"смотрящих на вас... но не больше того. Вам нужно найти кого-то, кто сможет "
+"как восстановить, так и понять текст, чтобы выполнить ритуалы."
 
 #: src-en/data/events_special_storage.xml.append:3226
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "(Живой Светоносец) Попросить вашего Светоносца расшифровать текст."
 
 #: src-en/data/events_special_storage.xml.append:3228
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"Вы чувствуете сильную жару, поскольку ваш Светоносец излучает "
+"сверхъестественную энергию поблизости — внезапно текст на соответствующих "
+"страницах становится разборчивым, и их ветхость как будто исчезает. Вы "
+"можете понять содержание страниц: несколько ритуалов, описывающих "
+"акклиматизацию могущественных Светоносцев, и методы потенциального усиления "
+"тех, кем вы уже обладаете."
 
 #: src-en/data/events_special_storage.xml.append:3230
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Изучить ритуал Новорожденных звезд."
 
 #: src-en/data/events_special_storage.xml.append:3232
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/text"
 msgstr ""
+"РИТУАЛ НОВОРОЖДЕННЫХ ЗВЕЗД:\n"
+"                            Этот ритуал открывает вам местоположение "
+"Сияющего ядра - Ядро начнет с нулевого уровня и должно быть усилено другими "
+"средствами. Его местоположение будет случайным."
 
 #: src-en/data/events_special_storage.xml.append:3235
 msgid ""
@@ -4786,7 +4854,7 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3241
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Изучить ритуал Принятия световой ванны."
 
 #: src-en/data/events_special_storage.xml.append:3243
 msgid ""
@@ -4890,7 +4958,6 @@ msgid ""
 msgstr "Изучить требования и правила ритуалов."
 
 #: src-en/data/events_special_storage.xml.append:3349
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[1]/event/text"
 msgstr ""
@@ -4899,8 +4966,9 @@ msgstr ""
 "\t\t\t\t\tПРАВИЛО 1: РИТУАЛЫ ДОЛЖНЫ ПРОВОДИТЬСЯ НА СВЕРХСВЕТОВОЙ СКОРОСТИ.\n"
 "\t\t\t\t\tПРАВИЛО 2: РИТУАЛЫ, ЗА ИСКЛЮЧЕНИЕМ РИТУАЛА ОХОТЫ, ТРЕБУЮТ "
 "ЧЕЛОВЕЧЕСКОЙ ЖЕРТВЫ.\n"
-"\t\t\t\t\tПРАВИЛО 3: ЕСЛИ ЧЕЛОВЕЧЕСКАЯ ЖЕРТВА НЕДОСТУПНА, В ЖЕРТВУ МОЖЕТ "
-"БЫТЬ ПРИНЕСЕНО ОГРОМНОЕ КОЛИЧЕСТВА ЛОМА (100 ЛОМА).\n"
+"\t\t\t\t\tПРАВИЛО 3: В КАЧЕСТВЕ ПЕРВОНАЧАЛЬНОГО ЖЕРТВОПРИНОШЕНИЯ МОЖНО "
+"ПРИНОСИТЬ В ЗАМЕНУ ОГРОМНОЕ КОЛИЧЕСТВО ЛОМА (100 единиц), ЕСЛИ ЧЕЛОВЕЧЕСКОЕ "
+"ЖЕРТВОПРИНОШЕНИЕ НЕВОЗМОЖНО..\n"
 "\t\t\t\t\tПРАВИЛО 4: НЕКОТОРЫЕ РИТУАЛЫ ТРЕБУЮТ ОПРЕДЕЛЕННЫХ ПОСЛЕДОВАТЕЛЕЙ И "
 "ПОНИМАНИЯ ПУТЕЙ ТЕМНОГО.\n"
 "\t\t\t\t\tПРАВИЛО 5: ЗА НЕИСПОЛНЕНИЕ РИТУАЛА ОБЫЧНО НЕ ПОЛАГАЕТСЯ НИКАКИХ "
@@ -4912,7 +4980,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:3359
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -4927,8 +4994,8 @@ msgstr ""
 "МОГУТ ВЫЗВАТЬ НЕЖЕЛАТЕЛЬНЫЕ ПОБОЧНЫЕ ЭФФЕКТЫ; ОНИ НЕ ПОМЕШАЮТ ЗАВЕРШЕНИЮ "
 "РИТУАЛА.\n"
 "\t\t\t\t\t\t\tПРАВИЛО 10: НЕКОТОРЫЕ РИТУАЛЫ МОГУТ В РЕДКИХ СЛУЧАЯХ ПОЗВОЛИТЬ "
-"ОСОБЫМ ПОСЛЕДОВАТЕЛЯМ ТЕМНОГО БОГА ЯВИТЬСЯ К ВАМ. ПОБЕДА НАД НИМИ МОЖЕТ "
-"ПРИНЕСТИ ДОПОЛНИТЕЛЬНЫЕ НАГРАДЫ."
+"СУЩЕСТВАМ, ИМЕЮЩИМ ОСОБОЕ ОТНОШЕНИЕ К ТЕМНОМУ, УДОСТОИТЬ ВАС СВОИМ "
+"ПРИСУТСТВИЕМ. ПОБЕДА НАД НИМИ МОЖЕТ ПРИНЕСТИ ДОПОЛНИТЕЛЬНЫЕ НАГРАДЫ."
 
 #: src-en/data/events_special_storage.xml.append:3365
 msgid ""
@@ -7546,7 +7613,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_storage.xml.append:4964
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/choice[@req=\"ddsoulplague_husk_deepone\"]/event/choice[@req=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\""
 " and @lvl=\"0\"]/event/choice/event/text"
@@ -7554,8 +7620,8 @@ msgstr ""
 "...пока, в конце концов, процесс не завершается. Ваша оболочка была "
 "поглощена.\n"
 "\t\t\t\t\t\t\t\n"
-"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Приливы чумы души Осквернителя "
-"получают 0.8x урона от экипажа."
+"\t\t\t\t\t\t\tСУБСУМАЦИЯ ГЛУБОКОВОДНОГО: Приливами чумы души Осквернителя "
+"теперь можно управлять."
 
 #: src-en/data/events_special_storage.xml.append:4973
 msgid ""
@@ -7951,11 +8017,10 @@ msgid ""
 msgstr "Протокол Архангела: ХРАНИТЕЛЬ ВРАТ [Антумбральное измерение]"
 
 #: src-en/data/events_special_storage.xml.append:5214
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[7]/text"
-msgstr "Воплощение Ультимы [???]"
+msgstr "Протокол Архангела: МОГИЛЬЩИК [Антумбральное измерение]"
 
 #: src-en/data/events_special_storage.xml.append:5218
 msgid ""
@@ -7964,17 +8029,16 @@ msgid ""
 msgstr "Протокол Архангела: СЕРДЦЕ БОГА [Антумбральное измерение]"
 
 #: src-en/data/events_special_storage.xml.append:5222
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[9]/text"
-msgstr "Воплощенное желание [Глубокий космос Просвященных]"
+msgstr "Двигатель Апофеоза [Антумбральное измерение]"
 
 #: src-en/data/events_special_storage.xml.append:5226
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_BOSS\"]/mod-"
 "append:choice[10]/text"
-msgstr "??? [Зона Темного Бога]"
+msgstr "??? [Владения Темного Бога]"
 
 #: src-en/data/events_special_storage.xml.append:5230
 msgid ""
@@ -8013,7 +8077,6 @@ msgid ""
 msgstr "Крейсер чумы души (?)"
 
 #: src-en/data/events_special_storage.xml.append:5255
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_MV\"]/mod-"
 "append:choice[1]/event/text"
@@ -8022,9 +8085,9 @@ msgstr ""
 "\t\t\tФРАКЦИЯ: Связанный с чумой души\n"
 "\t\t\t\n"
 "\t\t\tХотя этот корабль не похож ни на один из виденных кем-либо кораблей "
-"чумы души, он, несомненно, полностью осквернен материя-вирусом чумы души. Вы "
-"мало что знаете о нем... но воспоминания о его шепоте до сих пор не покидают "
-"ваш разум."
+"чумы души, он, несомненно, был полностью осквернен материя-вирусом чумы "
+"души. Вы мало что знаете о нем... но воспоминания о его шепоте до сих пор не "
+"покидают ваш разум."
 
 #: src-en/data/events_special_storage.xml.append:5260
 msgid ""
@@ -8198,19 +8261,18 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:5367
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
 "append:choice[6]/event/text"
 msgstr ""
-"ПРОФИЛЬ: The Shade\n"
+"ПРОФИЛЬ: Тень\n"
 "\t\t\tТитул: ???\n"
 "\t\t\tВид: ??? - Возраст: ??? - Пол: ???\n"
 "\t\t\t\n"
-"\t\t\tThe Shade, as it's come to be called, is an entirely mysterious "
-"construct that simply appeared one day. Having emerged from a strange "
-"wormhole, with an even stranger threat in tow, one can only guess as to its "
-"origins..."
+"\t\t\tТень, как ее стали называть, - это совершенно загадочное создание, "
+"которое просто появилось однажды. Выйдя из странной червоточины и принеся с "
+"собой еще более странную угрозу, о ее происхождении можно только "
+"догадываться..."
 
 #: src-en/data/events_special_storage.xml.append:5373
 msgid ""
