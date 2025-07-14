@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-11 07:23+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-14 18:10+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_darkonexml/ru/>\n"
 "Language: ru\n"
@@ -187,15 +187,14 @@ msgid ""
 msgstr "Ну вот и все! Прорываемся к выходу!"
 
 #: src-en/data/events_darkone.xml:157
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
-"Пока вы придумываете план побега, в голове звучит тот же голос, который вы "
-"слышали раньше: \"В МОИХ ОБЪЯТИЯХ ТЫ УТОНЕШЬ. ДОКАЖИ СВОЮ СИЛУ, БОРИСЬ ИЛИ "
-"ПОГИБНИ. ЭТО МОЙ ПРИКАЗ\". Вы чувствуете, как с вас снимают бремя... и тут "
-"же тени снаружи начинают царапать ваш корабль! Бегите к выходу!"
+"Пока вы обдумываете план побега, в вашей голове вновь раздаётся тот самый "
+"голос, что вы уже слышали раньше — его оглушительная мощь вновь заполняет "
+"разум: \"ПРИШЛО ВРЕМЯ ПОГОВОРИТЬ. МОЖЕШЬ СОПРОТИВЛЯТЬСЯ, ЕСЛИ ХОЧЕШЬ - ЭТО "
+"ТЕБЕ НЕ ПОМОЖЕТ\"."
 
 #: src-en/data/events_darkone.xml:159
 msgid ""
@@ -495,7 +494,6 @@ msgid ""
 msgstr "Ну вот и все! Прорываемся к выходу!"
 
 #: src-en/data/events_darkone.xml:325
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -782,7 +780,6 @@ msgid ""
 msgstr "Собраться."
 
 #: src-en/data/events_darkone.xml:543
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/text"
 msgstr ""
@@ -790,10 +787,11 @@ msgstr ""
 "аплодисменты. Если бы вы не были так измотаны, у вас бы разболелась "
 "голова... Они продолжаются еще мгновение, а затем резко прекращаются, когда "
 "голос обращается к вам: \"НЕУДЕРЖИМОЕ ЖЕЛАНИЕ. НЕПОКОЛЕБИМАЯ СИЛА. "
-"НЕВЕРОЯТНАЯ СТОЙКОСТЬ. ТЫ ДОСТОИН СЛУЖИТЬ И БЫТЬ СЛУЖИМЫМ, СОСУД. ПРИМИ МОЮ "
-"БЛАГОСКЛОННОСТЬ, МОЮ СИЛУ, МОИХ ИЗБРАННЫХ - И СТУПАЙ ВПЕРЕД. ТВОЯ СУДЬБА В "
-"ТВОИХ РУКАХ\". Раздается треск молнии, в ваших системах появляются странные "
-"схемы, а рядом с вами возникает оружие из чистой, хаотичной энергии..."
+"НЕВЕРОЯТНАЯ СТОЙКОСТЬ. ТЫ ДОСТОИН СЛУЖИТЬ И БЫТЬ СЛУЖИМЫМ, МОГУЧИЙ. ПРИМИ "
+"МОЮ БЛАГОСКЛОННОСТЬ, МОЮ СИЛУ, МОИХ ИЗБРАННЫХ - И СТУПАЙ ВПЕРЕД. ТВОЯ СУДЬБА "
+"В ТВОИХ РУКАХ\". Раздается треск молнии, в ваших системах появляются "
+"странные схемы, а рядом с вами возникает оружие из чистой, хаотичной "
+"энергии..."
 
 #: src-en/data/events_darkone.xml:547
 msgid ""
@@ -950,7 +948,6 @@ msgstr ""
 "руки."
 
 #: src-en/data/events_darkone.xml:663
-#, fuzzy
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/text"
 msgstr ""
 "В воздухе витает напряжение. Вы испытывали подобное чувство на протяжении "
@@ -964,13 +961,12 @@ msgid ""
 msgstr "Здравствуй?"
 
 #: src-en/data/events_darkone.xml:673
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/text"
 msgstr ""
 "Вы кричите, и все вокруг дрожит. ВЫ дрожите. Пока вы пытаетесь устоять на "
-"ногах, голос снова обращается к вам в вашем сознании: \"УТОНИ\". От одного "
-"этого слова вы падаете на колени: боль проносится по всему телу, и вы "
+"ногах, голос снова обращается к вам в вашем сознании: \"ПРЕКЛОНИСЬ\". От "
+"одного этого слова вы падаете на колени: боль проносится по всему телу, и вы "
 "теряете сознание. Вы чувствуете себя так, словно ваше существование "
 "находится в руках самой сути бытия."
 
@@ -980,16 +976,15 @@ msgid ""
 msgstr "Что... ты... хочешь...?"
 
 #: src-en/data/events_darkone.xml:677
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/text"
 msgstr ""
 "Каждое слово причиняет вам еще большую боль, но вы все равно вынуждены "
 "произносить их. Вы не считаете, что это ваши слова или что они отражают ваши "
 "мысли, и все же вам кажется, что у вас нет другого выбора, кроме как "
-"произнести их. В вашей голове раздается звук, напоминающий смех, и голос "
-"возвращается: \"ЭТО НЕ МОЕ ДЕЛО. ЖЕЛАТЬ... ОДНАКО, Я ИСПЫТЫВАЮ УДОВОЛЬСТВИЕМ "
-"ОТ ТВОИХ СТРАДАНИЙ\"."
+"произнести их. В вашей голове снова раздается звук, напоминающий смех, и "
+"голос возвращается: \"ЭТО ДОЛЖНО БЫЛО БЫТЬ ОДНИМ ИЗ ТВОИХ ИСПЫТАНИЙ, НО... "
+"ПРИЗНАЮСЬ, МНЕ НРАВИТСЯ, КАК ТЫ КОЛЕБЕШЬСЯ\"."
 
 #: src-en/data/events_darkone.xml:679
 msgid ""
@@ -1112,7 +1107,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_darkone.xml:804
-#, fuzzy
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/text"
 msgstr ""
 "В воздухе витает напряжение. Вы испытывали подобное чувство на протяжении "
@@ -1315,7 +1309,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_darkone.xml:1048
-#, fuzzy
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/text"
 msgstr ""
@@ -1881,11 +1874,9 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_darkone.xml:1488
-#, fuzzy
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE\"]/text"
 msgstr ""
-"Острая боль пронзает вашу голову, а тьма за иллюминатором начинает "
-"меняться..."
+"Острая боль пронзает вашу голову, когда безумие снаружи, кажется, меняется..."
 
 #: src-en/data/events_darkone.xml:1496
 msgid ""
@@ -2203,7 +2194,6 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_darkone.xml:1666
-#, fuzzy
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_ALONE\"]/text"
 msgstr ""
 "Вы снова оказываетесь у выхода из этого ужасного путешествия... но "
