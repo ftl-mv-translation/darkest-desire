@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-13 22:46+0000\n"
+"PO-Revision-Date: 2025-07-14 11:07+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
@@ -3741,7 +3741,7 @@ msgstr "Получите благо ??? от Сеста."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/description"
 msgstr ""
-"Покажите Сесту Избранного глубоководного.\n"
+"Покажите Избранного глубоководного Сесту.\n"
 "\t\t\t\tПока действует, союзные глубоководные уменьшают скорость перезарядки "
 "способностей ближайших врагов на 50% каждый."
 
@@ -3769,6 +3769,9 @@ msgstr "Получите благо ??? от Сеста."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/description"
 msgstr ""
+"Покажите Серафима Сесту.\n"
+"\t\t\t\tПока действует эффект, каждый союзник увеличивает получаемый урон от "
+"огня ближайших врагов на 20%."
 
 #: src-en/data/hyperspace.xml.append:48079
 msgid ""
@@ -3867,12 +3870,12 @@ msgstr "Благо получено"
 #: src-en/data/hyperspace.xml.append:48121
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/name"
-msgstr ""
+msgstr "Благословение падшей милости"
 
 #: src-en/data/hyperspace.xml.append:48122
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/secretName"
-msgstr ""
+msgstr "Благословение ???"
 
 #: src-en/data/hyperspace.xml.append:48123
 msgid ""
@@ -3883,6 +3886,9 @@ msgstr "Получите благословение ??? от Уэйксона."
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/description"
 msgstr ""
+"Покажите любое снаряжение Светоносецев Уэйксону.\n"
+"\t\t\t\tПока действует эффект, союзные Светоносецы взламывают двери в два "
+"раза быстрее."
 
 #: src-en/data/hyperspace.xml.append:48126
 msgid ""
@@ -3892,7 +3898,7 @@ msgstr "Благо получено"
 #: src-en/data/hyperspace.xml.append:48132
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/name"
-msgstr ""
+msgstr "Украденное морское чудовище"
 
 #: src-en/data/hyperspace.xml.append:48133
 msgid ""
@@ -3902,22 +3908,22 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48134
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/description"
-msgstr ""
+msgstr "Победите Ренегатов-глубоководных и получите Харибду."
 
 #: src-en/data/hyperspace.xml.append:48137
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/secretDescription"
-msgstr ""
+msgstr "Победите ??? Ренегатов и получите их добычу."
 
 #: src-en/data/hyperspace.xml.append:48138
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:48142
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/name"
-msgstr ""
+msgstr "Оскверненные швы"
 
 #: src-en/data/hyperspace.xml.append:48143
 msgid ""
@@ -3927,22 +3933,22 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48144
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/description"
-msgstr ""
+msgstr "Победите Ренегатов чумы души и получите Морс."
 
 #: src-en/data/hyperspace.xml.append:48147
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/secretDescription"
-msgstr ""
+msgstr "Победите ??? Ренегатов и получите их добычу."
 
 #: src-en/data/hyperspace.xml.append:48148
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:48152
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/name"
-msgstr ""
+msgstr "Гибельное пламя"
 
 #: src-en/data/hyperspace.xml.append:48153
 msgid ""
@@ -3952,17 +3958,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48154
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/description"
-msgstr ""
+msgstr "Победите Ренегатов-Серафимов и получите Ад, посланный небесами."
 
 #: src-en/data/hyperspace.xml.append:48157
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/secretDescription"
-msgstr ""
+msgstr "Победите ??? Ренегатов и получите их добычу."
 
 #: src-en/data/hyperspace.xml.append:48158
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/header"
-msgstr ""
+msgstr "Ренегат побежден"
 
 #: src-en/data/hyperspace.xml.append:48162
 msgid ""
@@ -3977,7 +3983,7 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48172
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKEDGEOFEVERYTHING\"]/name"
-msgstr ""
+msgstr "Край всего"
 
 #: src-en/data/hyperspace.xml.append:48173
 msgid ""
@@ -4137,12 +4143,12 @@ msgstr "Получите добычу из ??? транспорта."
 #: src-en/data/hyperspace.xml.append:48276
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDFALSE_RADIANCE\"]/name"
-msgstr ""
+msgstr "Транспорт Лжесияния"
 
 #: src-en/data/hyperspace.xml.append:48277
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDFALSE_RADIANCE\"]/description"
-msgstr ""
+msgstr "Получите добычу из транспорта Лжесияния."
 
 #: src-en/data/hyperspace.xml.append:48282
 msgid ""
@@ -4217,16 +4223,20 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLESSINGOFTHELIGHTBORNE\"]/secretDescription"
 msgstr ""
+"Удовлетворите аппетит невообразимо огромного существа и получите в награду "
+"подарок."
 
 #: src-en/data/hyperspace.xml.append:48308
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLESSINGOFTHELIGHTBORNE\"]/name"
-msgstr ""
+msgstr "Благословенный"
 
 #: src-en/data/hyperspace.xml.append:48309
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLESSINGOFTHELIGHTBORNE\"]/description"
 msgstr ""
+"Подайте значительное количество лома большому Светоносцу, обитающему в "
+"Антумбральном измерении, и получите его успокаивающее благословение."
 
 #: src-en/data/hyperspace.xml.append:48314
 msgid ""
@@ -4237,16 +4247,20 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDLOSTGODHOOD\"]/secretDescription"
 msgstr ""
+"Найдите священное зеркало, которое считалось утраченным, и довезите его с "
+"собой в конец своего путешествия."
 
 #: src-en/data/hyperspace.xml.append:48316
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDLOSTGODHOOD\"]/name"
-msgstr ""
+msgstr "Машина, Зеркало, Мать, Тайна"
 
 #: src-en/data/hyperspace.xml.append:48317
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDLOSTGODHOOD\"]/description"
 msgstr ""
+"Позвольте Владычице заглянуть в Антумбральное зеркало и извлечь из него "
+"Утраченное божественное начало."
 
 #: src-en/data/hyperspace.xml.append:48322
 msgid ""
@@ -4358,17 +4372,17 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:48363
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTHEANTUMBRALPLANE\"]/secretDescription"
-msgstr ""
+msgstr "Выйдите за пределы реальности и отправьтесь в совершенно новое место."
 
 #: src-en/data/hyperspace.xml.append:48364
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTHEANTUMBRALPLANE\"]/name"
-msgstr ""
+msgstr "Грезы в швах"
 
 #: src-en/data/hyperspace.xml.append:48365
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTHEANTUMBRALPLANE\"]/description"
-msgstr ""
+msgstr "Найдите разлом в швах реальности и успешно прорвитесь через него."
 
 #: src-en/data/hyperspace.xml.append:48370
 msgid ""
@@ -4465,16 +4479,17 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTODESIREDIVINITY\"]/secretDescription"
 msgstr ""
+"Заявите права на определенный корабль и обретите истинную божественность."
 
 #: src-en/data/hyperspace.xml.append:48404
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTODESIREDIVINITY\"]/name"
-msgstr ""
+msgstr "Протокол Архангел: РЕНЕГАТ"
 
 #: src-en/data/hyperspace.xml.append:48405
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDTODESIREDIVINITY\"]/description"
-msgstr ""
+msgstr "Поглотите семь частиц божественности на борту Лжесияния тип В."
 
 #: src-en/data/hyperspace.xml.append:48410
 msgid ""
@@ -4500,7 +4515,7 @@ msgstr "Обладайте системой Осквернитель 4-го ур
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[7]/mod-"
 "append:page[2]/section/@text"
-msgstr ""
+msgstr "Темнейшие достижения (продолжение)"
 
 #: src-en/data/hyperspace.xml.append:48422
 msgid ""
@@ -4551,16 +4566,18 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDGATEKEEPERDEFEAT\"]/secretDescription"
 msgstr ""
+"Победить странное, божественное существо, обладающее властью над временем и "
+"пространством."
 
 #: src-en/data/hyperspace.xml.append:48440
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDGATEKEEPERDEFEAT\"]/name"
-msgstr ""
+msgstr "ХРАНИТЕЛЬ ЗАПЕРТЫХ ВРАТ"
 
 #: src-en/data/hyperspace.xml.append:48441
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDGATEKEEPERDEFEAT\"]/description"
-msgstr ""
+msgstr "Победите Протокол Архангела: ХРАНИТЕЛЬ ВРАТ в Антумбральном измерении."
 
 #: src-en/data/hyperspace.xml.append:48446
 msgid ""
@@ -4571,6 +4588,8 @@ msgstr "???"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDGRAVEDIGGERDEFEAT\"]/secretDescription"
 msgstr ""
+"Победить странное, божественное существо, обладающее властью над смертью и "
+"энтропией."
 
 #: src-en/data/hyperspace.xml.append:48448
 msgid ""
