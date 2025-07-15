@@ -7591,34 +7591,41 @@ msgstr "Continue..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/destroyed/text"
 msgstr ""
-"Despite its determination, the hero falls... were its efforts all for "
-"naught?"
+"It falls, it falls, and it falls again... and yet, here you stand - alive! "
+"Aren't you something special...?"
 
 #: src-en/data/events_enlightened.xml:4377
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4382
+#: src-en/data/events_enlightened.xml:4385
 msgid ""
-"data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/deadCrew/text"
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/text"
 msgstr ""
-"Despite its determination, the hero falls... were its efforts all for "
-"naught?"
+"You think you've finally claimed victory, when a surge of energy bursts "
+"forth from what remains of the hero - somehow, it's only standing back up..."
 
-#: src-en/data/events_enlightened.xml:4386
+#: src-en/data/events_enlightened.xml:4388
 msgid ""
-"data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/deadCrew/choice/text"
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4393
+#: src-en/data/events_enlightened.xml:4390
+msgid ""
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/choice/event/text"
+msgstr ""
+"...along with a portion of its hopeful entourage. This feeling, coursing "
+"through your veins... now THIS is what it feels like to fight to the death!"
+
+#: src-en/data/events_enlightened.xml:4398
 msgid "data/events_enlightened.xml$//event[@name=\"DDTRUEHERO_LASTSTAND\"]/text"
 msgstr ""
 "As the hero falters, it steadies itself, \"N-not... so fast! I refuse... to "
 "DIE, to let... the UNIVERSE DIE!\" You watch as Deep Ones materialize from "
 "the darkness itself, and the enemy ship has its wounds mended..."
 
-#: src-en/data/events_enlightened.xml:4399
+#: src-en/data/events_enlightened.xml:4404
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/text"
 msgstr ""
@@ -7626,13 +7633,13 @@ msgstr ""
 " is unfamiliar to you. Somehow, it seems to be completely unharmed... it's "
 "yours now, regardless. You just hope it isn't cursed..."
 
-#: src-en/data/events_enlightened.xml:4406
+#: src-en/data/events_enlightened.xml:4411
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4408
+#: src-en/data/events_enlightened.xml:4413
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/text"
@@ -7646,13 +7653,13 @@ msgstr ""
 "should prove to be a hefty blow to its power.\" It stops speaking, and now "
 "appears to be deep in thought."
 
-#: src-en/data/events_enlightened.xml:4412
+#: src-en/data/events_enlightened.xml:4417
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "What now?"
 
-#: src-en/data/events_enlightened.xml:4414
+#: src-en/data/events_enlightened.xml:4419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -7664,13 +7671,13 @@ msgstr ""
 " people, too. Lead... the way, kin!\" With a new ally at your side, you "
 "prepare to leave this void of darkness behind."
 
-#: src-en/data/events_enlightened.xml:4416
+#: src-en/data/events_enlightened.xml:4421
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4418
+#: src-en/data/events_enlightened.xml:4423
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
@@ -7682,19 +7689,19 @@ msgstr ""
 "itself warps outside... the void, somehow, glows brighter. You realize "
 "you're being pulled through it at lightspeed!"
 
-#: src-en/data/events_enlightened.xml:4420
+#: src-en/data/events_enlightened.xml:4425
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Hold on!"
 
-#: src-en/data/events_enlightened.xml:4433
+#: src-en/data/events_enlightened.xml:4438
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4435
+#: src-en/data/events_enlightened.xml:4440
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/text"
@@ -7702,13 +7709,13 @@ msgstr ""
 "Unfortunately, the Scarred died during the battle... there's nothing you can"
 " do but move on."
 
-#: src-en/data/events_enlightened.xml:4437
+#: src-en/data/events_enlightened.xml:4442
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4439
+#: src-en/data/events_enlightened.xml:4444
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/text"
@@ -7720,13 +7727,13 @@ msgstr ""
 "itself warps outside... the void, somehow, glows brighter. You realize "
 "you're being pulled through it at lightspeed!"
 
-#: src-en/data/events_enlightened.xml:4441
+#: src-en/data/events_enlightened.xml:4446
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Hold onto something!"
 
-#: src-en/data/events_enlightened.xml:4454
+#: src-en/data/events_enlightened.xml:4459
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/text"
 msgstr ""
@@ -7734,12 +7741,12 @@ msgstr ""
 " is unfamiliar to you. Somehow, it seems to be completely unharmed... it's "
 "yours now, regardless. You just hope it isn't cursed..."
 
-#: src-en/data/events_enlightened.xml:4461
+#: src-en/data/events_enlightened.xml:4466
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4463
+#: src-en/data/events_enlightened.xml:4468
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/text"
 msgstr ""
@@ -7750,12 +7757,12 @@ msgstr ""
 "itself warps outside... the void, somehow, glows brighter. You realize "
 "you're being pulled through it at lightspeed!"
 
-#: src-en/data/events_enlightened.xml:4465
+#: src-en/data/events_enlightened.xml:4470
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/choice/text"
 msgstr "Hold onto something!"
 
-#: src-en/data/events_enlightened.xml:4476
+#: src-en/data/events_enlightened.xml:4481
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/text"
 msgstr ""
@@ -7765,22 +7772,22 @@ msgstr ""
 "itself warps outside... the void, somehow, glows brighter. You realize "
 "you're being pulled through it at lightspeed!"
 
-#: src-en/data/events_enlightened.xml:4484
+#: src-en/data/events_enlightened.xml:4489
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/choice/text"
 msgstr "Hold onto something!"
 
-#: src-en/data/events_enlightened.xml:4493
+#: src-en/data/events_enlightened.xml:4498
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/text"
 msgstr "You've finally arrived at the exit..."
 
-#: src-en/data/events_enlightened.xml:4496
+#: src-en/data/events_enlightened.xml:4501
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4498
+#: src-en/data/events_enlightened.xml:4503
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
@@ -7788,13 +7795,13 @@ msgstr ""
 "It replies, hastily, \"Something... is not right, here. I...\" It comes off "
 "as if it's panicking. \"...I think... they've come for me.\""
 
-#: src-en/data/events_enlightened.xml:4500
+#: src-en/data/events_enlightened.xml:4505
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
 msgstr "They? Who?"
 
-#: src-en/data/events_enlightened.xml:4502
+#: src-en/data/events_enlightened.xml:4507
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
@@ -7805,13 +7812,13 @@ msgstr ""
 "me, now. You... must go, should you wish to escape. I thank you... for "
 "everything you've done for me, and my people.\""
 
-#: src-en/data/events_enlightened.xml:4504
+#: src-en/data/events_enlightened.xml:4509
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
 msgstr "What will happen to you?"
 
-#: src-en/data/events_enlightened.xml:4506
+#: src-en/data/events_enlightened.xml:4511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
@@ -7821,7 +7828,7 @@ msgstr ""
 "is... irrelevant. I can only pray that they take this opportunity... this "
 "chance, and never return to their Dark One.\""
 
-#: src-en/data/events_enlightened.xml:4508
+#: src-en/data/events_enlightened.xml:4513
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
@@ -7829,7 +7836,7 @@ msgstr ""
 "No, not like this. Not now. I will stand with you, and fight; for you, and "
 "the Enlightened."
 
-#: src-en/data/events_enlightened.xml:4510
+#: src-en/data/events_enlightened.xml:4515
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
@@ -7841,13 +7848,13 @@ msgstr ""
 "scars materializes in front of you... you're face to face with the voice "
 "you've been speaking to."
 
-#: src-en/data/events_enlightened.xml:4512
+#: src-en/data/events_enlightened.xml:4517
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "What should I, uh, call you?"
 
-#: src-en/data/events_enlightened.xml:4514
+#: src-en/data/events_enlightened.xml:4519
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -7860,21 +7867,21 @@ msgstr ""
 "its own way.\" It looks to the void outside, and drops its hand, "
 "\"They're... here.\""
 
-#: src-en/data/events_enlightened.xml:4515
+#: src-en/data/events_enlightened.xml:4520
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
 msgstr "The Scarred"
 
-#: src-en/data/events_enlightened.xml:4517
+#: src-en/data/events_enlightened.xml:4522
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4519
+#: src-en/data/events_enlightened.xml:4524
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -7885,14 +7892,14 @@ msgstr ""
 "One design, approaches. Though the design is familar, the lack of lights "
 "feels unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4523
+#: src-en/data/events_enlightened.xml:4528
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Brace yourself."
 
-#: src-en/data/events_enlightened.xml:4525
+#: src-en/data/events_enlightened.xml:4530
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -7907,20 +7914,20 @@ msgstr ""
 "dreadnought approaches, and you realize it's time to do the same... to be a "
 "beacon, where the darkness festers greatest."
 
-#: src-en/data/events_enlightened.xml:4529
+#: src-en/data/events_enlightened.xml:4534
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4547
+#: src-en/data/events_enlightened.xml:4552
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4549
+#: src-en/data/events_enlightened.xml:4554
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
@@ -7934,13 +7941,13 @@ msgstr ""
 "you.\" The voice goes silent for the last time, and the ship retreats back "
 "into the darkness."
 
-#: src-en/data/events_enlightened.xml:4551
+#: src-en/data/events_enlightened.xml:4556
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/text"
 msgstr "Prepare to leave."
 
-#: src-en/data/events_enlightened.xml:4553
+#: src-en/data/events_enlightened.xml:4558
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
@@ -7951,13 +7958,13 @@ msgstr ""
 "approaches. Though the design is familar, the lack of lights feels "
 "unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4556
+#: src-en/data/events_enlightened.xml:4561
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
 msgstr "What's this?"
 
-#: src-en/data/events_enlightened.xml:4558
+#: src-en/data/events_enlightened.xml:4563
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
@@ -7969,19 +7976,19 @@ msgstr ""
 " little time to ponder. The dreadnought prepares to begin its assault, and "
 "you prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4563
+#: src-en/data/events_enlightened.xml:4568
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4573
+#: src-en/data/events_enlightened.xml:4578
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4575
+#: src-en/data/events_enlightened.xml:4580
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/text"
@@ -7995,13 +8002,13 @@ msgstr ""
 "come back.\" With that, the voice goes silent for the last time, and the "
 "ship retreats back into the darkness."
 
-#: src-en/data/events_enlightened.xml:4577
+#: src-en/data/events_enlightened.xml:4582
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/text"
 msgstr "Prepare to leave."
 
-#: src-en/data/events_enlightened.xml:4579
+#: src-en/data/events_enlightened.xml:4584
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/text"
@@ -8012,13 +8019,13 @@ msgstr ""
 "approaches. Though the design is familar, the lack of lights feels "
 "unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4582
+#: src-en/data/events_enlightened.xml:4587
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/text"
 msgstr "What's this?"
 
-#: src-en/data/events_enlightened.xml:4584
+#: src-en/data/events_enlightened.xml:4589
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/event/text"
@@ -8030,19 +8037,19 @@ msgstr ""
 " little time to ponder. The dreadnought prepares to begin its assault, and "
 "you prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4589
+#: src-en/data/events_enlightened.xml:4594
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4599
+#: src-en/data/events_enlightened.xml:4604
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
 msgstr "It's about time."
 
-#: src-en/data/events_enlightened.xml:4601
+#: src-en/data/events_enlightened.xml:4606
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
@@ -8052,13 +8059,13 @@ msgstr ""
 " it, a ship emerges; the same one you saw when you first entered this "
 "sector. What does this tool want?"
 
-#: src-en/data/events_enlightened.xml:4603
+#: src-en/data/events_enlightened.xml:4608
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
 msgstr "I'm tired of hearing its pestering. Blow it up."
 
-#: src-en/data/events_enlightened.xml:4605
+#: src-en/data/events_enlightened.xml:4610
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
@@ -8070,13 +8077,13 @@ msgstr ""
 "whatever you are... what do you intend to do when you leave... this "
 "sector?\" The ship outside begins to shake."
 
-#: src-en/data/events_enlightened.xml:4607
+#: src-en/data/events_enlightened.xml:4612
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr "Sure, I'll humor you. The answer's simple: whatever I want."
 
-#: src-en/data/events_enlightened.xml:4609
+#: src-en/data/events_enlightened.xml:4614
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
@@ -8094,13 +8101,13 @@ msgstr ""
 "you, here and now... their hopes... their dreams... will all have been for "
 "naught. It is for that reason, outsider, that...\""
 
-#: src-en/data/events_enlightened.xml:4611
+#: src-en/data/events_enlightened.xml:4616
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4613
+#: src-en/data/events_enlightened.xml:4618
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
@@ -8109,25 +8116,25 @@ msgstr ""
 "bursts from where the previous lay shrouded; the hero appears, and you "
 "prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4623
+#: src-en/data/events_enlightened.xml:4628
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4637
+#: src-en/data/events_enlightened.xml:4642
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/text"
 msgstr ""
 "The Rebels should be here, but... everything is quiet. Is this it? Have you "
 "escaped?"
 
-#: src-en/data/events_enlightened.xml:4640
+#: src-en/data/events_enlightened.xml:4645
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4642
+#: src-en/data/events_enlightened.xml:4647
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
@@ -8135,13 +8142,13 @@ msgstr ""
 "It replies, hastily, \"Something... is not right, here. I...\" It comes off "
 "as if it's panicking. \"...I think... they've come for me.\""
 
-#: src-en/data/events_enlightened.xml:4644
+#: src-en/data/events_enlightened.xml:4649
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
 msgstr "They? Who?"
 
-#: src-en/data/events_enlightened.xml:4646
+#: src-en/data/events_enlightened.xml:4651
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
@@ -8152,13 +8159,13 @@ msgstr ""
 "me, now. You... must go, should you wish to escape. I thank you... for "
 "everything you've done for me, and my people.\""
 
-#: src-en/data/events_enlightened.xml:4648
+#: src-en/data/events_enlightened.xml:4653
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
 msgstr "What will happen to you?"
 
-#: src-en/data/events_enlightened.xml:4650
+#: src-en/data/events_enlightened.xml:4655
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
@@ -8168,7 +8175,7 @@ msgstr ""
 "is... irrelevant. I can only pray that they take this opportunity... this "
 "chance, and never return to their Dark One.\""
 
-#: src-en/data/events_enlightened.xml:4652
+#: src-en/data/events_enlightened.xml:4657
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
@@ -8176,7 +8183,7 @@ msgstr ""
 "No, not like this. Not now. I will stand with you, and fight; for you, and "
 "the Enlightened."
 
-#: src-en/data/events_enlightened.xml:4654
+#: src-en/data/events_enlightened.xml:4659
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
@@ -8188,13 +8195,13 @@ msgstr ""
 "scars materializes in front of you... you're face to face with the voice "
 "you've been speaking to."
 
-#: src-en/data/events_enlightened.xml:4656
+#: src-en/data/events_enlightened.xml:4661
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "What should I, uh, call you?"
 
-#: src-en/data/events_enlightened.xml:4658
+#: src-en/data/events_enlightened.xml:4663
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -8207,21 +8214,21 @@ msgstr ""
 "its own way.\" It looks to the void outside, and drops its hand, "
 "\"They're... here.\""
 
-#: src-en/data/events_enlightened.xml:4659
+#: src-en/data/events_enlightened.xml:4664
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
 msgstr "The Scarred"
 
-#: src-en/data/events_enlightened.xml:4661
+#: src-en/data/events_enlightened.xml:4666
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4663
+#: src-en/data/events_enlightened.xml:4668
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -8232,14 +8239,14 @@ msgstr ""
 "One design, approaches. Though the design is familar, the lack of lights "
 "feels unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4666
+#: src-en/data/events_enlightened.xml:4671
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Brace yourself."
 
-#: src-en/data/events_enlightened.xml:4668
+#: src-en/data/events_enlightened.xml:4673
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
@@ -8254,20 +8261,20 @@ msgstr ""
 "dreadnought approaches, and you realize it's time to do the same... to be a "
 "beacon, where the darkness festers greatest."
 
-#: src-en/data/events_enlightened.xml:4673
+#: src-en/data/events_enlightened.xml:4678
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4691
+#: src-en/data/events_enlightened.xml:4696
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4693
+#: src-en/data/events_enlightened.xml:4698
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
@@ -8281,13 +8288,13 @@ msgstr ""
 "you.\" The voice goes silent for the last time, and the ship retreats back "
 "into the darkness."
 
-#: src-en/data/events_enlightened.xml:4695
+#: src-en/data/events_enlightened.xml:4700
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/text"
 msgstr "Prepare to leave."
 
-#: src-en/data/events_enlightened.xml:4697
+#: src-en/data/events_enlightened.xml:4702
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
@@ -8298,13 +8305,13 @@ msgstr ""
 "approaches. Though the design is familar, the lack of lights feels "
 "unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4700
+#: src-en/data/events_enlightened.xml:4705
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
 msgstr "What's this?"
 
-#: src-en/data/events_enlightened.xml:4702
+#: src-en/data/events_enlightened.xml:4707
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
@@ -8316,19 +8323,19 @@ msgstr ""
 " little time to ponder. The dreadnought prepares to begin its assault, and "
 "you prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4707
+#: src-en/data/events_enlightened.xml:4712
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4717
+#: src-en/data/events_enlightened.xml:4722
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/text"
 msgstr "Ask the voice what happens now."
 
-#: src-en/data/events_enlightened.xml:4719
+#: src-en/data/events_enlightened.xml:4724
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/text"
@@ -8342,13 +8349,13 @@ msgstr ""
 "come back.\" With that, the voice goes silent for the last time, and the "
 "ship retreats back into the darkness."
 
-#: src-en/data/events_enlightened.xml:4721
+#: src-en/data/events_enlightened.xml:4726
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/text"
 msgstr "Prepare to leave."
 
-#: src-en/data/events_enlightened.xml:4723
+#: src-en/data/events_enlightened.xml:4728
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/text"
@@ -8359,13 +8366,13 @@ msgstr ""
 "approaches. Though the design is familar, the lack of lights feels "
 "unsettling... as does the lack of color."
 
-#: src-en/data/events_enlightened.xml:4726
+#: src-en/data/events_enlightened.xml:4731
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/text"
 msgstr "What's this?"
 
-#: src-en/data/events_enlightened.xml:4728
+#: src-en/data/events_enlightened.xml:4733
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/text"
@@ -8377,19 +8384,19 @@ msgstr ""
 " little time to ponder. The dreadnought prepares to begin its assault, and "
 "you prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4733
+#: src-en/data/events_enlightened.xml:4738
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4743
+#: src-en/data/events_enlightened.xml:4748
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
 msgstr "It's about time."
 
-#: src-en/data/events_enlightened.xml:4745
+#: src-en/data/events_enlightened.xml:4750
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
@@ -8399,13 +8406,13 @@ msgstr ""
 " it, a ship emerges; the same one you saw when you first entered this "
 "sector. What does this tool want?"
 
-#: src-en/data/events_enlightened.xml:4747
+#: src-en/data/events_enlightened.xml:4752
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
 msgstr "I'm tired of hearing its pestering. Blow it up."
 
-#: src-en/data/events_enlightened.xml:4749
+#: src-en/data/events_enlightened.xml:4754
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
@@ -8417,13 +8424,13 @@ msgstr ""
 "whatever you are... what do you intend to do when you leave... this "
 "sector?\" The ship outside begins to shake."
 
-#: src-en/data/events_enlightened.xml:4751
+#: src-en/data/events_enlightened.xml:4756
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr "Sure, I'll humor you. The answer's simple: whatever I want."
 
-#: src-en/data/events_enlightened.xml:4753
+#: src-en/data/events_enlightened.xml:4758
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
@@ -8441,13 +8448,13 @@ msgstr ""
 "you, here and now... their hopes... their dreams... will all have been for "
 "naught. It is for that reason, outsider, that...\""
 
-#: src-en/data/events_enlightened.xml:4755
+#: src-en/data/events_enlightened.xml:4760
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4757
+#: src-en/data/events_enlightened.xml:4762
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
@@ -8456,83 +8463,83 @@ msgstr ""
 "bursts from where the previous lay shrouded; the hero appears, and you "
 "prepare for the end."
 
-#: src-en/data/events_enlightened.xml:4767
+#: src-en/data/events_enlightened.xml:4772
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_enlightened.xml:4783
+#: src-en/data/events_enlightened.xml:4788
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[1]/text"
 msgstr "Accept their offer."
 
-#: src-en/data/events_enlightened.xml:4791
+#: src-en/data/events_enlightened.xml:4796
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[2]/text"
 msgstr "We will not accept surrender!"
 
-#: src-en/data/events_enlightened.xml:4793
+#: src-en/data/events_enlightened.xml:4798
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[2]/event/text"
 msgstr "You feel... judged as you prepare to return to battle."
 
-#: src-en/data/events_enlightened.xml:4800
+#: src-en/data/events_enlightened.xml:4805
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
 "The Enlightened, as zealous as they are, still don't have complete disregard"
 " for their lives. They're offering their surrender."
 
-#: src-en/data/events_enlightened.xml:4801
+#: src-en/data/events_enlightened.xml:4806
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
 "You receive several messages that are composed of complete gibberish and "
 "accompanied by bribes. You assume this is their idea of surrendering."
 
-#: src-en/data/events_enlightened.xml:4802
+#: src-en/data/events_enlightened.xml:4807
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
 "You receive a hail, and you see that the darkness is beginning to seep into "
 "the Enlightened's ship. They're offering their surrender."
 
-#: src-en/data/events_enlightened.xml:4803
+#: src-en/data/events_enlightened.xml:4808
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
 "\"The... Dark One proposes a truce.\" Why, pray tell, does it continue to "
 "torment you then?"
 
-#: src-en/data/events_enlightened.xml:4804
+#: src-en/data/events_enlightened.xml:4809
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
 "As the opposing Enlightened ship buckles and begins to collapse, you receive"
 " a desperate hail for surrender."
 
-#: src-en/data/events_enlightened.xml:4805
+#: src-en/data/events_enlightened.xml:4810
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
 "The Enlightened pray to their Dark God as they beg for its mercy... they beg"
 " for yours, as well."
 
-#: src-en/data/events_enlightened.xml:4809
+#: src-en/data/events_enlightened.xml:4814
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_ESCAPE\"]/text"
 msgstr ""
 "Your scanners are picking up FTL signatures, the Enlightened are trying to "
 "escape!"
 
-#: src-en/data/events_enlightened.xml:4819
+#: src-en/data/events_enlightened.xml:4824
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[1]"
 msgstr ""
 "As you scrap the strange ship, you wonder how much of the damage dealt to "
 "its hull was present prior to your fight."
 
-#: src-en/data/events_enlightened.xml:4820
+#: src-en/data/events_enlightened.xml:4825
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[2]"
 msgstr ""
@@ -8540,28 +8547,28 @@ msgstr ""
 "apart... they're then subjected to the very void they've spent their lives "
 "cowering within."
 
-#: src-en/data/events_enlightened.xml:4821
+#: src-en/data/events_enlightened.xml:4826
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[3]"
 msgstr ""
 "During the scrapping operation, your crew comments that the lights adorning "
 "the Enlightened's hull appear to never die. You find that quite ironic."
 
-#: src-en/data/events_enlightened.xml:4822
+#: src-en/data/events_enlightened.xml:4827
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[4]"
 msgstr ""
 "You watch as fragments of the Enlightened's lights float away into the "
 "darkness to be consumed... they look like stars, being extinguished."
 
-#: src-en/data/events_enlightened.xml:4823
+#: src-en/data/events_enlightened.xml:4828
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[5]"
 msgstr ""
 "Seems that the hunters have become the hunted in this accursed sea of "
 "shadows. You can't help but wonder if things had to end this way."
 
-#: src-en/data/events_enlightened.xml:4824
+#: src-en/data/events_enlightened.xml:4829
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[6]"
 msgstr ""
@@ -8569,7 +8576,7 @@ msgstr ""
 " eliminated. Every second spent in this void is another you'd much rather be"
 " spending just about anywhere else."
 
-#: src-en/data/events_enlightened.xml:4825
+#: src-en/data/events_enlightened.xml:4830
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[7]"
 msgstr ""
@@ -8577,14 +8584,14 @@ msgstr ""
 "yellow debris in all directions. Or was it brown? The answer feels "
 "inconsequential as the debris is devoured by the darkness."
 
-#: src-en/data/events_enlightened.xml:4834
+#: src-en/data/events_enlightened.xml:4839
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[1]"
 msgstr ""
 "As you wander the halls of the strange ship, you wonder how much of the "
 "damage dealt to its hull was present prior to your fight."
 
-#: src-en/data/events_enlightened.xml:4835
+#: src-en/data/events_enlightened.xml:4840
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[2]"
 msgstr ""
@@ -8592,14 +8599,14 @@ msgstr ""
 "your gaze and mutters a prayer to the Dark God before collapsing and dying. "
 "Great, now you've been cursed..."
 
-#: src-en/data/events_enlightened.xml:4836
+#: src-en/data/events_enlightened.xml:4841
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[3]"
 msgstr ""
 "During the scrapping operation, your crew comments that the lights adorning "
 "the Enlightened's hull appear to never die. You find that quite ironic."
 
-#: src-en/data/events_enlightened.xml:4837
+#: src-en/data/events_enlightened.xml:4842
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[4]"
 msgstr ""
@@ -8607,14 +8614,14 @@ msgstr ""
 "now-empty ship. The Enlightened have fine taste in ship architecture, yet "
 "they have finer scrap."
 
-#: src-en/data/events_enlightened.xml:4838
+#: src-en/data/events_enlightened.xml:4843
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[5]"
 msgstr ""
 "Though you barely understand the creatures you've just slaughtered, you "
 "can't help but feel like it didn't have to end this way."
 
-#: src-en/data/events_enlightened.xml:4839
+#: src-en/data/events_enlightened.xml:4844
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[6]"
 msgstr ""
@@ -8622,7 +8629,7 @@ msgstr ""
 "eliminated. Every second spent in this void is another you'd much rather be "
 "spending just about anywhere else."
 
-#: src-en/data/events_enlightened.xml:4840
+#: src-en/data/events_enlightened.xml:4845
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[7]"
 msgstr ""

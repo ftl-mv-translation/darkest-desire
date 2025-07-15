@@ -8088,33 +8088,46 @@ msgstr ""
 #: src-en/data/events_sector_ddcoremass.xml:4462
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/text"
-msgstr "Even after all of that, they still fall. Can anything stop you?"
+msgstr ""
+"It seems that not even she can stop you! Do you think that HE could, if you "
+"REALLY tried?"
 
 #: src-en/data/events_sector_ddcoremass.xml:4465
 msgid ""
 "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4470
+#: src-en/data/events_sector_ddcoremass.xml:4473
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/text"
-msgstr "Even after all of that, they still fall. Can anything stop you?"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_CREWKILL\"]/text"
+msgstr ""
+"A burning hatred tears at your heart, as you watch undying flames burst "
+"forth from beneath the Heroine's armor..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4475
+#: src-en/data/events_sector_ddcoremass.xml:4476
 msgid ""
-"data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_CREWKILL\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4482
+#: src-en/data/events_sector_ddcoremass.xml:4478
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_CREWKILL\"]/choice/event/text"
+msgstr ""
+"...and, with them, her fallen comrades rise with her. You dispel the feeling"
+" within yourself, and counter it with one of your own - the burning desire "
+"to kill them all again, over, and over, and over... until NOTHING remains."
+
+#: src-en/data/events_sector_ddcoremass.xml:4486
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_DEATHTOEVIL\"]/text"
 msgstr ""
 "As the battle draws on, you feel as the Heroine screams within your mind "
-"again, \"FEEL THEIR PAIN - DROWN IN THEIR ANGUISH, AND DIE, DAMN YOU!\" Her "
-"ship miraculously begins to regenerate, as the souls of ones you've damned "
-"seem to rise around you... here come more Husks!"
+"again, \"FEEL THEIR PAIN - DROWN IN THEIR ANGUISH... AND DIE, DAMN YOU!\" "
+"Her ship miraculously begins to regenerate, as the souls of ones you've "
+"damned seem to rise around you... indeed, you feel that you welcome their "
+"angered clawing."
 
-#: src-en/data/events_sector_ddcoremass.xml:4488
+#: src-en/data/events_sector_ddcoremass.xml:4492
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/text"
 msgstr ""
@@ -8126,54 +8139,54 @@ msgstr ""
 "REFORGE HER IN YOUR HONOR. GO FORTH, AND DO AS YOU SEE FIT.\" Indeed, you "
 "shall. That's all you've ever done, for as long as you can remember."
 
-#: src-en/data/events_sector_ddcoremass.xml:4496
+#: src-en/data/events_sector_ddcoremass.xml:4500
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4498
+#: src-en/data/events_sector_ddcoremass.xml:4502
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/text"
 msgstr "Next to the weapon, a Huskweaver also manifests..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4500
+#: src-en/data/events_sector_ddcoremass.xml:4504
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/crewMember"
 msgstr "V'iln"
 
-#: src-en/data/events_sector_ddcoremass.xml:4502
+#: src-en/data/events_sector_ddcoremass.xml:4506
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4504
+#: src-en/data/events_sector_ddcoremass.xml:4508
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/text"
 msgstr "...as well as a Child of the Stars."
 
-#: src-en/data/events_sector_ddcoremass.xml:4505
+#: src-en/data/events_sector_ddcoremass.xml:4509
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/crewMember"
 msgstr "Sly'r"
 
-#: src-en/data/events_sector_ddcoremass.xml:4507
+#: src-en/data/events_sector_ddcoremass.xml:4511
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/text"
 msgstr "Now, there's one more thing..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4509
+#: src-en/data/events_sector_ddcoremass.xml:4513
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 "You snap your fingers, and the Coremass' heart violently detonates. Serves "
 "him right. The Coremass around you screams, and begins to crumble..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4512
+#: src-en/data/events_sector_ddcoremass.xml:4516
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4514
+#: src-en/data/events_sector_ddcoremass.xml:4518
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8181,37 +8194,37 @@ msgstr ""
 "shatters, and the Coremass' extra dimension is ripped apart. What a pitiful "
 "thing."
 
-#: src-en/data/events_sector_ddcoremass.xml:4528
+#: src-en/data/events_sector_ddcoremass.xml:4532
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT_ALONE\"]/text"
 msgstr ""
 "You arrive at the exit of this harrowing journey once more... this time, "
 "will you take it?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4536
+#: src-en/data/events_sector_ddcoremass.xml:4540
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/unvisitedTooltip"
 msgstr "The center of the Coremass, and the location of its heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4537
+#: src-en/data/events_sector_ddcoremass.xml:4541
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/beaconType/visitedTooltip"
 msgstr "Visited location."
 
-#: src-en/data/events_sector_ddcoremass.xml:4540
+#: src-en/data/events_sector_ddcoremass.xml:4544
 msgid "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/text"
 msgstr ""
 "This is it; the center of the Soulplague Coremass. The faint light you've "
 "been seeing throughout your journey here doesn't seem so distant anymore... "
 "this must be the location of the heart."
 
-#: src-en/data/events_sector_ddcoremass.xml:4548
+#: src-en/data/events_sector_ddcoremass.xml:4552
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
 msgstr "Head deeper."
 
-#: src-en/data/events_sector_ddcoremass.xml:4550
+#: src-en/data/events_sector_ddcoremass.xml:4554
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
@@ -8222,13 +8235,13 @@ msgstr ""
 "\t\t\t\"...it's... hunting for you...\"\n"
 "\t\t\t\"...you must... leave, before it's too late!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4557
+#: src-en/data/events_sector_ddcoremass.xml:4561
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Huh?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4559
+#: src-en/data/events_sector_ddcoremass.xml:4563
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
@@ -8237,13 +8250,13 @@ msgstr ""
 "less hushed, and more... strained. Before you can think to act on these "
 "words of warning, though, a massive shadow looms into view..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4561
+#: src-en/data/events_sector_ddcoremass.xml:4565
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4563
+#: src-en/data/events_sector_ddcoremass.xml:4567
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
@@ -8256,13 +8269,13 @@ msgstr ""
 "\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\tYour death... is this the end?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4577
+#: src-en/data/events_sector_ddcoremass.xml:4581
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "No, it's not... a Renegade makes their own fate."
 
-#: src-en/data/events_sector_ddcoremass.xml:4579
+#: src-en/data/events_sector_ddcoremass.xml:4583
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8273,14 +8286,14 @@ msgstr ""
 "brighter tomorrow - these ideals burn inside you, and you feel a kindred "
 "soul reach out to you from the vast sea of light and madness outside..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4581
+#: src-en/data/events_sector_ddcoremass.xml:4585
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Reach a hand out to it."
 
-#: src-en/data/events_sector_ddcoremass.xml:4583
+#: src-en/data/events_sector_ddcoremass.xml:4587
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8298,14 +8311,14 @@ msgstr ""
 "horrific ship, and then back at you, \"...and it seems I'm not too late. The"
 " heart's guardian awaits; are you ready, comrade?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4585
+#: src-en/data/events_sector_ddcoremass.xml:4589
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/text"
 msgstr "Of course. I stand with you."
 
-#: src-en/data/events_sector_ddcoremass.xml:4587
+#: src-en/data/events_sector_ddcoremass.xml:4591
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
@@ -8316,27 +8329,27 @@ msgstr ""
 "ship, and you prepare yourself... this is it. It's time to prove your "
 "convictions, or die trying!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4591
+#: src-en/data/events_sector_ddcoremass.xml:4595
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/crewMember"
 msgstr "The Heroine"
 
-#: src-en/data/events_sector_ddcoremass.xml:4593
+#: src-en/data/events_sector_ddcoremass.xml:4597
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4609
+#: src-en/data/events_sector_ddcoremass.xml:4613
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
 msgstr "Finally... is she here?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4611
+#: src-en/data/events_sector_ddcoremass.xml:4615
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
@@ -8349,13 +8362,13 @@ msgstr ""
 "don't know what you are - what you've done. I may be a prisoner here, but "
 "you're something far more lowly: a prisoner to your own desires.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4617
+#: src-en/data/events_sector_ddcoremass.xml:4621
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "And, you're what? Here to lecture me?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4619
+#: src-en/data/events_sector_ddcoremass.xml:4623
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -8365,14 +8378,14 @@ msgstr ""
 "for the sake of its own well-being. I am willing to be a pawn to its schemes"
 " if it means you and your reign of terror die right here, right now.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4624
+#: src-en/data/events_sector_ddcoremass.xml:4628
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 "So be it, then, but... I think you'll find that your efforts are for naught."
 
-#: src-en/data/events_sector_ddcoremass.xml:4626
+#: src-en/data/events_sector_ddcoremass.xml:4630
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
@@ -8382,7 +8395,7 @@ msgstr ""
 "THE PAIN YOU'D SO QUICKLY INFLICT UNTO OTHERS!\" There's a cry, as her ship "
 "flies towards your own... this is it. It's time to end this farce."
 
-#: src-en/data/events_sector_ddcoremass.xml:4634
+#: src-en/data/events_sector_ddcoremass.xml:4638
 msgid ""
 "data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"

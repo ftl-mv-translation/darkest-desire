@@ -8275,9 +8275,9 @@ msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
 "They continue, \"Tainted One's names: innumerous... relevant database "
-"results: Tainted One, Dark One, Dark God, Liberator, Tempest, Divinity...\" "
-"it pauses, \"...subsequent database entries: corrupted. Source of "
-"corruption: unknown; deemed irrelevant. Seraphim directive updated: bide "
+"results: Tainted One, Dark One, Dark God, Liberator, Tempest, Divinity, "
+"Father...\" it pauses, \"...subsequent database entries: corrupted. Source "
+"of corruption: unknown; deemed irrelevant. Seraphim directive updated: bide "
 "time. Federation: aligned with Seraphim directive.\" Before it can continue,"
 " the flames wreathing the Seraph intensify, and an unfamiliar and ethereal "
 "voice speaks from it, \"YOU HAVE ONE OF MY OWN, RENEGADE. WIELD IT WELL. I "
@@ -8805,24 +8805,36 @@ msgstr ""
 #: src-en/data/events_disparity.xml:5054
 msgid ""
 "data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/destroyed/text"
-msgstr "Even after all of that, they still fall. Can anything stop you?"
+msgstr ""
+"Even after all of that, they STILL fall. Hah, haha! Oh, can anything stop "
+"you...?"
 
 #: src-en/data/events_disparity.xml:5057
 msgid ""
 "data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/destroyed/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5062
+#: src-en/data/events_disparity.xml:5065
 msgid ""
-"data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/deadCrew/text"
-msgstr "Even after all of that, they still fall. Can anything stop you?"
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/text"
+msgstr ""
+"Thinking the two Engi dead, a part of you feels the urge to maniacally "
+"laugh... but you've chosen to celebrate too soon. From their remains, the "
+"amorphous one regenerates..."
 
-#: src-en/data/events_disparity.xml:5067
+#: src-en/data/events_disparity.xml:5068
 msgid ""
-"data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/deadCrew/choice/text"
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5074
+#: src-en/data/events_disparity.xml:5070
+msgid ""
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/choice/event/text"
+msgstr ""
+"...and, from their own ashes, the angelic one simply reappears. Hah... haha!"
+" Oh, how that truly freeing laugh will have to wait..."
+
+#: src-en/data/events_disparity.xml:5078
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_SETTHESEASABLAZE\"]/text"
 msgstr ""
@@ -8832,7 +8844,7 @@ msgstr ""
 "restoring their hull and setting your systems ablaze... just what the hell "
 "are they?"
 
-#: src-en/data/events_disparity.xml:5084
+#: src-en/data/events_disparity.xml:5088
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/text"
 msgstr ""
@@ -8844,32 +8856,32 @@ msgstr ""
 "WOULD REFORGE THEM IN YOUR HONOR. GO FORTH, AND DO AS YOU SEE FIT.\" Indeed,"
 " you shall. That's all you've ever done, for as long as you can remember."
 
-#: src-en/data/events_disparity.xml:5093
+#: src-en/data/events_disparity.xml:5097
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5095
+#: src-en/data/events_disparity.xml:5099
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/text"
 msgstr "Next to the weapon, the Arbiter drone also manifests..."
 
-#: src-en/data/events_disparity.xml:5098
+#: src-en/data/events_disparity.xml:5102
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5100
+#: src-en/data/events_disparity.xml:5104
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/text"
 msgstr "...as well as the Liberator drone."
 
-#: src-en/data/events_disparity.xml:5103
+#: src-en/data/events_disparity.xml:5107
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/text"
 msgstr "Let's head out, then!"
 
-#: src-en/data/events_disparity.xml:5105
+#: src-en/data/events_disparity.xml:5109
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
@@ -8877,12 +8889,12 @@ msgstr ""
 "catches your attention. You quickly realize what it is, as the Dark God has "
 "left it here for you - a tear in reality. A gap in the seams..."
 
-#: src-en/data/events_disparity.xml:5112
+#: src-en/data/events_disparity.xml:5116
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
 msgstr "(The Shade) Behind you, the cloaked figure stirs..."
 
-#: src-en/data/events_disparity.xml:5114
+#: src-en/data/events_disparity.xml:5118
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
@@ -8891,24 +8903,24 @@ msgstr ""
 "outside... and it hits you. You've seen one of these gaps in the seams "
 "before, when you first met the Shade - back in the domain of the Dark God..."
 
-#: src-en/data/events_disparity.xml:5116
+#: src-en/data/events_disparity.xml:5120
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5118
+#: src-en/data/events_disparity.xml:5122
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
 "Pondering this, you almost miss as something within the Shade's cloak "
 "glows... and the tear outside begins to resonate."
 
-#: src-en/data/events_disparity.xml:5126
+#: src-en/data/events_disparity.xml:5130
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
 msgstr "Wait, what are you doing?"
 
-#: src-en/data/events_disparity.xml:5128
+#: src-en/data/events_disparity.xml:5132
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
@@ -8917,17 +8929,17 @@ msgstr ""
 "your ship being pulled in at impossible speeds! There's no escaping this - "
 "you need to grab onto something, and fast!"
 
-#: src-en/data/events_disparity.xml:5131
+#: src-en/data/events_disparity.xml:5135
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
 msgstr "Reach out for something!"
 
-#: src-en/data/events_disparity.xml:5144
+#: src-en/data/events_disparity.xml:5148
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr "Turn away from the gift."
 
-#: src-en/data/events_disparity.xml:5146
+#: src-en/data/events_disparity.xml:5150
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
@@ -8935,20 +8947,20 @@ msgstr ""
 "own - who knows what it could do to you. More than satisfied in leaving the "
 "tear in space alone, you find yourself preparing to head out once more."
 
-#: src-en/data/events_disparity.xml:5167
+#: src-en/data/events_disparity.xml:5171
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/text"
 msgstr ""
 "You've made it! The Harmony Link... the lifeblood of the Engi under the "
 "Harmony in this sector, and a vital target for the Disparity."
 
-#: src-en/data/events_disparity.xml:5170
+#: src-en/data/events_disparity.xml:5174
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5172
+#: src-en/data/events_disparity.xml:5176
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
@@ -8957,14 +8969,14 @@ msgstr ""
 "first to make it here... in the middle of combat are the two ships you saw "
 "when you first entered this beacon: the flaming and colossal ships."
 
-#: src-en/data/events_disparity.xml:5174
+#: src-en/data/events_disparity.xml:5178
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/text"
 msgstr "Approach the conflict."
 
-#: src-en/data/events_disparity.xml:5176
+#: src-en/data/events_disparity.xml:5180
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
@@ -8978,14 +8990,14 @@ msgstr ""
 "Seraphim request: Federation assistance.\" If they can't stop them, what "
 "hope do you have? Though, maybe with your strength combined..."
 
-#: src-en/data/events_disparity.xml:5179
+#: src-en/data/events_disparity.xml:5183
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/choice/text"
 msgstr "We've already made our choice. Stand with the Seraphim."
 
-#: src-en/data/events_disparity.xml:5181
+#: src-en/data/events_disparity.xml:5185
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
@@ -9002,21 +9014,21 @@ msgstr ""
 "lurches its way to face you... this is it. Show them the strength of your "
 "convictions, and know you don't stand alone on the path you've chosen!"
 
-#: src-en/data/events_disparity.xml:5186
+#: src-en/data/events_disparity.xml:5190
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5194
+#: src-en/data/events_disparity.xml:5198
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/text"
 msgstr "Approach the conflict."
 
-#: src-en/data/events_disparity.xml:5196
+#: src-en/data/events_disparity.xml:5200
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
@@ -9032,14 +9044,14 @@ msgstr ""
 " stop them, what hope do you have? Though, maybe with your strength "
 "combined..."
 
-#: src-en/data/events_disparity.xml:5199
+#: src-en/data/events_disparity.xml:5203
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/choice/text"
 msgstr "We've already made our choice. Stand with the Disparity."
 
-#: src-en/data/events_disparity.xml:5201
+#: src-en/data/events_disparity.xml:5205
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
@@ -9056,20 +9068,20 @@ msgstr ""
 "them the strength of your convictions, and know you don't stand alone on the"
 " path you've chosen!"
 
-#: src-en/data/events_disparity.xml:5206
+#: src-en/data/events_disparity.xml:5210
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_disparity.xml:5216
+#: src-en/data/events_disparity.xml:5220
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
 msgstr "Let's get this over with."
 
-#: src-en/data/events_disparity.xml:5218
+#: src-en/data/events_disparity.xml:5222
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
@@ -9080,13 +9092,13 @@ msgstr ""
 "now... and, as opposed to writhing darkness, it's ethereal flames that burns"
 " within the crystal."
 
-#: src-en/data/events_disparity.xml:5221
+#: src-en/data/events_disparity.xml:5225
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr "Did those two...?"
 
-#: src-en/data/events_disparity.xml:5223
+#: src-en/data/events_disparity.xml:5227
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
@@ -9100,13 +9112,13 @@ msgstr ""
 "of you, so they've put aside their differences to try to stand a chance. "
 "Enemy of my enemy, and such."
 
-#: src-en/data/events_disparity.xml:5226
+#: src-en/data/events_disparity.xml:5230
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Scare them a little bit. Fly closer."
 
-#: src-en/data/events_disparity.xml:5228
+#: src-en/data/events_disparity.xml:5232
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
@@ -9115,7 +9127,7 @@ msgstr ""
 "even the shadows around you ablaze... oh, this ought to be interesting. The "
 "Engi speak, simultaneously, \"INITIATING: DEVOUR PROTOCOL.\" So it begins!"
 
-#: src-en/data/events_disparity.xml:5238
+#: src-en/data/events_disparity.xml:5242
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"

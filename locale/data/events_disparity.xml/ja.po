@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 05:28+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Japanese <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_disparityxml/ja/>\n"
-"Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_disparity.xml:13
 msgid ""
@@ -6698,225 +6691,230 @@ msgid ""
 "data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/destroyed/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5062
+#: src-en/data/events_disparity.xml:5065
 msgid ""
-"data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/deadCrew/text"
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5067
+#: src-en/data/events_disparity.xml:5068
 msgid ""
-"data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/deadCrew/choice/text"
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5074
+#: src-en/data/events_disparity.xml:5070
+msgid ""
+"data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_CREWKILL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_disparity.xml:5078
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_SETTHESEASABLAZE\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5084
+#: src-en/data/events_disparity.xml:5088
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5093
+#: src-en/data/events_disparity.xml:5097
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5095
+#: src-en/data/events_disparity.xml:5099
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5098
+#: src-en/data/events_disparity.xml:5102
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5100
+#: src-en/data/events_disparity.xml:5104
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5103
+#: src-en/data/events_disparity.xml:5107
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5105
+#: src-en/data/events_disparity.xml:5109
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5112
+#: src-en/data/events_disparity.xml:5116
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5114
+#: src-en/data/events_disparity.xml:5118
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5116
+#: src-en/data/events_disparity.xml:5120
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5118
+#: src-en/data/events_disparity.xml:5122
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5126
+#: src-en/data/events_disparity.xml:5130
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5128
+#: src-en/data/events_disparity.xml:5132
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5131
+#: src-en/data/events_disparity.xml:5135
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5144
+#: src-en/data/events_disparity.xml:5148
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5146
+#: src-en/data/events_disparity.xml:5150
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO_WIN\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5167
+#: src-en/data/events_disparity.xml:5171
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5170
+#: src-en/data/events_disparity.xml:5174
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5172
+#: src-en/data/events_disparity.xml:5176
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5174
+#: src-en/data/events_disparity.xml:5178
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5176
+#: src-en/data/events_disparity.xml:5180
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5179
+#: src-en/data/events_disparity.xml:5183
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5181
+#: src-en/data/events_disparity.xml:5185
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5186
+#: src-en/data/events_disparity.xml:5190
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5194
+#: src-en/data/events_disparity.xml:5198
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5196
+#: src-en/data/events_disparity.xml:5200
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5199
+#: src-en/data/events_disparity.xml:5203
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5201
+#: src-en/data/events_disparity.xml:5205
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5206
+#: src-en/data/events_disparity.xml:5210
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice[@req=\"dd_disparity_assistance\" and "
 "@lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "次へ…"
 
-#: src-en/data/events_disparity.xml:5216
+#: src-en/data/events_disparity.xml:5220
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5218
+#: src-en/data/events_disparity.xml:5222
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5221
+#: src-en/data/events_disparity.xml:5225
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5223
+#: src-en/data/events_disparity.xml:5227
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5226
+#: src-en/data/events_disparity.xml:5230
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5228
+#: src-en/data/events_disparity.xml:5232
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_disparity.xml:5238
+#: src-en/data/events_disparity.xml:5242
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"

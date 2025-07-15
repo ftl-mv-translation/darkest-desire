@@ -1,16 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 05:35+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Spanish <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_enlightenedxml/es/>\n"
-"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_enlightened.xml:15
 msgid ""
@@ -5787,732 +5780,737 @@ msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/destroyed/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4382
+#: src-en/data/events_enlightened.xml:4385
 msgid ""
-"data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/deadCrew/text"
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4386
+#: src-en/data/events_enlightened.xml:4388
 msgid ""
-"data/events_enlightened.xml$//ship[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO\"]/deadCrew/choice/text"
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4393
+#: src-en/data/events_enlightened.xml:4390
+msgid ""
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_CREWKILL\"]/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4398
 msgid "data/events_enlightened.xml$//event[@name=\"DDTRUEHERO_LASTSTAND\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4399
+#: src-en/data/events_enlightened.xml:4404
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4406
+#: src-en/data/events_enlightened.xml:4411
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4408
+#: src-en/data/events_enlightened.xml:4413
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4412
+#: src-en/data/events_enlightened.xml:4417
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4414
+#: src-en/data/events_enlightened.xml:4419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4416
+#: src-en/data/events_enlightened.xml:4421
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4418
+#: src-en/data/events_enlightened.xml:4423
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4420
+#: src-en/data/events_enlightened.xml:4425
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4433
+#: src-en/data/events_enlightened.xml:4438
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4435
+#: src-en/data/events_enlightened.xml:4440
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4437
+#: src-en/data/events_enlightened.xml:4442
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4439
+#: src-en/data/events_enlightened.xml:4444
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4441
+#: src-en/data/events_enlightened.xml:4446
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_GOOD_WIN\"]/choice[@req=\"unique_thescarred\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4454
+#: src-en/data/events_enlightened.xml:4459
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4461
+#: src-en/data/events_enlightened.xml:4466
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4463
+#: src-en/data/events_enlightened.xml:4468
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4465
+#: src-en/data/events_enlightened.xml:4470
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_NEUTRAL_WIN\"]/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4476
+#: src-en/data/events_enlightened.xml:4481
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4484
+#: src-en/data/events_enlightened.xml:4489
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_DREADNOUGHT_TRUEHERO_WIN\"]/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4493
+#: src-en/data/events_enlightened.xml:4498
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4496
+#: src-en/data/events_enlightened.xml:4501
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4498
+#: src-en/data/events_enlightened.xml:4503
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4500
+#: src-en/data/events_enlightened.xml:4505
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4502
+#: src-en/data/events_enlightened.xml:4507
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4504
+#: src-en/data/events_enlightened.xml:4509
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4506
+#: src-en/data/events_enlightened.xml:4511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4508
+#: src-en/data/events_enlightened.xml:4513
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4510
+#: src-en/data/events_enlightened.xml:4515
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4512
+#: src-en/data/events_enlightened.xml:4517
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4514
+#: src-en/data/events_enlightened.xml:4519
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4515
+#: src-en/data/events_enlightened.xml:4520
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4517
+#: src-en/data/events_enlightened.xml:4522
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4519
+#: src-en/data/events_enlightened.xml:4524
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4523
+#: src-en/data/events_enlightened.xml:4528
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4525
+#: src-en/data/events_enlightened.xml:4530
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4529
+#: src-en/data/events_enlightened.xml:4534
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4547
+#: src-en/data/events_enlightened.xml:4552
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4549
+#: src-en/data/events_enlightened.xml:4554
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4551
+#: src-en/data/events_enlightened.xml:4556
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/text"
 msgstr "Prepararte para saltar."
 
-#: src-en/data/events_enlightened.xml:4553
+#: src-en/data/events_enlightened.xml:4558
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4556
+#: src-en/data/events_enlightened.xml:4561
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4558
+#: src-en/data/events_enlightened.xml:4563
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4563
+#: src-en/data/events_enlightened.xml:4568
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4573
+#: src-en/data/events_enlightened.xml:4578
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4575
+#: src-en/data/events_enlightened.xml:4580
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4577
+#: src-en/data/events_enlightened.xml:4582
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/text"
 msgstr "Prepararte para saltar."
 
-#: src-en/data/events_enlightened.xml:4579
+#: src-en/data/events_enlightened.xml:4584
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4582
+#: src-en/data/events_enlightened.xml:4587
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4584
+#: src-en/data/events_enlightened.xml:4589
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4589
+#: src-en/data/events_enlightened.xml:4594
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-12\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4599
+#: src-en/data/events_enlightened.xml:4604
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4601
+#: src-en/data/events_enlightened.xml:4606
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4603
+#: src-en/data/events_enlightened.xml:4608
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4605
+#: src-en/data/events_enlightened.xml:4610
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4607
+#: src-en/data/events_enlightened.xml:4612
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4609
+#: src-en/data/events_enlightened.xml:4614
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4611
+#: src-en/data/events_enlightened.xml:4616
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4613
+#: src-en/data/events_enlightened.xml:4618
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4623
+#: src-en/data/events_enlightened.xml:4628
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4637
+#: src-en/data/events_enlightened.xml:4642
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4640
+#: src-en/data/events_enlightened.xml:4645
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4642
+#: src-en/data/events_enlightened.xml:4647
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4644
+#: src-en/data/events_enlightened.xml:4649
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4646
+#: src-en/data/events_enlightened.xml:4651
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4648
+#: src-en/data/events_enlightened.xml:4653
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4650
+#: src-en/data/events_enlightened.xml:4655
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4652
+#: src-en/data/events_enlightened.xml:4657
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4654
+#: src-en/data/events_enlightened.xml:4659
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4656
+#: src-en/data/events_enlightened.xml:4661
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4658
+#: src-en/data/events_enlightened.xml:4663
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4659
+#: src-en/data/events_enlightened.xml:4664
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4661
-msgid ""
-"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
-" and "
-"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr "Continuar..."
-
-#: src-en/data/events_enlightened.xml:4663
-msgid ""
-"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
-" and "
-"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4666
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
-"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "Continuar..."
 
 #: src-en/data/events_enlightened.xml:4668
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
-"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4671
+msgid ""
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
+" and "
+"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4673
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and "
+"@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4678
+msgid ""
+"data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
+" and "
 "@lvl=\"4\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4691
+#: src-en/data/events_enlightened.xml:4696
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4693
+#: src-en/data/events_enlightened.xml:4698
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4695
+#: src-en/data/events_enlightened.xml:4700
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/text"
 msgstr "Prepararte para saltar."
 
-#: src-en/data/events_enlightened.xml:4697
+#: src-en/data/events_enlightened.xml:4702
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4700
+#: src-en/data/events_enlightened.xml:4705
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4702
+#: src-en/data/events_enlightened.xml:4707
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4707
+#: src-en/data/events_enlightened.xml:4712
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-3\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4717
+#: src-en/data/events_enlightened.xml:4722
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4719
+#: src-en/data/events_enlightened.xml:4724
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4721
+#: src-en/data/events_enlightened.xml:4726
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/text"
 msgstr "Prepararte para saltar."
 
-#: src-en/data/events_enlightened.xml:4723
+#: src-en/data/events_enlightened.xml:4728
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4726
+#: src-en/data/events_enlightened.xml:4731
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4728
+#: src-en/data/events_enlightened.xml:4733
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4733
+#: src-en/data/events_enlightened.xml:4738
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-15\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4743
+#: src-en/data/events_enlightened.xml:4748
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4745
+#: src-en/data/events_enlightened.xml:4750
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4747
+#: src-en/data/events_enlightened.xml:4752
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4749
+#: src-en/data/events_enlightened.xml:4754
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4751
+#: src-en/data/events_enlightened.xml:4756
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4753
+#: src-en/data/events_enlightened.xml:4758
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4755
+#: src-en/data/events_enlightened.xml:4760
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4757
+#: src-en/data/events_enlightened.xml:4762
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4767
+#: src-en/data/events_enlightened.xml:4772
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_EXIT_REBEL\"]/choice[@req=\"the_scarred_judgment\""
 " and @lvl=\"-99\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Continuar..."
 
-#: src-en/data/events_enlightened.xml:4783
+#: src-en/data/events_enlightened.xml:4788
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[1]/text"
 msgstr "Aceptar su oferta."
 
-#: src-en/data/events_enlightened.xml:4791
+#: src-en/data/events_enlightened.xml:4796
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[2]/text"
 msgstr "¡No aceptaremos la rendición!"
 
-#: src-en/data/events_enlightened.xml:4793
+#: src-en/data/events_enlightened.xml:4798
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_SURRENDER\"]/choice[2]/event/text"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4800
+#: src-en/data/events_enlightened.xml:4805
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4801
+#: src-en/data/events_enlightened.xml:4806
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4802
+#: src-en/data/events_enlightened.xml:4807
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4803
+#: src-en/data/events_enlightened.xml:4808
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4804
+#: src-en/data/events_enlightened.xml:4809
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4805
+#: src-en/data/events_enlightened.xml:4810
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"ENLIGHTENED_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
 
-#: src-en/data/events_enlightened.xml:4809
+#: src-en/data/events_enlightened.xml:4814
 msgid "data/events_enlightened.xml$//event[@name=\"ENLIGHTENED_ESCAPE\"]/text"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4819
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[1]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4820
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[2]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4821
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[3]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4822
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[4]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4823
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[5]"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4824
 msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[6]"
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[1]"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4825
 msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4826
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4827
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4828
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4829
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4830
+msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DESTROYED_ENLIGHTENED\"]/text[7]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4834
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[1]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4835
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[2]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4836
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[3]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4837
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[4]"
-msgstr ""
-
-#: src-en/data/events_enlightened.xml:4838
-msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[5]"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4839
 msgid ""
-"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[6]"
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[1]"
 msgstr ""
 
 #: src-en/data/events_enlightened.xml:4840
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[2]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4841
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[3]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4842
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[4]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4843
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[5]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4844
+msgid ""
+"data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[6]"
+msgstr ""
+
+#: src-en/data/events_enlightened.xml:4845
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_DEAD_CREW_ENLIGHTENED\"]/text[7]"
 msgstr ""

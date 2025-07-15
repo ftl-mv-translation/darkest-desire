@@ -112,50 +112,54 @@ msgid "data/text_misc.xml.append$//text[@name=\"dd_corruptor\"]"
 msgstr "the Corruptor"
 
 #: src-en/data/text_misc.xml.append:26
+msgid "data/text_misc.xml.append$//text[@name=\"dd_corruptor_installed\"]"
+msgstr "Corruptor System installed"
+
+#: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
 msgstr ""
 "You're being assaulted by a Soulplague mass. As long as it remains agitated,"
 " it will periodically assault your ship."
 
-#: src-en/data/text_misc.xml.append:27
+#: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
 msgstr ""
 "You're within a Soulplague mass. It will periodically assault the enemy "
 "ship."
 
-#: src-en/data/text_misc.xml.append:28
+#: src-en/data/text_misc.xml.append:29
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"warning_ddsoulplague_mass_hazard_text\"]"
 msgstr "SOULPLAGUE ASSAULT\\nIMMINENT"
 
-#: src-en/data/text_misc.xml.append:30
+#: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_disparity_1\"]"
 msgstr ""
 "DISPARITY LOOT\n"
 "+1 shield piercing\n"
 "+40% spawn chance, shots cause lockdown"
 
-#: src-en/data/text_misc.xml.append:34
+#: src-en/data/text_misc.xml.append:35
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddsoulplague_1\"]"
 msgstr ""
 "SOULPLAGUE LOOT\n"
 "+8 drone speed, -2 beam speed, -10 beam length\n"
 "+Fire and Hull modes are now Plague and Mayhem modes"
 
-#: src-en/data/text_misc.xml.append:38
+#: src-en/data/text_misc.xml.append:39
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
 "FALSE RADIANCE LOOT\n"
 "+Inflicts rooms hit with erosion and the Radiant Desecration effect, +8 shots, -69 beam length\n"
 "+Spawns random Lightborne instead of Hungering Shadows"
 
-#: src-en/data/text_misc.xml.append:42
+#: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"tip_shadow_weapon\"]"
 msgstr ""
 "Tip: Shadow weapons spawn Hungering Shadows, which grow in strength when in "
 "rooms together. Use them to overwhelm your enemies!"
 
-#: src-en/data/text_misc.xml.append:43
+#: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddplagueridden_weapon\"]"
 msgstr ""
 "Tip: Plagueridden weapons deal no damage to Soulplague-aligned crew, and "
@@ -163,7 +167,7 @@ msgstr ""
 " transforms them into an ally Soulplague Husk if they're killed within the "
 "effect!"
 
-#: src-en/data/text_misc.xml.append:44
+#: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
 msgstr ""
 "Tip: Radiant Cores inflict rooms hit with erosion and the Radiant "
@@ -172,7 +176,7 @@ msgstr ""
 "allows Lightborne to fully function, which most Radiant Cores are capable of"
 " spawning."
 
-#: src-en/data/text_misc.xml.append:45
+#: src-en/data/text_misc.xml.append:46
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
 "Tip: Lightborne weapons inflict rooms hit with the Radiant Desecration "
