@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-15 22:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_storagexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_storage.xml.append:3
 msgid ""
@@ -3546,54 +3554,75 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
+"Активное благо: Благо глубины\n"
+"\t\tВраги передвигаются на вашем корабле на 10% медленнее."
 
 #: src-en/data/events_special_storage.xml.append:2441
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[2]/text"
 msgstr ""
+"Активное благо: Благо опустошения\n"
+"\t\tСоюзный экипаж, связанный с чумой души, передвигается на 30% быстрее, "
+"пока находится на вашем корабле."
 
 #: src-en/data/events_special_storage.xml.append:2446
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[3]/text"
 msgstr ""
+"Активное благо: Благо траншей\n"
+"\t\tСоюзные глубоководные уменьшают скорость перезарядки способностей "
+"ближайших врагов на 50% каждый."
 
 #: src-en/data/events_special_storage.xml.append:2451
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[4]/text"
 msgstr ""
+"Активное благо: Благо небес\n"
+"\t\t Каждый союзник увеличивает получаемый урон от огня ближайших врагов на "
+"20%."
 
 #: src-en/data/events_special_storage.xml.append:2456
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[5]/text"
 msgstr ""
+"Активный дар: Дар осквернения\n"
+"\t\t Ваши Приливы чумы души получают +5 ОЗ."
 
 #: src-en/data/events_special_storage.xml.append:2461
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[6]/text"
 msgstr ""
+"Активное благословение: Благословение страха\n"
+"\t\t 20% шанс противостоять ионному урону."
 
 #: src-en/data/events_special_storage.xml.append:2466
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[7]/text"
 msgstr ""
+"Активное благословение: Благословение ненасытной тьмы\n"
+"\t\t Ваши голодные тени получают +10 макс. ОЗ."
 
 #: src-en/data/events_special_storage.xml.append:2471
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[8]/text"
 msgstr ""
+"Активное благословение: Благословение радужного осквернения\n"
+"\t\t Ваши чумные оболочки получают 0.25x урона от огня."
 
 #: src-en/data/events_special_storage.xml.append:2476
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_INVENTORY\"]/mod-"
 "append:choice[9]/text"
 msgstr ""
+"Активное благословение: Благословение падшей милости\n"
+"\t\t Ваши Светоносцы ломают двери в два раза быстрее."
 
 #: src-en/data/events_special_storage.xml.append:2484
 msgid ""
@@ -4468,7 +4497,14 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[4]/event/choice[@req=\"dddeepone_chosen\"]/event/choice[1]/event/text"
 msgstr ""
 "РИТУАЛ РАЗРУШЕНИЯ СВЕТА:\n"
-"\t\t\t\t\t\t\tЭтот ритуал позволяет узнать местоположение корабля, принадлежащего случайному врагу Темного Бога. Победив его, вы получаете его благосклонность в виде двух случайных наград из базового пула ритуалов (вы можете получить одну и ту же награду дважды, награды от ритуалов Порчи, Истинной преданности, Ужасного зрелища, Жуткой инаугурации и Печати не появляются). Кроме того, вы получите дополнительную награду в зависимости от появившегося врага, но этот ритуал гарантированно вызовет случайный побочный эффект."
+"\t\t\t\t\t\t\tЭтот ритуал позволяет узнать местоположение корабля, "
+"принадлежащего случайному врагу Темного Бога. Победив его, вы получаете его "
+"благосклонность в виде двух случайных наград из базового пула ритуалов (вы "
+"можете получить одну и ту же награду дважды, награды от ритуалов Порчи, "
+"Истинной преданности, Ужасных зрелищ, Жуткого посвящения и Печати не "
+"появляются). Кроме того, вы получите дополнительную награду в зависимости от "
+"появившегося врага, но этот ритуал гарантированно вызовет случайный побочный "
+"эффект."
 
 #: src-en/data/events_special_storage.xml.append:3073
 msgid ""
@@ -4902,13 +4938,38 @@ msgstr "Интересно. Закрыть книгу."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[@req=\"dd_spookydivineremnantoooougotspooked\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Изучить ритуал Божественных останков."
 
 #: src-en/data/events_special_storage.xml.append:3335
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[@req=\"dd_spookydivineremnantoooougotspooked\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"РИТУАЛ БОЖЕСТВЕННЫХ ОСТАНКОВ:\n"
+"\t\t\t\t\t\t"
+"\t7777777777777777777777777777777777777777777777777777777777777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t77777777777 В первый день они поклялись отречься от истины. "
+"77777777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t77777777777777777 Во второй день - от календаря. "
+"77777777777777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t777777777 Затем - слова, ценности, правила, смысл... "
+"777777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t777777 ... пока, наконец, на седьмой день... Достоинство. "
+"7777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t777777777 От Светоносцев не осталось ничего. 777777777\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t777 И от божеств, которые украли их идеалы... 77\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t77 ...не должно остаться ничего, кроме отдаленных отголосков "
+"прошлого. 7\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t"
+"\t7777777777777777777777777777777777777777777777777777777777777777"
 
 #: src-en/data/events_special_storage.xml.append:3355
 msgid ""
@@ -4921,6 +4982,13 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[@req=\"dd_spookydivineremnantoooougotspooked\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"РИТУАЛ БОЖЕСТВЕННЫХ ОСТАНКОВ:\n"
+"\t\t\t\t\t\t\t\t\tЭтот ритуал позволяет вам использовать силы Протоколов Эха "
+"Архангела, которых вы можете победить в бою, чтобы выбрать одно из "
+"нескольких случайных Сияющих орудий. Этот ритуал невероятно дорогостоящий, "
+"требующий 7 жертв сразу, и сражение с Эхом будет нелегким. Конкретное Эхо, с "
+"которым вы будете сражаться, будет случайным, и вы не сможете сбежать, как "
+"только вступите с ним в бой."
 
 #: src-en/data/events_special_storage.xml.append:3360
 msgid ""
@@ -4932,13 +5000,20 @@ msgstr "Интересно. Закрыть книгу."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[@req=\"dd_spookydivineremnantoooougotspooked\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Изучить ритуал Божественных останков."
 
 #: src-en/data/events_special_storage.xml.append:3370
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[9]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[@req=\"dd_spookydivineremnantoooougotspooked\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"РИТУАЛ БОЖЕСТВЕННЫХ ОСТАНКОВ:\n"
+"\t\t\t\t\t\t\tЭтот ритуал позволяет вам использовать силы Протоколов Эха "
+"Архангела, которых вы можете победить в бою, чтобы выбрать одно из "
+"нескольких случайных Сияющих орудий. Этот ритуал невероятно дорогостоящий, "
+"требующий 7 жертв сразу, и сражение с Эхом будет нелегким. Конкретное Эхо, с "
+"которым вы будете сражаться, будет случайным, и вы не сможете сбежать, как "
+"только вступите с ним в бой."
 
 #: src-en/data/events_special_storage.xml.append:3373
 msgid ""
@@ -5111,12 +5186,21 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3487
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[8]/text"
-msgstr ""
+msgstr "Изучить ритуал Ужасных зрелищ."
 
 #: src-en/data/events_special_storage.xml.append:3489
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[8]/event/text"
 msgstr ""
+"РИТУАЛ УЖАСНЫХ ЗРЕЛИЩ:\n"
+"\t\t\t\t\tЭтот ритуал дает вам местонахождение редкого и мощного вражеского "
+"корабля, принадлежащего фракции, имеющей особое отношение к Темному Богу. В "
+"зависимости от его типа, вам нужно будет либо уничтожить корабль, либо убить "
+"его экипаж; за это вы получите уникальную награду, зависящую от типа "
+"корабля. Тип корабля и его местонахождение выбираются случайным образом. "
+"Выполнение этого ритуала требует 1-2 дополнительных человеческих жертв. "
+"Невыполнение требования по количеству жертв приведет к провалу ритуала, и "
+"ничего не произойдет."
 
 #: src-en/data/events_special_storage.xml.append:3492
 msgid ""
@@ -5126,12 +5210,20 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3498
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[9]/text"
-msgstr ""
+msgstr "Изучить ритуал Жуткого посвящения."
 
 #: src-en/data/events_special_storage.xml.append:3500
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[9]/event/text"
 msgstr ""
+"РИТУАЛ ЖУТКОГО ПОСВЯЩЕНИЯ:\n"
+"\t\t\t\t\tЭтот ритуал дает вам запретное знание в виде координат общего "
+"сектора глубоководных. Отсюда вы можете отправиться на поиски Темного "
+"Бога... но нет никаких гарантий, что он найдет вас в ответ. Это запретное "
+"знание дается мгновенно, позволяя вам перенаправить свой сверхсветовой "
+"прыжок. Этот ритуал можно выполнить только один раз, и вы не сможете "
+"перенаправить свой прыжок к этим координатам во время прыжка в конечный "
+"сектор."
 
 #: src-en/data/events_special_storage.xml.append:3503
 msgid ""
@@ -5241,6 +5333,10 @@ msgstr "Закрыть книгу."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_SPARK\"]/text"
 msgstr ""
+"Вы берете Искру божественности и держите ее в ладони... сила, исходящая от "
+"нее, почти опьяняет. Собравшись с силами, чтобы противостоять ее очарованию, "
+"вы раздавливаете ее, и ваш корабль радостно загудел. Вы получили Частицу "
+"божественности - вы можете наполнить ею свой корабль в меню склада."
 
 #: src-en/data/events_special_storage.xml.append:3570
 msgid ""
@@ -5250,7 +5346,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/text"
-msgstr ""
+msgstr "Из глубин вашего существа раздается зов силы..."
 
 #: src-en/data/events_special_storage.xml.append:3579
 msgid ""
@@ -5260,7 +5356,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3581
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3584
 msgid ""
@@ -5270,7 +5366,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3586
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3589
 msgid ""
@@ -5285,7 +5381,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3602
 msgid ""
@@ -5295,7 +5391,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3604
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3607
 msgid ""
@@ -5310,7 +5406,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3617
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3620
 msgid ""
@@ -5320,7 +5416,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3622
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3625
 msgid ""
@@ -5335,7 +5431,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3635
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3638
 msgid ""
@@ -5345,7 +5441,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3640
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3643
 msgid ""
@@ -5360,7 +5456,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3653
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3656
 msgid ""
@@ -5370,7 +5466,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3658
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3661
 msgid ""
@@ -5385,7 +5481,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3674
 msgid ""
@@ -5395,7 +5491,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3676
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/event/choice/event/text"
-msgstr ""
+msgstr "...обретает силу. Но это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3679
 msgid ""
@@ -5410,7 +5506,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:3689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/event/text"
-msgstr ""
+msgstr "...по мере того, как ваш корабль поглощает ее, и..."
 
 #: src-en/data/events_special_storage.xml.append:3692
 msgid ""
@@ -5421,6 +5517,9 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/event/choice/event/text"
 msgstr ""
+"...обретает новую силу. Поглотив семь Частиц божественности, ваш корабль "
+"стал равным даже с падшими Архангелами по количеству обетов. Как "
+"впечатляюще! И это еще не все..."
 
 #: src-en/data/events_special_storage.xml.append:3698
 msgid ""
@@ -5436,6 +5535,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE\"]/choice[@req=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER8\"]/event/text"
 msgstr ""
+"...но ваш корабль с трудом справляется с этим. Хотя его энергетический щит "
+"не может стать сильнее, остальные части корабля могут..."
 
 #: src-en/data/events_special_storage.xml.append:3710
 msgid ""
@@ -5446,18 +5547,22 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/text"
 msgstr ""
+"...ваш корабль излучает потенциал, готовый принимать любую форму, которую вы "
+"пожелаете."
 
 #: src-en/data/events_special_storage.xml.append:3720
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Маскировку."
 
 #: src-en/data/events_special_storage.xml.append:3722
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3725
 msgid ""
@@ -5469,13 +5574,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою Маскировку."
 
 #: src-en/data/events_special_storage.xml.append:3733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3736
 msgid ""
@@ -5487,13 +5594,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою Маскировку."
 
 #: src-en/data/events_special_storage.xml.append:3744
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3747
 msgid ""
@@ -5505,19 +5614,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"cloaking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшать свою Маскировку."
 
 #: src-en/data/events_special_storage.xml.append:3757
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:3759
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3762
 msgid ""
@@ -5529,13 +5640,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:3770
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3773
 msgid ""
@@ -5547,13 +5660,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:3781
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3784
 msgid ""
@@ -5565,13 +5680,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:3792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3795
 msgid ""
@@ -5583,19 +5700,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"dd_corruptor\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшать свой Осквернитель."
 
 #: src-en/data/events_special_storage.xml.append:3805
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3807
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3810
 msgid ""
@@ -5607,13 +5726,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3821
 msgid ""
@@ -5625,13 +5746,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3829
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3832
 msgid ""
@@ -5643,13 +5766,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3840
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3843
 msgid ""
@@ -5661,13 +5786,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3851
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3854
 msgid ""
@@ -5679,13 +5806,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3862
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3865
 msgid ""
@@ -5697,13 +5826,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3873
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3876
 msgid ""
@@ -5715,13 +5846,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3884
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3887
 msgid ""
@@ -5733,19 +5866,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"drones\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшать систему Контроля дронов."
 
 #: src-en/data/events_special_storage.xml.append:3897
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3899
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3902
 msgid ""
@@ -5757,13 +5892,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3910
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3913
 msgid ""
@@ -5775,13 +5912,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3921
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3924
 msgid ""
@@ -5793,13 +5932,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3932
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3935
 msgid ""
@@ -5811,13 +5952,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3943
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3946
 msgid ""
@@ -5829,13 +5972,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3954
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3957
 msgid ""
@@ -5847,13 +5992,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3965
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3968
 msgid ""
@@ -5865,13 +6012,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3976
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3979
 msgid ""
@@ -5883,19 +6032,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"engines\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свои Двигатели."
 
 #: src-en/data/events_special_storage.xml.append:3989
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Взломщик."
 
 #: src-en/data/events_special_storage.xml.append:3991
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:3994
 msgid ""
@@ -5907,13 +6058,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Взломщик."
 
 #: src-en/data/events_special_storage.xml.append:4002
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4005
 msgid ""
@@ -5925,13 +6078,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Взломщик."
 
 #: src-en/data/events_special_storage.xml.append:4013
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4016
 msgid ""
@@ -5943,19 +6098,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"hacking\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свой Взломщик."
 
 #: src-en/data/events_special_storage.xml.append:4026
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Контроль разума."
 
 #: src-en/data/events_special_storage.xml.append:4028
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4031
 msgid ""
@@ -5967,13 +6124,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Контроль разума."
 
 #: src-en/data/events_special_storage.xml.append:4039
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4042
 msgid ""
@@ -5985,13 +6144,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Контроль разума."
 
 #: src-en/data/events_special_storage.xml.append:4050
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4053
 msgid ""
@@ -6003,19 +6164,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"mind\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свой Контроль разума."
 
 #: src-en/data/events_special_storage.xml.append:4063
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Систему жизнеобеспечения."
 
 #: src-en/data/events_special_storage.xml.append:4065
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4068
 msgid ""
@@ -6027,13 +6190,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою Систему жизнеобеспечения."
 
 #: src-en/data/events_special_storage.xml.append:4076
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4079
 msgid ""
@@ -6045,13 +6210,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свою Систему жизнеобеспечения."
 
 #: src-en/data/events_special_storage.xml.append:4087
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4090
 msgid ""
@@ -6063,19 +6230,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"oxygen\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свою Систему жизнеобеспечения."
 
 #: src-en/data/events_special_storage.xml.append:4100
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4102
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4105
 msgid ""
@@ -6087,13 +6256,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4113
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4116
 msgid ""
@@ -6105,13 +6276,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4124
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4127
 msgid ""
@@ -6123,13 +6296,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4135
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4138
 msgid ""
@@ -6141,13 +6316,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4146
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4149
 msgid ""
@@ -6159,13 +6336,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4157
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4160
 msgid ""
@@ -6177,13 +6356,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4168
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4171
 msgid ""
@@ -6195,13 +6376,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4179
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4182
 msgid ""
@@ -6213,19 +6396,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"shields\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свои Щиты."
 
 #: src-en/data/events_special_storage.xml.append:4192
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:4194
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4197
 msgid ""
@@ -6237,13 +6422,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:4205
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4208
 msgid ""
@@ -6255,13 +6442,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:4216
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4219
 msgid ""
@@ -6273,19 +6462,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"teleporter\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свой Телепортатор."
 
 #: src-en/data/events_special_storage.xml.append:4229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Временной манипулятор."
 
 #: src-en/data/events_special_storage.xml.append:4231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4234
 msgid ""
@@ -6297,13 +6488,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Временной манипулятор."
 
 #: src-en/data/events_special_storage.xml.append:4242
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4245
 msgid ""
@@ -6315,13 +6508,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить свой Временной манипулятор."
 
 #: src-en/data/events_special_storage.xml.append:4253
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4256
 msgid ""
@@ -6333,19 +6528,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"temporal\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свой Временной манипулятор."
 
 #: src-en/data/events_special_storage.xml.append:4266
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Я хочу... Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4268
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4271
 msgid ""
@@ -6357,13 +6554,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4279
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4282
 msgid ""
@@ -6375,13 +6574,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4290
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"2\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4293
 msgid ""
@@ -6393,13 +6594,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"3\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4301
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"3\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4304
 msgid ""
@@ -6411,13 +6614,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"4\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"4\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4315
 msgid ""
@@ -6429,13 +6634,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4323
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"5\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4326
 msgid ""
@@ -6447,13 +6654,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"6\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4334
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"6\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4337
 msgid ""
@@ -6465,13 +6674,15 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Я хочу... улучшить Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4345
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"7\"]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4348
 msgid ""
@@ -6483,17 +6694,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[@req=\"weapons\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Вы не можете больше улучшить свою Комнату управления оружием."
 
 #: src-en/data/events_special_storage.xml.append:4358
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[66]/text"
-msgstr ""
+msgstr "Я не хочу... никаких изменений."
 
 #: src-en/data/events_special_storage.xml.append:4360
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_SYSTEMPART\"]/choice[66]/event/text"
 msgstr ""
+"Желание было исполнено, и тем не менее... энергия продолжает "
+"распространяться по вашему кораблю..."
 
 #: src-en/data/events_special_storage.xml.append:4362
 msgid ""
@@ -6504,6 +6717,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/text"
 msgstr ""
+"...как вы поняли, вы можете создать Сияющее орудие по своему выбору. Но... "
+"какое именно?"
 
 #: src-en/data/events_special_storage.xml.append:4372
 msgid ""
@@ -6514,6 +6729,8 @@ msgstr "Я хочу... правды."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[1]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4377
 msgid ""
@@ -6523,12 +6740,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4383
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[2]/text"
-msgstr ""
+msgstr "Я хочу... календарь."
 
 #: src-en/data/events_special_storage.xml.append:4385
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[2]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4388
 msgid ""
@@ -6538,12 +6757,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4394
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[3]/text"
-msgstr ""
+msgstr "Я хочу... слова."
 
 #: src-en/data/events_special_storage.xml.append:4396
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[3]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4399
 msgid ""
@@ -6553,12 +6774,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[4]/text"
-msgstr ""
+msgstr "Я хочу... ценности."
 
 #: src-en/data/events_special_storage.xml.append:4407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[4]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4410
 msgid ""
@@ -6568,12 +6791,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4416
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[5]/text"
-msgstr ""
+msgstr "Я хочу... правила."
 
 #: src-en/data/events_special_storage.xml.append:4418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[5]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4421
 msgid ""
@@ -6583,12 +6808,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[6]/text"
-msgstr ""
+msgstr "Я хочу... смысл."
 
 #: src-en/data/events_special_storage.xml.append:4429
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[6]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4432
 msgid ""
@@ -6598,12 +6825,14 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:4438
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[7]/text"
-msgstr ""
+msgstr "Я хочу... достоинства."
 
 #: src-en/data/events_special_storage.xml.append:4440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDDIVINEGIMMICK_EATMOTE_WEAPONPART\"]/choice[7]/event/text"
 msgstr ""
+"Когда последняя Частица божественности иссякла, и вы получили свое орудие... "
+"вы оставляете корабль в покое, удовлетворенные его великолепным сиянием."
 
 #: src-en/data/events_special_storage.xml.append:4443
 msgid ""
@@ -7974,13 +8203,13 @@ msgstr "Искать Героиню."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Найти Тень."
 
 #: src-en/data/events_special_storage.xml.append:5231
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CREW_REAL\"]/mod-"
 "append:choice[7]/text"
-msgstr ""
+msgstr "Обратиться к Владычице."
 
 #: src-en/data/events_special_storage.xml.append:5238
 msgid ""
@@ -8257,7 +8486,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
 "append:choice[6]/text"
-msgstr ""
+msgstr "Тень"
 
 #: src-en/data/events_special_storage.xml.append:5415
 msgid ""
@@ -8287,6 +8516,17 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_CREW\"]/mod-"
 "append:choice[7]/event/text"
 msgstr ""
+"ПРОФИЛЬ: Владычица\n"
+"\t\t\tТитул: Сосуд, Темный Клинок, Владычица Антумбрального измерения\n"
+"\t\t\tВид: ??? - Возраст: ??? - Пол: Женский\n"
+"\t\t\t\n"
+"\t\t\tХотя в сознании тех немногих, кто знает о ней, Владычица и ее сосуд, а "
+"также сам потусторонний Клинок, практически синонимичны, в какой-то момент "
+"они были совершенно отдельными сущностями. Долгое время Владычица была "
+"сосудом для Клинка, что привело к слиянию двух сущностей: теперь Клинок и "
+"сосуд являются единым целым. Вместе с падшими Архангелами она стремится "
+"установить баланс между Тенями и Светоносцами Антумбрального измерения и "
+"восстановить власть Темного Бога над этим миром."
 
 #: src-en/data/events_special_storage.xml.append:5435
 msgid ""
@@ -8316,7 +8556,7 @@ msgstr "(Сердцевина чумы души)"
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_STATUS_LOOT\"]/mod-"
 "append:choice[4]/text"
-msgstr ""
+msgstr "(Антумбральное измерение)"
 
 #: src-en/data/events_special_storage.xml.append:5462
 msgid ""
