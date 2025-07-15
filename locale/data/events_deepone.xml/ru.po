@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 12:05+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2025-07-15 22:44+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_deeponexml/ru/>\n"
 "Language: ru\n"
@@ -3597,21 +3597,25 @@ msgstr ""
 " на вашей стороне. Чем дальше, тем веселее...?"
 
 #: src-en/data/events_deepone.xml:2037
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/text"
-msgstr "Корабль разваливается на части, и вы собираете все, что можете."
+msgstr ""
+"Корабль разваливается на части, и вы обнаруживаете, что клетка уцелела после "
+"его разрушения, по-видимому, не поврежденная... Более того, то, что "
+"находится внутри, по-прежнему издает те же чавкающие звуки."
 
 #: src-en/data/events_deepone.xml:2040
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/choice/text"
-msgstr ""
+msgstr "Осмотреть клетку повнимательнее."
 
 #: src-en/data/events_deepone.xml:2045
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/deadCrew/text"
-msgstr "После гибели экипажа вы быстро забираете то, что можете."
+msgstr ""
+"После того, как их потусторонний экипаж был побежден, вы можете свободно "
+"украсть клетку из их корабля... действительно, то, что находится внутри, по-"
+"прежнему издает те же чавкающие звуки."
 
 #: src-en/data/events_deepone.xml:2048
 msgid ""
@@ -3656,13 +3660,13 @@ msgstr ""
 "начинает приближаться к вам!"
 
 #: src-en/data/events_deepone.xml:2079
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/text"
 msgstr ""
-"Победив корабль и его обитателей, вы поворачиваетесь к клетке, которую взяли "
-"с собой на борт, и понимаете, что узнаете доносящиеся из нее звуки. Такие же "
-"издавал один из монстров, которого вы только что победили..."
+"С тревогой Вы осознаете, что теперь способны распознать звуки, которые "
+"издает это существо. Они напоминают - если не полностью повторяют - "
+"отвратительные булькающие звуки, которые издавала одна из тварей, которую вы "
+"только что победили..."
 
 #: src-en/data/events_deepone.xml:2081
 msgid ""
@@ -3695,7 +3699,6 @@ msgid ""
 msgstr "Ударить мужчину, пока он отвлекся."
 
 #: src-en/data/events_deepone.xml:2097
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[1]/event/text"
 msgstr ""
@@ -3707,8 +3710,9 @@ msgstr ""
 "колесиках, и вы успеваете затащить ее на борт, прежде чем кто-то успевает "
 "вас догнать, но это еще не конец... Как только вы взлетаете, один из "
 "странных кораблей, которые вы заметили раньше, бросается в погоню! Из их "
-"корабля вылетают молнии, поражая ваш, и вы понимаете, что им удалось вывести "
-"из строя ваши двигатели... Приготовьтесь!"
+"корабля вырывается серия молний, поражающих ваш корабль, и вы понимаете, что "
+"им каким-то образом удалось телепортировать клетку обратно на свой корабль - "
+"если вы хотите ее вернуть, вам придется сражаться!"
 
 #: src-en/data/events_deepone.xml:2100
 msgid ""
@@ -5385,11 +5389,21 @@ msgstr ""
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
 msgstr ""
+"(Живой Светоносец) Я величественнее, ибо я следую Одам Света и Тьмы, глупец."
 
 #: src-en/data/events_deepone.xml:3089
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"Гражданин ахает: \"Старые, выцветшие тексты?! Я сам бесполезно пытался "
+"разобраться в том немногом, что осталось от их чернил... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
 
 #: src-en/data/events_deepone.xml:3094
 msgid ""
