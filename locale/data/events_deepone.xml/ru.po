@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-15 12:05+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_deeponexml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_deepone.xml:6
 msgid ""
@@ -3589,6 +3597,7 @@ msgstr ""
 " на вашей стороне. Чем дальше, тем веселее...?"
 
 #: src-en/data/events_deepone.xml:2037
+#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/text"
 msgstr "Корабль разваливается на части, и вы собираете все, что можете."
@@ -3599,6 +3608,7 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_deepone.xml:2045
+#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/deadCrew/text"
 msgstr "После гибели экипажа вы быстро забираете то, что можете."
@@ -3646,12 +3656,13 @@ msgstr ""
 "начинает приближаться к вам!"
 
 #: src-en/data/events_deepone.xml:2079
+#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/text"
 msgstr ""
-"Победив корабль и его обитателей, вы поворачиваетесь к клетке, которую взяли"
-" с собой на борт, и понимаете, что узнаете доносящиеся из нее звуки. Такие "
-"же издавал один из монстров, которого вы только что победили..."
+"Победив корабль и его обитателей, вы поворачиваетесь к клетке, которую взяли "
+"с собой на борт, и понимаете, что узнаете доносящиеся из нее звуки. Такие же "
+"издавал один из монстров, которого вы только что победили..."
 
 #: src-en/data/events_deepone.xml:2081
 msgid ""
@@ -3684,6 +3695,7 @@ msgid ""
 msgstr "Ударить мужчину, пока он отвлекся."
 
 #: src-en/data/events_deepone.xml:2097
+#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[1]/event/text"
 msgstr ""
@@ -3695,8 +3707,8 @@ msgstr ""
 "колесиках, и вы успеваете затащить ее на борт, прежде чем кто-то успевает "
 "вас догнать, но это еще не конец... Как только вы взлетаете, один из "
 "странных кораблей, которые вы заметили раньше, бросается в погоню! Из их "
-"корабля вылетают молнии, поражая ваш, и вы понимаете, что им удалось вывести"
-" из строя ваши двигатели... Приготовьтесь!"
+"корабля вылетают молнии, поражая ваш, и вы понимаете, что им удалось вывести "
+"из строя ваши двигатели... Приготовьтесь!"
 
 #: src-en/data/events_deepone.xml:2100
 msgid ""
