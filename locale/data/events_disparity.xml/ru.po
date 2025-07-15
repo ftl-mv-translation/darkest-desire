@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-15 12:05+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_disparityxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_disparity.xml:13
 msgid ""
@@ -8293,6 +8301,7 @@ msgid ""
 msgstr "Оскверненный?"
 
 #: src-en/data/events_disparity.xml:4736
+#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSTHEBEHEMOTH_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
@@ -8301,8 +8310,8 @@ msgstr ""
 "Освободитель, Буря, Божественность...\", - пауза, - \"...последующие записи "
 "в базе данных: повреждены. Источник повреждения: неизвестен; считается "
 "неактуальным. Обновлена директива Серафима: выжидать. Федерация: согласна с "
-"директивой Серафима\". Прежде чем он успевает продолжить, пламя, окутывающее"
-" Серафима, усиливается, и незнакомый бесплотный голос произносит: \"У тебя "
+"директивой Серафима\". Прежде чем он успевает продолжить, пламя, окутывающее "
+"Серафима, усиливается, и незнакомый бесплотный голос произносит: \"У тебя "
 "есть один из моих клинков, Ренегат, ВЛАДЕЙ ИМ ДОСТОЙНО. Я БУДУ НАБЛЮДАТЬ ЗА "
 "ВАМИ ОБОИМИ\". Божественные объятия голоса исчезают, и пламя Серафима снова "
 "успокаивается. Вы не в курсе последствий, но... вы полагаете, что, по "
@@ -8839,6 +8848,7 @@ msgstr ""
 "путь."
 
 #: src-en/data/events_disparity.xml:5054
+#, fuzzy
 msgid ""
 "data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/destroyed/text"
 msgstr ""
