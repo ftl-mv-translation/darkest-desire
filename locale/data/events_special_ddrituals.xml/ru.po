@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-18 12:56+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_ddritualsxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_ddrituals.xml:4
 msgid ""
@@ -81,16 +89,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/text"
 msgstr ""
+"Ваше желание становится явным, и внимание Темного Бога быстро превращается в "
+"ярость. Вы должны продолжить ритуал..."
 
 #: src-en/data/events_special_ddrituals.xml:67
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) Продолжить ритуал человеческим жертвоприношением."
 
 #: src-en/data/events_special_ddrituals.xml:69
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
+"Ваш клинок наносит точный удар, и жертва падает на пол, окровавленная и "
+"жалкая. Когда ее кровь разливается по полу, вы чувствуете, как взгляд "
+"Темного Бога становится еще более пристальным..."
 
 #: src-en/data/events_special_ddrituals.xml:73
 msgid ""
@@ -106,11 +119,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
+"(Член экипажа-человек) Продолжить ритуал, принеся в жертву одного из членов "
+"вашего экипажа людей."
 
 #: src-en/data/events_special_ddrituals.xml:84
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
+"Вы застаете человека врасплох, и ваш клинок наносит точный удар. Он падает "
+"на пол, окровавленный и жалкий... К счастью, в глубине души вы понимаете, "
+"что просто делаете то, что необходимо. Когда его кровь льется на пол, вы "
+"чувствуете, как взгляд Темного Бога становится все более пристальным..."
 
 #: src-en/data/events_special_ddrituals.xml:88
 msgid ""
@@ -125,12 +144,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:97
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[3]/text"
-msgstr ""
+msgstr "Я не могу себе позволить продолжать ритуал..."
 
 #: src-en/data/events_special_ddrituals.xml:99
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[3]/event/text"
 msgstr ""
+"В самой глубине вашего существа таится мучительное, жгучее неодобрение, но "
+"Темный Бог знает, что убив вас здесь, он мало что получит. Поэтому он "
+"предлагает вам свою пощаду - и ничего больше. Ритуал провалился."
 
 #: src-en/data/events_special_ddrituals.xml:102
 msgid ""
@@ -141,6 +163,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_EERIEINAUGURATIONPERFORMED\"]/text"
 msgstr ""
+"Странные мысли проносятся в вашей голове, и вы вдруг обнаруживаете, что "
+"знаете координаты сектора, заселенного глубоководными. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:115
 msgid ""
@@ -164,6 +188,10 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RESOLUTIONTAKEBACKSIESPERFORMED\"]/text"
 msgstr ""
+"Это не то, что вам нужно. Вам нужны дополнительные благословения - "
+"дополнительная сила. Хотя ваша нерешительность стоила вам времени и вашего "
+"ритуала, вы открываете глаза и видите, что Потусторонний фолиант все еще "
+"лежит перед вами."
 
 #: src-en/data/events_special_ddrituals.xml:134
 msgid ""
@@ -404,8 +432,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:297
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:299
 msgid ""
@@ -491,8 +518,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:348
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:350
 msgid ""
@@ -571,8 +597,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:396
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:398
 msgid ""
@@ -651,8 +676,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:444
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:446
 msgid ""
@@ -736,8 +760,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:497
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:499
 msgid ""
@@ -821,8 +844,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:550
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:552
 msgid ""
@@ -906,8 +928,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:603
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:605
 msgid ""
@@ -991,8 +1012,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:656
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:658
 msgid ""
@@ -1076,8 +1096,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:709
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:711
 msgid ""
@@ -1161,8 +1180,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:762
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:764
 msgid ""
@@ -1246,8 +1264,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:815
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:817
 msgid ""
@@ -1331,8 +1348,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:868
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:870
 msgid ""
@@ -1418,8 +1434,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:921
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:923
 msgid ""
@@ -1498,8 +1513,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:969
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:971
 msgid ""
@@ -1578,8 +1592,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1017
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1019
 msgid ""
@@ -1663,8 +1676,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1070
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1072
 msgid ""
@@ -1748,8 +1760,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1123
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1125
 msgid ""
@@ -1833,8 +1844,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1176
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1178
 msgid ""
@@ -1918,8 +1928,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1229
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1231
 msgid ""
@@ -2003,8 +2012,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1282
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1284
 msgid ""
@@ -2088,8 +2096,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1335
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1337
 msgid ""
@@ -2173,8 +2180,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1388
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1390
 msgid ""
@@ -2258,8 +2264,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1441
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1443
 msgid ""
@@ -2401,9 +2406,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:1543
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_STORMCALLINGPERFORMED_STORMBORN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Позволить ему полакомиться человеческой "
-"жертвой."
+msgstr "(Человеческая жертва) Позволить ему полакомиться человеческой жертвой."
 
 #: src-en/data/events_special_ddrituals.xml:1545
 msgid ""
@@ -2520,9 +2523,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1625
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SOULWEAVINGPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Позволить ему полакомиться человеческой "
-"жертвой."
+msgstr "(Человеческая жертва) Позволить ему полакомиться человеческой жертвой."
 
 #: src-en/data/events_special_ddrituals.xml:1627
 msgid ""
@@ -2616,12 +2617,11 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_ddrituals.xml:1694
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_NEWBORNSTARSPERFORMED\"]/text"
 msgstr ""
-"...и она превращается в карту, указывающую на местонахождение дерева "
-"Илл’дритков. Теперь вы должны получить свою награду..."
+"...и она превращается в карту, указывающую на местонахождение Сияющего ядра. "
+"Теперь вы должны получить свою награду..."
 
 #: src-en/data/events_special_ddrituals.xml:1698
 msgid ""
@@ -2639,41 +2639,55 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/text"
 msgstr ""
+"(Сияющее ядро нулевого уровня) Я хочу... повысить уровень своего Сияющего "
+"ядра."
 
 #: src-en/data/events_special_ddrituals.xml:1714
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[2]/text"
 msgstr ""
+"(Сияющее ядро первого уровня) Я хочу... повысить уровень своего Сияющего "
+"ядра."
 
 #: src-en/data/events_special_ddrituals.xml:1718
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[3]/text"
 msgstr ""
+"(Сияющее ядро второго уровня) Я хочу... повысить уровень своего Сияющего "
+"ядра."
 
 #: src-en/data/events_special_ddrituals.xml:1722
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[4]/text"
 msgstr ""
+"(Сияющее ядро первого уровня) Я хочу... зафиксировать свое Сияющее ядро в "
+"подуровне."
 
 #: src-en/data/events_special_ddrituals.xml:1726
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[5]/text"
 msgstr ""
+"(Сияющее ядро второго уровня) Я хочу... привязать свое Сияющее ядро в "
+"подуровне."
 
 #: src-en/data/events_special_ddrituals.xml:1730
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/text"
 msgstr ""
+"(Сияющее ядро третьего уровня) Я хочу... зафиксировать свое Сияющее ядро в "
+"подуровне."
 
 #: src-en/data/events_special_ddrituals.xml:1734
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[7]/text"
-msgstr ""
+msgstr "Подумав еще раз, неважно. Завершить ритуал."
 
 #: src-en/data/events_special_ddrituals.xml:1736
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_REAL\"]/choice[7]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1739
 msgid ""
@@ -2684,6 +2698,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим..."
 
 #: src-en/data/events_special_ddrituals.xml:1750
 msgid ""
@@ -2694,20 +2710,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/choice/event/text"
 msgstr ""
+"...поскольку сила, которую даровала вам ваша жертва ставится видимой, ваше "
+"Сияющее ядро усиливается благодаря ей. Будете ли вы приносить больше жертв в "
+"поисках еще большей силы?"
 
 #: src-en/data/events_special_ddrituals.xml:1755
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1757
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1761
 msgid ""
@@ -2728,13 +2745,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:1772
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1776
 msgid ""
@@ -2756,6 +2772,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERZEROUPGRADE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1790
 msgid ""
@@ -2766,6 +2784,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим..."
 
 #: src-en/data/events_special_ddrituals.xml:1803
 msgid ""
@@ -2776,20 +2796,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/choice/event/text"
 msgstr ""
+"...поскольку сила, которую даровала вам ваша жертва ставится видимой, ваше "
+"Сияющее ядро усиливается благодаря ей. Будете ли вы приносить больше жертв в "
+"поисках еще большей силы?"
 
 #: src-en/data/events_special_ddrituals.xml:1808
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1810
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1814
 msgid ""
@@ -2810,13 +2831,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:1825
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1829
 msgid ""
@@ -2838,6 +2858,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONEUPGRADE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1843
 msgid ""
@@ -2848,6 +2870,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим..."
 
 #: src-en/data/events_special_ddrituals.xml:1856
 msgid ""
@@ -2858,20 +2882,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/choice/event/text"
 msgstr ""
+"...поскольку сила, которую даровала вам ваша жертва ставится видимой, ваше "
+"Сияющее ядро усиливается благодаря ей. Будете ли вы приносить больше жертв в "
+"поисках еще большей силы?"
 
 #: src-en/data/events_special_ddrituals.xml:1861
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1863
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1867
 msgid ""
@@ -2892,13 +2917,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:1878
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1882
 msgid ""
@@ -2920,6 +2944,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOUPGRADE\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1896
 msgid ""
@@ -2930,30 +2956,33 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим... но чем?"
 
 #: src-en/data/events_special_ddrituals.xml:1909
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Разрушеныша."
 
 #: src-en/data/events_special_ddrituals.xml:1911
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:1914
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1916
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1920
 msgid ""
@@ -2974,13 +3003,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:1931
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1935
 msgid ""
@@ -3002,6 +3030,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1949
 msgid ""
@@ -3011,26 +3041,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:1957
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Пепельныша."
 
 #: src-en/data/events_special_ddrituals.xml:1959
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:1962
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:1964
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1968
 msgid ""
@@ -3051,13 +3082,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:1979
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:1983
 msgid ""
@@ -3079,6 +3109,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:1997
 msgid ""
@@ -3088,26 +3120,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2005
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Призменыша."
 
 #: src-en/data/events_special_ddrituals.xml:2007
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2010
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2012
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2016
 msgid ""
@@ -3128,13 +3161,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2027
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2031
 msgid ""
@@ -3156,6 +3188,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[3]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2045
 msgid ""
@@ -3165,26 +3199,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2053
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Убийценыша."
 
 #: src-en/data/events_special_ddrituals.xml:2055
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2058
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2060
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2064
 msgid ""
@@ -3205,13 +3240,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2075
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2079
 msgid ""
@@ -3233,6 +3267,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[4]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2093
 msgid ""
@@ -3242,26 +3278,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2101
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Душныша."
 
 #: src-en/data/events_special_ddrituals.xml:2103
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2106
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2108
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2112
 msgid ""
@@ -3282,13 +3319,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2123
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2127
 msgid ""
@@ -3310,6 +3346,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[5]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2141
 msgid ""
@@ -3325,6 +3363,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERONELOCKIN\"]/choice[6]/event/text"
 msgstr ""
+"Сила вашей жертвы продолжает действовать, а в помещении по-прежнему царит "
+"напряженная атмосфера..."
 
 #: src-en/data/events_special_ddrituals.xml:2154
 msgid ""
@@ -3335,30 +3375,33 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим... но чем?"
 
 #: src-en/data/events_special_ddrituals.xml:2165
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Ангеляра."
 
 #: src-en/data/events_special_ddrituals.xml:2167
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2170
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2172
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2176
 msgid ""
@@ -3379,13 +3422,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2187
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2191
 msgid ""
@@ -3407,6 +3449,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2205
 msgid ""
@@ -3416,26 +3460,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2213
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Кластуляра."
 
 #: src-en/data/events_special_ddrituals.xml:2215
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2218
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2220
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2224
 msgid ""
@@ -3456,13 +3501,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2235
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2239
 msgid ""
@@ -3484,6 +3528,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2253
 msgid ""
@@ -3493,26 +3539,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2261
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Торментуляра."
 
 #: src-en/data/events_special_ddrituals.xml:2263
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2266
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2268
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2272
 msgid ""
@@ -3533,13 +3580,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2283
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2287
 msgid ""
@@ -3561,6 +3607,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[3]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2301
 msgid ""
@@ -3570,26 +3618,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2309
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Варлокуляра."
 
 #: src-en/data/events_special_ddrituals.xml:2311
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2314
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2316
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2320
 msgid ""
@@ -3610,13 +3659,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2331
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2335
 msgid ""
@@ -3638,6 +3686,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[4]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2349
 msgid ""
@@ -3653,6 +3703,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTWOLOCKIN\"]/choice[5]/event/text"
 msgstr ""
+"Сила вашей жертвы продолжает действовать, а в помещении по-прежнему царит "
+"напряженная атмосфера..."
 
 #: src-en/data/events_special_ddrituals.xml:2362
 msgid ""
@@ -3663,30 +3715,33 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/text"
 msgstr ""
+"То, что когда-то было неосязаемым ощущением в воздухе, становится чем-то "
+"большим... но чем?"
 
 #: src-en/data/events_special_ddrituals.xml:2373
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Повелителя."
 
 #: src-en/data/events_special_ddrituals.xml:2375
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2378
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2380
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2384
 msgid ""
@@ -3707,13 +3762,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2395
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2399
 msgid ""
@@ -3735,6 +3789,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2413
 msgid ""
@@ -3744,26 +3800,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2421
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Пожирателя."
 
 #: src-en/data/events_special_ddrituals.xml:2423
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2426
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2428
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2432
 msgid ""
@@ -3784,13 +3841,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2443
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2447
 msgid ""
@@ -3812,6 +3868,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2461
 msgid ""
@@ -3821,26 +3879,27 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:2469
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/text"
-msgstr ""
+msgstr "Зафиксировать на подуровне Времятеля."
 
 #: src-en/data/events_special_ddrituals.xml:2471
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/event/text"
 msgstr ""
+"Сила вашего жертвоприношения признана, и ваше Сияющее ядро усиливается "
+"благодаря этому. Будете ли вы приносить еще больше жертв в поисках новой "
+"силы?"
 
 #: src-en/data/events_special_ddrituals.xml:2474
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Принести дополнительную человеческую жертву."
+msgstr "(Человеческая жертва) Принести дополнительную человеческую жертву."
 
 #: src-en/data/events_special_ddrituals.xml:2476
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
 "Вы вонзаете нож в его грудь, и их тело безжизненно падает на пол. После "
-"очередного подношения, пламя в вашей груди разгорается вновь..."
+"очередного подношения, напряжение в воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2480
 msgid ""
@@ -3861,13 +3920,12 @@ msgstr ""
 "используя одного из членов вашего экипажа."
 
 #: src-en/data/events_special_ddrituals.xml:2491
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
 "Он даже не успевают заметить, как вы вонзаете нож ему в спину, и его тело "
-"безжизненно падает на пол. Когда еще одно подношение сделано, пламя в вашей "
-"груди разгорается снова..."
+"безжизненно падает на пол. Когда еще одно подношение сделано, напряжение в "
+"воздухе возвращается..."
 
 #: src-en/data/events_special_ddrituals.xml:2495
 msgid ""
@@ -3889,6 +3947,8 @@ msgstr "На этом пока все."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[3]/event/choice[3]/event/text"
 msgstr ""
+"Напряжение момента спадает, и ваша связь с этим загадочным чувством "
+"прерывается. Ритуал завершен."
 
 #: src-en/data/events_special_ddrituals.xml:2509
 msgid ""
@@ -3904,6 +3964,8 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BATHINGLIGHTPERFORMED_TIERTHREELOCKIN\"]/choice[4]/event/text"
 msgstr ""
+"Сила вашей жертвы продолжает действовать, а в помещении по-прежнему царит "
+"напряженная атмосфера..."
 
 #: src-en/data/events_special_ddrituals.xml:2522
 msgid ""
@@ -3914,26 +3976,31 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED\"]/text"
 msgstr ""
+"...и вы осознаете - вот она, одна из них. Истина... на которую так же часто "
+"молятся, как и отрекаются от нее."
 
 #: src-en/data/events_special_ddrituals.xml:2532
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) Да, я продолжу... Я клянусь на календаре..."
 
 #: src-en/data/events_special_ddrituals.xml:2536
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) Да, я продолжу... Я клянусь Календарем..."
 
 #: src-en/data/events_special_ddrituals.xml:2540
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2546
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_SACRIFICE\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже второй. Календарь... хотя порядок можно "
+"найти во многом, немногие его творения сохраняют такую условную, но огромную "
+"власть, как сама структура времени."
 
 #: src-en/data/events_special_ddrituals.xml:2550
 msgid ""
@@ -3943,22 +4010,25 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2553
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_SACRIFICE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на слова..."
 
 #: src-en/data/events_special_ddrituals.xml:2557
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_SACRIFICE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на слова..."
 
 #: src-en/data/events_special_ddrituals.xml:2561
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_SACRIFICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2567
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_HUMAN\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже второй. Календарь... хотя порядок можно "
+"найти во многом, немногие его творения сохраняют такую условную, но огромную "
+"власть, как сама структура времени."
 
 #: src-en/data/events_special_ddrituals.xml:2571
 msgid ""
@@ -3968,22 +4038,25 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2574
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_HUMAN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на слова..."
 
 #: src-en/data/events_special_ddrituals.xml:2578
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_HUMAN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на слова..."
 
 #: src-en/data/events_special_ddrituals.xml:2582
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTWO_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2588
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_SACRIFICE\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже третий. Слова... когда перо и бумага "
+"встречаются, рождается музыка, и все становится понятным - поистине "
+"волшебная мелодия, создаваемая простым движением языка."
 
 #: src-en/data/events_special_ddrituals.xml:2592
 msgid ""
@@ -3993,22 +4066,25 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2595
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_SACRIFICE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на ценности..."
 
 #: src-en/data/events_special_ddrituals.xml:2599
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_SACRIFICE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на ценности..."
 
 #: src-en/data/events_special_ddrituals.xml:2603
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_SACRIFICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2609
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_HUMAN\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже третий. Слова... когда перо и бумага "
+"встречаются, рождается музыка, и все становится понятным - поистине "
+"волшебная мелодия, создаваемая простым движением языка."
 
 #: src-en/data/events_special_ddrituals.xml:2613
 msgid ""
@@ -4018,22 +4094,24 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2616
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_HUMAN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на ценности..."
 
 #: src-en/data/events_special_ddrituals.xml:2620
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_HUMAN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на ценности..."
 
 #: src-en/data/events_special_ddrituals.xml:2624
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTTHREE_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2630
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_SACRIFICE\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже четвертый. Ценности... которые разделяют "
+"одни, а другие презирают. Редко кто является самостоятельной личностью."
 
 #: src-en/data/events_special_ddrituals.xml:2634
 msgid ""
@@ -4043,22 +4121,24 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2637
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_SACRIFICE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на правила..."
 
 #: src-en/data/events_special_ddrituals.xml:2641
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_SACRIFICE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на правила..."
 
 #: src-en/data/events_special_ddrituals.xml:2645
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_SACRIFICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2651
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_HUMAN\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже четвертый. Ценности... которые разделяют "
+"одни, а другие презирают. Редко кто является самостоятельной личностью."
 
 #: src-en/data/events_special_ddrituals.xml:2655
 msgid ""
@@ -4068,22 +4148,24 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2658
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_HUMAN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на правила..."
 
 #: src-en/data/events_special_ddrituals.xml:2662
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_HUMAN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на правила..."
 
 #: src-en/data/events_special_ddrituals.xml:2666
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFOUR_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2672
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_SACRIFICE\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже пятый. Правила... то, что объединяет массы и "
+"сдерживает хаос."
 
 #: src-en/data/events_special_ddrituals.xml:2676
 msgid ""
@@ -4093,22 +4175,24 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2679
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_SACRIFICE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на смысл..."
 
 #: src-en/data/events_special_ddrituals.xml:2683
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_SACRIFICE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на смысл..."
 
 #: src-en/data/events_special_ddrituals.xml:2687
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_SACRIFICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2693
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_HUMAN\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже пятый. Правила... то, что объединяет массы и "
+"сдерживает хаос."
 
 #: src-en/data/events_special_ddrituals.xml:2697
 msgid ""
@@ -4118,22 +4202,25 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2700
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_HUMAN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на смысл..."
 
 #: src-en/data/events_special_ddrituals.xml:2704
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_HUMAN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на смысл..."
 
 #: src-en/data/events_special_ddrituals.xml:2708
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTFIVE_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2714
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_SACRIFICE\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже шестой. Смысл... присутствует во всех вещах, "
+"несмотря на то, что они были созданы без какой-либо цели, умиротворяющие как "
+"душу, так и разум."
 
 #: src-en/data/events_special_ddrituals.xml:2718
 msgid ""
@@ -4143,22 +4230,25 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2721
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_SACRIFICE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на честь достоинства..."
 
 #: src-en/data/events_special_ddrituals.xml:2725
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_SACRIFICE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на честь достоинства..."
 
 #: src-en/data/events_special_ddrituals.xml:2729
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_SACRIFICE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2735
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_HUMAN\"]/text"
 msgstr ""
+"Раздается еще один аккорд - уже шестой. Смысл... присутствует во всех вещах, "
+"несмотря на то, что они были созданы без какой-либо цели, умиротворяющие как "
+"душу, так и разум."
 
 #: src-en/data/events_special_ddrituals.xml:2739
 msgid ""
@@ -4168,22 +4258,48 @@ msgstr "Нельзя клонировать того, чья душа была �
 #: src-en/data/events_special_ddrituals.xml:2742
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_HUMAN\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) ...Я клянусь на честь достоинства..."
 
 #: src-en/data/events_special_ddrituals.xml:2746
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_HUMAN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "(Член экипажа-человек) ...Я клянусь на честь достоинства..."
 
 #: src-en/data/events_special_ddrituals.xml:2750
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSIX_HUMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я... не могу это довести до конца. Прервать ритуал преждевременно."
 
 #: src-en/data/events_special_ddrituals.xml:2756
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSEVEN_SACRIFICE\"]/text"
 msgstr ""
+"Звучит последний аккорд - уже седьмой. Достоинство... если от него "
+"отказаться, то отказаться придется и от всего остального.\n"
+"\t\n"
+"\tЛгать и отравлять чувство \"Истины\".\n"
+"\t\n"
+"\tПризывать хаос - игнорируя время и искажая ощущение, рождаемое "
+"\"Календарем\".\n"
+"\t\n"
+"\tПрикусить язык, ослепляя и мир, и себя - это значит отказаться от понятия "
+"\"Слова\".\n"
+"\t\n"
+"\tБыть настолько эгоистичным, чтобы разрушить то, за что стоит твоя сущность "
+"- парадоксальное искажение ощущения, известного как \"Ценности\".\n"
+"\t\n"
+"\tСчитать себя выше других - выше ощущения всего - и поступать по своему "
+"усмотрению... это разрушение ощущения, защищаемого \"Правилами\".\n"
+"\t\n"
+"\tОтказаться от разума, пасть в нигилизм и увидеть бессмысленность всего - "
+"такова судьба тех, кто отвергает ощущение \"Смысла\".\n"
+"\t\n"
+"\t\n"
+"\tИ, наконец... отвергнуть Истину, пренебречь календарем, умолчать слова, "
+"отказаться от ценностей, нарушить правила и отказаться принимать смысл всего "
+"сущего...\n"
+"\t\n"
+"\t...вот что значит отказаться от собственного ощущения \"Достоинства\"."
 
 #: src-en/data/events_special_ddrituals.xml:2776
 msgid ""
@@ -4194,11 +4310,39 @@ msgstr "Нельзя клонировать того, чья душа была �
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSEVEN_SACRIFICE\"]/choice/text"
 msgstr ""
+"...отказаться от достоинства и всего остального, чтобы присягнуть "
+"божественности."
 
 #: src-en/data/events_special_ddrituals.xml:2785
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSEVEN_HUMAN\"]/text"
 msgstr ""
+"Звучит последний аккорд - уже седьмой. Достоинство... если от него "
+"отказаться, то отказаться придется и от всего остального.\n"
+"\t\n"
+"\tЛгать и отравлять чувство \"Истины\".\n"
+"\t\n"
+"\tПризывать хаос - игнорируя время и искажая ощущение, рождаемое "
+"\"Календарем\".\n"
+"\t\n"
+"\tПрикусить язык, ослепляя и мир, и себя - это значит отказаться от понятия "
+"\"Слова\".\n"
+"\t\n"
+"\tБыть настолько эгоистичным, чтобы разрушить то, за что стоит твоя сущность "
+"- парадоксальное искажение ощущения, известного как \"Ценности\".\n"
+"\t\n"
+"\tСчитать себя выше других - выше ощущения всего - и поступать по своему "
+"усмотрению... это разрушение ощущения, защищаемого \"Правилами\".\n"
+"\t\n"
+"\tОтказаться от разума, пасть в нигилизм и увидеть бессмысленность всего - "
+"такова судьба тех, кто отвергает ощущение \"Смысла\".\n"
+"\t\n"
+"\t\n"
+"\tИ, наконец... отвергнуть Истину, пренебречь календарем, умолчать слова, "
+"отказаться от ценностей, нарушить правила и отказаться принимать смысл всего "
+"сущего...\n"
+"\t\n"
+"\t...вот что значит отказаться от собственного ощущения \"Достоинства\"."
 
 #: src-en/data/events_special_ddrituals.xml:2805
 msgid ""
@@ -4209,11 +4353,20 @@ msgstr "Нельзя клонировать того, чья душа была �
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_PARTSEVEN_HUMAN\"]/choice/text"
 msgstr ""
+"...отказаться от достоинства и всего остального, чтобы присягнуть "
+"божественности."
 
 #: src-en/data/events_special_ddrituals.xml:2814
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_FINALE\"]/text"
 msgstr ""
+"Так же как Светоносцы отказались от всего во имя своего божества... и вы "
+"тоже...\n"
+"\t\n"
+"\t...нет. Нет! Отвергните эту мысль - вы совершенно не похожи на них. Есть "
+"что-то, чего вы ищете - чувство, к которому вы все еще стремитесь. Если вы "
+"преодолеете предстоящее испытание и выйдете из него победителем... вы, "
+"возможно, найдете искомое."
 
 #: src-en/data/events_special_ddrituals.xml:2820
 msgid ""
@@ -4224,6 +4377,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_DIVINEREMNANTSPERFORMED_FAILURE\"]/text"
 msgstr ""
+"Этот последний аккорд, хотя и не был исполнен, будет жить в вашем разуме. В "
+"виде сожаления. К сожалению, ритуал не удался."
 
 #: src-en/data/events_special_ddrituals.xml:2829
 msgid ""
@@ -4423,6 +4578,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_BLAZING_IRE\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: ПЫЛАЮЩИЙ ГНЕВ\n"
+"\tСтранное пространство снаружи озаряется светом, когда появляется звезда, "
+"пылающая с безрассудной яростью!"
 
 #: src-en/data/events_special_ddrituals.xml:3392
 msgid ""
@@ -4433,6 +4594,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_ROCKY_RAIN\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: КАМЕННЫЙ ДОЖДЬ\n"
+"\tОбъекты начинают пролетать мимо вашего корабля, сначала один, потом еще "
+"несколько... и вскоре вы понимаете, что попали в астероидное поле!"
 
 #: src-en/data/events_special_ddrituals.xml:3405
 msgid ""
@@ -4443,6 +4610,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_MAGNETIZED_MADNESS\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: МАГНИТНОЕ БЕЗУМИЕ\n"
+"\tВаши системы начинают давать сбои, и вы быстро обнаруживаете виновника - "
+"пульсар, каким-то образом проникший в странное пространство снаружи!"
 
 #: src-en/data/events_special_ddrituals.xml:3418
 msgid ""
@@ -4453,6 +4626,12 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_BLUE_HELL\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: ГОЛУБОЙ АД\n"
+"\tВы почти ослепли, когда снаружи появился огромный объект... это голубая "
+"гигантская звезда, столь же смертоносная, сколь и прекрасная!"
 
 #: src-en/data/events_special_ddrituals.xml:3433
 msgid ""
@@ -4463,6 +4642,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_DEATH_BY_GRAVITY\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: СМЕРТЬ ОТ ГРАВИТАЦИИ\n"
+"\tВремя вокруг вас как будто замедляется, поскольку даже странное "
+"пространство снаружи искривляется под тяжестью чего-то поистине "
+"колоссального... прожорливого гравастара, появившегося здесь неизвестным "
+"образом!"
 
 #: src-en/data/events_special_ddrituals.xml:3448
 msgid ""
@@ -4473,6 +4660,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_ASH_AND_CINDER\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: ПЕПЕЛ И ЗОЛА\n"
+"\tВаш разум как будто оцепенел, когда бесцветный портал начинает высасывать "
+"энергию из помещения. Вы настолько погружены в свои мысли, что едва "
+"замечаете, как из портала начинают появляться Светоносцы-Пепеленыши!"
 
 #: src-en/data/events_special_ddrituals.xml:3461
 msgid ""
@@ -4483,6 +4677,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_PRISMATIC_BARRAGE\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: ПРИЗМАТИЧЕСКИЙ ЗАВЕСА\n"
+"\tЦвет на мгновение исчезает из поля зрения, и вы чувствуете, как ваши "
+"чувства притупляются... Но вскоре вы приходите в себя и понимаете, в чем "
+"дело - это межпространственное вторжение Светоносцев-Призменышей!"
 
 #: src-en/data/events_special_ddrituals.xml:3474
 msgid ""
@@ -5234,31 +5435,29 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_ddrituals.xml:3971
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//textList[@name=\"DDRITUALS_QUESTS_LIST_SOULPLAGUEINTERACTIONTEXT\"]/text[1]"
 msgstr ""
-"Радужное сияние снаружи привлекает ваше внимание... это корабль чумы души, "
-"направляющийся к вам! Неужели Темный Бог привел их сюда в качестве какого-то"
-" испытания?"
+"Радужное сияние снаружи привлекает ваше внимание... это корабль зараженный "
+"чумой души, направляющийся к вам! Неужели Темный Бог привел их сюда в "
+"качестве какого-то испытания?"
 
 #: src-en/data/events_special_ddrituals.xml:3972
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//textList[@name=\"DDRITUALS_QUESTS_LIST_SOULPLAGUEINTERACTIONTEXT\"]/text[2]"
 msgstr ""
-"Из тьмы появляется корабль чумы души, влекомый вашей душей и душами вашего "
-"экипажа... неужели нигде нет безопасности от их ненасытного аппетита?"
+"Из тьмы появляется корабль зараженный чумой души, влекомый вашей душей и "
+"душами вашего экипажа... неужели нигде нет безопасности от их ненасытного "
+"аппетита?"
 
 #: src-en/data/events_special_ddrituals.xml:3973
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//textList[@name=\"DDRITUALS_QUESTS_LIST_SOULPLAGUEINTERACTIONTEXT\"]/text[3]"
 msgstr ""
 "Вы уже начинаете сомневаться, правильно ли вы провели ритуал, как мимо "
 "вашего поля зрения пролетает маслянистый сгусток, а за ним еще один. С "
-"замиранием сердца вы понимаете их источник: это чума души. Приготовьтесь "
-"сражаться с ней!"
+"замиранием сердца вы понимаете их источник: это материя-вирус чумы души. "
+"Приготовьтесь сражаться с ней!"
 
 #: src-en/data/events_special_ddrituals.xml:3978
 msgid ""
@@ -5815,6 +6014,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKWEAPONRY_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:4389
 msgid ""
@@ -5839,6 +6043,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKWEAPONRY_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:4400
 msgid ""
@@ -5857,6 +6065,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKWEAPONRY_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:4412
 msgid ""
@@ -6608,6 +6820,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SHADOWDRONES_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:5000
 msgid ""
@@ -6632,6 +6849,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SHADOWDRONES_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:5011
 msgid ""
@@ -6650,6 +6871,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SHADOWDRONES_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:5023
 msgid ""
@@ -11561,6 +11786,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7576
 msgid ""
@@ -11586,6 +11816,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7590
 msgid ""
@@ -11612,6 +11847,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7604
 msgid ""
@@ -11637,6 +11877,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7618
 msgid ""
@@ -11662,6 +11907,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7632
 msgid ""
@@ -11687,6 +11937,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7646
 msgid ""
@@ -11712,6 +11967,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7660
 msgid ""
@@ -11737,6 +11997,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7674
 msgid ""
@@ -11762,6 +12027,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7688
 msgid ""
@@ -11787,6 +12057,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7702
 msgid ""
@@ -11812,6 +12087,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7716
 msgid ""
@@ -11837,6 +12117,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7730
 msgid ""
@@ -11862,6 +12147,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7744
 msgid ""
@@ -11887,6 +12177,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7758
 msgid ""
@@ -11909,6 +12204,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[15]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:7776
 msgid ""
@@ -11933,6 +12233,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:7787
 msgid ""
@@ -11951,6 +12255,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:7799
 msgid ""
@@ -15379,6 +15687,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"deepone\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9760
 msgid ""
@@ -15404,6 +15717,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"engi_separatist\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9774
 msgid ""
@@ -15430,6 +15748,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"engi_separatist_nano\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9788
 msgid ""
@@ -15454,6 +15777,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"shell\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9802
 msgid ""
@@ -15478,6 +15806,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"shell_mechanic\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9816
 msgid ""
@@ -15502,6 +15835,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"shell_scientist\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9830
 msgid ""
@@ -15526,6 +15864,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"shell_guardian\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9844
 msgid ""
@@ -15551,6 +15894,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"shell_radiant\"]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9858
 msgid ""
@@ -15573,6 +15921,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[9]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:9876
 msgid ""
@@ -15597,6 +15950,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:9887
 msgid ""
@@ -15615,6 +15972,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:9899
 msgid ""
@@ -18269,11 +18630,10 @@ msgid ""
 msgstr "Продолжить..."
 
 #: src-en/data/events_special_ddrituals.xml:11509
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKCALLING_FALSERADIANCE_FIGHT_WIN\"]/text"
 msgstr ""
-"Победив корабль Паладинов, вы получите дополнительную награду от Темного "
+"Победив корабль Лжесияния, вы получите дополнительную награду от Темного "
 "Бога за победу над ними. Затем в вашем трюме начинает происходить нечто "
 "необычное..."
 
@@ -18305,6 +18665,11 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKCALLING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Открывается червоточина, и из нее появляется корабль, принадлежащий "
+"Лжесиянию. Хотя они являются врагами Темного Бога, вы удивлены, что он "
+"привел их сюда, но предполагаете, что, возможно, он просто хочет, чтобы вы "
+"двое сразились... Противоположный корабль приближается, готовый к сражению; "
+"приготовьтесь!"
 
 #: src-en/data/events_special_ddrituals.xml:11532
 msgid ""
@@ -18323,6 +18688,11 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKCALLING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Открывается червоточина, и из нее появляется корабль, принадлежащий "
+"Лжесиянию. Хотя они являются врагами Темного Бога, вы удивлены, что он "
+"привел их сюда, но предполагаете, что, возможно, он просто хочет, чтобы вы "
+"двое сразились... Противоположный корабль приближается, готовый к сражению; "
+"приготовьтесь!"
 
 #: src-en/data/events_special_ddrituals.xml:11544
 msgid ""
@@ -18671,9 +19041,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:11771
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_STORMCALLING_HUNGRY\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Позволить ему полакомиться человеческой "
-"жертвой."
+msgstr "(Человеческая жертва) Позволить ему полакомиться человеческой жертвой."
 
 #: src-en/data/events_special_ddrituals.xml:11773
 msgid ""
@@ -26761,6 +27129,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16629
 msgid ""
@@ -26784,6 +27157,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[2]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16643
 msgid ""
@@ -26807,6 +27185,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16657
 msgid ""
@@ -26845,6 +27228,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[@req=\"ddunique_theaberration\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16675
 msgid ""
@@ -26868,6 +27256,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[@req=\"ddunique_theaberration\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16689
 msgid ""
@@ -26891,6 +27284,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE_FIGHT_WIN\"]/choice[@req=\"ddunique_theaberration\"]/event/choice[3]/event/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:16710
 msgid ""
@@ -26915,6 +27313,11 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Вы не знаете, почему они стали мишенью гнева массы чумы души, но вас "
+"охватывает волна понимания: если вы уничтожите корабль, вы можете получить "
+"особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:16721
 msgid ""
@@ -26933,6 +27336,11 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULEATING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Вы не знаете, почему они стали мишенью гнева массы чумы души, но вас "
+"охватывает волна понимания: если вы уничтожите корабль, вы можете получить "
+"особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:16733
 msgid ""
@@ -26965,9 +27373,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:16753
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_SOULWEAVING_HUNGRY\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
-"(Человеческое жертвоприношение) Позволить ему полакомиться человеческой "
-"жертвой."
+msgstr "(Человеческая жертва) Позволить ему полакомиться человеческой жертвой."
 
 #: src-en/data/events_special_ddrituals.xml:16755
 msgid ""
@@ -27824,6 +28230,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULFIRING_FALSERADIANCE_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:17380
 msgid ""
@@ -27848,6 +28259,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULFIRING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. В вашей голове начинают звучать шепоты: "
+"\"...планы изменились... убить этих. . . смерть...\". Вас охватывает волна "
+"понимания: Дети звезд не заботятся о судьбе этого корабля, но если вы "
+"сможете уничтожить его, то, возможно, получите особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:17391
 msgid ""
@@ -27866,6 +28283,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_SOULFIRING_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. В вашей голове начинают звучать шепоты: "
+"\"...планы изменились... убить этих. . . смерть...\". Вас охватывает волна "
+"понимания: Дети звезд не заботятся о судьбе этого корабля, но если вы "
+"сможете уничтожить его, то, возможно, получите особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:17403
 msgid ""
@@ -27994,6 +28417,8 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_ENOUGH\"]/text"
 msgstr ""
+"... пока, в конце концов, что-то не вспыхивает внутри вас. Карта в вашем "
+"разуме, ведущая к вашей награде... теперь вам остается только найти ее."
 
 #: src-en/data/events_special_ddrituals.xml:17510
 msgid ""
@@ -28004,16 +28429,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/text"
 msgstr ""
+"...но это еще не все. Оно требует большего - большей дани, большего "
+"количества жертв и большего количества... крови."
 
 #: src-en/data/events_special_ddrituals.xml:17518
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "(Человеческая жертва) Продолжить ритуал человеческим жертвоприношением."
 
 #: src-en/data/events_special_ddrituals.xml:17520
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
+"Ваш клинок наносит точный удар, и еще одна жертва падает на пол, "
+"окровавленная и жалкая. Когда ее кровь растекается по полу, вы чувствуете, "
+"как взгляд Темного Бога становится еще более пристальным..."
 
 #: src-en/data/events_special_ddrituals.xml:17524
 msgid ""
@@ -28029,11 +28459,17 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr ""
+"(Член экипажа-человек) Продолжить ритуал, принеся в жертву одного из членов "
+"вашего экипажа людей."
 
 #: src-en/data/events_special_ddrituals.xml:17535
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
+"Вы застаете его врасплох, и ваш клинок наносит точный удар. Он падает на "
+"пол, окровавленный и жалкий... К счастью, в глубине души вы понимаете, что "
+"просто делаете то, что необходимо. Когда его кровь растекается по полу, вы "
+"чувствуете, как взгляд Темного Бога становится еще более пристальным..."
 
 #: src-en/data/events_special_ddrituals.xml:17539
 msgid ""
@@ -28048,12 +28484,15 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:17548
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[3]/text"
-msgstr ""
+msgstr "Я не могу себе позволить продолжать ритуал..."
 
 #: src-en/data/events_special_ddrituals.xml:17550
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_LIST_TERRIBLESIGHTS_SACRIFICEGAMBLE_NEEDMORE\"]/choice[3]/event/text"
 msgstr ""
+"В самой глубине вашего существа таится мучительное, жгучее неодобрение, но "
+"Темный Бог знает, что убив вас здесь, он мало что получит. Поэтому он "
+"предлагает вам свою пощаду - и ничего больше. Ритуал провалился."
 
 #: src-en/data/events_special_ddrituals.xml:17553
 msgid ""
@@ -28083,17 +28522,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:17580
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_ILLDRYTHK_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "К сожалению, вы лишились особой награды, уничтожив дерево Иллдритков."
 
 #: src-en/data/events_special_ddrituals.xml:17584
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
-"Вы также слышите гул в своей голове... каким-то образом он остается далеким,"
-" отстраненным. Из останков павших прорастает новая статуя Илл’дритков - и вы"
-" ощущаете: эта предназначена вам. Вы доказали свою силу, и древо Илл’дритков"
-" дарует вам часть своей мощи. Таков путь Илл’дритков."
+"Когда корабль побежден, вы слышите гул в своей голове... каким-то образом он "
+"остается далеким, отстраненным. Из останков павших прорастает новая статуя "
+"Илл’дритков - и вы ощущаете: эта предназначена вам. Вы доказали свою силу, и "
+"древо Илл’дритков дарует вам часть своей мощи. Таков путь Илл’дритков."
 
 #: src-en/data/events_special_ddrituals.xml:17592
 msgid ""
@@ -28175,17 +28613,18 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_HUSKWEAVER_FIGHT_WIN\"]/text"
 msgstr ""
+"К сожалению, вы лишились особой награды, убив всех членов экипажа корабля "
+"зараженного чумой души."
 
 #: src-en/data/events_special_ddrituals.xml:17646
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
-"Кроме того, в результате уничтожения их корабля оставшаяся зараженная чумой "
-"душой материя объединяется в ту небольшую форму, которую они могут собрать: "
-"одну чумную оболочку. Нуждаясь в новом хозяине, она, похоже, немного "
-"привязалась к вашему кораблю... она готова выполнять ваши команды, если "
-"только вы будете ее кормить."
+"В результате уничтожения их корабля оставшаяся зараженная чумой душой "
+"материя объединяется в ту небольшую форму, которую они могут собрать: одну "
+"чумную оболочку. Нуждаясь в новом хозяине, она, похоже, немного привязалась "
+"к вашему кораблю... она готова выполнять ваши команды, если только вы будете "
+"ее кормить."
 
 #: src-en/data/events_special_ddrituals.xml:17654
 msgid ""
@@ -28271,13 +28710,12 @@ msgstr ""
 "вас есть то, ради чего вы сюда пришли."
 
 #: src-en/data/events_special_ddrituals.xml:17724
-#, fuzzy
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_CHOSEN_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
-"Кроме того, исследовав опустевший корабль Избранных, вы обнаруживаете их "
-"оружие... оружие из чистой тьмы. Вы полагаете, что Темный Бог, вероятно, не "
-"будет возражать против того, что вы присвоите его дары. Надеюсь."
+"Исследуя опустевший корабль Избранных, вы обнаруживаете их оружие... оружие "
+"из чистой тьмы. Вы полагаете, что Темный Бог, вероятно, не будет возражать "
+"против того, что вы присвоите его дары. Надеюсь."
 
 #: src-en/data/events_special_ddrituals.xml:17732
 msgid ""
@@ -28443,6 +28881,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_FALSERADIANCE_FIGHT_WIN\"]/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:17854
 msgid ""
@@ -28467,6 +28910,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:17865
 msgid ""
@@ -28485,6 +28932,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TERRIBLESIGHTS_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:17877
 msgid ""
@@ -28516,6 +28967,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_DEEPONE_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:17912
 msgid ""
@@ -28577,6 +29036,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_ENLIGHTENED_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:17968
 msgid ""
@@ -28638,6 +29105,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_DISPARITY_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18024
 msgid ""
@@ -28699,6 +29174,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_SOULPLAGUE_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18080
 msgid ""
@@ -28760,6 +29243,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_ILLDRYTHK_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18131
 msgid ""
@@ -28777,6 +29268,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18142
 msgid ""
@@ -28872,6 +29371,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_HUSKWEAVER_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18207
 msgid ""
@@ -28889,6 +29396,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18218
 msgid ""
@@ -28985,6 +29500,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_CHOSEN_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18299
 msgid ""
@@ -29002,6 +29525,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_CHOSEN_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18310
 msgid ""
@@ -29096,6 +29627,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_TEMPEST_FIGHT_WIN\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18385
 msgid ""
@@ -29113,6 +29652,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_TEMPEST_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18396
 msgid ""
@@ -29200,6 +29747,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_FALSERADIANCE_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"Когда корабль побежден, вы чувствуете, как тепло пронизывает все "
+"пространство вокруг вас. На мгновение ваши чувства притупляются - знакомые "
+"цвета кажутся почти блеклыми, пальцы немеют... пока, в конце концов, все, "
+"что вы можете чувствовать, видеть или трогать... - это это божественное "
+"тепло. Она быстро усиливается, и вы чувствуете, как все ваше существо "
+"начинает гореть - пока внезапно все не возвращается к норме, и вы понимаете, "
+"что получили то, за чем пришли: Сияющее ядро, все еще тлеющее и каким-то "
+"образом оказавшееся в ваших руках."
 
 #: src-en/data/events_special_ddrituals.xml:18453
 msgid ""
@@ -29210,6 +29765,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice/event/text"
 msgstr ""
+"В результате уничтожения их корабля из того, что осталось от большого "
+"Светоносца появляется нечто - по всей видимости, более мелкий экземпляр, "
+"принявший форму Сияющего ядра. Поскольку не способно видеть мир, вы "
+"полагаете, что сможете подчинить его своей воле... но ему потребуется "
+"дополнительное усиление, чтобы служить вам должным образом."
 
 #: src-en/data/events_special_ddrituals.xml:18465
 msgid ""
@@ -29234,6 +29794,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:18476
 msgid ""
@@ -29252,6 +29816,10 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_NEWBORNSTARS_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Странное ощущение охватывает вас, когда тьма снаружи уступает место новой, "
+"чуждой тьме, пронизанной яростным гневом тысячи бдительных звезд. Лжесияние "
+"здесь. Увидев его, вас охватывает волна понимания: если вы уничтожите их "
+"корабль, вы можете получить особую награду."
 
 #: src-en/data/events_special_ddrituals.xml:18488
 msgid ""
@@ -29263,51 +29831,64 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/text"
 msgstr ""
+"...и все, что у вас остается, - это эхо самого себя. Ну и объект вашего "
+"желания... но что это может быть?"
 
 #: src-en/data/events_special_ddrituals.xml:18499
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/text"
 msgstr ""
+"(Божественная форма жизни) Вы - эхо ничтожества. Возьми то, что вам "
+"принадлежит."
 
 #: src-en/data/events_special_ddrituals.xml:18501
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/event/text"
 msgstr ""
+"Действительно, из этих смутных остатков того, что когда-то было "
+"божественным... вы находите проблеск силы - частицу божественности. Пусть "
+"она хорошо вам послужит."
 
 #: src-en/data/events_special_ddrituals.xml:18506
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "Я хочу... этого."
 
 #: src-en/data/events_special_ddrituals.xml:18508
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[2]/event/text"
 msgstr ""
+"Желание было исполнено. Надеюсь, это того стоило... Ваше \"я\" будет вам "
+"благодарно?"
 
 #: src-en/data/events_special_ddrituals.xml:18513
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[3]/text"
-msgstr ""
+msgstr "Я хочу... этого."
 
 #: src-en/data/events_special_ddrituals.xml:18515
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[3]/event/text"
 msgstr ""
+"Желание было исполнено. Надеюсь, это того стоило... Ваше \"я\" будет вам "
+"благодарно?"
 
 #: src-en/data/events_special_ddrituals.xml:18520
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[4]/text"
-msgstr ""
+msgstr "Я хочу... этого."
 
 #: src-en/data/events_special_ddrituals.xml:18522
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_WIN\"]/choice[4]/event/text"
 msgstr ""
+"Желание было исполнено. Надеюсь, это того стоило... Ваше \"я\" будет вам "
+"благодарно?"
 
 #: src-en/data/events_special_ddrituals.xml:18530
 msgid ""
 "data/events_special_ddrituals.xml$//ship[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_THEGATEKEEPER\"]/destroyed/text"
-msgstr ""
+msgstr "Остатки ХРАНИТЕЛЯ ВРАТ начинают исчезать, как и положено отголоскам..."
 
 #: src-en/data/events_special_ddrituals.xml:18533
 msgid ""
@@ -29337,6 +29918,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGATEKEEPER_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... ХРАНИТЕЛЬ ВРАТ.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18559
 msgid ""
@@ -29355,6 +29942,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGATEKEEPER_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... ХРАНИТЕЛЬ ВРАТ.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18576
 msgid ""
@@ -29365,7 +29958,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:18585
 msgid ""
 "data/events_special_ddrituals.xml$//ship[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_THEGODCORE\"]/destroyed/text"
-msgstr ""
+msgstr "Остатки СЕРДЦА БОГА начинают исчезать, как и положено отголоскам..."
 
 #: src-en/data/events_special_ddrituals.xml:18588
 msgid ""
@@ -29395,6 +29988,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGODCORE_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... СЕРДЦЕ БОГА.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18614
 msgid ""
@@ -29413,6 +30012,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGODCORE_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... СЕРДЦЕ БОГА.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18631
 msgid ""
@@ -29423,7 +30028,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:18640
 msgid ""
 "data/events_special_ddrituals.xml$//ship[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_FIGHT_THEGRAVEDIGGER\"]/destroyed/text"
-msgstr ""
+msgstr "Остатки МОГИЛЬЩИКА начинают исчезать, как и положено отголоскам..."
 
 #: src-en/data/events_special_ddrituals.xml:18643
 msgid ""
@@ -29453,6 +30058,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGRAVEDIGGER_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... МОГИЛЬЩИК.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18669
 msgid ""
@@ -29471,6 +30082,12 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DIVINEREMNANTS_BEHOLD_VESSEL_WHATREMAINSOFTHEGRAVEDIGGER_WHATREMAINSOFSENSE_OFTRUTH_OFTHECALENDAR_OFWORDS_OFVALUES_OFRULES_OFMEANING_OFDIGNITY_OFALLTHINGS_AWAKEN_JUDGEOFTHEWORLD\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Пространство вокруг вас разваливается, как будто сама реальность внезапно "
+"рушится под тяжестью ваших забытых обещаний. Вы быстро чувствуете себя... "
+"потерянным. В этом месте даже ваши чувства покинули вас - остались только "
+"вы. Вы и... МОГИЛЬЩИК.\n"
+"\t\t\t\n"
+"\t\t\tПриготовьтесь. Все, что у вас осталось, - это ваше \"я\"."
 
 #: src-en/data/events_special_ddrituals.xml:18686
 msgid ""
