@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 22:44+0000\n"
+"PO-Revision-Date: 2025-07-18 12:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -98,12 +98,13 @@ msgid ""
 msgstr "Н. сумерки"
 
 #: src-en/data/blueprints.xml.append:206
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE\"]/desc"
 msgstr ""
-"Оружие массового поражения, которое, кажется, использует силу самого Темного"
-" Бога."
+"Оружие массового поражения, которое, кажется, использует силу самого Темного "
+"Бога. Выпускает точечный луч, который пробивает большинство щитов, наносит "
+"быстрый урон эрозией и создает нестабильные разлом в пространстве, которые "
+"разрушают помещение цели."
 
 #: src-en/data/blueprints.xml.append:215
 msgid ""
@@ -113,22 +114,26 @@ msgstr "Космическая слеза"
 #: src-en/data/blueprints.xml.append:264
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE_PLAYER\"]/title"
-msgstr ""
+msgstr "Неумолимые сумерки†"
 
 #: src-en/data/blueprints.xml.append:265
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE_PLAYER\"]/short"
-msgstr ""
+msgstr "Н. сумерки†"
 
 #: src-en/data/blueprints.xml.append:266
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE_PLAYER\"]/desc"
 msgstr ""
+"Оружие массового поражения, которое, кажется, использует силу самого Темного "
+"Бога. Выпускает точечный луч, который пробивает большинство щитов, наносит "
+"быстрый урон эрозией и создает нестабильные разлом в пространстве, которые "
+"разрушают помещение цели."
 
 #: src-en/data/blueprints.xml.append:275
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"TWILIGHT_INEXORABLE_PLAYER\"]/spawnCrew/name"
-msgstr ""
+msgstr "Космическая слеза"
 
 #: src-en/data/blueprints.xml.append:324
 msgid ""
@@ -291,12 +296,13 @@ msgid ""
 msgstr "Р. безумие"
 
 #: src-en/data/blueprints.xml.append:773
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_DDOBELISK\"]/desc"
 msgstr ""
 "Особое бомбовое оружие упреждающего действия, способное использовать силу "
-"Темного Бога."
+"владений Темного Бога ценой нескольких боеголовок. Призывает Темный обелиск, "
+"который влияет на множители урона, получаемого экипажем, и периодически "
+"порождает случайный хаос."
 
 #: src-en/data/blueprints.xml.append:782
 msgid ""
@@ -637,147 +643,179 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:5595
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BURSTMISSILE\"]/title"
-msgstr ""
+msgstr "Первый день, \"Правда\""
 
 #: src-en/data/blueprints.xml.append:5596
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BURSTMISSILE\"]/short"
-msgstr ""
+msgstr "\"Правда\""
 
 #: src-en/data/blueprints.xml.append:5597
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BURSTMISSILE\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это ракетное орудие "
+"Светоносцев способно заряжать сразу несколько ракет, каждая из которых "
+"наносит удары по отсекам и накладывает эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:5790
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINLASER\"]/title"
-msgstr ""
+msgstr "Второй день, \"Календарь\""
 
 #: src-en/data/blueprints.xml.append:5791
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINLASER\"]/short"
-msgstr ""
+msgstr "\"Календарь\""
 
 #: src-en/data/blueprints.xml.append:5793
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINLASER\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это лазерное орудие "
+"Светоносцев способно сокращать время перезарядки с каждым выстрелом, а "
+"каждый выстрел наносит отсекам урон и накладывает эффект Сияющего "
+"осквернения."
 
 #: src-en/data/blueprints.xml.append:5989
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_PIERCELASER\"]/title"
-msgstr ""
+msgstr "Третий день, \"Слова\""
 
 #: src-en/data/blueprints.xml.append:5990
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_PIERCELASER\"]/short"
-msgstr ""
+msgstr "\"Слова\""
 
 #: src-en/data/blueprints.xml.append:5992
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_PIERCELASER\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это лазерное орудие "
+"Светоносцев способно пробивать два слоя щита, каждый выстрел наносит отсекам "
+"урон и накладывает эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:6185
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINFOCUS\"]/title"
-msgstr ""
+msgstr "Четвертый день, \"Ценности\""
 
 #: src-en/data/blueprints.xml.append:6186
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINFOCUS\"]/short"
-msgstr ""
+msgstr "\"Ценности\""
 
 #: src-en/data/blueprints.xml.append:6187
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_CHAINFOCUS\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это точечное орудие "
+"Светоносцев способно увеличивать свой урон при каждом выстреле, накладывая "
+"при этом эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:6376
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BREACHBEAM\"]/title"
-msgstr ""
+msgstr "Пятый день, \"Правила\""
 
 #: src-en/data/blueprints.xml.append:6377
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BREACHBEAM\"]/short"
-msgstr ""
+msgstr "\"Правила\""
 
 #: src-en/data/blueprints.xml.append:6378
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_BREACHBEAM\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это лучевое орудие "
+"Светоносцев способно пробивать три слоя щита, каждый выстрел по отсеку "
+"накладывает на него эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:6562
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYION\"]/title"
-msgstr ""
+msgstr "Шестой день, \"Смысл\""
 
 #: src-en/data/blueprints.xml.append:6563
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYION\"]/short"
-msgstr ""
+msgstr "\"Смысл\""
 
 #: src-en/data/blueprints.xml.append:6565
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYION\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это ионное орудие Светоносцев "
+"способно наносить значительный ионный урон за один выстрел, повреждая щиты "
+"при контакте и накладывая эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:6766
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYSHOTGUN\"]/title"
-msgstr ""
+msgstr "Седьмой день, \"Достоинство\""
 
 #: src-en/data/blueprints.xml.append:6767
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYSHOTGUN\"]/short"
-msgstr ""
+msgstr "\"Достоинство\""
 
 #: src-en/data/blueprints.xml.append:6769
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDFALSERADIANCE_HEAVYSHOTGUN\"]/desc"
 msgstr ""
+"Странное, живое орудие из далекой реальности - это осколочное орудие "
+"Светоносцев способно стрелять огромным количеством снарядов, нанося урон "
+"отсекам и накладывая эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:6970
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL\"]/title"
-msgstr ""
+msgstr "Портал Апофеоза"
 
 #: src-en/data/blueprints.xml.append:6971
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL\"]/short"
-msgstr ""
+msgstr "Портал"
 
 #: src-en/data/blueprints.xml.append:6972
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL\"]/desc"
 msgstr ""
+"[Базовая перезарядка: 50] Монолитный портал конструкции Лжесияния, способный "
+"создать связь с неизвестным разрушительным существом."
 
 #: src-en/data/blueprints.xml.append:6973
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL\"]/tooltip"
 msgstr ""
+"Артиллерия: Создает связь с таинственным существом - его атака проявляется в "
+"виде звездного шторма, каждая из которых обладает разной разрушительной "
+"силой в зависимости от своего размера. Чем больше звезда, тем выше ее сила, "
+"скорость и точность."
 
 #: src-en/data/blueprints.xml.append:7006
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSTORM\"]/title"
-msgstr ""
+msgstr "Апофеоз звездного шторма"
 
 #: src-en/data/blueprints.xml.append:7007
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSTORM\"]/short"
-msgstr ""
+msgstr "Звездный шторм"
 
 #: src-en/data/blueprints.xml.append:7008
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSTORM\"]/desc"
 msgstr ""
+"Звездный шторм среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7009
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSTORM\"]/tooltip"
 msgstr ""
+"Звездный шторм среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7018
 msgid ""
