@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-18 12:56+0000\n"
+"PO-Revision-Date: 2025-07-20 07:53+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -825,22 +825,26 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:7210
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSHOWER\"]/title"
-msgstr ""
+msgstr "Апофеоз звездного дождя"
 
 #: src-en/data/blueprints.xml.append:7211
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSHOWER\"]/short"
-msgstr ""
+msgstr "Звездный дождь"
 
 #: src-en/data/blueprints.xml.append:7212
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSHOWER\"]/desc"
 msgstr ""
+"Звездный дождь среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7213
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSHOWER\"]/tooltip"
 msgstr ""
+"Звездный дождь среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7222
 msgid ""
@@ -850,22 +854,26 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:7414
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSPRINKLE\"]/title"
-msgstr ""
+msgstr "Апофеоз звездной россыпи"
 
 #: src-en/data/blueprints.xml.append:7415
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSPRINKLE\"]/short"
-msgstr ""
+msgstr "Звездная россыпь"
 
 #: src-en/data/blueprints.xml.append:7416
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSPRINKLE\"]/desc"
 msgstr ""
+"Звездная россыпь среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7417
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DDAPOTHEOSIS_PORTAL_STARSPRINKLE\"]/tooltip"
 msgstr ""
+"Звездная россыпь среди этого мрачного сна... должно быть, у вас просто "
+"кружится голова."
 
 #: src-en/data/blueprints.xml.append:7424
 msgid ""
@@ -2852,8 +2860,8 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/desc"
 msgstr ""
-"[Базовая перезарядка: 45] Вызывает зловещий, пронзающий луч, который создает"
-" пробоины, порождает голодные тени и полностью уничтожает всех, в кого "
+"[Базовая перезарядка: 45] Вызывает зловещий, пронзающий луч, который создает "
+"пробоины, порождает Голодные тени и полностью уничтожает всех, в кого "
 "попадает."
 
 #: src-en/data/blueprints.xml.append:16379
@@ -2861,7 +2869,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/tooltip"
 msgstr ""
 "Артиллерия: Создает зловещий пронзающий луч, который создает пробоины, "
-"порождает голодные тени и полностью уничтожает всех, в кого попадает."
+"порождает Голодные тени и полностью уничтожает всех, в кого попадает."
 
 #: src-en/data/blueprints.xml.append:16388
 msgid ""
@@ -2882,8 +2890,8 @@ msgstr "Артиллерия"
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/desc"
 msgstr ""
-"[Базовая перезарядка: 45] Вызывает зловещий, пронзающий луч, который создает"
-" пробоины, порождает голодные тени и полностью уничтожает всех, в кого "
+"[Базовая перезарядка: 45] Вызывает зловещий, пронзающий луч, который создает "
+"пробоины, порождает Голодные тени и полностью уничтожает всех, в кого "
 "попадает."
 
 #: src-en/data/blueprints.xml.append:16428
@@ -2891,7 +2899,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/tooltip"
 msgstr ""
 "Артиллерия: Создает зловещий пронзающий луч, который создает пробоины, "
-"порождает голодные тени и полностью уничтожает всех, в кого попадает."
+"порождает Голодные тени и полностью уничтожает всех, в кого попадает."
 
 #: src-en/data/blueprints.xml.append:16437
 msgid ""
@@ -2920,7 +2928,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/tooltip"
 msgstr ""
 "Артиллерия: Выпускает серию из 3 теневых снарядов, похожих на осколочные. "
-"Каждый попавший снаряд с вероятностью 70% призывает голодную тень в целевой "
+"Каждый попавший снаряд с вероятностью 70% призывает Голодную тень в целевой "
 "отсек на 21 секунду."
 
 #: src-en/data/blueprints.xml.append:16488
@@ -2943,16 +2951,16 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/desc"
 msgstr ""
 "[Базовая перезарядка: 14] Выпускает пронзающий луч, который повреждает "
-"системы, призывает голодную тень и создает временную пелену тьмы в отсеке, "
+"системы, призывает Голодную тень и создает временную пелену тьмы в отсеке, "
 "куда попадает."
 
 #: src-en/data/blueprints.xml.append:16538
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/tooltip"
 msgstr ""
-"Артиллерия: Выпускает пронзающий луч, который со 100% вероятностью призывает"
-" голодную тень на 21 секунду и дополнительно создает временную пелену тьмы в"
-" отсеке, в которое попадает, на 12 секунд. С вероятностью 60% вызывает "
+"Артиллерия: Выпускает пронзающий луч, который со 100% вероятностью призывает "
+"Голодную тень на 21 секунду и дополнительно создает временную пелену тьмы в "
+"отсеке, в которое попадает, на 12 секунд. С вероятностью 60% вызывает "
 "пробоины и наносит 2 системных урона."
 
 #: src-en/data/blueprints.xml.append:16547
@@ -3150,133 +3158,149 @@ msgid ""
 msgstr ""
 "Этот дрон, похоже, генерирует внутри себя некую необычную тьму и запускает "
 "физические тени в ваших врагов. Производит два выстрела, каждый выстрел "
-"наносит урон и с вероятностью 70% порождает голодную тень в пораженном "
+"наносит урон и с вероятностью 70% порождает Голодную тень в пораженном "
 "отсеке на 21 секунду."
 
 #: src-en/data/blueprints.xml.append:17125
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Ноль-Нуль]"
 
 #: src-en/data/blueprints.xml.append:17126
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/short"
-msgstr ""
+msgstr "С. ядро [0-Н/Д]"
 
 #: src-en/data/blueprints.xml.append:17127
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения - хотя "
+"создается ощущение, что его можно каким-то образом усилить..."
 
 #: src-en/data/blueprints.xml.append:17142
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERZERO_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17143
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERZERO_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17330
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Нуль]"
 
 #: src-en/data/blueprints.xml.append:17331
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Н/Д]"
 
 #: src-en/data/blueprints.xml.append:17332
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Может быть "
+"привязан к подуровню один Светоносца или повышен до более высокого уровня."
 
 #: src-en/data/blueprints.xml.append:17347
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17348
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17535
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Два-Нуль]"
 
 #: src-en/data/blueprints.xml.append:17536
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/short"
-msgstr ""
+msgstr "С. ядро [2-Н/Д]"
 
 #: src-en/data/blueprints.xml.append:17537
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Может быть "
+"привязан к подуровню два Светоносца или повышен до более высокого уровня."
 
 #: src-en/data/blueprints.xml.append:17552
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17553
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17740
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Три-Нуль]"
 
 #: src-en/data/blueprints.xml.append:17741
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/short"
-msgstr ""
+msgstr "С. ядро [3-Н/Д]"
 
 #: src-en/data/blueprints.xml.append:17742
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Может быть "
+"привязан к подуровню три Светоносца или повышен до более высокого уровня."
 
 #: src-en/data/blueprints.xml.append:17757
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17758
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17945
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Убийценыш]"
 
 #: src-en/data/blueprints.xml.append:17946
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Убийц]"
 
 #: src-en/data/blueprints.xml.append:17947
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Убийценыша - экипаж с непримечательными способностями, но высокими "
+"боевыми характеристиками по сравнению с другими Светоносцами первого уровня."
 
 #: src-en/data/blueprints.xml.append:17962
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_SLAYLING_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17963
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_SLAYLING_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:17976
 msgid ""
@@ -3286,27 +3310,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:18167
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Призменыш]"
 
 #: src-en/data/blueprints.xml.append:18168
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Призм]"
 
 #: src-en/data/blueprints.xml.append:18169
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Призменыша - слабый экипаж, который при смерти накладывает "
+"дополнительный эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:18184
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_PRISMLING_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18185
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_PRISMLING_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18198
 msgid ""
@@ -3316,27 +3344,30 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:18389
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Пепельныш]"
 
 #: src-en/data/blueprints.xml.append:18390
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Пепел]"
 
 #: src-en/data/blueprints.xml.append:18391
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Пепельныша - слабый экипаж, который вызывает возгорание после смерти."
 
 #: src-en/data/blueprints.xml.append:18406
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_CINDERLING_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18407
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_CINDERLING_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18420
 msgid ""
@@ -3346,27 +3377,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:18611
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Разрушеныш]"
 
 #: src-en/data/blueprints.xml.append:18612
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Разруш]"
 
 #: src-en/data/blueprints.xml.append:18613
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Разрушеныша - слабый экипаж, которая игнорирует врагов и быстро "
+"саботирует."
 
 #: src-en/data/blueprints.xml.append:18628
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_BREAKLING_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18629
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_BREAKLING_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18642
 msgid ""
@@ -3376,27 +3411,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:18833
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Один-Душныш]"
 
 #: src-en/data/blueprints.xml.append:18834
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/short"
-msgstr ""
+msgstr "С. ядро [1-Душныш]"
 
 #: src-en/data/blueprints.xml.append:18835
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Душныша - слабый экипаж, который лечит союзников и при смерти "
+"накладывает на ближайших союзников-Светоносцев полупостоянное усиление."
 
 #: src-en/data/blueprints.xml.append:18850
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_SPIRITLING_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18851
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERONE_SPIRITLING_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:18864
 msgid ""
@@ -3406,27 +3445,32 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:19055
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_CLUSTERULAR\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Два-Кластуляр]"
 
 #: src-en/data/blueprints.xml.append:19056
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_CLUSTERULAR\"]/short"
-msgstr ""
+msgstr "С. ядро [2-Класт]"
 
 #: src-en/data/blueprints.xml.append:19057
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_CLUSTERULAR\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Кластуляра - неплохой экипаж, способный телепортироваться между "
+"кораблями, который после гибели разделяется на несколько Целуляров, каждый "
+"из которых способен ремонтировать системы и поддерживать себя."
 
 #: src-en/data/blueprints.xml.append:19072
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_CLUSTERULAR_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19073
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_CLUSTERULAR_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19086
 msgid ""
@@ -3436,27 +3480,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:19277
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_ANGELULAR\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Два-Ангеляр]"
 
 #: src-en/data/blueprints.xml.append:19278
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_ANGELULAR\"]/short"
-msgstr ""
+msgstr "С. ядро [2-Ангел]"
 
 #: src-en/data/blueprints.xml.append:19279
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_ANGELULAR\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Ангеляра - неплохой экипаж, который способен пассивно лечить союзных "
+"Светоносцев на том же корабле."
 
 #: src-en/data/blueprints.xml.append:19294
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_ANGELULAR_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19295
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_ANGELULAR_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19308
 msgid ""
@@ -3466,27 +3514,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:19499
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_TORMENTULAR\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Два-Торментуляр]"
 
 #: src-en/data/blueprints.xml.append:19500
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_TORMENTULAR\"]/short"
-msgstr ""
+msgstr "С. ядро [2-Тормен]"
 
 #: src-en/data/blueprints.xml.append:19501
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_TORMENTULAR\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Торментуляра - грозный экипаж, способный быстро оглушать врагов и "
+"быстро ломать двери."
 
 #: src-en/data/blueprints.xml.append:19516
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_TORMENTULAR_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19517
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_TORMENTULAR_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19530
 msgid ""
@@ -3496,27 +3548,32 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:19721
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_WARLOCKULAR\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Два-Варлокуляр]"
 
 #: src-en/data/blueprints.xml.append:19722
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_WARLOCKULAR\"]/short"
-msgstr ""
+msgstr "С. ядро [2-Варл]"
 
 #: src-en/data/blueprints.xml.append:19723
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO_WARLOCKULAR\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Варлокуляра - слабый экипаж, способный наносить урон корпусу/"
+"системам и оглушать врагов, если его удается сохранить в живых достаточно "
+"долго."
 
 #: src-en/data/blueprints.xml.append:19738
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_WARLOCKULAR_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19739
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_WARLOCKULAR_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19752
 msgid ""
@@ -3526,27 +3583,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:19943
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_TIMELUX\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Три-Времятель]"
 
 #: src-en/data/blueprints.xml.append:19944
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_TIMELUX\"]/short"
-msgstr ""
+msgstr "С. ядро [3-Время]"
 
 #: src-en/data/blueprints.xml.append:19945
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_TIMELUX\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Времятеля - грозный экипаж, способный периодически замораживать "
+"ближайших врагов и лишать их возможности действовать."
 
 #: src-en/data/blueprints.xml.append:19960
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_TIMELUX_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19961
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_TIMELUX_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:19974
 msgid ""
@@ -3556,27 +3617,31 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:20165
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_DEVOURLUX\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Три-Поглотитель]"
 
 #: src-en/data/blueprints.xml.append:20166
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_DEVOURLUX\"]/short"
-msgstr ""
+msgstr "С. ядро [3-Поглот]"
 
 #: src-en/data/blueprints.xml.append:20167
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_DEVOURLUX\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Поглотителя - грозный экипаж, который пассивно поглощает ОЗ "
+"ближайших союзных Светоносцев и преобразует его в свою силу."
 
 #: src-en/data/blueprints.xml.append:20182
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_DEVOURLUX_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:20183
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_DEVOURLUX_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:20196
 msgid ""
@@ -3586,27 +3651,32 @@ msgstr "Светоносец"
 #: src-en/data/blueprints.xml.append:20387
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_COMMANDLUX\"]/title"
-msgstr ""
+msgstr "Сияющее ядро [Три-Повелитель]"
 
 #: src-en/data/blueprints.xml.append:20388
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_COMMANDLUX\"]/short"
-msgstr ""
+msgstr "С. ядро [3-Повел]"
 
 #: src-en/data/blueprints.xml.append:20389
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE_COMMANDLUX\"]/desc"
 msgstr ""
+"Живой Светоносец, способный питаться от системы Контроля дронами. Пробивает "
+"щиты, поражает помещения эрозией и эффектом Сияющего осквернения. Также "
+"создает Повелителя - грозный экипаж, которая пассивно предоставляет союзным "
+"Светоносцам первого уровня, находящимся поблизости, уникальные способности, "
+"основанные на их врожденных силах."
 
 #: src-en/data/blueprints.xml.append:20404
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_COMMANDLUX_COMBAT\"]/title"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:20405
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTHREE_COMMANDLUX_COMBAT\"]/short"
-msgstr ""
+msgstr "Луч сияющего ядра"
 
 #: src-en/data/blueprints.xml.append:20418
 msgid ""
@@ -3762,15 +3832,15 @@ msgid ""
 msgstr "Матка [П]"
 
 #: src-en/data/blueprints.xml.append:21040
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DISPARITY_BROODMOTHERTOG_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Странный дрон, хранящий внутри себя древнюю тьму, которая периодически разрастается и порождает голодные тени.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Странный дрон, в котором таится древняя "
+"тьма, которая периодически разрастается и порождает Голодные тени.\n"
 "    \n"
 "-175 ОЗ, не может атаковать или совершать диверсии.\n"
 "-0.8x скорость передвижения\n"
-"-Каждые 6 секунд порождает голодную тень, которая живет 21 секунду."
+"-Каждые 4 секунд порождает Голодную тень, которая живет 21 секунду."
 
 #: src-en/data/blueprints.xml.append:21055
 msgid ""
@@ -3783,15 +3853,15 @@ msgid ""
 msgstr "Матка [А]"
 
 #: src-en/data/blueprints.xml.append:21057
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DISPARITY_BROODMOTHERTOG_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Странный дрон, хранящий внутри себя древнюю тьму, которая периодически разрастается и порождает голодные тени.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Странный дрон, в котором таится древняя тьма, "
+"которая периодически разрастается и порождает Голодные тени.\n"
 "    \n"
 "-175 ОЗ, не может атаковать или совершать диверсии.\n"
 "-0.8x скорость передвижения\n"
-"-Каждые 6 секунд порождает голодную тень, которая живет 21 секунду."
+"-Каждые 4 секунд порождает Голодную тень, которая живет 21 секунду."
 
 #: src-en/data/blueprints.xml.append:21080
 msgid ""
@@ -3947,15 +4017,19 @@ msgid ""
 msgstr "Т. Бездны I [П]"
 
 #: src-en/data/blueprints.xml.append:21214
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение бездны, позволяющее ему проклинать врагов и благословлять союзников\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Этот, в частности, получил Благословение "
+"бездны, позволяющее ему проклинать врагов и благословлять союзников\n"
 "    \n"
 "-225 ОЗ, 1.1x боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21229
 msgid ""
@@ -3968,15 +4042,19 @@ msgid ""
 msgstr "Т. Бездны I [А]"
 
 #: src-en/data/blueprints.xml.append:21231
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение бездны, позволяющее ему проклинать врагов и благословлять союзников\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Этот, в частности, получил Благословение бездны, "
+"позволяющее ему проклинать врагов и благословлять союзников\n"
 "    \n"
 "-225 ОЗ, 1.1x боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21251
 msgid ""
@@ -3989,15 +4067,21 @@ msgid ""
 msgstr "Т. Бездны II [П]"
 
 #: src-en/data/blueprints.xml.append:21253
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения бездны он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благодаря усилению Благословения бездны он "
+"получил дополнительные возможности, увеличив свои характеристики, "
+"продолжительность действия создаваемых благословений и частоту, с которой он "
+"может их порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21268
 msgid ""
@@ -4010,15 +4094,21 @@ msgid ""
 msgstr "Т. Бездны II [А]"
 
 #: src-en/data/blueprints.xml.append:21270
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения бездны он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благодаря усилению Благословения бездны он "
+"получил дополнительные возможности, увеличив свои характеристики, "
+"продолжительность действия создаваемых благословений и частоту, с которой он "
+"может их порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21290
 msgid ""
@@ -4031,15 +4121,20 @@ msgid ""
 msgstr "Т. Бездны III [П]"
 
 #: src-en/data/blueprints.xml.append:21292
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение бездны было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благословение бездны было доведено до "
+"предела, значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21307
 msgid ""
@@ -4052,15 +4147,20 @@ msgid ""
 msgstr "Т. Бездны III [А]"
 
 #: src-en/data/blueprints.xml.append:21309
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение бездны было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благословение бездны было доведено до предела, "
+"значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать благословение бездны, высасывая здоровье из врагов в отмеченных им отсеках и исцелять Тамплиеров-союзников в течение определенного времени. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать благословение бездны, высасывая "
+"здоровье из врагов в отмеченных им отсеках и исцелять как себя, так и "
+"Тамплиеров-союзников в течение определенного времени. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21329
 msgid ""
@@ -4073,15 +4173,20 @@ msgid ""
 msgstr "Звезд. Тампл. I [П]"
 
 #: src-en/data/blueprints.xml.append:21331
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в свою очередь, получил Благословение звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Этот, в свою очередь, получил "
+"Благословение звезд, позволяющее ему проклинать врагов и благословлять "
+"союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21346
 msgid ""
@@ -4094,15 +4199,19 @@ msgid ""
 msgstr "Звезд. Тампл. I [А]"
 
 #: src-en/data/blueprints.xml.append:21348
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в свою очередь, получил Благословение звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Этот, в свою очередь, получил Благословение "
+"звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21368
 msgid ""
@@ -4115,15 +4224,20 @@ msgid ""
 msgstr "Звезд. Тампл. II [П]"
 
 #: src-en/data/blueprints.xml.append:21370
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в свою очередь, получил Благословение звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Этот, в свою очередь, получил "
+"Благословение звезд, позволяющее ему проклинать врагов и благословлять "
+"союзников.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2x урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21385
 msgid ""
@@ -4136,15 +4250,19 @@ msgid ""
 msgstr "Звезд. Тампл. II [А]"
 
 #: src-en/data/blueprints.xml.append:21387
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в свою очередь, получил Благословение звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Этот, в свою очередь, получил Благословение "
+"звезд, позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2x урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21407
 msgid ""
@@ -4157,15 +4275,20 @@ msgid ""
 msgstr "Звезд. Тампл. III [П]"
 
 #: src-en/data/blueprints.xml.append:21409
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение бездны было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благословение бездны было доведено до "
+"предела, значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4x урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21424
 msgid ""
@@ -4178,15 +4301,20 @@ msgid ""
 msgstr "Звезд. Тампл. III [А]"
 
 #: src-en/data/blueprints.xml.append:21426
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение бездны было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благословение бездны было доведено до предела, "
+"значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4x урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же показатели у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение звезд, ослабляя "
+"боевой урон/сопротивление врагов в отмеченных им отсеках и повышая эти же "
+"показатели, как у себя, так и у союзных Тамплиеров. Этот эффект может "
+"складываться."
 
 #: src-en/data/blueprints.xml.append:21446
 msgid ""
@@ -4199,15 +4327,19 @@ msgid ""
 msgstr "Тампл. Топь I [П]"
 
 #: src-en/data/blueprints.xml.append:21448
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение топи, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Этот, в частности, получил Благословение "
+"топи, позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"союзных Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21463
 msgid ""
@@ -4220,15 +4352,19 @@ msgid ""
 msgstr "Тампл. Топь I [А]"
 
 #: src-en/data/blueprints.xml.append:21465
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение топи, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Этот, в частности, получил Благословение топи, "
+"позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21485
 msgid ""
@@ -4241,15 +4377,21 @@ msgid ""
 msgstr "Тампл. Топь II [П]"
 
 #: src-en/data/blueprints.xml.append:21487
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения топи он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благодаря усилению Благословения топи он "
+"получил дополнительные возможности, увеличив свои характеристики, "
+"продолжительность действия создаваемых благословений и частоту, с которой он "
+"может их порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21502
 msgid ""
@@ -4262,15 +4404,21 @@ msgid ""
 msgstr "Тампл. Топь II [А]"
 
 #: src-en/data/blueprints.xml.append:21504
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения топи он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благодаря усилению Благословения топи он получил "
+"дополнительные возможности, увеличив свои характеристики, продолжительность "
+"действия создаваемых благословений и частоту, с которой он может их "
+"порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21524
 msgid ""
@@ -4283,15 +4431,20 @@ msgid ""
 msgstr "Тампл. Топь III [П]"
 
 #: src-en/data/blueprints.xml.append:21526
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение топи было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благословение топи было доведено до "
+"предела, значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21541
 msgid ""
@@ -4304,15 +4457,20 @@ msgid ""
 msgstr "Тампл. Топь III [А]"
 
 #: src-en/data/blueprints.xml.append:21543
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение топи было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благословение топи было доведено до предела, "
+"значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение топи, снижая скорость передвижения/ремонта противника в отмеченных им отсеках и увеличивая скорость передвижения/урон по дверям у союзных Тамплиеров. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение топи, снижая "
+"скорость передвижения/ремонта противника в отмеченных им отсеках и "
+"увеличивая скорость передвижения/урон по дверям, как у себя, так и у союзных "
+"Тамплиеров. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21563
 msgid ""
@@ -4325,15 +4483,19 @@ msgid ""
 msgstr "Тампл. Рас. I [П]"
 
 #: src-en/data/blueprints.xml.append:21565
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение рассвета, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Этот, в частности, получил Благословение "
+"рассвета, позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя как врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21580
 msgid ""
@@ -4346,15 +4508,19 @@ msgid ""
 msgstr "Тампл. Рас. I [А]"
 
 #: src-en/data/blueprints.xml.append:21582
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Этот, в частности, получил Благословение рассвета, позволяющее ему проклинать врагов и благословлять союзников.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Этот, в частности, получил Благословение "
+"рассвета, позволяющее ему проклинать врагов и благословлять союзников.\n"
 "    \n"
 "-225 ОЗ, 1.1х боевой урон\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21602
 msgid ""
@@ -4367,15 +4533,21 @@ msgid ""
 msgstr "Тампл. Рас. II [П]"
 
 #: src-en/data/blueprints.xml.append:21604
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения рассвета он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благодаря усилению Благословения рассвета "
+"он получил дополнительные возможности, увеличив свои характеристики, "
+"продолжительность действия создаваемых благословений и частоту, с которой он "
+"может их порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21619
 msgid ""
@@ -4388,15 +4560,21 @@ msgid ""
 msgstr "Тампл. Рас. II [А]"
 
 #: src-en/data/blueprints.xml.append:21621
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благодаря усилению Благословения рассвета он получил дополнительные возможности, увеличив свои характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их порождать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благодаря усилению Благословения рассвета он "
+"получил дополнительные возможности, увеличив свои характеристики, "
+"продолжительность действия создаваемых благословений и частоту, с которой он "
+"может их порождать.\n"
 "    \n"
 "-300 ОЗ, 1.5х боевой урон, 2х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21641
 msgid ""
@@ -4409,15 +4587,20 @@ msgid ""
 msgstr "Тампл. Рас. III [П]"
 
 #: src-en/data/blueprints.xml.append:21643
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_DEFEND\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение рассвета было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Эти дроны служат одним из многочисленных "
+"даров Темного Бога Просветленным. Благословение рассвета было доведено до "
+"предела, значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21658
 msgid ""
@@ -4430,15 +4613,20 @@ msgid ""
 msgstr "Тампл. Рас. III [А]"
 
 #: src-en/data/blueprints.xml.append:21660
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/desc"
 msgstr ""
-"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров Темного Бога Просветленным. Благословение рассвета было доведено до предела, значительно увеличив его характеристики, продолжительность действия создаваемых благословений и частоту, с которой он может их создавать.\n"
+"[ТЕКУЩИЙ РЕЖИМ: Абордажный] Эти дроны служат одним из многочисленных даров "
+"Темного Бога Просветленным. Благословение рассвета было доведено до предела, "
+"значительно увеличив его характеристики, продолжительность действия "
+"создаваемых благословений и частоту, с которой он может их создавать.\n"
 "    \n"
 "-400 ОЗ, 2х боевой урон, 4х урон по дверям\n"
 "-0.5х скорость передвижения\n"
-"-Сражаясь с врагами, он может использовать Благословение рассвета, увеличивая урон от опасностей для противника, повышая огнестойкость союзных Тамплиеров и дополнительно заставляя врагов и союзных Тамплиеров вырабатывать кислород. Этот эффект может складываться."
+"-Сражаясь с врагами, он может использовать Благословение рассвета, "
+"увеличивая урон от опасностей для противника, повышая огнестойкость союзных "
+"Тамплиеров и дополнительно заставляя врагов, так и союзных Тамплиеров "
+"вырабатывать кислород. Этот эффект может складываться."
 
 #: src-en/data/blueprints.xml.append:21673
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"deepone\"]/desc"
@@ -4488,16 +4676,15 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"deeponecultist\"]/shor
 msgstr "Просветленный"
 
 #: src-en/data/blueprints.xml.append:21722
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"deeponecultist\"]/powerList/power[1]"
 msgstr ""
-"Излучает мощную успокаивающую ауру, которая : увеличивает скорость "
-"передвижения, скорость ремонта, урон в бою, скорость саботажа на 20%, а "
-"также макс. ОЗ на 20, и снижающую получаемый урон на 10% для всего "
-"остального союзного экипажа на том же корабле. Может активировать свою "
-"способность, чтобы распространить эти эффекты на противоположный корабль. "
-"Получает двойной урон и не может сражаться."
+"Излучает пассивную ауру, увеличивающую скорость передвижения (20%), скорость "
+"ремонта (20%), урон (20%), скорость саботажа (20%), мак. здоровья (+20) и "
+"уменьшающую получаемый урон (10%) для всех других союзников на том же "
+"корабле. Может активировать свою способность, чтобы пассивные эффекты "
+"распространялись на оба корабля, а также сделать союзные Голодные тени "
+"управляемыми. Получает в 1.5х урона от всех источников и не может сражаться."
 
 #: src-en/data/blueprints.xml.append:21723
 msgid ""
@@ -4599,13 +4786,15 @@ msgstr ""
 "1.1x, а скорость саботажа на 1.2x."
 
 #: src-en/data/blueprints.xml.append:21781
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thescarred\"]/desc"
 msgstr ""
-"Этот глубоководный был отверженный своими сородичами и их Темным Богом, но он обрел силу, чтобы противостоять им всем.\n"
+"Этот глубоководный был отвергнут как своими сородичами, так и своим Темным "
+"Богом, и тем не менее... похоже, что каким-то образом он обрел силу "
+"сопротивляться им обоим.\n"
 "\n"
-"\tНаследует характеристики глубоководных: 140 здоровья, на 40% медленнее передвижение, 60% сопротивления удушью и на 40% получает больше урона от огня"
+"\tНаследует характеристики глубоководных: 140 здоровья, на 40% медленнее "
+"передвижение, 60% сопротивления удушью и на 40% получает больше урона от огня"
 
 #: src-en/data/blueprints.xml.append:21784
 msgid ""
@@ -4626,11 +4815,12 @@ msgstr ""
 "разрыв в пространстве-времени."
 
 #: src-en/data/blueprints.xml.append:21794
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thescarredascended\"]/desc"
 msgstr ""
-"Этот глубоководный был ОТ-ВЕРГ-НУТ своими сородичами и их ЛОЖ-НЫМ Богом, но он обрел силу, чтобы ВОЗ-НЕС-ТИСЬ самому.\n"
+"Этот глубоководный был ОТ-ВЕРГ-НУТ как своими сородичами и и своим ЛОЖ-НЫМ "
+"Богом, и все же... кажется, что каким-то образом он обрел силу, чтобы "
+"ВОЗ-НЕС-ТИСЬ.\n"
 "\t\n"
 "\tНаследует характеристики глубоководных: ТЕПЕРЬ Я ГО-РАЗ-ДО СИЛЬ-НЕЕ"
 
@@ -7621,21 +7811,18 @@ msgid ""
 msgstr "Быстро распадется, если разлом будет закрыт."
 
 #: src-en/data/blueprints.xml.append:22879
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/desc"
 msgstr ""
-"Этот странный комплект разумной брони пышет невиданной силой. На его "
-"нагрудной пластине написано имя: \"ЭВЕЛИН\"."
+"Крылья Бури - странный комплект разумной брони пышет невиданной силой. На "
+"его нагрудной пластине написано имя: \"ЭВЕЛИН\"."
 
 #: src-en/data/blueprints.xml.append:22880
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/title"
-msgstr "Ультима броня"
+msgstr "Темные крылья"
 
 #: src-en/data/blueprints.xml.append:22881
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/short"
-msgstr "Ульт. броня"
+msgstr "Крылья"
 
 #: src-en/data/blueprints.xml.append:22886
 msgid ""
@@ -7647,35 +7834,30 @@ msgstr ""
 "боевого урона/урона при саботаже, 0.5х скорости передвижения)."
 
 #: src-en/data/blueprints.xml.append:22887
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/powerList/power[2]"
 msgstr ""
-"Способность перезаряжается медленно, но при этом поражает врагов в том же "
-"отсеке заклинанием Знамение Бури (ускоряя его). Броня способна на "
-"разрушительное превращение, когда ее способность заряжена, полностью "
-"исцеляя, вызывая Вихрь Бури, нанося урон врагам по всему кораблю и вызывая "
-"Бурю молний."
+"Медленно перезаряжает свою способность, но при этом поражает врагов в том же "
+"отсеке заклинанием Знамение Бури. Броня способна на разрушительное "
+"превращение, когда ее способность заряжена, полностью исцеляя, вызывая Вихрь "
+"Бури, нанося урон врагам по всему кораблю и вызывая Бурю молний."
 
 #: src-en/data/blueprints.xml.append:22891
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/desc"
 msgstr ""
-"Этот странный комплект разумной брони пышет невиданной силой. На его "
-"нагрудной пластине написано имя: \"ЭВЕЛИН\"."
+"Крылья бури - странный комплект разумной брони пышет невиданной силой. На "
+"его нагрудной пластине написано имя: \"ЭВЕЛИН\"."
 
 #: src-en/data/blueprints.xml.append:22892
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/title"
-msgstr "Ультима броня"
+msgstr "Темные крылья"
 
 #: src-en/data/blueprints.xml.append:22893
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/short"
-msgstr "Ульт. броня"
+msgstr "Крылья"
 
 #: src-en/data/blueprints.xml.append:22898
 msgid ""
@@ -7687,34 +7869,29 @@ msgstr ""
 "боевого урона/урона при саботаже, 0.5х скорости передвижения)."
 
 #: src-en/data/blueprints.xml.append:22899
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor_enemy\"]/powerList/power[2]"
 msgstr ""
 "Способность перезаряжается медленно, но при этом поражает врагов в том же "
-"отсеке заклинанием Знамение Бури (ускоряя его). Броня способна на "
-"разрушительное превращение, когда ее способность заряжена, полностью "
-"исцеляя, вызывая Вихрь Бури, нанося урон врагам по всему кораблю и вызывая "
-"Бурю молний."
+"отсеке заклинанием Знамение Бури. Броня способна на разрушительное "
+"превращение, когда ее способность заряжена, полностью исцеляя, вызывая Вихрь "
+"Бури, нанося урон врагам по всему кораблю и вызывая Бурю молний."
 
 #: src-en/data/blueprints.xml.append:22903
-#, fuzzy
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/desc"
 msgstr ""
-"УЛЬТИМА_СИЛА:ОШИБКА:ПЕРЕПОЛНЕНИЕ_ЦЕЛОГО.ВЫПОЛНЕНИЕ_КОМАНДЫ:УНИВЕРСАЛЬНОЕ_ИСТРЕБЛЕНИЕ.ЗАПРОС:СУБЪЕКТ_ЭВЕЛИН.СТРОКА:\"Ты"
-" смотришь?\""
+"УЛЬТИМА_СИЛА:ОШИБКА:ПЕРЕПОЛНЕНИЕ_ЦЕЛОГО.ВЫПОЛНЕНИЕ_КОМАНДЫ:РАСКОЛ_НЕБЕС.ЗАПРОС:СУБЪЕКТ_ЭВЕЛИН.СТРОКА:"
+"\"Ты смотришь?\""
 
 #: src-en/data/blueprints.xml.append:22904
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/title"
-msgstr "Ультима броня"
+msgstr "Темные крылья"
 
 #: src-en/data/blueprints.xml.append:22905
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA\"]/short"
-msgstr "Ульт. броня"
+msgstr "Крылья"
 
 #: src-en/data/blueprints.xml.append:22910
 msgid ""
@@ -7733,24 +7910,21 @@ msgstr ""
 "форму через 13 секунд."
 
 #: src-en/data/blueprints.xml.append:22915
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/desc"
 msgstr ""
-"УЛЬТИМА_СИЛА:ОШИБКА:ПЕРЕПОЛНЕНИЕ_ЦЕЛОГО.ВЫПОЛНЕНИЕ_КОМАНДЫ:УНИВЕРСАЛЬНОЕ_ИСТРЕБЛЕНИЕ.ЗАПРОС:СУБЪЕКТ_ЭВЕЛИН.СТРОКА:\"Ты"
-" смотришь?\""
+"УЛЬТИМА_СИЛА:ОШИБКА:ПЕРЕПОЛНЕНИЕ_ЦЕЛОГО.ВЫПОЛНЕНИЕ_КОМАНДЫ:РАСКОЛ_НЕБЕС.ЗАПРОС:СУБЪЕКТ_ЭВЕЛИН.СТРОКА:"
+"\"Ты смотришь?\""
 
 #: src-en/data/blueprints.xml.append:22916
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/title"
-msgstr "Ультима броня"
+msgstr "Темные крылья"
 
 #: src-en/data/blueprints.xml.append:22917
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFULTIMA_enemy\"]/short"
-msgstr "Ульт. броня"
+msgstr "Крылья"
 
 #: src-en/data/blueprints.xml.append:22922
 msgid ""
@@ -7795,14 +7969,14 @@ msgstr ""
 "(0.5x). Невосприимчив к огню/удушению/контролю разума."
 
 #: src-en/data/blueprints.xml.append:22935
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_stormborn_spawn\"]/powerList/power[2]"
 msgstr ""
 "Медленно заряжает свою способность, но при этом поражает врагов в том же "
-"отсеке заклинанием Знамением Бури (ускоряя его). Когда способность заряжена,"
-" она автоматически активируется и вызывает на вражеском корабле 3 болта Бури"
-" молний."
+"отсеке заклинанием Знамением Бури и увеличивает скорость восстановления "
+"способностей ближайшего экипажей, связанного с Бурей. Когда способность "
+"заряжена, она автоматически активируется и вызывает на вражеском корабле 3 "
+"болта Бури молний."
 
 #: src-en/data/blueprints.xml.append:22939
 msgid ""
@@ -7831,14 +8005,14 @@ msgstr ""
 "(0.5x). Невосприимчив к огню/удушению/контролю разума."
 
 #: src-en/data/blueprints.xml.append:22947
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerList/power[2]"
 msgstr ""
 "Медленно заряжает свою способность, но при этом поражает врагов в том же "
-"отсеке заклинанием Знамением Бури (ускоряя его). Когда способность заряжена,"
-" она автоматически активируется и вызывает на вражеском корабле 3 болта Бури"
-" молний."
+"отсеке заклинанием Знамением Бури и увеличивает скорость восстановления "
+"способностей ближайшего экипажей, связанного с Бурей. Когда способность "
+"заряжена, она автоматически активируется и вызывает на вражеском корабле 3 "
+"болта Бури молний."
 
 #: src-en/data/blueprints.xml.append:22951
 msgid ""
@@ -7865,14 +8039,14 @@ msgstr ""
 "какие-либо действия. Высасывает энергию из систем противника."
 
 #: src-en/data/blueprints.xml.append:22959
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_thunder_blight\"]/powerList/power[2]"
 msgstr ""
 "Способность перезаряжается медленно, но при этом поражает врагов в том же "
-"отсеке заклинанием Знамения Бури (ускоряя его). Способность заряжается, "
-"только если в отсеке находятся враги, но автоматически активируется, "
-"ионизируя и вызывая в комнате Вихрь бури."
+"отсеке заклинанием Знамения Бури. Способность заряжается, только если в "
+"отсеке находятся враги, но автоматически активируется, ионизируя, вызывая в "
+"комнате Вихрь бури и значительно замедляя скорость передвижения врагов и "
+"заставляет их получать двойной урон от всех источников."
 
 #: src-en/data/blueprints.xml.append:22963
 msgid ""
@@ -7988,15 +8162,15 @@ msgstr "Избранный"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_chosen\"]/powerList/power[1]"
 msgstr ""
-"Позволяет управлять голодными тенями на том же корабле и сам считается одной"
-" из целей для получения усилений от них."
+"Позволяет управлять Голодными тенями на том же корабле и сам считается одной "
+"из целей для получения усилений от них."
 
 #: src-en/data/blueprints.xml.append:23009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_chosen\"]/powerList/power[2]"
 msgstr ""
 "Способность полупостоянно окутывает помещение тьмой, накладывая на врагов "
-"эффект Утонуть в глубине и после смерти превращает их в союзные голодные "
+"эффект Утонуть в глубине и после смерти превращает их в союзные Голодные "
 "тени."
 
 #: src-en/data/blueprints.xml.append:23013
@@ -8951,13 +9125,14 @@ msgstr ""
 "но уязвима к огню."
 
 #: src-en/data/blueprints.xml.append:23357
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk\"]/powerList/power[2]"
 msgstr ""
 "Враги в одной отсеке заражаются чумой души, а после смерти она оскверняет "
 "отсек чумой. Способность порождает трех случайных оболочек во вражеских "
-"отсеках."
+"отсеках. Оболочки, созданные таким образом, не подвержены временной слабости/"
+"уязвимости, которая обычно влияет на большинство только что появившихся "
+"оболочек."
 
 #: src-en/data/blueprints.xml.append:23361
 msgid ""
@@ -8985,13 +9160,14 @@ msgstr ""
 "но уязвима к огню."
 
 #: src-en/data/blueprints.xml.append:23369
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerList/power[2]"
 msgstr ""
 "Враги в одной отсеке заражаются чумой души, а после смерти она оскверняет "
 "отсек чумой. Способность порождает трех случайных оболочек во вражеских "
-"отсеках."
+"отсеках. Оболочки, созданные таким образом, не подвержены временной слабости/"
+"уязвимости, которая обычно влияет на большинство только что появившихся "
+"оболочек."
 
 #: src-en/data/blueprints.xml.append:23373
 msgid ""
@@ -9019,13 +9195,14 @@ msgstr ""
 "души для большинства эффектов чумы души."
 
 #: src-en/data/blueprints.xml.append:23383
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_shellcultist\"]/powerList/power[2]"
 msgstr ""
 "Активная способность: Взрывается, нанося большой урон себе, чтобы призвать "
 "случайную чумную оболочку на вражеский корабль. После этого медленно "
-"восстанавливает здоровье."
+"восстанавливает здоровье. Оболочки, созданные таким образом, не подвержены "
+"временной слабости/уязвимости, которая обычно влияет на большинство только "
+"что появившихся оболочек."
 
 #: src-en/data/blueprints.xml.append:23387
 msgid ""
@@ -9053,13 +9230,14 @@ msgstr ""
 "души для большинства эффектов чумы души."
 
 #: src-en/data/blueprints.xml.append:23397
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_shellcultist_enemy\"]/powerList/power[2]"
 msgstr ""
 "Активная способность: Взрывается, нанося большой урон себе, чтобы призвать "
 "случайную чумную оболочку на вражеский корабль. После этого медленно "
-"восстанавливает здоровье."
+"восстанавливает здоровье. Оболочки, созданные таким образом, не подвержены "
+"временной слабости/уязвимости, которая обычно влияет на большинство только "
+"что появившихся оболочек."
 
 #: src-en/data/blueprints.xml.append:23401
 msgid ""
@@ -9481,8 +9659,8 @@ msgstr "Статуя"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_voidroot\"]/powerList/power[1]"
 msgstr ""
-"Мутаген корень пустоты: Считается голодной тенью для целей получения и "
-"применения баффов от них. Способность Туман призывает двух голодных теней и "
+"Мутаген корень пустоты: Считается Голодной тенью для целей получения и "
+"применения баффов от них. Способность Туман призывает двух Голодных теней и "
 "накладывает на врагов эффект Утонуть в глубине."
 
 #: src-en/data/blueprints.xml.append:23573
@@ -9820,14 +9998,13 @@ msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell\"]/shor
 msgstr "Серафим"
 
 #: src-en/data/blueprints.xml.append:23725
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell\"]/powerList/power[1]"
 msgstr ""
 "Имеет сопротивление урону от ракушек, то есть получает 0.6х урона в бою, "
 "наносит 1.5х урона в бою, получает 0.5х урона от удушья, имеет иммунитет к "
-"контролю разума и исцеляется от огня. Медленно восстанавливает здоровье и "
-"может телепортироваться куда угодно."
+"контролю разума и исцеляется от огня. Медленно регенерирует здоровья после "
+"задержки и может телепортироваться в любое место."
 
 #: src-en/data/blueprints.xml.append:23726
 msgid ""
@@ -9855,14 +10032,13 @@ msgid ""
 msgstr "Серафим"
 
 #: src-en/data/blueprints.xml.append:23737
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell_enemy\"]/powerList/power[1]"
 msgstr ""
 "Имеет сопротивление урону от ракушек, то есть получает 0.6х урона в бою, "
 "наносит 1.5х урона в бою, получает 0.5х урона от удушья, имеет иммунитет к "
-"контролю разума и исцеляется от огня. Медленно восстанавливает здоровье и "
-"может телепортироваться куда угодно."
+"контролю разума и исцеляется от огня. Медленно регенерирует здоровья после "
+"задержки и может телепортироваться в любое место."
 
 #: src-en/data/blueprints.xml.append:23738
 msgid ""
@@ -9938,13 +10114,13 @@ msgstr ""
 "восстановления способностей всех союзников, связанных с Бурей."
 
 #: src-en/data/blueprints.xml.append:23766
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddhuman_sacrifice\"]/desc"
 msgstr ""
-"Лоботомированный в ходе жестокого и зверского ритуала, этот человек был подготовлен для будущего жертвоприношения.\n"
+"Лоботомированный в ходе жестокого и зверского ритуала, этот человек был "
+"подготовлен для будущего жертвоприношения.\n"
 "\n"
-"\tНаследует характеристики людей: сопротивление небольшим опасностям"
+"\tНаследует характеристики людей: небольшое сопротивление огню"
 
 #: src-en/data/blueprints.xml.append:23770
 msgid ""
@@ -9964,13 +10140,13 @@ msgstr ""
 "подготовлен для будущего жертвоприношения."
 
 #: src-en/data/blueprints.xml.append:23775
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddhuman_sacrifice\"]/powerList/power[2]"
 msgstr ""
 "Ослаблен и неспособен к большинству действий; повреждение мозга необратимы. "
-"Не может использоваться для большинства синих опций, так как едва сохраняет "
-"сознание."
+"Хотя они не могут быть использованы для большинства синих вариантов, "
+"поскольку он едва находятся в сознании, некая темная сила позволяет им "
+"поддерживать себя в анаэробном состоянии."
 
 #: src-en/data/blueprints.xml.append:23795
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"dddark_obelisk\"]/desc"
@@ -10050,13 +10226,12 @@ msgid ""
 msgstr "Надсмотрщик"
 
 #: src-en/data/blueprints.xml.append:23826
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_caretaker\"]/powerList/power[1]"
 msgstr ""
-"Не способен сражаться, но имеет 1.5х скорость ремонта, 3х скорость тушения "
-"огня, быструю регенерацию 2.1 ОЗ/с, иммунитет к контролю разума и 0.25х "
-"устойчивость к опасностям."
+"Не способен сражаться или телепортироваться, но имеет 1.5х скорость ремонта, "
+"3х скорость тушения огня, быструю регенерацию 2.1 ОЗ/с, иммунитет к контролю "
+"разума и 0.25х устойчивость к опасностям."
 
 #: src-en/data/blueprints.xml.append:23827
 msgid ""
@@ -10070,404 +10245,570 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/desc"
 msgstr ""
+"Загадочное существо, которое присоединилось к вам при столь же загадочных "
+"обстоятельствах. Его внимание кажется затуманенным и сосредоточенным на чем-"
+"то другом, но вам удалось понять, что оно имеет какое-то отношение к тьме и "
+"теням."
 
 #: src-en/data/blueprints.xml.append:23832
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/title"
-msgstr ""
+msgstr "Осколок"
 
 #: src-en/data/blueprints.xml.append:23833
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/short"
-msgstr ""
+msgstr "Осколок"
 
 #: src-en/data/blueprints.xml.append:23838
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/powerList/power[1]"
 msgstr ""
+"Слабый в атаке, 0.5x боевой урон и урон при саботаже, но обладает "
+"внушительным количеством ОЗ, повышенным до 200, 0.8x сопротивлением боевому "
+"урону, 0.25x сопротивлением оглушению и иммунитетом к опасностям/контролю "
+"разума."
 
 #: src-en/data/blueprints.xml.append:23839
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/powerList/power[2]"
 msgstr ""
+"Считается Голодной тенью для получения усилений и усиления других Голодных "
+"теней. Кроме того, для целей усиления других Голодных теней засчитывается "
+"примерно за четыре такие тени."
 
 #: src-en/data/blueprints.xml.append:23843
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/desc"
 msgstr ""
+"Клинок Отца - восстановленный Владычицей Антумбрального измерения. Вы спасли "
+"ее и ее новый мир грез, и теперь она более чем счастлива помочь вам в ответ."
+"\n"
+"\t\n"
+"\tНаследует характеристики Тени: 200 ОЗ, 0.8x сопротивление боевому урону, "
+"0.25x сопротивление оглушению и иммунитет к опасностям/контролю разума."
 
 #: src-en/data/blueprints.xml.append:23846
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/title"
-msgstr ""
+msgstr "Темный клинок"
 
 #: src-en/data/blueprints.xml.append:23847
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/short"
-msgstr ""
+msgstr "Клинок"
 
 #: src-en/data/blueprints.xml.append:23852
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/powerList/power[1]"
 msgstr ""
+"Урон в бою/саботаже увеличен до 1.5х. Считается Голодной тенью для получения "
+"усилений и усиления других Голодных теней. Кроме того, для целей усиления "
+"других Голодных теней засчитывается примерно за четыре такие тени."
 
 #: src-en/data/blueprints.xml.append:23853
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/powerList/power[2]"
 msgstr ""
+"Медленно восстанавливает свою способность, но также заряжает ее быстрее за "
+"каждую живую союзную Голодную тень/Светоносца. Способна к разрушительной "
+"трансформации после зарядки своей способности, полностью исцеляясь, стирая "
+"грань между Голодными тенями и Светоносцами, расширяя радиус действия своего "
+"усиления Голодных теней, накладывая на текущее помещение Сияющее осквернение "
+"и призывая несколько дронов света и тьмы."
 
 #: src-en/data/blueprints.xml.append:23857
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/desc"
 msgstr ""
+"Моя дорогая Мать... как же я так скучаю по тебе. Под твоим клинком даже "
+"небеса разрываются - чтобы ты могла снова свободно танцевать. Скажи мне, "
+"Мать... ты смотришь?"
 
 #: src-en/data/blueprints.xml.append:23858
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/title"
-msgstr ""
+msgstr "Темный клинок"
 
 #: src-en/data/blueprints.xml.append:23859
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/short"
-msgstr ""
+msgstr "Клинок"
 
 #: src-en/data/blueprints.xml.append:23864
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/powerList/power[1]"
 msgstr ""
+"Практически неуязвима и быстро регенерирует. Неспособна действовать "
+"самостоятельно. Союзные Светоносцы на том же корабле считаются Голодными "
+"тенями для целей усиления и получения усиления от других Голодных теней, а "
+"все сущности, считающиеся Голодными тенями на этом корабле, получают "
+"пассивное усиление Владычицы - 4х эффект Голодной тени."
 
 #: src-en/data/blueprints.xml.append:23865
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/powerList/power[2]"
 msgstr ""
-"Не способный долго находиться в этой форме, она возвращается в свою обычную "
-"форму через 13 секунд."
+"Не способный долго находиться в этой форме, через 20 секунд она возвращается "
+"в свою нормальную форму."
 
 #: src-en/data/blueprints.xml.append:23869
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23870
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/title"
-msgstr ""
+msgstr "Светоносец-Убийценыш"
 
 #: src-en/data/blueprints.xml.append:23871
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/short"
-msgstr ""
+msgstr "Убийценыш"
 
 #: src-en/data/blueprints.xml.append:23876
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 40, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии."
 
 #: src-en/data/blueprints.xml.append:23877
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.5x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23881
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23882
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/title"
-msgstr ""
+msgstr "Светоносец-Призменыш"
 
 #: src-en/data/blueprints.xml.append:23883
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/short"
-msgstr ""
+msgstr "Призменыш"
 
 #: src-en/data/blueprints.xml.append:23888
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 15, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. Кроме того, после смерти накладывает "
+"на помещение эффект Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:23889
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23893
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23894
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/title"
-msgstr ""
+msgstr "Светоносец-Пепельныш"
 
 #: src-en/data/blueprints.xml.append:23895
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/short"
-msgstr ""
+msgstr "Пепельныш"
 
 #: src-en/data/blueprints.xml.append:23900
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 15, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. Кроме того, при смерти вызывает "
+"возгорание."
 
 #: src-en/data/blueprints.xml.append:23901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23905
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23906
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/title"
-msgstr ""
+msgstr "Светоносец-Душныш"
 
 #: src-en/data/blueprints.xml.append:23907
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/short"
-msgstr ""
+msgstr "Душныш"
 
 #: src-en/data/blueprints.xml.append:23912
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 15, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. При смерти исцеляет союзников "
+"поблизости на 20 ОЗ и на 1.2х увеличивает боевой урон и скорость "
+"передвижения/диверсий союзников поблизости, являющихся Светоносцами."
 
 #: src-en/data/blueprints.xml.append:23913
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23917
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23918
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/title"
-msgstr ""
+msgstr "Светоносец-Разрушеныш"
 
 #: src-en/data/blueprints.xml.append:23919
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/short"
-msgstr ""
+msgstr "Разрушеныш"
 
 #: src-en/data/blueprints.xml.append:23924
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 15, иммунитет к опасностям и контролю разума. Способен "
+"только на саботаж."
 
 #: src-en/data/blueprints.xml.append:23925
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.5x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23929
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23930
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/title"
-msgstr ""
+msgstr "Светоносец-Кластуляр"
 
 #: src-en/data/blueprints.xml.append:23931
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/short"
-msgstr ""
+msgstr "Кластуляр"
 
 #: src-en/data/blueprints.xml.append:23936
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 50, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться, совершать диверсии и телепортироваться между кораблями. "
+"Кроме того, после смерти он разделяется на четыре Светоносцев-Целуляров - "
+"невероятно слабых Светоносцев, обладающих уникальной способностью "
+"ремонтировать и менее чувствительные к эффекту Сияющего осквернения."
 
 #: src-en/data/blueprints.xml.append:23937
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.5x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23941
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23942
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/title"
-msgstr ""
+msgstr "Светоносец-Целуляр"
 
 #: src-en/data/blueprints.xml.append:23943
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/short"
-msgstr ""
+msgstr "Целуляр"
 
 #: src-en/data/blueprints.xml.append:23948
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 5, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться, совершать диверсии и ремонтировать."
 
 #: src-en/data/blueprints.xml.append:23949
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.5x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) вне эффекта Сияющего осквернения. "
+"Внутри эффекта эти ослабленные характеристики умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23953
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23954
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/title"
-msgstr ""
+msgstr "Светоносец-Ангеляр"
 
 #: src-en/data/blueprints.xml.append:23955
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/short"
-msgstr ""
+msgstr "Ангеляр"
 
 #: src-en/data/blueprints.xml.append:23960
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 60, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. Кроме того, пассивно восстанавливает "
+"здоровье всех союзных Светоносцев на том же корабле на 2 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:23961
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23965
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23966
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/title"
-msgstr ""
+msgstr "Светоносец-Варлокуляр"
 
 #: src-en/data/blueprints.xml.append:23967
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/short"
-msgstr ""
+msgstr "Варлокуляр"
 
 #: src-en/data/blueprints.xml.append:23972
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 30, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. Кроме того, способен периодически "
+"наносить 1 ед. урона корпусу/системам и оглушать ближайших врагов на 3 с/"
+"наносить им 30 ед. урона."
 
 #: src-en/data/blueprints.xml.append:23973
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23977
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23978
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/title"
-msgstr ""
+msgstr "Светоносец-Торментуляр"
 
 #: src-en/data/blueprints.xml.append:23979
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/short"
-msgstr ""
+msgstr "Торментуляр"
 
 #: src-en/data/blueprints.xml.append:23984
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ уменьшено до 80, иммунитет к опасностям и контролю разума. Способен "
+"только сражаться и совершать диверсии. Кроме того, способен ломать двери со "
+"скоростью 3х и мгновенно оглушать врагов на 1 секунду."
 
 #: src-en/data/blueprints.xml.append:23985
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.3x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:23989
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:23990
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/title"
-msgstr ""
+msgstr "Светоносец-Времятель"
 
 #: src-en/data/blueprints.xml.append:23991
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/short"
-msgstr ""
+msgstr "Времятель"
 
 #: src-en/data/blueprints.xml.append:23996
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ увеличено до 125, иммунитет к опасностям и контролю разума. "
+"Способен только сражаться и совершать диверсии. Кроме того, периодически "
+"замораживает ближайших врагов, лишая их возможности двигаться и действовать."
 
 #: src-en/data/blueprints.xml.append:23997
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.3x скорость передвижения, 0.3x "
+"боевой урон и 0.3x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:24001
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:24002
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/title"
-msgstr ""
+msgstr "Светоносец-Поглотитель"
 
 #: src-en/data/blueprints.xml.append:24003
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/short"
-msgstr ""
+msgstr "Поглотитель"
 
 #: src-en/data/blueprints.xml.append:24008
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ увеличено до 150, иммунитет к опасностям и контролю разума. "
+"Способен только сражаться и совершать диверсии. Кроме того, поглощает "
+"эссенцию ближайших союзных Светоносцев, преобразовывая их здоровье в заряд "
+"способности. Его способность позволяет ему получать полупостоянное усиление "
+"боевого урона и скорости диверсии/перемещения на +0.1."
 
 #: src-en/data/blueprints.xml.append:24009
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.2x скорость передвижения, 0.2x "
+"боевой урон и 0.2x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:24013
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/desc"
 msgstr ""
+"Светоносцы - сверхъестественный свет, обретший хаотичную форму. Хотя "
+"большинство из них теперь подчиняются Лжесиянию, другие остаются... не столь "
+"покорными."
 
 #: src-en/data/blueprints.xml.append:24014
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/title"
-msgstr ""
+msgstr "Светоносец-Повелитель"
 
 #: src-en/data/blueprints.xml.append:24015
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/short"
-msgstr ""
+msgstr "Повелитель"
 
 #: src-en/data/blueprints.xml.append:24020
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/powerList/power[1]"
 msgstr ""
+"Макс. ОЗ увеличено до 175, иммунитет к опасностям и контролю разума. "
+"Способен только сражаться и совершать диверсии. Кроме того, пассивно "
+"предоставляет уникальные способности Светоносцам первого уровня, основанные "
+"на их врожденных силах."
 
 #: src-en/data/blueprints.xml.append:24021
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/powerList/power[2]"
 msgstr ""
+"Как Светоносец, он чрезвычайно ослаблен (0.3x скорость передвижения, 0.3x "
+"боевой урон и 0.3x скорость саботажа) и быстро разлагается (-4 ОЗ/с) вне "
+"эффекта Сияющего осквернения. Внутри эффекта эти ослабленные характеристики "
+"умножаются на 4x."
 
 #: src-en/data/blueprints.xml.append:24026
 msgid ""
@@ -11189,32 +11530,37 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:25172
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE\"]/class"
-msgstr ""
+msgstr "Крейсер Лжесияния"
 
 #: src-en/data/blueprints.xml.append:25173
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE\"]/name"
-msgstr ""
+msgstr "Глаза Сияния"
 
 #: src-en/data/blueprints.xml.append:25174
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE\"]/unlock"
 msgstr ""
+"Отправляйтесь в темный, отдаленный уголок Мультивселенной и верните надежду "
+"ее необычным обитателям, чтобы разблокировать этот корабль."
 
 #: src-en/data/blueprints.xml.append:25175
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE\"]/desc"
 msgstr ""
+"Вновь став свидетелями необузданной красоты цветов, Светоносцы сделали все "
+"возможное, чтобы их великолепие никогда больше не было утрачено из-за "
+"тирании."
 
 #: src-en/data/blueprints.xml.append:25249
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_2\"]/class"
-msgstr ""
+msgstr "Крейсер Лжесияния"
 
 #: src-en/data/blueprints.xml.append:25250
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_2\"]/name"
-msgstr ""
+msgstr "Блестящие Глаза"
 
 #: src-en/data/blueprints.xml.append:25251
 msgid ""
@@ -11225,16 +11571,19 @@ msgstr "Достигните сектора 5 на типе А, чтобы ра�
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_2\"]/desc"
 msgstr ""
+"Естественно привлеченные их великолепным блеском, эти Светоносцы искали "
+"компании кристаллинов - вместе они должны будут выиграть время, чтобы "
+"позволить кораблестроителям-Варлокулярам выполнить свою работу."
 
 #: src-en/data/blueprints.xml.append:25328
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_3\"]/class"
-msgstr ""
+msgstr "Крейсер Лжесияния"
 
 #: src-en/data/blueprints.xml.append:25329
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_3\"]/name"
-msgstr ""
+msgstr "Глаза Провидения"
 
 #: src-en/data/blueprints.xml.append:25330
 msgid ""
@@ -11247,6 +11596,10 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDFALSERADIANCE_3\"]/desc"
 msgstr ""
+"Молодое и гордое божество, готовое бросить вызов тому, что осталось от "
+"власти Архангелов. Поскольку оно еще находится в зачаточном состоянии, оно "
+"невероятно уязвимо - ему потребуется хорошее наставничество, чтобы достичь "
+"желаемого вознесения."
 
 #: src-en/data/blueprints.xml.append:25401
 msgid ""
@@ -11443,22 +11796,27 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:26000
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_SLOTDD2_3\"]/class"
-msgstr ""
+msgstr "Корабль Владычицы"
 
 #: src-en/data/blueprints.xml.append:26001
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_SLOTDD2_3\"]/name"
-msgstr ""
+msgstr "Восьмой Рассвет"
 
 #: src-en/data/blueprints.xml.append:26002
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_SLOTDD2_3\"]/unlock"
 msgstr ""
+"Обратитесь за советом к некоему потустороннему мечу по поводу некоего "
+"артефакта, чтобы разблокировать этот корабль."
 
 #: src-en/data/blueprints.xml.append:26003
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"CREW_SHIP_SLOTDD2_3\"]/desc"
 msgstr ""
+"Вернув контроль над Антумбральном измерением, Владычица, снова стала единым "
+"целым со своим кораблем, полностью способна исполнять волю Темного Бога... а "
+"также вашу, Носитель Клинка."
 
 #: src-en/data/blueprints.xml.append:26074
 msgid ""
@@ -11641,12 +11999,12 @@ msgstr "Корабль ужасов."
 #: src-en/data/blueprints.xml.append:26486
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MV_SHIP_DDFALSERADIANCE\"]/title"
-msgstr ""
+msgstr "КорабльЛжесияния"
 
 #: src-en/data/blueprints.xml.append:26487
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MV_SHIP_DDFALSERADIANCE\"]/desc"
-msgstr ""
+msgstr "Корабль Лжесияния"
 
 #: src-en/data/blueprints.xml.append:26493
 msgid ""
@@ -11727,6 +12085,8 @@ msgstr "Благо траншей"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_DDDEEPONE_ELITE\"]/desc"
 msgstr ""
+"Союзные глубоководные уменьшают скорость перезарядки способностей противника "
+"на 50% каждый."
 
 #: src-en/data/blueprints.xml.append:26544
 msgid ""
@@ -11737,12 +12097,12 @@ msgstr "Благо небес"
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_DDSERAPHIM_CREW\"]/desc"
 msgstr ""
+"Каждый союзник увеличивает получаемый урон от огня ближайших врагов на 20%."
 
 #: src-en/data/blueprints.xml.append:26551
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_DDCORRUPTOR\"]/title"
-msgstr "Благо глубины"
+msgstr "Дар осквернения"
 
 #: src-en/data/blueprints.xml.append:26552
 msgid ""
@@ -11767,7 +12127,7 @@ msgstr "Благословение ненасытной тьмы"
 #: src-en/data/blueprints.xml.append:26566
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"JUDGE_BOON_DISPARITY_EQUIPMENT\"]/desc"
-msgstr "Ваши голодные тени получают +10 макс. ОЗ."
+msgstr "Ваши Голодные тени получают +10 макс. ОЗ."
 
 #: src-en/data/blueprints.xml.append:26572
 msgid ""
@@ -11844,19 +12204,17 @@ msgstr ""
 "передвижения увеличивается на 15%, пока они находятся на этом корабле)"
 
 #: src-en/data/blueprints.xml.append:26614
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DISPARITY_CRYSTAL_ARMOR\"]/title"
-msgstr "Кристалл. броня Диссон."
+msgstr "Теневая кристалл. броня"
 
 #: src-en/data/blueprints.xml.append:26615
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DISPARITY_CRYSTAL_ARMOR\"]/desc"
 msgstr ""
-"Неистовая комбинация тьмы и технологии кристаллинов, принадлежащая "
-"Диссонансу. Получив урон по корпусу, ваш корабль с вероятностью 50% выпустит"
-" взрыв тьмы, который пронзит все щиты и проявится в виде голодной тени."
+"Таинственное и отвратительное сочетание тьмы и технологии кристаллинов. "
+"Получив урон по корпусу, ваш корабль с вероятностью 50% выпустит взрыв тьмы, "
+"который пронзит все щиты и проявится в виде Голодной тени."
 
 #: src-en/data/blueprints.xml.append:26622
 msgid ""
@@ -11868,8 +12226,8 @@ msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DISPARITY_CRYSTAL_ARMOR_LOCKED\"]/desc"
 msgstr ""
 "Неистовая комбинация тьмы и технологии кристаллинов, принадлежащая "
-"Диссонансу. Получив урон по корпусу, ваш корабль с вероятностью 50% выпустит"
-" взрыв тьмы, который пронзит все щиты и проявится в виде голодной тени."
+"Диссонансу. Получив урон по корпусу, ваш корабль с вероятностью 50% выпустит "
+"взрыв тьмы, который пронзит все щиты и проявится в виде Голодной тени."
 
 #: src-en/data/blueprints.xml.append:26630
 msgid ""
@@ -12148,11 +12506,10 @@ msgid ""
 msgstr "Благословение Бури"
 
 #: src-en/data/blueprints.xml.append:26782
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_ENEMY\"]/desc"
 msgstr ""
-"[Уровень 1] Благословленный Бурей, ваш корабль защищен от вражеских атак, а "
+"[Уровень ??] Благословленный Бурей, ваш корабль защищен от вражеских атак, а "
 "ваш экипаж и дроны, связанные с Бурей, излучают эльдрическое электричество. "
 "Если вы захотите получить еще большее благословение, вам придется проводить "
 "ритуалы и помогать создавать новые культы Бури по всей этой реальности."
@@ -12629,14 +12986,13 @@ msgid ""
 msgstr "Газ чумы души"
 
 #: src-en/data/blueprints.xml.append:27124
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_GAS\"]/desc"
 msgstr ""
 "Ваш корабль наполнен смертоносным потусторонним газом, который со временем "
-"наносит пассивный урон абордажникам в размере 3.7 ОЗ/с и заражает их чумой "
+"наносит пассивный урон абордажникам в размере 2.3 ОЗ/с и заражает их чумой "
 "души. Если убить вражеский экипаж, зараженный чумой, он воскреснет на "
-"вражеском корабле в виде союзной чумной оболочки, независимо от того, где он"
-" умер. Дроны и члены экипажа, связанные с чумой души, обладают иммунитетом."
+"вражеском корабле в виде союзной чумной оболочки, независимо от того, где он "
+"умер. Дроны и члены экипажа, связанные с чумой души, обладают иммунитетом."
 
 #: src-en/data/blueprints.xml.append:27130
 msgid ""
@@ -12644,26 +13000,24 @@ msgid ""
 msgstr "Газ чумы души"
 
 #: src-en/data/blueprints.xml.append:27131
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_GAS_ENEMY\"]/desc"
 msgstr ""
 "Ваш корабль наполнен смертоносным потусторонним газом, который со временем "
-"наносит пассивный урон абордажникам в размере 3.7 ОЗ/с и заражает их чумой "
+"наносит пассивный урон абордажникам в размере 2.3 ОЗ/с и заражает их чумой "
 "души. Если убить вражеский экипаж, зараженный чумой, он воскреснет на "
-"вражеском корабле в виде союзной чумной оболочки, независимо от того, где он"
-" умер. Дроны и члены экипажа, связанные с чумой души, обладают иммунитетом."
+"вражеском корабле в виде союзной чумной оболочки, независимо от того, где он "
+"умер. Дроны и члены экипажа, связанные с чумой души, обладают иммунитетом."
 
 #: src-en/data/blueprints.xml.append:27137
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DDSERAPHIM_GAS\"]/title"
 msgstr "Газ Серафимов"
 
 #: src-en/data/blueprints.xml.append:27138
-#, fuzzy
 msgid "data/blueprints.xml.append$//augBlueprint[@name=\"DDSERAPHIM_GAS\"]/desc"
 msgstr ""
 "Ваш корабль наполнен смертоносным небесным газом, который со временем "
-"наносит пассивный урон абордажникам в размере 2.3 ОЗ/с и накладывает на них "
+"наносит пассивный урон абордажникам в размере 7.77 ОЗ/с и накладывает на них "
 "эффект Божественного суда. Кроме того, пожары на вашем корабле будут "
 "автоматически тушиться, а ваш экипаж получит положительный эффект от "
 "Божественного суда, пока находится на вашем корабле. Никто не имеет "
@@ -12672,102 +13026,161 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27144
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM\"]/title"
-msgstr ""
+msgstr "Блестящая форма жизни"
 
 #: src-en/data/blueprints.xml.append:27145
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM\"]/desc"
 msgstr ""
+"Ваш корабль - это большой, живой Светоносец. Он получает преимущества "
+"автоматического корабля с 5х скоростью ремонта, а также сам устраняет "
+"пробоины. Его помещения постоянно находятся под воздействием Сияющего "
+"осквернения, что помогает союзным Светоносцам, нанося врагам 1 ОЗ/с урона и "
+"снижая их боевой урон и скорость передвижения/саботажа на 20%. Кроме того, "
+"враги на борту могут уничтожить друг друга - каждый из них пассивно наносит "
+"урон своим союзникам поблизости в размере 6 ОЗ/с."
 
 #: src-en/data/blueprints.xml.append:27151
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27152
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27158
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27159
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27165
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27166
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27172
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27173
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27179
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27180
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27186
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27187
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27193
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27194
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27200
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER8\"]/title"
-msgstr ""
+msgstr "Божеств. форма жизни"
 
 #: src-en/data/blueprints.xml.append:27201
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER8\"]/desc"
 msgstr ""
+"Ваш корабль - это огромный, живой Светоносец, чья сила может соперничать "
+"даже с силой Архангелов. Он обладает преимуществами, схожими с другими "
+"Сияющими формами жизни, но к тому же способен бесплатно совершать ритуал "
+"Божественных остатков. За выполнение этого ритуала вместо обычной награды вы "
+"получите Частицу божественности, которые можно использовать для усиления "
+"богоподобности вашего корабля."
 
 #: src-en/data/blueprints.xml.append:27207
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_DIVINEGIMMICK_SPARK\"]/title"
-msgstr ""
+msgstr "Искра божественности"
 
 #: src-en/data/blueprints.xml.append:27208
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_DIVINEGIMMICK_SPARK\"]/desc"
 msgstr ""
+"Может быть использована в обмен на Частицу божественности. Частицы "
+"божественности можно использовать в меню склада, что позволяет улучшить "
+"энергетический щит корабля, установить/улучшить системы и создать Сияющее "
+"орудия."
 
 #: src-en/data/blueprints.xml.append:27214
 msgid ""
@@ -12949,12 +13362,9 @@ msgid ""
 msgstr "Субсумация глубоководных"
 
 #: src-en/data/blueprints.xml.append:27320
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDSOULPLAGUE_CORRUPTOR_SUBSUMATION_DEEPONE\"]/desc"
-msgstr ""
-"Приливы чумы души, созданные вашим Осквернителем, получают 0.8-х "
-"сопротивление боевому урону."
+msgstr "Ваши Приливы Осквернителя можно контролировать."
 
 #: src-en/data/blueprints.xml.append:27326
 msgid ""
@@ -12971,39 +13381,46 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27333
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_BLESSINGOFTHEDEVOURER\"]/title"
-msgstr ""
+msgstr "Благослов. опустошения"
 
 #: src-en/data/blueprints.xml.append:27334
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_BLESSINGOFTHEDEVOURER\"]/desc"
-msgstr ""
+msgstr "Ваши Светоносцы постепенно регенерируют здоровье с течением времени."
 
 #: src-en/data/blueprints.xml.append:27340
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_POWEROFTHEGRAVEDIGGER\"]/title"
-msgstr ""
+msgstr "Сила МОГИЛЬЩИКА"
 
 #: src-en/data/blueprints.xml.append:27341
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_POWEROFTHEGRAVEDIGGER\"]/desc"
 msgstr ""
+"Ваш экипаж обеспечивает энергией определенные системы и ремонтирует их, пока "
+"они запитаны."
 
 #: src-en/data/blueprints.xml.append:27347
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_ANTUMBRALMIRROR\"]/title"
-msgstr ""
+msgstr "Антумбральное зеркало"
 
 #: src-en/data/blueprints.xml.append:27348
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDLIGHTBORNE_ANTUMBRALMIRROR\"]/desc"
 msgstr ""
+"Кажущееся обычным, запотевшее зеркало, найденное в хранилище Протокола "
+"Архангела: ГЕНЕЗИС. Причины одержимости Архангела этим зеркалом остаются "
+"загадкой..."
 
 #: src-en/data/blueprints.xml.append:27354
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDDEFENSE_SCRAMBLER_ENEMY_NOHACKING\"]/title"
-msgstr ""
+msgstr "Супер-защ. ген. помех"
 
 #: src-en/data/blueprints.xml.append:27355
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDDEFENSE_SCRAMBLER_ENEMY_NOHACKING\"]/desc"
 msgstr ""
+"Я, честно говоря, ДО СИХ ПОР в шоке от того, что МВ враги, используют "
+"хакерские технологии Защитного генератора помех."
