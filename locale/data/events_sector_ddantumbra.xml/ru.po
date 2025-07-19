@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-15 22:44+0000\n"
+"PO-Revision-Date: 2025-07-20 07:53+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_sector_ddantumbraxml/ru/>\n"
@@ -17,43 +17,66 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT\"]/destroyed/text"
 msgstr ""
+"Вы сделали это! Боже мой, вы действительно сделали это! Неудивительно, что "
+"моя сестра привела вас сюда... вы невероятны!"
 
 #: src-en/data/events_sector_ddantumbra.xml:8
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:12
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:19
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN\"]/text"
 msgstr ""
+"Власть над временем и пространством... окно открыто ненадолго, но судно моей "
+"сестры должен быть способен использовать силу Архангела - ей нужна вся сила, "
+"которую она может получить, чтобы восстановить себя."
 
 #: src-en/data/events_sector_ddantumbra.xml:22
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:24
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"Да, вот так! Она может сделать не так много, учитывая текущую ситуацию, "
+"но... этого должно хватить, чтобы хотя бы немного повернуть время вспять и "
+"восстановить целостность вашего корабля. Кроме того, с ее помощью мы сможем "
+"найти других Архангелов - Отец знает, что нам понадобится вся возможная "
+"помощь в предстоящем путешествии... Кстати, говоря об этом! Пора "
+"отправляться? Я знаю, что все... как в тумане, поэтому я сделаю все, что в "
+"моих силах, чтобы провести вас через все это, но... я знаю, что вы сможете! "
+"Вы только что доказали, что сможете! Так что... давайте сделаем это вместе, "
+"хорошо?"
 
 #: src-en/data/events_sector_ddantumbra.xml:28
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN\"]/choice/event/choice/text"
 msgstr ""
+"Визуализировать путешествие - то, что ждет вас впереди, наполненное как "
+"моментами надежды, так и моментами борьбы."
 
 #: src-en/data/events_sector_ddantumbra.xml:36
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN_DEATH\"]/text"
 msgstr ""
+"Я бы не слишком беспокоился о судне моей сестры. С каждым поражением "
+"Архангела у нее должно оставаться более чем достаточно сил, чтобы "
+"восстановить себя. Э-э, кстати, о силе! Полное господство над временем и "
+"пространством... окно возможностей короткое, но судно моей сестры теперь "
+"должно быть в состоянии его использовать."
 
 #: src-en/data/events_sector_ddantumbra.xml:38
 msgid ""
@@ -64,16 +87,29 @@ msgstr "Тень"
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN_DEATH\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:42
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN_DEATH\"]/choice/event/text"
 msgstr ""
+"Да, вот так! Она может сделать не так много, учитывая текущую ситуацию, "
+"но... этого должно хватить, чтобы хотя бы немного повернуть время вспять и "
+"восстановить целостность вашего корабля. Кроме того, с ее помощью мы сможем "
+"найти других Архангелов - Отец знает, что нам понадобится вся возможная "
+"помощь в предстоящем путешествии... Кстати, говоря об этом! Пора "
+"отправляться? Я знаю, что все... как в тумане, поэтому я сделаю все, что в "
+"моих силах, чтобы провести вас через все это, но... я знаю, что вы сможете! "
+"Вы только что доказали, что сможете! Так что... давайте сделаем это вместе, "
+"хорошо?"
 
 #: src-en/data/events_sector_ddantumbra.xml:46
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT_WIN_DEATH\"]/choice/event/choice/text"
 msgstr ""
+"Визуализировать путешествие - то, что ждет вас впереди, наполненное как "
+"моментами надежды, так и моментами борьбы."
 
 #: src-en/data/events_sector_ddantumbra.xml:54
 msgid ""
@@ -583,7 +619,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:433
@@ -591,7 +627,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_COLORTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:439
 msgid ""
@@ -611,7 +647,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:448
@@ -619,7 +655,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_COLORTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:458
 msgid ""
@@ -638,14 +674,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_COLORTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:467
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_COLORTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:475
 msgid ""
@@ -733,7 +769,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:520
@@ -741,7 +777,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_DARKNESSTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:526
 msgid ""
@@ -761,7 +797,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:535
@@ -769,7 +805,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_DARKNESSTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:545
 msgid ""
@@ -788,14 +824,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_DARKNESSTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:554
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_DARKNESSTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:562
 msgid ""
@@ -873,13 +909,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK_FIGHT_WIN\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:611
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK_FIGHT_WIN\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:621
 msgid ""
@@ -895,13 +931,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK_FIGHT_WIN\"]/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:630
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK_FIGHT_WIN\"]/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:642
 msgid ""
@@ -955,14 +991,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:669
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"STORE_DDANTUMBRA_SISTERTALK\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:677
 msgid ""
@@ -1080,14 +1116,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_WORMHOLE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:761
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_WORMHOLE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:769
 msgid ""
@@ -1850,14 +1886,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1171
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1179
 msgid ""
@@ -1894,14 +1930,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[3]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1201
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[3]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1209
 msgid ""
@@ -2246,13 +2282,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[5]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1497
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[5]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1505
 msgid ""
@@ -2343,13 +2379,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[5]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1567
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[5]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1575
 msgid ""
@@ -2440,13 +2476,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[5]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1637
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[5]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1645
 msgid ""
@@ -2500,14 +2536,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1670
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1680
 msgid ""
@@ -2751,13 +2787,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[6]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1882
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[6]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1890
 msgid ""
@@ -2875,7 +2911,7 @@ msgid ""
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"8\"]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1959
@@ -2884,7 +2920,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"8\"]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1967
 msgid ""
@@ -2932,7 +2968,7 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:1988
@@ -2940,7 +2976,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:1998
 msgid ""
@@ -3347,13 +3383,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/choice[4]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2262
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/choice[4]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2272
 msgid ""
@@ -3434,13 +3470,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"LIST_CREW_COGNITIVE_ALL\"]/event/choice/event/choice[4]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2320
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"LIST_CREW_COGNITIVE_ALL\"]/event/choice/event/choice[4]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2330
 msgid ""
@@ -3521,13 +3557,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"unique_anointed\"]/event/choice/event/choice[4]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2378
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[@req=\"unique_anointed\"]/event/choice/event/choice[4]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2388
 msgid ""
@@ -3608,13 +3644,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[4]/event/choice/event/choice[4]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2436
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_ANCIENTWRECK_REAL\"]/choice[4]/event/choice/event/choice[4]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2448
 msgid ""
@@ -3749,7 +3785,7 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[4]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2526
@@ -3757,7 +3793,7 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_THEDEVOURER\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[4]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2538
 msgid ""
@@ -4265,14 +4301,14 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"QUIET_DDANTUMBRA\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/text"
 msgstr ""
-"Визуализируйте рутинную работы - ту, которую нужно выполнить в свободное "
+"Визуализировать рутинную работы - ту, которую нужно выполнить в свободное "
 "время."
 
 #: src-en/data/events_sector_ddantumbra.xml:2828
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"QUIET_DDANTUMBRA\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr "Визуализируйте ничто - то, что однажды охватит все."
+msgstr "Визуализировать ничто - то, что однажды охватит все."
 
 #: src-en/data/events_sector_ddantumbra.xml:2834
 msgid ""
@@ -4918,13 +4954,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GRAVEDIGGERLOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3161
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GRAVEDIGGERLOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3168
 msgid ""
@@ -4935,6 +4971,8 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGRAVEDIGGER_FIGHT_WIN\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:3173
 msgid ""
@@ -4960,6 +4998,8 @@ msgstr "Тень"
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGRAVEDIGGER_FIGHT_WIN_DEATH\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:3193
 msgid ""
@@ -5053,13 +5093,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GODCORELOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3267
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GODCORELOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3274
 msgid ""
@@ -5070,6 +5110,8 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGODCORE_FIGHT_WIN\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:3279
 msgid ""
@@ -5100,6 +5142,8 @@ msgstr "Тень"
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_THEGODCORE_FIGHT_WIN_DEATH\"]/choice/text"
 msgstr ""
+"Визуализировать силу - то, что необходимо в кризисные времена, даже если она "
+"часто является причиной их возникновения."
 
 #: src-en/data/events_sector_ddantumbra.xml:3299
 msgid ""
