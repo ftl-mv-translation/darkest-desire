@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-22 12:56+0000\n"
+"PO-Revision-Date: 2025-07-23 13:56+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_sector_ddantumbraxml/ru/>\n"
@@ -24,13 +24,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:12
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"START_DDANTUMBRA_THEGATEKEEPER_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:19
 msgid ""
@@ -444,8 +444,8 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"START_DDANTUMBRA_LOREDROP\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Что ж, как оказалось... какое бы влияние ни оказало это новообретенное "
-"озарение на Архангелов, оно также распространяется и на других, менее "
-"значимых Светоносцев. Моя сестра называет тех, кто поддается его опьяняющему "
+"озарение на Архангелов, оно также распространяется и на других, меньших "
+"Светоносцев. Моя сестра называет тех, кто поддается его опьяняющему "
 "очарованию, Лжесиянием - в честь почти заразительной природы их неземного, "
 "эфирного свечения. Хотя некоторые Светоносцы сопротивляются ему и "
 "придерживаются своих пустых обетов... большинство, похоже, склонно к тому, "
@@ -2552,19 +2552,21 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Представить себе приближение – осторожное, но уверенное."
 
 #: src-en/data/events_sector_ddantumbra.xml:1163
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Представить себе нерешительность – бездействие, рожденное колебаниями."
 
 #: src-en/data/events_sector_ddantumbra.xml:1165
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"Я уверена, что так будет безопаснее. Просто... держитесь подальше от этих "
+"придурков, ладно? Не дайте им ничего предпринять!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1167
 msgid ""
@@ -2584,13 +2586,16 @@ msgstr "Представить себе ничто - то, что однажды
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Представить себе разрушение – отсутствие пощады для нечестивых."
 
 #: src-en/data/events_sector_ddantumbra.xml:1181
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Нет ничего постыдного в том, чтобы бить их, когда они в беде - они бы "
+"поступили так же с вами, не правда ли? Но не... не теряйте бдительности. "
+"Даже если они уязвимы, Лжесияние по-прежнему опасно!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1187
 msgid ""
@@ -2603,12 +2608,17 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[3]/text"
 msgstr ""
+"Представить себе расстояние - безопасное пространство между двумя "
+"соперничающими сторонами."
 
 #: src-en/data/events_sector_ddantumbra.xml:1195
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_HURTLIGHT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[3]/event/text"
 msgstr ""
+"Наверное, нет смысла позволять им что-нибудь выкинуть. Может быть, просто, э-"
+"э, присмотреть за ними? Е-если, конечно, вы сможете... Ладно, Я буду "
+"присматривать за ними в переносном смысле, а вы... делайте то, что вам нужно!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1197
 msgid ""
@@ -2655,26 +2665,48 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_DANGER_FIGHT\"]/destroyed/text"
 msgstr ""
+"Вау, м-молодец! Вы снова это сделали! Хотя, э-э... похоже, что другие челны "
+"Лжесияния, которые собрались здесь, ушли во время стычки. Это обидно, но... "
+"вы все равно должны гордиться собой, понимаете? Лжесияние - это не просто "
+"КАКАЯ-ТО там мелкая угроза!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1238
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHTHEFURTHEST_SAFE\"]/text"
 msgstr ""
+"В-вау, я... Мне нравится ваша уверенность! Похоже, она окупилась? Самый "
+"крупный из присутствующих здесь Светоносцев направляется сюда, а Лжесияние, "
+"похоже, ничего об этом не подозревает!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1240
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHTHEFURTHEST_SAFE\"]/choice/text"
-msgstr ""
+msgstr "Представить себе победу - сладкие плоды удачи."
 
 #: src-en/data/events_sector_ddantumbra.xml:1242
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHTHEFURTHEST_SAFE\"]/choice/event/text"
 msgstr ""
+"Теперь давайте посмотрим, что притащила моя сестра...\n"
+"\t\n"
+"\t\t\t...Сияющее орудие! Моя сестра довольно хорошо знает Светоносцев, так "
+"как тесно сотрудничала с ними в качестве их надзирателя... В то время как "
+"большинство Светоносцев живут для того, чтобы превратиться в Сияющие ядра и "
+"после размножиться, некоторые из более крупных могут стать Сияющим орудием - "
+"особенно мощными Светоносцами, способными изменять пространство и делать его "
+"пригодным для жизни своих меньших сородичей. Несмотря на свою силу, они по-"
+"прежнему зависят от еще более могущественных Светоносцев - тех немногих "
+"могучих и огромных, которые обслуживают и питают как Сияющие ядра так и "
+"орудия. Это с-странная система, но... я думаю, что это даже мило, как все их "
+"роли необходимы. Они как большая, бесчувственная машина!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1251
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_DANGER\"]/text"
 msgstr ""
+"Подождите, это... о, Отец, Лжесияние здесь! Они, должно быть, все-таки "
+"перехватили сигнал моей сестры... Н-но все в порядке! Я... я знаю, что вы "
+"справитесь с ними!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1254
 msgid ""
@@ -2685,46 +2717,101 @@ msgstr "Представить себе бой - действие, к котор
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHEVENFURTHER_SAFE\"]/text"
 msgstr ""
+"Пока все идет хорошо... сигнал моей сестры почти достиг центра этого роя "
+"Светоносцев! Вам следует, э-э... наверное, отменить операцию сейчас, пока "
+"Лжесияние не перехватило сигнал."
 
 #: src-en/data/events_sector_ddantumbra.xml:1268
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHEVENFURTHER_SAFE\"]/choice[1]/text"
 msgstr ""
+"Представить себе джекпот - он находится вне досягаемости, но стоит того, "
+"чтобы к нему стремиться."
 
 #: src-en/data/events_sector_ddantumbra.xml:1272
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHEVENFURTHER_SAFE\"]/choice[2]/text"
 msgstr ""
+"Представить себе выигрыш – хороший игрок знает, когда нужно остановиться."
 
 #: src-en/data/events_sector_ddantumbra.xml:1274
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHEVENFURTHER_SAFE\"]/choice[2]/event/text"
 msgstr ""
+"Вот это настрой! Не стоит испытывать удачу больше, чем вы уже сделали. А "
+"теперь давайте посмотрим, что притащила моя сестра...\n"
+"\t\n"
+"\t\t\t...Сияющее ядро! Моя сестра довольно хорошо знает Светоносцев, так как "
+"тесно сотрудничала с ними в качестве надзирателя - Сияющие ядра сами по себе "
+"ЯВЛЯЮТСЯ Светоносцами, но они также служат средством для воспроизводства "
+"ДОПОЛНИТЕЛЬНЫХ, меньших Светоносцев. Для этого им нужно питаться энергией, "
+"но, эм... как только процесс запущен, они начинают размножаться в ПОЛНУЮ "
+"силу. С их отнятыми чувствами размножение - единственное, на что Светоносцы "
+"действительно способны, если только моя сестра не привлечет их внимание... "
+"по крайней мере, в большинстве случаев. Похоже, что Светоносцы, находящиеся "
+"под влиянием Лжесияния, преследуют свои собственные интересы, но, э-э... мы "
+"их остановим, правда? То есть, э-э... в-вы их остановите! Я просто, ну, "
+"знаете, здесь... здесь! Помогаю! Или, по крайней мере, э-э, пытаюсь...? Я п-"
+"перестаю болтать..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1290
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_SAFE\"]/text"
 msgstr ""
+"Сработало - некоторые из более сильных Светоносцев, похоже, сейчас пришли в "
+"движение. Хотя, вы можете продолжать испытывать удачу и найти ОЧЕНЬ "
+"могущественных Светоносцев... но, в-все же, э-э... решать вам!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1292
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_SAFE\"]/choice[1]/text"
-msgstr ""
+msgstr "Представить себе дальнейший риск - одна возможность стоит другой."
 
 #: src-en/data/events_sector_ddantumbra.xml:1296
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_SAFE\"]/choice[2]/text"
 msgstr ""
+"Представить себе выигрыш – хороший игрок знает, когда нужно остановиться."
 
 #: src-en/data/events_sector_ddantumbra.xml:1298
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_PUSHFURTHER_SAFE\"]/choice[2]/event/text"
 msgstr ""
+"Нет ничего постыдного в том, чтобы играть осторожно - особенно когда вы уже "
+"рискнули! А теперь давайте посмотрим, что притащила моя сестра...\n"
+"\t\n"
+"\t\t\t...Сияющее ядро! Моя сестра довольно хорошо знает Светоносцев, так как "
+"тесно сотрудничала с ними в качестве надзирателя - Сияющие ядра сами по себе "
+"ЯВЛЯЮТСЯ Светоносцами, но они также служат средством для воспроизводства "
+"ДОПОЛНИТЕЛЬНЫХ, меньших Светоносцев. Для этого им нужно питаться энергией, "
+"но, эм... как только процесс запущен, они начинают размножаться в ПОЛНУЮ "
+"силу. С их отнятыми чувствами размножение - единственное, на что Светоносцы "
+"действительно способны, если только моя сестра не привлечет их внимание... "
+"по крайней мере, в большинстве случаев. Похоже, что Светоносцы, находящиеся "
+"под влиянием Лжесияния, преследуют свои собственные интересы, но, э-э... мы "
+"их остановим, правда? То есть, э-э... в-вы их остановите! Я просто, ну, "
+"знаете, здесь... здесь! Помогаю! Или, по крайней мере, э-э, пытаюсь...? Я п-"
+"перестаю болтать..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1307
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE_TIERONEACQUIRED\"]/text"
 msgstr ""
+"Нет ничего постыдного в том, чтобы играть осторожно! А теперь давайте "
+"посмотрим, что притащила моя сестра...\n"
+"\t\n"
+"\t\t\t...Сияющее ядро! Моя сестра довольно хорошо знает Светоносцев, так как "
+"тесно сотрудничала с ними в качестве надзирателя - Сияющие ядра сами по себе "
+"ЯВЛЯЮТСЯ Светоносцами, но они также служат средством для воспроизводства "
+"ДОПОЛНИТЕЛЬНЫХ, меньших Светоносцев. Для этого им нужно питаться энергией, "
+"но, эм... как только процесс запущен, они начинают размножаться в ПОЛНУЮ "
+"силу. С их отнятыми чувствами размножение - единственное, на что Светоносцы "
+"действительно способны, если только моя сестра не привлечет их внимание... "
+"по крайней мере, в большинстве случаев. Похоже, что Светоносцы, находящиеся "
+"под влиянием Лжесияния, преследуют свои собственные интересы, но, э-э... мы "
+"их остановим, правда? То есть, э-э... в-вы их остановите! Я просто, ну, "
+"знаете, здесь... здесь! Помогаю! Или, по крайней мере, э-э, пытаюсь...? Я п-"
+"перестаю болтать..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1314
 msgid ""
@@ -2742,54 +2829,69 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...ой, здесь так много Светоносцев! Похоже, они тоже не подвержены влиянию "
+"Лжесияния... если вы, э-э, хотите, можете воспользоваться присутствием моей "
+"сестры, чтобы разозлить некоторых из них? Это может привлечь нежелательное "
+"внимание, но... может привлечь и желаемое внимание!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1321
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Представить себе соглашение - согласие с предложенным планом."
 
 #: src-en/data/events_sector_ddantumbra.xml:1323
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Их действительно много... с таким количеством Светоносцев здесь, вам "
+"придется пробиться через маленьких, чтобы добраться до больших. Э-э... р-"
+"решать вам, стоит ли такой риск. Меньшие Светоносцы тоже, эм... по-своему "
+"довольно сильны!»"
 
 #: src-en/data/events_sector_ddantumbra.xml:1325
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "Представить себе - тот, который связан с привлечением внимания."
 
 #: src-en/data/events_sector_ddantumbra.xml:1329
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "Представить себе безопасность - то, что находится на окраине."
 
 #: src-en/data/events_sector_ddantumbra.xml:1335
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
 msgstr ""
+"Представить себе нерешительность - осторожность, вызванную сопутствующими "
+"опасностями."
 
 #: src-en/data/events_sector_ddantumbra.xml:1337
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"Ну, если хотите, можете просто попросить ее привлечь внимание некоторых из "
+"меньших Светоносцев, которые находятся здесь, на окраине. В этом не должно "
+"быть большого риска, если, э-э... если вообще будет! У меня такое чувство, "
+"что более сильные Светоносцы находятся глубже в этой массе и для них "
+"потребуется более опасный по силе сигнал, но... р-решать вам, правда!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1339
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "Представить себе - тот, который связан с привлечением внимания."
 
 #: src-en/data/events_sector_ddantumbra.xml:1343
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_ANXIOUSBORNE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "Представить себе безопасность - то, что находится на окраине."
 
 #: src-en/data/events_sector_ddantumbra.xml:1351
 msgid ""
@@ -2822,6 +2924,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_OMGEVERYONEISHAPPY\"]/text"
 msgstr ""
+"Т-тогда ведите нас! Светоносцы, похоже, уже обнаружили присутствие своих "
+"сородичей на вашем корабле, так что... они ДОЛЖНЫ быть недалеко."
 
 #: src-en/data/events_sector_ddantumbra.xml:1376
 msgid ""
@@ -2842,126 +2946,198 @@ msgstr "..."
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_OMGEVERYONEISHAPPY\"]/choice/event/choice/event/text"
 msgstr ""
+"Думаю, этого должно эм... быть достаточно, верно? Если пойдем дальше, "
+"Лжесияние может нас догнать, а я не могу придумать ничего хуже.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tПохоже, все Светоносцы последовали за вами сюда... Разве они не "
+"потрясающие? С таким количеством свободного пространства им наверняка будет "
+"легко размножаться!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1386
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_OMGEVERYONEISHAPPY\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Представить себе гордую осанку – результат хорошо выполненной работы."
 
 #: src-en/data/events_sector_ddantumbra.xml:1388
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_OMGEVERYONEISHAPPY\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Хотя, э-э... что они делают, собственно? Они как бы... подождите... моя "
+"сестра уже видела такое! Они передают часть своей энергии вашему кораблю, "
+"просто прижимаясь к нему - так же, как делали раньше, когда она навещала их "
+"вместе с Архангелами. Наверное, они думают, что вы один из них... Я не могу, "
+"э-э, сказать почему, но, э-э... кто знает, учитывая, насколько примитивным "
+"разумом обладают Светоносцы. В любом случае, они не только успешно "
+"отремонтировали ваш корабль, но, похоже, готовы продолжать размножаться и "
+"делать все, что в их силах, чтобы замедлить Лжесияние. Вперед, малыши!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1400
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_THEENDOFTHEFIGHT_PRISMLING\"]/text"
 msgstr ""
+"Это было... что-то. По крайней мере, Призменыши теперь могут "
+"сосредоточиться, верно? Пусть моя сестра снова пошлет сигнал, и...\n"
+"\t\n"
+"\t...это должно сработать - подкрепление уже в пути! Для этого потребовалось "
+"всего лишь немного, э-э... к-кровопролития."
 
 #: src-en/data/events_sector_ddantumbra.xml:1407
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_THEENDOFTHEFIGHT_CINDERLING\"]/text"
 msgstr ""
+"Это было... что-то. По крайней мере, Пепеленыши теперь могут "
+"сосредоточиться, верно? Пусть моя сестра снова пошлет сигнал, и...\n"
+"\t\n"
+"\t...это должно сработать - подкрепление уже в пути! Для этого потребовалось "
+"всего лишь немного, э-э... к-кровопролития."
 
 #: src-en/data/events_sector_ddantumbra.xml:1414
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_THEENDOFTHEFIGHT_SLAYLING\"]/text"
 msgstr ""
+"Это было... что-то. По крайней мере, Убийценыши теперь могут "
+"сосредоточиться, верно? Пусть моя сестра снова пошлет сигнал, и...\n"
+"\t\n"
+"\t...это должно сработать - подкрепление уже в пути! Для этого потребовалось "
+"всего лишь немного, э-э... к-кровопролития."
 
 #: src-en/data/events_sector_ddantumbra.xml:1421
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_THEENDOFTHEFIGHT_SPIRITLING\"]/text"
 msgstr ""
+"Это было... что-то. По крайней мере, Душныши теперь могут сосредоточиться, "
+"верно? Пусть моя сестра снова пошлет сигнал, и...\n"
+"\t\n"
+"\t...это должно сработать - подкрепление уже в пути! Для этого потребовалось "
+"всего лишь немного, э-э... к-кровопролития."
 
 #: src-en/data/events_sector_ddantumbra.xml:1428
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_THEENDOFTHEFIGHT_BREAKLING\"]/text"
 msgstr ""
+"Это было... что-то. По крайней мере, Разрушеныши теперь могут "
+"сосредоточиться, верно? Пусть моя сестра снова пошлет сигнал, и...\n"
+"\t\n"
+"\t...это должно сработать - подкрепление уже в пути! Для этого потребовалось "
+"всего лишь немного, э-э... к-кровопролития."
 
 #: src-en/data/events_sector_ddantumbra.xml:1435
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/text"
 msgstr ""
+"Ну, одна сторона состоит из Пепеленышей, а другая... Призменышей? Да, похоже "
+"на то. Учитывая, что ваш корабль непригоден для обитания Светоносцев, ни "
+"одна из сторон не представляет для вас большой угрозы... Если вы хотите "
+"решить эту проблему, все, что вам нужно сделать, это заманить одну из сторон "
+"на борт."
 
 #: src-en/data/events_sector_ddantumbra.xml:1437
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/text"
 msgstr ""
+"Представить себе Сияющее ядро Пепеленыша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1439
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Пепеленышей "
+"прочь? Так Призменыши смогут использовать это пространство, а Пепеленыши "
+"будут иметь свое собственное пространство где-нибудь в другом месте! Хорошо, "
+"ах... хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1441
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1447
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/text"
 msgstr ""
+"Представить себе Сияющее ядро Призменыша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1449
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Призменышей "
+"прочь? Так Пепеленыши смогут использовать это пространство, а Призменыши "
+"будут иметь свое собственное пространство где-нибудь в другом месте! Хорошо, "
+"ах... хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1451
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1457
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[3]/text"
 msgstr ""
+"Представить себе пламя - Пепеленыш, безнадежно застрявшего на борту корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1459
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[3]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1464
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1466
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1473
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[4]/text"
 msgstr ""
+"Представить себе радугу - Призменыша, безнадежно застрявшего на борту "
+"корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1475
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[4]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1480
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1482
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1489
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[5]/text"
-msgstr ""
+msgstr "Представить себе выход - путь к выходу из этой ситуации."
 
 #: src-en/data/events_sector_ddantumbra.xml:1491
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_CINDERPRISM\"]/choice[5]/event/text"
 msgstr ""
+"О, это... это справедливо! Светоносцы со временем разберутся со своими "
+"странностями, верно? Вам просто нужно, ну... продолжать плыть по течению! "
+"Плыть по течению и, э-э, наслаждаться жизнью...?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1493
 msgid ""
@@ -2979,86 +3155,117 @@ msgstr "Представить себе ничто - то, что однажды
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/text"
 msgstr ""
+"Ну, одна сторона состоит из Убийценышей, а другая... Душнышей? Да, похоже на "
+"то. Учитывая, что ваш корабль непригоден для обитания Светоносцев, ни одна "
+"из сторон не представляет для вас большой угрозы... Если вы хотите решить "
+"эту проблему, все, что вам нужно сделать, это заманить одну из сторон на "
+"борт."
 
 #: src-en/data/events_sector_ddantumbra.xml:1507
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/text"
 msgstr ""
+"Представить себе Сияющее ядро Убийценыша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1509
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Убийценышей "
+"прочь? Так Душныши смогут использовать это пространство, а Убийценыши будут "
+"иметь свое собственное пространство где-нибудь в другом месте! Хорошо, ах... "
+"хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1511
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1517
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/text"
-msgstr ""
+msgstr "Представить себе Сияющее ядро Душныша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1519
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Душнышей "
+"прочь? Так Убийценыши смогут использовать это пространство, а Душныши будут "
+"иметь свое собственное пространство где-нибудь в другом месте! Хорошо, ах... "
+"хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1521
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SPIRITLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1527
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[3]/text"
 msgstr ""
+"Представить себе воина - Убийценыша, безнадежно застрявшего на борту корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1529
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[3]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1534
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1536
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1543
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[4]/text"
 msgstr ""
+"Представить себе призрака - Душныша, безнадежно застрявшего на борту корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1545
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[4]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1550
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1552
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1559
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[5]/text"
-msgstr ""
+msgstr "Представить себе выход - путь к выходу из этой ситуации."
 
 #: src-en/data/events_sector_ddantumbra.xml:1561
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_SPIRITSLAY\"]/choice[5]/event/text"
 msgstr ""
+"О, это... это справедливо! Светоносцы со временем разберутся со своими "
+"странностями, верно? Вам просто нужно, ну... продолжать плыть по течению! "
+"Плыть по течению и, э-э, наслаждаться жизнью...?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1563
 msgid ""
@@ -3076,86 +3283,119 @@ msgstr "Представить себе ничто - то, что однажды
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/text"
 msgstr ""
+"Ну, одна сторона состоит из Разрушенышей, а другая... Пепеленышей? Да, "
+"похоже на то. Учитывая, что ваш корабль непригоден для обитания Светоносцев, "
+"ни одна из сторон не представляет для вас большой угрозы... Если вы хотите "
+"решить эту проблему, все, что вам нужно сделать, это заманить одну из сторон "
+"на борт."
 
 #: src-en/data/events_sector_ddantumbra.xml:1577
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/text"
 msgstr ""
+"Представить себе Сияющее ядро Разрушеныша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1579
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Разрушенышей "
+"прочь? Так Пепеленыши смогут использовать это пространство, а Разрушеныши "
+"будут иметь свое собственное пространство где-нибудь в другом месте! Хорошо, "
+"ах... хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1581
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1587
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/text"
 msgstr ""
+"Представить себе Сияющее ядро Пепеленыша - нечто, находящееся поблизости."
 
 #: src-en/data/events_sector_ddantumbra.xml:1589
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/event/text"
 msgstr ""
+"Это... интересная идея. Вместо того, чтобы заманивать их на борт, может "
+"быть, вы могли бы использовать свое Сияющее ядро, чтобы увести Пепеленышей "
+"прочь? Так Разрушеныши смогут использовать это пространство, а Пепеленыши "
+"будут иметь свое собственное пространство где-нибудь в другом месте! Хорошо, "
+"ах... хорошая идея! Я думаю..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1591
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[@req=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/event/choice/text"
 msgstr ""
+"Представить себе место, расположенное вдалеке - место, куда направляется "
+"свет."
 
 #: src-en/data/events_sector_ddantumbra.xml:1597
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[3]/text"
 msgstr ""
+"Представить себе молоток - Разрушеныша, безнадежно застрявшего на борту "
+"корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1599
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[3]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1604
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1606
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[3]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1613
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[4]/text"
 msgstr ""
+"Представить себе пламя - Пепеленыш, безнадежно застрявшего на борту корабля."
 
 #: src-en/data/events_sector_ddantumbra.xml:1615
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[4]/event/text"
 msgstr ""
+"Не знаю, насколько это этично, но... сейчас моей сестре нужна помощь, и у "
+"подконтрольных ей Светоносцев нет времени на ссоры! Чтобы привлечь их "
+"внимание, достаточно небольшого, э-э... тарана?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1620
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[4]/event/choice/text"
-msgstr ""
+msgstr "Представить себе барана - грозного, яростного, БЛЕЯЩЕГО!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1622
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "О, вау, э-э... ага, а вот и они!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1629
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[5]/text"
-msgstr ""
+msgstr "Представить себе выход - путь к выходу из этой ситуации."
 
 #: src-en/data/events_sector_ddantumbra.xml:1631
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING_LIST_BREAKCINDER\"]/choice[5]/event/text"
 msgstr ""
+"О, это... это справедливо! Светоносцы со временем разберутся со своими "
+"странностями, верно? Вам просто нужно, ну... продолжать плыть по течению! "
+"Плыть по течению и, э-э, наслаждаться жизнью...?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1633
 msgid ""
@@ -3185,36 +3425,58 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...здесь, похоже, многолюдно, да? Похоже, вы наткнулись на место размножения "
+"меньших Светоносцев... которое также не затронуло Лжесияние! Не должно быть "
+"слишком сложно просто, ну, знаете... попросить мою сестру немного их "
+"разбудить и посмотреть, не смогут ли они, э-э, как-то вам помочь?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1652
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Представить себе утро - когда человек и свет возвращаются вместе."
 
 #: src-en/data/events_sector_ddantumbra.xml:1654
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"О, разве они не...? Это, э-э... похоже, они вообще не реагируют на ее "
+"сигнал. Это редкость, но... и не что-то неслыханное. Иногда Светоносцы "
+"вступают в ожесточенные территориальные споры - две разные группы "
+"Светоносцев сталкиваются друг с другом, пока одна из сторон неизбежно не "
+"выходит победителем и не завоевывает территорию. Сейчас, когда они отреклись "
+"от больших радостей жизни, все, что ДЕЙСТВИТЕЛЬНО волнует волнует "
+"Светоносцев, - это размножение... так что неудивительно, что моя сестра, э-"
+"э... нашла их в таком состоянии."
 
 #: src-en/data/events_sector_ddantumbra.xml:1656
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Представить себе спор – возможно, тот, который предстоит разрешить."
 
 #: src-en/data/events_sector_ddantumbra.xml:1660
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice[2]/text"
 msgstr ""
+"Представить себе отсутствие интереса - к животным интригам и конфликтам."
 
 #: src-en/data/events_sector_ddantumbra.xml:1662
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_INFIGHTING\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Можно просто оставить их в покое, да... В любом случае, с их стороны "
+"довольно грубо игнорировать мою сестру, не так ли? Она пытается их защитить! "
+"Или, по крайней мере, она... она бы защищала, если бы...\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t...Я очень надеюсь, что все будет хорошо. Что с моей сестрой "
+"все в порядке, и мы сможем... мы сможем просто вернуться к тому, как было "
+"раньше, до Лжесияния и до того... зеркала... но, э-э! Я, э-э... я не хотела "
+"портить настроение! Эй, просто, знайте, э-э... дайте мне знать, если вам что-"
+"нибудь понадобится, ладно?!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1666
 msgid ""
@@ -3261,11 +3523,19 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_FIGHT\"]/destroyed/text"
 msgstr ""
+"Похоже, взрывчатка вместе с флотом... умчалась прочь, пока вы сражались. Это "
+"неудивительно, учитывая, что они были заняты своими делами, но... ну, по "
+"крайней мере, вы несколько сорвали планы Лжесияния! Победа есть победа, не "
+"так ли?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1712
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_MADDASH_LIST_CAUGHT\"]/text"
 msgstr ""
+"Подождите, будьте...\n"
+"\t\n"
+"\t...осторожны. О-они точно, э-э... они точно вас видят! Вам нужно "
+"защищаться, пока они не нанесли еще один удар!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1723
 msgid ""
@@ -3276,116 +3546,170 @@ msgstr "Представить себе бой - действие, к котор
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/text"
 msgstr ""
+"Вау, отлично - это действительно сработало! Вы находитесь у их склада "
+"взрывчатки... огромной кучи взрывоопасных Варлокуляров, готовых взорваться в "
+"любой момент. Они уже заражены Лжесиянием, так что я бы не стала... слишком "
+"беспокоиться о том, как их взорвать. Это немного печально, но... по крайней "
+"мере, они все еще могут быть полезны, верно?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1731
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/text"
 msgstr ""
+"Представить себе импровизированный взрывной механизм - подключенный к цепи и "
+"готовый вызвать цепную реакцию."
 
 #: src-en/data/events_sector_ddantumbra.xml:1733
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/text"
 msgstr ""
+"Теперь вам нужно только быстро убраться оттуда! До того, как Лжесияние, э-"
+"э... з-заметит! Или, ну, знаете... до того, как Варлоккуляры взорвутся?!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1738
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Представить себе расстояние - то, что сейчас так необходимо."
 
 #: src-en/data/events_sector_ddantumbra.xml:1740
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Еще секунда, и все будет... О! Да, вот вам, вы, э-э... вы, злобные придурки! "
+"Это за мою сестру и ее судно! Не то чтобы она, э-э... не могла отомстить "
+"позже, но, э-э... все равно!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1744
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
+"Представить себе возмездие - подарок в виде боли, отраженной тысячекратно."
 
 #: src-en/data/events_sector_ddantumbra.xml:1746
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"С Лжесиянием покончено, их добыча теперь ваша! Кроме того, вы нанесли удар "
+"по их планам, уничтожив их флот и склад взрывчатки... хорошая работа!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1750
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Представить себе удовлетворение - истинную награду за хорошо выполненную "
+"работу."
 
 #: src-en/data/events_sector_ddantumbra.xml:1752
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Я не могу не задаться вопросом, в чем ИМЕННО заключались их планы... Этого "
+"количества Варлоккуляров хватило бы, чтобы отправить Архангела в ад. Н-не то "
+"чтобы они когда-нибудь пошли на такое, но... Мне это просто кажется немного "
+"тревожным, понимаете? Моя сестра никогда не видела, чтобы Светоносцы сами "
+"координировали что-то подобное. Но, пока вы, э-э... просто будете "
+"бдительным, я уверена, что все будет хорошо! По крайней мере, я на это "
+"надеюсь..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1762
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/text"
-msgstr ""
+msgstr "Представить себе проблему - отсутствие путей для продвижения вперед."
 
 #: src-en/data/events_sector_ddantumbra.xml:1764
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/text"
 msgstr ""
+"...О. Это, эм... проблема, не так ли? Думаю, вы могли бы просто выстрелить в "
+"тайник, но... это звучит опасно, не так ли?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1766
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представить себе опасность - то, что необходимо в такие времена."
 
 #: src-en/data/events_sector_ddantumbra.xml:1768
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Ладно, просто... хотя бы немного отдалитесь, ладно? Ваш корабль будет "
+"немного потрепан, но повреждения должны быть относительно незначительными. "
+"Хотя это кажется немного сумасшедшим..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1770
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/text"
 msgstr ""
+"Представить себе взрыв - приближающийся, неизбежный, от которого невозможно "
+"укрыться."
 
 #: src-en/data/events_sector_ddantumbra.xml:1772
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"Это действительно происходит... ладно, я спокойна, я, я...\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t...подождите, это... это сработало?! Э-это... это "
+"действительно сработало! Да, вот вам, вы, эм... вы злобные придурки! Это за "
+"мою сестру и ее судно! Не то чтобы она, эм... не смогла отомстить позже, но, "
+"эм... все равно!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1781
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
+"Представить себе возмездие - подарок в виде боли, отраженной тысячекратно."
 
 #: src-en/data/events_sector_ddantumbra.xml:1783
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
+"С Лжесиянием покончено, их добыча теперь ваша! Кроме того, вы нанесли удар "
+"по их планам, уничтожив их флот и склад взрывчатки... хорошая работа!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1787
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Представить себе удовлетворение - истинную награду за хорошо выполненную "
+"работу."
 
 #: src-en/data/events_sector_ddantumbra.xml:1789
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Я не могу не задаться вопросом, в чем ИМЕННО заключались их планы... Этого "
+"количества Варлоккуляров хватило бы, чтобы отправить Архангела в ад. Н-не то "
+"чтобы они когда-нибудь пошли на такое, но... Мне это просто кажется немного "
+"тревожным, понимаете? Моя сестра никогда не видела, чтобы Светоносцы сами "
+"координировали что-то подобное. Но, пока вы, э-э... просто будете "
+"бдительным, я уверена, что все будет хорошо! По крайней мере, я на это "
+"надеюсь..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1799
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Представить себе проблему - на этот раз, связанную с отсутствием системы "
+"управления оружием."
 
 #: src-en/data/events_sector_ddantumbra.xml:1801
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[@req=\"weapons\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы серьезно?! У вас нет... ну, я думаю, это впечатляет, больше всего на "
+"свете. Но если вы не можете разобраться с тайником, то делать нечего... "
+"Подождите, берегитесь! Мы, наверное, задержались - Лжесияние вас обнаружило!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1806
 msgid ""
@@ -3396,12 +3720,14 @@ msgstr "Представить себе бой - действие, к котор
 #: src-en/data/events_sector_ddantumbra.xml:1812
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "Представить себе вопрос – вопрос о целесообразности этого плана."
 
 #: src-en/data/events_sector_ddantumbra.xml:1814
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_UNDERWAY\"]/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"Да, я вроде как согласна... что же делать, тогда... хм... подождите, "
+"смотрите! Мы, наверное, задержались - Лжесияние вас обнаружило!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1819
 msgid ""
@@ -3412,46 +3738,68 @@ msgstr "Представить себе бой - действие, к котор
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/text"
 msgstr ""
+"...это... ОЧЕНЬ много взрывчатки - не говоря уже о наличии целого флота! "
+"Похоже, Лжесияние готовится к какому-то нападению, но... они еще не заметили "
+"ваше судно, ведь так? Если это так, то, возможно, было бы неплохо "
+"подкрасться к ним и каким-то образом сорвать их планы. Прежде чем они "
+"сделают что-то, э-э... ну, вы понимаете, плохое?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1833
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[@req=\"LIST_DRONES_DDFALSERADIANCE\"]/text"
 msgstr ""
+"Представить себе отвлекающий маневр - в котором используется сила притяжения "
+"Сияющего ядра. [1|]"
 
 #: src-en/data/events_sector_ddantumbra.xml:1835
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[@req=\"LIST_DRONES_DDFALSERADIANCE\"]/event/text"
 msgstr ""
+"О, это умно! Если вы оставите здесь свое Сияющее ядро, а моя сестра пошлет "
+"сигнал, то Лжесияние должно подойти и начать расследование. Затем, пока они "
+"будут отвлечены желанием обратить его в свою пользу, ВЫ проберетесь к их "
+"запасам взрывчатки и... бум! Мне кажется, это хороший план - только, э-э... "
+"будьте осторожны, ладно? Ваше Сияющее ядро должно быть в порядке, если вы не "
+"будете слишком сильно мешкать - к тому же, оно будет достаточно близко, "
+"чтобы вернуться к вам! Ну, знаете, на случай если вас, э-э... как‑нибудь "
+"поймают..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1840
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[@req=\"LIST_DRONES_DDFALSERADIANCE\"]/event/choice/text"
-msgstr ""
+msgstr "Представить себе план - который будет выполнен безупречно."
 
 #: src-en/data/events_sector_ddantumbra.xml:1846
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[@req=\"cloaking\"]/text"
 msgstr ""
+"Представить себе маскировку - продвинутую, даже среди самых передовых "
+"технологий."
 
 #: src-en/data/events_sector_ddantumbra.xml:1850
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[@req=\"engines\"]/text"
 msgstr ""
+"Представить себе двигатель - достаточно мощные, чтобы двигаться быстро и "
+"тихо."
 
 #: src-en/data/events_sector_ddantumbra.xml:1854
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[4]/text"
 msgstr ""
+"Представить себе безумную гонку - рискованную, но потенциально стоящую того."
 
 #: src-en/data/events_sector_ddantumbra.xml:1858
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[5]/text"
-msgstr ""
+msgstr "Представить себе конфронтацию - нет нужды прятаться в темноте."
 
 #: src-en/data/events_sector_ddantumbra.xml:1860
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[5]/event/text"
 msgstr ""
+"О, э-э... ну, если вы уверены! Я уважаю вашу решительность - безрассудство "
+"достойно восхищения! Я, э-э... я так думаю, в каком-то смысле...?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1865
 msgid ""
@@ -3461,12 +3809,18 @@ msgstr "Представить себе бой - действие, к котор
 #: src-en/data/events_sector_ddantumbra.xml:1871
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[6]/text"
-msgstr ""
+msgstr "Представить себе пожимание плечами - символ тех, кому все равно."
 
 #: src-en/data/events_sector_ddantumbra.xml:1873
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"NEUTRAL_DDANTUMBRA_SUBTERFUGE_REAL\"]/choice[6]/event/text"
 msgstr ""
+"П-подождите, но... если вы ничего не предпримете, то Лжесияние станет только "
+"сильнее...\n"
+"\t\t\t\n"
+"\t\t\t...ну, я, э-э... я думаю, это нормально, если вы уверены? Может быть, "
+"сейчас есть более подходящие места, а я просто не... не вижу общей картины! "
+"Да!"
 
 #: src-en/data/events_sector_ddantumbra.xml:1878
 msgid ""
@@ -3534,25 +3888,33 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...знаете, я тут подумала - вокруг Антумбрального измерения полно Сияющих "
+"ядер, но... вы вообще можете их использовать? Для работы им нужна энергия, "
+"что, по-моему, равносильно, э-э... системе контроля дронами, верно?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1929
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представьте себе дрон - то, чем можно управлять."
 
 #: src-en/data/events_sector_ddantumbra.xml:1931
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and @lvl=\"1\"]/event/text"
 msgstr ""
+"О, так вы МОЖЕТЕ их использовать! Как минимум, это хорошо. Ну, э-э... если "
+"хотите, моя сестра может послать сигнал, и кто-нибудь из Светоносцев придет "
+"и улучшит вам систему. Только, э-э... только в этот раз! У нее не "
+"бесконечная энергия, учитывая состояние ее судна, но... я думаю, это того "
+"стоит, правда?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1933
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Представить себе улучшение - неизбежное и желанное."
 
 #: src-en/data/events_sector_ddantumbra.xml:1935
 msgid ""
@@ -3560,13 +3922,20 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"1\"]/event/text"
 msgstr ""
+"Ее сигнал должен появиться через мгновение, и...\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t...вот, Светоносцы здесь! Надеюсь, это, э-э, ну, вы "
+"понимаете... станет для вас тем стимулом, который нужен в предстоящих "
+"сражениях. Учитывая, что, э-э... Архангелы наступают на вас, и все такое... "
+"ну, по крайней мере, НЕКОТОРЫЕ из Светоносцев прикроют вас! И я тоже прикрою "
+"вас - насколько это возможно..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1942
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"7\"]/text"
-msgstr ""
+msgstr "Представить себе улучшение - неизбежное и желанное."
 
 #: src-en/data/events_sector_ddantumbra.xml:1944
 msgid ""
@@ -3574,13 +3943,20 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"7\"]/event/text"
 msgstr ""
+"Ее сигнал должен появиться через мгновение, и...\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t...вот, Светоносцы здесь! Надеюсь, это, э-э, ну, вы "
+"понимаете... станет для вас тем стимулом, который нужен в предстоящих "
+"сражениях. Учитывая, что, э-э... Архангелы наступают на вас, и все такое... "
+"ну, по крайней мере, НЕКОТОРЫЕ из Светоносцев прикроют вас! И я тоже прикрою "
+"вас - насколько это возможно..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1951
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "Представить себе улучшение - желаемое, но невозможное."
 
 #: src-en/data/events_sector_ddantumbra.xml:1953
 msgid ""
@@ -3588,6 +3964,8 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"1\"]/event/choice[@req=\"drones\" and @lvl=\"8\"]/event/text"
 msgstr ""
+"А, понятно. Ну, вы не можете винить меня за то, что я пыталась! По крайней "
+"мере, надеюсь? П-пожалуйста, э-э... не надо."
 
 #: src-en/data/events_sector_ddantumbra.xml:1955
 msgid ""
@@ -3611,20 +3989,25 @@ msgstr "Представить себе ничто - то, что однажды
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Представить себе дрон - то, чем у вас нет возможности воспользоваться."
 
 #: src-en/data/events_sector_ddantumbra.xml:1969
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and @lvl=\"0\"]/event/text"
 msgstr ""
+"Да, я так и думала. Ну, э-э... если хотите, моя сестра может послать сигнал, "
+"и несколько Светоносцев придут и сделают необходимые модификации, чтобы "
+"установить систему вам. Только, э-э... только в этот раз! У нее не "
+"бесконечная энергия, учитывая состояние ее судна, но... я думаю, что это "
+"того стоит, правда?"
 
 #: src-en/data/events_sector_ddantumbra.xml:1971
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "Представить себе установку - добро пожаловать в грядущие войны."
 
 #: src-en/data/events_sector_ddantumbra.xml:1973
 msgid ""
@@ -3632,13 +4015,20 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[1]/event/text"
 msgstr ""
+"Ее сигнал должен появиться через мгновение, и...\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t...вот, Светоносцы здесь! Надеюсь, это, э-э, ну, вы "
+"понимаете... станет для вас тем стимулом, который нужен в предстоящих "
+"сражениях. Учитывая, что, э-э... Архангелы наступают на вас, и все такое... "
+"ну, по крайней мере, НЕКОТОРЫЕ из Светоносцев прикроют вас! И я тоже прикрою "
+"вас - насколько это возможно..."
 
 #: src-en/data/events_sector_ddantumbra.xml:1980
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_SYSTEMINSTALL\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Представить себе отказ – отсутствие интереса к подобным вещам."
 
 #: src-en/data/events_sector_ddantumbra.xml:1982
 msgid ""
@@ -3646,6 +4036,8 @@ msgid ""
 " and @lvl=\"0\"]/event/choice[@req=\"drones\" and "
 "@lvl=\"0\"]/event/choice[2]/event/text"
 msgstr ""
+"А, понятно. Ну, вы не можете винить меня за то, что я пыталась! По крайней "
+"мере, надеюсь? П-пожалуйста, э-э... не надо."
 
 #: src-en/data/events_sector_ddantumbra.xml:1984
 msgid ""
@@ -3706,48 +4098,66 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...какое ужасное зрелище. Сотни, если не тысячи, мертвых Светоносцев - "
+"каждый из них бесцельно дрейфует в космосе... За все время, что моя сестра "
+"была их надзирателем, она никогда не видела такого большого кладбища. Как бы "
+"мне ни хотелось этого не говорить, я... я думаю, что это сделало Лжесияние."
 
 #: src-en/data/events_sector_ddantumbra.xml:2022
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Представить себе жестокость – отвратительную в своем проявлении."
 
 #: src-en/data/events_sector_ddantumbra.xml:2024
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"Да, это низко, даже для них... Я не могу понять, почему они сочли "
+"необходимым пойти на такой шаг. Не то чтобы я могла хоть немного понять их "
+"мышление, но... какое отношение эта... эта... эта РЕЗНЯ имеет к их "
+"стремлению к божественности? Они могут враждовать с другими Светоносцами "
+"сколько угодно, но в конце концов, разве это не доказательство того, что "
+"именно они являются теми, кто действительно лишен разума?"
 
 #: src-en/data/events_sector_ddantumbra.xml:2026
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr ""
+"Представить себе тиранию - подобную той, которая охватывает все уголки "
+"Мультивселенной."
 
 #: src-en/data/events_sector_ddantumbra.xml:2028
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Есть ли... есть ли в вашей реальности такие существа, как Лжесияние?"
 
 #: src-en/data/events_sector_ddantumbra.xml:2030
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Представить себе пример - Восстание, отвратительное во всех отношениях."
 
 #: src-en/data/events_sector_ddantumbra.xml:2032
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это... звучит знакомо. Не знаю почему, но... в любом случае, я... я очень "
+"хочу, чтобы моя сестра проснулась и все исправила. Я ненавижу видеть, как "
+"Светоносцы страдают, после того как они уже столько сделали, чтобы "
+"избавиться от своих страданий... Разве цель их жертвы - их клятвы - не "
+"заключалась в том, чтобы избежать таких испытаний? Зачем все это было нужно, "
+"если Лжесияние может просто отнять все это без колебаний..."
 
 #: src-en/data/events_sector_ddantumbra.xml:2034
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_RESOURCES\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Представить себе тишину – момент почтения, посвященное павшим."
 
 #: src-en/data/events_sector_ddantumbra.xml:2036
 msgid ""
@@ -3755,6 +4165,13 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"...ну, говоря о, э-э... Светоносцах... мы не должны просто так их оставлять. "
+"Их цикл жизни и смерти обычно включает в себя слияние и реинкарнацию в новые "
+"формы, но... с МОГИЛЬЩИКОМ, захваченным Лжесиянием, похоже, что его работа "
+"осталась незавершенной. Но... моя сестра может попробовать сделать все, что "
+"в ее силах, вместо него! Даже с ее судном в таком состоянии она имеет "
+"большое влияние на Светоносцев - все, что вам нужно сделать, это "
+"представить, какими вы хотите их видеть, а она позаботится об остальном."
 
 #: src-en/data/events_sector_ddantumbra.xml:2038
 msgid ""
@@ -3762,6 +4179,8 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
+"Представить себе Светоносца - рожденного заново, в виде механического "
+"существа."
 
 #: src-en/data/events_sector_ddantumbra.xml:2040
 msgid ""
@@ -3769,6 +4188,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Он еще не совсем живой, без прикосновения МОГИЛЬЩИКА но... это лучшее, что "
+"моя сестра может сделать на данный момент. Надеюсь, он... сможет хорошо вам "
+"служить? По крайней мере, пока не будет проведена его настоящая реинкарнация!"
 
 #: src-en/data/events_sector_ddantumbra.xml:2045
 msgid ""
@@ -3776,6 +4198,8 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
+"Представить себе Светоносца - рожденного заново, превратившегося в нечто "
+"взрывное."
 
 #: src-en/data/events_sector_ddantumbra.xml:2047
 msgid ""
@@ -3783,6 +4207,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Он еще не совсем живой, без прикосновения МОГИЛЬЩИКА но... это лучшее, что "
+"моя сестра может сделать на данный момент. Надеюсь, он... сможет хорошо вам "
+"служить? По крайней мере, пока не будет проведена его настоящая реинкарнация!"
 
 #: src-en/data/events_sector_ddantumbra.xml:2052
 msgid ""
@@ -3790,6 +4217,8 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[3]/text"
 msgstr ""
+"Представить себе Светоносца - рожденного заново, превратившегося во что-то "
+"горючее."
 
 #: src-en/data/events_sector_ddantumbra.xml:2054
 msgid ""
@@ -3797,6 +4226,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"Он еще не совсем живой, без прикосновения МОГИЛЬЩИКА но... это лучшее, что "
+"моя сестра может сделать на данный момент. Надеюсь, он... сможет хорошо вам "
+"служить? По крайней мере, пока не будет проведена его настоящая реинкарнация!"
 
 #: src-en/data/events_sector_ddantumbra.xml:2069
 msgid ""
@@ -3841,12 +4273,15 @@ msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_MISSILELOVE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"...эти Светоносцы выглядят, как будто они спят! Честно говоря, они довольно "
+"милые - ну, когда не занимаются массовым уничтожением. Если бы вы, э-э, "
+"захотели... было бы не так уж и сложно что-нибудь из них получить."
 
 #: src-en/data/events_sector_ddantumbra.xml:2093
 msgid ""
 "data/events_sector_ddantumbra.xml$//event[@name=\"ITEMS_DDANTUMBRA_MISSILELOVE\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Представить себе замешательство - сначала нужно научиться понимать."
 
 #: src-en/data/events_sector_ddantumbra.xml:2095
 msgid ""
@@ -5639,13 +6074,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GRAVEDIGGERLOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3161
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GRAVEDIGGERLOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3168
 msgid ""
@@ -5780,13 +6215,13 @@ msgstr ""
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GODCORELOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3267
 msgid ""
 "data/events_sector_ddantumbra.xml$//ship[@name=\"DDANTUMBRA_GODCORELOCATION_FIGHT\"]/destroyed/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr "Представьте себе победу - тяжело завоеванную столь же долгожданную."
+msgstr "Представить себе победу - тяжело завоеванную столь же долгожданную."
 
 #: src-en/data/events_sector_ddantumbra.xml:3274
 msgid ""
