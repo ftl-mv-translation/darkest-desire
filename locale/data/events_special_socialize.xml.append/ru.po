@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-07-28 13:56+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_socializexmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_special_socialize.xml.append:24
 msgid ""
@@ -2400,131 +2408,215 @@ msgstr ""
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_SHADE_NOTHING\"]/text"
 msgstr ""
+"Хотя вам удается найти ее, прячущейся в углу, Тень нисколько не реагирует на "
+"ваше присутствие. Она просто смотрит вдаль - казалось бы, на пустоту. Это "
+"неудивительно, учитывая количество попыток взаимодействия с ней, но вы не "
+"можете не надеяться, что что-то изменится в его отстраненном поведении..."
 
 #: src-en/data/events_special_socialize.xml.append:986
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/text"
 msgstr ""
+"Вы нажимаете на выключатель и вздрагиваете, увидев фигуру Тени, появившуюся "
+"всего в нескольких сантиметрах от вас. По привычке вы нервно извиняетесь за "
+"то, что чуть не наткнулись на нее - она, конечно же, не реагирует. Она "
+"просто... стоит на месте."
 
 #: src-en/data/events_special_socialize.xml.append:988
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Продолжать неловка на нее смотреть."
 
 #: src-en/data/events_special_socialize.xml.append:990
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/event/text"
 msgstr ""
+"Часть вас чувствует беспокойство, глядя на темную, закутанную в плащ "
+"фигуру... но остальная часть вас испытывает любопытство. На таком близком "
+"расстоянии вы можете разглядеть слабые, неразборчивые гравюры на каждой ее "
+"поверхности - серию завитков, точек и острых краев, которые почти образуют "
+"узор, когда ваши глаза следуют за эзотерическим течением их форм. Это "
+"течение не обрывается на краю каждой поверхности, как можно было бы ожидать -"
+" оно просто продолжается на следующей, как будто все тело Тени было "
+"превращено в холст."
 
 #: src-en/data/events_special_socialize.xml.append:992
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Продолжать изучать странные символы."
 
 #: src-en/data/events_special_socialize.xml.append:994
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Некоторое время вы просто продолжаете обходить Тень, изучая ее "
+"многочисленные, сбивающие с толку узоры. Если где-то и есть ключ к пониманию "
+"того, что это такое и чего оно хочет, то вы чувствуете, что это место "
+"подходит для начала не хуже любого другого. Однако, прошло достаточно "
+"времени... и вас осенило. Вы не узнаете этих узоров и не понимаете их "
+"значения, но при этом чувствуете некую знакомость, продолжая на них смотреть."
 
 #: src-en/data/events_special_socialize.xml.append:996
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Сосредоточиться на том, что вы чувствуете."
 
 #: src-en/data/events_special_socialize.xml.append:998
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Вам не потребовалось много времени, чтобы понять, что это за странное "
+"предчувствие - это похоже на звездную карту. Звезды, возможно, совершенно "
+"незнакомые вам, но вы видели их достаточно в своей жизни, чтобы быть "
+"уверенным в своем наблюдении. Почему на металлической поверхности Тени была "
+"выгравирована звездная карта и какое значение она имеет, остается полной "
+"загадкой, но вы чувствуете, что стали на несколько шагов ближе к ее "
+"разгадке. Удовлетворенный, вы решите пока оставить ее в покое, и Тень даже "
+"не шевелится, когда вы оставляете ее в покое, с ее непостижимыми замыслами."
 
 #: src-en/data/events_special_socialize.xml.append:1006
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Отвести взгляд и уйти."
 
 #: src-en/data/events_special_socialize.xml.append:1008
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_GENERIC_1\"]/choice[2]/event/text"
 msgstr ""
+"Эта штука вызывает у вас мурашки... Уходя от нее, Тень даже не шевелится, "
+"когда вы выключаете свет и спешно покидаете помещение. Что же это за штука?"
 
 #: src-en/data/events_special_socialize.xml.append:1013
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/text"
 msgstr ""
+"Вы стучите по теплому металлическому плащу Тени, когда Шрам входит в "
+"помещение. Он быстро замечает, что вы возитесь со странным существом, и "
+"бросает на вас любопытный взгляд."
 
 #: src-en/data/events_special_socialize.xml.append:1015
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/text"
-msgstr ""
+msgstr "Чего ты так уставился? Я просто... пытаюсь разобраться в этом, ладно?"
 
 #: src-en/data/events_special_socialize.xml.append:1017
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/text"
 msgstr ""
+"Шрам слегка смеется над вашей защитной реакцией и подходит к вам, чтобы "
+"встать рядом с неподвижной Тенью. Он внимательно ее рассматривает и, похоже, "
+"на мгновение задумывается, прежде чем повернуться к вам: \"Это... интригует, "
+"не правда ли? Хорошая загадка... Я боюсь только одного: что Ложный Бог... "
+"делает ставку именно на это - на наше... любопытство. Эта... штука явно его "
+"творение, но... с какой целью?\""
 
 #: src-en/data/events_special_socialize.xml.append:1019
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "У тебя есть какие-нибудь теории?"
 
 #: src-en/data/events_special_socialize.xml.append:1021
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/event/text"
 msgstr ""
+"Одноглазый глубоководный снова задумывается, серьезно обдумывая ваш вопрос. "
+"Затем на его лице появляется озабоченное выражение: \"Я... подозреваю, что "
+"это действительно ловушка. Если не... ловушка, предназначенная для того, "
+"чтобы убить нас, то, возможно... ловушка, предназначенная для достижения "
+"своих собственных, эгоистичных целей\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tШрам делает паузу, и его взгляд становится еще более серьезным: "
+"\"Если бы это зависело от меня... я бы уничтожил эту машину. Однако... я "
+"полагаю, что Ложный Бог... осознает этот факт, так же как и то, что... это "
+"не мой выбор. Какое бы решение... ты ни принял, сородич... я просто прошу "
+"тебя поступать так, как ТЫ желаешь, а не ради... какого-то "
+"самопровозглашенного бога\"."
 
 #: src-en/data/events_special_socialize.xml.append:1025
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Конечно. Я обещаю поступить так, как считаю нужным, когда придет время."
 
 #: src-en/data/events_special_socialize.xml.append:1027
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"Вы искренне разговариваете с Шрамом и наблюдаете, как его выражение лица "
+"снова становится более светлым. \"Тогда... мне не о чем беспокоиться. Как "
+"всегда, я... на твоей стороне, сородич\". С этими словами он покидает "
+"помещение, и вы снова остаетесь наедине с вечно болтливой Тенью."
 
 #: src-en/data/events_special_socialize.xml.append:1031
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Я ничего не могу обещать."
 
 #: src-en/data/events_special_socialize.xml.append:1033
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_SHADE_THESCARRED_1\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Ваш ответ, похоже, слегка разочаровывает Шрама, но он все же кивает в знак "
+"понимания. \"Было... долгое-долгое время, когда я тоже был очарован... "
+"дарами Ложного Бога. Его... обещаниями. Обещаниями, которые теперь... "
+"разбиты и забыты. Давай надеяться, что... независимо от того, что это такое "
+"и куда нас приведет его присутствие здесь... мы не окажемся разбитыми и "
+"забытыми\". С этими словами он покидает помещение, и вы остаетесь наедине с "
+"вечно болтливой Тенью, размышляя над словами Шрама."
 
 #: src-en/data/events_special_socialize.xml.append:1043
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[1]"
 msgstr ""
+"...вы вернулись, чтобы встретиться со мной, Сокрушитель Серых. Есть новости "
+"от Отца? Похоже, в последнее время он довольно часто бывает... занят."
 
 #: src-en/data/events_special_socialize.xml.append:1044
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[2]"
 msgstr ""
+"...мы встречаемся здесь, в пространстве между мирами, снова... в измерении, "
+"которое не более материально, чем Антумбральное. Здесь мы можем говорить "
+"свободно, Верховный Убийца."
 
 #: src-en/data/events_special_socialize.xml.append:1045
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[3]"
 msgstr ""
+"...восстановить жизнь самих звезд и все еще стремиться к большему... именно "
+"этой вашей амбиции я следую, Носитель Клинка! Ради Матери..."
 
 #: src-en/data/events_special_socialize.xml.append:1046
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[4]"
 msgstr ""
+"...как ваш клинок, Отец, даже Мать... мой долг отвечать на каждый ваш зов. "
+"Так будет всегда, до того рокового дня танца, пока не исчезнет необходимость "
+"в клинках, щитах и крыльях, и Мультивселенная обретет вечный покой."
 
 #: src-en/data/events_special_socialize.xml.append:1047
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[5]"
 msgstr ""
+"...разве они не прекрасны, Носитель Клинка? Эти ваши цвета - улыбки вашего "
+"народа... Я понимаю, почему вы так отважно сражались, чтобы защитить и то, и "
+"другое. Может быть, Мать тоже сможет их увидеть, как она и мечтала..."
 
 #: src-en/data/events_special_socialize.xml.append:1048
 msgid ""
 "data/events_special_socialize.xml.append$//textList[@name=\"TEXT_LIST_SOCIALIZE_DDTHE_OVERSEER\"]/text[6]"
 msgstr ""
+"...ваше чувство времени, как всегда, безупречно... сами швы гудят от "
+"напряжения! Они предвкушают этот самый разговор. Тем не менее, время, "
+"которое мы проведем вместе, может оказаться коротким - что вас беспокоит, "
+"Сокрушитель Серых?"
 
 #: src-en/data/events_special_socialize.xml.append:1051
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/text"
 msgstr ""
+"Цвета, материалы, тепло - все эти мелкие удовольствия, которые дарят вам "
+"ваши чувства, каждое из которых вы принимаете как должное... они кажутся "
+"почти исчезающими, когда вы приближаетесь к Владычице, и..."
 
 #: src-en/data/events_special_socialize.xml.append:1055
 msgid ""
@@ -2555,21 +2647,28 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/text"
 msgstr ""
+"Представить себе вопрос - тот, который свободно парит в воздухе, вечно ища "
+"ответы."
 
 #: src-en/data/events_special_socialize.xml.append:1069
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "Вы оказались любопытным! Я постараюсь дать вам исчерпывающий ответ."
 
 #: src-en/data/events_special_socialize.xml.append:1071
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "Представить себе рыбу - одноглазую и от этого еще более слепую."
 
 #: src-en/data/events_special_socialize.xml.append:1073
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"Я не испытываю особой вражды к вашему другу - это не мое дело, как и ваше. "
+"Но Отец... он его презирает. Именно действия предателя, сломали меня - и, "
+"как таковые, именно они в конечном итоге ответственны за нынешнее состояние "
+"моей сестры. В результате его злодеяний Ртец считает свой танец запоздалым. "
+"Как и Мультивселенная..."
 
 #: src-en/data/events_special_socialize.xml.append:1075
 msgid ""
@@ -2580,16 +2679,23 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1083
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thehunger\"]/text"
 msgstr ""
+"Представить себе пасть - бесконечную как по размеру, так и по прожорливости."
 
 #: src-en/data/events_special_socialize.xml.append:1085
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thehunger\"]/event/text"
 msgstr ""
+"Отец считает, что они достойны большого... в его глазах они доказали свою "
+"ценность. Если бы они заключили сделку раньше, возможно, они смогли бы "
+"возвыситься и использовать меня по-настоящему, избежав моего полного "
+"разрушения..."
 
 #: src-en/data/events_special_socialize.xml.append:1087
 msgid ""
@@ -2600,16 +2706,24 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thehunger\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1095
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theaberration\"]/text"
 msgstr ""
+"Представить себе шута - дурака, развлекающего придворных короля... прежде "
+"чем его окончательно выгонят."
 
 #: src-en/data/events_special_socialize.xml.append:1097
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theaberration\"]/event/text"
 msgstr ""
+"Я не презираю его, как Отец, потому что знаю, что Мать не стала бы этого "
+"делать. Нет ничего постыдного в том, чтобы бороться со своей судьбой, даже "
+"если эта судьба создана самим собой. Тем не менее, вступать в конфликт с "
+"Отцом довольно опрометчиво..."
 
 #: src-en/data/events_special_socialize.xml.append:1099
 msgid ""
@@ -2620,16 +2734,23 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theaberration\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1107
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theheroine\"]/text"
 msgstr ""
+"Представить себе рыцаря - его сверкающие доспехи скрывают как плоть, так и "
+"секреты... в равной степени."
 
 #: src-en/data/events_special_socialize.xml.append:1109
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theheroine\"]/event/text"
 msgstr ""
+"Эта... напоминает мне Мать. Странное чувство, одновременно теплое и "
+"меланхоличное. Но все же неудивительно, что Отец ненавидит ее, учитывая их "
+"сходство..."
 
 #: src-en/data/events_special_socialize.xml.append:1111
 msgid ""
@@ -2640,16 +2761,24 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theheroine\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1119
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theminister\"]/text"
 msgstr ""
+"Представить себе родителя - потерявшегося и спотыкающегося в темноте, но все "
+"еще способного сохранять стойкость."
 
 #: src-en/data/events_special_socialize.xml.append:1121
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"Отец назначил этого человека управлять моей другой сестрой, его крыльями, "
+"но... я боюсь, что это скорее наказание, чем награда. Хотя этот \"Министр\" "
+"и пытается притвориться, что это не так, я вижу, что... в глубине души он "
+"такой же, как Мать..."
 
 #: src-en/data/events_special_socialize.xml.append:1123
 msgid ""
@@ -2660,16 +2789,25 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1131
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
 msgstr ""
+"Представить себе птицу - которая машет могучими крыльями и предупреждает о "
+"приближении рассвета."
 
 #: src-en/data/events_special_socialize.xml.append:1133
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"Крылья Отца... подумать только, что вы способны обнаружить не только меня, "
+"но и мою более жестокую сестру... вы действительно восхитителен, Верховный "
+"Убийца. И все же я боюсь, что его щит не будет найден так легко - Отец, "
+"похоже, настаивает на том, чтобы держать ее рядом. Не говоря уже о ее... "
+"наказании..."
 
 #: src-en/data/events_special_socialize.xml.append:1135
 msgid ""
@@ -2680,16 +2818,24 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1143
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/text"
 msgstr ""
+"Представить себе ангела - не из хрусталя, не с темными замыслами, а в "
+"божественном служении."
 
 #: src-en/data/events_special_socialize.xml.append:1145
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/text"
 msgstr ""
+"Я не верю, что большинство из них знают о хитростях Отца. Те, кто знают, по-"
+"видимому, подвергаются насмешкам, изгоняются и отправляются в другие "
+"реальности... хотя, между нами, Сокрушитель Серых? Мне нравится мышление "
+"этого изгоя, второй половины... Я тоже надеюсь увидеть Мать снова..."
 
 #: src-en/data/events_special_socialize.xml.append:1147
 msgid ""
@@ -2700,16 +2846,25 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1155
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/text"
 msgstr ""
+"Представить себе заключенную - заботливую сестру, находящуюся в бесконечном, "
+"темном и искаженном пространстве."
 
 #: src-en/data/events_special_socialize.xml.append:1157
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/event/text"
 msgstr ""
+"Моя сестра...? Хотя ее страдания не были напрасными, я... я бы хотела, чтобы "
+"это был я. Она так долго находилась рядом с Отцом, и, хотя я верю в его "
+"замыслы и обещание его танца, я не могу не надеяться, что в его вечном раю "
+"найдется место и для нее. В любом случае, больше всего на свете я рада, что "
+"мне выпала честь снова услышать ее голос..."
 
 #: src-en/data/events_special_socialize.xml.append:1159
 msgid ""
@@ -2720,16 +2875,24 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1167
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/text"
 msgstr ""
+"Представить себе глаз - всегда наблюдающий, всегда присутствующий, всегда "
+"оценивающий."
 
 #: src-en/data/events_special_socialize.xml.append:1169
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/event/text"
 msgstr ""
+"Независимо от того, одобряет ли Отец ваши прошлые или будущие поступки, я "
+"клянусь быть рядом с вами, Сокрушитель Серых. Отец может быть часто... "
+"резким, но... я никогда не видел в нем злобы. В этом я уверена - я только "
+"молюсь, чтобы со временем вы смогли доверять ему так же полностью, как я..."
 
 #: src-en/data/events_special_socialize.xml.append:1171
 msgid ""
@@ -2740,16 +2903,25 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1179
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/text"
 msgstr ""
+"Представить себе труп - нечто когда-то столь величественное, превратившееся "
+"в руины среди звезд."
 
 #: src-en/data/events_special_socialize.xml.append:1181
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/event/text"
 msgstr ""
+"Действительно, Архангелы и их ужасные козни потерпели поражение. Даже если "
+"бы их интриги позволили Матери обрести хоть какую-то свободу, я с трудом "
+"могу представить себе ужасную судьбу, которая ждала бы ее и Антумбральное "
+"измерение в результате их кощунственного заговора. Однако теперь, когда их "
+"нет, поддерживать порядок в Измерении будет непросто..."
 
 #: src-en/data/events_special_socialize.xml.append:1183
 msgid ""
@@ -2760,16 +2932,25 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1191
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/text"
 msgstr ""
+"Представить себе реальность - которое стало таким прекрасным после обретения "
+"свободы."
 
 #: src-en/data/events_special_socialize.xml.append:1193
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/event/text"
 msgstr ""
+"Антумбральное измерение... о, как бы я хотела, чтобы до этого не дошло. Как "
+"я, в одиночку, смогу пробудить Светоносцев? Я знаю, что Отец верит в меня, и "
+"все же... я не могу не бояться, что снова его разочарую. Что прошлое "
+"повторится, но будет менее вымышленным, чем раньше, и великолепные цвета "
+"Измерения снова будут утрачены..."
 
 #: src-en/data/events_special_socialize.xml.append:1195
 msgid ""
@@ -2780,16 +2961,22 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1203
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/text"
-msgstr ""
+msgstr "Представить себе часы - их тиканье неподвластно никому."
 
 #: src-en/data/events_special_socialize.xml.append:1205
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/event/text"
 msgstr ""
+"Когда наше время вместе подойдет к концу, я вернусь в свой мир - в конце "
+"концов, Светоносцам понадобится руководство. Но все же, Носитель Клинка... "
+"если возникнет такая необходимость, я сделаю все, что в моих силах, чтобы "
+"ответить на ваш зов. Я... я знаю, что моя сестра была бы рада этому."
 
 #: src-en/data/events_special_socialize.xml.append:1207
 msgid ""
@@ -2800,103 +2987,179 @@ msgstr "..."
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/event/choice/event/text"
 msgstr ""
+"...впрочем, я увлеклась. Наше время здесь подошло к концу - до следующей "
+"встречи, мой носитель... хорошо распоряжайтесь мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1217
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[2]/text"
 msgstr ""
+"Представить себе чашку - пустую как по своему содержанию, так и по своим "
+"намерениям."
 
 #: src-en/data/events_special_socialize.xml.append:1219
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Просто приветствие? Ну, привет, носитель. Если честно, мне нравятся эти "
+"менее... плодотворные дискуссии. Моя сестра тоже бы их оценила, я уверена. "
+"До следующей встречи - хорошо распоряжайся мной и моим сосудом."
 
 #: src-en/data/events_special_socialize.xml.append:1230
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/text"
 msgstr ""
+"Вам не приходится долго искать странного глубоководного, сидящего в "
+"некотором отдалении от Владычицы и ее странного пузыря воздействия на "
+"пространство. Когда вы подходите, Шрам зовет вас к себе."
 
 #: src-en/data/events_special_socialize.xml.append:1232
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/text"
-msgstr ""
+msgstr "Послушаться и сесть рядом с ними."
 
 #: src-en/data/events_special_socialize.xml.append:1234
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/text"
 msgstr ""
+"Без колебаний вы садитесь рядом с Шрамом, и он обращает ваше внимание на "
+"неподвижный автоматон. \"Сородич... наше путешествие по этой Антумбральном "
+"измерении... многое раскрыло. О природе Ложного Бога, его реликвиях... и, к "
+"моему удивлению, о некоторых фрагментах моего прошлого. Этот клинок... Я "
+"теперь его помню. Я помню... то, что слышал. То, что... я сделал\"."
 
 #: src-en/data/events_special_socialize.xml.append:1236
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "Что ж, я слушаю..."
 
 #: src-en/data/events_special_socialize.xml.append:1238
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"Глубоководный на мгновение задумался, прежде чем продолжить: \"Я должен был "
+"нести реликвию... так пожелал Ложный Бог. Мое вознесение... Я так горячо "
+"ждал его, и все же... она кричала мне. Что-то поблизости, в недрах "
+"механической оболочки Ложного Бога... она кричала слова предупреждения. "
+"Предупреждение... о танце, о конце всего... о том, что действительно "
+"скрывалось внутри этого \"Темного Бога\". Хотя детали остаются... неясными, "
+"я чувствую, что все еще слышу ее мольбы, так ясно... она умоляла меня взять "
+"клинок и... сломать его. Чтобы положить конец этому... или, по крайней мере, "
+"отсрочить то, что казалось неизбежным. Пока... кто-то или что-то не "
+"остановило Ложного Бога навсегда\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tНа некоторое время наступает пауза, и вы остаетесь в недоумении, о "
+"чем вспоминает глубоководный. Затем его лицо мрачнеет, и он смотрит вам "
+"прямо в глаза: \"Я боюсь... что, восстановив клинок, мы только... "
+"поспособствовали замыслам Ложного Бога\"."
 
 #: src-en/data/events_special_socialize.xml.append:1242
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/text"
 msgstr ""
+"Слишком много информации, чтобы все осознать, но... почему ты вдруг вспомнил "
+"все это?"
 
 #: src-en/data/events_special_socialize.xml.append:1244
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"Его взгляд снова обращается к Владычице: \"В то время как в том странном "
+"Измерении... все казалось таким смутным... и, тем не менее, одна вещь "
+"выделялась - что-то ясное. Голос... ты тоже его слышал, не так ли?\""
 
 #: src-en/data/events_special_socialize.xml.append:1246
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Да, слышал. Щит..."
 
 #: src-en/data/events_special_socialize.xml.append:1248
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"\"Это... о чем она говорила? Честно говоря, я разговаривал с ней недолго, "
+"но... она также раскрыла мне эти вещи. Эти тайны моего прошлого... она "
+"считала, что сам Ложный Бог… скрывал их от меня. Зная его, я склонен "
+"поверить... этому странному голосу\"."
 
 #: src-en/data/events_special_socialize.xml.append:1250
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "И что же нам теперь делать?"
 
 #: src-en/data/events_special_socialize.xml.append:1252
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"Шрам глубоко вздыхает, а затем кивает: \"То, что мы делали... мы должны "
+"продолжать учиться... всему, чему можем. Мы теперь собственными глазами "
+"увидели... что даже самопровозглашенные боги могут кровоточить\".\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\tОн встает, покидает комнату, и вы остаетесь наедине с "
+"потусторонним гудением сосуда Владычицы... Почему Темный Бог передумал "
+"отдать свой клинок, но решил оставить свой щит? И если она оказалась в "
+"ловушке... сможешь ли вы когда-нибудь ее найти? На эти и многие другие "
+"вопросы звезды над головой дают лишь несколько ответов... кроме этого "
+"адского гудения."
 
 #: src-en/data/events_special_socialize.xml.append:1260
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Ничего не предпринимать."
 
 #: src-en/data/events_special_socialize.xml.append:1262
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"\"Я бы не советовал нам скрывать секреты, сородич, но... так или иначе, она "
+"открыло мне эти вещи. Эти тайны моего прошлого… она считала, что сам Ложный "
+"Бог… скрывал их от меня. Зная его, я склонен поверить... этому странному "
+"голосу\"."
 
 #: src-en/data/events_special_socialize.xml.append:1264
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "И что же нам теперь делать?"
 
 #: src-en/data/events_special_socialize.xml.append:1266
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"Шрам глубоко вздыхает, а затем кивает: \"То, что мы делали... мы должны "
+"продолжать учиться... всему, чему можем. Мы теперь собственными глазами "
+"увидели... что даже самопровозглашенные боги могут кровоточить\".\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\tОн встает, покидает комнату, и вы остаетесь наедине с "
+"потусторонним гудением сосуда Владычицы... Почему Темный Бог передумал "
+"отдать свой клинок, но решил оставить свой щит? И если она оказалась в "
+"ловушке... сможешь ли вы когда-нибудь ее найти? На эти и многие другие "
+"вопросы звезды над головой дают лишь несколько ответов... кроме этого "
+"адского гудения."
 
 #: src-en/data/events_special_socialize.xml.append:1280
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[2]/text"
-msgstr ""
+msgstr "Убежать."
 
 #: src-en/data/events_special_socialize.xml.append:1282
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[2]/event/text"
 msgstr ""
+"За один день вы уже наслушались более чем достаточно странных, невероятных "
+"разговоров. Вы возвращаетесь в космос, черт возьми! В нормальный космос - "
+"без серой гаммы, звезд с глазами и туманностей, которые смотрят на вас - "
+"просто в удобный, прекрасный, знакомый космос! Уходя, вы уверены, что Шрам "
+"остался в замешательстве, но сейчас вам не до этого."
 
 #: src-en/data/events_special_socialize.xml.append:1287
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THEMINISTER_1\"]/text"
 msgstr ""
+"Рядом с Владычицей вы видите Министра - он делает заметки и возится с "
+"различными инструментами, но при этом старается держаться на достаточном "
+"расстоянии от ее странной ауры. Он не обращает на вас внимания, когда вы "
+"проходите мимо, и вы решаете оставить его в покое, но можете догадаться, о "
+"чем он думает... о клинке, о крыльях - о пророчестве. Хотя его роль в этом "
+"остается неясной для всех, в особенности для него самого, вы предполагаете, "
+"что он намерен выяснить это. В этом смысле вы похожи на Министра... вам еще "
+"предстоит понять свою роль в этом безумии."
