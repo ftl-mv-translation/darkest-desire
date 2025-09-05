@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-09-06 19:18+0000\n"
+"Last-Translator: Aleev <aleev1414@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_sector_ddsoulplaguexml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_sector_ddsoulplague.xml:13
 msgid ""
@@ -1669,16 +1677,18 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/text"
 msgstr ""
+"Перед тем как совершить покупки, у вас еще есть немного времени, чтобы "
+"заняться чем-либо еще на корабле."
 
 #: src-en/data/events_sector_ddsoulplague.xml:1048
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/choice[1]/text"
-msgstr ""
+msgstr "Заняться чем-либо на корабле."
 
 #: src-en/data/events_sector_ddsoulplague.xml:1052
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/choice[2]/text"
-msgstr ""
+msgstr "Ничего не делать."
 
 #: src-en/data/events_sector_ddsoulplague.xml:1058
 msgid ""
