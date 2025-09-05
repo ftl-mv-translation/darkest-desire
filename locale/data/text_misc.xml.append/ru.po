@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-05 18:26+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
-"datatext_miscxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/text_misc.xml.append:1
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_deepone\"]"
@@ -125,8 +117,8 @@ msgstr "Система Осквернитель установлена"
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
 msgstr ""
-"На вас нападает масса чумы душ. Пока она остается в потревоженном состоянии, "
-"она будет периодически нападать на ваш корабль."
+"На вас нападает масса чумы душ. Пока она остается в потревоженном состоянии,"
+" она будет периодически нападать на ваш корабль."
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
@@ -137,9 +129,7 @@ msgstr ""
 #: src-en/data/text_misc.xml.append:29
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"warning_ddsoulplague_mass_hazard_text\"]"
-msgstr ""
-"ШТУРМ ЧУМЫ ДУШИ\\n"
-"НЕИЗБЕЖНО"
+msgstr "ШТУРМ ЧУМЫ ДУШИ\\nНЕИЗБЕЖНО"
 
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_disparity_1\"]"
@@ -153,15 +143,13 @@ msgid "data/text_misc.xml.append$//text[@name=\"loot_ddsoulplague_1\"]"
 msgstr ""
 "ДОБЫЧА ЧУМЫ ДУШИ\n"
 "+8 скорость дронов, -2 скорость луча, -10 длина луча\n"
-"+Режимы \"Огонь\" и \"Противокорпусный\" теперь являются режимами \"Чума\" и "
-"\"Хаос\""
+"+Режимы \"Огонь\" и \"Противокорпусный\" теперь являются режимами \"Чума\" и \"Хаос\""
 
 #: src-en/data/text_misc.xml.append:39
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
 "ДОБЫЧА ЛЖЕСИЯНИЯ\n"
-"+Поражает помещения эрозией и эффектом Сияющего осквернения, +8 выстрелов, -"
-"69 длина луча\n"
+"+Поражает помещения эрозией и эффектом Сияющего осквернения, +8 выстрелов, -69 длина луча\n"
 "+Порождает случайных Светоносцев вместо Голодных теней"
 
 #: src-en/data/text_misc.xml.append:43
@@ -175,8 +163,8 @@ msgid "data/text_misc.xml.append$//text[@name=\"tip_ddplagueridden_weapon\"]"
 msgstr ""
 "Совет: оскверненное чумой оружие создает в пораженном отсеке эффект "
 "осквернения чумой, который замедляет скорость ремонта противника и "
-"превращает его в союзника в виде оболочки чумы души, если они будут убиты во "
-"время действия эффекта!"
+"превращает его в союзника в виде оболочки чумы души, если они будут убиты во"
+" время действия эффекта!"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
@@ -190,7 +178,11 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
 "Совет: Оружие Светоносцев накладывает на помещения эффект Сияющего "
-"осквернения, который наносит врагам небольшой урон, снижает их боевой урон и "
-"скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
+"осквернения, который наносит врагам небольшой урон, снижает их боевой урон и"
+" скорость передвижения/саботажа. Кроме того, эффект позволяет полностью "
 "раскрыть потенциал Светоносцев, в дополнение к их генерации с помощью "
 "Сияющих ядер."
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ddtear_weapon\"]"
+msgstr ""

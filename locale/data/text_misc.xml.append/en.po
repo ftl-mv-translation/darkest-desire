@@ -150,7 +150,7 @@ msgstr ""
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
 "FALSE RADIANCE LOOT\n"
-"+Inflicts rooms hit with erosion and the Radiant Desecration effect, +8 shots, -69 beam length\n"
+"+Inflicts rooms hit with erosion and the Radiant Desecration effect, +6 shots, -69 beam length\n"
 "+Spawns random Lightborne instead of Hungering Shadows"
 
 #: src-en/data/text_misc.xml.append:43
@@ -184,3 +184,10 @@ msgstr ""
 "damage and movement/sabotage speed. Additionally, the effect allows "
 "Lightborne to fully function, complementing their generation via Radiant "
 "Cores."
+
+#: src-en/data/text_misc.xml.append:47
+msgid "data/text_misc.xml.append$//text[@name=\"tip_ddtear_weapon\"]"
+msgstr ""
+"Tip: This weapons generates volatile space tears - invulnerable pseudo-crew "
+"that deal system/hull/crew damage, briefly stun and have a good chance to "
+"create a fire every 3 seconds."
