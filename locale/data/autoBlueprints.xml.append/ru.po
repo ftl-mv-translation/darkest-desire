@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-10-19 13:20+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataautoblueprintsxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/autoBlueprints.xml.append:2584
 msgid ""
@@ -143,7 +151,7 @@ msgstr "Штурмовик Диссонанса"
 #: src-en/data/autoBlueprints.xml.append:3211
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"DDDISPARITY_ENGI_ASSAULT_CRYSTALLINE\"]/class"
-msgstr ""
+msgstr "Окровавленный штурмовик Диссонанса"
 
 #: src-en/data/autoBlueprints.xml.append:3236
 msgid ""
@@ -158,7 +166,7 @@ msgstr "Конвоир Диссонанса"
 #: src-en/data/autoBlueprints.xml.append:3282
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"DDDISPARITY_ENGI_OUTRIDER_CRYSTALLINE\"]/class"
-msgstr ""
+msgstr "Окровавленный конвоир Диссонанса"
 
 #: src-en/data/autoBlueprints.xml.append:3306
 msgid ""
@@ -173,7 +181,7 @@ msgstr "Такелажник Диссонанса"
 #: src-en/data/autoBlueprints.xml.append:3353
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"DDDISPARITY_ENGI_RIGGER_CRYSTALLINE\"]/class"
-msgstr ""
+msgstr "Окровавленный такелажник Диссонанса"
 
 #: src-en/data/autoBlueprints.xml.append:3377
 msgid ""
@@ -188,7 +196,7 @@ msgstr "Разведчик Диссонанса"
 #: src-en/data/autoBlueprints.xml.append:3422
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"DDDISPARITY_ENGI_SCOUT_CRYSTALLINE\"]/class"
-msgstr ""
+msgstr "Окровавленный разведчик Диссонанса"
 
 #: src-en/data/autoBlueprints.xml.append:3445
 msgid ""
@@ -573,4 +581,4 @@ msgstr "???"
 #: src-en/data/autoBlueprints.xml.append:5340
 msgid ""
 "data/autoBlueprints.xml.append$//shipBlueprint[@name=\"DDFED_BATTLESHIP_ELITE_ECHOEDDREAMQUEST\"]/class"
-msgstr ""
+msgstr "Линкор Единства"
