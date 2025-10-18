@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-10-19 13:20+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_lightspeedxmlappend/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:3
 msgid ""
@@ -571,21 +579,24 @@ msgstr "Я хочу... дроны."
 #: src-en/data/events_special_lightspeed.xml.append:398
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/text"
-msgstr "Провести ритуал Осквернения."
+msgstr "Провести ритуал Беспокойных духов."
 
 #: src-en/data/events_special_lightspeed.xml.append:400
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"Вы ударяете арматурой по колену и ломаете его. Затем вы ломаете второе, "
-"ломаете слабое плечо и каждое ребро по отдельности. Описать боль как "
-"мучительную было бы преуменьшением, и все же вы знаете, что она того стоит: "
-"ваши кости заживают, а гул в груди манит вас осуществить свое желание..."
+"Как и просил вас Потусторонний фолиант, вы достаете маленький острый кусок "
+"металла. Затем вы произносите короткое заклинание, и в мгновение ока металл "
+"выскакивает из ваших рук и вонзается в ваш череп, как будто он обладает "
+"собственным разумом. Однако вы не чувствуете боли, когда он впивается все "
+"глубже и глубже, а из образовавшейся раны начинает течь кровь... вы "
+"испытываете чувство полного понимания. Вы в порядке, нужно только воплотить "
+"свое желание..."
 
 #: src-en/data/events_special_lightspeed.xml.append:402
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr "Я хочу... осквернения."
+msgstr "Я хочу... душ."
 
 #: src-en/data/events_special_lightspeed.xml.append:408
 msgid ""
@@ -1468,8 +1479,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_lightspeed.xml.append:954
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/text"
-msgstr ""
-"(Член экипажа-энджи Диссонанса) Провести ритуал обнаружения кристалла."
+msgstr "(Член экипажа-энджи Диссонанса) Провести ритуал Диссонанса."
 
 #: src-en/data/events_special_lightspeed.xml.append:956
 msgid ""
@@ -1477,7 +1487,9 @@ msgid ""
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, написанном ярким фиолетовым шрифтом. В нем "
-"описаны процедуры поиска легендарных кристаллов Диссонанса."
+"описаны процедуры поиска легендарных кристаллов Диссонанса, в дополнение к "
+"более туманному ритуалу - любезно предоставленному одной из странных, "
+"выпавших страниц Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:958
 msgid ""
@@ -1584,12 +1596,14 @@ msgstr "Прочитать текст."
 #: src-en/data/events_special_lightspeed.xml.append:1018
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/text"
-msgstr ""
+msgstr "Провести ритуал, описанный на выпавшей странице."
 
 #: src-en/data/events_special_lightspeed.xml.append:1020
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/event/text"
 msgstr ""
+"После того, как жертва была принесена, и ваше желание стало известно, яркий "
+"свет начинает ослеплять ваше зрение..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1022
 msgid ""
@@ -1608,7 +1622,8 @@ msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, написанном сверкающим желтым шрифтом. В нем "
 "описывается процедура, как проявить себя перед Темным Богом и получить его "
-"дары."
+"дары, в дополнение к более туманному ритуалу - любезно предоставленному "
+"одной из странных, выпавших страниц Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
@@ -1647,12 +1662,14 @@ msgstr "Сосредоточиться на этом тепле."
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Провести ритуал, описанный на выпавшей странице."
 
 #: src-en/data/events_special_lightspeed.xml.append:1056
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
 msgstr ""
+"После того, как жертва была принесена, и ваше желание стало известно, вокруг "
+"вас раздается неприятный, бесплотный смех..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1058
 msgid ""
@@ -1767,7 +1784,9 @@ msgid ""
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, начертанном электрическим синим цветом. В нем "
-"описаны процедуры вызова порождений Бури и их пленения."
+"описаны процедуры вызова порождений Бури и их пленения, в дополнение к более "
+"туманному ритуалу - любезно предоставленному одной из странных, выпавших "
+"страниц Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:1123
 msgid ""
@@ -1794,12 +1813,14 @@ msgstr "Я желаю... Надзирателя порождений."
 #: src-en/data/events_special_lightspeed.xml.append:1137
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Провести ритуал, описанный на выпавшей странице."
 
 #: src-en/data/events_special_lightspeed.xml.append:1139
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/event/text"
 msgstr ""
+"После принесения жертвы и оглашения вашего желания по помещению проходит "
+"импульс электростатического тока..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1141
 msgid ""
