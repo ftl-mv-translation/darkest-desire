@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-19 13:20+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
 "Language: ru\n"
@@ -364,14 +364,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike[5]/mod:findLike/mod-"
 "append:choice[3]/text"
-msgstr "(Член экипажа-чума души) Принять облик Ткача оболочек чумы души."
+msgstr "(Член экипажа-глубоководный) Принять форму Просветленного Приносящего."
 
 #: src-en/data/events_special_storage.xml.append:242
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_MORPH_TRANSFORM\"]/mod:findLike[5]/mod:findLike/mod-"
 "append:choice[3]/event/text"
 msgstr ""
-"Ваш морф пытается принять облик Ткача оболочек, но что-то мешает ему... "
+"Ваш морф пытается принять облик Приносящего, но что-то мешает ему... "
 "Возможно, они используют какую-то непостижимую силу, которую не могут "
 "имитировать даже морфы."
 
@@ -574,7 +574,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:382
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:390
 msgid ""
@@ -618,7 +618,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:408
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_medic\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:416
 msgid ""
@@ -662,7 +662,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:434
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_engineer\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:442
 msgid ""
@@ -706,7 +706,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:460
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_soldier\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:468
 msgid ""
@@ -750,7 +750,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"human_technician\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:494
 msgid ""
@@ -822,14 +822,18 @@ msgstr "Неважно, заняться чем-то еще."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/text"
 msgstr ""
-"Вы подходите к Бледному сердцу и смотрите, как оно продолжает свое вечное биение. Насколько вы понимаете, вы можете принести в жертву Сердцу некоторых членов экипажа и превратить их в мутаген Илл'дритков, который можно использовать для мутации ваших статуй Илл'дритков.\n"
+"Вы подходите к Бледному сердцу и смотрите, как оно продолжает свое вечное "
+"биение. Насколько вы понимаете, вы можете принести в жертву Сердцу некоторых "
+"членов экипажа и превратить их в мутаген Илл'дритков, который можно "
+"использовать для мутации ваших статуй Илл'дритков.\n"
 "\n"
 "\tКРИСТАЛЛИН: МУТАГЕН МОРОЗНОГО ДЕРЕВА\n"
 "\tГЛУБОКОВОДНЫЙ: МУТАГЕН КОРНЯ ПУСТОТЫ\n"
 "\tЛАНИУС: МУТАГЕН ЖЕЛЕЗНОЙ ПЛОТИ\n"
 "\tПИЯВКА: МУТАГЕН ЯДОВИДОЙ ПЛОТИ\n"
 "\tОРХИДЕЯ: МУТАГЕН ЛИСТОНОСЦА\n"
-"\tВАЛУН: МУТАГЕН ПЕПЕЛЬНОЙ КОРЫ"
+"\tВАЛУН: МУТАГЕН ПЕПЕЛЬНОЙ КОРЫ\n"
+"\tРАКУШКА: ОБОЛОЧКА ДУШИ"
 
 #: src-en/data/events_special_storage.xml.append:550
 msgid ""
@@ -893,9 +897,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген Корня пустоты, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться черная слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген Корня пустоты, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:588
 msgid ""
@@ -925,9 +934,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген Железной плоти, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться коричневая слизь. Вы "
+"собираете ее в флакон, понимая: это - мутаген Железной плоти, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:607
 msgid ""
@@ -957,9 +971,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген Ядовитой плоти, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться фиолетовая слизь. Вы "
+"собираете ее в флакон, понимая: это - мутаген Ядовитой плоти, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:626
 msgid ""
@@ -989,9 +1008,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген Листоносца, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться зеленая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген Листоносца, за который вы пожертвовали "
+"своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:645
 msgid ""
@@ -1021,14 +1045,19 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген Пепельной коры, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться красная слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген Пепельной коры, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:664
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "(Член экипажа-ракушка) Подготовить флакон мутагена Оболочки души."
 
 #: src-en/data/events_special_storage.xml.append:666
 msgid ""
@@ -1056,7 +1085,7 @@ msgstr ""
 "...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
 "тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
 "желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
-"ее в флакон, понимая: это - мутаген Ядовитой плоти, за который вы "
+"ее в флакон, понимая: это - мутаген Оболочки души, за который вы "
 "пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
 "\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
@@ -1365,7 +1394,7 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[40]/text"
 msgstr ""
-"(Дрон \"Освободитель\") Настроить режим дрона. "
+"(Кристаллический дрон \"Освободитель\") Настроить режим дрона. "
 "[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:850
@@ -1373,20 +1402,24 @@ msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[41]/text"
 msgstr ""
-"(Дрон \"Освободитель\") Настроить режим дрона. [Текущий режим: Абордажный]"
+"(Кристаллический дрон \"Освободитель\") Настроить режим дрона. "
+"[Текущий режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:854
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[42]/text"
 msgstr ""
-"(Дрон \"Матка\") Настроить режим дрона. [Текущий режим: Противопехотный]"
+"(Кристаллический дрон \"Матка\") Настроить режим дрона. "
+"[Текущий режим: Противопехотный]"
 
 #: src-en/data/events_special_storage.xml.append:858
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_TOGGLE\"]/mod-"
 "append:choice[43]/text"
-msgstr "(Дрон \"Матка\") Настроить режим дрона. [Текущий режим: Абордажный]"
+msgstr ""
+"(Кристаллический дрон \"Матка\") Настроить режим дрона. "
+"[Текущий режим: Абордажный]"
 
 #: src-en/data/events_special_storage.xml.append:865
 msgid ""
@@ -1398,7 +1431,7 @@ msgstr "Изменить форму элиты Диссонанса."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"COMBAT_CHECK_REAL\"]/mod-"
 "append:choice[2]/text"
-msgstr "Призвать связанную с чумой души массу."
+msgstr "Изменить маску вашего Приносящего."
 
 #: src-en/data/events_special_storage.xml.append:873
 msgid ""
@@ -5025,7 +5058,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[3]/text"
-msgstr "(Мутаген Илл'дритк) Мутировать статую Илл'дритк."
+msgstr "(Эфирный фрагмент) Воплотить в жизнь обещанную мечту."
 
 #: src-en/data/events_special_storage.xml.append:3463
 msgid ""
@@ -5070,7 +5103,7 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[10]/text"
-msgstr ""
+msgstr "Изменить маску вашего Приносящего."
 
 #: src-en/data/events_special_storage.xml.append:3493
 msgid ""
@@ -5370,7 +5403,11 @@ msgstr ""
 "кристаллах Диссонанса, сказочных частицах силы, способных увеличить "
 "возможности маяков Диссонанса. Более того, описываются даже ритуалы, "
 "позволяющие найти эти кристаллы... и, если собрать все пять, то произойдет "
-"нечто потрясающее."
+"нечто потрясающее.\n"
+"\t\t\t\t\n"
+"\t\t\t\tВ конце этих рассказов вложена отдельная страница, текст на которой "
+"написан гораздо более неаккуратно, чем остальные. Более того, почерк на ней "
+"кажется совершенно другим, и на ней описан отдельный ритуал..."
 
 #: src-en/data/events_special_storage.xml.append:3666
 msgid ""
@@ -5463,11 +5500,13 @@ msgid ""
 msgstr "Изучить Легендарный кристалл."
 
 #: src-en/data/events_special_storage.xml.append:3723
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[6]/event/text"
 msgstr ""
 "ЛЕГЕНДАРНЫЙ КРИСТАЛЛ:\n"
-"\t\t\t\t\t\t\tГоворят, что если вы соберете все пять кристаллов Диссонанса, то через ритуал откроется путь к Легендарному кристаллу..."
+"\t\t\t\t\t\t\tГоворят, что если вы соберете все пять кристаллов Диссонанса, "
+"то через ритуал откроется путь к Легендарному кристаллу..."
 
 #: src-en/data/events_special_storage.xml.append:3726
 msgid ""
@@ -5750,6 +5789,7 @@ msgstr ""
 "текст."
 
 #: src-en/data/events_special_storage.xml.append:3910
+#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
@@ -8732,7 +8772,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:5756
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHK_RAINBOWMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[7]/text"
-msgstr ""
+msgstr "Мутация оболочки души."
 
 #: src-en/data/events_special_storage.xml.append:5758
 msgid ""
