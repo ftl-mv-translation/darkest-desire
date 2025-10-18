@@ -7417,12 +7417,14 @@ msgstr "..."
 
 #: src-en/data/events_sector_ddantumbra.xml:4239
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/text"
 msgstr "..."
 
 #: src-en/data/events_sector_ddantumbra.xml:4241
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 "...is this it...? Is this... the end? Archangel Protocol: GENESIS... s-show "
 "yourself, you coward! We're here to fix my sister, and clean up the mess "
@@ -7430,12 +7432,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4243
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/text"
 msgstr "Visualize agreement - there remains no place left to run."
 
 #: src-en/data/events_sector_ddantumbra.xml:4245
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 "T H E\n"
 "\t\t\t\t\tM E S S\n"
@@ -7451,12 +7455,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4263
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Visualize peace - restored, at last."
 
 #: src-en/data/events_sector_ddantumbra.xml:4265
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 "T H I S\n"
 "\t\t\t\t\t\t\tF A N T A S Y . . .\n"
@@ -7479,12 +7485,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4284
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
 msgstr "Visualize divinity - absolute power over existence."
 
 #: src-en/data/events_sector_ddantumbra.xml:4286
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "T H A T\n"
 "\t\t\t\t\t\t\t\t\tW O R D . . .\n"
@@ -7511,12 +7519,15 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4309
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize a question - worthy of an honest answer."
 
 #: src-en/data/events_sector_ddantumbra.xml:4311
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Hey, don't side with it! Look, I, um... I don't know what you saw in that mirror, GENESIS, but I do know one thing - you are WAY out of line. My friend here's fought through all of your little minions, just to bring my sister's battered body here... just to right the wrong that YOU'VE committed!\n"
 "\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7551,12 +7562,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4342
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize nonsense - an act, to get in one's head."
 
 #: src-en/data/events_sector_ddantumbra.xml:4344
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...no, it's... it's right. I, ah... I have so many dreams, but... w-what does that have to do with anything?\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7595,12 +7610,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4379
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize confusion - pure, unadulterated bewilderment."
 
 #: src-en/data/events_sector_ddantumbra.xml:4381
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "S-speak the truth plainly, or, I... I'm having my friend here kick your ass. I'm not in the mood for mind games, alright...?\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7680,12 +7699,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4457
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize bewilderment - pure, unadulterated confusion."
 
 #: src-en/data/events_sector_ddantumbra.xml:4459
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Th-the faces...? I... you mean to say the False Radiance... and, the Lightborne... the Shadows...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7757,12 +7780,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4527
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize an illusion - impressive, until broken."
 
 #: src-en/data/events_sector_ddantumbra.xml:4529
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "B-but, why...? Why would... how could... even if I could make this place, from my dreams... why would... Father...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7841,12 +7868,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4604
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize glass - that which shatters under strain."
 
 #: src-en/data/events_sector_ddantumbra.xml:4606
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...I... I can't... why is it... so dark...? I... I just...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7897,13 +7928,17 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4653
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 "Visualize truth - that which was sworn away first, as far as the story goes."
 
 #: src-en/data/events_sector_ddantumbra.xml:4655
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "A N D ,\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tW I T H\n"
@@ -7959,12 +7994,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4707
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize unease - the result of this lunacy."
 
 #: src-en/data/events_sector_ddantumbra.xml:4709
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "N O ,\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tW E\n"
@@ -8001,12 +8040,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4742
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize a stance - taken defensively, in light of what's to come."
 
 #: src-en/data/events_sector_ddantumbra.xml:4744
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "W I L L\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tY O U ,\n"
@@ -8022,10 +8065,29 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4763
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/triggeredEvent[4]/triggeredEventBox/tooltip"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/triggeredEvent[4]/triggeredEventBox/tooltip"
 msgstr "Archangel Protocol: GENESIS seems to be preparing something..."
 
 #: src-en/data/events_sector_ddantumbra.xml:4769
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Visualize the end - an inevitability, to be prepared for."
+
+#: src-en/data/events_sector_ddantumbra.xml:4799
+msgid ""
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr "..."
+
+#: src-en/data/events_sector_ddantumbra.xml:4801
+msgid ""
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"It's still quiet here, on the edge of everything... will you choose to "
+"return to your cluster, now that you've seen what true nothingness has to "
+"offer?"

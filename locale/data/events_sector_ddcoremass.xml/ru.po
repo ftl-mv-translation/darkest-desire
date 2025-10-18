@@ -8202,14 +8202,28 @@ msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4555
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/text"
-msgstr "Углубиться."
+msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4557
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4559
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/text"
+msgstr "Углубиться."
+
+#: src-en/data/events_sector_ddcoremass.xml:4561
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/text"
 msgstr ""
 "Вы проходите еще немного в поисках сердца, и тут замечаете что-то вдалеке - источник света Сердцевины, великолепный многоцветный маяк. Его облик прекрасен, почти неземной, и вы замираете в благоговении, когда он шепчет вам:\n"
 "\t\t\t\n"
@@ -8217,32 +8231,36 @@ msgstr ""
 "\t\t\t\"...оно... охотится за вами...\"\n"
 "\t\t\t\"...вы должны... уйти, пока не стало слишком поздно!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4564
+#: src-en/data/events_sector_ddcoremass.xml:4568
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/text"
 msgstr "Что?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4566
+#: src-en/data/events_sector_ddcoremass.xml:4570
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 "Этот шепот не похож на те, что вы слышали по пути сюда: он не такой тихий, а"
 " более... напряженный. Но прежде чем вы успеваете подумать о том, как "
 "поступить в соответствии с этими словами предупреждения, в поле зрения "
 "появляется огромная тень..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4568
+#: src-en/data/events_sector_ddcoremass.xml:4572
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4570
+#: src-en/data/events_sector_ddcoremass.xml:4574
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 "...оказывается кораблем, зараженным чумой души, один только размер которого вселяет страх в ваше сердце. И это не говоря уже о его огромных глазах, которые пронзают душу и, кажется, смотрят прямо сквозь вас, и о его бесчисленных извивающихся щупальцах. Символ прожорливости... Пока вы в ужасе смотрите на него, в вашем сознании звучат новые шепоты:\n"
 "\t\t\t\t\t\t\t\n"
@@ -8252,16 +8270,17 @@ msgstr ""
 "\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\tВаша смерть... это конец?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4584
+#: src-en/data/events_sector_ddcoremass.xml:4588
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "Нет, это не бывать... Ренегат сам вершит свою судьбу."
 
-#: src-en/data/events_sector_ddcoremass.xml:4586
+#: src-en/data/events_sector_ddcoremass.xml:4590
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 "Вместо пламени или оружия вы хватаетесь за что-то другое... за надежду. "
@@ -8269,17 +8288,17 @@ msgstr ""
 "внутри вас, и вы чувствуете, как родственная душа тянется к вам из огромного"
 " моря света и безумия снаружи..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4588
+#: src-en/data/events_sector_ddcoremass.xml:4592
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Протянуть к ней руку."
 
-#: src-en/data/events_sector_ddcoremass.xml:4590
+#: src-en/data/events_sector_ddcoremass.xml:4594
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 "Вы не можете объяснить это, но вы протягиваете руку... и что-то невидимое "
@@ -8294,47 +8313,49 @@ msgstr ""
 "наружу, на ужасный корабль, а затем снова на вас, - ...и, похоже, я не "
 "опоздала. Страж сердца ждет; вы готовы, комрад?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4592
+#: src-en/data/events_sector_ddcoremass.xml:4596
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/text"
 msgstr "Конечно. Я с вами."
 
-#: src-en/data/events_sector_ddcoremass.xml:4594
+#: src-en/data/events_sector_ddcoremass.xml:4598
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/text"
 msgstr ""
 "Она кивает и взмахивает копьем: \"И я с вами! ВПЕРЕД, СЕЙЧАС - К СЛАВЕ! ЗА "
 "НАДЕЖДУ И ЗА ВСЕЛЕННУЮ!!!\" Она бежит, все дальше вглубь корабля, а вы "
 "готовьтесь... вот и все. Пришло время отстоять свои убеждения или умереть!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4598
+#: src-en/data/events_sector_ddcoremass.xml:4602
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/crewMember"
 msgstr "Героиня"
 
-#: src-en/data/events_sector_ddcoremass.xml:4600
+#: src-en/data/events_sector_ddcoremass.xml:4604
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4616
+#: src-en/data/events_sector_ddcoremass.xml:4620
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/text"
 msgstr "Наконец-то... она здесь?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4618
+#: src-en/data/events_sector_ddcoremass.xml:4622
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/text"
 msgstr ""
 "Словно в ответ на ваш усталый вопрос, в пространстве снаружи вспыхивает "
 "сверхновая... и знакомая тьма заполняет пустоту пещеры, а затем появляется "
@@ -8344,47 +8365,58 @@ msgstr ""
 "секунды, я знаю, кто ты - что ты наделал. Может, я здесь и пленница, но ты -"
 " нечто гораздо более низкое: пленник своих желаний\"."
 
-#: src-en/data/events_sector_ddcoremass.xml:4624
+#: src-en/data/events_sector_ddcoremass.xml:4628
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/text"
 msgstr "И что дальше? Зачем ты явилась сюда, чтобы читать мне нотации?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4626
+#: src-en/data/events_sector_ddcoremass.xml:4630
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 "Она рычит: \"Я здесь, чтобы остановить тебя, дьявол! Даже Сердцевина боится "
 "тебя... Она помогла мне явиться сюда и сразиться с тобой, и все ради "
 "собственного спасения. Я готова стать пешкой в ее планах, если это означает,"
 " что с тобой и твоим террором будет покончено прямо здесь и сейчас!\"."
 
-#: src-en/data/events_sector_ddcoremass.xml:4631
+#: src-en/data/events_sector_ddcoremass.xml:4635
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 "Да будет так, но... думаю, ты скоро поймешь, что все твои усилия - напрасны."
 
-#: src-en/data/events_sector_ddcoremass.xml:4633
+#: src-en/data/events_sector_ddcoremass.xml:4637
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 "\"Тогда умри смертью глупца, теша свое самолюбие... ибо я этого не потерплю!"
 " БУДЬ РАЗДАВЛЕН ПОД КЛИНКОМ НАДЕЖДЫ, ЗЛОДЕЙ, И ПОЗНАЙ БОЛЬ, КОТОРУЮ ТЫ ТАК "
 "БЫСТРО ПРИЧИНИЛ БЫ ДРУГИМ!\" Раздается крик, когда ее корабль летит "
 "навстречу вашему... Вот и все. Пора положить конец этому фарсу."
 
-#: src-en/data/events_sector_ddcoremass.xml:4641
+#: src-en/data/events_sector_ddcoremass.xml:4645
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#~ msgid ""
-#~ "data/events_sector_ddcoremass.xml$//ship[@name=\"DDCOREMASS_EXIT_FIGHT_VILLAINSLAYER\"]/deadCrew/text"
-#~ msgstr ""
-#~ "Даже после всего этого, вы все равно продолжаете. Может ли что-нибудь "
-#~ "остановить вас?"
+#: src-en/data/events_sector_ddcoremass.xml:4657
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_sector_ddcoremass.xml:4659
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""

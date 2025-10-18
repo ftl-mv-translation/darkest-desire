@@ -520,12 +520,12 @@ msgstr ""
 "With the sacrifice made, you're ready to perform a ritual... though you know"
 " there to be little time to hesitate, as your destination approaches."
 
-#: src-en/data/events_special_lightspeed.xml.append:373
+#: src-en/data/events_special_lightspeed.xml.append:374
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/text"
 msgstr "Perform a basic ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:375
+#: src-en/data/events_special_lightspeed.xml.append:376
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/text"
 msgstr ""
@@ -533,12 +533,12 @@ msgstr ""
 "text scribed in an inky black. In it, the procedures for several basic "
 "rituals are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:377
+#: src-en/data/events_special_lightspeed.xml.append:378
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/text"
 msgstr "Perform the Ritual of Dark Weaponry."
 
-#: src-en/data/events_special_lightspeed.xml.append:379
+#: src-en/data/events_special_lightspeed.xml.append:380
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -548,17 +548,17 @@ msgstr ""
 "it stops, and your hand has somehow healed where it should be cut and burnt."
 " You must now simply recite your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:381
+#: src-en/data/events_special_lightspeed.xml.append:382
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "I desire... weaponry."
 
-#: src-en/data/events_special_lightspeed.xml.append:387
+#: src-en/data/events_special_lightspeed.xml.append:388
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/text"
 msgstr "Perform the Ritual of Shadow Drones."
 
-#: src-en/data/events_special_lightspeed.xml.append:389
+#: src-en/data/events_special_lightspeed.xml.append:390
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -566,17 +566,17 @@ msgstr ""
 "described by the Otherworldly Tome, upon the floor. The chalk feels warm to "
 "the touch as you finish... now, you must make your desire heard."
 
-#: src-en/data/events_special_lightspeed.xml.append:391
+#: src-en/data/events_special_lightspeed.xml.append:392
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "I desire... drones."
 
-#: src-en/data/events_special_lightspeed.xml.append:397
+#: src-en/data/events_special_lightspeed.xml.append:398
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/text"
 msgstr "Perform the Ritual of Corruption."
 
-#: src-en/data/events_special_lightspeed.xml.append:399
+#: src-en/data/events_special_lightspeed.xml.append:400
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
@@ -586,19 +586,39 @@ msgstr ""
 " you know it to be worth it as your bones heal and a humming within your "
 "chest beckons you to realize your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:401
+#: src-en/data/events_special_lightspeed.xml.append:402
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/choice/text"
 msgstr "I desire... corruption."
 
-#: src-en/data/events_special_lightspeed.xml.append:407
+#: src-en/data/events_special_lightspeed.xml.append:408
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/text"
-msgstr "Perform the Ritual of Occult Recruitment."
+msgstr "Perform the Ritual of Corruption."
 
-#: src-en/data/events_special_lightspeed.xml.append:409
+#: src-en/data/events_special_lightspeed.xml.append:410
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/text"
+msgstr ""
+"You take a spare pipe against your knee, and break it. Then, you break your "
+"other one, and your weak shoulder, and each of your ribs individually. To "
+"describe the pain as being excruciating would be an understatement, and yet,"
+" you know it to be worth it as your bones heal and a humming within your "
+"chest beckons you to realize your desire..."
+
+#: src-en/data/events_special_lightspeed.xml.append:412
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/choice/text"
+msgstr "I desire... corruption."
+
+#: src-en/data/events_special_lightspeed.xml.append:418
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/text"
+msgstr "Perform the Ritual of Occult Recruitment."
+
+#: src-en/data/events_special_lightspeed.xml.append:420
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
 "The Otherworldly Tome reads that you must meditate and conjure a picture in "
 "your head... thus, you sit down in the middle of the room, legs crossed, and"
@@ -606,19 +626,19 @@ msgstr ""
 "potential recruits... several faces come to you, but the specifics don't "
 "matter. You must focus on your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:411
+#: src-en/data/events_special_lightspeed.xml.append:422
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/choice/text"
 msgstr "I desire... recruits."
 
-#: src-en/data/events_special_lightspeed.xml.append:417
+#: src-en/data/events_special_lightspeed.xml.append:428
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/text"
 msgstr "Perform the Ritual of True Devotion."
 
-#: src-en/data/events_special_lightspeed.xml.append:419
+#: src-en/data/events_special_lightspeed.xml.append:430
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
 "Per the ritual's demands, you brandish a knife upward... and plunge it into "
 "your chest. The pain is searing, unbearable, but it quickly fades into a "
@@ -626,19 +646,19 @@ msgstr ""
 "watch as it is absorbed into your very being. The wound closes, and you know"
 " that you must realize your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:421
+#: src-en/data/events_special_lightspeed.xml.append:432
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/choice/text"
 msgstr "I desire... devotion."
 
-#: src-en/data/events_special_lightspeed.xml.append:427
+#: src-en/data/events_special_lightspeed.xml.append:438
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/text"
 msgstr "Perform the Ritual of Terrible Sights."
 
-#: src-en/data/events_special_lightspeed.xml.append:429
+#: src-en/data/events_special_lightspeed.xml.append:440
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/event/text"
 msgstr ""
 "As the ritual commands, you close your eyes and recite an incantation. "
 "Horrific visions begin to cloud your mind... monstrous creatures beyond "
@@ -647,17 +667,17 @@ msgstr ""
 "have gone insane. With its attention on you, though, you know that you must "
 "steel your mind to these nightmares, and realize your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:431
+#: src-en/data/events_special_lightspeed.xml.append:442
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/event/choice/text"
 msgstr "I desire... terrible sights."
 
-#: src-en/data/events_special_lightspeed.xml.append:437
+#: src-en/data/events_special_lightspeed.xml.append:448
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/text"
 msgstr "Perform the Ritual of Eerie Inauguration."
 
-#: src-en/data/events_special_lightspeed.xml.append:439
+#: src-en/data/events_special_lightspeed.xml.append:450
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/text"
 msgstr ""
@@ -666,41 +686,41 @@ msgstr ""
 " a prayer... you demand an audience with the Dark God. It hears this, and "
 "you know that you must realize your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:441
+#: src-en/data/events_special_lightspeed.xml.append:452
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/choice/text"
 msgstr "I desire... inauguration."
 
-#: src-en/data/events_special_lightspeed.xml.append:447
+#: src-en/data/events_special_lightspeed.xml.append:458
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[8]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/text"
 msgstr "Perform the Ritual of Resolution."
 
-#: src-en/data/events_special_lightspeed.xml.append:449
+#: src-en/data/events_special_lightspeed.xml.append:460
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[8]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
 "You close your eyes, and think of your mission... to save this reality from "
 "the Rebellion. You don't wish to sacrifice another soul for the sake of the "
 "Dark God's twisted game. It accepts this, ever eager to please, and wishes "
 "to hear your desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:451
+#: src-en/data/events_special_lightspeed.xml.append:462
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[8]/event/choice[1]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/choice[1]/text"
 msgstr "I desire... resolution."
 
-#: src-en/data/events_special_lightspeed.xml.append:455
+#: src-en/data/events_special_lightspeed.xml.append:466
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[8]/event/choice[2]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/choice[2]/text"
 msgstr "No... wait, I desire to continue my devotion."
 
-#: src-en/data/events_special_lightspeed.xml.append:463
+#: src-en/data/events_special_lightspeed.xml.append:474
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/text"
 msgstr "(Lilith) Perform an ascension ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:465
+#: src-en/data/events_special_lightspeed.xml.append:476
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
@@ -710,22 +730,22 @@ msgstr ""
 "only one incantation in each group can be performed, and they must be "
 "performed in the order of the Horde, Greater Summoning and then Power."
 
-#: src-en/data/events_special_lightspeed.xml.append:467
+#: src-en/data/events_special_lightspeed.xml.append:478
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/text"
 msgstr "Perform one of the Incantations of the Horde."
 
-#: src-en/data/events_special_lightspeed.xml.append:469
+#: src-en/data/events_special_lightspeed.xml.append:480
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/text"
 msgstr "There are a few incantations described. Which one do you desire?"
 
-#: src-en/data/events_special_lightspeed.xml.append:471
+#: src-en/data/events_special_lightspeed.xml.append:482
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/text"
 msgstr "The Incantation of Lesser Nightmare Priests."
 
-#: src-en/data/events_special_lightspeed.xml.append:473
+#: src-en/data/events_special_lightspeed.xml.append:484
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/text"
 msgstr ""
@@ -733,12 +753,12 @@ msgstr ""
 "shrinks slightly, likely recalling the result of the last ritual she partook"
 " in..."
 
-#: src-en/data/events_special_lightspeed.xml.append:475
+#: src-en/data/events_special_lightspeed.xml.append:486
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/text"
 msgstr "It's alright, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:477
+#: src-en/data/events_special_lightspeed.xml.append:488
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -748,17 +768,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:483
+#: src-en/data/events_special_lightspeed.xml.append:494
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:491
+#: src-en/data/events_special_lightspeed.xml.append:502
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/text"
 msgstr "The Incantation of Nightmare Engi."
 
-#: src-en/data/events_special_lightspeed.xml.append:493
+#: src-en/data/events_special_lightspeed.xml.append:504
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/text"
 msgstr ""
@@ -766,12 +786,12 @@ msgstr ""
 "shrinks slightly, likely recalling the result of the last ritual she partook"
 " in..."
 
-#: src-en/data/events_special_lightspeed.xml.append:495
+#: src-en/data/events_special_lightspeed.xml.append:506
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/text"
 msgstr "It's alright, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:497
+#: src-en/data/events_special_lightspeed.xml.append:508
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -781,17 +801,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:502
+#: src-en/data/events_special_lightspeed.xml.append:513
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:510
+#: src-en/data/events_special_lightspeed.xml.append:521
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/text"
 msgstr "The Incantation of Nightmare Stalkers."
 
-#: src-en/data/events_special_lightspeed.xml.append:512
+#: src-en/data/events_special_lightspeed.xml.append:523
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/text"
 msgstr ""
@@ -799,12 +819,12 @@ msgstr ""
 "shrinks slightly, likely recalling the result of the last ritual she partook"
 " in..."
 
-#: src-en/data/events_special_lightspeed.xml.append:514
+#: src-en/data/events_special_lightspeed.xml.append:525
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/text"
 msgstr "It's alright, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:516
+#: src-en/data/events_special_lightspeed.xml.append:527
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/event/text"
 msgstr ""
@@ -814,39 +834,39 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:521
+#: src-en/data/events_special_lightspeed.xml.append:532
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:531
+#: src-en/data/events_special_lightspeed.xml.append:542
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/text"
 msgstr "Perform one of the Incantations of Greater Summoning."
 
-#: src-en/data/events_special_lightspeed.xml.append:533
+#: src-en/data/events_special_lightspeed.xml.append:544
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/text"
 msgstr "There are a few incantations described. Which one do you desire?"
 
-#: src-en/data/events_special_lightspeed.xml.append:535
+#: src-en/data/events_special_lightspeed.xml.append:546
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/text"
 msgstr "The Incantation of Greater Nightmare Crawlers."
 
-#: src-en/data/events_special_lightspeed.xml.append:537
+#: src-en/data/events_special_lightspeed.xml.append:548
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/text"
 msgstr ""
 "Once more, Lilith follows you and sits beside the Otherworldly Tome. She "
 "seems like she's grown more content with the situation."
 
-#: src-en/data/events_special_lightspeed.xml.append:539
+#: src-en/data/events_special_lightspeed.xml.append:550
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:541
+#: src-en/data/events_special_lightspeed.xml.append:552
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
@@ -856,17 +876,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:546
+#: src-en/data/events_special_lightspeed.xml.append:557
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:552
+#: src-en/data/events_special_lightspeed.xml.append:563
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:554
+#: src-en/data/events_special_lightspeed.xml.append:565
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
@@ -876,17 +896,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:559
+#: src-en/data/events_special_lightspeed.xml.append:570
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:565
+#: src-en/data/events_special_lightspeed.xml.append:576
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:567
+#: src-en/data/events_special_lightspeed.xml.append:578
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
@@ -896,29 +916,29 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:572
+#: src-en/data/events_special_lightspeed.xml.append:583
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:580
+#: src-en/data/events_special_lightspeed.xml.append:591
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/text"
 msgstr "The Incantation of Greater Nightmare Masses."
 
-#: src-en/data/events_special_lightspeed.xml.append:582
+#: src-en/data/events_special_lightspeed.xml.append:593
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/text"
 msgstr ""
 "Once more, Lilith follows you and sits beside the Otherworldly Tome. She "
 "seems like she's grown more content with the situation."
 
-#: src-en/data/events_special_lightspeed.xml.append:584
+#: src-en/data/events_special_lightspeed.xml.append:595
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:586
+#: src-en/data/events_special_lightspeed.xml.append:597
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
@@ -928,17 +948,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:592
+#: src-en/data/events_special_lightspeed.xml.append:603
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:598
+#: src-en/data/events_special_lightspeed.xml.append:609
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:600
+#: src-en/data/events_special_lightspeed.xml.append:611
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
@@ -948,17 +968,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:606
+#: src-en/data/events_special_lightspeed.xml.append:617
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:612
+#: src-en/data/events_special_lightspeed.xml.append:623
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:614
+#: src-en/data/events_special_lightspeed.xml.append:625
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
@@ -968,29 +988,29 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:620
+#: src-en/data/events_special_lightspeed.xml.append:631
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:628
+#: src-en/data/events_special_lightspeed.xml.append:639
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/text"
 msgstr "The Incantation of Greater Nightmare Martyrs."
 
-#: src-en/data/events_special_lightspeed.xml.append:630
+#: src-en/data/events_special_lightspeed.xml.append:641
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/text"
 msgstr ""
 "Once more, Lilith follows you and sits beside the Otherworldly Tome. She "
 "seems like she's grown more content with the situation."
 
-#: src-en/data/events_special_lightspeed.xml.append:632
+#: src-en/data/events_special_lightspeed.xml.append:643
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:634
+#: src-en/data/events_special_lightspeed.xml.append:645
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
@@ -1000,17 +1020,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:640
+#: src-en/data/events_special_lightspeed.xml.append:651
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:646
+#: src-en/data/events_special_lightspeed.xml.append:657
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:648
+#: src-en/data/events_special_lightspeed.xml.append:659
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
@@ -1020,17 +1040,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:654
+#: src-en/data/events_special_lightspeed.xml.append:665
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:660
+#: src-en/data/events_special_lightspeed.xml.append:671
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:662
+#: src-en/data/events_special_lightspeed.xml.append:673
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
@@ -1040,29 +1060,29 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:668
+#: src-en/data/events_special_lightspeed.xml.append:679
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:676
+#: src-en/data/events_special_lightspeed.xml.append:687
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/text"
 msgstr "The Incantation of Greater Nightmare Priests."
 
-#: src-en/data/events_special_lightspeed.xml.append:678
+#: src-en/data/events_special_lightspeed.xml.append:689
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/text"
 msgstr ""
 "Once more, Lilith follows you and sits beside the Otherworldly Tome. She "
 "seems like she's grown more content with the situation."
 
-#: src-en/data/events_special_lightspeed.xml.append:680
+#: src-en/data/events_special_lightspeed.xml.append:691
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:682
+#: src-en/data/events_special_lightspeed.xml.append:693
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
@@ -1072,17 +1092,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:687
+#: src-en/data/events_special_lightspeed.xml.append:698
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:693
+#: src-en/data/events_special_lightspeed.xml.append:704
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:695
+#: src-en/data/events_special_lightspeed.xml.append:706
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
@@ -1092,17 +1112,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:700
+#: src-en/data/events_special_lightspeed.xml.append:711
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:706
+#: src-en/data/events_special_lightspeed.xml.append:717
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/text"
 msgstr "You're doing great, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:708
+#: src-en/data/events_special_lightspeed.xml.append:719
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
@@ -1112,27 +1132,27 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:713
+#: src-en/data/events_special_lightspeed.xml.append:724
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:723
+#: src-en/data/events_special_lightspeed.xml.append:734
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/text"
 msgstr "Perform one of the Incantations of Power."
 
-#: src-en/data/events_special_lightspeed.xml.append:725
+#: src-en/data/events_special_lightspeed.xml.append:736
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/text"
 msgstr "There are a few incantations described. Which one do you desire?"
 
-#: src-en/data/events_special_lightspeed.xml.append:727
+#: src-en/data/events_special_lightspeed.xml.append:738
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/text"
 msgstr "The Incantation of Rampaging Horror."
 
-#: src-en/data/events_special_lightspeed.xml.append:729
+#: src-en/data/events_special_lightspeed.xml.append:740
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/text"
 msgstr ""
@@ -1140,12 +1160,12 @@ msgstr ""
 "Otherworldly Tome. She's been much more confident lately, which would "
 "unnerve you if not for your unwavering faith in her."
 
-#: src-en/data/events_special_lightspeed.xml.append:731
+#: src-en/data/events_special_lightspeed.xml.append:742
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:733
+#: src-en/data/events_special_lightspeed.xml.append:744
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
@@ -1155,17 +1175,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:738
+#: src-en/data/events_special_lightspeed.xml.append:749
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:746
+#: src-en/data/events_special_lightspeed.xml.append:757
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/text"
 msgstr "The Incantation of Horrific Rifts."
 
-#: src-en/data/events_special_lightspeed.xml.append:748
+#: src-en/data/events_special_lightspeed.xml.append:759
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/text"
 msgstr ""
@@ -1173,12 +1193,12 @@ msgstr ""
 "Otherworldly Tome. She's been much more confident lately, which would "
 "unnerve you if not for your unwavering faith in her."
 
-#: src-en/data/events_special_lightspeed.xml.append:750
+#: src-en/data/events_special_lightspeed.xml.append:761
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:752
+#: src-en/data/events_special_lightspeed.xml.append:763
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
@@ -1188,17 +1208,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:757
+#: src-en/data/events_special_lightspeed.xml.append:768
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:765
+#: src-en/data/events_special_lightspeed.xml.append:776
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/text"
 msgstr "The Incantation of Greater Bolts."
 
-#: src-en/data/events_special_lightspeed.xml.append:767
+#: src-en/data/events_special_lightspeed.xml.append:778
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/text"
 msgstr ""
@@ -1206,12 +1226,12 @@ msgstr ""
 "Otherworldly Tome. She's been much more confident lately, which would "
 "unnerve you if not for your unwavering faith in her."
 
-#: src-en/data/events_special_lightspeed.xml.append:769
+#: src-en/data/events_special_lightspeed.xml.append:780
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:771
+#: src-en/data/events_special_lightspeed.xml.append:782
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/event/text"
 msgstr ""
@@ -1221,17 +1241,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:777
+#: src-en/data/events_special_lightspeed.xml.append:788
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:783
+#: src-en/data/events_special_lightspeed.xml.append:794
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:785
+#: src-en/data/events_special_lightspeed.xml.append:796
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/event/text"
 msgstr ""
@@ -1241,17 +1261,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:791
+#: src-en/data/events_special_lightspeed.xml.append:802
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:797
+#: src-en/data/events_special_lightspeed.xml.append:808
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:799
+#: src-en/data/events_special_lightspeed.xml.append:810
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/event/text"
 msgstr ""
@@ -1261,17 +1281,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:805
+#: src-en/data/events_special_lightspeed.xml.append:816
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:811
+#: src-en/data/events_special_lightspeed.xml.append:822
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:813
+#: src-en/data/events_special_lightspeed.xml.append:824
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/event/text"
 msgstr ""
@@ -1281,17 +1301,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:819
+#: src-en/data/events_special_lightspeed.xml.append:830
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:825
+#: src-en/data/events_special_lightspeed.xml.append:836
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:827
+#: src-en/data/events_special_lightspeed.xml.append:838
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/event/text"
 msgstr ""
@@ -1301,17 +1321,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:833
+#: src-en/data/events_special_lightspeed.xml.append:844
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:839
+#: src-en/data/events_special_lightspeed.xml.append:850
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:841
+#: src-en/data/events_special_lightspeed.xml.append:852
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/event/text"
 msgstr ""
@@ -1321,17 +1341,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:847
+#: src-en/data/events_special_lightspeed.xml.append:858
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:853
+#: src-en/data/events_special_lightspeed.xml.append:864
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:855
+#: src-en/data/events_special_lightspeed.xml.append:866
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/event/text"
 msgstr ""
@@ -1341,17 +1361,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:861
+#: src-en/data/events_special_lightspeed.xml.append:872
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:867
+#: src-en/data/events_special_lightspeed.xml.append:878
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:869
+#: src-en/data/events_special_lightspeed.xml.append:880
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/event/text"
 msgstr ""
@@ -1361,17 +1381,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:875
+#: src-en/data/events_special_lightspeed.xml.append:886
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:881
+#: src-en/data/events_special_lightspeed.xml.append:892
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:883
+#: src-en/data/events_special_lightspeed.xml.append:894
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/event/text"
 msgstr ""
@@ -1381,17 +1401,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:889
+#: src-en/data/events_special_lightspeed.xml.append:900
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:895
+#: src-en/data/events_special_lightspeed.xml.append:906
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:897
+#: src-en/data/events_special_lightspeed.xml.append:908
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/event/text"
 msgstr ""
@@ -1401,17 +1421,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:903
+#: src-en/data/events_special_lightspeed.xml.append:914
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:909
+#: src-en/data/events_special_lightspeed.xml.append:920
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:911
+#: src-en/data/events_special_lightspeed.xml.append:922
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/event/text"
 msgstr ""
@@ -1421,17 +1441,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:917
+#: src-en/data/events_special_lightspeed.xml.append:928
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:923
+#: src-en/data/events_special_lightspeed.xml.append:934
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/text"
 msgstr "This is it, Lilith. Finish the incantation."
 
-#: src-en/data/events_special_lightspeed.xml.append:925
+#: src-en/data/events_special_lightspeed.xml.append:936
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/event/text"
 msgstr ""
@@ -1441,17 +1461,17 @@ msgstr ""
 "pushed onto your knees... looking up, Lilith's glow has faded, and it "
 "appears the ritual has been completed."
 
-#: src-en/data/events_special_lightspeed.xml.append:931
+#: src-en/data/events_special_lightspeed.xml.append:942
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:943
+#: src-en/data/events_special_lightspeed.xml.append:954
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/text"
 msgstr "(Disparity Crew) Perform a crystal-locating ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:945
+#: src-en/data/events_special_lightspeed.xml.append:956
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
@@ -1459,114 +1479,131 @@ msgstr ""
 "text scribed in a vibrant purple. In it, the procedures for locating the "
 "fabled Disparity Crystals are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:947
+#: src-en/data/events_special_lightspeed.xml.append:958
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/text"
 msgstr "Perform a ritual to locate the Crystal of Potency."
 
-#: src-en/data/events_special_lightspeed.xml.append:949
+#: src-en/data/events_special_lightspeed.xml.append:960
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:951
+#: src-en/data/events_special_lightspeed.xml.append:962
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:957
+#: src-en/data/events_special_lightspeed.xml.append:968
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/text"
 msgstr "Perform a ritual to locate the Crystal of Handiness."
 
-#: src-en/data/events_special_lightspeed.xml.append:959
+#: src-en/data/events_special_lightspeed.xml.append:970
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:961
+#: src-en/data/events_special_lightspeed.xml.append:972
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:967
+#: src-en/data/events_special_lightspeed.xml.append:978
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/text"
 msgstr "Perform a ritual to locate the Crystal of Rainbows."
 
-#: src-en/data/events_special_lightspeed.xml.append:969
+#: src-en/data/events_special_lightspeed.xml.append:980
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:971
+#: src-en/data/events_special_lightspeed.xml.append:982
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:977
+#: src-en/data/events_special_lightspeed.xml.append:988
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/text"
 msgstr "Perform a ritual to locate the Crystal of Martyrdom."
 
-#: src-en/data/events_special_lightspeed.xml.append:979
+#: src-en/data/events_special_lightspeed.xml.append:990
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:981
+#: src-en/data/events_special_lightspeed.xml.append:992
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:987
+#: src-en/data/events_special_lightspeed.xml.append:998
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/text"
 msgstr "Perform a ritual to locate the Crystal of Auras."
 
-#: src-en/data/events_special_lightspeed.xml.append:989
+#: src-en/data/events_special_lightspeed.xml.append:1000
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:991
+#: src-en/data/events_special_lightspeed.xml.append:1002
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:997
+#: src-en/data/events_special_lightspeed.xml.append:1008
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/text"
 msgstr "Perform a ritual to locate the Legendary Crystal."
 
-#: src-en/data/events_special_lightspeed.xml.append:999
+#: src-en/data/events_special_lightspeed.xml.append:1010
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the purple "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1001
+#: src-en/data/events_special_lightspeed.xml.append:1012
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1009
+#: src-en/data/events_special_lightspeed.xml.append:1018
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/text"
+msgstr "Perform the ritual described by the loose page."
+
+#: src-en/data/events_special_lightspeed.xml.append:1020
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/event/text"
+msgstr ""
+"With the sacrifice having been made, and with your desire known, a vibrant "
+"light begins to overtake your vision..."
+
+#: src-en/data/events_special_lightspeed.xml.append:1022
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/event/choice/text"
+msgstr "Read the text."
+
+#: src-en/data/events_special_lightspeed.xml.append:1030
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
 msgstr "(Enlightened Crew) Perform an Enlightened ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1011
+#: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
 msgstr ""
@@ -1574,46 +1611,63 @@ msgstr ""
 "text scribed in a glistening yellow. In it, the procedures for proving "
 "oneself to the Dark God and reaping its gifts are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1013
+#: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Divine Devotion."
 
-#: src-en/data/events_special_lightspeed.xml.append:1015
+#: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the yellow "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1017
+#: src-en/data/events_special_lightspeed.xml.append:1038
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1023
+#: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
 msgstr "Perform the Ritual of Blessed Gifts."
 
-#: src-en/data/events_special_lightspeed.xml.append:1025
+#: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, you feel as"
 " a warmth sprouts in your chest and blossoms into a raging inferno..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1027
+#: src-en/data/events_special_lightspeed.xml.append:1048
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/text"
 msgstr "Focus on that heat."
 
-#: src-en/data/events_special_lightspeed.xml.append:1035
+#: src-en/data/events_special_lightspeed.xml.append:1054
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
+msgstr "Perform the ritual described by the loose page."
+
+#: src-en/data/events_special_lightspeed.xml.append:1056
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
+msgstr ""
+"With the sacrifice having been made, and with your desire known, an "
+"uncomfortable, disembodied laughter fills the air around you..."
+
+#: src-en/data/events_special_lightspeed.xml.append:1058
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/choice/text"
+msgstr "Read the text."
+
+#: src-en/data/events_special_lightspeed.xml.append:1066
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/text"
 msgstr "(Chosen Crew) Perform an enemy-locating ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1037
+#: src-en/data/events_special_lightspeed.xml.append:1068
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
@@ -1621,29 +1675,29 @@ msgstr ""
 "text scribed in a murky gray. In it, the procedure for hunting down enemies "
 "of the Dark God and reaping its favor is described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1039
+#: src-en/data/events_special_lightspeed.xml.append:1070
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/text"
 msgstr "Perform the Ritual of Lightbreaking."
 
-#: src-en/data/events_special_lightspeed.xml.append:1041
+#: src-en/data/events_special_lightspeed.xml.append:1072
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the gray "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1043
+#: src-en/data/events_special_lightspeed.xml.append:1074
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1051
+#: src-en/data/events_special_lightspeed.xml.append:1082
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
 msgstr "(Ill'drythk Crew) Perform an Ill'drythk ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1053
+#: src-en/data/events_special_lightspeed.xml.append:1084
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
@@ -1652,46 +1706,46 @@ msgstr ""
 "strength and numbers of your collective of Ill'drythk crew members are "
 "described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1055
+#: src-en/data/events_special_lightspeed.xml.append:1086
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Rivalry."
 
-#: src-en/data/events_special_lightspeed.xml.append:1057
+#: src-en/data/events_special_lightspeed.xml.append:1088
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the brown "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1059
+#: src-en/data/events_special_lightspeed.xml.append:1090
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1065
+#: src-en/data/events_special_lightspeed.xml.append:1096
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/text"
 msgstr "Perform the Ritual of Rebirth."
 
-#: src-en/data/events_special_lightspeed.xml.append:1067
+#: src-en/data/events_special_lightspeed.xml.append:1098
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the brown "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1069
+#: src-en/data/events_special_lightspeed.xml.append:1100
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1075
+#: src-en/data/events_special_lightspeed.xml.append:1106
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/text"
 msgstr "Perform the Ritual of Mutinous Mutation."
 
-#: src-en/data/events_special_lightspeed.xml.append:1077
+#: src-en/data/events_special_lightspeed.xml.append:1108
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/text"
 msgstr ""
@@ -1700,17 +1754,17 @@ msgstr ""
 "a song rings out, and the brown text within the Otherworldly Tome twists and"
 " shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1080
+#: src-en/data/events_special_lightspeed.xml.append:1111
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1088
+#: src-en/data/events_special_lightspeed.xml.append:1119
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
 msgstr "(Tempest Crew) Perform a spawn-summoning ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1090
+#: src-en/data/events_special_lightspeed.xml.append:1121
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
@@ -1718,34 +1772,51 @@ msgstr ""
 "text scribed in an electric blue. In it, the procedures for summoning the "
 "Tempest's spawn and enthralling them are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1092
+#: src-en/data/events_special_lightspeed.xml.append:1123
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Stormcalling."
 
-#: src-en/data/events_special_lightspeed.xml.append:1094
+#: src-en/data/events_special_lightspeed.xml.append:1125
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/text"
 msgstr ""
 "You recite the words of prayer to the Tempest described in the Otherworldly "
 "Tome, and you focus your mind on the type of spawn that you desire..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1096
+#: src-en/data/events_special_lightspeed.xml.append:1127
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/choice[1]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/choice[1]/text"
 msgstr "I desire... a Stormborn Spawn."
 
-#: src-en/data/events_special_lightspeed.xml.append:1100
+#: src-en/data/events_special_lightspeed.xml.append:1131
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/choice[2]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/choice[2]/text"
 msgstr "I desire... a Spawn Warden."
 
-#: src-en/data/events_special_lightspeed.xml.append:1108
+#: src-en/data/events_special_lightspeed.xml.append:1137
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/text"
+msgstr "Perform the ritual described by the loose page."
+
+#: src-en/data/events_special_lightspeed.xml.append:1139
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/event/text"
+msgstr ""
+"With the sacrifice having been made, and with your desire known, an "
+"electrostatic current pulses throughout the room..."
+
+#: src-en/data/events_special_lightspeed.xml.append:1141
+msgid ""
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/event/choice/text"
+msgstr "Read the text."
+
+#: src-en/data/events_special_lightspeed.xml.append:1149
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
 msgstr "(Ultima Armor) Perform a cult-establishing ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1110
+#: src-en/data/events_special_lightspeed.xml.append:1151
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
@@ -1754,29 +1825,29 @@ msgstr ""
 "locations of interest to the Cult of the Tempest and bolstering their ranks "
 "is described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1112
+#: src-en/data/events_special_lightspeed.xml.append:1153
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/text"
 msgstr "Perform the Ritual of Tempestuous Expansion."
 
-#: src-en/data/events_special_lightspeed.xml.append:1114
+#: src-en/data/events_special_lightspeed.xml.append:1155
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
 msgstr ""
 "The Ultima Armor drones, and, with your desire known, the white text within "
 "the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1116
+#: src-en/data/events_special_lightspeed.xml.append:1157
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1124
+#: src-en/data/events_special_lightspeed.xml.append:1165
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr "(Soulplague Crew) Perform a Soulplague ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1126
+#: src-en/data/events_special_lightspeed.xml.append:1167
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
@@ -1785,63 +1856,63 @@ msgstr ""
 "propagating the Soulplague mattervirus and harnessing its power are "
 "described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1128
+#: src-en/data/events_special_lightspeed.xml.append:1169
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Soul Eating."
 
-#: src-en/data/events_special_lightspeed.xml.append:1130
+#: src-en/data/events_special_lightspeed.xml.append:1171
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the rainbow"
 " text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1132
+#: src-en/data/events_special_lightspeed.xml.append:1173
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1138
+#: src-en/data/events_special_lightspeed.xml.append:1179
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/text"
 msgstr "Perform the Ritual of Soul Weaving."
 
-#: src-en/data/events_special_lightspeed.xml.append:1140
+#: src-en/data/events_special_lightspeed.xml.append:1181
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, your "
 "Soulplague crew member's skin bubbles and hums..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1142
+#: src-en/data/events_special_lightspeed.xml.append:1183
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1148
+#: src-en/data/events_special_lightspeed.xml.append:1189
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/text"
 msgstr "Perform the Ritual of Soul Firing."
 
-#: src-en/data/events_special_lightspeed.xml.append:1150
+#: src-en/data/events_special_lightspeed.xml.append:1191
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the rainbow"
 " text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1152
+#: src-en/data/events_special_lightspeed.xml.append:1193
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1158
+#: src-en/data/events_special_lightspeed.xml.append:1199
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/text"
 msgstr "Perform the Ritual of Soul Binding."
 
-#: src-en/data/events_special_lightspeed.xml.append:1160
+#: src-en/data/events_special_lightspeed.xml.append:1201
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/text"
 msgstr ""
@@ -1851,17 +1922,17 @@ msgstr ""
 "before inevitably withering, and the rainbow text within the Otherworldly "
 "Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1163
+#: src-en/data/events_special_lightspeed.xml.append:1204
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1171
+#: src-en/data/events_special_lightspeed.xml.append:1212
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
 msgstr "(Living Lightborne) Perform a Lightborne ritual."
 
-#: src-en/data/events_special_lightspeed.xml.append:1173
+#: src-en/data/events_special_lightspeed.xml.append:1214
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
@@ -1869,63 +1940,63 @@ msgstr ""
 "text scribed in an aged, faded color. In it, several procedures for "
 "collecting powerful Lightborne and further empowering them are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1175
+#: src-en/data/events_special_lightspeed.xml.append:1216
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Newborn Stars."
 
-#: src-en/data/events_special_lightspeed.xml.append:1177
+#: src-en/data/events_special_lightspeed.xml.append:1218
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the faded "
 "text within the Otherworldly Tome twists and shifts..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1179
+#: src-en/data/events_special_lightspeed.xml.append:1220
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1185
+#: src-en/data/events_special_lightspeed.xml.append:1226
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/text"
 msgstr "Perform the Ritual of Bathing Light."
 
-#: src-en/data/events_special_lightspeed.xml.append:1187
+#: src-en/data/events_special_lightspeed.xml.append:1228
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, you feel an"
 " inexplicable intensity in the air..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1189
+#: src-en/data/events_special_lightspeed.xml.append:1230
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1195
+#: src-en/data/events_special_lightspeed.xml.append:1236
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/text"
 msgstr "Perform the Ritual of Divine Remnants."
 
-#: src-en/data/events_special_lightspeed.xml.append:1197
+#: src-en/data/events_special_lightspeed.xml.append:1238
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, a chord "
 "strikes out within your mind..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1199
+#: src-en/data/events_special_lightspeed.xml.append:1240
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/event/choice/text"
 msgstr "Read the text."
 
-#: src-en/data/events_special_lightspeed.xml.append:1207
+#: src-en/data/events_special_lightspeed.xml.append:1248
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/text"
 msgstr "(Shadowy Glimpse) Perform a ritual to increase your Devotion Level."
 
-#: src-en/data/events_special_lightspeed.xml.append:1209
+#: src-en/data/events_special_lightspeed.xml.append:1250
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/text"
 msgstr ""
@@ -1933,39 +2004,39 @@ msgstr ""
 "text scribed in a deep maroon. In it, the procedures for proving your "
 "devotion to the Dark God are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1211
+#: src-en/data/events_special_lightspeed.xml.append:1252
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/text"
 msgstr "Dark One, witness me..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1213
+#: src-en/data/events_special_lightspeed.xml.append:1254
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/text"
 msgstr ""
 "Indeed, you begin the ritual and don't feel like you're merely glimpsed at "
 "anymore..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1216
+#: src-en/data/events_special_lightspeed.xml.append:1257
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/choice/text"
 msgstr "...please, o' Dark One..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1218
+#: src-en/data/events_special_lightspeed.xml.append:1259
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/choice/event/text"
 msgstr "...no, now the Dark God regards you as something greater."
 
-#: src-en/data/events_special_lightspeed.xml.append:1222
+#: src-en/data/events_special_lightspeed.xml.append:1263
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1232
+#: src-en/data/events_special_lightspeed.xml.append:1273
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/text"
 msgstr "(Dark Regard) Perform a ritual to increase your Devotion Level."
 
-#: src-en/data/events_special_lightspeed.xml.append:1234
+#: src-en/data/events_special_lightspeed.xml.append:1275
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/text"
 msgstr ""
@@ -1973,35 +2044,35 @@ msgstr ""
 "text scribed in a deep maroon. In it, the procedures for proving your "
 "devotion to the Dark God are described."
 
-#: src-en/data/events_special_lightspeed.xml.append:1236
+#: src-en/data/events_special_lightspeed.xml.append:1277
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/text"
 msgstr "Dark One, witness me..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1238
+#: src-en/data/events_special_lightspeed.xml.append:1279
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/text"
 msgstr ""
 "Indeed, you begin the ritual and don't feel like you're merely regarded "
 "anymore..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1241
+#: src-en/data/events_special_lightspeed.xml.append:1282
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/choice/text"
 msgstr "...please, o' Dark One..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1243
+#: src-en/data/events_special_lightspeed.xml.append:1284
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/choice/event/text"
 msgstr ""
 "...no, now the Dark God gazes upon you, in all your nightmarish glory."
 
-#: src-en/data/events_special_lightspeed.xml.append:1249
+#: src-en/data/events_special_lightspeed.xml.append:1290
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER2\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1261
+#: src-en/data/events_special_lightspeed.xml.append:1302
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/text"
 msgstr ""
@@ -2014,29 +2085,29 @@ msgstr ""
 "\t\n"
 "\tA mysterious sector with no entry in your Atlas, given to you by an unknown entity."
 
-#: src-en/data/events_special_lightspeed.xml.append:1270
+#: src-en/data/events_special_lightspeed.xml.append:1311
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[1]/text"
 msgstr "Continue with the jump."
 
-#: src-en/data/events_special_lightspeed.xml.append:1272
+#: src-en/data/events_special_lightspeed.xml.append:1313
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[1]/event/text"
 msgstr ""
 "You prepare to jump to the new co-ordinates, and change your flight path "
 "accordingly."
 
-#: src-en/data/events_special_lightspeed.xml.append:1275
+#: src-en/data/events_special_lightspeed.xml.append:1316
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1281
+#: src-en/data/events_special_lightspeed.xml.append:1322
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[2]/text"
 msgstr "Nevermind."
 
-#: src-en/data/events_special_lightspeed.xml.append:1289
+#: src-en/data/events_special_lightspeed.xml.append:1330
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/text"
 msgstr ""
@@ -2049,29 +2120,29 @@ msgstr ""
 "\t\n"
 "\tA mysterious sector with no entry in your Atlas, given to you by an unknown entity."
 
-#: src-en/data/events_special_lightspeed.xml.append:1298
+#: src-en/data/events_special_lightspeed.xml.append:1339
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[1]/text"
 msgstr "Continue with the jump."
 
-#: src-en/data/events_special_lightspeed.xml.append:1300
+#: src-en/data/events_special_lightspeed.xml.append:1341
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[1]/event/text"
 msgstr ""
 "You prepare to jump to the new co-ordinates, and change your flight path "
 "accordingly."
 
-#: src-en/data/events_special_lightspeed.xml.append:1304
+#: src-en/data/events_special_lightspeed.xml.append:1345
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1310
+#: src-en/data/events_special_lightspeed.xml.append:1351
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[2]/text"
 msgstr "Nevermind."
 
-#: src-en/data/events_special_lightspeed.xml.append:1322
+#: src-en/data/events_special_lightspeed.xml.append:1363
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/text"
 msgstr ""
@@ -2084,53 +2155,53 @@ msgstr ""
 "\t\n"
 "\tNot much is known about the secretive Deep Ones, they simply one day arose from Old Earth's oceans within a fleet of spaceships and took to the stars; their existence prior allegedly unknown to the humans who dwelled on the surface. They're a hot-headed race that often suffers when it comes to communicating to outsiders, but there's no bad blood between them and the Federation. The same can't be said about the Theocracy, however, who finds the Deep One's religious beliefs to be heinously blasphemous."
 
-#: src-en/data/events_special_lightspeed.xml.append:1331
+#: src-en/data/events_special_lightspeed.xml.append:1372
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[1]/text"
 msgstr "Continue with the jump."
 
-#: src-en/data/events_special_lightspeed.xml.append:1333
+#: src-en/data/events_special_lightspeed.xml.append:1374
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[1]/event/text"
 msgstr ""
 "You prepare to jump to the new co-ordinates, and change your flight path "
 "accordingly."
 
-#: src-en/data/events_special_lightspeed.xml.append:1337
+#: src-en/data/events_special_lightspeed.xml.append:1378
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1343
+#: src-en/data/events_special_lightspeed.xml.append:1384
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[2]/text"
 msgstr "Nevermind."
 
-#: src-en/data/events_special_lightspeed.xml.append:1356
+#: src-en/data/events_special_lightspeed.xml.append:1397
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[1]/text"
 msgstr "Go to the Disparity Assault."
 
-#: src-en/data/events_special_lightspeed.xml.append:1360
+#: src-en/data/events_special_lightspeed.xml.append:1401
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[2]/text"
 msgstr "The Disparity Assault is behind you."
 
-#: src-en/data/events_special_lightspeed.xml.append:1364
+#: src-en/data/events_special_lightspeed.xml.append:1405
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[3]/text"
 msgstr "Go to the Nebulous Dead Zone."
 
-#: src-en/data/events_special_lightspeed.xml.append:1368
+#: src-en/data/events_special_lightspeed.xml.append:1409
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_HAT\"]/mod-"
 "append:choice[4]/text"
 msgstr "The Nebulous Dead Zone is behind you."
 
-#: src-en/data/events_special_lightspeed.xml.append:1374
+#: src-en/data/events_special_lightspeed.xml.append:1415
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/text"
 msgstr ""
@@ -2142,29 +2213,29 @@ msgstr ""
 "\t\n"
 "\tWhile this sector belongs to the Harmony, you can't help but notice the request for assistance within the Atlas entry. You don't recognize the name of their assailants, but any enemy of the Harmony is likely an enemy of the Federation. Best be on your guard."
 
-#: src-en/data/events_special_lightspeed.xml.append:1382
+#: src-en/data/events_special_lightspeed.xml.append:1423
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[1]/text"
 msgstr "Continue with the jump."
 
-#: src-en/data/events_special_lightspeed.xml.append:1384
+#: src-en/data/events_special_lightspeed.xml.append:1425
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[1]/event/text"
 msgstr ""
 "You prepare to jump to the new co-ordinates, and change your flight path "
 "accordingly."
 
-#: src-en/data/events_special_lightspeed.xml.append:1389
+#: src-en/data/events_special_lightspeed.xml.append:1430
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1395
+#: src-en/data/events_special_lightspeed.xml.append:1436
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[2]/text"
 msgstr "Nevermind."
 
-#: src-en/data/events_special_lightspeed.xml.append:1403
+#: src-en/data/events_special_lightspeed.xml.append:1444
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/text"
 msgstr ""
@@ -2176,24 +2247,24 @@ msgstr ""
 "\t\n"
 "\tAside from a brief history of Shell occupation prior to its abandonment, this sector remains entirely uncolonized by the galaxy at large. Notable, though, is that this unoccupation is not from a lack of trying. Several factions, and many more minor parties, have attempted to enter this nebulous mass; yet no reports back have ever officially been documented. Rumors point to many things: Slug pirates hunting within the clouds, secret Shell experiments gone wrong, even talk of illegal Duskbringer activity... but nobody has ever returned to say for certain. Thus has this mysterious sector earned its name: the Nebulous Dead Zone. You should stay vigilant, lest you become its next victim."
 
-#: src-en/data/events_special_lightspeed.xml.append:1411
+#: src-en/data/events_special_lightspeed.xml.append:1452
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[1]/text"
 msgstr "Continue with the jump."
 
-#: src-en/data/events_special_lightspeed.xml.append:1413
+#: src-en/data/events_special_lightspeed.xml.append:1454
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[1]/event/text"
 msgstr ""
 "You prepare to jump to the new co-ordinates, and change your flight path "
 "accordingly."
 
-#: src-en/data/events_special_lightspeed.xml.append:1418
+#: src-en/data/events_special_lightspeed.xml.append:1459
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[1]/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_special_lightspeed.xml.append:1424
+#: src-en/data/events_special_lightspeed.xml.append:1465
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[2]/text"
 msgstr "Nevermind."

@@ -8220,14 +8220,31 @@ msgstr ""
 
 #: src-en/data/events_sector_ddcoremass.xml:4555
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/text"
-msgstr "Head deeper."
+msgstr "I can't believe we made it..."
 
 #: src-en/data/events_sector_ddcoremass.xml:4557
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/text"
+msgstr ""
+"You feel thoroughly exhausted, having made the grueling, fight-filled trek "
+"all the way here... but there's only one thing left to do. You know what you"
+" came here for."
+
+#: src-en/data/events_sector_ddcoremass.xml:4559
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/text"
+msgstr "Head deeper."
+
+#: src-en/data/events_sector_ddcoremass.xml:4561
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/text"
 msgstr ""
 "You travel a bit further, in search of the heart, and then notice something far off in the distance - the source of the Coremass' light, a beacon of multi-colored splendor most resplendent. Its visage is beautiful, almost ethereal, and you find yourself lost in awe as it whispers to you:\n"
 "\t\t\t\n"
@@ -8235,31 +8252,35 @@ msgstr ""
 "\t\t\t\"...it's... hunting for you...\"\n"
 "\t\t\t\"...you must... leave, before it's too late!\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4564
+#: src-en/data/events_sector_ddcoremass.xml:4568
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/text"
 msgstr "Huh?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4566
+#: src-en/data/events_sector_ddcoremass.xml:4570
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 "These whispers are unlike any you've heard along the way here; they feel "
 "less hushed, and more... strained. Before you can think to act on these "
 "words of warning, though, a massive shadow looms into view..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4568
+#: src-en/data/events_sector_ddcoremass.xml:4572
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4570
+#: src-en/data/events_sector_ddcoremass.xml:4574
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 "...revealing itself to be a Soulplague-infected ship, the size of which alone strikes fear into your heart. That's to speak nothing of its gargantuan eyes, which pierce your soul and seem to stare right through you, or its innumerable, writhing tentacles. An icon of voracity... as you stare at it in horror, new whispers worm their way into your mind:\n"
 "\t\t\t\t\t\t\t\n"
@@ -8269,16 +8290,17 @@ msgstr ""
 "\t\t\t\t\t\t\t\n"
 "\t\t\t\t\t\t\tYour death... is this the end?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4584
+#: src-en/data/events_sector_ddcoremass.xml:4588
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/text"
 msgstr "No, it's not... a Renegade makes their own fate."
 
-#: src-en/data/events_sector_ddcoremass.xml:4586
+#: src-en/data/events_sector_ddcoremass.xml:4590
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 "Rather than a flame, or a weapon, you find yourself clutching onto something"
@@ -8286,17 +8308,17 @@ msgstr ""
 "brighter tomorrow - these ideals burn inside you, and you feel a kindred "
 "soul reach out to you from the vast sea of light and madness outside..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4588
+#: src-en/data/events_sector_ddcoremass.xml:4592
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Reach a hand out to it."
 
-#: src-en/data/events_sector_ddcoremass.xml:4590
+#: src-en/data/events_sector_ddcoremass.xml:4594
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/text"
 msgstr ""
 "You can't explain it, but you reach your hand out... and something unseen "
@@ -8311,17 +8333,17 @@ msgstr ""
 "horrific ship, and then back at you, \"...and it seems I'm not too late. The"
 " heart's guardian awaits; are you ready, comrade?\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4592
+#: src-en/data/events_sector_ddcoremass.xml:4596
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/text"
 msgstr "Of course. I stand with you."
 
-#: src-en/data/events_sector_ddcoremass.xml:4594
+#: src-en/data/events_sector_ddcoremass.xml:4598
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/text"
 msgstr ""
 "She nods, and brandishes her spear, \"And I, with you! FORWARD, NOW - GLORY "
@@ -8329,30 +8351,32 @@ msgstr ""
 "ship, and you prepare yourself... this is it. It's time to prove your "
 "convictions, or die trying!"
 
-#: src-en/data/events_sector_ddcoremass.xml:4598
+#: src-en/data/events_sector_ddcoremass.xml:4602
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/crewMember"
 msgstr "The Heroine"
 
-#: src-en/data/events_sector_ddcoremass.xml:4600
+#: src-en/data/events_sector_ddcoremass.xml:4604
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and "
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice[@req=\"pilot\"]/event/choice[@req=\"pilot\"]/event/choice/event/choice/text"
 msgstr "Continue..."
 
-#: src-en/data/events_sector_ddcoremass.xml:4616
+#: src-en/data/events_sector_ddcoremass.xml:4620
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/text"
 msgstr "Finally... is she here?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4618
+#: src-en/data/events_sector_ddcoremass.xml:4622
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/text"
 msgstr ""
 "As if to answer your tired question, a supernova breaks out in the space "
 "outside... and a familiar darkness fills the cavernous void, as a heroine "
@@ -8362,41 +8386,60 @@ msgstr ""
 "don't know what you are - what you've done. I may be a prisoner here, but "
 "you're something far more lowly: a prisoner to your own desires.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4624
+#: src-en/data/events_sector_ddcoremass.xml:4628
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/text"
 msgstr "And, you're what? Here to lecture me?"
 
-#: src-en/data/events_sector_ddcoremass.xml:4626
+#: src-en/data/events_sector_ddcoremass.xml:4630
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/text"
 msgstr ""
 "She growls, \"I am here to stop you, fiend! Even the Coremass fears you... "
 "it would work with me, allow me the freedom to come here and fight you, all "
 "for the sake of its own well-being. I am willing to be a pawn to its schemes"
 " if it means you and your reign of terror die right here, right now.\""
 
-#: src-en/data/events_sector_ddcoremass.xml:4631
+#: src-en/data/events_sector_ddcoremass.xml:4635
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/text"
 msgstr ""
 "So be it, then, but... I think you'll find that your efforts are for naught."
 
-#: src-en/data/events_sector_ddcoremass.xml:4633
+#: src-en/data/events_sector_ddcoremass.xml:4637
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/event/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
 "\"Then die a fool's death, as you engorge yourself on your own ego... for I "
 "will hold NOTHING back! BE CRUSHED UNDER HOPE'S BLADE, VILLAIN - AND KNOW "
 "THE PAIN YOU'D SO QUICKLY INFLICT UNTO OTHERS!\" There's a cry, as her ship "
 "flies towards your own... this is it. It's time to end this farce."
 
-#: src-en/data/events_sector_ddcoremass.xml:4641
+#: src-en/data/events_sector_ddcoremass.xml:4645
 msgid ""
-"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"darkone_alignment\""
-" and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"0\"]/event/choice[@req=\"darkone_alignment\" and "
+"@lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Continue..."
+
+#: src-en/data/events_sector_ddcoremass.xml:4657
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr "Alas, there's nothing left."
+
+#: src-en/data/events_sector_ddcoremass.xml:4659
+msgid ""
+"data/events_sector_ddcoremass.xml$//event[@name=\"DDCOREMASS_EXIT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Indeed, it would seem there isn't. You've arrived at the exit of this "
+"harrowing journey once more... this time, will you take it?"

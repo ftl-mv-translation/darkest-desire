@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-11 16:18+0000\n"
-"Last-Translator: Aleev <aleev1414@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_disparityxml/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.11.4\n"
 
 #: src-en/data/events_disparity.xml:13
 msgid ""
@@ -1008,12 +1000,12 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_disparity.xml:593
 msgid ""
-"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"deeponecultist\"]/text"
+"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr "(Член экипажа-культист глубоководных) Спросить."
 
 #: src-en/data/events_disparity.xml:595
 msgid ""
-"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Хотя поначалу вы не хотели делиться информацией, ваш культист Просветленных,"
 " похоже, горячо объясняет, в чем дело. Он утверждает, что Темный благословил"
@@ -1024,7 +1016,7 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:597
 msgid ""
-"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"deeponecultist\"]/event/choice/text"
+"data/events_disparity.xml$//event[@name=\"STORELIST_DISPARITY_CRYSTAL\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/text"
 msgstr "Продолжить..."
 
 #: src-en/data/events_disparity.xml:603
@@ -4925,12 +4917,12 @@ msgstr "Продолжить..."
 
 #: src-en/data/events_disparity.xml:2784
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr "(Член экипажа-глубоководный культист) \"Маневр уклонения... влево\"."
 
 #: src-en/data/events_disparity.xml:2786
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Следуя команде вашего Просветленного культиста, вы заставляете корабль "
 "уклониться влево. Он снова говорит: \"Направо... быстро!\" Вы снова "
@@ -4942,12 +4934,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2788
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
 msgstr "Если у вас есть дань, это было бы здорово."
 
 #: src-en/data/events_disparity.xml:2790
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
 msgstr ""
 "\"Да... мы можем ее предоставить, сородичи\". И действительно, они "
 "телепортируют вам внушительную кучей лома. Оказывается, иметь друзей в "
@@ -4956,12 +4948,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2795
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
 msgstr "Если у вас есть лишнее оружие, нам бы оно пригодилось."
 
 #: src-en/data/events_disparity.xml:2797
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
 msgstr ""
 "\"Да... это мы можем его вам передать, сородичи\". И действительно, они "
 "передают одно из орудий, подаренных им их Темным Богом. Оказывается, иметь "
@@ -4970,12 +4962,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2802
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
 msgstr "Если у вас есть лишняя рабочая сила, было бы неплохо ее получить."
 
 #: src-en/data/events_disparity.xml:2804
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
 msgstr ""
 "\"Да... это мы можем сделать, сородичи\". Действительно, глубоководный, но "
 "не один из истинных Просветленных культистов, телепортируется к вам. "
@@ -4985,12 +4977,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2809
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/text"
 msgstr "Подождите, как вы и эта пустота вообще здесь оказались?"
 
 #: src-en/data/events_disparity.xml:2811
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/text"
 msgstr ""
 "Просветленный закатывает голову, как бы вместо глаз: \"Темный благословляет "
 "эти... машины. С распространением благословения Темного... распространяется "
@@ -5001,12 +4993,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2813
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[1]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[1]/text"
 msgstr "Если у вас есть дань, это было бы здорово."
 
 #: src-en/data/events_disparity.xml:2815
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[1]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[1]/event/text"
 msgstr ""
 "\"Да... мы можем ее предоставить, сородичи\". И действительно, они "
 "телепортируют вам внушительную кучей лома. Оказывается, иметь друзей в "
@@ -5015,12 +5007,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2820
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[2]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[2]/text"
 msgstr "Если у вас есть лишнее оружие, нам бы оно пригодилось."
 
 #: src-en/data/events_disparity.xml:2822
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[2]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[2]/event/text"
 msgstr ""
 "\"Да... это мы можем его вам передать, сородичи\". И действительно, они "
 "передают одно из орудий, подаренных им их Темным Богом. Оказывается, иметь "
@@ -5029,12 +5021,12 @@ msgstr ""
 
 #: src-en/data/events_disparity.xml:2827
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[3]/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[3]/text"
 msgstr "Если у вас есть лишняя рабочая сила, было бы неплохо ее получить."
 
 #: src-en/data/events_disparity.xml:2829
 msgid ""
-"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"deeponecultist\"]/event/choice[4]/event/choice[3]/event/text"
+"data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[3]/event/text"
 msgstr ""
 "\"Да... это мы можем сделать, сородичи\". Действительно, глубоководный, но "
 "не один из истинных Просветленных культистов, телепортируется к вам. "
@@ -9179,9 +9171,3 @@ msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
-
-#~ msgid ""
-#~ "data/events_disparity.xml$//ship[@name=\"DISPARITY_KEYQUEST_LINK_FINALSHOWDOWN_VSBEHEMOTHNEO\"]/deadCrew/text"
-#~ msgstr ""
-#~ "Даже после всего этого, вы все равно продолжаете. Может ли что-нибудь "
-#~ "остановить вас?"

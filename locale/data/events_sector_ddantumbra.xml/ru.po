@@ -7542,12 +7542,14 @@ msgstr "..."
 
 #: src-en/data/events_sector_ddantumbra.xml:4239
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/text"
 msgstr "..."
 
 #: src-en/data/events_sector_ddantumbra.xml:4241
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/text"
 msgstr ""
 "...Это все...? Это... конец? Протокол Архангел: ГЕНЕЗИС... П-покажись, трус!"
 " Мы здесь, чтобы спасти мою сестру и навести порядок, после того хаоса, что "
@@ -7555,12 +7557,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4243
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/text"
 msgstr "Представить себе договор - бежать уже некуда."
 
 #: src-en/data/events_sector_ddantumbra.xml:4245
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
 "ТОГО\n"
 "\t\t\t\t\tХАОСА,\n"
@@ -7577,12 +7581,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4263
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr "Представить себе мир - наконец-то восстановленный."
 
 #: src-en/data/events_sector_ddantumbra.xml:4265
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
 "Э Т У\n"
 "\t\t\t\t\t\t\tИЛЛЮЗИЮ . . .\n"
@@ -7602,12 +7608,14 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4284
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе божественность - абсолютную власть над бытием."
 
 #: src-en/data/events_sector_ddantumbra.xml:4286
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "ЭТО\n"
 "\t\t\t\t\t\t\t\t\tСЛОВО . . .\n"
@@ -7631,12 +7639,15 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4309
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе вопрос - заслуживающий честного ответа."
 
 #: src-en/data/events_sector_ddantumbra.xml:4311
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Эй, не принимайте его сторону! Послушай, я... я не знаю, что ты увидел в том зеркале, ГЕНЕЗИС, но я знаю одно - ты зашел СЛИШКОМ далеко. Мой друг пробился через всех твоих мелких приспешников, чтобы принести сюда истерзанное тело моей сестры... чтобы исправить то зло, которое ТЫ совершил!\n"
 "\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7670,12 +7681,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4342
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе бессмыслицу - действие, чтобы забить себе голову."
 
 #: src-en/data/events_sector_ddantumbra.xml:4344
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...нет, это... это правильно. Я, э-э... у меня так много грез, но... к-какое это имеет отношение к делу?\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7713,12 +7728,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4379
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе замешательство - чистое, неподдельное недоумение."
 
 #: src-en/data/events_sector_ddantumbra.xml:4381
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Скажи правду, или я... я попрошу своего друга здесь надрать тебе задницу. Я не в настроении для игр разума, ясно...?\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7786,12 +7805,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4457
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе недоумение - чистое, неподдельное замешательство."
 
 #: src-en/data/events_sector_ddantumbra.xml:4459
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Л-лица...? Я... ты имеешь в виду Лжесияние... и Светоносцев... и Теней...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7857,12 +7880,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4527
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе иллюзию - впечатляющую, пока она не развеется."
 
 #: src-en/data/events_sector_ddantumbra.xml:4529
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Н-но... почему...? Почему... как это возможно... даже если бы я смогла создать это место из своих грез... почему... Отец...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7935,12 +7962,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4604
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе стекло - то, что разбивается под давлением."
 
 #: src-en/data/events_sector_ddantumbra.xml:4606
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "...Я... Я не могу... Почему... так темно...? Я... Я просто...\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
@@ -7985,14 +8016,18 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4653
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 "Представить себе правду - то, что, судя по истории, было отвергнуто в самом "
 "начале."
 
 #: src-en/data/events_sector_ddantumbra.xml:4655
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "И\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tС\n"
@@ -8042,12 +8077,16 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4707
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе тревогу - результат этого безумия."
 
 #: src-en/data/events_sector_ddantumbra.xml:4709
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "Н Е Т ,\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tМ Ы\n"
@@ -8082,14 +8121,18 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4742
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
 "Представить себе позицию - занятую в оборонительных целях, в свете того, что"
 " предстоит."
 
 #: src-en/data/events_sector_ddantumbra.xml:4744
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
 "С М О Ж Е Т Е Ш Ь\n"
 "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЛ И\n"
@@ -8104,10 +8147,28 @@ msgstr ""
 
 #: src-en/data/events_sector_ddantumbra.xml:4763
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/triggeredEvent[4]/triggeredEventBox/tooltip"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/triggeredEvent[4]/triggeredEventBox/tooltip"
 msgstr "Протокол Архангела: ГЕНЕЗИС, похоже, что-то замышляет."
 
 #: src-en/data/events_sector_ddantumbra.xml:4769
 msgid ""
-"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr "Представить себе конец - неизбежность, к которой нужно быть готовым."
+
+#: src-en/data/events_sector_ddantumbra.xml:4799
+msgid ""
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/text"
+msgstr "..."
+
+#: src-en/data/events_sector_ddantumbra.xml:4801
+msgid ""
+"data/events_sector_ddantumbra.xml$//event[@name=\"DDANTUMBRA_EXIT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"Здесь, на краю всего, по-прежнему тихо... Вы решаете вернуться в свой "
+"кластер, теперь, когда вы увидели, что может предложить истинная пустота?"

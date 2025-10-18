@@ -2559,14 +2559,14 @@ msgstr ""
 
 #: src-en/data/events_deepone.xml:1491
 msgid ""
-"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"deeponecultist\"]/text"
+"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr ""
 "((Член экипажа-Просветленный) Позволить вашему Просветленному культисту "
 "провести вас сквозь тьму."
 
 #: src-en/data/events_deepone.xml:1493
 msgid ""
-"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Знакомый с окружающей вас тьмой, ваш Просветленный культист успешно "
 "проникает сквозь нее и видит, где именно находится странный корабль. "
@@ -2577,7 +2577,7 @@ msgstr ""
 
 #: src-en/data/events_deepone.xml:1495
 msgid ""
-"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"deeponecultist\"]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/text"
 msgstr "Поторопитесь!"
 
 #: src-en/data/events_deepone.xml:1501
@@ -5253,14 +5253,14 @@ msgstr ""
 
 #: src-en/data/events_deepone.xml:3045
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr ""
 "(Член экипажа-Просветленный) Я величественнее, и поэтому я провожу ритуалы "
 "Молитв испытания, простак."
 
 #: src-en/data/events_deepone.xml:3047
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Гражданин ахает: \"Сверкающие желтые тексты?! Я не раз ловил себя на том, "
 "что смотрю на их странные, темные образы... Поистине, твоя связь с НИМ "
@@ -5493,14 +5493,14 @@ msgstr ""
 
 #: src-en/data/events_deepone.xml:3129
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr ""
 "(Член экипажа-Просветленный) Я величественнее, и поэтому я провожу ритуалы "
 "Молитв испытания, простак."
 
 #: src-en/data/events_deepone.xml:3131
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Гражданин ахает: \"Сверкающие желтые тексты?! Я не раз ловил себя на том, "
 "что смотрю на их странные, темные образы... Поистине, твоя связь с НИМ "
@@ -5619,12 +5619,32 @@ msgstr ""
 
 #: src-en/data/events_deepone.xml:3171
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/text"
-msgstr "Я просто изучаю \"Руководство для начинающих по оккультизму\"."
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
+msgstr ""
+"(Живой Светоносец) Я величественнее, ибо я следую Одам Света и Тьмы, глупец."
 
 #: src-en/data/events_deepone.xml:3173
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
+msgstr ""
+"Гражданин ахает: \"Старые, выцветшие тексты?! Я сам бесполезно пытался "
+"разобраться в том немногом, что осталось от их чернил... Поистине, твоя "
+"связь с НИМ сильнее, чем наша. В таком случае, позволь нам служить ЕМУ, "
+"служа тебе - быть может, хоть капля твоего величия снизойдет и на нас, о "
+"великий федди\". Мгновение вы не можете понять - они действительно в "
+"восхищаются вами или просто издеваются, но тут с их корабля телепортируют "
+"человеческую жертву, преподнося вам ее как дань. Быть злым, кровожадным "
+"культистом, пожалуй, имеет и свои социальные преимущества... ну, если вы "
+"водитесь с такими же больными на голову, как и вы сами."
+
+#: src-en/data/events_deepone.xml:3178
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/text"
+msgstr "Я просто изучаю \"Руководство для начинающих по оккультизму\"."
+
+#: src-en/data/events_deepone.xml:3180
+msgid ""
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/event/text"
 msgstr ""
 "\"И это все? Что ж, добро пожаловать в клуб, федди; ты ничуть не лучше нас! "
 "Если ты думаешь, что можешь переступать через нас, стоя здесь как равный "
@@ -5633,17 +5653,17 @@ msgstr ""
 "чертям собачьим! ВО ИМЯ НЕГО!\" Вам нужно остановить их, пока они не сделали"
 " то, что задумали, и быстро!"
 
-#: src-en/data/events_deepone.xml:3176
+#: src-en/data/events_deepone.xml:3183
 msgid ""
-"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[9]/event/choice/text"
+"data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3184
+#: src-en/data/events_deepone.xml:3191
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
 msgstr "(Человеческая жертва) Да, хорошо. Можете забрать."
 
-#: src-en/data/events_deepone.xml:3186
+#: src-en/data/events_deepone.xml:3193
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
@@ -5654,18 +5674,18 @@ msgstr ""
 "осквернения...\" Их корабль прыгает с маяка, а вы остаетесь в некотором "
 "замешательстве и с гораздо меньшей склонностью к жертвоприношениям."
 
-#: src-en/data/events_deepone.xml:3190
+#: src-en/data/events_deepone.xml:3197
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать человеческую жертву, поскольку она не мертва."
 
-#: src-en/data/events_deepone.xml:3195
+#: src-en/data/events_deepone.xml:3202
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
 msgstr "(Член экипажа-человек) Да, хорошо. Вы можете забрать его."
 
-#: src-en/data/events_deepone.xml:3197
+#: src-en/data/events_deepone.xml:3204
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
@@ -5678,18 +5698,18 @@ msgstr ""
 "маяка, а вы остаетесь в состоянии некоторого шока и с меньшим количеством "
 "членов экипажа."
 
-#: src-en/data/events_deepone.xml:3201
+#: src-en/data/events_deepone.xml:3208
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
 msgstr ""
 "Вы не можете клонировать члена экипажа-человека, поскольку он не умер."
 
-#: src-en/data/events_deepone.xml:3206
+#: src-en/data/events_deepone.xml:3213
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/text"
 msgstr "Я никого не отправлю умирать, ты, псих."
 
-#: src-en/data/events_deepone.xml:3208
+#: src-en/data/events_deepone.xml:3215
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/text"
 msgstr ""
@@ -5699,32 +5719,32 @@ msgstr ""
 "сила... Вам нужно остановить их, пока они не сделали то, что задумали, и "
 "быстро!"
 
-#: src-en/data/events_deepone.xml:3211
+#: src-en/data/events_deepone.xml:3218
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3222
+#: src-en/data/events_deepone.xml:3229
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/text"
 msgstr "Корабль разваливается на части, и вы собираете все, что можете."
 
-#: src-en/data/events_deepone.xml:3225
+#: src-en/data/events_deepone.xml:3232
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/destroyed/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3230
+#: src-en/data/events_deepone.xml:3237
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/text"
 msgstr "После гибели экипажа вы быстро забираете то, что можете."
 
-#: src-en/data/events_deepone.xml:3233
+#: src-en/data/events_deepone.xml:3240
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT\"]/deadCrew/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3240
+#: src-en/data/events_deepone.xml:3247
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/text"
 msgstr ""
@@ -5735,14 +5755,14 @@ msgstr ""
 "приснилось. И все же мало что можно сделать, сидя здесь и размышляя... Пора "
 "уходить, оставив вопросы без ответа."
 
-#: src-en/data/events_deepone.xml:3242
+#: src-en/data/events_deepone.xml:3249
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 "(Член экипажа-чума души) Ваш член экипажа, связанный с чумой души, издает "
 "странный булькающий звук."
 
-#: src-en/data/events_deepone.xml:3244
+#: src-en/data/events_deepone.xml:3251
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
@@ -5750,12 +5770,12 @@ msgstr ""
 "когда ваш член экипажа издает подобные звуки... Неужели он не понимает, что "
 "вы пытаетесь разгадать тайну?"
 
-#: src-en/data/events_deepone.xml:3248
+#: src-en/data/events_deepone.xml:3255
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[2]/text"
 msgstr "Мне за это мало платят..."
 
-#: src-en/data/events_deepone.xml:3254
+#: src-en/data/events_deepone.xml:3261
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/text"
 msgstr ""
@@ -5765,24 +5785,24 @@ msgstr ""
 "\"...лом... дай... лом...\". Вы с трудом можете разобрать его форму под "
 "мантией, но у вас возникает ощущение, что что-то не так..."
 
-#: src-en/data/events_deepone.xml:3256
+#: src-en/data/events_deepone.xml:3263
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/text"
 msgstr "Подождите. Лом? Зачем и сколько?"
 
-#: src-en/data/events_deepone.xml:3258
+#: src-en/data/events_deepone.xml:3265
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/text"
 msgstr ""
 "Одетый глубоководный еще сильнее опускает голову: \"...награда... "
 "благодеяние... благосклонность... 60...\" Больше он ничего не говорит."
 
-#: src-en/data/events_deepone.xml:3260
+#: src-en/data/events_deepone.xml:3267
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/text"
 msgstr "Хорошо, конечно. Я заинтригован."
 
-#: src-en/data/events_deepone.xml:3262
+#: src-en/data/events_deepone.xml:3269
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/text"
 msgstr ""
@@ -5796,12 +5816,12 @@ msgstr ""
 "просто слышите его шепот у себя в голове, и тут же осознаете, что перед вами"
 " - чумная оболочка."
 
-#: src-en/data/events_deepone.xml:3267
+#: src-en/data/events_deepone.xml:3274
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/text"
 msgstr "А... за что именно меня наградили?"
 
-#: src-en/data/events_deepone.xml:3269
+#: src-en/data/events_deepone.xml:3276
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -5812,12 +5832,12 @@ msgstr ""
 "пошатываясь, уходит, а вы делаете мысленную заметку проверить уровень "
 "угарного газа на корабле..."
 
-#: src-en/data/events_deepone.xml:3276
+#: src-en/data/events_deepone.xml:3283
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/text"
 msgstr "Нет, извините. Не интересно."
 
-#: src-en/data/events_deepone.xml:3278
+#: src-en/data/events_deepone.xml:3285
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/text"
 msgstr ""
@@ -5829,35 +5849,35 @@ msgstr ""
 "приближается к вам. Оружие раскалено добела, и ваши инстинкты начинают "
 "работать... приготовьтесь к бою!"
 
-#: src-en/data/events_deepone.xml:3281
+#: src-en/data/events_deepone.xml:3288
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3300
+#: src-en/data/events_deepone.xml:3307
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/text"
 msgstr ""
 "Прибыв к сигналу бедствия, вы замечаете вдалеке корабль глубоководных. Он не"
 " предпринимает никаких попыток двигаться."
 
-#: src-en/data/events_deepone.xml:3302
+#: src-en/data/events_deepone.xml:3309
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/text"
 msgstr "Связаться с кораблем."
 
-#: src-en/data/events_deepone.xml:3304
+#: src-en/data/events_deepone.xml:3311
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/text"
 msgstr ""
 "Ваши попытки связаться с кораблем заканчиваются неудачей. Их не отклоняют, "
 "просто их игнорируют на корабле..."
 
-#: src-en/data/events_deepone.xml:3306
+#: src-en/data/events_deepone.xml:3313
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/text"
 msgstr "Приблизиться к кораблю и осмотреть его."
 
-#: src-en/data/events_deepone.xml:3308
+#: src-en/data/events_deepone.xml:3315
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -5868,12 +5888,12 @@ msgstr ""
 "маяк дрейфовали в таком состоянии, когда замечаете... какое-то движение "
 "среди обломков?"
 
-#: src-en/data/events_deepone.xml:3310
+#: src-en/data/events_deepone.xml:3317
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Взглянуть поближе."
 
-#: src-en/data/events_deepone.xml:3312
+#: src-en/data/events_deepone.xml:3319
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -5882,12 +5902,12 @@ msgstr ""
 "на борту. Может быть, он и жив, но, похоже, находится в ужасном состоянии: "
 "он едва держится на ногах."
 
-#: src-en/data/events_deepone.xml:3314
+#: src-en/data/events_deepone.xml:3321
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/text"
 msgstr "(Улучш. Медотсек) Использовать улученный Медотсек, чтобы спасти его."
 
-#: src-en/data/events_deepone.xml:3316
+#: src-en/data/events_deepone.xml:3323
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
@@ -5897,12 +5917,12 @@ msgstr ""
 "тебя... - он делает паузу, - боюсь, я бы... встретил свой конец в тех "
 "развалинах\"."
 
-#: src-en/data/events_deepone.xml:3318
+#: src-en/data/events_deepone.xml:3325
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3320
+#: src-en/data/events_deepone.xml:3327
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
@@ -5915,13 +5935,13 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3327
+#: src-en/data/events_deepone.xml:3334
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/text"
 msgstr ""
 "(Улучш. Клон-отсек) Использовать улучшенный Клон-отсек, чтобы спасти его."
 
-#: src-en/data/events_deepone.xml:3329
+#: src-en/data/events_deepone.xml:3336
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
@@ -5930,12 +5950,12 @@ msgstr ""
 " благодарностей тебе, друг. Без тебя... - оно делает паузу, - боюсь, я бы..."
 " встретил свой конец в тех развалинах\"."
 
-#: src-en/data/events_deepone.xml:3331
+#: src-en/data/events_deepone.xml:3338
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3333
+#: src-en/data/events_deepone.xml:3340
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
@@ -5948,13 +5968,13 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3340
+#: src-en/data/events_deepone.xml:3347
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
 msgstr ""
 "(Медицинский экипаж) Использовать свой медицинский экипаж, чтобы спасти его."
 
-#: src-en/data/events_deepone.xml:3342
+#: src-en/data/events_deepone.xml:3349
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
 msgstr ""
@@ -5963,12 +5983,12 @@ msgstr ""
 " благодарностей тебе, друг. Без тебя... - он делает паузу, - боюсь, я бы... "
 "встретил свой конец в тех развалинах\"."
 
-#: src-en/data/events_deepone.xml:3344
+#: src-en/data/events_deepone.xml:3351
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3346
+#: src-en/data/events_deepone.xml:3353
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/event/text"
 msgstr ""
@@ -5981,12 +6001,12 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3353
+#: src-en/data/events_deepone.xml:3360
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/text"
 msgstr "(Медицинский дрон) Использовать медицинский дрон, чтобы спасти его."
 
-#: src-en/data/events_deepone.xml:3355
+#: src-en/data/events_deepone.xml:3362
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/text"
 msgstr ""
@@ -5995,12 +6015,12 @@ msgstr ""
 " благодарностей тебе, друг. Без тебя... - он делает паузу, - боюсь, я бы... "
 "встретил свой конец в тех развалинах\"."
 
-#: src-en/data/events_deepone.xml:3357
+#: src-en/data/events_deepone.xml:3364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3359
+#: src-en/data/events_deepone.xml:3366
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/event/text"
 msgstr ""
@@ -6013,13 +6033,13 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3366
+#: src-en/data/events_deepone.xml:3373
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
 msgstr ""
 "(Медицинская бомба) Использовать медицинскую бомбу, чтобы спасти его. [-1}]"
 
-#: src-en/data/events_deepone.xml:3368
+#: src-en/data/events_deepone.xml:3375
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
 msgstr ""
@@ -6029,12 +6049,12 @@ msgstr ""
 "тебя... - он делает паузу, - боюсь, я бы... встретил свой конец в тех "
 "развалинах\"."
 
-#: src-en/data/events_deepone.xml:3373
+#: src-en/data/events_deepone.xml:3380
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3375
+#: src-en/data/events_deepone.xml:3382
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/event/text"
 msgstr ""
@@ -6047,14 +6067,14 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3382
+#: src-en/data/events_deepone.xml:3389
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
 msgstr ""
 "(Восстановительный телепортатор) Использовать свой Восстановительный "
 "телепортатор, чтобы спасти его."
 
-#: src-en/data/events_deepone.xml:3384
+#: src-en/data/events_deepone.xml:3391
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/text"
 msgstr ""
@@ -6064,12 +6084,12 @@ msgstr ""
 "благословений и благодарностей тебе, друг. Без тебя... - он делает паузу, - "
 "боюсь, я бы... встретил свой конец в тех развалинах\"."
 
-#: src-en/data/events_deepone.xml:3386
+#: src-en/data/events_deepone.xml:3393
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/text"
 msgstr "Что случилось с твоим кораблем?"
 
-#: src-en/data/events_deepone.xml:3388
+#: src-en/data/events_deepone.xml:3395
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/event/text"
 msgstr ""
@@ -6082,12 +6102,12 @@ msgstr ""
 "мне\". С этими словами он отворачивается. У вас есть вопросы, но... вы рады "
 "его помощи."
 
-#: src-en/data/events_deepone.xml:3395
+#: src-en/data/events_deepone.xml:3402
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/text"
 msgstr "Я не могу его спасти."
 
-#: src-en/data/events_deepone.xml:3397
+#: src-en/data/events_deepone.xml:3404
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/event/text"
 msgstr ""
@@ -6095,85 +6115,85 @@ msgstr ""
 "мгновений. Вы ничего не могли сделать, и вы вынуждены жить дальше. Будь оно "
 "все проклято..."
 
-#: src-en/data/events_deepone.xml:3405
+#: src-en/data/events_deepone.xml:3412
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/text"
 msgstr "Сдаться."
 
-#: src-en/data/events_deepone.xml:3407
+#: src-en/data/events_deepone.xml:3414
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Ну что ж, вы пытались. Если им нужна помощь, то, по крайней мере, они могли "
 "бы ответить на ваши вызовы... Вы удаляетесь и готовитесь покинуть маяк."
 
-#: src-en/data/events_deepone.xml:3409
+#: src-en/data/events_deepone.xml:3416
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3413
+#: src-en/data/events_deepone.xml:3420
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3421
+#: src-en/data/events_deepone.xml:3428
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/text"
 msgstr "Не обращать внимания."
 
-#: src-en/data/events_deepone.xml:3423
+#: src-en/data/events_deepone.xml:3430
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/text"
 msgstr ""
 "У вас есть дела поважнее, чем спасать людей. Вы удаляетесь и готовитесь "
 "покинуть маяк."
 
-#: src-en/data/events_deepone.xml:3425
+#: src-en/data/events_deepone.xml:3432
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3429
+#: src-en/data/events_deepone.xml:3436
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3438
+#: src-en/data/events_deepone.xml:3445
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/destroyed/text"
 msgstr ""
 "Хотя глубоководные не поблагодарили вас, вы чувствуете себя вполне хорошо, "
 "когда разбираете на лом корабль Клановцев."
 
-#: src-en/data/events_deepone.xml:3442
+#: src-en/data/events_deepone.xml:3449
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/deadCrew/text"
 msgstr ""
 "Хотя глубоководные не поблагодарили вас, вы чувствуете себя вполне хорошо, "
 "когда разбираете на лом корабль Клановцев."
 
-#: src-en/data/events_deepone.xml:3449
+#: src-en/data/events_deepone.xml:3456
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/text"
 msgstr "Корабль разваливается на части, и вы собираете все, что можете."
 
-#: src-en/data/events_deepone.xml:3452
+#: src-en/data/events_deepone.xml:3459
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/destroyed/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3457
+#: src-en/data/events_deepone.xml:3464
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/text"
 msgstr "После гибели экипажа вы быстро забираете то, что можете."
 
-#: src-en/data/events_deepone.xml:3460
+#: src-en/data/events_deepone.xml:3467
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_DEEPONE_FIGHT\"]/deadCrew/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3467
+#: src-en/data/events_deepone.xml:3474
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN_DEEPONE_WIN\"]/text"
 msgstr ""
@@ -6185,24 +6205,24 @@ msgstr ""
 "маяка. Не то чтобы аплодировали стоя, но, похоже, были достаточно "
 "благодарны."
 
-#: src-en/data/events_deepone.xml:3472
+#: src-en/data/events_deepone.xml:3479
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/text"
 msgstr ""
 "Чудом вам удается выйти из боя невредимым и найти тихое место, где вы можете"
 " сохранять дистанцию, пока ССД заряжается."
 
-#: src-en/data/events_deepone.xml:3474
+#: src-en/data/events_deepone.xml:3481
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3478
+#: src-en/data/events_deepone.xml:3485
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3483
+#: src-en/data/events_deepone.xml:3490
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/text"
 msgstr ""
@@ -6210,17 +6230,17 @@ msgstr ""
 "вырваться из боя и найти тихое место, чтобы восстановить силы, пока ССД "
 "заряжается."
 
-#: src-en/data/events_deepone.xml:3486
+#: src-en/data/events_deepone.xml:3493
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3490
+#: src-en/data/events_deepone.xml:3497
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3495
+#: src-en/data/events_deepone.xml:3502
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/text"
 msgstr ""
@@ -6228,17 +6248,17 @@ msgstr ""
 "бы, но вам удается спастись и найти тихое место, чтобы восстановить силы, "
 "пока ССД заряжается."
 
-#: src-en/data/events_deepone.xml:3498
+#: src-en/data/events_deepone.xml:3505
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3502
+#: src-en/data/events_deepone.xml:3509
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3507
+#: src-en/data/events_deepone.xml:3514
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/text"
 msgstr ""
@@ -6246,17 +6266,17 @@ msgstr ""
 "бы, но вам удается спастись и найти тихое место, чтобы восстановить силы, "
 "пока ССД заряжается."
 
-#: src-en/data/events_deepone.xml:3510
+#: src-en/data/events_deepone.xml:3517
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3514
+#: src-en/data/events_deepone.xml:3521
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3522
+#: src-en/data/events_deepone.xml:3529
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/text"
 msgstr ""
 "Прибыв к сигналу бедствия, вы сразу же попадаете под выстрелы, проносящиеся "
@@ -6265,12 +6285,12 @@ msgstr ""
 "развлечения, и вам придется быстро выбрать сторону, если вы не хотите "
 "попасть под перекрестный огонь."
 
-#: src-en/data/events_deepone.xml:3524
+#: src-en/data/events_deepone.xml:3531
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/text"
 msgstr "Атаковать Клановцев."
 
-#: src-en/data/events_deepone.xml:3526
+#: src-en/data/events_deepone.xml:3533
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/text"
 msgstr ""
@@ -6279,17 +6299,17 @@ msgstr ""
 "глубоководных немедленно использует возможность сбежать и покинуть систему. "
 "Похоже, вы не получите никакой благодарности..."
 
-#: src-en/data/events_deepone.xml:3529
+#: src-en/data/events_deepone.xml:3536
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3535
+#: src-en/data/events_deepone.xml:3542
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/text"
 msgstr "Атаковать глубоководных."
 
-#: src-en/data/events_deepone.xml:3537
+#: src-en/data/events_deepone.xml:3544
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/text"
 msgstr ""
@@ -6298,17 +6318,17 @@ msgstr ""
 "похоже, прекратили огонь; они наблюдают за боем издалека. Похоже, помощи от "
 "них не дождешься..."
 
-#: src-en/data/events_deepone.xml:3540
+#: src-en/data/events_deepone.xml:3547
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3546
+#: src-en/data/events_deepone.xml:3553
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[3]/text"
 msgstr "Рискнуть и попытаться сбежать."
 
-#: src-en/data/events_deepone.xml:3553
+#: src-en/data/events_deepone.xml:3560
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/text"
 msgstr ""
 "Вы прибываете к сигналу бедствия, но корабль глубоководных быстро "
@@ -6316,12 +6336,12 @@ msgstr ""
 "это и не типично для них, возможно, что-то привело этих глубоководных в "
 "отчаяние... как бы то ни было, настало время защищаться!"
 
-#: src-en/data/events_deepone.xml:3556
+#: src-en/data/events_deepone.xml:3563
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3563
+#: src-en/data/events_deepone.xml:3570
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/text"
 msgstr ""
@@ -6329,24 +6349,24 @@ msgstr ""
 "оно должно быть источником сигнала бедствия, но с такого расстояния кажется,"
 " что все в порядке."
 
-#: src-en/data/events_deepone.xml:3565
+#: src-en/data/events_deepone.xml:3572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/text"
 msgstr "Приблизиться и осмотреться."
 
-#: src-en/data/events_deepone.xml:3567
+#: src-en/data/events_deepone.xml:3574
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/text"
 msgstr ""
 "Кажется, здесь нет ничего необычного. Корабли снуют туда-сюда в обычном "
 "темпе, а глубоководные беззаботно бродят по улицам."
 
-#: src-en/data/events_deepone.xml:3569
+#: src-en/data/events_deepone.xml:3576
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/text"
 msgstr "Приземлиться и определить источник сигнала бедствия."
 
-#: src-en/data/events_deepone.xml:3571
+#: src-en/data/events_deepone.xml:3578
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -6357,34 +6377,34 @@ msgstr ""
 "бедствия. Вас отводят в тихий уголок поселения, в один из небольших домов в "
 "конце жилого района. Пока вы стоите у двери, ничто не кажется вам тревожным."
 
-#: src-en/data/events_deepone.xml:3573
+#: src-en/data/events_deepone.xml:3580
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Постучать."
 
-#: src-en/data/events_deepone.xml:3575
+#: src-en/data/events_deepone.xml:3582
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr "Ответа не последовало, и изнутри не слышно никаких звуков."
 
-#: src-en/data/events_deepone.xml:3577
+#: src-en/data/events_deepone.xml:3584
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
 msgstr "Постучать снова."
 
-#: src-en/data/events_deepone.xml:3579
+#: src-en/data/events_deepone.xml:3586
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
 "На этот раз вы стучите гораздо громче. Внутри что-то зашуршало, но никто не "
 "открыл дверь."
 
-#: src-en/data/events_deepone.xml:3581
+#: src-en/data/events_deepone.xml:3588
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
 msgstr "Постучать снова..."
 
-#: src-en/data/events_deepone.xml:3583
+#: src-en/data/events_deepone.xml:3590
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
@@ -6393,12 +6413,12 @@ msgstr ""
 "оценивая вашу униформу, а затем заговорил: \"Федерация, здесь... у моей "
 "двери? С... какой целью?\""
 
-#: src-en/data/events_deepone.xml:3585
+#: src-en/data/events_deepone.xml:3592
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
 msgstr "Изнутри дома раздается сигнал бедствия."
 
-#: src-en/data/events_deepone.xml:3587
+#: src-en/data/events_deepone.xml:3594
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
@@ -6407,12 +6427,12 @@ msgstr ""
 "совсем немного времени, и он возвращается с маяком бедствия в руках, хотя "
 "этот маяк, похоже, сильно поврежден. \"Это... источник сигнала?\""
 
-#: src-en/data/events_deepone.xml:3589
+#: src-en/data/events_deepone.xml:3596
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
 msgstr "Действительно, это маяк бедствия."
 
-#: src-en/data/events_deepone.xml:3591
+#: src-en/data/events_deepone.xml:3598
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
@@ -6423,12 +6443,12 @@ msgstr ""
 "вас, офицер. Я... хотел бы как-то загладить свою вину перед вами, но, думаю,"
 " это невозможно\"."
 
-#: src-en/data/events_deepone.xml:3593
+#: src-en/data/events_deepone.xml:3600
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr "(Член экипажа-глубоководный) \"Возможно, кое-что есть?\""
 
-#: src-en/data/events_deepone.xml:3595
+#: src-en/data/events_deepone.xml:3602
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
@@ -6437,12 +6457,12 @@ msgstr ""
 "закрывает дверь и исчезает внутри. Вы спрашиваете своего глубоководного, что"
 " это значит, но он отмалчивается и просит вас подождать немного."
 
-#: src-en/data/events_deepone.xml:3597
+#: src-en/data/events_deepone.xml:3604
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr "Тогда подождем."
 
-#: src-en/data/events_deepone.xml:3599
+#: src-en/data/events_deepone.xml:3606
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
@@ -6454,14 +6474,14 @@ msgstr ""
 " к вашей команде. Вы не знаете, что именно ему сказали, чтобы заставить его "
 "бросить всё здесь, но... вы не из тех, кто отказывается от новых помощников."
 
-#: src-en/data/events_deepone.xml:3607
+#: src-en/data/events_deepone.xml:3614
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr ""
 "(Член экипажа-свободный богомол) \"Никогда не сомневаться в путешествующий "
 "продавцах!\""
 
-#: src-en/data/events_deepone.xml:3609
+#: src-en/data/events_deepone.xml:3616
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
@@ -6476,12 +6496,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3614
+#: src-en/data/events_deepone.xml:3621
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Член экипажа-слизень) \"Хех, типичный мошшшенник!\""
 
-#: src-en/data/events_deepone.xml:3616
+#: src-en/data/events_deepone.xml:3623
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
@@ -6499,12 +6519,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3621
+#: src-en/data/events_deepone.xml:3628
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr "(Член экипажа-Инженер) Пусть ваш Инженер осмотрит маяк."
 
-#: src-en/data/events_deepone.xml:3623
+#: src-en/data/events_deepone.xml:3630
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
@@ -6520,12 +6540,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3628
+#: src-en/data/events_deepone.xml:3635
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/text"
 msgstr "У вас случайно не валяется здесь какой-нибудь... хлам?"
 
-#: src-en/data/events_deepone.xml:3630
+#: src-en/data/events_deepone.xml:3637
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
@@ -6536,12 +6556,12 @@ msgstr ""
 "времени, но вам все же удалось разобрать маяк и получить из него хоть что-"
 "то..."
 
-#: src-en/data/events_deepone.xml:3641
+#: src-en/data/events_deepone.xml:3648
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
 msgstr "Хватит, выламываем дверь!"
 
-#: src-en/data/events_deepone.xml:3643
+#: src-en/data/events_deepone.xml:3650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -6550,12 +6570,12 @@ msgstr ""
 "униформу, а затем заговорил: \"Федерация, здесь... у моей двери? С... какой "
 "целью?\""
 
-#: src-en/data/events_deepone.xml:3645
+#: src-en/data/events_deepone.xml:3652
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Изнутри дома раздается сигнал бедствия."
 
-#: src-en/data/events_deepone.xml:3647
+#: src-en/data/events_deepone.xml:3654
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -6564,12 +6584,12 @@ msgstr ""
 "совсем немного времени, и он возвращается с маяком бедствия в руках, хотя "
 "этот маяк, похоже, сильно поврежден. \"Это... источник сигнала?\""
 
-#: src-en/data/events_deepone.xml:3649
+#: src-en/data/events_deepone.xml:3656
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/text"
 msgstr "Действительно, это маяк бедствия."
 
-#: src-en/data/events_deepone.xml:3651
+#: src-en/data/events_deepone.xml:3658
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -6580,12 +6600,12 @@ msgstr ""
 "вас, офицер. Я... хотел бы как-то загладить свою вину перед вами, но, думаю,"
 " это невозможно\"."
 
-#: src-en/data/events_deepone.xml:3653
+#: src-en/data/events_deepone.xml:3660
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
 msgstr "(Член экипажа-глубоководный) \"Возможно, кое-что есть?\""
 
-#: src-en/data/events_deepone.xml:3655
+#: src-en/data/events_deepone.xml:3662
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
@@ -6594,12 +6614,12 @@ msgstr ""
 "закрывает дверь и исчезает внутри. Вы спрашиваете своего глубоководного, что"
 " это значит, но он отмалчивается и просит вас подождать немного."
 
-#: src-en/data/events_deepone.xml:3657
+#: src-en/data/events_deepone.xml:3664
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
 msgstr "Тогда подождем."
 
-#: src-en/data/events_deepone.xml:3659
+#: src-en/data/events_deepone.xml:3666
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
@@ -6611,14 +6631,14 @@ msgstr ""
 " к вашей команде. Вы не знаете, что именно ему сказали, чтобы заставить его "
 "бросить всё здесь, но... вы не из тех, кто отказывается от новых помощников."
 
-#: src-en/data/events_deepone.xml:3667
+#: src-en/data/events_deepone.xml:3674
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
 msgstr ""
 "(Член экипажа-свободный богомол) \"Никогда не сомневаться в путешествующий "
 "продавцах!\""
 
-#: src-en/data/events_deepone.xml:3669
+#: src-en/data/events_deepone.xml:3676
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
@@ -6633,12 +6653,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3674
+#: src-en/data/events_deepone.xml:3681
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
 msgstr "(Член экипажа-слизень) \"Хех, типичный мошшшенник!\""
 
-#: src-en/data/events_deepone.xml:3676
+#: src-en/data/events_deepone.xml:3683
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
@@ -6656,12 +6676,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3681
+#: src-en/data/events_deepone.xml:3688
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
 msgstr "(Член экипажа-Инженер) Пусть ваш Инженер осмотрит маяк."
 
-#: src-en/data/events_deepone.xml:3683
+#: src-en/data/events_deepone.xml:3690
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
@@ -6677,12 +6697,12 @@ msgstr ""
 "отказывается от гостеприимства. Вы принимаете награду, прощаетесь с "
 "глубоководным, а затем начинаете свой путь обратно на корабль."
 
-#: src-en/data/events_deepone.xml:3688
+#: src-en/data/events_deepone.xml:3695
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/text"
 msgstr "У вас случайно не валяется здесь какой-нибудь... хлам?"
 
-#: src-en/data/events_deepone.xml:3690
+#: src-en/data/events_deepone.xml:3697
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
@@ -6693,12 +6713,12 @@ msgstr ""
 "времени, но вам все же удалось разобрать маяк и получить из него хоть что-"
 "то..."
 
-#: src-en/data/events_deepone.xml:3703
+#: src-en/data/events_deepone.xml:3710
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
 msgstr "Выломать дверь."
 
-#: src-en/data/events_deepone.xml:3705
+#: src-en/data/events_deepone.xml:3712
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
@@ -6710,12 +6730,12 @@ msgstr ""
 "мимо вас и пролезает сквозь дыру, которую вы только что создали. Похоже, у "
 "вас не будет шанса все объяснить..."
 
-#: src-en/data/events_deepone.xml:3707
+#: src-en/data/events_deepone.xml:3714
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/text"
 msgstr "Ой-ой."
 
-#: src-en/data/events_deepone.xml:3709
+#: src-en/data/events_deepone.xml:3716
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
@@ -6725,12 +6745,12 @@ msgstr ""
 "намерения, но, похоже, ситуация быстро вышла из-под контроля... и будет "
 "только хуже, если вы не уберетесь отсюда как можно скорее!"
 
-#: src-en/data/events_deepone.xml:3711
+#: src-en/data/events_deepone.xml:3718
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
 msgstr "Пора уходить!"
 
-#: src-en/data/events_deepone.xml:3713
+#: src-en/data/events_deepone.xml:3720
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
@@ -6739,76 +6759,76 @@ msgstr ""
 "вами устремляется корабль глубоководных. Похоже, без боя вам не выбраться..."
 " а ведь вы всего лишь пытались помочь!"
 
-#: src-en/data/events_deepone.xml:3716
+#: src-en/data/events_deepone.xml:3723
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3730
+#: src-en/data/events_deepone.xml:3737
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/text"
 msgstr "Должно быть, ложная тревога."
 
-#: src-en/data/events_deepone.xml:3732
+#: src-en/data/events_deepone.xml:3739
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
 "Кажется, здесь все в порядке. Удовлетворенный, вы удаляетесь от поселения и "
 "готовитесь покинуть систему."
 
-#: src-en/data/events_deepone.xml:3734
+#: src-en/data/events_deepone.xml:3741
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3738
+#: src-en/data/events_deepone.xml:3745
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3746
+#: src-en/data/events_deepone.xml:3753
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/text"
 msgstr "Не интересует."
 
-#: src-en/data/events_deepone.xml:3748
+#: src-en/data/events_deepone.xml:3755
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/text"
 msgstr ""
 "Вы не можете позволить себе отвлекаться, вам нужно выполнить задание. "
 "Удалившись от поселения, вы готовитесь покинуть систему."
 
-#: src-en/data/events_deepone.xml:3750
+#: src-en/data/events_deepone.xml:3757
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3754
+#: src-en/data/events_deepone.xml:3761
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[2]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3763
+#: src-en/data/events_deepone.xml:3770
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/text"
 msgstr "Корабль разваливается на части, и вы собираете все, что можете."
 
-#: src-en/data/events_deepone.xml:3766
+#: src-en/data/events_deepone.xml:3773
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/destroyed/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3771
+#: src-en/data/events_deepone.xml:3778
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/text"
 msgstr "После гибели экипажа вы быстро забираете то, что можете."
 
-#: src-en/data/events_deepone.xml:3774
+#: src-en/data/events_deepone.xml:3781
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT\"]/deadCrew/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3781
+#: src-en/data/events_deepone.xml:3788
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/text"
 msgstr ""
@@ -6819,12 +6839,12 @@ msgstr ""
 "что это такое и что именно происходит, но знаете, что вам нужно убираться "
 "отсюда, и побыстрее!"
 
-#: src-en/data/events_deepone.xml:3790
+#: src-en/data/events_deepone.xml:3797
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/text"
 msgstr "Прорываться!"
 
-#: src-en/data/events_deepone.xml:3792
+#: src-en/data/events_deepone.xml:3799
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DESTROYED\"]/choice/event/text"
 msgstr ""
@@ -6832,7 +6852,7 @@ msgstr ""
 "образовавшихся пробоин начинают проникать новые чумные оболочки. Они "
 "пытаются помешать вашему бегству!"
 
-#: src-en/data/events_deepone.xml:3801
+#: src-en/data/events_deepone.xml:3808
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/text"
 msgstr ""
@@ -6840,12 +6860,12 @@ msgstr ""
 " материя скручивается и извивается... как она принимает новую форму. Однако "
 "вместо существа, это напоминает какое-то маслянистое оружие..."
 
-#: src-en/data/events_deepone.xml:3804
+#: src-en/data/events_deepone.xml:3811
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/text"
 msgstr "Что, черт возьми, происходит...?"
 
-#: src-en/data/events_deepone.xml:3806
+#: src-en/data/events_deepone.xml:3813
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/text"
 msgstr ""
@@ -6856,12 +6876,12 @@ msgstr ""
 "что это такое и что именно происходит, но знаете, что вам нужно убираться "
 "отсюда, и побыстрее!"
 
-#: src-en/data/events_deepone.xml:3815
+#: src-en/data/events_deepone.xml:3822
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/text"
 msgstr "Прорываться!"
 
-#: src-en/data/events_deepone.xml:3817
+#: src-en/data/events_deepone.xml:3824
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION_FIGHT_WIN_DEADCREW\"]/choice/event/choice/event/text"
 msgstr ""
@@ -6869,7 +6889,7 @@ msgstr ""
 "образовавшихся пробоин начинают проникать новые чумные оболочки. Они "
 "пытаются помешать вашему бегству!"
 
-#: src-en/data/events_deepone.xml:3829
+#: src-en/data/events_deepone.xml:3836
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/text"
 msgstr ""
@@ -6878,12 +6898,12 @@ msgstr ""
 "двигатели выключены, но в остальном он, похоже, исправен... В чем именно им "
 "нужна помощь?"
 
-#: src-en/data/events_deepone.xml:3832
+#: src-en/data/events_deepone.xml:3839
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/text"
 msgstr "Связаться с дрейфующим кораблем."
 
-#: src-en/data/events_deepone.xml:3834
+#: src-en/data/events_deepone.xml:3841
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/text"
 msgstr ""
@@ -6895,14 +6915,14 @@ msgstr ""
 "правда? Если они и знают, что их вызывают, то, похоже, не спешат на него "
 "реагировать. Да и вообще ничего не хотят делать. Они просто стоят на месте."
 
-#: src-en/data/events_deepone.xml:3836
+#: src-en/data/events_deepone.xml:3843
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
 msgstr ""
 "(Член экипажа-чума души) Пусть ваш член экипажа, связанный с чумой души, "
 "издаст булькающий звук."
 
-#: src-en/data/events_deepone.xml:3838
+#: src-en/data/events_deepone.xml:3845
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
@@ -6912,12 +6932,12 @@ msgstr ""
 "комнаты... а затем двигатели их корабля оживают! Что бы ни произошло, они, "
 "похоже, собираются напасть на ваш корабль. Приготовьтесь!"
 
-#: src-en/data/events_deepone.xml:3842
+#: src-en/data/events_deepone.xml:3849
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3844
+#: src-en/data/events_deepone.xml:3851
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/text"
 msgstr ""
@@ -6927,17 +6947,17 @@ msgstr ""
 "полагаете, что бульканье вашего члена экипажа как-то убедило ее в этом. Тем "
 "не менее ее союзники не кажутся такими уж уступчивыми!"
 
-#: src-en/data/events_deepone.xml:3847
+#: src-en/data/events_deepone.xml:3854
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3855
+#: src-en/data/events_deepone.xml:3862
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/text"
 msgstr "Прочистить горло."
 
-#: src-en/data/events_deepone.xml:3857
+#: src-en/data/events_deepone.xml:3864
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
@@ -6947,39 +6967,39 @@ msgstr ""
 "двигатели их корабля! Что бы ни произошло, они, похоже, собираются напасть "
 "на ваш корабль. Приготовьтесь!"
 
-#: src-en/data/events_deepone.xml:3861
+#: src-en/data/events_deepone.xml:3868
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3867
+#: src-en/data/events_deepone.xml:3874
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/text"
 msgstr "Прервать вызов. Это странно."
 
-#: src-en/data/events_deepone.xml:3869
+#: src-en/data/events_deepone.xml:3876
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
 "И правда, общение со странными глубоководными существами заканчивается, и "
 "они ни разу не побеспокоили вас, когда вы готовились покинуть маяк."
 
-#: src-en/data/events_deepone.xml:3871
+#: src-en/data/events_deepone.xml:3878
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3875
+#: src-en/data/events_deepone.xml:3882
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[1]/event/choice[3]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3883
+#: src-en/data/events_deepone.xml:3890
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/text"
 msgstr "Атаковать корабль, пока они не поняли, что вы здесь."
 
-#: src-en/data/events_deepone.xml:3885
+#: src-en/data/events_deepone.xml:3892
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/text"
 msgstr ""
@@ -6989,40 +7009,40 @@ msgstr ""
 "реветь! Что бы там ни происходило, они, похоже, собираются напасть на ваш "
 "корабль. Приготовьтесь!"
 
-#: src-en/data/events_deepone.xml:3888
+#: src-en/data/events_deepone.xml:3895
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[2]/event/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3894
+#: src-en/data/events_deepone.xml:3901
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/text"
 msgstr ""
 "Не обращать на них внимания. Если им нужна помощь, они могут попросить ее."
 
-#: src-en/data/events_deepone.xml:3896
+#: src-en/data/events_deepone.xml:3903
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/text"
 msgstr ""
 "И все же... они не просят об этом. Вас совершенно не беспокоят, пока вы "
 "находитесь здесь, готовясь покинуть маяк."
 
-#: src-en/data/events_deepone.xml:3898
+#: src-en/data/events_deepone.xml:3905
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[1]/text"
 msgstr "Заняться чем-либо на корабле."
 
-#: src-en/data/events_deepone.xml:3902
+#: src-en/data/events_deepone.xml:3909
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DDDEEPONE_SOULPLAGUEINCURSION\"]/choice[3]/event/choice[2]/text"
 msgstr "Ничего не делать."
 
-#: src-en/data/events_deepone.xml:3924
+#: src-en/data/events_deepone.xml:3931
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_DEEP\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3930
+#: src-en/data/events_deepone.xml:3937
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[1]"
 msgstr ""
@@ -7031,7 +7051,7 @@ msgstr ""
 " они не агрессивны... Независимо от того, что заставило их принять такое "
 "решение, вы должны защищаться!"
 
-#: src-en/data/events_deepone.xml:3931
+#: src-en/data/events_deepone.xml:3938
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[2]"
 msgstr ""
@@ -7039,7 +7059,7 @@ msgstr ""
 "пространство... священно!\" Должно быть, вы посягаете на их территорию, и "
 "они считают нужным применить против вас силу!"
 
-#: src-en/data/events_deepone.xml:3932
+#: src-en/data/events_deepone.xml:3939
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_DEEP_TEXT\"]/text[3]"
 msgstr ""
@@ -7047,12 +7067,12 @@ msgstr ""
 "сообщений, в которых говорится одно и то же: \"ДАНЬ\". Расплывчато и "
 "зловеще, но одно можно сказать наверняка: настало время битвы."
 
-#: src-en/data/events_deepone.xml:3939
+#: src-en/data/events_deepone.xml:3946
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_THEOCRACY\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3945
+#: src-en/data/events_deepone.xml:3952
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[1]"
 msgstr ""
@@ -7062,7 +7082,7 @@ msgstr ""
 "внимание на вас и позволяют кораблю глубоководных скрыться. Неблагодарная "
 "работа - быть отвлекающей целью..."
 
-#: src-en/data/events_deepone.xml:3946
+#: src-en/data/events_deepone.xml:3953
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[2]"
 msgstr ""
@@ -7071,7 +7091,7 @@ msgstr ""
 "глубоководных. Покажите им, что бывает, когда пытаешься охотиться на "
 "хищника."
 
-#: src-en/data/events_deepone.xml:3947
+#: src-en/data/events_deepone.xml:3954
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_THEOCRACY_TEXT\"]/text[3]"
 msgstr ""
@@ -7079,12 +7099,12 @@ msgstr ""
 "не оплачивают\". После этого корабль Теократии появляется в поле зрения и "
 "готовится к бою."
 
-#: src-en/data/events_deepone.xml:3954
+#: src-en/data/events_deepone.xml:3961
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_PIRATE\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3960
+#: src-en/data/events_deepone.xml:3967
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[1]"
 msgstr ""
@@ -7092,7 +7112,7 @@ msgstr ""
 "спорной территории, которой является пространство глубоководных. Один "
 "надвигается на вас, оружие заряжается!"
 
-#: src-en/data/events_deepone.xml:3961
+#: src-en/data/events_deepone.xml:3968
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[2]"
 msgstr ""
@@ -7101,7 +7121,7 @@ msgstr ""
 "них, похоже, уверен в своей способности справиться с вами; он приближается, "
 "готовый к битве."
 
-#: src-en/data/events_deepone.xml:3962
+#: src-en/data/events_deepone.xml:3969
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_PIRATE_TEXT\"]/text[3]"
 msgstr ""
@@ -7110,12 +7130,12 @@ msgstr ""
 "слепой удачи, но через несколько секунд пиратский корабль появляется из-за "
 "ближайшего спутника и идет в атаку!"
 
-#: src-en/data/events_deepone.xml:3969
+#: src-en/data/events_deepone.xml:3976
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_REBEL\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3975
+#: src-en/data/events_deepone.xml:3982
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[1]"
 msgstr ""
@@ -7124,7 +7144,7 @@ msgstr ""
 "грязную работу. Точно так же ничто не мешает провести с ними воспитательную "
 "работу."
 
-#: src-en/data/events_deepone.xml:3976
+#: src-en/data/events_deepone.xml:3983
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[2]"
 msgstr ""
@@ -7133,7 +7153,7 @@ msgstr ""
 "на охране на территории, принадлежащей глубоководным, тем более в пустом "
 "пространстве, но у вас нет времени размышлять об этом: вот он!"
 
-#: src-en/data/events_deepone.xml:3977
+#: src-en/data/events_deepone.xml:3984
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_REBEL_TEXT\"]/text[3]"
 msgstr ""
@@ -7142,12 +7162,12 @@ msgstr ""
 "закончить: \"...62103. Протокол: Нейтрализация\". С этими словами он "
 "активирует оружие и начинает атаку."
 
-#: src-en/data/events_deepone.xml:3984
+#: src-en/data/events_deepone.xml:3991
 msgid ""
 "data/events_deepone.xml$//event[@name=\"HOSTILE_DEEPONE_LANIUS\"]/choice/text"
 msgstr "Продолжить..."
 
-#: src-en/data/events_deepone.xml:3990
+#: src-en/data/events_deepone.xml:3997
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[1]"
 msgstr ""
@@ -7157,7 +7177,7 @@ msgstr ""
 "трапезой: один из кораблей отдаляется от обломков и решает, что вы - его "
 "следующий пир!"
 
-#: src-en/data/events_deepone.xml:3991
+#: src-en/data/events_deepone.xml:3998
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[2]"
 msgstr ""
@@ -7166,7 +7186,7 @@ msgstr ""
 "глубоководных, ланиусы могут свободно перемещаться и питаться тем, что им "
 "нравится. К несчастью для вас, это касается и Ренегатов!"
 
-#: src-en/data/events_deepone.xml:3992
+#: src-en/data/events_deepone.xml:3999
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"HOSTILE_DEEPONE_LANIUS_TEXT\"]/text[3]"
 msgstr ""
@@ -7174,24 +7194,24 @@ msgstr ""
 "особенно скуден: \"Есть нужно, а не есть, есть. Спасибо\". Мгновением позже "
 "их оружие включается, и они начинают атаку!"
 
-#: src-en/data/events_deepone.xml:3998
+#: src-en/data/events_deepone.xml:4005
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[1]/text"
 msgstr "Принять их предложение."
 
-#: src-en/data/events_deepone.xml:4005
+#: src-en/data/events_deepone.xml:4012
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[2]/text"
 msgstr "Мы не примем капитуляцию!"
 
-#: src-en/data/events_deepone.xml:4011
+#: src-en/data/events_deepone.xml:4018
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[1]"
 msgstr ""
 "Глубоководные, какими бы вспыльчивыми они ни были, все же не полностью "
 "пренебрегают своими жизнями. Они предлагают сдаться."
 
-#: src-en/data/events_deepone.xml:4012
+#: src-en/data/events_deepone.xml:4019
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[2]"
 msgstr ""
@@ -7199,53 +7219,53 @@ msgstr ""
 "сопровождаемых взяткой. Вы полагаете, что это означает, что они хотят "
 "сдаться."
 
-#: src-en/data/events_deepone.xml:4013
+#: src-en/data/events_deepone.xml:4020
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[3]"
 msgstr ""
 "Глубоководные связываются с вами и пытаются говорить на вашем языке: "
 "\"Про... стите... Пожалуйста\"."
 
-#: src-en/data/events_deepone.xml:4014
+#: src-en/data/events_deepone.xml:4021
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[4]"
 msgstr ""
 "Осознав, в какую ситуацию они попали, глубоководные забывают о своей ярости "
 "и начинают умолять о пощаде."
 
-#: src-en/data/events_deepone.xml:4015
+#: src-en/data/events_deepone.xml:4022
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[5]"
 msgstr ""
 "Когда противостоящий корабль глубоководных начинает разваливаться на части, "
 "вы получаете от них отчаянный призыв о капитуляции."
 
-#: src-en/data/events_deepone.xml:4016
+#: src-en/data/events_deepone.xml:4023
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"DEEPONE_SURRENDER_TEXT\"]/text[6]"
 msgstr ""
 "Страх - не то чувство, которое обычно свойственно глубоководным. Тем не "
 "менее они склоняются перед вами, умоляя о пощаде."
 
-#: src-en/data/events_deepone.xml:4020
+#: src-en/data/events_deepone.xml:4027
 msgid "data/events_deepone.xml$//event[@name=\"DEEPONE_ESCAPE\"]/text"
 msgstr "Ваши сканеры фиксируют сигнатуры ССД, глубоководные пытаются сбежать!"
 
-#: src-en/data/events_deepone.xml:4030
+#: src-en/data/events_deepone.xml:4037
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[1]"
 msgstr ""
 "Разбирая странный корабль, вы думаете о том, что глубоководным было бы лучше"
 " никогда не покидать воды, если в космосе их ждут только такие, как вы."
 
-#: src-en/data/events_deepone.xml:4031
+#: src-en/data/events_deepone.xml:4038
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[2]"
 msgstr ""
 "Корабль глубоководных посылает последний сигнал, раскалываясь на две части, "
 "но ваш переводчик не успевает даже начать расшифровывать его."
 
-#: src-en/data/events_deepone.xml:4032
+#: src-en/data/events_deepone.xml:4039
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[3]"
 msgstr ""
@@ -7253,7 +7273,7 @@ msgstr ""
 " украшающие корпус глубоководных, кажется, никогда не гаснут. Вы находите "
 "это довольно ироничным."
 
-#: src-en/data/events_deepone.xml:4033
+#: src-en/data/events_deepone.xml:4040
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[4]"
 msgstr ""
@@ -7261,14 +7281,14 @@ msgstr ""
 "обитателей Старой Земли. У глубоководных прекрасный вкус в корабельной "
 "архитектуре, но у них также есть и не менее прекрасный лом."
 
-#: src-en/data/events_deepone.xml:4034
+#: src-en/data/events_deepone.xml:4041
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[5]"
 msgstr ""
 "Хотя вы едва понимаете существ, которых только что взорвали, вы не можете "
 "отделаться от ощущения, что все не должно было закончиться именно так."
 
-#: src-en/data/events_deepone.xml:4035
+#: src-en/data/events_deepone.xml:4042
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[6]"
 msgstr ""
@@ -7276,14 +7296,14 @@ msgstr ""
 "некий леденящий душу страх, который сопровождает тех, кто находится в "
 "присутствии глубоководных..."
 
-#: src-en/data/events_deepone.xml:4036
+#: src-en/data/events_deepone.xml:4043
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DESTROYED_DEEPONE\"]/text[7]"
 msgstr ""
 "Корабль разрывается на части гораздо сильнее, чем вы ожидали, разбрасывая во"
 " все стороны цианового цвета обломки. Или это был бирюзовый?"
 
-#: src-en/data/events_deepone.xml:4045
+#: src-en/data/events_deepone.xml:4052
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[1]"
 msgstr ""
@@ -7291,7 +7311,7 @@ msgstr ""
 "глубоководным было бы лучше никогда не покидать воды, если в космосе их ждут"
 " только такие, как вы."
 
-#: src-en/data/events_deepone.xml:4046
+#: src-en/data/events_deepone.xml:4053
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[2]"
 msgstr ""
@@ -7299,7 +7319,7 @@ msgstr ""
 "который встречается с вами взглядом и что-то бормочет, прежде чем упасть, но"
 " ваш переводчик не может даже не успевает начать расшифровывать слова."
 
-#: src-en/data/events_deepone.xml:4047
+#: src-en/data/events_deepone.xml:4054
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[3]"
 msgstr ""
@@ -7307,7 +7327,7 @@ msgstr ""
 "фонари, украшающие залы глубоководных, кажется, никогда не гаснут. Вы "
 "находите это весьма ироничным."
 
-#: src-en/data/events_deepone.xml:4048
+#: src-en/data/events_deepone.xml:4055
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[4]"
 msgstr ""
@@ -7315,14 +7335,14 @@ msgstr ""
 "морских обитателей Старой Земли. У глубоководных прекрасный вкус в "
 "корабельной архитектуре, но у них также есть и не менее прекрасный лом."
 
-#: src-en/data/events_deepone.xml:4049
+#: src-en/data/events_deepone.xml:4056
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[5]"
 msgstr ""
 "Хотя вы едва понимаете существ, которых только что убили, вы не можете "
 "избавиться от ощущения, что все не должно было закончиться именно так."
 
-#: src-en/data/events_deepone.xml:4050
+#: src-en/data/events_deepone.xml:4057
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[6]"
 msgstr ""
@@ -7330,7 +7350,7 @@ msgstr ""
 "некий леденящий душу страх, который сопровождает тех, кто находится в "
 "присутствии глубоководных..."
 
-#: src-en/data/events_deepone.xml:4051
+#: src-en/data/events_deepone.xml:4058
 msgid ""
 "data/events_deepone.xml$//textList[@name=\"TEXT_DEAD_CREW_DEEPONE\"]/text[7]"
 msgstr ""

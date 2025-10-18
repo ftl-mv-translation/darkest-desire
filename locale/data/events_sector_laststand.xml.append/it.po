@@ -113,19 +113,37 @@ msgid ""
 "append:choice[6]/event/choice/text"
 msgstr "Continua..."
 
-#: src-en/data/events_sector_laststand.xml.append:72
+#: src-en/data/events_sector_laststand.xml.append:65
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/text"
+msgstr "Contatta il comando della Federazione."
+
+#: src-en/data/events_sector_laststand.xml.append:67
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/text"
+msgstr ""
+
+#: src-en/data/events_sector_laststand.xml.append:69
+msgid ""
+"data/events_sector_laststand.xml.append$//mod:findName[@name=\"TRUE_LAST_STAND_START\"]/mod:findLike/mod:findLike/mod-"
+"append:choice[7]/event/choice/text"
+msgstr "Continua..."
+
+#: src-en/data/events_sector_laststand.xml.append:82
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"BOSS_TEXT_1\"]/mod:findLike/mod:findLike/mod-"
 "append:choice/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:81
+#: src-en/data/events_sector_laststand.xml.append:91
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"BOSS_NEGOTIATE_1\"]/mod-"
 "append:choice[1]/text"
 msgstr ""
 
-#: src-en/data/events_sector_laststand.xml.append:85
+#: src-en/data/events_sector_laststand.xml.append:95
 msgid ""
 "data/events_sector_laststand.xml.append$//mod:findName[@name=\"BOSS_NEGOTIATE_1\"]/mod-"
 "append:choice[2]/text"
