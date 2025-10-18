@@ -27,7 +27,7 @@ msgid ""
 "append:shipIcon[3]/tooltip"
 msgstr ""
 "SHADOW-CRYSTAL ARMOR:\n"
-"This enemy has Shadow-Crystal Armor - a mysterious, and foul, combination of darkness and Crystal tech. Upon taking hull damage, rather than recoiling with damaging shards, they have a 50% chance of releasing a blast of darkness that will manifest on your ship as a Hungering Shadow."
+"This enemy has Shadow-Crystal Armor - a mysterious, and foul, combination of darkness and Crystal tech. Upon taking hull damage, they have a 50% chance of releasing a darkness-infused shard that will cause a Shadow-Crystal lockdown and spawn a Hungering Shadow. Shadow-Crystal lockdowns have much longer durations than other lockdowns, but are also fragile and easy to break through."
 
 #: src-en/data/hyperspace.xml.append:20
 msgid ""
@@ -93,7 +93,7 @@ msgid ""
 "append:shipIcon[11]/tooltip"
 msgstr ""
 "RESPLENDENT LIFEFORM:\n"
-"This enemy ship is a strange, living creature. It will repair its wounds 5x faster than other Auto-ships, in addition to sealing breaches, and its rooms are under the effects of Radiant Desecration. This effect damages your crew for 1hp/s, hinders their combat damage/movement speed/sabotage speed by 20% and allows their bizarre, summoned entities to exist unimpeded. Lastly, your crew aboard this ship threaten to unmake each other - each one passively damaging their nearby allies for 6hp/s."
+"This enemy ship is a strange, living creature. It gains similar benefits to other Auto-ships, in addition to sealing breaches, and its rooms are under the effects of Radiant Desecration. This effect damages your crew for 1hp/s, hinders their combat damage/movement speed/sabotage speed by 20% and allows their bizarre, summoned entities to exist unimpeded. Lastly, your crew aboard this ship threaten to unmake each other - each one passively damaging their nearby allies for 6hp/s."
 
 #: src-en/data/hyperspace.xml.append:62
 msgid ""
@@ -509,7 +509,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
 "\t\t\t\tTake 8 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) heal speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7882
@@ -529,7 +529,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
 "\t\t\t\tTake 8 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) movement speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:7999
@@ -549,7 +549,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
 "\t\t\t\tTake 8 damage and spawn a beacon that emits an overclock command, adding an additive 30% (of default) damage and sabotage speed to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:8117
@@ -569,7 +569,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
 "\t\t\t\tTake 8 damage and spawn a beacon that emits an overclock command, adding an additive 50% (of default) repair speed and a multiplicative 0.77x damage resistance to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:8256
@@ -589,7 +589,7 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
 "\t\t\t\tTake 8 damage and spawn a beacon that emits an overclock command, adding a multiplicative 0.5x hazard (fire/suffocation) resistance to all allied Engi on either ship and healing them for 1hp/s. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:8397
@@ -639,7 +639,7 @@ msgid ""
 msgstr ""
 "[COOLDOWN:15s  DURATION: VARIABLE]\n"
 "\t\t\tThis ability charges when in a room with enemies, and will automatically be used when an enemy is in the room if the Hunger is under 200 health.\n"
-"\t\t\tThe Hunger locks down the room and spawns a beacon that causes it (and all other allied Engi) to go on a ravenous rampage, devouring every enemy inside and using them as sustenance to regenerate its decay. Cannot be controlled or teleported while rampaging."
+"\t\t\tThe Hunger causes a Shadow-Crystal lockdown and spawns a beacon that causes it (and all other allied Engi) to go on a ravenous rampage, devouring every enemy it can find and using them as sustenance to regenerate its decay. Cannot be controlled or teleported while rampaging."
 
 #: src-en/data/hyperspace.xml.append:8651
 msgid ""
@@ -660,7 +660,7 @@ msgid ""
 msgstr ""
 "[COOLDOWN:30s  DURATION: VARIABLE]\n"
 "\t\t\tThis ability charges when in a room with enemies, and will automatically be used when an enemy is in the room if the Hunger is under 50 health.\n"
-"\t\t\tThe Hunger locks down the room and spawns a beacon that causes it (and all other allied Engi) to go on a ravenous rampage, devouring every enemy inside and using them as sustenance to regenerate its decay. Cannot be controlled or teleported while rampaging."
+"\t\t\tThe Hunger causes a Shadow-Crystal lockdown and spawns a beacon that causes it (and all other allied Engi) to go on a ravenous rampage, devouring every enemy it can find and using them as sustenance to regenerate its decay. Cannot be controlled or teleported while rampaging."
 
 #: src-en/data/hyperspace.xml.append:8724
 msgid ""
@@ -4059,7 +4059,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51124
@@ -4076,7 +4076,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51167
@@ -4093,7 +4093,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51211
@@ -4110,7 +4110,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51254
@@ -4127,7 +4127,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51297
@@ -4144,7 +4144,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: SPEED]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:51960
@@ -4161,7 +4161,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: ATTACK]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:52003
@@ -4178,7 +4178,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFENSE]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:52047
@@ -4195,7 +4195,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: HAZARD]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:52090
@@ -4212,7 +4212,7 @@ msgstr "OVERCLOCK"
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/tooltip"
 msgstr ""
-"[COOLDOWN:2s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
+"[COOLDOWN:1s  DURATION: VARIABLE  NEXT FORM: DEFAULT]\n"
 "\t\t\t\t\t\tTake 8 damage and spawn a rainbow beacon that emits an overclock command, adding the effect of every beacon combined to all allied Engi on either ship. Switch forms."
 
 #: src-en/data/hyperspace.xml.append:52133
