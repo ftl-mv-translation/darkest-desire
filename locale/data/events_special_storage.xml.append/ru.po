@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-19 13:20+0000\n"
+"PO-Revision-Date: 2025-10-21 00:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -5500,13 +5500,14 @@ msgid ""
 msgstr "Изучить Легендарный кристалл."
 
 #: src-en/data/events_special_storage.xml.append:3723
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[6]/event/text"
 msgstr ""
 "ЛЕГЕНДАРНЫЙ КРИСТАЛЛ:\n"
 "\t\t\t\t\t\t\tГоворят, что если вы соберете все пять кристаллов Диссонанса, "
-"то через ритуал откроется путь к Легендарному кристаллу..."
+"то с помощью ритуала откроется путь к Легендарному кристаллу... Его "
+"совершенство настолько велико, что, как утверждается, он способен устранить "
+"негативное воздействие всех остальных Кристаллов Диссонанса..."
 
 #: src-en/data/events_special_storage.xml.append:3726
 msgid ""
@@ -5562,6 +5563,15 @@ msgstr ""
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"Ваш Просветленный член экипажа пишет вам шифр. Используя его, вы можете "
+"понять, что описывается тексте: несколько ритуалов; один из них позволяет "
+"Просветленным подняться с положения простых культистов и стать избранными "
+"Темного Бога, а второй позволяет вам собрать уникальный для Просветленных "
+"робототехнический дар.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВ конце этих ритуалов вложена отдельная страница, текст на которой "
+"написан гораздо более неаккуратно, чем остальные. Более того, почерк на ней "
+"кажется совершенно другим, и на ней описан отдельный ритуал..."
 
 #: src-en/data/events_special_storage.xml.append:3770
 msgid ""
@@ -5789,13 +5799,17 @@ msgstr ""
 "текст."
 
 #: src-en/data/events_special_storage.xml.append:3910
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
-"Ваш член экипажа, связанный с Бурей, прикасается к странице, и она внезапно "
-"становится читаемой. Вы понимаете, что культ Бури использует эти ритуалы, "
-"чтобы доказать свою преданность Буре и в награду получить ее порождение."
+"Ваш член экипажа, связанный с Бурей, прикасается к фолианту, и нужный текст "
+"внезапно становится читабельным. Вы понимаете, что культ Бури использует эти "
+"ритуалы, чтобы доказать свою преданность Буре и в награду получить ее "
+"порождение.\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tВ конце этих ритуалов вложена отдельная страница, текст на которой "
+"написан гораздо более неаккуратно, чем остальные. Более того, почерк на ней "
+"кажется совершенно другим, и на ней описан отдельный ритуал..."
 
 #: src-en/data/events_special_storage.xml.append:3914
 msgid ""
@@ -6214,13 +6228,16 @@ msgid ""
 msgstr "Изучить черную надпись \"Руководство для начинающих по оккультизму\"."
 
 #: src-en/data/events_special_storage.xml.append:4188
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/text"
 msgstr ""
 "Вы понимаете, что СПОСОБНЫ прочитать этот раздел... в нем описаны несколько "
 "основных ритуалов, а также подробно описаны требования и правила ритуалов в "
-"целом."
+"целом.\n"
+"\t\t\t\n"
+"\t\t\tВ конце этих ритуалов вложена отдельная страница, текст на которой "
+"написан гораздо более неаккуратно, чем остальные. Более того, почерк на ней "
+"кажется совершенно другим, и на ней описан отдельный ритуал..."
 
 #: src-en/data/events_special_storage.xml.append:4192
 msgid ""
@@ -6265,7 +6282,6 @@ msgid ""
 msgstr "Изучить ритуал Оружия тьмы."
 
 #: src-en/data/events_special_storage.xml.append:4220
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[2]/event/text"
 msgstr ""
@@ -6285,7 +6301,6 @@ msgid ""
 msgstr "Изучить ритуал Дронов тьмы."
 
 #: src-en/data/events_special_storage.xml.append:4231
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[3]/event/text"
 msgstr ""
@@ -6300,20 +6315,19 @@ msgid ""
 msgstr "Интересно. Закрыть книгу."
 
 #: src-en/data/events_special_storage.xml.append:4240
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[4]/text"
-msgstr "Изучить ритуал Осквернения."
+msgstr "Изучить ритуал Беспокойных духов."
 
 #: src-en/data/events_special_storage.xml.append:4242
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[4]/event/text"
 msgstr ""
-"РИТУАЛ ОСКВЕРНЕНИЯ:\n"
-"\t\t\t\t\tЭтот ритуал позволяет узнать местоположение странного фонтана, из "
-"которого может испить один из членов вашего экипажа, чтобы принять дары "
-"Темного Бога. Местонахождение фонтана случайно."
+"РИТУАЛ БЕСПОКОЙНЫХ ДУХОВ:\n"
+"\t\t\t\t\tЭтот ритуал позволяет узнать местонахождение двух Нестабильных душ "
+"— телепортирующихся членов экипажа со специальными взрывными эффектами, "
+"зависящими от их типа. Типы Нестабильных душ и их местонахождение выбираются "
+"случайным образом."
 
 #: src-en/data/events_special_storage.xml.append:4245
 msgid ""
@@ -6326,14 +6340,13 @@ msgid ""
 msgstr "Изучить ритуал Осквернения."
 
 #: src-en/data/events_special_storage.xml.append:4253
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[5]/event/text"
 msgstr ""
 "РИТУАЛ ОСКВЕРНЕНИЯ:\n"
 "\t\t\t\t\tЭтот ритуал позволяет узнать местоположение странного фонтана, из "
 "которого может испить один из членов вашего экипажа, чтобы принять дары "
-"Темного Бога. Местонахождение фонтана случайно."
+"Темного. Местонахождение фонтана случайно."
 
 #: src-en/data/events_special_storage.xml.append:4256
 msgid ""
