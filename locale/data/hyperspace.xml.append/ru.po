@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-22 14:20+0000\n"
+"PO-Revision-Date: 2025-10-24 12:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
@@ -1786,7 +1786,9 @@ msgid ""
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с]\n"
-"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и воплощается в Бурю молний, ионизируя помещения и потенциально вызывая порождения малой бури."
+"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
+"воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
+"порождения Малой Бури."
 
 #: src-en/data/hyperspace.xml.append:14818
 msgid ""
@@ -1800,7 +1802,9 @@ msgid ""
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/tooltip"
 msgstr ""
 "[ПЕРЕЗАРЯДКА:25с]\n"
-"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и воплощается в Бурю молний, ионизируя помещения и потенциально вызывая порождения малой бури."
+"\t\t\t\tВыпускает шторм энергии, которая поражение вражеский корабль и "
+"воплощается в Бурю молний, ионизируя помещения и потенциально вызывая "
+"порождения Малой Бури."
 
 #: src-en/data/hyperspace.xml.append:14890
 msgid ""
@@ -3141,6 +3145,12 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_plague\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 3с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tУдваивает силу пассивных аур Нестабильная душа и Использованная душа "
+"Формотворца, а также преобразует Нестабильные души в том же отсеке в Чумные "
+"души. Позволяет контролировать всех союзных голодных теней.\n"
+"\t\t\t\tПока способность активна, Формотворец получает урон со скоростью 2 "
+"ОЗ/с и передвигается медленнее."
 
 #: src-en/data/hyperspace.xml.append:43973
 msgid ""
@@ -3166,13 +3176,19 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ВОПЛОЩЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:44463
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 3с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tУдваивает силу пассивных аур Нестабильная душа и Использованная душа "
+"Формотворца, а также преобразует Нестабильные души в том же отсеке в Темные "
+"души. Позволяет контролировать всех союзных голодных теней.\n"
+"\t\t\t\tПока способность активна, Формотворец получает урон со скоростью 2 "
+"ОЗ/с и передвигается медленнее."
 
 #: src-en/data/hyperspace.xml.append:44487
 msgid ""
@@ -3205,6 +3221,12 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cloud\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 3с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tУдваивает силу пассивных аур Нестабильная душа и Использованная душа "
+"Формотворца, а также преобразует Нестабильные души в том же отсеке в "
+"Затуманенные души. Позволяет контролировать всех союзных голодных теней.\n"
+"\t\t\t\tПока способность активна, Формотворец получает урон со скоростью 2 "
+"ОЗ/с и передвигается медленнее."
 
 #: src-en/data/hyperspace.xml.append:45001
 msgid ""
@@ -3237,6 +3259,12 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_judge\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 3с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tУдваивает силу пассивных аур Нестабильная душа и Использованная душа "
+"Формотворца, а также преобразует Нестабильные души в том же отсеке в "
+"Осужденные души. Позволяет контролировать всех союзных голодных теней.\n"
+"\t\t\t\tПока способность активна, Формотворец получает урон со скоростью 2 "
+"ОЗ/с и передвигается медленнее."
 
 #: src-en/data/hyperspace.xml.append:45515
 msgid ""
@@ -3269,6 +3297,12 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cage\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 3с  ДЛИТЕЛЬНОСТЬ: 15с]\n"
+"\t\t\t\tУдваивает силу пассивных аур Нестабильная душа и Использованная душа "
+"Формотворца, а также преобразует Нестабильные души в том же отсеке в "
+"Запертые души. Позволяет контролировать всех союзных голодных теней.\n"
+"\t\t\t\tПока способность активна, Формотворец получает урон со скоростью 2 "
+"ОЗ/с и передвигается медленнее."
 
 #: src-en/data/hyperspace.xml.append:46029
 msgid ""
@@ -3294,13 +3328,17 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_shatter\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАЗБИТЬ"
 
 #: src-en/data/hyperspace.xml.append:46349
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_shatter\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который "
+"наносит 1 единица урона системе, оглушает врагов на 3 секунды и открывает "
+"пробоину. Становится Использованной душой, лишаясь силы до момента "
+"ССД-прыжка."
 
 #: src-en/data/hyperspace.xml.append:46418
 msgid ""
@@ -3312,13 +3350,18 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cage\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "КЛЕТКА"
 
 #: src-en/data/hyperspace.xml.append:46439
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cage\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который "
+"накладывает изоляцию Теневого кристалла и оглушает врагов на 14 секунд. "
+"Превращается в Использованную душу, лишаясь силы до момента ССД-прыжка.\n"
+"\t\t\tИзоляция Теневого кристалла действуют гораздо дольше, чем другие "
+"изоляции, но они также хрупкие и их легко разрушить."
 
 #: src-en/data/hyperspace.xml.append:46518
 msgid ""
@@ -3330,13 +3373,19 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cloud\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ОБЛАКО"
 
 #: src-en/data/hyperspace.xml.append:46543
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cloud\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который "
+"наносит 1 единица урона ионами, оглушает врагов на 3 секунды и вызывает "
+"Вихрь бури. Превращается в Использованную душу, лишаясь силы до момента "
+"ССД-прыжка.\n"
+"\t\t\tВихри бури значительно замедляют скорость передвижения врагов и "
+"заставляют их получать двойной урон от всех источников. Действует 20 секунд."
 
 #: src-en/data/hyperspace.xml.append:46640
 msgid ""
@@ -3348,13 +3397,21 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_judge\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ПРИГОВОР"
 
 #: src-en/data/hyperspace.xml.append:46660
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_judge\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который "
+"накладывает на текущее помещение эффект Божественный суд, оглушает врагов на "
+"3 секунды и с высокой вероятностью вызывает пожар. Превращается в "
+"Использованную душу, лишаясь силы до момента ССД-прыжка.\n"
+"\t\t\tБожественный суд лишает врагов/союзников сопротивления огню, наносит "
+"врагам экстремальный урон от огня и позволяет союзникам лечиться от огня. "
+"Дополнительные заряды усиливают эти эффекты, и каждый из них длится 21 "
+"секунду."
 
 #: src-en/data/hyperspace.xml.append:46777
 msgid ""
@@ -3366,13 +3423,21 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_plague\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЧУМА"
 
 #: src-en/data/hyperspace.xml.append:46797
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_plague\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который "
+"накладывает на текущее помещение эффект Осквернения чумой, оглушает врагов "
+"на 3 секунды и порождает Прилив чумы души. Становится Использованной душой, "
+"лишаясь силы до момента ССД-прыжка.\n"
+"\t\t\tОсквернение чумой наносит врагам урон с течением времени, замедляет их "
+"скорость ремонта и заражает их чумой души. Враги, которые умирают в "
+"зараженном состоянии, оживают на борту вражеского корабля в виде союзных "
+"чумных оболочек. Действует 12 секунд."
 
 #: src-en/data/hyperspace.xml.append:47062
 msgid ""
@@ -3390,13 +3455,20 @@ msgstr "Космическая слеза"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_dark\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТЬМА"
 
 #: src-en/data/hyperspace.xml.append:47156
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_dark\"]/powerEffect/tooltip"
 msgstr ""
+"Высвобождает накопленную нестабильную энергию, вызывая взрыв, который на "
+"короткое время создает кошмарную ауру в текущем помещении, оглушает врагов "
+"на 3 секунды и проявляется в виде случайного хаоса на вражеском корабле. "
+"Становится Использованной душой, лишаясь силы до ССД-прыжка.\n"
+"\t\t\tЭта кошмарная аура делает всех членов экипажа, независимо от их "
+"принадлежности, в 3 раза уязвимее к боевым повреждениям и лечит их со "
+"скоростью 5 ОЗ/с. Длится 3 секунды."
 
 #: src-en/data/hyperspace.xml.append:47239
 msgid ""
@@ -3407,186 +3479,213 @@ msgstr "Космическая слеза"
 #: src-en/data/hyperspace.xml.append:47268
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"DDSPENTSOUL_TRANSFORM\"]/buttonText"
-msgstr ""
+msgstr "ОЖИВЛЕНИЕ"
 
 #: src-en/data/hyperspace.xml.append:47269
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"DDSPENTSOUL_TRANSFORM\"]/tooltip"
 msgstr ""
+"Восстанавливает свою энергию, превращаясь в случайную Нестабильную душу."
 
 #: src-en/data/hyperspace.xml.append:47354
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47373
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "ГНИЛЬ"
 
 #: src-en/data/hyperspace.xml.append:47374
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[1]/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 30с]\n"
+"\t\t\t\tПризывает Вихрь Бури и выпускает единственный энергетический заряд, "
+"который поражает вражеский корабль и преобразуется в Бурю молний, ионизируя "
+"помещения и потенциально призывая порождения Малой Бури."
 
 #: src-en/data/hyperspace.xml.append:47421
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "РАСЦВЕТ"
 
 #: src-en/data/hyperspace.xml.append:47422
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и расцветает, "
+"создавая отросток. Отростки позволяют Хранителю Гнили увеличивать свою силу "
+"и распространять диапазон своего влияния."
 
 #: src-en/data/hyperspace.xml.append:47427
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/spawnCrew/name"
-msgstr ""
+msgstr "Отросток"
 
 #: src-en/data/hyperspace.xml.append:47548
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "СТРАЖ"
 
 #: src-en/data/hyperspace.xml.append:47549
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[1]/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 8с]\n"
+"\t\t\t\tАвтоматически на 1 секунду оглушает всех врагов в помещении."
 
 #: src-en/data/hyperspace.xml.append:47563
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "ЧИСТКА"
 
 #: src-en/data/hyperspace.xml.append:47564
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[2]/tooltip"
 msgstr ""
+"Хранитель Гнили посылает сигнал этому Отростку, который вызывает его "
+"распадание на клеточном уровне, мгновенно убивая его."
 
 #: src-en/data/hyperspace.xml.append:47595
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЗАРЫТЬСЯ"
 
 #: src-en/data/hyperspace.xml.append:47596
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed\"]/powerEffect/tooltip"
 msgstr ""
+"Укореняется в земле, начиная длительный процесс созревания до состояния "
+"полностью взрослого Хранителя Гнили.\n"
+"\t\t\tПосле укоренения Хранитель Гнили навсегда остается на месте. "
+"Единственный способ изменить его положение - дать ему умереть и вырастить "
+"новый Саженец."
 
 #: src-en/data/hyperspace.xml.append:47634
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed_outgrowthing\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ЗАРЫТЬСЯ"
 
 #: src-en/data/hyperspace.xml.append:47635
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed_outgrowthing\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Укореняется в земле, становясь Отростком."
 
 #: src-en/data/hyperspace.xml.append:47666
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47683
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСТИ"
 
 #: src-en/data/hyperspace.xml.append:47684
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/powerEffect/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и растет, "
+"продолжая свой путь к полной зрелости."
 
 #: src-en/data/hyperspace.xml.append:47716
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47733
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСТИ"
 
 #: src-en/data/hyperspace.xml.append:47734
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/powerEffect/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и растет, "
+"продолжая свой путь к полной зрелости."
 
 #: src-en/data/hyperspace.xml.append:47766
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47783
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСТИ"
 
 #: src-en/data/hyperspace.xml.append:47784
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/powerEffect/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и растет, "
+"продолжая свой путь к полной зрелости."
 
 #: src-en/data/hyperspace.xml.append:47816
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47833
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСТИ"
 
 #: src-en/data/hyperspace.xml.append:47834
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/powerEffect/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и растет, "
+"продолжая свой путь к полной зрелости."
 
 #: src-en/data/hyperspace.xml.append:47867
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "Хранитель"
 
 #: src-en/data/hyperspace.xml.append:47884
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "РАСТИ"
 
 #: src-en/data/hyperspace.xml.append:47885
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/powerEffect/tooltip"
 msgstr ""
+"Метаболизирует остаточную энергию, поглощенную при ССД-прыжке, и растет, "
+"продолжая свой путь к полной зрелости."
 
 #: src-en/data/hyperspace.xml.append:47915
 msgid ""
