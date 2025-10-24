@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-24 12:20+0000\n"
+"PO-Revision-Date: 2025-10-25 14:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datahyperspace-xml-append/ru/>\n"
@@ -3711,7 +3711,7 @@ msgstr "ИНКУБАЦИЯ"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_broodmother_crystalline\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "Авто: появляется Голодная тень и вызывает изоляцию Теневого кристалла."
 
 #: src-en/data/hyperspace.xml.append:48048
 msgid ""
@@ -3737,37 +3737,50 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "ЗАТВОРИТЬ"
 
 #: src-en/data/hyperspace.xml.append:48111
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[2]/tooltip"
 msgstr ""
+"Избавление предназначено для тех, кто его заслуживает - для тех немногих "
+"отчаявшихся, кто доказал, что способен пройти по избитому, кровавому пути к "
+"спасению."
 
 #: src-en/data/hyperspace.xml.append:48554
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТУМАН ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:48555
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 19с ПРОДОЛЖИТЕЛЬНОСТЬ: 3с]\n"
+"\t\t\t\tНа короткое время заполняет помещение таинственным туманом, позволяя "
+"союзным статуям Илл’дритка действовать свободно, независимо от присутствия "
+"врагов. Дополнительно накладывает на помещение кратковременное осквернение "
+"чумой."
 
 #: src-en/data/hyperspace.xml.append:49309
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "ТУМАН ДУШИ"
 
 #: src-en/data/hyperspace.xml.append:49310
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[ПЕРЕЗАРЯДКА: 19с ПРОДОЛЖИТЕЛЬНОСТЬ: 3с]\n"
+"\t\t\t\tНа короткое время заполняет помещение таинственным туманом, позволяя "
+"союзным статуям Илл’дритка действовать свободно, независимо от присутствия "
+"врагов. Дополнительно накладывает на помещение кратковременное осквернение "
+"чумой."
 
 #: src-en/data/hyperspace.xml.append:49641
 msgid ""
@@ -5424,17 +5437,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:57146
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDPURPLESIGILOBTAINED\"]/secretDescription"
-msgstr ""
+msgstr "Восстановите сияющее тепло определенной пурпурной печати."
 
 #: src-en/data/hyperspace.xml.append:57147
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDPURPLESIGILOBTAINED\"]/name"
-msgstr ""
+msgstr "Забытый прототип"
 
 #: src-en/data/hyperspace.xml.append:57148
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDPURPLESIGILOBTAINED\"]/description"
 msgstr ""
+"Найдите прототип Осквернителя в Туманной мертвой зоне и восстановите "
+"фиолетовый печать."
 
 #: src-en/data/hyperspace.xml.append:57153
 msgid ""
@@ -5444,17 +5459,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:57154
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLUESIGILOBTAINED\"]/secretDescription"
-msgstr ""
+msgstr "Восстановите сияющее тепло определенной синей печати."
 
 #: src-en/data/hyperspace.xml.append:57155
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLUESIGILOBTAINED\"]/name"
-msgstr ""
+msgstr "Семя потенциала"
 
 #: src-en/data/hyperspace.xml.append:57156
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDBLUESIGILOBTAINED\"]/description"
 msgstr ""
+"Пройдите испытание странного дерева во время еще более странного ритуала и "
+"восстановите синюю печать."
 
 #: src-en/data/hyperspace.xml.append:57161
 msgid ""
@@ -5464,17 +5481,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:57162
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDYELLOWSIGILOBTAINED\"]/secretDescription"
-msgstr ""
+msgstr "Восстановите сияющее тепло определенной желтой печати."
 
 #: src-en/data/hyperspace.xml.append:57163
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDYELLOWSIGILOBTAINED\"]/name"
-msgstr ""
+msgstr "Безумный смех"
 
 #: src-en/data/hyperspace.xml.append:57164
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDYELLOWSIGILOBTAINED\"]/description"
 msgstr ""
+"Докажите свою ценность Формотворцу в Глубоком космосе Просвященных и "
+"восстановите пурпурную печать."
 
 #: src-en/data/hyperspace.xml.append:57169
 msgid ""
@@ -5484,17 +5503,19 @@ msgstr "???"
 #: src-en/data/hyperspace.xml.append:57170
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDECHOEDDREAMQUESTCOMPLETE\"]/secretDescription"
-msgstr ""
+msgstr "Окунитесь в сияющее тепло трех определенных печатей."
 
 #: src-en/data/hyperspace.xml.append:57171
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDECHOEDDREAMQUESTCOMPLETE\"]/name"
-msgstr ""
+msgstr "Память о обещании"
 
 #: src-en/data/hyperspace.xml.append:57172
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_EVENT_DDECHOEDDREAMQUESTCOMPLETE\"]/description"
 msgstr ""
+"Восстановите все три цветных печати в Потустороннем фолианте и получите "
+"Эфирный фрагмент."
 
 #: src-en/data/hyperspace.xml.append:57177
 msgid ""
