@@ -1,0 +1,49 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:23
+msgid ""
+"data/events_special_main.xml.append$//mod-"
+"append:backgroundObject[@name=\"DDOTHERWORLDLY_TOME_ISHERE\"]/tooltip"
+msgstr "木箱の上の本。"
+
+#: src-en/data/events_special_main.xml.append:32
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/text"
+msgstr ""
+"木箱の上に置かれた奇妙な本に注意が引かれる。隣にいる人間の男はあなたの存在に気づいていないようで、それが不気味なほどだ。手を伸ばしてその書物を掴む。風化したページには、輝くルーン文字と図形が果てしなく並んでいる。その意味は全く理解できないが、それらを眺めていると、理解の感覚が湧いてくる…この本はあなたのためにここに残されたものだ。あなたが望んだように。"
+
+#: src-en/data/events_special_main.xml.append:34
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:36
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/text"
+msgstr "船に持ち帰り、暗く人目につかない隅にその本を置く。その正確な目的や、なぜ最初にこれほど惹かれたのかはわからないが、今はあなたのものだ。"
+
+#: src-en/data/events_special_main.xml.append:43
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:45
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"船に持ち帰ると、全く同じ本がすでにあることに気づく。頭を掻いていると、手の上にワームホールが開き、来たときと同じように突然閉じる。そして、二冊目の本が奪われたことに気づく！この不可知な書物泥棒の気まぐれに抗議する前に、二つ目のワームホールが開く。そこから一人の人間がよろめき出てくる。体はぼろぼろの布で覆われ、顔には一切の表情がない。実際、その目はうつろだ…これで我慢するしかないだろう。"
+
+#: src-en/data/events_special_main.xml.append:48
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/event/crewMember"
+msgstr "慰め"

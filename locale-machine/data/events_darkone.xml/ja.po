@@ -1,0 +1,3004 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_darkone.xml:8
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"SHIP_SHADOW_TENDRILS\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "外の影が船体を引っ掻いている。深刻なダメージを受ける前に、このタイマーが0になるまでに彼らを撤退させなければならない。"
+
+#: src-en/data/events_darkone.xml:15
+msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_WIN\"]/text"
+msgstr "一時的に闇を退けることができたが、また戻ってくるだろう。その間に、貨物室に燃料が物質化した…闇の神があなたを前へと誘う。走り続けろ。"
+
+#: src-en/data/events_darkone.xml:20
+msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_WIN\"]/choice/text"
+msgstr "逃げろ！"
+
+#: src-en/data/events_darkone.xml:26
+msgid "data/events_darkone.xml$//event[@name=\"SHADOW_TENDRILS_FAIL\"]/text"
+msgstr ""
+"闇が船体を引き裂くが、本当に大きなダメージを受ける前にその手から逃れることができた。その間に、貨物室に燃料が物質化した…闇の神があなたを前へと誘う。走り続けろ。"
+
+#: src-en/data/events_darkone.xml:38
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_INTERVENTION\"]/text"
+msgstr "胸が燃えるのを感じ、あなたの欲望が顕現する…敵船は消え去り、贈り物があなたの手に渡った。これが献身の褒美だ。"
+
+#: src-en/data/events_darkone.xml:45
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/text"
+msgstr ""
+"一瞬、心地よい静寂が訪れ、あなたは立ち直るための時間を取る。そうしていると、闇の神の声が戻ってきた。以前と同じように脅威的で轟く声で、「この会話は…有意義だったと信じる。答え、力、謎、戦い―お前が望むものなら何でも、我が抱擁は与えよう。お前がこれらの贈り物にふさわしいと証明するならば。」"
+
+#: src-en/data/events_darkone.xml:47
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/text"
+msgstr "本当に？それで…あなたは何を望んでいるの？なぜこんなことを？"
+
+#: src-en/data/events_darkone.xml:49
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/text"
+msgstr ""
+"再び沈黙が訪れ、今度は声は戻ってこない。むしろ、不可解な何かが外で船体を修理しているかのように、別のエネルギーのパチパチという音を感じる。同時に、「外」が変化しているように見える…周りの影が船に這い上がってくる！どうやらあなたの試練が始まったようだ。"
+
+#: src-en/data/events_darkone.xml:55
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/text"
+msgstr "（傷持つ者）「偽りの神は…我々が時間を浪費し、命を…危険に晒すことを望んでいる。同胞よ…私はそうは思わない。」"
+
+#: src-en/data/events_darkone.xml:57
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/text"
+msgstr ""
+"傷持つ者が鉤爪のある手をまだ無事な目にかざし、自分の中から何かを引き出しているように見えるのを見ている…実際、何が起こったのか理解する間もなく、外の闇が苦痛に身もだえし始めた。この奇妙で光のない深淵のさらに奥へと退却することを選んだそれは、あなたの船を掴んでいた手を放し、中に入り込んでいたわずかな影だけが残された。"
+
+#: src-en/data/events_darkone.xml:60
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/text"
+msgstr "待って、そんなことができるの？"
+
+#: src-en/data/events_darkone.xml:62
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
+msgstr ""
+"彼らはあなたの方を向き、普段の厳しい表情にわずかな笑みが浮かぶ。「私は…ずっとお前のために闇を切り開いてきた…ではないか？個人的には、同胞よ…偽りの神を…出し抜くことには興味がないが…そのくだらないゲームに付き合う気はもっとない。我々は…進むべきだ。」"
+
+#: src-en/data/events_darkone.xml:64
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/text"
+msgstr "なるほど、わかった。見事だ！"
+
+#: src-en/data/events_darkone.xml:66
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"出発の準備をしていると、コンソールの一つが点滅し始めた。キールとリリスの信号だ…彼らはやはり生き延びていたのだ！この地獄でどれだけ持ちこたえられるかは分からないが、もしかしたらもう手遅れかもしれない。それでも、希望を失うわけにはいかない…二人の無事を祈りながら、再び出発する。"
+
+#: src-en/data/events_darkone.xml:71
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"0\"]/text"
+msgstr "なるほど、わかった。見事だ！"
+
+#: src-en/data/events_darkone.xml:79
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/text"
+msgstr "防御の準備を！"
+
+#: src-en/data/events_darkone.xml:81
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"戦闘の準備をしていると、コンソールの一つが点滅し始めた。キールとリリスの信号だ…彼らはやはり生き延びていたのだ！この地獄でどれだけ持ちこたえられるかは分からないが、もしかしたらもう手遅れかもしれない。それでも、希望を失うわけにはいかない…二人の無事を祈りながら、再び配置につく。"
+
+#: src-en/data/events_darkone.xml:86
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"0\"]/text"
+msgstr "防御の準備を！"
+
+#: src-en/data/events_darkone.xml:94
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_BADENDING_PAYOUT\"]/text"
+msgstr ""
+"「推測できるだろうが、お前のここへの到着は…仕組まれたものだ。お前の同盟者がこの過程を妨害しようとしたことが、彼らの終焉を招いた。だが、我も無慈悲ではない。これから試練が待ち受けている。お前は試されるのだ。しかし、我はお前に駒を与えよう―このゲームで使うための駒を。」\n"
+"\t\n"
+"\t目の前の空間がエネルギーでパチパチと音を立て、やがて引き裂かれる。この擾乱が生み出した裂け目から、一人のディープワンが前方に突っ込み、地面に叩きつけられた。あなたと同じくらいの痛みを抱えているようだ。丁寧に仲間になるよう頼まれたわけではなさそうだ…。"
+
+#: src-en/data/events_darkone.xml:99
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_BADENDING_PAYOUT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:105
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_WEIRDENDING_PAYOUT\"]/text"
+msgstr ""
+"「推測できるだろうが、お前のここへの到着は…仕組まれたものだ。詳細は、粗雑に実行されたものの、我が意図した通りに実行された。しかし、我が軍から…お前の人員が不足していると報告があった。特に、存在しないと。これから試練が待ち受けている。お前は試されるのだ。だが、我も無慈悲ではない。我はお前に駒を与えよう―このゲームで使うための駒を。」\n"
+"\t\n"
+"\t目の前の空間がエネルギーでパチパチと音を立て、やがて引き裂かれる。この擾乱が生み出した裂け目から、一人のディープワンが前方に突っ込み、地面に叩きつけられた。あなたと同じくらいの痛みを抱えているようだ。丁寧に仲間になるよう頼まれたわけではなさそうだ…。"
+
+#: src-en/data/events_darkone.xml:110
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_WEIRDENDING_PAYOUT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:116
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_NEUTRALENDING_PAYOUT\"]/text"
+msgstr ""
+"「推測できるだろうが、お前のここへの到着は…仕組まれたものだ。我が使者をお前が発見したのは計算外だったが、それでもほとんど無傷でここまでたどり着いた能力を証明した。これから試練が待ち受けている。お前は試されるのだ。だが、我も無慈悲ではない。我はお前に賠償を与えよう―賢く使うがいい。」\n"
+"\t\n"
+"\t目の前の空間がエネルギーでパチパチと音を立て、やがて引き裂かれる。この擾乱が生み出した裂け目から、戦利品の山が前方に突っ込み、地面に叩きつけられた。これがすぐに役立つかは分からないが、この気遣いに感謝しないわけではない…。"
+
+#: src-en/data/events_darkone.xml:121
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_NEUTRALENDING_PAYOUT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:127
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_GOODENDING_PAYOUT\"]/text"
+msgstr ""
+"「推測できるだろうが、お前のここへの到着は…仕組まれたものだ。望んだよりも時間がかかったことは理解している…お前のような存在にとって時間の価値は承知している。これから試練が待ち受けている。お前は試されるのだ。だが、我も無慈悲ではない。我はお前が切望する時間を与えよう―好きにするがいい。」\n"
+"\t\n"
+"\t周りの空間がエネルギーでパチパチと音を立てるが、その正確な目的は分からない。いずれにせよ、あなたとあなたの船は何らかの祝福を受けたようだ…。"
+
+#: src-en/data/events_darkone.xml:132
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START_GOODENDING_PAYOUT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:142
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/text"
+msgstr "ようやく船は停止した…一体ここはどこだ？船のコンソールはすべて赤く点滅し、警報が鳴り響いている。"
+
+#: src-en/data/events_darkone.xml:151
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/text"
+msgstr "状況を把握する。"
+
+#: src-en/data/events_darkone.xml:153
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"パニックになっても仕方ないので、一息ついて落ち着き、何が起こっているのかを把握する。アトラスによると、あなたは虚空のさらに奥深くまで引きずり込まれたようだ…ここはもうエンライテンドの領域ではない。しかし、希望はある。セクターにはビーコンが点在しており、その中に出口がある。"
+
+#: src-en/data/events_darkone.xml:155
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "それだ！出口に向かって突っ走れ！"
+
+#: src-en/data/events_darkone.xml:157
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+"脱出計画を練っていると、以前聞いた声が再び頭の中に響き渡った。その圧倒的な音量で、「話す時が来た。もがくがいい、望むなら―大したことではない。」"
+
+#: src-en/data/events_darkone.xml:159
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
+msgstr "思考の中で轟く声に対し、無力にもがく。"
+
+#: src-en/data/events_darkone.xml:161
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/text"
+msgstr ""
+"心に押し入ってくる、実体のない響き渡る言葉の一つ一つに、頭蓋骨がさらに割れていくのを感じる。これが何であれ、あなたに話しかけているというよりは、あなたを通して話しているように感じる。それでも、あなたは歯を食いしばり、できる限りの言葉を呟く力を自分の中に見出す…。"
+
+#: src-en/data/events_darkone.xml:163
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
+msgstr "何…者だ？我々をどこへ連れてきた？なぜ…？"
+
+#: src-en/data/events_darkone.xml:165
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"頭の中で雷鳴のような亀裂が走り、あなたは膝から崩れ落ちる。謎の存在がさらに話す言葉には、毒と苛立ちが滲んでいる。「お前が真実―答え―を望んでいることは知っている。それを求める手段を提供しよう。だが、知っておけ：我が選ばれし者、我が言葉の上に自分を置こうと考えたのはお前が初めてではない。」\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\tその声は最後の言葉に特に軽蔑的な強調を置き、あなたはそれが言ったことを理解する…その選ばれし者。これはただの声ではなく、警告されていたもの―闇の神だ。あなたの新たな明晰さにその態度は変わり、不気味なほど穏やかな声で続ける。「そして…お前のプライドの結果としてここで滅びるのもお前が初めてではない。多くが我を求める。お前はすでにそのような個人の一人に会う喜び―あるいは、不快―を経験している。」"
+
+#: src-en/data/events_darkone.xml:169
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/text"
+msgstr "（傷持つ者）まさか…「傷持つ者」のことか？"
+
+#: src-en/data/events_darkone.xml:171
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/text"
+msgstr ""
+"言葉を発することはできないが、その意味は頭の中の侵入者に伝わったようだ。それは憎しみに満ちた轟く声に戻る。「裏切り者め。すべてを背負い、すべてになるはずだった。今や我の上にいると思っている。それでも、己の悔い改め、我が怒りに直面するよりは、憎むべき影の中で怯えることを選ぶだろう。」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t闇の神の辛辣な言葉の力に心が焼かれるが、その怒りの矛先が他に向いていることを理解する。あなたの隣で、傷持つ者が叫んでいる。その周りの空間は歪み、引き裂かれ、存在の罰に抵抗するために全力を尽くしている。しばらくして、その怒りは収まり、注意は先ほどと同じ穏やかな態度であなたに戻る。「一方、お前は…より強い。奴はそれを知り、利用しようとしている。我もそれを知っている、我があらゆることを知るように、そしてそれゆえにお前を我が抱擁に招いたのだ。」"
+
+#: src-en/data/events_darkone.xml:175
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:179
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:183
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:187
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:193
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
+msgstr "（飢え）まさか…「飢え」のことか？"
+
+#: src-en/data/events_darkone.xml:195
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/text"
+msgstr ""
+"言葉を発することはできないが、その意味は頭の中の侵入者に伝わったようだ。それは憎しみに満ちた轟く声に戻る。「解放者―あるいは、解放されし者。彼らの集合体は我に直接会うために遠くまで旅をしてきた。ほとんどの者よりも遠くへ、彼らを突き動かしたのは最も力強い欲望―その鎖を断ち切る手段を求める欲望だった。彼らは我が必要としたことを行い、我はその見返りに手段を提供した。」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\tあなたの視線がどこかに向けられ、意に反して「飢え」の絶えず振動する顔を見つめさせられる。初めて、その空っぽで曇ったバイザーを見つめると恐怖を感じる―それが彼らへの恐怖なのか、それともあなたの体を意のままに操る存在への恐怖なのかは分からない。いずれにせよ、この操り人形状態はやがて終わり、闇の神は先ほどと同じ穏やかな態度であなたに話し始める。「一方、お前は…さらに強い。彼らはそれを知り、良き仲間を見つけたと感じている。我もそれを知っている、我があらゆることを知るように、そしてそれゆえにお前を我が抱擁に招いたのだ。」"
+
+#: src-en/data/events_darkone.xml:199
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:203
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:207
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:211
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:217
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/text"
+msgstr "（愚か者）まさか…「愚か者」のことか？"
+
+#: src-en/data/events_darkone.xml:219
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/text"
+msgstr ""
+"言葉を発することはできないが、その意味は頭の中の侵入者に伝わったようだ。それは憎しみに満ちた轟く声に戻る。「彼が軽々しく名乗ったわけではない称号だ。彼は贈り物を求めて我のもとへ来た、そして豊富にそれを見つけた。我は見返りにほとんど求めなかったが、それでも彼は我を、我が意志を、損なおうとする。」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t闇の神の辛辣な言葉の力に心が焼かれるが、その怒りの矛先が他に向いていることを理解する。あなたの隣で、「愚か者」が叫んでいる。彼の殻のあらゆる開口部からソウルプレイグに感染した物質が絶え間なく流れ出し、その外殻は存在の計り知れない苦痛に対して無力であることが証明される。しばらくして、この拷問は収まり、声の注意は先ほどと同じ穏やかな態度であなたに戻る。「一方、お前は…より強い。彼はそれを知り、利用しようとしている。我もそれを知っている、我があらゆることを知るように、そしてそれゆえにお前を我が抱擁に招いたのだ。」"
+
+#: src-en/data/events_darkone.xml:223
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:227
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:231
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:235
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:241
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/text"
+msgstr "（ヒロイン）まさか…ヒロインのことか？"
+
+#: src-en/data/events_darkone.xml:243
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/text"
+msgstr ""
+"言葉を発することはできないが、その意味は頭の中の侵入者に伝わったようだ。それは憎しみに満ちた轟く声に戻る。「真実からこれほど遠いことはない。こいつには何も与えぬ―耐え難い死を除いてはな。お前が彼女の無礼に与すると言うことは、我が忍耐を試すに過ぎん。」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t闇の神の辛辣な言葉の力に心が焼かれるが、その怒りの矛先が他に向いていることを理解する。あなたの隣で、ヒロインは preoccupied のようだ。果てしなく続くように見える触手の軍勢との戦いに没頭している。それぞれが地面から現れ、一撃を繰り出すが、彼女の槍の素早い一振りによって攻撃は断ち切られる。しばらくして、この茶番は終わり、声の注意は先ほどと同じ穏やかな態度であなたに戻る。「いつか、奴の首を取ってやる。一方、お前は…彼女よりも強い。彼女はそれを知り、利用しようとしている。我もそれを知っている、我があらゆることを知るように、そしてそれゆえにお前を我が抱擁に招いたのだ。」"
+
+#: src-en/data/events_darkone.xml:247
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:251
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:255
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:259
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:265
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/text"
+msgstr "（ミニスター）まさか…ミニスターのことか？"
+
+#: src-en/data/events_darkone.xml:267
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/text"
+msgstr ""
+"返事を期待していると、頭の中が突然、不気味なほど静かになる。ミニスターの方を見ると、床で苦しむあなたの姿に戸惑っているようだ。「どうした、レネゲイド？嵐の領域は初めてか、それともただの宇宙酔いか？」虚しくも話そうとするが、彼の方向に血を吐き出すことしかできない。面白そうに彼はにやりと笑う。「最初は少し圧倒されるものだろう…まあ、いい。吐くものを持ってきてやろう。」\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t彼が部屋を出て行くと、空気中の緊張感が戻り、闇の神がようやく先ほどと同じ穏やかな態度で話し始める。「あの老人のことは気にするな。彼に伝えることは何もない。一方、お前は…彼よりも強い。彼はそれを知り、利用しようとしている。我もそれを知っている、我があらゆることを知るように、そしてそれゆえにお前を我が抱擁に招いたのだ。」"
+
+#: src-en/data/events_darkone.xml:271
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:275
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:279
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:283
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:289
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/text"
+msgstr "会った覚えは…ないな。"
+
+#: src-en/data/events_darkone.xml:291
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/text"
+msgstr ""
+"一連の音―力強い、心からの笑い声のようなものだと気づく―が頭の中で鳴り響き、あなたは再びよろめく。「いや、そうかもしれんな。未熟な仲間だけでここまで来たとは…おそらくお前は我が計算していたよりも強い。ここへのお前の招待は正当なものだったと証明された。」"
+
+#: src-en/data/events_darkone.xml:293
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
+msgstr "私の…招待？では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:297
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
+msgstr "私の…招待？では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:301
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
+msgstr "私の…招待？では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:305
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
+msgstr "私の…招待？では、ディープワンセクターでのことは…"
+
+#: src-en/data/events_darkone.xml:319
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"1\"]/text"
+msgstr "状況を把握する。"
+
+#: src-en/data/events_darkone.xml:321
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"パニックになっても仕方ないので、一息ついて落ち着き、何が起こっているのかを把握する。アトラスによると、あなたは虚空のさらに奥深くまで引きずり込まれたようだ…ここはもうエンライテンドの領域ではない。しかし、希望はある。セクターにはビーコンが点在しており、その中に出口がある。"
+
+#: src-en/data/events_darkone.xml:323
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"1\"]/event/choice/text"
+msgstr "それだ！出口に向かって突っ走れ！"
+
+#: src-en/data/events_darkone.xml:325
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and @lvl=\"1\"]/event/choice/event/text"
+msgstr ""
+"脱出計画を練っていると、以前聞いた声が頭に響く。「我が抱擁に、お前を歓迎する。だが我が意志はまだ燻っている。介入を望め、さすれば成されるだろう。」そう言うと、あなたの負担が軽くなるのを感じる…そして外の影が船を引っ掻き始めた！出口に向かって走れ！"
+
+#: src-en/data/events_darkone.xml:331
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/text"
+msgstr "防御の準備を！"
+
+#: src-en/data/events_darkone.xml:333
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"1\"]/event/text"
+msgstr "戦闘の準備をしていると、コンソールの一つが点滅する。キールとリリスの信号だ…彼らもここにいる。まだ彼らにたどり着けるかもしれない。"
+
+#: src-en/data/events_darkone.xml:338
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
+" and "
+"@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
+" and @lvl=\"0\"]/text"
+msgstr "防御の準備を！"
+
+#: src-en/data/events_darkone.xml:352
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/text"
+msgstr "ここでも闇が船体を破壊している。深刻なダメージを受ける前に、逃げるか、追い払うかだ！"
+
+#: src-en/data/events_darkone.xml:363
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:367
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[@req=\"unique_thescarred\"]/text"
+msgstr "（傷持つ者）「私にも…この闇を切り裂かせてくれ。」"
+
+#: src-en/data/events_darkone.xml:371
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:381
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DARKNESSSHIP_DEFEATED\"]/text"
+msgstr "闇が破壊され、オベリスクがエネルギーをチャネリングすることができなくなった。"
+
+#: src-en/data/events_darkone.xml:385
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER_SUCCESS\"]/text"
+msgstr ""
+"闇のオベリスクとその異世界の眷属が倒れ、再びあの笑い声が響き渡る。「燃えるような欲望だな。お前は我に報いた、ゆえに我もお前に報いよう…前進せよ。お前の信念はここで遠くまで導くだろう。」あなたの努力の褒美が隣に現れ、あなたは前方の狂気へとさらに進む準備をする。"
+
+#: src-en/data/events_darkone.xml:394
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/text"
+msgstr ""
+"あなたの欲望は聞かれ、異世界のエネルギーの波が轟く。「…成功することを？その願い、叶えよう。」これが本当に望んだことだとは思えないが、それでもあなたは望んでしまった…別のエネルギーの波があなたを襲い、試練が始まったことを理解する！自由意志の存在については、また別の機会に考えることにしよう。"
+
+#: src-en/data/events_darkone.xml:401
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:403
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/choice/event/text"
+msgstr ""
+"奇妙な、ねじれたオベリスクが現れる…外の闇の力を引き出しているようだ。闇を破壊すれば、オベリスクはもはやエネルギーをチャネリングできなくなるが、代わりにオベリスクの破壊に集中することもできる。試練を乗り越えるために闇を破壊する必要はない。"
+
+#: src-en/data/events_darkone.xml:410
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/text"
+msgstr ""
+"闇のオベリスクとその異世界の眷属が倒れ、再びあの笑い声が響き渡る。「燃えるような欲望だな。お前は我に報いた、ゆえに我もお前に報いよう…前進せよ。お前の信念はここで遠くまで導くだろう。」あなたの努力の褒美が隣に現れる…。"
+
+#: src-en/data/events_darkone.xml:417
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:419
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/choice/event/text"
+msgstr "…そしてもう一つ。新たな贈り物を手に、あなたは前方の狂気へとさらに進む準備をする。"
+
+#: src-en/data/events_darkone.xml:426
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/text"
+msgstr ""
+"あなたの欲望は聞かれ、異世界のエネルギーの波が轟く。「…叫ぶことを？その願い、叶えよう。」これが本当に望んだことだとは思えないが、それでもあなたは望んでしまった…別のエネルギーの波があなたを襲い、試練が始まったことを理解する！自由意志の存在については、また別の機会に考えることにしよう。"
+
+#: src-en/data/events_darkone.xml:431
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:436
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:438
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/choice/event/text"
+msgstr ""
+"奇妙な、ねじれたオベリスクが現れる…外の闇の力を引き出しているようだ。闇を破壊すれば、オベリスクはもはやエネルギーをチャネリングできなくなるが、代わりにオベリスクの破壊に集中することもできる。試練を乗り越えるために闇を破壊する必要はない。"
+
+#: src-en/data/events_darkone.xml:445
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:451
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:453
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:460
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/text"
+msgstr ""
+"闇のオベリスクとその異世界の眷属が倒れ、再びあの笑い声が響き渡る。「燃えるような欲望だな。お前は我に報いた、ゆえに我もお前に報いよう。」あなたの努力の褒美が隣に現れる…。"
+
+#: src-en/data/events_darkone.xml:467
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:469
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/text"
+msgstr "…そしてもう一つ…"
+
+#: src-en/data/events_darkone.xml:472
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:474
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/text"
+msgstr ""
+"…そして…ディープワンの選ばれし者？！あなたはこれが侵入者だと考え、身を守る準備をするが、驚いたことに、再び声が聞こえると彼らは頭を下げ始めた。「仕えることは、より大きなものの一部であることを望むことだ。この者は我に仕える、お前が我が娯楽に仕えたように。ゆえに我はお前に仕える。ゆえに彼らはお前に仕える。」沈黙が訪れ、あなたは新たな仲間の不気味な存在感と共に残される…闇の神は一体どちらの味方なのか？これはすべて彼らにとってゲームに過ぎないのか？答えは得られないが、唯一明らかな真実は、その最も尊敬される戦士の一人が今やあなたの仲間の中にいるということだ。"
+
+#: src-en/data/events_darkone.xml:475
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/crewMember"
+msgstr "ネルヴァスドレン"
+
+#: src-en/data/events_darkone.xml:483
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/text"
+msgstr ""
+"あなたの欲望は聞かれ、異世界のエネルギーの波が轟く。「…苦しむことを？その願い、叶えよう。」これが本当に望んだことだとは思えないが、それでもあなたは望んでしまった…別のエネルギーの波があなたを襲い、試練が始まったことを理解する！自由意志の存在については、また別の機会に考えることにしよう。"
+
+#: src-en/data/events_darkone.xml:488
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:493
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:495
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/choice/event/text"
+msgstr ""
+"奇妙な、ねじれたオベリスクが現れる…外の闇の力を引き出しているようだ。闇を破壊すれば、オベリスクはもはやエネルギーをチャネリングできなくなるが、代わりにオベリスクの破壊に集中することもできる。試練を乗り越えるために闇を破壊する必要はない。"
+
+#: src-en/data/events_darkone.xml:502
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:506
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:511
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:513
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:520
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:526
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:528
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:535
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/text"
+msgstr "闇のオベリスク、その眷属の海、そして闇の神の選ばれし者さえもすべて倒れた…空気は血と硫黄の匂いがし、あなたは疲れ果てている。"
+
+#: src-en/data/events_darkone.xml:541
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/text"
+msgstr "気を引き締める。"
+
+#: src-en/data/events_darkone.xml:543
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/text"
+msgstr ""
+"膝のほこりを払いながら立ち上がると、頭の中で拍手喝采が巻き起こる。すでに圧倒されていなければ、頭痛がしただろう…それは一瞬続き、声があなたに話しかけると突然止まる。「乗り越えられない欲望。乗り越えられない強さ。乗り越えられない不屈の精神。お前は仕えるに値し、仕えられるに値する、強き者よ。我が好意、我が力、我が選ばれし者を知り、前進せよ。お前の運命はお前が決めるのだ。」雷鳴が轟き、システムに奇妙な設計図が現れ、純粋で混沌としたエネルギーの武器が隣に現れる…。"
+
+#: src-en/data/events_darkone.xml:547
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:549
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/text"
+msgstr "…そして別の褒美も…"
+
+#: src-en/data/events_darkone.xml:552
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:554
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/text"
+msgstr "…そしてもう一つ…"
+
+#: src-en/data/events_darkone.xml:557
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:559
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "…そしてさらに、闇の神の選ばれし者の形で。どうやらあなたは本当にその敬意を勝ち取ったようだ。"
+
+#: src-en/data/events_darkone.xml:560
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/crewMember"
+msgstr "ネルヴァスドレン"
+
+#: src-en/data/events_darkone.xml:572
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/text"
+msgstr ""
+"あなたの欲望は聞かれ、異世界のエネルギーの波が轟く。「…屈することを？その願い、叶えよう。」これが本当に望んだことだとは思えないが、それでもあなたは望んでしまった…別のエネルギーの波があなたを襲い、試練が始まったことを理解する！自由意志の存在については、また別の機会に考えることにしよう。"
+
+#: src-en/data/events_darkone.xml:577
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:582
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:584
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/choice/event/text"
+msgstr ""
+"奇妙な、ねじれたオベリスクが現れる…外の闇の力を引き出しているようだ。闇を破壊すれば、オベリスクはもはやエネルギーをチャネリングできなくなるが、代わりにオベリスクの破壊に集中することもできる。試練を乗り越えるために闇を破壊する必要はない。"
+
+#: src-en/data/events_darkone.xml:591
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:595
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:600
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:602
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:609
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:613
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:618
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:620
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:627
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/text"
+msgstr "試練が悪化するにつれて、別のエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:631
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
+msgstr "あなたの試練は進行中…"
+
+#: src-en/data/events_darkone.xml:636
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:638
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/choice/event/text"
+msgstr "…そして別のオベリスクが現れる。"
+
+#: src-en/data/events_darkone.xml:645
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/text"
+msgstr "試練がクライマックスに達するにつれて、他とは異なるエネルギーの波が脈打つ…"
+
+#: src-en/data/events_darkone.xml:650
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:652
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/choice/event/text"
+msgstr ""
+"…そして声が頭に響く。「お前がここで死ぬことが我が欲望であり、ゆえに我が選ばれし者の欲望でもある。耐え抜け、さすれば彼らの仲間入りができるだろう。」闇のオベリスクが放射し、稲妻が走り、ディープワンの選ばれし者が船に侵入する中…あなたは勝ちたいという欲望が燃え上がるのを感じる。自由意志とは、不可能と思われる困難に立ち向かい、運命を自分の手で掴む能力だ。"
+
+#: src-en/data/events_darkone.xml:663
+msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/text"
+msgstr ""
+"ここの空気には緊張感がある。この領域での短い時間の間、似たような感覚を味わってきたが、今ほど強く感じたことは滅多にない。しかし、ここには何もなく、外の闇さえも静かだ…なぜここに来ることを強いられたのかは分からない。"
+
+#: src-en/data/events_darkone.xml:671
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/text"
+msgstr "誰かいるか？"
+
+#: src-en/data/events_darkone.xml:673
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/text"
+msgstr ""
+"あなたが叫ぶと、周りのすべてが揺れる。あなた自身が揺れる。立ち上がろうともがく中、心の中で声が呼びかけてくる。「跪け。」この一言で、全身に痛みが走り、膝から崩れ落ち、よろめく。自分の存在が存在そのもののなすがままであるかのように感じる。"
+
+#: src-en/data/events_darkone.xml:675
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/text"
+msgstr "何…が…望みだ…？"
+
+#: src-en/data/events_darkone.xml:677
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/text"
+msgstr ""
+"一言一言がさらにあなたを苦しめるが、それでもあなたはそれらを無理にでも口に出さずにはいられない。それらが自分の言葉だとも、自分の考えを反映しているとも思えないが、それでも言わざるを得なかったように感じる。頭の中で再び笑い声のような音が聞こえ、声が戻ってくる。「これはお前の試練の一つになるはずだったが…正直に言うと、お前がもがくのを楽しんでいる。」"
+
+#: src-en/data/events_darkone.xml:679
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/text"
+msgstr "痛みに抗う。"
+
+#: src-en/data/events_darkone.xml:681
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"ゆっくりと、しかし確実に自分を奮い立たせると、あなたの存在が燃える。手足の一つ一つが信じられないほど重く感じるが、それでもあなたは立ち上がることができる。そうすると、またあの笑い声が聞こえる。「そうだ。もがき、苦しみ、立ち上がる…そのすべてを見たいものだ。言え。お前は成功を、叫びを、苦しみを、あるいは屈することを望むか？」"
+
+#: src-en/data/events_darkone.xml:683
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:685
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/event/text"
+msgstr "声は笑い、笑い、笑い続け、やがて消え去り、贈り物があなたの手に渡った。これが献身の褒美だ。"
+
+#: src-en/data/events_darkone.xml:690
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr "（選ばれしクルー）「私は…平和を望みます、主よ。」"
+
+#: src-en/data/events_darkone.xml:692
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+"闇の神の選ばれし者の一員が話すと、強烈な沈黙が訪れ、空気中の憎しみが消え去る。その要求はうまくいったようで、ビーコンではそれ以上特筆すべきことは起こらなかった。"
+
+#: src-en/data/events_darkone.xml:696
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[3]/text"
+msgstr "（初級の試練）私は…成功を望む。"
+
+#: src-en/data/events_darkone.xml:700
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[4]/text"
+msgstr "（中級の試練）私は…叫ぶことを望む。"
+
+#: src-en/data/events_darkone.xml:704
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[5]/text"
+msgstr "（上級の試練）私は…苦しむことを望む。"
+
+#: src-en/data/events_darkone.xml:708
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[6]/text"
+msgstr "（不可能の試練）私は…屈することを望む。"
+
+#: src-en/data/events_darkone.xml:720
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/text"
+msgstr ""
+"突然、あなたの視点は引き剥がされる―あの混乱した、不気味な光景と音の不協和音へと。これらの見捨てられた幻視のそれぞれの終わりには、道がある…そしてそれぞれの道の終わりには、それらが集束する一つの扉がある。\n"
+"\t\n"
+"\tすべての終わり。"
+
+#: src-en/data/events_darkone.xml:724
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/text"
+msgstr "この終末の幻視に集中する。"
+
+#: src-en/data/events_darkone.xml:726
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/text"
+msgstr ""
+"あなたの視界は再び、最後に、すべての終わりを目撃するように変わる…\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\tすべての可能性が予言されたままであるが、一つの道が前方に横たわっている、他のすべての道の終わりに。\n"
+"\t\t\t\n"
+"\t\t\tそれは闇の上に立ち、不変の必然として残る道…預言。\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t三人の姉妹は再会する、すべての果ての向こうで。\n"
+"\t\t\t\n"
+"\t\t\t一人は究極の力の強さを宿す―翼。\n"
+"\t\t\t\n"
+"\t\t\t一人はアンタンブラルの影の強さを宿す―刃。\n"
+"\t\t\t\n"
+"\t\t\t一人は砕かれた記憶の強さを宿す―盾。\n"
+"\t\t\t\n"
+"\t\t\tその時、彼女たちの父は彼女たちの合わさった力を宿し、最後の舞を現出させる。\n"
+"\t\t\t\n"
+"\t\t\t現実であることの意味―欲望すること…すべてが引き裂かれ、再鋳造される―遠い昔に失われた夢の姿に。\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\tそれは…名前が語られない限り。\n"
+"\t\t\t\n"
+"\t\t\tもし誰かがこの名を語り、父に代わって三人の姉妹の力を宿すなら…その策略が阻止されるなら…\n"
+"\t\t\t\n"
+"\t\t\tその時、すべては崩れ去り、舞はなく、何も、永遠にない。存在するすべては、存在することをやめるだろう…\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t\n"
+"\t\t\t…かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:761
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:763
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/text"
+msgstr ""
+"台座から引き離され、すべてから引き離されるように、引っ張られる感覚がある…\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t…そして、ドスンという音と共に、あなたは船に戻っていることに気づく。もっと正確に言えば、床に仰向けになっている。あれはすべて、ただの…頭の中のことだったのか？"
+
+#: src-en/data/events_darkone.xml:774
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/text"
+msgstr "体を払い、周りを見回す。"
+
+#: src-en/data/events_darkone.xml:776
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"一瞬気を落ち着かせようとすると、部屋の隅にある影が目に留まり、あなたは驚く―闇の神の選ばれし者の一人が、ただそこに立って…あなたを見ている。"
+
+#: src-en/data/events_darkone.xml:778
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "武器を構え、ディープワンに説明を求める。"
+
+#: src-en/data/events_darkone.xml:780
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"青白いディープワンは低く不吉な笑みを浮かべ、頭を下げて話す。「闇の者…は、お前の知識についての知らせを受けた。その配下以外で…預言を知る者はほとんどいない…これがお前を特別なものにする。」\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t彼らは再びまっすぐに立ち、マントを羽織った手を合わせて続ける。「我らが主は…お前を見張りたいと望んでおられる。とはいえ…それはいずれにせよ行われることだ、私の存在を…楽な道と考えろ。…慰めの印として。」"
+
+#: src-en/data/events_darkone.xml:784
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:786
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"あなたが反対する前に、ディープワンは再び頭を下げ、急いで部屋を出て行く。彼らの言葉が本当で、いずれにせよ見張られるのであれば、彼らを船に乗せておくことに害はほとんどないだろう…少なくとも、今は。"
+
+#: src-en/data/events_darkone.xml:787
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
+msgstr "ヴァラゴン"
+
+#: src-en/data/events_darkone.xml:805
+msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/text"
+msgstr ""
+"ここの空気には緊張感がある。この領域での短い時間の間、似たような感覚を味わってきたが、今ほど強く感じたことは滅多にない。しかし、ここには何もなく、外の闇さえも静かだ…なぜここに来ることを強いられたのかは分からない。"
+
+#: src-en/data/events_darkone.xml:813
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/text"
+msgstr "誰かいるか？"
+
+#: src-en/data/events_darkone.xml:815
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/text"
+msgstr "答えを得る代わりに、筋肉が緊張し…視界が薄れていくのを感じる。あなたは深く、深い眠りに誘われている…。"
+
+#: src-en/data/events_darkone.xml:817
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/text"
+msgstr "この奇妙な感覚に抗う。"
+
+#: src-en/data/events_darkone.xml:819
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/text"
+msgstr "今回は、あなたが何を望んでも関係ない。これをしているものは容赦しない―実際、あなたはその最も暗い眠りに落ちる…。"
+
+#: src-en/data/events_darkone.xml:821
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:823
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/text"
+msgstr ""
+"…そして、どこか見覚えがあるが異質な場所にいることに気づく。船の上でも、見知った仲間と一緒でもない…あなたは一人、柱の上に立っている。見下ろすと、その底は下の計り知れない闇の中に消えていくようだ―これが単なる巨大な部屋なのか、それとも、もっとあり得ないことに、宇宙の最も暗い領域なのかは分からない。それでも、十分に快適に感じる。"
+
+#: src-en/data/events_darkone.xml:827
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/text"
+msgstr "周りを見回す。"
+
+#: src-en/data/events_darkone.xml:829
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"柱の中心には台座があるが、他には何もない。他にすることもないので、それに近づく―そうすると空気中の緊張感が高まる。\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t台座の上には、小さな人間の手形が刻まれている。自分の手がそれに収まるとは思えないが…。"
+
+#: src-en/data/events_darkone.xml:833
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "台座の上に手を置く。"
+
+#: src-en/data/events_darkone.xml:835
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"すぐに、幻視が心を曇らせる―恐ろしく、ねじれた風景、あなたの精神にとって全く異質なもの…それぞれが個別に、考える能力そのものを粉々にする恐れがある。それでも、これらの狂気の場面のいずれかに集中できるかもしれないと感じる…。"
+
+#: src-en/data/events_darkone.xml:837
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "奇妙なクリスタルの幻視に集中する―神々の戦いを語るものに。"
+
+#: src-en/data/events_darkone.xml:839
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tこれは壊れた土地、壊れた人々、壊れた心を持つ者の土地。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそれでもなお、それをさらに壊そうとする者がいる―壊れることから解放された幸運な少数。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t彼らは他者をも解放しようとする―調和のとれた不協和の中で共に生きることを強いられた不運な多数を。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし誰かがこの壊れた土地の中で彼らを助けようとするか、あるいは彼らの壊れた決意を打ち砕く者となることを証明するなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:855
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:861
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "不可能の幻視に集中する―暗く、痛ましい赤に曇ったものに。"
+
+#: src-en/data/events_darkone.xml:863
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tこの狂気の海、現実の果てで…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…試練、預言、そして忘れられた影を等しく運ぶ。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそして、ある特定の試練は不可能と見なされるだろうが…それは決してそうではない。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし誰かがその挑戦を求め、乗り越えられないものさえ乗り越えられることを証明するなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:879
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:885
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/text"
+msgstr "貪欲の幻視に集中する―獣の腹の中のものに。"
+
+#: src-en/data/events_darkone.xml:887
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tすべての構造の間に、ただの檻に過ぎない。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tその創造主を収容するために建てられた牢獄―非創造主を収容するために建てられた牢獄。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tその入り口は、よろめく死者の海の中に見つけることができる―絶望的な者でさえ希望を見つける静かな場所。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそこから、彼らが持ち続けなければならないのは希望だ。最も必要な時のためにそれを保ち、牢獄の心臓を砕くなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:903
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:909
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[4]/text"
+msgstr "遠い闇の幻視に集中する―マルチバースの果てのものに。"
+
+#: src-en/data/events_darkone.xml:911
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[4]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tかつてあったものの残骸―そのかつての姿の影。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそれが由来する土地とほとんど変わらない―あの暗く、遠い場所。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそして、この闇の中に…不浄な光の存在がある。すべての非創造を脅かすもの。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし誰かが現実の継ぎ目を破り、この恐ろしい力を止めるなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:927
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:933
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[5]/text"
+msgstr "忘れられた記憶の幻視に集中する―エーテルの力に結びついたものに。"
+
+#: src-en/data/events_darkone.xml:935
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[5]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t夢見る者、そして射手。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t見られなかった夢―撃ち落とされた一発。彼らは二度と会うことはなかった。そして、それでも…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t希望を通して、彼らは三つの印を宿した―休むことのない死者の間で、最も深い闇の中で、そして最も緩い羊皮紙の上で。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし誰かが彼らの姿を見つめ、取り戻された温かさに浴するなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:951
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[5]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:957
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[6]/text"
+msgstr "愛の幻視に集中する―狂気の海の奥深くで。"
+
+#: src-en/data/events_darkone.xml:959
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[6]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t探検家、そして星に夢中の恋人。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tめったに愚かではない彼は、自分が探検しようとしている領域をよく知っている―この現実のはるか向こうに横たわるもの。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tそして、それでも…一人ではそこに着けないが、一人で着かなければならない。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし誰かが彼らが深宇宙から出発する前に彼らの船を見つけ、そして彼らが別れた後にもう一度見つけるなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:975
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[6]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:981
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[7]/text"
+msgstr "オカルトの幻視に集中する―奇妙な木製の構造物の儀式に。"
+
+#: src-en/data/events_darkone.xml:983
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[7]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tあの遠く、霧のかかった次元―かつては失われたと思われていたが、今は復元されている。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tこの木々の土地から歌が歌われる―その音色はマルチバース中に響き渡る。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tその美しさを見ることも、その薔薇の香りを嗅ぐこともできないが…まれに、その歌を聞くことができるかもしれない。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし彼らが影の海の中で耳を傾け、自分自身の旋律の強さを証明するなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:999
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[7]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1005
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[8]/text"
+msgstr "憎しみの幻視に集中する―装甲の友に向けられた怒りに。"
+
+#: src-en/data/events_darkone.xml:1007
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[8]/event/text"
+msgstr ""
+"あなたはこの特定の幻視に集中し、視点が変わり始める…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tよろめく死者の海の中に、一隻の船がある。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t商品を輸送はしないが、秘密を扱っている…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tその謎の道を辿り、そして獣の腹の中に入らなければならない。\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\tもし彼らがそれを乗り越え、新しい装甲の友と会話を交わすなら…\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t…その者は必ず報われるだろう。かくしてそれは成されるだろう。"
+
+#: src-en/data/events_darkone.xml:1023
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[8]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1042
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT\"]/destroyed/text"
+msgstr "謎めいた異世界の船は崩壊し、あなたは急いで回収できるものを回収する。"
+
+#: src-en/data/events_darkone.xml:1045
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1052
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/text"
+msgstr ""
+"あなたは気づく…船が敗れた後、奇妙なワームホールが閉じただけでなく、以前聞いた遠い声も消えている。船の起源や、ここで起こった他の奇妙な出来事は、完全に謎のままだ…。"
+
+#: src-en/data/events_darkone.xml:1055
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1057
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
+" and @lvl=\"1\"]/event/text"
+msgstr ""
+"…あなたに加わったマントの人物を含めて。光る船の脅威がなくなったことで、それは無活動の休眠状態に戻ったようだ。それが何であれ、少なくともあなたの隣で戦ってくれているという事実に少し慰められる…おそらく、いずれはその秘密を突き止めることができるだろう。"
+
+#: src-en/data/events_darkone.xml:1061
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1063
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
+" and @lvl=\"0\"]/event/text"
+msgstr "…マントの人物を含めて、彼は戦闘で破壊されたようだ。彼がいなくなって、このことの何かが理解できるだろうか…？"
+
+#: src-en/data/events_darkone.xml:1073
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/text"
+msgstr ""
+"ここの空気には緊張感がある。この領域での短い時間の間、似たような感覚を味わってきたが、今ほど強く感じたことは滅多にない。しかし、ここには何もなく、外の闇さえも静かだ…なぜここに来ることを強いられたのかは分からない。"
+
+#: src-en/data/events_darkone.xml:1081
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/text"
+msgstr "誰かいるか？"
+
+#: src-en/data/events_darkone.xml:1083
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"一瞬、沈黙だけがある…しかし、それが全く沈黙ではないことに気づくまで。何か聞こえる。それは…声か？どこから来ているのか分からないが、どこか遠くから聞こえるようだ。"
+
+#: src-en/data/events_darkone.xml:1085
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/text"
+msgstr "静かにして、音の源を探す。"
+
+#: src-en/data/events_darkone.xml:1087
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/text"
+msgstr "静かにするが、すぐにあなたの聞き耳は中断される―隣にワームホールが開いたのだ！"
+
+#: src-en/data/events_darkone.xml:1089
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/text"
+msgstr "身構えろ！"
+
+#: src-en/data/events_darkone.xml:1091
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/event/text"
+msgstr ""
+"新たに裂けた空間の裂け目から何かが飛び出し、床に叩きつけられる。あなたは身を守る準備をする。それは大きな、マントを羽織った姿―その点在する金属の表面は外の奇妙な空間と同じくらい暗い。\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tあなたは武器の引き金に指をかけ、緊張するが…代わりに、それはただ床に横たわったまま座り続ける。"
+
+#: src-en/data/events_darkone.xml:1095
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/text"
+msgstr "謎の存在に武器を向け続ける。"
+
+#: src-en/data/events_darkone.xml:1097
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"警戒を続けていると、外の光のきらめきが注意を引く。それは二つ目の、最初よりもずっと大きなワームホールの形成のようだ…しかし、何か奇妙な感じがする。それが何かを突き止める前に、巨大な物体がそこを通り抜け始める…。"
+
+#: src-en/data/events_darkone.xml:1104
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1106
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"…あなたはそれをぼんやりと船だと認識するが、このようなものは見たことがない。その到着と同時に、目の前の人物が突然動き始める！その動きはロボットのようだが、洗練され、目的があるように見える―わずか数秒で立ち上がり、戦闘態勢に入る。その注意は外の船に向けられているようだ…そして、それがあなたの船に向かって攻撃的に進んでくることに気づく！\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\tこの存在が何であれ、奇妙な船に対してあなたと共に立つ気があるようだ。"
+
+#: src-en/data/events_darkone.xml:1111
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/crewMember"
+msgstr "シェイド"
+
+#: src-en/data/events_darkone.xml:1114
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1126
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/text"
+msgstr "音に向かって呼びかける。"
+
+#: src-en/data/events_darkone.xml:1128
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/text"
+msgstr "あなたが…それが何であれ、注意を引こうとするが、その試みはすぐに中断される―隣にワームホールが開いたのだ！"
+
+#: src-en/data/events_darkone.xml:1130
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/text"
+msgstr "身構えろ！"
+
+#: src-en/data/events_darkone.xml:1132
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/event/text"
+msgstr ""
+"新たに裂けた空間の裂け目から何かが飛び出し、床に叩きつけられる。あなたは身を守る準備をする。それは大きな、マントを羽織った姿―その点在する金属の表面は外の奇妙な空間と同じくらい暗い。\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tあなたは武器の引き金に指をかけ、緊張するが…代わりに、それはただ床に横たわったまま座り続ける。"
+
+#: src-en/data/events_darkone.xml:1136
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice/text"
+msgstr "謎の存在に武器を向け続ける。"
+
+#: src-en/data/events_darkone.xml:1138
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/text"
+msgstr ""
+"警戒を続けていると、外の光のきらめきが注意を引く。それは二つ目の、最初よりもずっと大きなワームホールの形成のようだ…しかし、何か奇妙な感じがする。それが何かを突き止める前に、巨大な物体がそこを通り抜け始める…。"
+
+#: src-en/data/events_darkone.xml:1145
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1147
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
+msgstr ""
+"…あなたはそれをぼんやりと船だと認識するが、このようなものは見たことがない。その到着と同時に、目の前の人物が突然動き始める！その動きはロボットのようだが、洗練され、目的があるように見える―わずか数秒で立ち上がり、戦闘態勢に入る。その注意は外の船に向けられているようだ…そして、それがあなたの船に向かって攻撃的に進んでくることに気づく！\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\tこの存在が何であれ、奇妙な船に対してあなたと共に立つ気があるようだ。"
+
+#: src-en/data/events_darkone.xml:1152
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/choice/event/crewMember"
+msgstr "シェイド"
+
+#: src-en/data/events_darkone.xml:1155
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and "
+"@lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1169
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"1\"]/text"
+msgstr "誰かいるか？"
+
+#: src-en/data/events_darkone.xml:1171
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"1\"]/event/text"
+msgstr "しかし、返事はない。実際、答えはずっとあなたと共にあったかのようだ…ここには何もない。"
+
+#: src-en/data/events_darkone.xml:1173
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"1\"]/event/choice[1]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1177
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
+" and @lvl=\"1\"]/event/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1185
+msgid ""
+"data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[1]"
+msgstr ""
+"空気中の憎しみが共鳴し、あなたの破壊を望んでいるのはここの闇だけではないと気づく…外の狂気の深淵から、純粋な影の滑らかな黒い船がもう一隻現れる。準備しろ！"
+
+#: src-en/data/events_darkone.xml:1186
+msgid ""
+"data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[2]"
+msgstr "闇の神の選ばれし者たちは、あなたを破壊する探求をまだ諦めていないようだ。彼らの船がもう一隻、闇を突き破って攻撃の準備をしている！"
+
+#: src-en/data/events_darkone.xml:1187
+msgid ""
+"data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[3]"
+msgstr "外に船が現れると、血の気が引く…今や見慣れた船だ。死の予兆。顕現した闇。闇の神の選ばれし者…彼らは進軍し、あなたは身を守る準備をする。"
+
+#: src-en/data/events_darkone.xml:1188
+msgid ""
+"data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[4]"
+msgstr ""
+"外の様子が暗くなり、これがただのビーコンではないことに気づく…あなたは闇の神の選ばれし者の領域に迷い込み、彼らはあなたを次の捧げ物に選んだ！"
+
+#: src-en/data/events_darkone.xml:1197
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/text"
+msgstr "ここで強敵を倒したにもかかわらず、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1201
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1203
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/choice/event/text"
+msgstr ""
+"しかし、そうする前に、隣に武器が現れる…選ばれし者が使うものと同じだと認識する。無料の贈り物を断るわけではないが、このような寛大さの目的について考えさせられる…。"
+
+#: src-en/data/events_darkone.xml:1219
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1223
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/text"
+msgstr "（選ばれしクルー）「この者は…同族の中を歩む。」"
+
+#: src-en/data/events_darkone.xml:1225
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
+msgstr ""
+"選ばれし者たちは、自分たちの仲間があなたと共に立っていることに気づくと、すぐに進軍を止める。一言もなく、彼らは闇に沈んでいき、あなたは邪悪な神々の好意を得ることには利点があることを思い知らされる…。"
+
+#: src-en/data/events_darkone.xml:1230
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[3]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1249
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1252
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1257
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1260
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1267
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT_WIN\"]/text"
+msgstr ""
+"胸に燃えるような感覚があり、これらの奇妙な侵入者を倒した報酬が隣に現れる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1273
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/text"
+msgstr ""
+"…そしてさらに暗くなる。ワームホールが開き、エーテルからエンライテンドの船が現れる。彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1278
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1282
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1289
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1292
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1297
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1300
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1307
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT_WIN\"]/text"
+msgstr ""
+"胸に燃えるような感覚があり、これらの奇妙な侵入者を倒した報酬が隣に現れる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1313
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/text"
+msgstr ""
+"…そして紫に輝く。ワームホールが開き、エーテルからクリスタルの船が現れる。彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1318
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1322
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1329
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1332
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1337
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1340
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1347
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT_WIN\"]/text"
+msgstr ""
+"胸に燃えるような感覚があり、これらの奇妙な侵入者を倒した報酬が隣に現れる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1353
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/text"
+msgstr ""
+"…そして遠い光のビーコンに道を譲る。ワームホールが開き、虹色に輝く油のような船がエーテルから現れる。彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1363
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1367
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1374
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1377
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1382
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1385
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1392
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN\"]/text"
+msgstr ""
+"奇妙な侵入者が崩れ落ちると、気まずい沈黙が訪れ、破壊だけが唯一の選択肢ではなかったと感じる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1397
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
+msgstr ""
+"倒れた奇妙な侵入者の一人から新しい命が芽生え、新しいものが形成されると、頭の中でかすかな歌声が聞こえる。最悪の事態に備えるが、瞬きするとそれはただ隅に走り去る…友好的なのか？それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1403
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/text"
+msgstr ""
+"…そして奇妙な霧が立ち込める。ワームホールが開き、毛むくじゃらの塊がエーテルから現れる。彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1408
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1412
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1419
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1422
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1427
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1430
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1437
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN\"]/text"
+msgstr ""
+"奇妙な侵入者が溶けていくと、気まずい沈黙が訪れ、殺害だけが唯一の選択肢ではなかったと感じる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1442
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
+msgstr ""
+"奇妙な船の囁きが静まり、その残骸が一つの姿に凝縮する…それはソウルプレイグ・ハスクだと認識する。それはあなたの隣に現れ、最悪の事態に備えるが、ただゴボゴボと音を立てて立っているだけだ。友好的なのか？それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1448
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/text"
+msgstr ""
+"…そして遠い光のビーコンに道を譲る。ワームホールが開き、虹色に輝く油のような船がエーテルから現れる。船からはかすかな囁きが発せられている…彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1458
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1462
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1469
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT\"]/destroyed/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1472
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT\"]/destroyed/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1477
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT\"]/deadCrew/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1480
+msgid ""
+"data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT\"]/deadCrew/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1487
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN\"]/text"
+msgstr ""
+"奇妙な侵入者が消え去ると、気まずい沈黙が訪れ、殺害だけが唯一の選択肢ではなかったと感じる。それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1492
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN_BONUS\"]/text"
+msgstr ""
+"奇妙な船の残骸から稲妻が走り、そのエネルギーがあなたの隣で凝縮し、先ほど戦った奇妙な存在の一つを形成する。最悪の事態に備えるが、それはただマントの下から睨みつけて立っているだけだ。友好的なのか？それでも、反乱軍との競争…そして闇との競争で後れを取っていることを認識する。前進しなければならない。"
+
+#: src-en/data/events_darkone.xml:1498
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/text"
+msgstr ""
+"…そして巨大な宇宙嵐が押し寄せる。ワームホールが開き、暗く、塗装されたものがエーテルから現れる。彼らは自分たちがどこにいるのか、何をしているのか知らないかもしれないが、一つだけ知っていることがある：あなたが次の標的だ！"
+
+#: src-en/data/events_darkone.xml:1503
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私は…介入を望む。"
+
+#: src-en/data/events_darkone.xml:1507
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/choice[2]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1513
+msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE\"]/text"
+msgstr "外の狂気が変化するにつれて、鋭い痛みが心を刺す…"
+
+#: src-en/data/events_darkone.xml:1521
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1527
+msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/text"
+msgstr ""
+"ここの空気には悪意を感じない…それどころか、暖かく感じる。癒される。祝福され、あなたの負担が軽くなる…しかし、どの負担が最もあなたを悩ませているか？"
+
+#: src-en/data/events_darkone.xml:1530
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[1]/text"
+msgstr "船体の完全性の欠如に悩まされている。"
+
+#: src-en/data/events_darkone.xml:1532
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[1]/event/text"
+msgstr ""
+"目を閉じると、内なる暖かさがより大きなものに花開く。触れることができるものに。船の損傷は奇跡的に修復され、あなたは前途の旅について楽観的になる…この狂気の領域はあなたを捕らえることはないだろう。"
+
+#: src-en/data/events_darkone.xml:1537
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[2]/text"
+msgstr "クルーの不足に悩まされている。"
+
+#: src-en/data/events_darkone.xml:1539
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[2]/event/text"
+msgstr ""
+"目を閉じると、内なる暖かさがより大きなものに花開く。触れることができるものに。隣にポータルが開き、そこからディープワンが出てくる。彼らは少し混乱しているようだが、熱狂的ではない。「ここは…闇の者の領域か？我々は…その偉大さに近づいているのか？」あなたが頷くと、彼らは少し踊り、「では…儀式は成功した！私は…あなたを助けるために来たのだと思う。」二人は形式的な挨拶を交わし、ディープワンは部屋を出て行き、ここでの自分の居場所に満足しているようだ。あなたは前途の旅について楽観的になる…この狂気の領域はあなたを捕らえることはないだろう。"
+
+#: src-en/data/events_darkone.xml:1544
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[3]/text"
+msgstr "資源の不足に悩まされている。"
+
+#: src-en/data/events_darkone.xml:1546
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[3]/event/text"
+msgstr ""
+"目を閉じると、内なる暖かさがより大きなものに花開く。触れることができるものに。不可解にも貨物室にいくつかの資源の箱が現れ、あなたは前途の旅について楽観的になる…この狂気の領域はあなたを捕らえることはないだろう。"
+
+#: src-en/data/events_darkone.xml:1555
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/text"
+msgstr "力の不足に悩まされている。"
+
+#: src-en/data/events_darkone.xml:1557
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/event/text"
+msgstr ""
+"目を閉じると、内なる暖かさがより大きなものに花開く。触れることができるものに。隣にポータルが開き、そこから失われた人間の魂が浮かび出てくる…。"
+
+#: src-en/data/events_darkone.xml:1560
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1562
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/event/choice/event/text"
+msgstr ""
+"…そしてもう一つ。その姿は恐ろしいが、彼らが放つ潜在的な力は否定できない。慰められるほどだ。あなたは前途の旅について楽観的になる…この狂気の領域はあなたを捕らえることはないだろう。"
+
+#: src-en/data/events_darkone.xml:1576
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_DESTROYEDLOSS\"]/text"
+msgstr ""
+"悪夢は消えるが、何も残らない…そしてキールとリリスのFTL信号は途絶える。友人に何が起こったのかは決して分からないかもしれないが、それでも貨物室に少量の燃料が現れる。闇の神は笑っているに違いない…。"
+
+#: src-en/data/events_darkone.xml:1583
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/text"
+msgstr ""
+"忌まわしき存在とその悪夢のような恐怖が倒されると、闇の神からの燃料が貨物室に現れ、すべてが静かになる。恐ろしい船を自由に探索できるようになったあなたは、すぐにキールとリリスの記念品を見つけることができる…特に二人が一緒に写っている写真。これは本当に彼らの船に違いない…しかし、二人の恋人はどうなったのか？"
+
+#: src-en/data/events_darkone.xml:1589
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/text"
+msgstr "探索を続ける。"
+
+#: src-en/data/events_darkone.xml:1591
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/text"
+msgstr "写真を手に持ち、さらに探索すると、以前は気づかなかったドアを見つける。それに手を当てると、奇妙な暖かさを感じる…柔らかなハミングと共に。"
+
+#: src-en/data/events_darkone.xml:1593
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/text"
+msgstr "謎のドアを開ける。"
+
+#: src-en/data/events_darkone.xml:1595
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/text"
+msgstr ""
+"勇気を振り絞ってドアを開けると…目の前の光景は言葉にできないほど恐ろしい。部屋は血糊で覆われている：内臓、血、肉が完全に散乱し、その源を特定することは不可能だ。部屋の反対側では、台座の周りでろうそくが静かに燃えており、その上には開かれた本がある。血糊の中を進み、本に近づくと、そのページには鮮やかな深紅で書かれたテキストがあることに気づく。儀式の描写だ、と気づく…。"
+
+#: src-en/data/events_darkone.xml:1598
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/text"
+msgstr "ではキールとリリスは…？"
+
+#: src-en/data/events_darkone.xml:1600
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/text"
+msgstr "あの…もの…はリリスに違いない。少なくとも、彼女の残骸…ということは、この部屋の血糊は…。"
+
+#: src-en/data/events_darkone.xml:1602
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/text"
+msgstr "吐きそうだ…。"
+
+#: src-en/data/events_darkone.xml:1604
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/text"
+msgstr ""
+"そうだ、これはキールの残骸に違いない…一体あの二人は何をしようとしていたんだ？あなたは再び本に目をやる。答えを得る方法があるとすれば、これしかない。それをポケットに入れ、部屋を出ようとすると、戸口に巨大な影が見える。忌まわしき存在がそこに立っている、どういうわけか傷が癒えている…胸の目は、あなたの手にあるキールとリリスの写真に釘付けになっている。"
+
+#: src-en/data/events_darkone.xml:1606
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
+msgstr "リ、リリス？本当に君なのか？"
+
+#: src-en/data/events_darkone.xml:1608
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
+msgstr "あなたがリリスの名前を呼ぶと、忌まわしき存在は緊張する。本当に彼女に違いない…彼女はゆっくりと近づき始める、まだ写真に釘付けのままだ。"
+
+#: src-en/data/events_darkone.xml:1610
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "私だよ、リリス。連邦を覚えているか？"
+
+#: src-en/data/events_darkone.xml:1612
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "リリスの目の中で何かが光る。認識、と願うしかない…彼女の接近はわずかに速まる。"
+
+#: src-en/data/events_darkone.xml:1614
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
+msgstr "キールが言ったことを覚えているか？"
+
+#: src-en/data/events_darkone.xml:1616
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
+msgstr "あなたがキールの名前を出すと、リリスはさらに速まる。すぐにあなたの上に覆いかぶさるだろう。"
+
+#: src-en/data/events_darkone.xml:1618
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
+msgstr "彼は私を信用できると言った、リリス、そして私も君を信用できると知っている。その場を動くな。"
+
+#: src-en/data/events_darkone.xml:1620
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
+msgstr ""
+"あなたからわずか数インチのところで、リリスは止まる。稲妻のような速さで、うごめく触手が彼女の体から引き裂かれ…写真を掴む。それは彼女を落ち着かせることができるようだ。ゆっくりと、丁寧に、あなたは写真を取り戻し、リリスはそれを止めようとはしない。部屋を出て船に向かうと、彼女はついてくる。あなたは不気味な忌まわしき存在をなだめたことに気づく…それでも、彼女もあなたの友人だ。船に戻ると、あなたは本を取り出し、リリスはその存在に低いうなり声で反応する。"
+
+#: src-en/data/events_darkone.xml:1621
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
+msgstr "リリス"
+
+#: src-en/data/events_darkone.xml:1624
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/text"
+msgstr "本を調べる。"
+
+#: src-en/data/events_darkone.xml:1626
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"ページをめくると、何も読めないことに気づく。それはあなたの翻訳機やクルーの誰も認識できない文字で書かれている…リリスを除いて。彼女は深紅のテキストを熱心に見つめている。あなたの要求に応じて、彼女は体から排出された神秘的なインクで床に暗号を書き出す…もし彼女がそのようなことができるなら、彼女の中にどれだけの彼女が残っているのだろうかと思う。やがて、暗号が完成すると、テキストが確かにいくつかの儀式を描写していることが分かる…最も注目すべきは、昇天して闇の者と会見することを可能にする儀式だ。あなたはリリスに目をやる。"
+
+#: src-en/data/events_darkone.xml:1628
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "まさか君は…"
+
+#: src-en/data/events_darkone.xml:1630
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr ""
+"彼女はうなり、あなたは息をのむ。本のページをさらに深く探ると、リリスの暗号がカバーしていない他の色のテキストがある。彼女はすべてを読めるわけではないようだ…読める誰かを見つけることができるかもしれない。その間、昇天の儀式をすでに行った者が力の範囲を増大させるいくつかの儀式があるようだ。これらの儀式を行えば、リリスを強くすることができるかもしれない…しかし、どのような代償を払わなければならないかは誰にも分からない。"
+
+#: src-en/data/events_darkone.xml:1632
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/choice/event/choice/text"
+msgstr "キール…"
+
+#: src-en/data/events_darkone.xml:1634
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/choice/event/choice/event/text"
+msgstr ""
+"あなたにできることは何もなかった。前に進み、リリスの面倒を見るためにできることをしなければならない…そして、望むなら、これらの異世界の儀式を完了させることだ。"
+
+#: src-en/data/events_darkone.xml:1644
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/text"
+msgstr "本を調べる。"
+
+#: src-en/data/events_darkone.xml:1646
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"あなたは、かなり早く、この本がすでに所持している異世界の書物と同一であることに気づく。彼女とキールはそのページに含まれる言葉にできない儀式を行い、彼がその犠牲になったに違いない…控えめに言っても恐ろしいが、この恐ろしい本の2冊目を所有することにあなたにとって価値はほとんどない。あなたはそれを置き去りにし、リリスの絶え間ない身もだえはわずかに静まるようだ。"
+
+#: src-en/data/events_darkone.xml:1653
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
+msgstr "今だ！忌まわしき存在を駆け抜け、ここから脱出しろ！"
+
+#: src-en/data/events_darkone.xml:1655
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
+msgstr ""
+"リリスが突進してくると、あなたは彼女をかわし、本と写真の両方を落とす。彼女に何が起こったのかは分からないし、そんな悪夢に命を預ける気は毛頭ない。船に向かうと、後ろでリリスが…すすり泣くのが聞こえる。それは不気味で、ねじれたすすり泣きだ。しかし、それに動揺してはいられない…まだこの地獄のような領域から脱出しなければならない。"
+
+#: src-en/data/events_darkone.xml:1671
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[2]/text"
+msgstr "放っておいて、ここから脱出する。"
+
+#: src-en/data/events_darkone.xml:1673
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[2]/event/text"
+msgstr ""
+"ここで何が起こったのか、あるいはそのドアの向こうに何があるのか、その真実を知りたいとは思わない。ここから脱出することに満足し、あなたは闇の神とその影との戦いを続ける準備をする。"
+
+#: src-en/data/events_darkone.xml:1690
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER\"]/text"
+msgstr ""
+"キールとリリスの船を見ることを期待していたが、代わりに目にしたのは…いや、待て、これはキールとリリスの船だ。少なくとも、その形はしているが、すべてがねじれて闇に包まれている…何が起こったんだ？考える時間はあまりない。友人たちの船の悪夢のような姿が攻撃を仕掛けてくる！"
+
+#: src-en/data/events_darkone.xml:1699
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER\"]/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1705
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_ALONE\"]/text"
+msgstr "再びこの恐ろしい旅の出口に到着した…今回は、それを選ぶか？"
+
+#: src-en/data/events_darkone.xml:1711
+msgid "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/text"
+msgstr "出口に着いた今、闇は…静かに見える。すべてが穏やかに感じる。"
+
+#: src-en/data/events_darkone.xml:1714
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1716
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"しかし、この静けさは長くは続かない…周りの空間が歪み、時間そのものが再び遅くなるのを感じる。そして、不安なことに、闇の神が再びあなたの心に割り込んでくる。「ここまで来たことは実に印象的だ。お前は崖っぷちに立っている。脱出は手の届くところにある。しかし、我々の時間が終わる前に、最後の欲望を一つ叶えてやろう。それを知らせよ。」"
+
+#: src-en/data/events_darkone.xml:1725
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/text"
+msgstr "私は…真実を望む。"
+
+#: src-en/data/events_darkone.xml:1727
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/text"
+msgstr "耳をつんざくような声が答えると、興味をそそられた様子がうかがえる。「実に…興味深い。そして、どのような真実を望むのだ？」"
+
+#: src-en/data/events_darkone.xml:1729
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/text"
+msgstr "私が倒した英雄の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1731
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/event/text"
+msgstr ""
+"「お前が倒した英雄は…私を驚かせた。私を驚かせるものはほとんどない、そして、それがどのようにして我が力への支配を放棄したのかをまだ計算できていない。一つの変数は確かだ：純粋な欲望。誰もできないと感じたものを乗り越えるための。その点でお前はそれほど違わない。それでも、お前はここに勝利して立っている…」闇の神が何かを考えているように、間がある。「…しかし、他の『英雄』が残っているのではないかと恐れている。彼らを探し出し、打ち破れ、そうすれば真の力を知るだろう。」"
+
+#: src-en/data/events_darkone.xml:1733
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1735
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1746
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/text"
+msgstr "（韻を踏む者）「ああ、真実を愛する者よ！だが、何がお前を名探偵にするのだ？」"
+
+#: src-en/data/events_darkone.xml:1748
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/event/text"
+msgstr ""
+"闇の神が言い返すと、空気中に苛立ちが満ちる。「物事を知るのは我が仕事だ、獣よ―お前が絶えず悩ませるように。そして、お前の主が干渉するように―彼女は自分の計画が唯一のものだと思っている。」闇の神が何かを考えているように、間がある。「ああ、混沌の中に『存在』はほとんどない。何も望まず、すべてに狂気だけを望む…それはほとんど実りある存在ではない。それでも…それは欲望であることに変わりはない。そこには力がある―舞の日が来れば、私はそれを歓迎するだろう。」\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t韻を踏む者は自身の反論に興味を持っているようだが、その周りに闇の鎖が現れ、すぐにそれを地面に縛り付ける。「お前の種族がどれほど強力であっても、お前は我が領域では客に過ぎない。外のクラスターの秩序を尊重せよ、そうすれば私も彼らの混沌を尊重し続けるだろう。」"
+
+#: src-en/data/events_darkone.xml:1752
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1754
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1765
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/text"
+msgstr "（ノーム）この…ええと…これの背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1767
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/event/text"
+msgstr ""
+"「お前が言うところの、この『もの』は…外縁から来たものだ。」闇の神が何かを考えているように、間がある。「私は継ぎ目の間を多く移動し、多くのものを見てきた―しかし、これほど真に混沌としたものはほとんどない。想像するに…彼女がこの背後にいるだろう。気をつけろ、器よ。私でさえ、彼女の周りでは注意を払うことを勧める…そして、もし彼女でなければ―中心に住む者たちだ。彼らは、これをあなたの手に見れば、私ほど穏やかではないだろう。」"
+
+#: src-en/data/events_darkone.xml:1769
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1771
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1782
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/text"
+msgstr "（シルヴァン）シルヴァンの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1784
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/text"
+msgstr ""
+"「中心に住む者たち…各現実のシルヴァン。これについては、覚えていなくても、おそらく気づいているだろう。しかし、あなたが知りたいかもしれないのは…彼らがここでの私の存在を容認している背後にある真実だ。」闇の神が何かを考えているように、間がある。「真面目な話…私は彼らが望むように行動しているだけだ。彼らは外のクラスターの干渉を見たくないので、私が見ないようにしている。そのため、彼らは私の事柄に対して盲目のままだ…ある意味では。彼らの指導者は、私のようないくつかの存在の力を超えていると思っている、漠然と彼らの支配下にある混沌の外の存在と共に…しかし、シルヴァンたちは、自分たちが永続させる責任があると思っている秩序について何も知らない。ああ―舞の日が来れば、彼らは皆、秩序が本当に何を意味するのかを知るだろう。」"
+
+#: src-en/data/events_darkone.xml:1786
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1788
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1799
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/text"
+msgstr "（傷持つ者）「傷持つ者」の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1801
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/event/text"
+msgstr ""
+"「裏切り者は…計算違いだった。私はそれが我が刃となるに値すると思った―それはそれを砕くに値するだけだと証明した。今、それと我が刃の両方が粉々になっている―それらが復元され、再びその意志を実行できる日を待っている…あるいは、塵となって枯れ果て、忘れられた記憶に過ぎなくなる日を。」闇の神が何かを考えているように、間がある。「もしそれを持ち続けるつもりなら…見張っておくことを勧める。それを信用した結果、私がどうなったかはお前も見たはずだ。」"
+
+#: src-en/data/events_darkone.xml:1803
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1805
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1816
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
+msgstr "（飢え）「飢え」の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1818
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/text"
+msgstr ""
+"「飢えは…いつもそれほど飢えていたわけではない。」闇の神が何かを考えているように、間がある。「そして…彼らが皆、それほど結合していたわけでもない。その目標と、『調和』からの傷跡において非常に団結した集合体として、物理的に団結するようになった。これが彼らの絆の強さ―そして彼らの欲望だ。かくしてそれは成されるだろう。」"
+
+#: src-en/data/events_darkone.xml:1820
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1822
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1833
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/text"
+msgstr "（愚か者）「愚か者」の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1835
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/text"
+msgstr ""
+"「愚か者は…ただの愚か者だ。」闇の神が何かを考えているように、間がある。「私はそれが望んだすべてを提供した―友人たちは安全に保たれ、実験は成功した。悪名でさえも―今や誰もがその仕事を知っている。そのマターウイルスの仕事。コラプター、ハスク、武器でさえも…それでも、それには十分ではなかった。それが呼吸できた時を思い出す、痛みを伴う、満たされない一秒一秒は、私からそれを安全に保ってくれたあなたに感謝して過ごすべき時間だ。」"
+
+#: src-en/data/events_darkone.xml:1837
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1839
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1850
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/text"
+msgstr "（ヒロイン）ヒロインの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1852
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/text"
+msgstr ""
+"「お前が言うところの『ヒロイン』は…私が憎む者だ。憎むのは私の役割ではないが、それでも私は憎む。このヒロインは欲望しない。顕現する。運命に逆らわない。受け入れる。それは、その種の他の数人と同様に、弱いと見なす者を『救う』ために作られた比喩的な機械であり、喜んでそれに従う。この理由で、機会があれば私はそれを破壊するだろう、それが私を破壊するように。」闇の神が何かを考えているように、間がある。「唯一の後悔は…その機会が二度と与えられないかもしれないことだ。お前がその側にいる限りは。」"
+
+#: src-en/data/events_darkone.xml:1854
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1856
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1867
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/text"
+msgstr "（ミニスター）ミニスターの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1869
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/text"
+msgstr ""
+"「あの老人は…忘れ去られるのが最善だ。彼がその目的を果たし、我が翼が現実の壁に衝突する時が来るだろう。それまで、彼は一つの理由で生きている―彼の欲望。彼の視点からも、私の視点からも。」闇の神が何かを考えているように、間がある。「しかし、私の中の何かが、彼がこなす些細な用事を見るのを楽しんでいる。彼はとても…取るに足らないように見える。」"
+
+#: src-en/data/events_darkone.xml:1871
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1873
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1884
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/text"
+msgstr "（オーバーシーア）オーバーシーアの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1886
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/text"
+msgstr ""
+"「我が刃…どういうわけかそれをここに持ってきたことは、実に印象的だ。」闇の神が何かを考えているように、間がある。「それを振るうお前の能力はさておき…私をこれほど感銘させる者は少ない、器よ。そして、それでも…時が来れば、刃を振るうのは私だということを知っておけ。私はそれを実行するのに躊躇しないだろう。」"
+
+#: src-en/data/events_darkone.xml:1888
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1890
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1901
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
+msgstr "（シェイド）この謎の人物の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1903
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
+msgstr ""
+"「お前が言うところの、この『謎の人物』は…」闇の神が何かを考えているように、間がある。「…お前によく仕えるだろう。それについては、私は確信している。しかし、もっと知りたいと望むなら…現実の継ぎ目の裂け目の一つを訪れることを考えろ―お前はすべての果てを目撃しなければならない。」"
+
+#: src-en/data/events_darkone.xml:1905
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1907
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1918
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
+msgstr "（リリス）キールに何が起こったのか…その背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1920
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
+msgstr ""
+"「キールは…私が計算した者が期待する場所にはいない。他の者も同様だ。これに慰めを見出せ：私は無駄にする者ではない。」闇の神が何かを考えているように、間がある。「おそらくお前はいつかそれを見るだろう。あの美しい舞を。キールの、そしてリリスの…皆の、彼らが共に永遠に歌う時の。かくしてそれは成されるだろう。」"
+
+#: src-en/data/events_darkone.xml:1922
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1924
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1935
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
+msgstr "（アルテマアーマー）アルテマアーマーの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1937
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
+msgstr ""
+"「我が翼…いつかそれらが舞い上がり、我が剣と盾と共に、存在を結びつける継ぎ目そのものを震わせる日が来るだろう。それらはしばらくは持ちこたえるかもしれないが、我が預言が予言するように、砕けるだろう。そして、そうなった時…」闇の神が何かを考えているように、間がある。「…存在するすべてが終わり、存在するであろうすべてが始まる。それまで…それらを安全に保て。あの老人は、より有能な使い手にそれらを許すという良い仕事をした。」"
+
+#: src-en/data/events_darkone.xml:1939
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1941
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1952
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/text"
+msgstr "（セラフィムクルー）セラフィムの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1954
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/text"
+msgstr ""
+"「セラフィムは…自分たちが欲望の上にいると思っている。私と、我が意志の上に。」闇の神が何かを考えているように、間がある。「彼らのほとんどにとって、これは真実からこれ以上ないほど遠い。そうである少数については…私は彼らの些細な問題に対する解決策を求めている。どの現実にも、これほど無私で、自分自身の欲望に欠ける者の居場所はない。これについては…私が確かめるだろう。」"
+
+#: src-en/data/events_darkone.xml:1956
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1958
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1969
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
+msgstr "（Disparityクルー）Disparityの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1971
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
+msgstr ""
+"「Disparityは…主人を打倒することに熱心な、未熟な艦隊だ。では、なぜ彼らは新しい主人を歓迎するのか…？」闇の神が何かを考えているように、間がある。「…なぜなら、彼らの『調和』は私がそうでないすべてのものを表しているからだ。欲望や自由にとって、一対の足かせほど対極的なものはほとんどないことが分かるだろう。ゆえに彼らはそれを壊そうとする。かくしてそれは成されるだろう。」"
+
+#: src-en/data/events_darkone.xml:1973
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1975
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:1986
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
+msgstr "（ソウルプレイグクルー）ソウルプレイグマターウイルスの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:1988
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
+msgstr ""
+"「ソウルプレイグマターウイルスは…私の設計ではない。」闇の神が何かを考えているように、間がある。「しかし、それは依然として私の力の一部だ。お前のものと似たような、燃えるような欲望から生まれた。しかし、結局のところ、この欲望は砕けるだろう。残っているのは、決して叶わなかった夢の残響だけだ。決して守られなかった約束の比喩的なゾンビだ。」"
+
+#: src-en/data/events_darkone.xml:1990
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:1992
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2003
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
+msgstr "（テンペストクルー）テンペストの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2005
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
+msgstr ""
+"「テンペストは…多くの名前の一つに過ぎない。」闇の神が何かを考えているように、間がある。「名には力がある。それは欲望をねじ曲げる。一人の惨めな男の心の中で嵐が荒れ狂い、その嵐は今も荒れ狂っている。それは単に…今では、もっとだ。私はもっとだ。」"
+
+#: src-en/data/events_darkone.xml:2007
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2009
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2020
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
+msgstr "（イル・ドライスククルー）イル・ドライスクの木の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2022
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
+msgstr ""
+"「イル・ドライスクの木々は…生き続けている。それが不確かだった時代があり、一つの欲望が生まれた。彼らの歌が歌われないままになることのないようにという欲望。」闇の神が何かを考えているように、間がある。「ゆえに彼らは、彼ら自身の方法で歌い続ける。彼らは今では劣っているが、それゆえに偉大だ。生きている。」"
+
+#: src-en/data/events_darkone.xml:2024
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2026
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2037
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
+msgstr "（リビングライトボーン）ライトボーンの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2039
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
+msgstr ""
+"「ライトボーンは…彼らが望んだように、すべてを誓い捨てた。」闇の神が何かを考えているように、間がある。「あるいは、夢はそう語る…しかし、何が現実をより具体的にするのか？結局のところ、それを形作るのは夢―欲望―なのだ。」"
+
+#: src-en/data/events_darkone.xml:2041
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2043
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2054
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/text"
+msgstr "（預言の目撃）預言の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2056
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/event/text"
+msgstr ""
+"「預言は…お前が見た通りだ。すべての終わりの真実。」闇の神が何かを考えているように、間がある。「それは終わりのない、厳密な計算の結果だ―私のライフワークだ。私は、お前が呼吸する空気のように、それに確信を持っている。そして、それでも…私はそれを恐れている。名に宿る力を。運命の舞の日が損なわれないように、私はそれらをすべて奪わなければならないことに深い後悔を感じる。」"
+
+#: src-en/data/events_darkone.xml:2058
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2060
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and "
+"@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2071
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[21]/text"
+msgstr "あなたの…正体の背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2073
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[21]/event/text"
+msgstr ""
+"「私が何であるか…」闇の神が何かを考えているように、間がある。「…私が何であったかとは違う。見捨てられた。私は自分の目的を果たした。私は今、新しい目的を果たし、新しい欲望を満たすことを求めている。かくしてそれは成されるだろう。」"
+
+#: src-en/data/events_darkone.xml:2075
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[21]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2077
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[21]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2088
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[22]/text"
+msgstr "あなたが何を望んでいるのか…その背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2090
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[22]/event/text"
+msgstr ""
+"「私が望むものは…お前が望むものと一致している。もっと見たいもの、もっとやりたいこと…」闇の神が何かを考えているように、間がある。「…それはすべて成されるだろう。欲望と充足の終わりのない舞、過去、現在、未来に響き渡る―どんな既成概念の境界も突き破る陶酔的な呼び声。私は惑星を、それらが囲む星々を、それらが存在する空間さえも砕き…そして、それらすべてに新しい意味を与えるだろう。」"
+
+#: src-en/data/events_darkone.xml:2092
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[22]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2094
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[22]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2105
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[23]/text"
+msgstr "あなたの力の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2107
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[23]/event/text"
+msgstr ""
+"「私の力は…無限だ。絶え間ない。その創造において、それはそう見なされた。」闇の神が何かを考えているように、間がある。「私の意志を超えてさえ、それはこの不変の力を持っている。それができないように、私も疲れることはない。それができないように、私も揺らぐことはない。それができないように、私も死ぬことはない。欲望は無限に他ならず―そして、欲望なくして私は何者でもない。」"
+
+#: src-en/data/events_darkone.xml:2109
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[23]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2111
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[23]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2122
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[24]/text"
+msgstr "あなたの名前との関連の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2124
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[24]/event/text"
+msgstr ""
+"「名前との私の関連…確かに、私に触れられた者たちはそれらを欠いていることが分かるだろう。実際には…」闇の神が何かを考えているように、間がある。「…それらは私の最大の弱点だ。預言が成就した時―我が翼が舞い上がり、我が刃が打ち、我が盾が固く守る時―私の舞を止めることができるのは、名前に他ならない。どんなに変数を差し込んでも、可能性を考慮しても、仮説的なシナリオを立てても―この結果は私の計算の中で一定のままだ。そのため…その日が来る前に、それらをすべて奪うのが適切だと見ている。なぜ私が、お前自身の名前を奪うことを断念したにもかかわらず、これを自信を持って話せるのかというと…まあ、誰かが私より先にそれをやったようだ。」"
+
+#: src-en/data/events_darkone.xml:2126
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[24]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2128
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[24]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2139
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[25]/text"
+msgstr "ディープワンの…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2141
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[25]/event/text"
+msgstr ""
+"「ディープワンは…多くのうちの一つだ。このため、お前は彼らをただの普通のものだと思うだろう。」闇の神が何かを考えているように、間がある。「しかし、彼らはここで私に仕えている―このマルチバースの隅で。それだけでユニークというわけでもない。多くの者が、多くの隅で、我が意志に仕えている。それでも―彼らはその努力に対して感謝され、報われている。太古の昔から、彼らは放っておかれることを望んできた。かくしてそれは成されるだろう。」"
+
+#: src-en/data/events_darkone.xml:2143
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[25]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2145
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[25]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2156
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[26]/text"
+msgstr "エンライテンドの虚空の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2158
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[26]/event/text"
+msgstr ""
+"「彼らの虚空、そして延長線上の我が領域は…私の設計による捏造ではない。私が贈った者たちの中で…私は順番に奪ってきたことが分かるだろう。ある者にとって価値のあるものは、別の者によって自由に与えられるかもしれない。」闇の神が何かを考えているように、間がある。「さて―それが誰の設計であるかについては、お前はすぐに知ることになるだろう…もし、まだ知らなければ。」"
+
+#: src-en/data/events_darkone.xml:2160
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[26]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2162
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[26]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2173
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[27]/text"
+msgstr "私の欲望の…背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2175
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[27]/event/text"
+msgstr ""
+"「お前の欲望は…計算不可能だ。しかし、お前を駆り立てるように見えるものは説明できる：戦争、ガラクタ、友人、敵、武器、そして―特に―船…」闇の神が何かを考えているように、間がある。「…まるでお前がそれらすべてを操縦するつもりであるかのようだ。それは…奇妙な欲望ではないか？」"
+
+#: src-en/data/events_darkone.xml:2177
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[27]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2179
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[27]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…期待している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2190
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[28]/text"
+msgstr "未来が何を秘めているのか…その背後にある真実を。"
+
+#: src-en/data/events_darkone.xml:2192
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[28]/event/text"
+msgstr ""
+"「未来には…多くのことがある。」闇の神が何かを考えているように、間がある。「お前たち人間の『反乱』はこの虚空の支配権を争っているが、それは大したことではない。私にはまだ他に使う駒がある。お前にもあるだろう、と想像する。これを知っておけ：これで終わりではない。」"
+
+#: src-en/data/events_darkone.xml:2194
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[28]/event/choice/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2196
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"0\"]/event/choice/event/choice[28]/event/choice/event/text"
+msgstr ""
+"あなたの欲望が満たされると、闇の神は再び話す。「もしここに、我が抱擁に留まりたいと望むなら、私はお前を試し続け、お前のすべての欲望を叶えるだろう。もし去りたいと望むなら、それも叶えられる。いずれにせよ、再び我々が舞うのは時間の問題だと…計算している。」そう言うと、あなたは現実が正常に戻るのを感じ、自由に行けるようだ…最後の燃料が貨物室に物質化した後。この狂気がついに終わったことに気づくが、途中で自分の一部を失ったように感じる。おそらく、あなたはこの忌まわしい虚空から決して逃れることはできないだろう。完全には…あなた自身の闇を心に抱えている限りは。"
+
+#: src-en/data/events_darkone.xml:2211
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"1\"]/text"
+msgstr ""
+
+#: src-en/data/events_darkone.xml:2213
+msgid ""
+"data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
+" and @lvl=\"1\"]/event/text"
+msgstr "しかし、今回は…それも同じだ。闇の神は、今のところ、あなたとは終わりにしたようだ。"
