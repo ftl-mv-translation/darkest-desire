@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-25 14:20+0000\n"
+"PO-Revision-Date: 2025-10-30 14:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -352,17 +352,21 @@ msgstr "Космическая слеза"
 #: src-en/data/blueprints.xml.append:1353
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSOULPLAGUE_SHATTEREDPROMISE\"]/title"
-msgstr ""
+msgstr "Разбитая надежда"
 
 #: src-en/data/blueprints.xml.append:1354
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSOULPLAGUE_SHATTEREDPROMISE\"]/short"
-msgstr ""
+msgstr "Р. надежда"
 
 #: src-en/data/blueprints.xml.append:1356
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDSOULPLAGUE_SHATTEREDPROMISE\"]/desc"
 msgstr ""
+"Прототип системы Осквернителя, находящаяся в стадии разработки, обнаруженная "
+"в глубинах заброшенной лаборатории Эпсилон, принадлежащей Гениократии. Она "
+"быстро накапливает частицы материи, зараженной чумой души, которые может "
+"выпустить в виде одновременного залпа Прилива чумы души."
 
 #: src-en/data/blueprints.xml.append:1686
 msgid ""
@@ -3181,7 +3185,7 @@ msgstr "Голодная тень"
 #: src-en/data/blueprints.xml.append:17521
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_FLAK_DARKGOD_CRYSTALLINE\"]/title"
-msgstr ""
+msgstr "Кристаллический надвигающийся взрыв тени"
 
 #: src-en/data/blueprints.xml.append:17531
 msgid ""
@@ -3210,17 +3214,20 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17601
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/title"
-msgstr ""
+msgstr "Кристаллическая надвигающаяся тень"
 
 #: src-en/data/blueprints.xml.append:17602
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/short"
-msgstr ""
+msgstr "Кр. надв. тень"
 
 #: src-en/data/blueprints.xml.append:17603
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/desc"
 msgstr ""
+"Из оболочки этого дрона, изготовленного из Теневого кристалла, доносится "
+"адский гул. Стреляет чаще, чем базовая версия, с дополнительным выстрелом, а "
+"его снаряды вызывают изоляцию Теневого кристалла."
 
 #: src-en/data/blueprints.xml.append:17619
 msgid ""
@@ -4549,17 +4556,29 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22174
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINELIBERATORTOG_DEFEND\"]/title"
-msgstr ""
+msgstr "Кристаллический освободитель [Противопехотный]"
 
 #: src-en/data/blueprints.xml.append:22175
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINELIBERATORTOG_DEFEND\"]/short"
-msgstr ""
+msgstr "Крист. освоб. [П]"
 
 #: src-en/data/blueprints.xml.append:22176
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINELIBERATORTOG_DEFEND\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Из оболочки этого дрона, изготовленного из "
+"Теневого кристалла, доносится адский гул. Имеет больше ОЗ и меньше времени "
+"простоя, чем базовая версия, а также способность проходить сквозь двери, "
+"когда включен, и периодически вызывать изоляцию Теневого кристалла. Может "
+"переключаться между режимами \"Противопехотный\" и \"Абордажный\".\n"
+"    \n"
+"-1500 ОЗ, 0.5x боевой/саботажный урон\n"
+"-0.2x скорость движения\n"
+"-Подвержен влиянию маяков Диссонанса\n"
+"-Периодически вызывает изоляцию и усиление Теневого кристалла, временно "
+"наделяя его способностью проходить сквозь двери и увеличивая его боевой/"
+"саботажный урон до 10х, а скорость передвижения - до 25х."
 
 #: src-en/data/blueprints.xml.append:22192
 msgid ""
