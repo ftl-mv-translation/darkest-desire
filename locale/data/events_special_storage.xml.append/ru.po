@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-29 13:20+0000\n"
+"PO-Revision-Date: 2025-10-30 14:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -794,7 +794,7 @@ msgstr "Жертва"
 #: src-en/data/events_special_storage.xml.append:512
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDHUMANSACRIFICEPREPARATION\"]/choice[@req=\"DD_PREPARINGHUMANSACRIFICEINSTORAGECHECK\"]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Так и было сделано."
 
 #: src-en/data/events_special_storage.xml.append:520
 msgid ""
@@ -1854,37 +1854,37 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1189
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/text"
-msgstr ""
+msgstr "Маску какого Формотворца вы хотите поменять?"
 
 #: src-en/data/events_special_storage.xml.append:1191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cage\"]/text"
-msgstr ""
+msgstr "(Клетчатая маска) Поменять маску вашего Клетчатого Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cloud\"]/text"
-msgstr ""
+msgstr "(Облачная маска) Поменять маску вашего Облачного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1199
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_dark\"]/text"
-msgstr ""
+msgstr "(Потемневшая маска) Поменять маску вашего Потемневшего Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1203
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_judge\"]/text"
-msgstr ""
+msgstr "(Маска судьи) Поменять маску вашего Судьи-Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_plague\"]/text"
-msgstr ""
+msgstr "(Маска прокаженного) Поменять маску вашего Прокаженного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1211
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_shatter\"]/text"
-msgstr ""
+msgstr "(Разбитая маска) Поменять маску вашего Разбитого Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1215
 msgid ""
@@ -1904,19 +1904,21 @@ msgstr "Вы решаете ничего не делать и готовитес
 #: src-en/data/events_special_storage.xml.append:1227
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Клетчатую маску?"
 
 #: src-en/data/events_special_storage.xml.append:1229
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:1231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1234
 msgid ""
@@ -1928,19 +1930,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:1244
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1246
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1249
 msgid ""
@@ -1952,19 +1956,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1259
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:1261
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1264
 msgid ""
@@ -1976,19 +1982,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:1274
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1279
 msgid ""
@@ -2000,19 +2008,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1289
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:1291
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1294
 msgid ""
@@ -2024,7 +2034,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:1304
 msgid ""
@@ -2034,19 +2044,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Облачную маску?"
 
 #: src-en/data/events_special_storage.xml.append:1312
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:1314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1317
 msgid ""
@@ -2058,19 +2070,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:1327
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1329
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1332
 msgid ""
@@ -2082,19 +2096,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1342
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:1344
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1347
 msgid ""
@@ -2106,19 +2122,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:1357
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1362
 msgid ""
@@ -2130,19 +2148,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1372
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:1374
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1377
 msgid ""
@@ -2154,7 +2174,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:1387
 msgid ""
@@ -2164,19 +2184,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1393
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Потемневшую маску?"
 
 #: src-en/data/events_special_storage.xml.append:1395
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:1397
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1400
 msgid ""
@@ -2188,19 +2210,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1415
 msgid ""
@@ -2212,19 +2236,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:1425
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:1427
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1430
 msgid ""
@@ -2236,19 +2262,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:1440
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1445
 msgid ""
@@ -2260,19 +2288,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:1457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1460
 msgid ""
@@ -2284,7 +2314,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:1470
 msgid ""
@@ -2294,19 +2324,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1476
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Маску судьи?"
 
 #: src-en/data/events_special_storage.xml.append:1478
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:1480
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1483
 msgid ""
@@ -2318,19 +2350,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:1493
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1498
 msgid ""
@@ -2342,19 +2376,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:1508
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1510
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1513
 msgid ""
@@ -2366,19 +2402,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1523
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1525
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1528
 msgid ""
@@ -2390,19 +2428,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1538
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:1540
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1543
 msgid ""
@@ -2414,7 +2454,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:1553
 msgid ""
@@ -2424,19 +2464,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1559
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Маску прокаженного?"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:1563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1566
 msgid ""
@@ -2448,19 +2490,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:1576
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:1578
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1581
 msgid ""
@@ -2472,19 +2516,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:1591
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1593
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1596
 msgid ""
@@ -2496,19 +2542,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1606
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:1608
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1611
 msgid ""
@@ -2520,19 +2568,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:1621
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:1623
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1626
 msgid ""
@@ -2544,7 +2594,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:1636
 msgid ""
@@ -2554,19 +2604,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1642
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Разбитую маску?"
 
 #: src-en/data/events_special_storage.xml.append:1644
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1649
 msgid ""
@@ -2578,19 +2630,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:1661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1664
 msgid ""
@@ -2602,19 +2656,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1676
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1679
 msgid ""
@@ -2626,19 +2682,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:1689
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:1691
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1694
 msgid ""
@@ -2650,19 +2708,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:1704
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1706
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1709
 msgid ""
@@ -2674,7 +2734,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:1719
 msgid ""
@@ -5097,7 +5157,7 @@ msgstr "(Министр) Оживить Министра."
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_BUTTON\"]/mod-"
 "append:choice[9]/text"
-msgstr ""
+msgstr "Превратить свою оболочку человека в другой тип оболочки."
 
 #: src-en/data/events_special_storage.xml.append:3487
 msgid ""
@@ -5517,7 +5577,7 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3732
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[7]/text"
-msgstr ""
+msgstr "Изучить выпавшую страницу."
 
 #: src-en/data/events_special_storage.xml.append:3734
 msgid ""
@@ -5610,7 +5670,7 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3792
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[3]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
-msgstr ""
+msgstr "Изучить выпавшую страницу."
 
 #: src-en/data/events_special_storage.xml.append:3794
 msgid ""
@@ -5831,7 +5891,7 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:3925
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[6]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "Изучить выпавшую страницу."
 
 #: src-en/data/events_special_storage.xml.append:3927
 msgid ""
@@ -6458,7 +6518,7 @@ msgstr "Интересно. Закрыть книгу."
 #: src-en/data/events_special_storage.xml.append:4328
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[12]/text"
-msgstr ""
+msgstr "Изучить выпавшую страницу."
 
 #: src-en/data/events_special_storage.xml.append:4330
 msgid ""
@@ -9855,37 +9915,37 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:6369
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/text"
-msgstr ""
+msgstr "Маску какого Формотворца вы хотите поменять?"
 
 #: src-en/data/events_special_storage.xml.append:6371
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cage\"]/text"
-msgstr ""
+msgstr "(Клетчатая маска) Поменять маску вашего Клетчатого Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6375
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cloud\"]/text"
-msgstr ""
+msgstr "(Облачная маска) Поменять маску вашего Облачного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6379
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_dark\"]/text"
-msgstr ""
+msgstr "(Потемневшая маска) Поменять маску вашего Потемневшего Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6383
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_judge\"]/text"
-msgstr ""
+msgstr "(Маска судьи) Поменять маску вашего Судьи-Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6387
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_plague\"]/text"
-msgstr ""
+msgstr "(Маска прокаженного) Поменять маску вашего Прокаженного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6391
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_shatter\"]/text"
-msgstr ""
+msgstr "(Разбитая маска) Поменять маску вашего Разбитого Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6395
 msgid ""
@@ -9895,19 +9955,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6401
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Клетчатую маску?"
 
 #: src-en/data/events_special_storage.xml.append:6403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:6405
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6408
 msgid ""
@@ -9919,19 +9981,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:6418
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6420
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6423
 msgid ""
@@ -9943,19 +10007,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6433
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:6435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6438
 msgid ""
@@ -9967,19 +10033,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:6448
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6450
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6453
 msgid ""
@@ -9991,19 +10059,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6463
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:6465
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6468
 msgid ""
@@ -10015,7 +10085,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:6478
 msgid ""
@@ -10025,19 +10095,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6484
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Облачную маску?"
 
 #: src-en/data/events_special_storage.xml.append:6486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:6488
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6491
 msgid ""
@@ -10049,19 +10121,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:6501
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6503
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6506
 msgid ""
@@ -10073,19 +10147,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6516
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:6518
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6521
 msgid ""
@@ -10097,19 +10173,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:6531
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6533
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6536
 msgid ""
@@ -10121,19 +10199,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6546
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:6548
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6551
 msgid ""
@@ -10145,7 +10225,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:6561
 msgid ""
@@ -10155,19 +10235,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6567
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Потемневшую маску?"
 
 #: src-en/data/events_special_storage.xml.append:6569
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:6571
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6574
 msgid ""
@@ -10179,19 +10261,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:6584
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:6586
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6589
 msgid ""
@@ -10203,19 +10287,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:6599
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:6601
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6604
 msgid ""
@@ -10227,19 +10313,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:6614
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6616
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6619
 msgid ""
@@ -10251,19 +10339,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6629
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:6631
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6634
 msgid ""
@@ -10275,7 +10365,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:6644
 msgid ""
@@ -10285,19 +10375,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6650
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Маску судьи?"
 
 #: src-en/data/events_special_storage.xml.append:6652
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:6654
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6657
 msgid ""
@@ -10309,19 +10401,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:6667
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:6669
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6672
 msgid ""
@@ -10333,19 +10427,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:6682
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6684
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6687
 msgid ""
@@ -10357,19 +10453,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6697
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6699
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6702
 msgid ""
@@ -10381,19 +10479,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6712
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:6714
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6717
 msgid ""
@@ -10405,7 +10505,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:6727
 msgid ""
@@ -10415,19 +10515,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6733
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Маску прокаженного?"
 
 #: src-en/data/events_special_storage.xml.append:6735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:6737
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6740
 msgid ""
@@ -10439,19 +10541,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:6750
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:6752
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6755
 msgid ""
@@ -10463,19 +10567,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:6765
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6767
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6770
 msgid ""
@@ -10487,19 +10593,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6780
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:6782
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6785
 msgid ""
@@ -10511,19 +10619,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:6795
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Разбитую маску."
 
 #: src-en/data/events_special_storage.xml.append:6797
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Разбитой маски и становится отражением ее "
+"разрушительной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6800
 msgid ""
@@ -10535,7 +10645,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Разбитой маски."
 
 #: src-en/data/events_special_storage.xml.append:6810
 msgid ""
@@ -10545,19 +10655,21 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6816
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/text"
-msgstr ""
+msgstr "На какую маску вы хотели бы сменить Разбитую маску?"
 
 #: src-en/data/events_special_storage.xml.append:6818
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Клетчатую маску."
 
 #: src-en/data/events_special_storage.xml.append:6820
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6823
 msgid ""
@@ -10569,19 +10681,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Клетчатой маски."
 
 #: src-en/data/events_special_storage.xml.append:6833
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Облачную маску."
 
 #: src-en/data/events_special_storage.xml.append:6835
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
+"электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6838
 msgid ""
@@ -10593,19 +10707,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Облачной маски."
 
 #: src-en/data/events_special_storage.xml.append:6848
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6850
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Потемневшей маски и становится отражением ее "
+"хаотичной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6853
 msgid ""
@@ -10617,19 +10733,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_DARK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Сменить на Потемневшую маску."
 
 #: src-en/data/events_special_storage.xml.append:6863
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску судьи."
 
 #: src-en/data/events_special_storage.xml.append:6865
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски судьи и становится отражением ее "
+"сияющей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6868
 msgid ""
@@ -10641,19 +10759,21 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски судьи."
 
 #: src-en/data/events_special_storage.xml.append:6878
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "Сменить на Маску прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6880
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
+"ее болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6883
 msgid ""
@@ -10665,7 +10785,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "У вас нет Маски прокаженного."
 
 #: src-en/data/events_special_storage.xml.append:6893
 msgid ""
