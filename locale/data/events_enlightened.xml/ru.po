@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-21 00:20+0000\n"
+"PO-Revision-Date: 2025-10-29 13:20+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_enlightenedxml/ru/>\n"
@@ -7525,6 +7525,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT\"]/destroyed/text"
 msgstr ""
+"Корабль элиты Федерации разрушается, и вы молитесь, чтобы ужасы, оставшиеся "
+"на борту, погибли вместе с ним..."
 
 #: src-en/data/events_enlightened.xml:4315
 msgid ""
@@ -7535,6 +7537,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT\"]/deadCrew/text"
 msgstr ""
+"Корабль элиты Федерации пуст - как от ужасов, так и от людей - и вам "
+"остается только молиться, чтобы это действительно был их конец..."
 
 #: src-en/data/events_enlightened.xml:4323
 msgid ""
@@ -7545,6 +7549,11 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/text"
 msgstr ""
+"Однако у вас почти нет времени, чтобы обдумать то, что вы только что "
+"увидели, как ваше внимание привлекает что-то внутри обломков корабля "
+"Федерации. Нет, это не просто привлекает ваше внимание - вы чувствуете себя "
+"полностью очарованным сияющим светом этой вещи, какой бы она ни была. Ее "
+"очарование заставляет вас сосредоточить взгляд и разглядеть ее форму..."
 
 #: src-en/data/events_enlightened.xml:4332
 msgid ""
@@ -7555,16 +7564,20 @@ msgstr "Это... прекрасно."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"Этот чудесный кристаллический осколок из пальто офицера... он там, среди "
+"обломков. Он зовет тебя. Манит вас к себе, в свои объятия."
 
 #: src-en/data/events_enlightened.xml:4336
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Да, я... Мне никогда не нужно было ничего другого."
 
 #: src-en/data/events_enlightened.xml:4338
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"Вы вглядываетесь в потусторонний центр осколка, полностью погружаясь в его "
+"ошеломляющее великолепие, и все вокруг вас как будто исчезает..."
 
 #: src-en/data/events_enlightened.xml:4340
 msgid ""
@@ -7584,47 +7597,69 @@ msgstr "..."
 #: src-en/data/events_enlightened.xml:4348
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "В воздухе пахнет пеплом и серой."
 
 #: src-en/data/events_enlightened.xml:4350
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Ха! Разве не всегда так? Ты привыкла прятать розы в своей броне или что?"
 
 #: src-en/data/events_enlightened.xml:4352
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вряд ли. Просто... не обязательно, чтобы все было именно так, понимаешь? Это "
+"точно не то, как я себе представляла."
 
 #: src-en/data/events_enlightened.xml:4354
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Ну, так сложились обстоятельства, не так ли? Бесполезно проклинать прошлое. "
+"Или, если честно, проклинать прошлые жизни."
 
 #: src-en/data/events_enlightened.xml:4356
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"И ты... что? Счастлива? Доволена тем, \"как все сложилось\"? Для меня это не "
+"просто ЧУВСТВО ада, Четыре, это МОЙ ад. И это был бы и твой ад, если бы она "
+"не...\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t...уф, прости. Я знаю, что ты не хочешь такой "
+"жизни не больше, чем я. Я... я просто хотела бы, чтобы мы не чувствовали "
+"себя здесь такими беспомощными."
 
 #: src-en/data/events_enlightened.xml:4360
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Кто сказал, что мы беспомощны? Что этот великан может сделать, убить нас? "
+"Этот ублюдок уже знает, что не может. Это только вопрос времени, когда ты "
+"что-нибудь придумаешь, Эв."
 
 #: src-en/data/events_enlightened.xml:4362
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Конечно, это нас не убьет, но... есть ад хуже этого, Четыре. Посмотри на "
+"Шесть - может, ей нравится сражаться, но вечно? Потому что она была "
+"недовольна и осмелилась что-то с этим сделать? Даже если ее сила воли не "
+"иссякнет, а что с ее доспехами? Или с ее телом?"
 
 #: src-en/data/events_enlightened.xml:4364
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Она крепкая, Эв. Ты же знаешь, да? Мы же не сидим здесь сложа руки, и не "
+"ждем, когда ее запал иссякнет. Мы выберемся отсюда и вытащим Шесть из "
+"передряги, не так ли?"
 
 #: src-en/data/events_enlightened.xml:4366
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Ладно. Так или иначе. Я... я что-нибудь придумаю, и... мы..."
 
 #: src-en/data/events_enlightened.xml:4368
 msgid ""
@@ -7645,85 +7680,144 @@ msgstr "..."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"В мгновение ока ваш разум отрывается от этого незнакомого разговора, и вас "
+"захлестывает череда мелькающих образов.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите кристалл, управляющий "
+"какой-то невидимой силой из моря застывшего пламени.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЗатем єнги, разрывающий себя на "
+"части в поисках ненайденного покоя глубоко внутри себя.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tИ, наконец... золотая печать. "
+"Украшенная жутким лицом, которое прожигает ваш разум, запечатлеваясь в вашем "
+"сознании."
 
 #: src-en/data/events_enlightened.xml:4385
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Почувствовать всю болезненность этого момента."
 
 #: src-en/data/events_enlightened.xml:4387
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Ой... ты что, ударился головой, весельчак?\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы открываете глаза и кричите, "
+"а стоящий над вами глубоководный в маске слегка вздрагивает. \"Значит, "
+"Темный... не отнял у тебя дар речи. Без него ты был бы... менее смешным, "
+"знаешь ли?\""
 
 #: src-en/data/events_enlightened.xml:4393
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что, черт возьми, это было? Кто, ЧЕРТ ВОЗЬМИ, ты такой?"
 
 #: src-en/data/events_enlightened.xml:4395
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"По помещению раздается знакомый смех, и ваше сердце замирает. Это, должно "
+"быть, голос, с которым вы разговаривали. Тот, кто привел вас сюда, на этот "
+"корабль... к этому осколку мук и лжи."
 
 #: src-en/data/events_enlightened.xml:4397
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Ты... ты знал, что это произойдет? С этим проклятым осколком? Где он вообще "
+"находится?"
 
 #: src-en/data/events_enlightened.xml:4399
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Хотя за маской невозможно разглядеть его выражение лица, глубоководный "
+"склоняет голову в преувеличенной манере. \"О... нет, правда. Я не могу "
+"сказать, что... знаю, о чем ты говоришь. Может быть, ты... все-таки ударился "
+"головой? ЭТО... было бы забавно, я думаю\".\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tДействительно, вы "
+"смотрите мимо глубоководного на обломки корабля Федерации снаружи, и "
+"странный, яркий свет исчез. Пустота снаружи снова погрузилась в полную "
+"темноту."
 
 #: src-en/data/events_enlightened.xml:4403
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Я... Понимаю. Может быть, я просто немного сошел с ума, находясь здесь."
 
 #: src-en/data/events_enlightened.xml:4405
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"О... ну, лучше не сходи с ума, весельчак. Быть смешным - это одно, но... "
+"сходить с ума? Я бы никогда не смог... работать на сумасшедшего. ЭТО... не "
+"было бы смешно, правда?\""
 
 #: src-en/data/events_enlightened.xml:4407
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Да, это имеет смысл... Постой, что?"
 
 #: src-en/data/events_enlightened.xml:4409
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вокруг вас раздается громкий смех, и глубоководный в маске кланяется: \"О... "
+"не дай мне забыть представиться. Я... Старейшина Просветленных, смиренно "
+"к... твоим услугам, о забавнейший. Я... Формотворец, как называют меня мои "
+"люди. Ты помог мне... вернуть мою любимую маску у того сумасшедшего вора, "
+"и... ну, я не из тех, кто оставляет долги неоплаченными\"."
 
 #: src-en/data/events_enlightened.xml:4410
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Шут"
 
 #: src-en/data/events_enlightened.xml:4412
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/text"
 msgstr ""
+"Тогда, эта маска... ЭТО ТО, за чем мы сюда пришли? Что это вообще такое?"
 
 #: src-en/data/events_enlightened.xml:4414
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Формотворец прикладывает руку к подбородку, делая вид, что глубоко "
+"задумывается, а затем указывает в воздух одним когтистым пальцем. \"О... Я "
+"знаю, как это объяснить. Представь, что ты... хороший человек, веселый. И "
+"когда ты был... достаточно хорош, твое божество чудесных вещей и радости... "
+"награждает тебя предметом, созданным из чистых, счастливых мыслей\".\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы киваете "
+"головой, следуя за ним, и снисходительный глубоководный указывает пальцем на "
+"свою маску, чтобы указать на свою маску: \"Теперь представь, что... но для "
+"того, кем бы ни был Темный. Он... дарит нам, Старейшинам нашего рода, эти "
+"маски - Маски Дани... как их называют. Большинство Просветленных... сочли бы "
+"это дарование величайшей честью, но... я немного более циничен. Так все... "
+"гораздо забавнее\"."
 
 #: src-en/data/events_enlightened.xml:4419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr ""
+"Ладно, пожалуй. Почему это так важно для тебя, если ты не особо веришь во "
+"всемогущего бога?"
 
 #: src-en/data/events_enlightened.xml:4421
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"В помещении раздается легкий смешок, когда Формотворец откидывает голову "
+"назад: \"О... ну, это не просто знак почета. Она также... служит орудием для "
+"манипулирования человеческими душами\"."
 
 #: src-en/data/events_enlightened.xml:4423
 msgid ""
@@ -7735,25 +7829,32 @@ msgstr "Что?"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "С щелчком пальцев рядом с вами появляется парящая, эфемерная фигура..."
 
 #: src-en/data/events_enlightened.xml:4428
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Закричать от ужаса."
 
 #: src-en/data/events_enlightened.xml:4430
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"...и затем, с еще одним щелчком, появляется вторая, похожая фигура. Вы "
+"падаете назад, испуганно крича, и смех вокруг вас быстро превращается в "
+"насмешливую какофонию. \"О... не делай вид, что ты слишком удивлен, "
+"весельчак. Разве что ты... пытаешься быть смешным? О, это... умно. Ты умный, "
+"весельчак\". Вы смотрите с недоумением и раздражением, а Формотворец просто "
+"выходит из помещения не переставая смеяться... а его свита из душ плывет "
+"прямо за ним."
 
 #: src-en/data/events_enlightened.xml:4433
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Мне... нужно напиться когда-нибудь."
 
 #: src-en/data/events_enlightened.xml:4435
 msgid ""
@@ -7761,13 +7862,18 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы действительно так думаете. Это было... полная катастрофа. От насмешек "
+"Формотвореца, до ужасов на борту корабля Федерации, а затем видения от того "
+"загадочного осколка... вам кажется, что вы все еще видите тот золотой знак, "
+"ясный как день. Однако есть и положительный момент - сейчас все спокойно, и "
+"у вас появился могущественный союзник."
 
 #: src-en/data/events_enlightened.xml:4437
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Наслаждаться тишиной и покоем."
 
 #: src-en/data/events_enlightened.xml:4439
 msgid ""
@@ -7775,6 +7881,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ваше расслабленное состояние мгновенно прерывается криками, когда гораздо "
+"менее раздражающий голос, сопровождавший вас с самого начала сектора, "
+"врывается в разговор: \"Чужак! Чужак! Ты... ты в порядке? Что случилось? "
+"Я... я не видел тебя довольно долгое время. Я боялся... худшего\"."
 
 #: src-en/data/events_enlightened.xml:4441
 msgid ""
@@ -7782,6 +7892,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Честно говоря, какой-то придурок. Жутко раздражающий тип - у него еще и "
+"целый набор психопатических насмешек и все такое. Хотя фишки с душами, "
+"конечно, прикольные."
 
 #: src-en/data/events_enlightened.xml:4443
 msgid ""
@@ -7789,25 +7902,39 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Психопатические... души? Это... похоже на одного из Старейшин "
+"Просветленных. Они сильны... сами по себе, но не совсем... та опасность, "
+"которую я ждать. Я думал, что... Ложный Бог добрался до тебя, и...\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\t\t\tГолос продолжает говорить некоторое время, и вы тратите "
+"довольно много времени, уверяя его, что вы действительно в порядке и что "
+"никакие якобы злые боги-машины не поглотили вашу душу. В конце концов все "
+"успокаивается, и к тому времени вы более чем готовы включить ССД на полную "
+"мощность."
 
 #: src-en/data/events_enlightened.xml:4461
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Да, это мило. Но мне больше нравится моя маска."
 
 #: src-en/data/events_enlightened.xml:4463
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Вы демонстрируете свою Маску Дани, и смех в комнате моментально стихает. \"О"
+"... ты тоже хорош, весельчак. Неужели... у тебя есть одна из Разбитых Масок?"
+"\""
 
 #: src-en/data/events_enlightened.xml:4465
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/text"
-msgstr ""
+msgstr "Нет, к счастью."
 
 #: src-en/data/events_enlightened.xml:4467
 msgid ""
@@ -7815,6 +7942,9 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/text"
 msgstr ""
+"\"О... тогда неважно, не так ли? Позволь мне... собрать души, и мы сможем "
+"отправиться в путь\". Формотворец щелкает пальцами, и появляется "
+"Нестабильная душа..."
 
 #: src-en/data/events_enlightened.xml:4470
 msgid ""
@@ -7829,13 +7959,15 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"...за которым следует вторая. Формотворец кланяется, уважая ваше знакомство "
+"с его обычаями, и покидает комнату, уводя с собой свою свиту из душ."
 
 #: src-en/data/events_enlightened.xml:4475
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Мне... нужно напиться когда-нибудь."
 
 #: src-en/data/events_enlightened.xml:4477
 msgid ""
@@ -7843,13 +7975,18 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы действительно так думаете. Это было... полная катастрофа. От насмешек "
+"Формотвореца, до ужасов на борту корабля Федерации, а затем видения от того "
+"загадочного осколка... вам кажется, что вы все еще видите тот золотой знак, "
+"ясный как день. Однако есть и положительный момент - сейчас все спокойно, и "
+"у вас появился могущественный союзник."
 
 #: src-en/data/events_enlightened.xml:4480
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Наслаждаться тишиной и покоем."
 
 #: src-en/data/events_enlightened.xml:4482
 msgid ""
@@ -7857,6 +7994,10 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ваше расслабленное состояние мгновенно прерывается криками, когда гораздо "
+"менее раздражающий голос, сопровождавший вас с самого начала сектора, "
+"врывается в разговор: \"Чужак! Чужак! Ты... ты в порядке? Что случилось? "
+"Я... я не видел тебя довольно долгое время. Я боялся... худшего\"."
 
 #: src-en/data/events_enlightened.xml:4484
 msgid ""
@@ -7864,6 +8005,9 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Честно говоря, какой-то придурок. Жутко раздражающий тип - у него еще и "
+"целый набор психопатических насмешек и все такое. Хотя фишки с душами, "
+"конечно, прикольные."
 
 #: src-en/data/events_enlightened.xml:4486
 msgid ""
@@ -7871,13 +8015,24 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Психопатические... души? Это... похоже на одного из Старейшин "
+"Просветленных. Они сильны... сами по себе, но не совсем... та опасность, "
+"которую я ждать. Я думал, что... Ложный Бог добрался до тебя, и...\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\tГолос продолжает говорить некоторое время, и вы тратите довольно "
+"много времени, уверяя его, что вы действительно в порядке и что никакие "
+"якобы злые боги-машины не поглотили вашу душу. В конце концов все "
+"успокаивается, и к тому времени вы более чем готовы включить ССД на полную "
+"мощность."
 
 #: src-en/data/events_enlightened.xml:4500
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/text"
-msgstr ""
+msgstr "На самом деле да."
 
 #: src-en/data/events_enlightened.xml:4502
 msgid ""
@@ -7885,6 +8040,9 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/text"
 msgstr ""
+"\"О... тогда очень жаль. Надеюсь, я все же смогу быть тебе... полезным, "
+"весельчак. Позволь мне хотя бы... собрать души, и мы сможем отправиться в "
+"путь\". Формотворец щелкает пальцами, и появляется Нестабильная душа..."
 
 #: src-en/data/events_enlightened.xml:4505
 msgid ""
@@ -7899,13 +8057,15 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"...за которым следует вторая. Формотворец кланяется, уважая ваше знакомство "
+"с его обычаями, и покидает комнату, уводя с собой свою свиту из душ."
 
 #: src-en/data/events_enlightened.xml:4510
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Мне... нужно напиться когда-нибудь."
 
 #: src-en/data/events_enlightened.xml:4512
 msgid ""
@@ -7913,13 +8073,18 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Вы действительно так думаете. Это было... полная катастрофа. От насмешек "
+"Формотвореца, до ужасов на борту корабля Федерации, а затем видения от того "
+"загадочного осколка... вам кажется, что вы все еще видите тот золотой знак, "
+"ясный как день. Однако есть и положительный момент - сейчас все спокойно, и "
+"у вас появился могущественный союзник."
 
 #: src-en/data/events_enlightened.xml:4514
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_FIGHT_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[@req=\"BLUELIST_DDTRIBUTE_MASKS\""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Наслаждаться тишиной и покоем."
 
 #: src-en/data/events_enlightened.xml:4516
 msgid ""
@@ -7927,6 +8092,10 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ваше расслабленное состояние мгновенно прерывается криками, когда гораздо "
+"менее раздражающий голос, сопровождавший вас с самого начала сектора, "
+"врывается в разговор: \"Чужак! Чужак! Ты... ты в порядке? Что случилось? "
+"Я... я не видел тебя довольно долгое время. Я боялся... худшего\"."
 
 #: src-en/data/events_enlightened.xml:4518
 msgid ""
@@ -7934,6 +8103,9 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Честно говоря, какой-то придурок. Жутко раздражающий тип - у него еще и "
+"целый набор психопатических насмешек и все такое. Хотя фишки с душами, "
+"конечно, прикольные."
 
 #: src-en/data/events_enlightened.xml:4520
 msgid ""
@@ -7941,11 +8113,26 @@ msgid ""
 " and @lvl=\"1\"]/event/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\" and "
 "@lvl=\"1\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Психопатические... души? Это... похоже на одного из Старейшин "
+"Просветленных. Они сильны... сами по себе, но не совсем... та опасность, "
+"которую я ждать. Я думал, что... Ложный Бог добрался до тебя, и...\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+"\t\t\t\t\tГолос продолжает говорить некоторое время, и вы тратите довольно "
+"много времени, уверяя его, что вы действительно в порядке и что никакие "
+"якобы злые боги-машины не поглотили вашу душу. В конце концов все "
+"успокаивается, и к тому времени вы более чем готовы включить ССД на полную "
+"мощность."
 
 #: src-en/data/events_enlightened.xml:4569
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST\"]/text"
 msgstr ""
+"Чувство тревоги, которое становится лишь немного терпимее благодаря вашему "
+"новому знакомству с ним, витает в воздухе, пока вы ждете, когда голос "
+"поведет вас. К вашему огорчению, однако... он так и не появляется. Здесь, "
+"должно быть, нет ничего примечательного."
 
 #: src-en/data/events_enlightened.xml:4572
 msgid ""
@@ -7961,11 +8148,23 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_SURPRISE\"]/text"
 msgstr ""
+"Вы едва успеваете сделать шаг, как вокруг вас раздается пронзительный хохот, "
+"возникший из ниоткуда. Вы поворачиваетесь, ожидая увидеть его источник, но "
+"там тоже ничего нет. Хохот становится все громче и громче, как будто его "
+"развлекает ваша попытка, и наконец затихает. Вы остаетесь стоять на месте, "
+"тревожно настороженные, когда новый, незнакомый голос дает о себе знать:\n"
+"\t\n"
+"\t\"О... ТЫ весельчак, да? Повернись... еще раз, на этот раз сработает! "
+"Клянусь... клянусь!\"\n"
+"\t\n"
+"\tЭто определенно другой голос, не тот, с которым вы разговаривали. Он "
+"гораздо более высокий - почти раздражающий - и явно получает удовольствие от "
+"вашей растерянности."
 
 #: src-en/data/events_enlightened.xml:4588
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"DDENLIGHTENED_ECHOEDDREAM_QUEST_SURPRISE\"]/choice[1]/text"
-msgstr ""
+msgstr "Сохранять спокойствие."
 
 #: src-en/data/events_enlightened.xml:4590
 msgid ""
