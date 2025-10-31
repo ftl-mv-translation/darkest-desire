@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-31 15:20+0000\n"
+"PO-Revision-Date: 2025-10-31 20:12+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -6657,6 +6657,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DARKGOD_CURSED_BOOK\"]/choice[10]/event/choice[12]/event/choice[@req=\"DD_SIGILCOLLECTION_COMPLETE\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Эфирный свет трех печатей, теперь полностью восстановленных, согревает сам "
+"воздух вокруг вас."
 
 #: src-en/data/events_special_storage.xml.append:4366
 msgid ""
@@ -6750,16 +6752,26 @@ msgstr "Закрыть книгу."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/text"
 msgstr ""
+"Свет трех печатей кажется только усиливается, когда вы смотрите на них, и вы "
+"понимаете природу их силы - странные, эфирные кристаллы... они привели вас "
+"сюда, в этот момент.\n"
+"\t\n"
+"\tОднако на этот раз вы не чувствуете, что беспомощно поддаетесь их "
+"очарованию - вам кажется, что их великолепное сияние теперь танцует под вашу "
+"мелодию."
 
 #: src-en/data/events_special_storage.xml.append:4422
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/text"
-msgstr ""
+msgstr "Я... хочу увидеть некоторые ответы. Отведи меня к ним."
 
 #: src-en/data/events_special_storage.xml.append:4424
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/text"
 msgstr ""
+"Вы смотрите на чудесное, объединенное сияние печатей, прежде чем закрыть "
+"глаза по собственной воле. Возможно, в последний раз вы чувствуете, как все "
+"вокруг вас исчезает..."
 
 #: src-en/data/events_special_storage.xml.append:4426
 msgid ""
@@ -6780,76 +6792,101 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Ты же не собралась уйти, чтобы увидеться с большим парнем, не сказав ни "
+"слова, правда?"
 
 #: src-en/data/events_special_storage.xml.append:4435
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Четыре? Я... Я не хотел тебя беспокоить."
 
 #: src-en/data/events_special_storage.xml.append:4437
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ха! Будто исчезнуть без единого следа - это не заставило бы меня волноваться "
+"до самой смерти, Эв."
 
 #: src-en/data/events_special_storage.xml.append:4439
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Прости... Просто... я не хотела прощаться таким образом."
 
 #: src-en/data/events_special_storage.xml.append:4441
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это только временное прощание, верно? Держи голову высоко, мечтательница. "
+"Иначе все твои замечательные идеи могут вытечь из ушей."
 
 #: src-en/data/events_special_storage.xml.append:4443
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ммм... ты же знаешь, что у меня нет ушей, Четыре."
 
 #: src-en/data/events_special_storage.xml.append:4445
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Как будто это тебя остановит! Я уверена, что ты бы придумала пару, если бы "
+"захотела. Ты... никогда не позволяла ничему удерживать тебя надолго, "
+"понимаешь?"
 
 #: src-en/data/events_special_storage.xml.append:4447
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"...Ты не должна притворяться, что тебе все легко дается, ты же знаешь. Я "
+"знаю, что прошу многого от всех, но... особенно от тебя, учитывая то, как "
+"она..."
 
 #: src-en/data/events_special_storage.xml.append:4449
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Эй! Эй, эй, эй - не беспокойся обо мне, ладно? Или о других. Будет нелегко "
+"объяснить им это, но... Я знаю, что мы все доверяем тебе, Эв. И это не "
+"потому, что я была создана, чтобы так чувствовать!"
 
 #: src-en/data/events_special_storage.xml.append:4451
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Но... ты же так чувствуешь, нет? Разве это не... разбивает сердце?"
 
 #: src-en/data/events_special_storage.xml.append:4453
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Конечно, да. Конечно! Но ты думаешь, это потому, что я была СОЗДАНА, чтобы "
+"так чувствовать? Я люблю тебя, Эвелин. И это не потому, что твое другое \"я\""
+" мечтало о какой-то чертовой штуке, понятно? Ты... чудесная девушка, и "
+"внутри, и снаружи."
 
 #: src-en/data/events_special_storage.xml.append:4455
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Четыре, я..."
 
 #: src-en/data/events_special_storage.xml.append:4457
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Ты не должна ничего говорить об этом. Последнее, что я хочу сейчас, это "
+"чтобы ты сомневалась, прямо перед тем, как справиться с этим большим парнем. "
+"Я просто хочу, чтобы ты знала... мы еще увидимся, слышишь? Я верю в твои "
+"мечты больше, чем в что-либо другое, Эв."
 
 #: src-en/data/events_special_storage.xml.append:4459
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Мы увидимся, Четыре. Я... я обещаю тебе, ладно? Что бы ни случилось, что бы "
+"ни сказала эта проклятая машина... мы снова увидимся. Все мы."
 
 #: src-en/data/events_special_storage.xml.append:4461
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "Это правда! А теперь иди туда и покажи... это..."
 
 #: src-en/data/events_special_storage.xml.append:4463
 msgid ""
@@ -6870,21 +6907,52 @@ msgstr "..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"В мгновение ока ваш разум отрывается от этой незнакомой беседы, и вас тепло "
+"встречает медленная череда видений.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотого "
+"кристаллина. Жрицу. Первую, кто угасла.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотого энджи. "
+"Подмастерье. Вторую, кто погибла.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотую ракушку. "
+"Изобретательницу. Третью, кто страдает.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотого "
+"человека. Меткого стрелка. Четвертую, кто будет скорбеть.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотого "
+"богомола. Стратега. Пятую, кто сломалась.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите золотую "
+"глубоководную. Воительницу. Шестую, кто истекла кровью.\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы видите темную "
+"металлическую форму. Мечтательница. Седьмая и последняя, кто остался в живых."
+"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tИ, наконец... корабль. Его "
+"корпус черный, наполненный мечтами о золоте, с единственным позолоченным "
+"глазом. На его борту то, что осталось от снайпера, блуждает по холодной "
+"пустоте... навсегда одинокой в этой огромной Мультивселенной."
 
 #: src-en/data/events_special_storage.xml.append:4490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Сохранить в памяти это последнее видение."
 
 #: src-en/data/events_special_storage.xml.append:4492
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы запечатлеваете в памяти образ этого судна и бережно храните его в сердце. "
+"Вы не хотите забыть то, что здесь увидели."
 
 #: src-en/data/events_special_storage.xml.append:4497
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"DD_ECHOEDDREAM_QUEST_FINALE\"]/choice[@req=\"pilot\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вернуться к нормальной жизни, оставив это воспоминание позади."
 
 #: src-en/data/events_special_storage.xml.append:4499
 msgid ""
