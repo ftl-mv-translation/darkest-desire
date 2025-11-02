@@ -1,0 +1,67 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src-en/data/events_special_main.xml.append:23
+msgid ""
+"data/events_special_main.xml.append$//mod-"
+"append:backgroundObject[@name=\"DDOTHERWORLDLY_TOME_ISHERE\"]/tooltip"
+msgstr "Un livre sur une caisse."
+
+#: src-en/data/events_special_main.xml.append:32
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/text"
+msgstr ""
+"Votre attention est attirée par un étrange livre, posé sur une caisse. "
+"L'homme humain à côté semble indifférent à votre présence, d'une manière "
+"presque troublante, alors que vous tendez la main et saisissez le tome. Dans"
+" ses pages usées se trouvent des rangées infinies de runes et de diagrammes "
+"lumineux, et, bien que leurs significations vous soient complètement "
+"étrangères, vous ressentez un sentiment de compréhension en les "
+"parcourant... ce livre a été laissé ici, pour vous. Comme vous l'avez "
+"désiré."
+
+#: src-en/data/events_special_main.xml.append:34
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:36
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and @lvl=\"0\"]/event/text"
+msgstr ""
+"En l'apportant avec vous au vaisseau, vous trouvez un coin sombre et "
+"tranquille pour y déposer le livre. Vous n'êtes pas sûr de son but exact, ni"
+" pourquoi vous vous êtes senti si attiré par lui au départ, mais il est à "
+"vous maintenant."
+
+#: src-en/data/events_special_main.xml.append:43
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/text"
+msgstr ""
+
+#: src-en/data/events_special_main.xml.append:45
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/event/text"
+msgstr ""
+"En l'apportant avec vous au vaisseau, vous réalisez qu'il y a déjà un livre "
+"identique ici. Alors que vous vous grattez la tête, un trou de ver s'ouvre "
+"au-dessus de votre main — il se referme aussi soudainement qu'il est apparu,"
+" et vous réalisez que le second livre vous a été pris ! Avant que vous ne "
+"puissiez vous opposer aux caprices de cet arracheur de tome inconnaissable, "
+"un second trou de ver s'ouvre. De là trébuche un humain, son corps drapé de "
+"haillons déchirés et son visage dénué de toute expression. En effet, ses "
+"yeux sont pratiquement vitreux... cela fera l'affaire, supposez-vous."
+
+#: src-en/data/events_special_main.xml.append:48
+msgid ""
+"data/events_special_main.xml.append$//event[@name=\"DDOTHERWORLDLY_TOME_CLICKED\"]/choice[@req=\"DARKGOD_CURSED_BOOK\""
+" and not(@lvl)]/event/crewMember"
+msgstr "Consolation"
