@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-04 15:52+0000\n"
+"PO-Revision-Date: 2025-11-05 01:00+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -833,7 +833,7 @@ msgstr ""
 "\tПИЯВКА: МУТАГЕН ЯДОВИДОЙ ПЛОТИ\n"
 "\tОРХИДЕЯ: МУТАГЕН ЛИСТОНОСЦА\n"
 "\tВАЛУН: МУТАГЕН ПЕПЕЛЬНОЙ КОРЫ\n"
-"\tРАКУШКА: ОБОЛОЧКА ДУШИ"
+"\tРАКУШКА: МУТАГЕН ОБОЛОЧКИ ДУШИ"
 
 #: src-en/data/events_special_storage.xml.append:550
 msgid ""
@@ -864,9 +864,14 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_AUG_DDPALEHEARTINVESTIGATION\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
 msgstr ""
-"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как тело медленно погружается в извивающиеся лозы. Спустя какое-то время из желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете ее в флакон, понимая: это - мутаген морозного дерева, за который вы пожертвовали своим членом экипажа.\n"
+"...и вот, все окончено. Вы бросаете его в Бледное Сердце и наблюдаете, как "
+"тело медленно погружается в извивающиеся лозы. Спустя какое-то время из "
+"желез, прикрепленных к Сердцу, начинает сочиться голубая слизь. Вы собираете "
+"ее в флакон, понимая: это - мутаген Морозного дерева, за который вы "
+"пожертвовали своим членом экипажа.\n"
 "\t\t\t\t\t\n"
-"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’дритка в любое время через кнопку склада на корабле."
+"\t\t\t\t\tПолученный мутаген можно применить к не мутировавшим статуям Ил’"
+"дритка в любое время через кнопку склада на корабле."
 
 #: src-en/data/events_special_storage.xml.append:569
 msgid ""
@@ -9069,6 +9074,10 @@ msgstr "Мутация оболочки души."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHK_RAINBOWMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[7]/event/text"
 msgstr ""
+"Вы выливаете мутаген на статую Илл’дритков и наблюдаете, как она мутирует... "
+"ее кожа приобретает темный фиолетовый оттенок, а руки удлиняются, "
+"превращаясь в многоцветные щупальцеобразные отростки. В конце концов мутация "
+"прекращается, и вы слышите легкое гудение, исходящее изнутри."
 
 #: src-en/data/events_special_storage.xml.append:5762
 msgid ""
@@ -9220,12 +9229,16 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_storage.xml.append:5858
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHKMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[7]/text"
-msgstr ""
+msgstr "(Мутаген души) Применить флакон мутагена Оболочки души."
 
 #: src-en/data/events_special_storage.xml.append:5860
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHKMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[7]/event/text"
 msgstr ""
+"Вы выливаете мутаген на статую Илл’дритков и наблюдаете, как она мутирует... "
+"ее кожа приобретает темный фиолетовый оттенок, а руки удлиняются, "
+"превращаясь в многоцветные щупальцеобразные отростки. В конце концов мутация "
+"прекращается, и вы слышите легкое гудение, исходящее изнутри."
 
 #: src-en/data/events_special_storage.xml.append:5864
 msgid ""
@@ -11767,6 +11780,8 @@ msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_DEEPBREATH\"]/choice[@req=\"EX_LAB_DEEPONE_DEEPBREATH\""
 " and @lvl=\"1\"]/text"
 msgstr ""
+"Вы не можете установить эту модификацию лаборатории, так как у вас все еще "
+"установлена внешняя версия."
 
 #: src-en/data/events_special_storage.xml.append:7430
 msgid ""
