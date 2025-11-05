@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-05 01:00+0000\n"
+"PO-Revision-Date: 2025-11-05 22:54+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -4612,17 +4612,26 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22215
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINEBROODMOTHERTOG_DEFEND\"]/title"
-msgstr ""
+msgstr "Кристаллическая матка [Противопехотный]"
 
 #: src-en/data/blueprints.xml.append:22216
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINEBROODMOTHERTOG_DEFEND\"]/short"
-msgstr ""
+msgstr "Крист. матка [П]"
 
 #: src-en/data/blueprints.xml.append:22217
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDISPARITY_CRYSTALLINEBROODMOTHERTOG_DEFEND\"]/desc"
 msgstr ""
+"[ТЕКУЩИЙ РЕЖИМ: Противопехотный] Из оболочки этого дрона из Теневого "
+"кристалла доносится адский гул. В отличие от базовой версии, он может "
+"проходить сквозь двери и дополнительно вызывает изоляцию Теневого кристалла "
+"каждый раз, когда появляется Голодная тень.\n"
+"    \n"
+"-175 ОЗ, не может атаковать или саботировать\n"
+"-0.8x скорость передвижения\n"
+"-Каждые 4 секунды порождает Голодную тень, которая живет 21 секунду и "
+"вызывает изоляцию Теневого кристалла."
 
 #: src-en/data/blueprints.xml.append:22232
 msgid ""
