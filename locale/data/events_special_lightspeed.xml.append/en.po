@@ -301,10 +301,10 @@ msgstr "(Human Sacrifice) Sacrifice one of your prepared human lives."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
-"Your human sacrifice doesn't so much as stir as you sink a dagger in their "
-"chest. Their blood spills out, some of it directly onto your hands, and you "
-"remark that it feels oddly cold... but it doesn't matter. The sacrifice has "
-"been made."
+"Your human sacrifice doesn't so much as stir as you sink a dagger into their"
+" chest. Their blood spills out, some of it directly onto your hands, and you"
+" remark that it feels oddly cold... but it doesn't matter. The sacrifice has"
+" been made."
 
 #: src-en/data/events_special_lightspeed.xml.append:265
 msgid ""
@@ -586,7 +586,7 @@ msgstr ""
 "had a mind of its own. It's not pain that you feel, though, as it burrows "
 "itself deeper, and deeper, and blood begins to spill forth from the "
 "resulting wound... but a sense of total understanding. You are okay, as long"
-" as you merely reaize your desire..."
+" as you merely realize your desire..."
 
 #: src-en/data/events_special_lightspeed.xml.append:402
 msgid ""
@@ -1603,12 +1603,12 @@ msgstr "Read the text."
 
 #: src-en/data/events_special_lightspeed.xml.append:1030
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr "(Enlightened Crew) Perform an Enlightened ritual."
 
 #: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "You flip through the Otherworldly Tome's pages, eventually landing on the "
 "text scribed in a glistening yellow. In it, the procedures for proving "
@@ -1617,53 +1617,53 @@ msgstr ""
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
 msgstr "Perform the Ritual of Divine Devotion."
 
 #: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, the yellow "
 "text within the Otherworldly Tome twists and shifts..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1038
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/choice/text"
 msgstr "Read the text."
 
 #: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
 msgstr "Perform the Ritual of Blessed Gifts."
 
 #: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, you feel as"
 " a warmth sprouts in your chest and blossoms into a raging inferno..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1048
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/choice/text"
 msgstr "Focus on that heat."
 
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
 msgstr "Perform the ritual described by the loose page."
 
 #: src-en/data/events_special_lightspeed.xml.append:1056
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
 msgstr ""
 "With the sacrifice having been made, and with your desire known, an "
 "uncomfortable, disembodied laughter fills the air around you..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1058
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/choice/text"
 msgstr "Read the text."
 
 #: src-en/data/events_special_lightspeed.xml.append:1066

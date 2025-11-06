@@ -1,17 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-19 13:20+0000\n"
-"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
-"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
-"dataevents_special_lightspeedxmlappend/ru/>\n"
-"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:3
 msgid ""
@@ -1612,12 +1604,12 @@ msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1030
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr "(Член экипажа-Просветленный) Провести ритуал Просветленного."
 
 #: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, написанном сверкающим желтым шрифтом. В нем "
@@ -1627,53 +1619,53 @@ msgstr ""
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
 msgstr "Провести ритуал Божественного посвящения."
 
 #: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
 msgstr ""
 "Когда жертва принесена, а ваше желание известно, желтый текст в "
 "Потустороннем фолианте искажается и меняется..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1038
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/choice/text"
 msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
 msgstr "Провести ритуал Благословенных даров."
 
 #: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
 msgstr ""
 "Когда жертва принесена, а ваше желание известно, вы чувствуете, как в груди "
 "возникает тепло и перерастает в бушующее пламя..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1048
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/choice/text"
 msgstr "Сосредоточиться на этом тепле."
 
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
 msgstr "Провести ритуал, описанный на выпавшей странице."
 
 #: src-en/data/events_special_lightspeed.xml.append:1056
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
 msgstr ""
-"После того, как жертва была принесена, и ваше желание стало известно, вокруг "
-"вас раздается неприятный, бесплотный смех..."
+"После того, как жертва была принесена, и ваше желание стало известно, вокруг"
+" вас раздается неприятный, бесплотный смех..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1058
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/choice/text"
 msgstr "Прочитать текст."
 
 #: src-en/data/events_special_lightspeed.xml.append:1066
@@ -1784,8 +1776,8 @@ msgid ""
 msgstr ""
 "Вы перелистываете страницы Потустороннего фолианта и в конце концов "
 "останавливаетесь на тексте, начертанном электрическим синим цветом. В нем "
-"описаны процедуры вызова порождений Бури и их пленения, в дополнение к более "
-"туманному ритуалу - любезно предоставленному одной из странных, выпавших "
+"описаны процедуры вызова порождений Бури и их пленения, в дополнение к более"
+" туманному ритуалу - любезно предоставленному одной из странных, выпавших "
 "страниц Потустороннего фолианта."
 
 #: src-en/data/events_special_lightspeed.xml.append:1123
