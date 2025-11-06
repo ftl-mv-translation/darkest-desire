@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 20:27+0000\n"
+"PO-Revision-Date: 2025-11-07 00:04+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -1832,7 +1832,7 @@ msgstr "(Клетчатая маска) Поменять маску вашего
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cloud\"]/text"
-msgstr "(Облачная маска) Поменять маску вашего Облачного Формотворца."
+msgstr "(Затуманненная маска) Поменять маску вашего Затуманенного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1199
 msgid ""
@@ -1847,7 +1847,7 @@ msgstr "(Маска судьи) Поменять маску вашего Суд�
 #: src-en/data/events_special_storage.xml.append:1207
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_plague\"]/text"
-msgstr "(Маска прокаженного) Поменять маску вашего Прокаженного Формотворца."
+msgstr "(Чумная маска) Поменять маску вашего Чумного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1211
 msgid ""
@@ -1878,15 +1878,15 @@ msgstr "На какую маску вы хотели бы сменить Кле�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:1231
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1234
 msgid ""
@@ -1898,7 +1898,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:1244
 msgid ""
@@ -1956,15 +1956,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:1276
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1279
 msgid ""
@@ -1976,7 +1976,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:1289
 msgid ""
@@ -2012,7 +2012,7 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1310
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Облачную маску?"
+msgstr "На какую маску вы хотели бы сменить Затуманенную маску?"
 
 #: src-en/data/events_special_storage.xml.append:1312
 msgid ""
@@ -2096,15 +2096,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:1359
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1362
 msgid ""
@@ -2116,7 +2116,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:1372
 msgid ""
@@ -2184,15 +2184,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:1412
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1415
 msgid ""
@@ -2204,7 +2204,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:1425
 msgid ""
@@ -2236,15 +2236,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:1442
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1445
 msgid ""
@@ -2256,7 +2256,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:1455
 msgid ""
@@ -2324,15 +2324,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:1495
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1498
 msgid ""
@@ -2344,7 +2344,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:1508
 msgid ""
@@ -2376,15 +2376,15 @@ msgstr "Сменить на Потемневшую маску."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:1525
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1528
 msgid ""
@@ -2396,7 +2396,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:1538
 msgid ""
@@ -2432,7 +2432,7 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:1559
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Маску прокаженного?"
+msgstr "На какую маску вы хотели бы сменить Чумную маску?"
 
 #: src-en/data/events_special_storage.xml.append:1561
 msgid ""
@@ -2464,15 +2464,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:1578
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1581
 msgid ""
@@ -2484,7 +2484,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:1591
 msgid ""
@@ -2604,15 +2604,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:1661
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1664
 msgid ""
@@ -2624,7 +2624,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:1674
 msgid ""
@@ -2682,15 +2682,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:1706
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1709
 msgid ""
@@ -2702,7 +2702,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:1719
 msgid ""
@@ -10021,7 +10021,7 @@ msgstr "(Клетчатая маска) Поменять маску вашего
 #: src-en/data/events_special_storage.xml.append:6377
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cloud\"]/text"
-msgstr "(Облачная маска) Поменять маску вашего Облачного Формотворца."
+msgstr "(Затуманненная маска) Поменять маску вашего Затуманенного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6381
 msgid ""
@@ -10036,7 +10036,7 @@ msgstr "(Маска судьи) Поменять маску вашего Суд�
 #: src-en/data/events_special_storage.xml.append:6389
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_plague\"]/text"
-msgstr "(Маска прокаженного) Поменять маску вашего Прокаженного Формотворца."
+msgstr "(Чумная маска) Поменять маску вашего Чумного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6393
 msgid ""
@@ -10057,15 +10057,15 @@ msgstr "На какую маску вы хотели бы сменить Кле�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:6407
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6410
 msgid ""
@@ -10077,7 +10077,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:6420
 msgid ""
@@ -10135,15 +10135,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:6452
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6455
 msgid ""
@@ -10155,7 +10155,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:6465
 msgid ""
@@ -10191,7 +10191,7 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6486
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Облачную маску?"
+msgstr "На какую маску вы хотели бы сменить Затуманенную маску?"
 
 #: src-en/data/events_special_storage.xml.append:6488
 msgid ""
@@ -10275,15 +10275,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:6535
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6538
 msgid ""
@@ -10295,7 +10295,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:6548
 msgid ""
@@ -10363,15 +10363,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:6588
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6591
 msgid ""
@@ -10383,7 +10383,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:6601
 msgid ""
@@ -10415,15 +10415,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:6618
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6621
 msgid ""
@@ -10435,7 +10435,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:6631
 msgid ""
@@ -10503,15 +10503,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:6671
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6674
 msgid ""
@@ -10523,7 +10523,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:6684
 msgid ""
@@ -10555,15 +10555,15 @@ msgstr "Сменить на Потемневшую маску."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:6701
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6704
 msgid ""
@@ -10575,7 +10575,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:6714
 msgid ""
@@ -10611,7 +10611,7 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6735
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Маску прокаженного?"
+msgstr "На какую маску вы хотели бы сменить Чумную маску?"
 
 #: src-en/data/events_special_storage.xml.append:6737
 msgid ""
@@ -10643,15 +10643,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:6754
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6757
 msgid ""
@@ -10663,7 +10663,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:6767
 msgid ""
@@ -10783,15 +10783,15 @@ msgstr "У вас нет Клетчатой маски."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Облачную маску."
+msgstr "Сменить на Затуманенную маску."
 
 #: src-en/data/events_special_storage.xml.append:6837
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Облачной маски и становится отражением ее "
-"электризующей энергии..."
+"Ваш Формотворец черпает силу из Затуманенной маски и становится отражением "
+"ее электризующей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6840
 msgid ""
@@ -10803,7 +10803,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Облачной маски."
+msgstr "У вас нет Затуманенной маски."
 
 #: src-en/data/events_special_storage.xml.append:6850
 msgid ""
@@ -10861,15 +10861,15 @@ msgstr "У вас нет Маски судьи."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Маску прокаженного."
+msgstr "Сменить на Чумную маску."
 
 #: src-en/data/events_special_storage.xml.append:6882
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Маски прокаженного и становится отражением "
-"ее болезненной энергии..."
+"Ваш Формотворец черпает силу из Чумной маски и становится отражением ее "
+"болезненной энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6885
 msgid ""
@@ -10881,7 +10881,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Маски прокаженного."
+msgstr "У вас нет Чумной маски."
 
 #: src-en/data/events_special_storage.xml.append:6895
 msgid ""
