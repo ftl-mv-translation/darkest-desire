@@ -1,9 +1,17 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-06 20:27+0000\n"
+"Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
+"Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_ddritualsxml/ru/>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_ddrituals.xml:4
 msgid ""
@@ -5261,6 +5269,13 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_FLASH_OF_CHAOS\"]/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Когда вы понимаете, что у вас нет способа эффективно превзойти регенерацию "
+"Темного обелиска, рядом с вами открывается разлом в пространстве. Из него "
+"выходит ни кто иной, как мутировавшая статуя Илл’дритков!\n"
+"\t\t\t\n"
+"\t\t\tХотя ее пустой взгляд несколько беспокоит вас, вы понимаете, зачем она "
+"здесь - Темный Бог верит, что вы сможете доказать, что достойны его милости. "
+"Не разочаруйте его."
 
 #: src-en/data/events_special_ddrituals.xml:3778
 msgid ""
@@ -5516,6 +5531,13 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_SIDE_EFFECT_STRIKES_LIST_SHIMMERING_SWARM\"]/text"
 msgstr ""
+"Когда вы готовитесь к сражению, по всему кораблю раздается сигнал тревоги... "
+"ситуация усложнилась.\n"
+"\t\n"
+"\tПОБОЧНЫЙ ЭФФЕКТ РИТУАЛА: МЕРЦАЮЩИЙ РОЙ\n"
+"\tСерия влажных, скользящих звуков и звонких перезвонов превращает весь "
+"звуковой фон в диссонансный хаос, и вы понимаете, что Кристаллическая матка "
+"и ее прожорливая орда уже настигли вас!"
 
 #: src-en/data/events_special_ddrituals.xml:4021
 msgid ""
@@ -5571,26 +5593,35 @@ msgstr "Исследовать."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/text"
 msgstr ""
+"Звук сзади заставляет вас вздрогнуть, и вы поворачиваетесь - перед вами "
+"стоит ни кто иной, как единственная человеческая жертва. Вы уже собираетесь "
+"списать это на таинственные пути Темного Бога, когда в вашей голове "
+"раздаётся незнакомый голос:\n"
+"\t\t\t\n"
+"\t\t\t\"О... тебе не везет, чудак? Ищешь... немного большего?\""
 
 #: src-en/data/events_special_ddrituals.xml:4059
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "Я слушаю..."
 
 #: src-en/data/events_special_ddrituals.xml:4061
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/text"
 msgstr ""
+"\"О... так и есть, не так ли? Просто... собери для меня кое-что, тогда... "
+"как тебе такая идея, ммм, слушающий?\" Голос продолжает смеяться, пока вы "
+"размышляете над его слепой сделкой..."
 
 #: src-en/data/events_special_ddrituals.xml:4063
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "Собрать \"кое-что\", как просит странный голос."
 
 #: src-en/data/events_special_ddrituals.xml:4065
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "Зловещий смех раздается по всей комнате вокруг вас..."
 
 #: src-en/data/events_special_ddrituals.xml:4070
 msgid ""
@@ -5601,26 +5632,35 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"...затем раздается грохот, ваш лом исчезает, и появляется Нестабильная душа -"
+" прямо рядом с вашей новой жертвой."
 
 #: src-en/data/events_special_ddrituals.xml:4075
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вау, э-э... спасибо?"
 
 #: src-en/data/events_special_ddrituals.xml:4077
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"\"О... великодушный. Это тебе я... должен быть благодарен\". Вокруг вас на "
+"мгновение раздается громкий смех, когда появляется вторая Нестабильная душа, "
+"а затем внезапно все затихает. Голос, похоже, исчез... но вы получили "
+"вознаграждение за сделку."
 
 #: src-en/data/events_special_ddrituals.xml:4086
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "Отказаться от сделки."
 
 #: src-en/data/events_special_ddrituals.xml:4088
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_THEHUNT_ONEHUMAN_ANDUNSTABLESOULS\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"Вместо слов слышны лишь новый смех от владельца тревожного голоса... В конце "
+"концов, он затихает, и остаток времени, пока вы ждете, когда зарядится ССД, "
+"проходит, к счастью, без происшествий."
 
 #: src-en/data/events_special_ddrituals.xml:4101
 msgid ""
@@ -5882,7 +5922,7 @@ msgstr ""
 "Вы отдаете пиратам последнюю порцию лома, и, действительно, они присылают "
 "взамен последнего раба-человека. Вы подслушиваете их разговор: \"Эти "
 "фанатики - просто золото! Мы никогда не видели такого спроса! Мы могли бы "
-"еще снизить цены - все равно бы оказались в плюсе!\" Значит, Тёмный Бог "
+"еще снизить цены - все равно бы оказались в плюсе!\" Значит, Темный Бог "
 "часто направляет своих последователей в эти края... любопытно."
 
 #: src-en/data/events_special_ddrituals.xml:4284
@@ -7810,6 +7850,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_DEEPONE_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5654
 msgid ""
@@ -7885,6 +7927,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_ENLIGHTENED_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5717
 msgid ""
@@ -7960,6 +8004,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_DISPARITY_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5780
 msgid ""
@@ -8035,6 +8081,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_SOULPLAGUE_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5843
 msgid ""
@@ -8110,6 +8158,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_ILLDRYTHK_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5906
 msgid ""
@@ -8141,6 +8191,8 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5924
 msgid ""
@@ -8250,6 +8302,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_HUSKWEAVER_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:5996
 msgid ""
@@ -8288,6 +8342,8 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text[2]"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6015
 msgid ""
@@ -8398,6 +8454,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_CHOSEN_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6103
 msgid ""
@@ -8429,6 +8487,8 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_CHOSEN_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6121
 msgid ""
@@ -8537,6 +8597,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_TEMPEST_FIGHT_WIN\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6203
 msgid ""
@@ -8568,6 +8630,8 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_TEMPEST_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6221
 msgid ""
@@ -8669,6 +8733,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_RESTLESSSPIRITS_FALSERADIANCE_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"После победы над кораблем ваша награда от Темного Бога материализуется в "
+"трюме - в виде безжизненной, парящей фигуры с почти прозрачным телом..."
 
 #: src-en/data/events_special_ddrituals.xml:6285
 msgid ""
@@ -18985,7 +19051,7 @@ msgstr "Открыть гроб."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CRYSTALOFMARTYRDOM_GRAVEYARDOFDRAGONS\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"Изнутри гроба расцветает лес, ветви деревьев тянутся к небу, и раздаётся "
+"Изнутри гроба расцветает лес, ветви деревьев тянутся к небу, и раздается "
 "хаотичный гул. Вот оно... жизнь рождает смерть. Пока реальность разрывается "
 "на части, и вы становитесь свидетелем гибели жизни, вы в последний раз "
 "тянетесь к своему ожерелью. Это простое украшение - нить, обвязанная вокруг "
@@ -19741,7 +19807,7 @@ msgstr "Продолжить..."
 #: src-en/data/events_special_ddrituals.xml:12240
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKCALLING_FIRST_REWARD_LIST_RESTLESSSPIRITS\"]/text"
-msgstr ""
+msgstr "...ужасная фигура, извивающаяся от потенциала, и..."
 
 #: src-en/data/events_special_ddrituals.xml:12243
 msgid ""
@@ -19896,7 +19962,7 @@ msgstr "...еще одна, каким-то образом."
 #: src-en/data/events_special_ddrituals.xml:12364
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_DARKCALLING_SECOND_REWARD_LIST_RESTLESSSPIRITS\"]/text"
-msgstr ""
+msgstr "...ужасная фигура, извивающаяся от потенциала, и..."
 
 #: src-en/data/events_special_ddrituals.xml:12367
 msgid ""
@@ -31993,6 +32059,8 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//ship[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT\"]/destroyed/text"
 msgstr ""
+"Корабль Диссонанса разрушается, и вы не можете не почувствовать чувство "
+"утраты..."
 
 #: src-en/data/events_special_ddrituals.xml:20036
 msgid ""
@@ -32003,6 +32071,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//ship[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT\"]/deadCrew/text"
 msgstr ""
+"Корабль Диссонанса опустел, и вы не можете не почувствовать чувство утраты..."
 
 #: src-en/data/events_special_ddrituals.xml:20044
 msgid ""
@@ -32013,26 +32082,46 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/text"
 msgstr ""
+"Однако, когда у вас появляется возможность перевести дух, вас охватывает "
+"другое чувство - замешательство. Дроны, которые использовала элита "
+"Диссонанса, отличались от обычных... В отличие от обычных темных "
+"металлических дронов, эти были полностью покрыты теми же Теневыми "
+"кристаллами, из которых состоит таинственная броня корпуса Диссонанса."
 
 #: src-en/data/events_special_ddrituals.xml:20053
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/text"
-msgstr ""
+msgstr "Осмотреть то, что осталось от странных дронов."
 
 #: src-en/data/events_special_ddrituals.xml:20055
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"К счастью, среди обломков осталось достаточно дронов, чтобы можно было их "
+"лучше рассмотреть...\n"
+"\t\t\t\n"
+"\t\t\t...так вы думали, пока не коснулись одного из них, и он мгновенно "
+"разлетелся на куски, а вместе с ним и его мерцающая оболочка. Один из "
+"образовавшихся летящих осколков Теневого кристалла задевает вашу руку, и вы "
+"видите, как на вашей коже образуется похожая кристаллическая структура... "
+"именно в том месте, где произошел контакт. Это относительно безвредно и "
+"легко удаляется с помощью специальных инструментов, но это также дает вам "
+"идею: а что, если использовать их для покрытия ваших собственных дронов "
+"Диссонанса?"
 
 #: src-en/data/events_special_ddrituals.xml:20059
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_LIBERATORTOG_DEFEND\"]/text"
 msgstr ""
+"(Дрон \"Освободитель\") Попытаться заключить своего Освободителя в Теневые "
+"кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20061
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_LIBERATORTOG_DEFEND\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20064
 msgid ""
@@ -32054,11 +32143,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_LIBERATORTOG_BOARDER\"]/text"
 msgstr ""
+"(Дрон \"Освободитель\") Попытаться заключить своего Освободителя в Теневые "
+"кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20075
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_LIBERATORTOG_BOARDER\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20078
 msgid ""
@@ -32080,11 +32173,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_BROODMOTHERTOG_DEFEND\"]/text"
 msgstr ""
+"(Дрон \"Матка\") Попытаться заключить свою \"Матку\" в Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20089
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_BROODMOTHERTOG_DEFEND\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20092
 msgid ""
@@ -32106,11 +32202,14 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_BROODMOTHERTOG_BOARDER\"]/text"
 msgstr ""
+"(Дрон \"Матка\") Попытаться заключить свою \"Матку\" в Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20103
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DISPARITY_BROODMOTHERTOG_BOARDER\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20106
 msgid ""
@@ -32132,11 +32231,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_DEFAULT\"]/text"
 msgstr ""
+"(Дрон \"Администратор\") Попытаться заключить своего \"Администратора\" в "
+"Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20117
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_DEFAULT\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20120
 msgid ""
@@ -32158,11 +32261,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_SPEED\"]/text"
 msgstr ""
+"(Дрон \"Администратор\") Попытаться заключить своего \"Администратора\" в "
+"Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20131
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_SPEED\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20134
 msgid ""
@@ -32184,11 +32291,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_ATTACK\"]/text"
 msgstr ""
+"(Дрон \"Администратор\") Попытаться заключить своего \"Администратора\" в "
+"Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20145
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_ATTACK\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20148
 msgid ""
@@ -32210,11 +32321,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_DEFENSE\"]/text"
 msgstr ""
+"(Дрон \"Администратор\") Попытаться заключить своего \"Администратора\" в "
+"Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20159
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_DEFENSE\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20162
 msgid ""
@@ -32236,11 +32351,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_HAZARD\"]/text"
 msgstr ""
+"(Дрон \"Администратор\") Попытаться заключить своего \"Администратора\" в "
+"Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20173
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DDDISPARITY_ADMINISTRATOR_HAZARD\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20176
 msgid ""
@@ -32262,11 +32381,15 @@ msgstr ""
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DRONE_MINISHROUD\"]/text"
 msgstr ""
+"(Надвигающийся теневой дрон) Попытаться заключить своего Надвигающегося "
+"теневого дрона в Теневые кристаллы."
 
 #: src-en/data/events_special_ddrituals.xml:20187
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[@req=\"DRONE_MINISHROUD\"]/event/text"
 msgstr ""
+"С некоторым трудом вы берете свой дрон и подносите его к куче разбитых "
+"Теневых кристаллов..."
 
 #: src-en/data/events_special_ddrituals.xml:20190
 msgid ""
@@ -32287,12 +32410,16 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:20199
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[11]/text"
-msgstr ""
+msgstr "Оставить обломки Теневого кристалла в покое."
 
 #: src-en/data/events_special_ddrituals.xml:20201
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT_FIGHT_WIN\"]/choice/event/choice[11]/event/text"
 msgstr ""
+"Независимо от того, интересует ли вас потенциал этих осколков или у вас "
+"просто нет возможности безопасно их протестировать, вы решаете, что лучше "
+"оставить их в покое. Загадку результатов этого ритуала придется разгадать в "
+"другой раз."
 
 #: src-en/data/events_special_ddrituals.xml:20212
 msgid ""
@@ -32303,82 +32430,127 @@ msgstr "Ваш ритуал привел вас в это место."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/text"
 msgstr ""
+"Прибыв к маяку, вы попадаете в тень... Темный Бог ждал вашего прихода. "
+"Однако, похоже, что кто-то еще ждал вас - здесь, в темноте, находится "
+"корабль Диссонанса, который, судя по всему, не обеспокоен вашим внезапным "
+"появлением."
 
 #: src-en/data/events_special_ddrituals.xml:20218
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/text"
 msgstr ""
+"Может быть, они дружелюбны...? Диссонанс все братья по оружию, не так ли?"
 
 #: src-en/data/events_special_ddrituals.xml:20220
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/text"
 msgstr ""
+"Ваша логическая цепочка мыслей на мгновение ободряет вас, но затем так же "
+"быстро гаснет, когда корабль Диссонанса выходит на связь и подтверждает ваши "
+"худшие опасения: \"Братья? -Освободитель- тестирует: нас обоих. Мы не "
+"намерены: разочаровывать\"."
 
 #: src-en/data/events_special_ddrituals.xml:20222
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERNOSIDEEFFECT\"]/text"
-msgstr ""
+msgstr "(Голод) \"Т-т-тестирует...? Капитан, мы [НЕНАВИДИМ] т-т-т-есты!\""
 
 #: src-en/data/events_special_ddrituals.xml:20224
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERNOSIDEEFFECT\"]/event/text"
 msgstr ""
+"Несмотря на неодобрение своего лидера: его пурпурные модификации сменяются "
+"зелеными, а затем красными. \"Ты можешь отдохнуть: сейчас, Освободитель. "
+"-Новый- Освободитель толкает: нас вперед. Толкает: нас к эволюции. К "
+"выживанию. Мы не можем сказать: того же о тебе\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tЧто-то отравило типичное, полное надежды товарищество этой элиты "
+"Диссонанса и превратило их в нечто совершенно иное. В нечто более... "
+"злобное. Однако, несмотря на это, вы не намерены разочаровывать Темного Бога "
+"- если они хотят сражения, то они его получат! Братья или нет..."
 
 #: src-en/data/events_special_ddrituals.xml:20229
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERNOSIDEEFFECT\"]/event/choice/text"
-msgstr ""
+msgstr "Тогда нас ждет освобождение - к оружию, ребята!"
 
 #: src-en/data/events_special_ddrituals.xml:20235
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERYESSIDEEFFECT\"]/text"
-msgstr ""
+msgstr "(Голод) \"Т-т-тестирует...? Капитан, мы [НЕНАВИДИМ] т-т-т-есты!\""
 
 #: src-en/data/events_special_ddrituals.xml:20237
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERYESSIDEEFFECT\"]/event/text"
 msgstr ""
+"Несмотря на неодобрение своего лидера: его пурпурные модификации сменяются "
+"зелеными, а затем красными. \"Ты можешь отдохнуть: сейчас, Освободитель. "
+"-Новый- Освободитель толкает: нас вперед. Толкает: нас к эволюции. К "
+"выживанию. Мы не можем сказать: того же о тебе\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tЧто-то отравило типичное, полное надежды товарищество этой элиты "
+"Диссонанса и превратило их в нечто совершенно иное. В нечто более... "
+"злобное. Однако, несмотря на это, вы не намерены разочаровывать Темного Бога "
+"- если они хотят сражения, то они его получат! Братья или нет..."
 
 #: src-en/data/events_special_ddrituals.xml:20242
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"DD_CRYSTALLINECOMBAT_HUNGERYESSIDEEFFECT\"]/event/choice/text"
-msgstr ""
+msgstr "Тогда нас ждет освобождение - к оружию, ребята!"
 
 #: src-en/data/events_special_ddrituals.xml:20248
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Вы уверены? Может, это что-то вроде... ритуала объединения?"
 
 #: src-en/data/events_special_ddrituals.xml:20250
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Темные пурпурные модификации энджи сменяются зелеными, а затем красными. \"Я "
+"боюсь: нет. Освобождение достигается не через -общение-, а -через- действие. "
+"Действие и силу. Простите: нас, братья, ведь шанс на свободу доступен: "
+"только для одного из нас\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tЧто-то отравило типичное, полное надежды товарищество этой элиты "
+"Диссонанса и превратило их в нечто совершенно иное. В нечто более... "
+"злобное. Однако, несмотря на это, вы не намерены разочаровывать Темного Бога "
+"- если они хотят сражения, то они его получат! Братья или нет..."
 
 #: src-en/data/events_special_ddrituals.xml:20255
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "Тогда нас ждет освобождение - к оружию, ребята!"
 
 #: src-en/data/events_special_ddrituals.xml:20261
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Вы уверены? Может, это что-то вроде... ритуала объединения?"
 
 #: src-en/data/events_special_ddrituals.xml:20263
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Темные пурпурные модификации энджи сменяются зелеными, а затем красными. \"Я "
+"боюсь: нет. Освобождение достигается не через -общение-, а -через- действие. "
+"Действие и силу. Простите: нас, братья, ведь шанс на свободу доступен: "
+"только для одного из нас\".\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\tЧто-то отравило типичное, полное надежды товарищество этой элиты "
+"Диссонанса и превратило их в нечто совершенно иное. В нечто более... "
+"злобное. Однако, несмотря на это, вы не намерены разочаровывать Темного Бога "
+"- если они хотят сражения, то они его получат! Братья или нет..."
 
 #: src-en/data/events_special_ddrituals.xml:20268
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_CRYSTALLINECOMBAT\"]/choice/event/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "Наше освобождение ждет нас, так что - к оружию!"
 
 #: src-en/data/events_special_ddrituals.xml:20281
 msgid ""
@@ -32389,60 +32561,96 @@ msgstr "Ваш ритуал привел вас в это место."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/text"
 msgstr ""
+"Прибыв к маяку, вы попадаете в тень... Темный Бог ждал вашего прибытия. "
+"Однако у вас нет ни секунды, чтобы передохнуть, потому что ваш корабль почти "
+"врезается в что-то в космосе - какую-то невероятно огромную структуру, "
+"похожую на дерево, которая охватывает всю эту сторону маяка. Ее сотни "
+"ветвей, если их можно так назвать, простираются далеко за пределы того, что "
+"вы можете разглядеть в темноте."
 
 #: src-en/data/events_special_ddrituals.xml:20286
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "Смотреть на это дерево с благоговейным трепетом."
 
 #: src-en/data/events_special_ddrituals.xml:20288
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"Вы смотрите на могучее сооружение и вдруг с испугом вскакиваете со стула, "
+"понимая, что оно смотрит на вас в ответ. По крайней мере, вам так кажется. "
+"Немного выше вашего корабля вы можете разглядеть то, что, как вы "
+"предполагаете, является огромным глазом, выступающим из основного ствола "
+"дерева. Вскоре после этого открытия вы слышите глубокий женский голос, "
+"доносящийся из вашей головы:\n"
+"\t\t\t\n"
+"\t\t\t\"Что... привело вас сюда, путешественник?\""
 
 #: src-en/data/events_special_ddrituals.xml:20292
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/text"
 msgstr ""
+"Я, э-э... ну, я... я следовал по карте до этого места, в поисках какой-то "
+"награды."
 
 #: src-en/data/events_special_ddrituals.xml:20294
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"Зрачок колоссального глаза слегка сужается, и голос снова гремит:\n"
+"\t\t\t\t\t\n"
+"\t\t\t\t\t\"Так... вы. Как... и все. Это... она вас всех сюда послала? "
+"Кто... еще мог бы?\""
 
 #: src-en/data/events_special_ddrituals.xml:20298
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
 msgstr ""
+"Она...? Не думаю, нет - я просто следовал за какой-то странной, выпавшей "
+"страницей из моей, э-э... в общем-то совершенно нормальной книги."
 
 #: src-en/data/events_special_ddrituals.xml:20300
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
+"Теперь, расширяя зрачки, вы наблюдаете, как глаз отворачивается от вашего "
+"корабля и устремляется в темную бездну вокруг вас. Проходит мгновение, и вы "
+"снова слышите то, что, как вы предполагаете, являются мыслями дерева:\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\"Я... скучаю по ней. Она... теперь редко навещает меня. Но... "
+"в последний раз, когда она приходила... она сказала мне, что я могу доверять "
+"вам. Я... хотела бы довериться ее суждению. Даже... если я не могу доверять "
+"вашим словам\"."
 
 #: src-en/data/events_special_ddrituals.xml:20304
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Мне? Да, конечно!"
 
 #: src-en/data/events_special_ddrituals.xml:20306
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Наступает очень долгая пауза, пока дерево с невероятным усилием поворачивает "
+"свой огромный глаз:\n"
+"\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\"Да... вам. Все... вы. Те... кто приходит сюда. Те... "
+"кому она доверяет. Те... о ком она мечтала. Вы... действительно не помните "
+"ее?\""
 
 #: src-en/data/events_special_ddrituals.xml:20310
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "К сожалению, я не могу сказать, что знаю, о ком вы говорите."
 
 #: src-en/data/events_special_ddrituals.xml:20312
 msgid ""
@@ -32450,13 +32658,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вы чувствуете себя неловко, поскольку в воздухе снова висит тишина... но "
+"затем взгляд снова фокусируется на вашем корабле, и голос обращается к вам "
+"гораздо более успокаивающим тоном:\n"
+"\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\"Это... неважно. Я... никогда ее не забуду. Даже... "
+"если вы забудете. Даже... если она забудет меня. Я... помню ее обещание. "
+"Я... помню своих. Путник.. вы утверждаете, что ищете награду, да?\""
 
 #: src-en/data/events_special_ddrituals.xml:20316
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Ага. Я большой поклонник таких вещей."
 
 #: src-en/data/events_special_ddrituals.xml:20318
 msgid ""
@@ -32464,13 +32679,16 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вместо того, чтобы ответить словами, по огромной поверхности дерева начинает "
+"танцевать сияющая голубая аура, и вы видите, что корпус вашего корабля тоже "
+"светится. Похоже, она каким-то образом полностью восстановила ваш корпус!"
 
 #: src-en/data/events_special_ddrituals.xml:20321
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Вау, э-э... спасибо, лесная леди!"
 
 #: src-en/data/events_special_ddrituals.xml:20323
 msgid ""
@@ -32478,13 +32696,18 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Аура исчезает, и зрачок великого дерева снова становится пронзительным:\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Это... не было добротой. Просто... мера "
+"предосторожности. Я... не хотела бы несправедливо забить одного из ее "
+"подопечных. Ей... это бы не понравилось. И мне... тоже\"."
 
 #: src-en/data/events_special_ddrituals.xml:20327
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "О, ладно. Подождите, вы сказали \"забить\"?"
 
 #: src-en/data/events_special_ddrituals.xml:20329
 msgid ""
@@ -32492,25 +32715,43 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Могущественный глаз закрывается, и из тела дерева одним невероятно быстрым "
+"движением появляется выступ, во много раз превышающий размер вашего корабля, "
+"- он наносит вам удар и обвивается вокруг корпуса, не давая вам даже "
+"возможности среагировать. Затем вы слышите неприятный хруст, когда что-то "
+"проникает внутрь вашего корабля... Наконец, голос гремит в вашей голове, "
+"ясно давая понять свои намерения:\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\"Докажите... что вы достойны обещания, "
+"которое она дала. Докажите... что вы заслуживаете моей милости\".\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tЗатем он снова замолкает, и вы остаетесь "
+"наедине с звуками разрываемого на части вашего корабля - вам нужно "
+"разобраться с тем, что делает эта штука, и побыстрее!"
 
 #: src-en/data/events_special_ddrituals.xml:20339
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Что-то гудит изнутри стен вашего корабля..."
 
 #: src-en/data/events_special_ddrituals.xml:20360
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "Попытаться снова привлечь внимание дерева."
 
 #: src-en/data/events_special_ddrituals.xml:20362
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN\"]/choice[@req=\"dd_greattreedefeated\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"Несмотря на все ваши усилия сосредоточиться на этом или выстрелить в бок его "
+"ствола, огромное дерево не шевелится. Вы до сих пор не знаете, мертво ли оно "
+"или просто способно игнорировать ваши ничтожные попытки спровоцировать его, "
+"но факт остается фактом: повторный визит сюда, похоже, был ничем иным, как "
+"пустой тратой драгоценного времени."
 
 #: src-en/data/events_special_ddrituals.xml:20364
 msgid ""
@@ -32528,6 +32769,8 @@ msgstr "Ничего не делать."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_OHGODOHFUCK\"]/text"
 msgstr ""
+"Вы стараетесь как можно лучше среагировать на ситуацию, которая становится "
+"все более критической..."
 
 #: src-en/data/events_special_ddrituals.xml:20381
 msgid ""
@@ -32538,56 +32781,79 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_OHGODOHFUCK\"]/choice/event/text"
 msgstr ""
+"...но вы не успеете далеко улететь, как колоссальные корни, похожие на лозы, "
+"прорываются внутрь вашего корабля. Если вы не найдете способ остановить это "
+"безумие, то вас неизбежно разорвут на куски!"
 
 #: src-en/data/events_special_ddrituals.xml:20391
 msgid ""
 "data/events_special_ddrituals.xml$//triggeredEvent[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_OHGODOHFUCK_THEYRECOMINGOUTOFTHEWALLLLLS\"]/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "Что-то гудит изнутри стен вашего корабля..."
 
 #: src-en/data/events_special_ddrituals.xml:20400
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_OHGODOHFUCK_ITGETSEVENWORSE\"]/text"
 msgstr ""
+"Вокруг вас раздается пронзительная какофония шумов, которая становится все "
+"громче, а ситуация ухудшается... вам нужно торопиться!"
 
 #: src-en/data/events_special_ddrituals.xml:20405
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_OHGODOHFUCK_ITGETSEVENWORSE\"]/choice/text"
-msgstr ""
+msgstr "Поторопиться."
 
 #: src-en/data/events_special_ddrituals.xml:20411
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/text"
 msgstr ""
+"Основная часть корневидного нароста погибает, а остальные его отростки "
+"вскоре следуют его примеру - в том числе колоссальный, который разрывал ваш "
+"корабль извне. Вы... выжили, вопреки всему. Что теперь?"
 
 #: src-en/data/events_special_ddrituals.xml:20417
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/text"
-msgstr ""
+msgstr "Глубоко вздохнуть с облегчением. Это... было нечто."
 
 #: src-en/data/events_special_ddrituals.xml:20419
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/text"
 msgstr ""
+"Вы все еще измучены и пытаетесь отдышаться, когда глаз снаружи снова "
+"открывается. Вы сердито смотрите на него, и голос дерева снова проникает в "
+"ваш разум:\n"
+"\t\t\t\n"
+"\t\t\t\"Вы... достойны. Вы... заслуживаете этого. Она... была бы горда, зная "
+"об этом. Хотя... я подозреваю, что в глубине души она всегда это знала\"."
 
 #: src-en/data/events_special_ddrituals.xml:20423
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/text"
 msgstr ""
+"Да, ладно, конечно - чего я заслуживаю, конкретно? Вы только что заставили "
+"меня пройти через ад!"
 
 #: src-en/data/events_special_ddrituals.xml:20425
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"Как будто в ответ, из остатков растительности под вашими ногами прорастает "
+"что-то... какой-то осколок стекла или кристалла. Оно... прекрасно, что бы "
+"это ни было. Его великолепие окрашивает помещение вокруг вас в эфирное "
+"сияние, переливающееся всеми чудесными цветами спектра. Эта вещь... сама по "
+"себе является чистым великолепием."
 
 #: src-en/data/events_special_ddrituals.xml:20427
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Оно... действительно прекрасно."
 
 #: src-en/data/events_special_ddrituals.xml:20429
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Этот прекрасный, кристально чистый осколок... он там, под вашими ногами. Он "
+"зовет вас. Манит вас к себе, в свои объятия. Вам нужно только взять его..."
 
 #: src-en/data/events_special_ddrituals.xml:20431
 msgid ""
@@ -32620,56 +32886,86 @@ msgstr "..."
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Она действительно ушла, Четыре? Ты думаешь, что наше время здесь... будет "
+"мимолетным?"
 
 #: src-en/data/events_special_ddrituals.xml:20445
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Это лишь вопрос времени, когда Эв вернется к тому, что она всегда делала "
+"лучше всего. Мечтательница будет мечтать, Пятая."
 
 #: src-en/data/events_special_ddrituals.xml:20447
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Возможно, но... разве тебя не волнует вопрос о нашей судьбе? Что, если мы "
+"больше никогда не увидимся? Я не могу представить, что Седьмой разрешат "
+"скитаться, где ей вздумается - Его Святейшество, наверное, будет безутешен."
 
 #: src-en/data/events_special_ddrituals.xml:20449
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Думаю, нет ничего страшного в том, чтобы раскрыть план, правда? Эв "
+"заставляла меня писать эти странные инструкции. Я понятия не имею, для чего "
+"они нужны, но... она казалась уверенной, что они дойдут до кого-то очень "
+"важного. Кого-то, кто сможет помочь нам всем выбраться из этой проклятой "
+"передряги раз и навсегда."
 
 #: src-en/data/events_special_ddrituals.xml:20451
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Это... очень дилетантские рисунки, меткий стрелок! Даже мои когти не могли "
+"бы так... неряшливо водить карандашом по бумаге!"
 
 #: src-en/data/events_special_ddrituals.xml:20453
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Ха! Эй, если тебя это рассмешило, то они уже достигли своей цели. Это уже "
+"дает результат, не так ли?"
 
 #: src-en/data/events_special_ddrituals.xml:20455
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Действительно, хм? Надеюсь, что план Седьмой окажется более... плодотворным. "
+"Это шумное место, может, и не райское убежище, но мы всегда вместе "
+"переживали все его беды. Подумать только, что нам придется начинать все "
+"сначала, полностью разлученными..."
 
 #: src-en/data/events_special_ddrituals.xml:20457
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Мы же ничего не запомним, верно? По крайней мере, я... надеюсь, что нет. Я "
+"думаю, нам будет очень одиноко."
 
 #: src-en/data/events_special_ddrituals.xml:20459
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Тогда кто должен помнить, дорогой Четыре? Разве наше воссоединение не было "
+"бы... невозможным, если бы мы потеряли себя? Разве его смысл сохранил бы ту "
+"же ценность?"
 
 #: src-en/data/events_special_ddrituals.xml:20461
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
 msgstr ""
+"Я... не знаю, Пятая. Но Эв, похоже, все поняла. Думаю, я должен довериться "
+"ей, несмотря ни на что. Потому что, если я не могу доверять ей, кому же я "
+"МОГУ доверять?"
 
 #: src-en/data/events_special_ddrituals.xml:20463
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Доверяй ей, Четыре. Живи, защищая мечты Седьмой, и добивайся своих "
+"собственных, хорошо? Пока... ты..."
 
 #: src-en/data/events_special_ddrituals.xml:20465
 msgid ""
@@ -32708,31 +33004,52 @@ msgstr "Почувствовать всю болезненность этого 
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"\"Вы... видели ее, достойнейший? Это... стоило того?\"\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tВы открываете "
+"глаза, крича, а огромный глаз снаружи просто смотрит на вас, не мигая. "
+"\"Тогда... я сдержала свое обещание, не так ли? Она... просто должна "
+"сдержать свое\"."
 
 #: src-en/data/events_special_ddrituals.xml:20490
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Что это было, черт возьми? О чем ВЫ, черт возьми, говорите?"
 
 #: src-en/data/events_special_ddrituals.xml:20492
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Вместо слов, из-под ваших ног снова прорастает что-то маленькое... судя по "
+"всему, это семя. Вы на мгновение смотрите на него в замешательстве, а затем "
+"обращаете взгляд к глазу снаружи в поисках ответов, но он, похоже, уже "
+"закрылся."
 
 #: src-en/data/events_special_ddrituals.xml:20495
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Эй, погоди! Я еще не закончил с вами разговор!"
 
 #: src-en/data/events_special_ddrituals.xml:20497
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"Несмотря на все ваши усилия, существо снаружи никоим образом не реагирует на "
+"ваши попытки вступить с ним в контакт. Даже удары оружием оказываются "
+"совершенно бесполезными. Вы не знаете, исчезло ли оно или просто игнорирует "
+"вас, но... вам кажется, что это не имеет значения. Вы получили то, за чем "
+"пришли, пусть даже это и выглядит загадочным и слабым...\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tОднако вы "
+"чувствуете, что само семя - далеко не самая большая загадка, которая вас "
+"мучает. Куда делся тот манящий, похожий на сон осколок? А видения, которые "
+"он вам навеял... вы все еще чувствуете образ той странной, лазурный печати, "
+"запечатлевшейся в вашем сознании..."
 
 #: src-en/data/events_special_ddrituals.xml:20501
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_PLANTSHOWDOWN_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "Однажды... я получу ответы. Запомни мои слова, Темный Бог."
 
 #: src-en/data/events_special_ddrituals.xml:20540
 msgid ""
