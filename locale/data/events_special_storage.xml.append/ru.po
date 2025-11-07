@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 00:04+0000\n"
+"PO-Revision-Date: 2025-11-07 01:45+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "dataevents_special_storagexmlappend/ru/>\n"
@@ -1827,7 +1827,7 @@ msgstr "Маску какого Формотворца вы хотите пом�
 #: src-en/data/events_special_storage.xml.append:1191
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cage\"]/text"
-msgstr "(Клетчатая маска) Поменять маску вашего Клетчатого Формотворца."
+msgstr "(Клеточная маска) Поменять маску вашего Клеточного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:1195
 msgid ""
@@ -1872,7 +1872,7 @@ msgstr "Вы решаете ничего не делать и готовитес
 #: src-en/data/events_special_storage.xml.append:1227
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Клетчатую маску?"
+msgstr "На какую маску вы хотели бы сменить Клеточную маску?"
 
 #: src-en/data/events_special_storage.xml.append:1229
 msgid ""
@@ -2018,14 +2018,14 @@ msgstr "На какую маску вы хотели бы сменить Зат�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:1314
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1317
@@ -2038,7 +2038,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:1327
 msgid ""
@@ -2158,14 +2158,14 @@ msgstr "На какую маску вы хотели бы сменить Пот�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:1397
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1400
@@ -2178,7 +2178,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:1410
 msgid ""
@@ -2298,14 +2298,14 @@ msgstr "На какую маску вы хотели бы сменить Мас�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:1480
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1483
@@ -2318,7 +2318,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:1493
 msgid ""
@@ -2438,14 +2438,14 @@ msgstr "На какую маску вы хотели бы сменить Чум�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:1563
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1566
@@ -2458,7 +2458,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:1576
 msgid ""
@@ -2578,14 +2578,14 @@ msgstr "На какую маску вы хотели бы сменить Раз�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:1646
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:1649
@@ -2598,7 +2598,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"COMBAT_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:1659
 msgid ""
@@ -10016,7 +10016,7 @@ msgstr "Маску какого Формотворца вы хотите пом�
 #: src-en/data/events_special_storage.xml.append:6373
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_REAL\"]/choice[@req=\"dddeepone_tributeshaper_cage\"]/text"
-msgstr "(Клетчатая маска) Поменять маску вашего Клетчатого Формотворца."
+msgstr "(Клеточная маска) Поменять маску вашего Клеточного Формотворца."
 
 #: src-en/data/events_special_storage.xml.append:6377
 msgid ""
@@ -10051,7 +10051,7 @@ msgstr "Заняться чем-то другим."
 #: src-en/data/events_special_storage.xml.append:6403
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CAGETO\"]/text"
-msgstr "На какую маску вы хотели бы сменить Клетчатую маску?"
+msgstr "На какую маску вы хотели бы сменить Клеточную маску?"
 
 #: src-en/data/events_special_storage.xml.append:6405
 msgid ""
@@ -10197,14 +10197,14 @@ msgstr "На какую маску вы хотели бы сменить Зат�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:6490
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6493
@@ -10217,7 +10217,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_CLOUDTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:6503
 msgid ""
@@ -10337,14 +10337,14 @@ msgstr "На какую маску вы хотели бы сменить Пот�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:6573
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6576
@@ -10357,7 +10357,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_DARKTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:6586
 msgid ""
@@ -10477,14 +10477,14 @@ msgstr "На какую маску вы хотели бы сменить Мас�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:6656
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6659
@@ -10497,7 +10497,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_JUDGETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:6669
 msgid ""
@@ -10617,14 +10617,14 @@ msgstr "На какую маску вы хотели бы сменить Чум�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:6739
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6742
@@ -10637,7 +10637,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_PLAGUETO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:6752
 msgid ""
@@ -10757,14 +10757,14 @@ msgstr "На какую маску вы хотели бы сменить Раз�
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/text"
-msgstr "Сменить на Клетчатую маску."
+msgstr "Сменить на Клеточную маску."
 
 #: src-en/data/events_special_storage.xml.append:6822
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and not(@lvl)]/event/text"
 msgstr ""
-"Ваш Формотворец черпает силу из Клетчатой маски и становится отражением ее "
+"Ваш Формотворец черпает силу из Клеточной маски и становится отражением ее "
 "леденящей энергии..."
 
 #: src-en/data/events_special_storage.xml.append:6825
@@ -10777,7 +10777,7 @@ msgstr "Продолжить..."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDTRIBUTESHAPERFORMSWITCH_SHATTERTO\"]/choice[@req=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\""
 " and @lvl=\"0\"]/text"
-msgstr "У вас нет Клетчатой маски."
+msgstr "У вас нет Клеточной маски."
 
 #: src-en/data/events_special_storage.xml.append:6835
 msgid ""
