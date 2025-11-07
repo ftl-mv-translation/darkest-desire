@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 00:04+0000\n"
+"PO-Revision-Date: 2025-11-07 01:45+0000\n"
 "Last-Translator: Ukn <bbg100bbg@gmail.com>\n"
 "Language-Team: Russian <https://weblate.hyperq.be/projects/darkest-desire/"
 "datablueprintsxmlappend/ru/>\n"
@@ -11771,7 +11771,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24914
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell\"]/title"
-msgstr "Статуя оболочки души"
+msgstr "Статуя Оболочки души"
 
 #: src-en/data/blueprints.xml.append:24915
 msgid ""
@@ -11782,6 +11782,9 @@ msgstr "Статуя"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell\"]/powerList/power[1]"
 msgstr ""
+"Мутаген Оболочки души: считается союзником, связанным с чумой души, и "
+"заражает ближайших врагов чумой души; способность Туман на короткое время "
+"накладывает на отсек эффект осквернения чумой."
 
 #: src-en/data/blueprints.xml.append:24921
 msgid ""
@@ -11801,7 +11804,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24928
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell_enemy\"]/title"
-msgstr "Статуя оболочки души"
+msgstr "Статуя Оболочки души"
 
 #: src-en/data/blueprints.xml.append:24929
 msgid ""
@@ -11812,6 +11815,9 @@ msgstr "Статуя"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerList/power[1]"
 msgstr ""
+"Мутаген Оболочки души: считается союзником, связанным с чумой души, и "
+"заражает ближайших врагов чумой души; способность Туман на короткое время "
+"накладывает на отсек эффект осквернения чумой."
 
 #: src-en/data/blueprints.xml.append:24935
 msgid ""
@@ -12247,12 +12253,12 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:25150
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_crystalline\"]/title[1]"
-msgstr ""
+msgstr "Кристаллический дрон \"Администратор\""
 
 #: src-en/data/blueprints.xml.append:25151
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_crystalline\"]/title[2]"
-msgstr ""
+msgstr "Кристаллический дрон \"Администратор\""
 
 #: src-en/data/blueprints.xml.append:25152
 msgid ""
@@ -12267,12 +12273,12 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:25160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_broodmother_crystalline\"]/title"
-msgstr ""
+msgstr "Кристаллический дрон \"Матка\""
 
 #: src-en/data/blueprints.xml.append:25161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_broodmother_crystalline\"]/short"
-msgstr ""
+msgstr "Кристаллический дрон \"Матка\""
 
 #: src-en/data/blueprints.xml.append:25162
 msgid ""
@@ -12287,12 +12293,12 @@ msgstr "ДРОН"
 #: src-en/data/blueprints.xml.append:25170
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_liberator_crystalline\"]/title"
-msgstr ""
+msgstr "Кристаллический дрон \"Освободитель\""
 
 #: src-en/data/blueprints.xml.append:25171
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_liberator_crystalline\"]/short"
-msgstr ""
+msgstr "Кристаллический дрон \"Освободитель\""
 
 #: src-en/data/blueprints.xml.append:25172
 msgid ""
@@ -12752,32 +12758,37 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:26574
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM\"]/class"
-msgstr ""
+msgstr "Крейсер Эхо Мечты"
 
 #: src-en/data/blueprints.xml.append:26575
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM\"]/name"
-msgstr ""
+msgstr "Аметистовая Мечта"
 
 #: src-en/data/blueprints.xml.append:26576
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM\"]/unlock"
 msgstr ""
+"Раскройте серию забытых воспоминаний и обретите эфирную силу, чтобы "
+"разблокировать этот корабль."
 
 #: src-en/data/blueprints.xml.append:26577
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM\"]/desc"
 msgstr ""
+"Инженеры этого корабля утверждают, что получили его схемы - и одноименный "
+"источник энергии - от безумного Ренегата. Хотя природа энергии, протекающей "
+"через него, не поддается никакому объяснению, его потенциал неоспорим."
 
 #: src-en/data/blueprints.xml.append:26652
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_2\"]/class"
-msgstr ""
+msgstr "Крейсер Эхо Мечты"
 
 #: src-en/data/blueprints.xml.append:26653
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_2\"]/name"
-msgstr ""
+msgstr "Цереулеановое Видение"
 
 #: src-en/data/blueprints.xml.append:26654
 msgid ""
@@ -12788,16 +12799,19 @@ msgstr "Достигните сектора 5 на типе А, чтобы ра�
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_2\"]/desc"
 msgstr ""
+"Начиная с небольшой мощностью реактора, этот корабль требует, чтобы его "
+"начинающий Хранитель Гнили был расположен в правильном месте и быстро "
+"развивал свой огромный потенциал."
 
 #: src-en/data/blueprints.xml.append:26731
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_3\"]/class"
-msgstr ""
+msgstr "Крейсер Эхо Мечты"
 
 #: src-en/data/blueprints.xml.append:26732
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_3\"]/name"
-msgstr ""
+msgstr "Золотой Кошмар"
 
 #: src-en/data/blueprints.xml.append:26733
 msgid ""
@@ -12810,6 +12824,9 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//shipBlueprint[@name=\"PLAYER_DDECHOEDDREAM_3\"]/desc"
 msgstr ""
+"Обладая способностью манипулировать душами и временем, этот Старейшина "
+"Просветленных с нетерпением ждет возможности наконец раскрыть свой "
+"внутренний потенциал - все во имя своего Темного."
 
 #: src-en/data/blueprints.xml.append:26806
 msgid ""
@@ -13148,12 +13165,12 @@ msgstr "Корабль Лжесияния"
 #: src-en/data/blueprints.xml.append:27670
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MV_SHIP_DDECHOEDDREAM\"]/title"
-msgstr ""
+msgstr "КрейсерЭхоМечты"
 
 #: src-en/data/blueprints.xml.append:27671
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"MV_SHIP_DDECHOEDDREAM\"]/desc"
-msgstr ""
+msgstr "Корабль Эхо Мечты."
 
 #: src-en/data/blueprints.xml.append:27677
 msgid ""
@@ -14583,12 +14600,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:28545
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\"]/title"
-msgstr ""
+msgstr "Разбитая маска"
 
 #: src-en/data/blueprints.xml.append:28546
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_SHATTER\"]/desc"
-msgstr ""
+msgstr "ТЫ БУДЕШЬ РАЗБИТ НА КУСКИ ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28552
 msgid ""
@@ -14598,64 +14615,76 @@ msgstr "Затуманенная маска"
 #: src-en/data/blueprints.xml.append:28553
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_CLOUD\"]/desc"
-msgstr ""
+msgstr "ТЫ БУДЕШЬ ЗАТУМАНЕННЫМ ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28559
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\"]/title"
-msgstr ""
+msgstr "Чумная маска"
 
 #: src-en/data/blueprints.xml.append:28560
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_PLAGUE\"]/desc"
-msgstr ""
+msgstr "ТЫ БУДЕШЬ ОСКВЕРНЕН ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28566
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_DARK\"]/title"
-msgstr ""
+msgstr "Потемневшая маска"
 
 #: src-en/data/blueprints.xml.append:28567
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_DARK\"]/desc"
-msgstr ""
+msgstr "ТЫ ПОТЕМНЕЕШЬ?? ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28573
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\"]/title"
-msgstr ""
+msgstr "Клеточная маска"
 
 #: src-en/data/blueprints.xml.append:28574
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_CAGE\"]/desc"
-msgstr ""
+msgstr "ТЫ БУДЕШЬ ЗАКЛЮЧЕН ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28580
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\"]/title"
-msgstr ""
+msgstr "Маска судьи"
 
 #: src-en/data/blueprints.xml.append:28581
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDHIDDENAUG_TRIBUTEMASK_JUDGE\"]/desc"
-msgstr ""
+msgstr "ТЫ БУДЕШЬ ОСУЖДЕН ГРАГХХХХХХХХХХХХ"
 
 #: src-en/data/blueprints.xml.append:28587
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDETHEREAL_FRAGMENT\"]/title"
-msgstr ""
+msgstr "Эфирный фрагмент"
 
 #: src-en/data/blueprints.xml.append:28588
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDETHEREAL_FRAGMENT\"]/desc"
 msgstr ""
+"Мимолётные эхо - бесконечные, бесконечно малые отражения неизвестных, "
+"забытых воспоминаний - раздаются из этого призрачного осколка, умоляя о том, "
+"чтобы их вспомнили. С ним вы чувствуете, что способны воплотить все, что "
+"можно вообразить. Каждая человеческая жертва, которую вы когда-либо принесли "
+"или еще принесете, становится энергией для этих воплощений, позволяя вам "
+"создавать все, чего пожелает ваше сердце в меню склада."
 
 #: src-en/data/blueprints.xml.append:28594
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDETHEREAL_FRAGMENT_LOCKED\"]/title"
-msgstr ""
+msgstr "Эфирный фрагмент"
 
 #: src-en/data/blueprints.xml.append:28595
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDETHEREAL_FRAGMENT_LOCKED\"]/desc"
 msgstr ""
+"Мимолётные эхо - бесконечные, бесконечно малые отражения неизвестных, "
+"забытых воспоминаний - раздаются из этого призрачного осколка, умоляя о том, "
+"чтобы их вспомнили. С ним вы чувствуете, что способны воплотить все, что "
+"можно вообразить. Каждая человеческая жертва, которую вы когда-либо принесли "
+"или еще принесете, становится энергией для этих воплощений, позволяя вам "
+"создавать все, чего пожелает ваше сердце в меню склада."
