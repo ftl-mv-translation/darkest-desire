@@ -312,7 +312,7 @@ local function corruptor_render(systemBox, ignoreStatus)
         local activateButton = activateButtonTable[effectivePower]
         activateButton.bActive = corruptor_ready(systemBox.pSystem) and not corruptor_targetting and not corruptor_targetRoom
         if activateButton.bHover then
-            Hyperspace.Mouse.tooltip = "Заражает целевой отсек и заставляет его порождать чумные души со временем.\nКлавиша:N/A"
+            Hyperspace.Mouse.tooltip = "Заражает целевой отсек и заставляет его порождать чумные души со временем.\nКлавиша: Нет"
         end
         Graphics.CSurface.GL_RenderPrimitive(buttonBase[effectivePower])
         if corruptor_targetRoom then
