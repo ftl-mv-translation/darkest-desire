@@ -299,7 +299,7 @@ msgstr "(人間の生贄) 準備した人間の命を一つ犠牲にする。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
-"人間の生贄は、あなたが彼らの胸に短剣を突き刺しても、ほとんど動かない。彼らの血が流れ出し、一部は直接あなたの手に触れる。奇妙に冷たいと感じる...しかし、それは問題ではない。生贄は捧げられた。"
+"人間の生贄の胸に短剣を突き立てても、彼らは身じろぎ一つしない。血が流れ出し、その一部があなたの手に直接かかる。奇妙に冷たいと感じるが…どうでもいいことだ。生贄は捧げられたのだ。"
 
 #: src-en/data/events_special_lightspeed.xml.append:265
 msgid ""
@@ -516,7 +516,7 @@ msgstr "安息なき魂の儀式を執り行う。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
-"異界の書に求められるままに、小さく鋭い金属片を手に入れる。短い呪文を唱えると、瞬く間に金属は手から飛び出し、まるで自らの意思を持つかのように、あなたの頭蓋骨に突き刺さる。それが深く、深く潜り込み、傷口から血が溢れ出ても、感じるのは痛みではない…完全な理解の感覚だ。ただ汝の望みを実現しさえすれば、それで良いのだ…"
+"「異界の書」に求められるままに、あなたは小さく鋭い金属片を手に入れる。次に短い呪文を唱えると、一瞬のうちに金属はあなたの手から飛び出し、まるで自らの意志があるかのようにあなたの頭蓋骨に突き刺さる。それが深く、深く潜り込み、できた傷口から血が流れ出し始めても、あなたが感じるのは痛みではない…完全な理解の感覚だ。あなたは大丈夫だ、ただ自らの欲望を自覚しさえすれば…"
 
 #: src-en/data/events_special_lightspeed.xml.append:402
 msgid ""
@@ -1350,58 +1350,58 @@ msgstr "文章を読む。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1030
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
 msgstr "（啓発されしクルー）啓発の儀式を執り行う。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
 "異界の書のページをめくり、やがてきらめく黄色で記された文章にたどり着く。そこには、闇の神に自らを証明し、その贈り物を享受するための手順が、書の奇妙な挟み込みページの提供による、より曖昧な儀式と共に記されている。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
 msgstr "神聖なる献身の儀式を執り行う。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
 msgstr "犠牲が捧げられ、汝の望みが知られると、異界の書の中の黄色の文字がねじれ、変化する…"
 
 #: src-en/data/events_special_lightspeed.xml.append:1038
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[1]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/choice/text"
 msgstr "文章を読む。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
 msgstr "祝福されし贈り物の儀式を執り行う。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
 msgstr "犠牲が捧げられ、汝の望みが知られると、胸の中に温かさが芽生え、燃え盛る地獄へと花開くのを感じる…"
 
 #: src-en/data/events_special_lightspeed.xml.append:1048
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[2]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/choice/text"
 msgstr "その熱に集中する。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
 msgstr "挟み込みページに記された儀式を執り行う。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1056
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
 msgstr "犠牲が捧げられ、汝の望みが知られると、不快な、実体のない笑い声が周りの空気を満たす…"
 
 #: src-en/data/events_special_lightspeed.xml.append:1058
 msgid ""
-"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"deeponecultist\"]/event/choice[3]/event/choice/text"
+"data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/choice/text"
 msgstr "文章を読む。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1066

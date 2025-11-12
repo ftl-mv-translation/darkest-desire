@@ -4583,13 +4583,12 @@ msgstr "シャドウ"
 #: src-en/data/blueprints.xml.append:22369
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"darkgodtendrils\"]/powerList/power[1]"
-msgstr ""
-"最大HPが45に減少し、ダメージが1.3倍に増加、破壊工作と移動速度が0.5倍に減少する。ハザードに耐性があるが、操作はできず、破壊のみを望む。"
+msgstr "最大HPが30に、破壊工作と移動速度が0.5倍に減少する。環境ハザードに耐性を持つが、制御は不可能で破壊のみを望む。"
 
 #: src-en/data/blueprints.xml.append:22370
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"darkgodtendrils\"]/powerList/power[2]"
-msgstr "部屋にいる他の全ての飢えたる影を強化し、最大HP(1.1倍)、ダメージ(1.1倍)、破壊工作速度(1.2倍)を増加させる。"
+msgstr "室内にいる他の全ての「飢えし影」を強化し、その最大HP、戦闘ダメージ、破壊工作速度を1.2倍にする。"
 
 #: src-en/data/blueprints.xml.append:22374
 msgid ""
@@ -4710,7 +4709,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger\"]/powerList/power[2]"
 msgstr ""
-"アクティブアビリティ：HPが200を下回り、敵をストーキングすることでアビリティがチャージされていれば、自身と全ての味方エンジを暴走させる特殊なビーコンを生成する。"
+"周期的アビリティ：敵をストーキングしてアビリティがチャージされている状態でHPが200を下回ると、特殊なビーコンを生成し、自身と全ての味方エンジを狂乱状態にする。"
 
 #: src-en/data/blueprints.xml.append:22436
 msgid ""
@@ -4737,7 +4736,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"unique_thehunger_enemy\"]/powerList/power[2]"
 msgstr ""
-"アクティブアビリティ：HPが50を下回り、敵をストーキングすることでアビリティがチャージされていれば、自身と全ての味方エンジを暴走させる特殊なビーコンを生成する。飢えにチャージを与えず、HPが50以下の間は近づかないことが最も重要だ！"
+"周期的アビリティ：敵をストーキングしてアビリティがチャージされている状態でHPが50を下回ると、特殊なビーコンを生成し、自身と全ての味方エンジを狂乱状態にする。「飢え」にチャージを与えず、HPが50を下回っている間は近づかないことが最重要だ！"
 
 #: src-en/data/blueprints.xml.append:22448
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi\"]/desc"
@@ -4760,7 +4759,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22456
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi\"]/powerList/power[2]"
-msgstr "アクティブアビリティ：光の力を利用して敵船を攻撃し、システムダメージを与え、火災を引き起こし、部屋に神聖なる審判のスタックを付与する。"
+msgstr "周期的アビリティ：その光を利用して敵船を攻撃し、システムダメージと火災を発生させ、室内に「聖なる審判」のスタックを付与する。"
 
 #: src-en/data/blueprints.xml.append:22460
 msgid ""
@@ -4786,7 +4785,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22468
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi_enemy\"]/powerList/power[2]"
-msgstr "アクティブアビリティ：光の力を利用して敵船を攻撃し、システムダメージを与え、火災を引き起こし、部屋に神聖なる審判のスタックを付与する。"
+msgstr "周期的アビリティ：その光を利用して敵船を攻撃し、システムダメージと火災を発生させ、室内に「聖なる審判」のスタックを付与する。"
 
 #: src-en/data/blueprints.xml.append:22472
 msgid ""
@@ -7254,13 +7253,12 @@ msgstr "シャドウ"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddevouring_shadow\"]/powerList/power[1]"
 msgstr ""
-"最大HPが90に減少し、ダメージと破壊工作速度が1.5倍に増加、移動速度が0.6倍に減少する。ハザードに耐性があるが、操作はできず、破壊のみを望む。"
+"最大HPが60に、移動速度が0.6倍に減少する一方、戦闘ダメージと破壊工作速度が1.25倍に増加する。環境ハザードに耐性を持つが、制御は不可能で破壊のみを望む。"
 
 #: src-en/data/blueprints.xml.append:23614
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddevouring_shadow\"]/powerList/power[2]"
-msgstr ""
-"部屋にいる他の全ての飢えたる影を強化し、最大HP(1.1倍)、ダメージ(1.1倍)、破壊工作速度(1.2倍)を増加させる。アビリティがチャージされると死ぬ。"
+msgstr "室内にいる他の全ての「飢えし影」を強化し、その最大HP、戦闘ダメージ、破壊工作速度を1.2倍にする。アビリティがチャージされると死亡する。"
 
 #: src-en/data/blueprints.xml.append:23618
 msgid ""
@@ -8965,7 +8963,7 @@ msgstr ""
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theshade\"]/powerList/power[2]"
 msgstr ""
-"他の飢えたる影を強化したり、強化されたりする際には飢えたる影としてカウントされる。さらに、他の飢えたる影を強化する目的では、およそ4体分としてカウントされる。"
+"他の「飢えし影」を強化したり、されたりする目的において、「飢えし影」としてカウントされる。さらに、他の「飢えし影」を強化する目的においては、およそ2体分としてカウントされる。"
 
 #: src-en/data/blueprints.xml.append:24436
 msgid ""
@@ -8989,7 +8987,7 @@ msgstr "刃"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunique_theoverseer\"]/powerList/power[1]"
 msgstr ""
-"戦闘/破壊工作ダメージが1.5倍に増加。他の飢えたる影を強化したり、強化されたりする際には飢えたる影としてカウントされる。さらに、他の飢えたる影を強化する目的では、およそ4体分としてカウントされる。"
+"戦闘/破壊工作ダメージが1.5倍に増加する。他の「飢えし影」を強化したり、されたりする目的において、「飢えし影」としてカウントされる。さらに、他の「飢えし影」を強化する目的においては、彼女はおよそ2体分としてカウントされる。"
 
 #: src-en/data/blueprints.xml.append:24446
 msgid ""
@@ -9017,12 +9015,12 @@ msgstr "刃"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/powerList/power[1]"
 msgstr ""
-"ほぼ無敵で急速に再生する。自身では何もできない。両船の味方ライトボーンは他の飢えたる影を強化したり、強化されたりする目的で飢えたる影としてカウントされ、両船で飢えたる影としてカウントされる全ての存在は監督者の受動的な4倍の飢えたる影バフを受ける。"
+"ほぼ無敵で急速に再生する。自身では何も行動できない。いずれかの船にいる味方のライトボーンは、他の「飢えし影」を強化したり、されたりする目的において、「飢えし影」としてカウントされる。そして、いずれかの船にいる「飢えし影」としてカウントされる全ての存在は、オーバーシーアのパッシブである「飢えし影」x2強化効果を受ける。"
 
 #: src-en/data/blueprints.xml.append:24458
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddPOWEROFANTUMBRA\"]/powerList/power[2]"
-msgstr "この形態を長く維持できず、20秒後に元の形態に戻る。"
+msgstr "この形態を長く維持することはできず、22秒後に彼女は通常の形態に戻る。"
 
 #: src-en/data/blueprints.xml.append:24462
 msgid ""
@@ -9830,7 +9828,9 @@ msgstr "ガーディアン"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_mature\"]/powerList/power[1]"
 msgstr ""
-"体力(HP125)、修理速度(1.5倍)、戦闘ダメージ(1.5倍)が増加し、現在の部屋に2電力を供給し、近くの敵に嵐の予兆を付与する。酸素を生成し、窒息に耐性がある(0.75倍)が、火災には弱い(1.75倍)。マインドコントロールに耐性があり、移動はできない。"
+"クルースロットを2つ占有する。HP (150)、修理速度 (1.5倍)、戦闘ダメージ (1.5倍) "
+"が増加しており、現在の室内に4電力を供給し、近くの敵に「嵐の予兆」を付与する。酸素を生成し、窒息に耐性 (0.75倍) があるが、火災に弱い "
+"(1.75倍)。マインドコントロールに耐性を持ち、移動は不可能。"
 
 #: src-en/data/blueprints.xml.append:24807
 msgid ""
@@ -9868,13 +9868,15 @@ msgstr "分枝"
 #: src-en/data/blueprints.xml.append:24820
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerList/power[1]"
-msgstr "本体と似た能力と弱点を共有するが、体力(HP35)、修理速度(0.5倍)、戦闘ダメージ(0.5倍)、電力/酸素生成は劣る。"
+msgstr ""
+"本体と似た能力と弱点を持つが、HP (35)、修理速度 (0.5倍)、戦闘ダメージ (0.5倍)、酸素生成量は劣り、さらに電力を生成しない。"
 
 #: src-en/data/blueprints.xml.append:24821
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerList/power[2]"
 msgstr ""
-"各分枝は全ての味方ブライトガーディアンにスタック可能な利益を与え、回復（毎秒0.5HP）、体力増加、修理速度、戦闘ダメージ、アビリティ再生率（全て1.15倍）を含む。"
+"各アウトグロウスは、全ての味方ブライトガーディアンに回復 (0.5HP/s)、最大HP増加 (+10 "
+"HP)、修理速度、戦闘ダメージ、アビリティ再チャージ率 (全て+0.1) を含むスタック可能な恩恵を与える。"
 
 #: src-en/data/blueprints.xml.append:24822
 msgid ""
@@ -9906,7 +9908,8 @@ msgstr "苗木"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_seed\"]/powerList/power[1]"
 msgstr ""
-"体力が低く(HP35)、窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。成長するまではあまり何もできない。"
+"クルースロットを2つ占有する。HPが低い (35) が、窒息に耐性 (0.75倍) を持ち、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。成長するまでは大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24835
 msgid ""
@@ -9962,7 +9965,8 @@ msgstr "G.スプラウトリング"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted1\"]/powerList/power[1]"
 msgstr ""
-"体力が低く(HP50)、窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。成長するまではあまり何もできない。"
+"クルースロットを2つ占有する。HPが低い (50) が、窒息に耐性 (0.75倍) を持ち、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。成長するまでは大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24859
 msgid ""
@@ -9988,7 +9992,8 @@ msgstr "グロウスリング"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted2\"]/powerList/power[1]"
 msgstr ""
-"体力が低く(HP75)、窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。ごく少量の酸素を供給するが、それ以外は成長するまであまり何もできない。"
+"クルースロットを2つ占有する。HPが低い (75) が、窒息に耐性 (0.75倍) を持ち、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。ごく微量の酸素を供給するが、それ以外は成長するまで大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24871
 msgid ""
@@ -10014,7 +10019,8 @@ msgstr "G.ブッシュリング"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted3\"]/powerList/power[1]"
 msgstr ""
-"窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。少量の酸素を供給するが、それ以外は成長するまであまり何もできない。"
+"クルースロットを2つ占有する。窒息に耐性 (0.75倍) があり、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。少量の酸素を供給するが、それ以外は成長するまで大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24883
 msgid ""
@@ -10040,7 +10046,8 @@ msgstr "トランクリング"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted4\"]/powerList/power[1]"
 msgstr ""
-"体力が増加し(HP125)、窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。酸素を供給するが、それ以外は成長するまであまり何もできない。"
+"クルースロットを2つ占有する。HPが高い (125) が、窒息に耐性 (0.75倍) を持ち、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。酸素を供給するが、それ以外は成長するまで大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24895
 msgid ""
@@ -10066,7 +10073,8 @@ msgstr "バドリング"
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted5\"]/powerList/power[1]"
 msgstr ""
-"体力が増加し(HP125)、窒息に耐性があり(0.75倍)、火災に弱く(1.75倍)、マインドコントロールに耐性がある。酸素と電力を供給するが、それ以外は成長するまであまり何もできない。"
+"クルースロットを2つ占有する。HPが高い (125) が、窒息に耐性 (0.75倍) を持ち、火災に弱く "
+"(1.75倍)、マインドコントロールに耐性を持つ。酸素と電力を供給するが、それ以外は成長するまで大したことはできない。"
 
 #: src-en/data/blueprints.xml.append:24907
 msgid ""
