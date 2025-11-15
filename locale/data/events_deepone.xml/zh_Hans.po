@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2025-11-15 14:14+0000\n"
+"Last-Translator: 针眼 <24996694@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/darkest-desire/dataevents_deeponexml/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_deepone.xml:6
 msgid ""
@@ -22,19 +29,21 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:31
 msgid "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/text"
-msgstr ""
+msgstr "你发现了一个联邦前哨站！尽管如此，当你在深空中看到一个时，你还是会有点震惊。"
 
 #: src-en/data/events_deepone.xml:34
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "联系前哨站。"
 
 #: src-en/data/events_deepone.xml:36
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"你欢呼，令你震惊的是，一个深渊来访者回答！“欢迎光临...联邦飞船。请让...你的需"
+"求是已知的。”你不知道怎么回事，但联邦肯定说服了他们让这个前哨站继续运转。"
 
 #: src-en/data/events_deepone.xml:39
 msgid ""
@@ -46,7 +55,7 @@ msgstr "请求燃料。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "一箱沾满潮湿手印的燃料被带上了船。"
 
 #: src-en/data/events_deepone.xml:48
 msgid ""
@@ -58,7 +67,7 @@ msgstr "请求弹药。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "一批沾满湿手印的弹药被送到你的船上。"
 
 #: src-en/data/events_deepone.xml:57
 msgid ""
@@ -70,25 +79,26 @@ msgstr "请求无人机部件。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "一批沾满湿手印的弹药被送到你的船上。"
 
 #: src-en/data/events_deepone.xml:66
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "(深渊来访者)让你的深渊来访者为每样东西的一点讨价还价。"
 
 #: src-en/data/events_deepone.xml:68
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"0\"]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
-msgstr ""
+msgstr "深渊来访者注视着前哨站队长的脸庞。“同族？在多元宇宙飞船上...给你的，朋友...什"
+"么都行。”"
 
 #: src-en/data/events_deepone.xml:79
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "联系前哨站。"
 
 #: src-en/data/events_deepone.xml:81
 msgid ""
