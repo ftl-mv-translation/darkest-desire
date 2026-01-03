@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-04 05:45+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_deeponexml/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_deepone.xml:6
 msgid ""
@@ -2594,11 +2601,12 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_deepone.xml:2037
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/text"
 msgstr ""
-"Le vaisseau se disloque et vous récupérez rapidement ce que vous pouvez."
+"Le vaisseau se disloque, et vous constatez que la cage a survécu à sa "
+"destruction, apparemment intacte... en effet, quoi que ce soit qui se trouve "
+"à l'intérieur, cela continue de produire ces mêmes bruits visqueux."
 
 #: src-en/data/events_deepone.xml:2040
 msgid ""
@@ -2606,12 +2614,12 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_deepone.xml:2045
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/deadCrew/text"
 msgstr ""
-"Maintenant que l'équipage du vaisseau est mort, vous récupérez tout ce que "
-"vous pouvez."
+"Leur équipage d'outre-monde une fois vaincu, vous avez le champ libre pour "
+"dérober la cage à bord de leur vaisseau... en effet, quoi que ce soit qui se "
+"trouve à l'intérieur, cela continue de produire ces mêmes bruits visqueux."
 
 #: src-en/data/events_deepone.xml:2048
 msgid ""
@@ -2940,7 +2948,7 @@ msgstr ""
 #: src-en/data/events_deepone.xml:2333
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/text"
-msgstr "Écouter."
+msgstr "Écouter bien."
 
 #: src-en/data/events_deepone.xml:2335
 msgid ""
@@ -3242,7 +3250,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_deepone.xml:2583
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[2]/text"
 msgstr "Attaquer !"
@@ -5108,7 +5115,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_deepone.xml:4005
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_SURRENDER\"]/choice[1]/text"
 msgstr "Accepter leur offre."
