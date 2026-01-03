@@ -1,15 +1,22 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-04 05:45+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_lightspeedxmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_lightspeed.xml.append:3
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Continuer vers le secteur des Profonds."
 
 #: src-en/data/events_special_lightspeed.xml.append:7
 msgid ""
@@ -45,7 +52,7 @@ msgstr "Continuer vers ???."
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "Continuer vers le secteur des Profonds."
 
 #: src-en/data/events_special_lightspeed.xml.append:34
 msgid ""
@@ -111,6 +118,20 @@ msgstr "Continuer..."
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DEEPONE_WARP\"]/text"
 msgstr ""
+"Nom : Territoire des Profonds\n"
+"Type : Neutre\n"
+"Unique : Faux\n"
+"Faction dominante : Les Profonds\n"
+"Niveau de menace rebelle : Moyen-faible\n"
+"\n"
+"Peu de choses sont connues sur les mystérieux Profonds. Un jour, ils sont "
+"simplement apparus des océans de l’Ancienne Terre à bord d’une flotte de "
+"vaisseaux spatiaux et se sont lancés à la conquête des étoiles ; leur "
+"existence précédente serait restée inconnue des humains vivant à la surface. "
+"C’est une race impulsive, souvent maladroite lorsqu’il s’agit de communiquer "
+"avec les étrangers, mais il n’existe pas d’animosité envers la Fédération. "
+"Il en va cependant autrement avec la Théocratie, qui considère les croyances "
+"religieuses des Profonds comme horriblement blasphématoires."
 
 #: src-en/data/events_special_lightspeed.xml.append:119
 msgid ""
@@ -222,7 +243,7 @@ msgstr ""
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "Continuer vers le secteur des Profonds."
 
 #: src-en/data/events_special_lightspeed.xml.append:240
 msgid ""
@@ -1678,7 +1699,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1322
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1706,7 +1726,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1351
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1734,7 +1753,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1384
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1786,7 +1804,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1436
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[2]/text"
 msgstr "Laisser tomber."
@@ -1814,7 +1831,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_lightspeed.xml.append:1465
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[2]/text"
 msgstr "Laisser tomber."
