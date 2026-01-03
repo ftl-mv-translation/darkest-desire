@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-04 05:45+0000\n"
+"Last-Translator: kronen68 <obrice@hotmail.fr>\n"
+"Language-Team: French <https://weblate.hyperq.be/projects/darkest-desire/"
+"dataevents_special_storagexmlappend/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_storage.xml.append:3
 msgid ""
@@ -148,11 +155,14 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:96
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//mod:findName[@name=\"STORAGE_CHECK_CLONE_CANNON\"]/mod-"
 "append:choice[2]/event/choice/event/text"
-msgstr "Vous avez fini de réinitialiser l'arme."
+msgstr ""
+"Le Balafré semble ébranlé un instant, avant de fermer l'œil et de... se "
+"livrer à une sorte d'exercice de respiration ? De méditation ? Vous n'en "
+"êtes pas sûr. Quoi qu'il fasse, cela fonctionne, car il redevient "
+"immédiatement lui-même."
 
 #: src-en/data/events_special_storage.xml.append:97
 msgid ""
@@ -4551,7 +4561,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3296
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR\"]/choice[11]/text"
 msgstr "Laisser tomber."
@@ -4562,10 +4571,9 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3305
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_MATTERDISPERSER\"]/choice[@req=\"dd_corruptor\"]/text"
-msgstr "Effectuer l'amélioration. [Coût : 40~, 3{]"
+msgstr "Effectuer l'amélioration. [Coût : 45~, 3{]"
 
 #: src-en/data/events_special_storage.xml.append:3307
 msgid ""
@@ -4578,7 +4586,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3319
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_MATTERDISPERSER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4604,7 +4611,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:3348
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_PSYCHICEMANATOR\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4639,7 +4645,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3382
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_DENSITYAMPLIFIER\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4648,13 +4653,14 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/text"
 msgstr ""
+"Vous êtes sur le point d’améliorer le Corrupteur au niveau 3.\n"
+"[Effets : infection de 16s, apparition toutes les 5s]"
 
 #: src-en/data/events_special_storage.xml.append:3397
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"DD_INTERNAL_AUGMENT3\""
 " and @lvl=\"0\"]/text"
-msgstr "Effectuer l'amélioration. [Coût : 40~, 3{]"
+msgstr "Effectuer l'amélioration. [Coût : 85~, 4{]"
 
 #: src-en/data/events_special_storage.xml.append:3399
 msgid ""
@@ -4675,7 +4681,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3416
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL3\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -4684,6 +4689,8 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/text"
 msgstr ""
+"Vous êtes sur le point d’améliorer le Corrupteur au niveau 4.\n"
+"[Effets : infection de 17s, apparition toutes les 4s]"
 
 #: src-en/data/events_special_storage.xml.append:3425
 msgid ""
@@ -4710,7 +4717,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:3446
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_SYSTEM_DDCORRUPTOR_LEVEL4\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8005,13 +8011,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:5770
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHK_RAINBOWMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:5776
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHK_RAINBOWMUTAGEN_USAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8137,13 +8141,11 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:5872
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHKMUTAGEN_USAGE\"]/choice[@req=\"ddilldrythk_statue\"]/event/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
 
 #: src-en/data/events_special_storage.xml.append:5878
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDILLDRYTHKMUTAGEN_USAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -8152,6 +8154,17 @@ msgstr "Laisser tomber."
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_DDCORRUPTOR_SUBSUMATIONS\"]/text"
 msgstr ""
+"La véritable nature du matériauvirus de la Peste d'Âme, et par extension du "
+"système Corrupteur, reste un mystère pour la plupart, mais son utilité en "
+"matière d’autodéfense et de combat a conduit à sa commercialisation et à sa "
+"diffusion à travers le Multivers. En vérité, personne ne sait qui a inventé "
+"le Corrupteur, ni comment son usage s’est répandu à l’origine, mais il est "
+"désormais courant de le trouver dans les magasins, partout et en tout lieu.\n"
+"\n"
+"Il est entendu que nourrir le Corrupteur avec des entités corrompues par le "
+"Peste d'Âme (également appelées 'Carcasses de Peste d'Âme') renforce les "
+"capacités des vagues de Peste d’Âmes qu’il génère. Vous pouvez le faire ici, "
+"à condition de disposer de Carcasses à offrir."
 
 #: src-en/data/events_special_storage.xml.append:5888
 msgid ""
@@ -10314,7 +10327,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:7367
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_FORTITUDE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -10340,7 +10352,6 @@ msgid ""
 msgstr "Continuer..."
 
 #: src-en/data/events_special_storage.xml.append:7397
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_RAGE\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
@@ -10375,7 +10386,6 @@ msgid ""
 msgstr ""
 
 #: src-en/data/events_special_storage.xml.append:7432
-#, fuzzy
 msgid ""
 "data/events_special_storage.xml.append$//event[@name=\"STORAGE_CHECK_LAB_DEEPONES_DEEPBREATH\"]/choice[@req=\"pilot\"]/text"
 msgstr "Laisser tomber."
