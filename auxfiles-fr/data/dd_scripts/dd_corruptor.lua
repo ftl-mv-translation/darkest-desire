@@ -312,7 +312,7 @@ local function corruptor_render(systemBox, ignoreStatus)
         local activateButton = activateButtonTable[effectivePower]
         activateButton.bActive = corruptor_ready(systemBox.pSystem) and not corruptor_targetting and not corruptor_targetRoom
         if activateButton.bHover then
-            Hyperspace.Mouse.tooltip = "Infecte la pièce cible et génère périodiquement des vagues de Pestilence d’Âme.\nraccourci clavier:N/A"
+            Hyperspace.Mouse.tooltip = "Infecte la pièce cible et génère périodiquement des vagues de Peste d’Âme.\nraccourci clavier:N/A"
         end
         Graphics.CSurface.GL_RenderPrimitive(buttonBase[effectivePower])
         if corruptor_targetRoom then
