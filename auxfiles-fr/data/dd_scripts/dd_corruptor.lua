@@ -29,7 +29,7 @@ end
 --Handles tooltips and mousever descriptions per level
 local function get_level_description_corruptor(systemId, level, tooltip)
     if systemId == Hyperspace.ShipSystem.NameToSystemId(systemIdName) then
-        return string.format("%is effet, %is entre 2 apparition", corruptor_durations[level], 10 - level)
+        return string.format("%is d'effet, %is entre 2 apparitions", corruptor_durations[level], 10 - level)
     end
 end
 
