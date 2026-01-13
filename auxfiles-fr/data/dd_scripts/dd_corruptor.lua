@@ -173,7 +173,7 @@ local function corruptor_spawn(roomId, shipId, originId, amount, player)
     if shipId ~= originId then
         intruder = true
     end
-    local crew = shipManager:AddCrewMemberFromString("Tide", crewId, intruder, roomId, true, true)
+    local crew = shipManager:AddCrewMemberFromString("Vague", crewId, intruder, roomId, true, true)
     crew.extend.deathTimer = Hyperspace.TimerHelper(false)
     crew.extend.deathTimer:Start(45)
     Hyperspace.Sounds:PlaySoundMix("ddsoulplaguecorruptorflood", -1, false)
