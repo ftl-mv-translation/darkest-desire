@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 12:37+0000\n"
+"PO-Revision-Date: 2026-01-16 13:47+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_guardsxmlappend/zh_Hans/>\n"
@@ -27,7 +27,8 @@ msgstr "你已经到达了深渊生物的领域。他们似乎对保护他们所
 #: src-en/data/events_special_guards.xml.append:4
 msgid ""
 "data/events_special_guards.xml.append$//textList[@name=\"TEXT_START_DEEPONE\"]/text[3]"
-msgstr ""
+msgstr "你已抵达深渊潜者占据主导的星区。尽管当地居民以火爆脾气著称，但只要你不惹麻烦"
+"，你们之间的关系应该……应该能相安无事。"
 
 #: src-en/data/events_special_guards.xml.append:16
 msgid ""
@@ -37,7 +38,7 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:18
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DEEPONE\"]/choice/event/text"
-msgstr ""
+msgstr "既然没有守卫，你可以在超光速驱动器充能时自由行动。"
 
 #: src-en/data/events_special_guards.xml.append:20
 msgid ""
@@ -73,46 +74,65 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/text"
 msgstr ""
+"虽然你击败了一艘星舰，但那只是众多敌舰之一，随着谐合舰队逼近并包围，你发现自"
+"己被困住了……他们把你困住了！一阵离子炮齐射攻击了你的星舰，你的所有系统都瘫痪"
+"了。面对他们数十件正在充能的武器，下一轮齐射很可能当场就要了你的命，如果你不"
+"采取行动的话！但你能做什么呢？"
 
 #: src-en/data/events_special_guards.xml.append:56
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/text"
-msgstr ""
+msgstr "祈求奇迹。"
 
 #: src-en/data/events_special_guards.xml.append:58
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/text"
 msgstr ""
+"你决定闭上眼睛祈祷。即使闭着眼，一道璀璨的粉色闪光也盖过了你的视线。睁开眼睛"
+"，似乎没什么异样……除了半械族停止了武器充能。或者说，他们停止了一切动作；你周"
+"围的景象凝固了。"
 
 #: src-en/data/events_special_guards.xml.append:60
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "呃……那我们没死？"
 
 #: src-en/data/events_special_guards.xml.append:62
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"一艘真正庞大的星舰在你头顶浮现，与周围其他粉色水晶星舰相似。然而，与其他星舰"
+"不同，这艘完全被水晶包裹，看不到任何半械族的构造痕迹。你注意到它并未受到攻击…"
+"…看来谐合输掉了这场战斗，但怎么输的？仅仅一道闪光？"
 
 #: src-en/data/events_special_guards.xml.append:64
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "这可不妙……"
 
 #: src-en/data/events_special_guards.xml.append:66
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"还没来得及细想，你几乎被第二道闪光致盲，这次是橙色……第二艘星舰疾速驶入视野。"
+"这艘比另一艘小得多，但周身环绕着美丽的火焰，即使在这太空虚空中也燃烧得不可思"
+"议地明亮……在舞动的火焰之下，你再次认出了半械族星舰的轮廓。半械族到底有多少秘"
+"密星舰？"
 
 #: src-en/data/events_special_guards.xml.append:68
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "保持低调，静观其变。"
 
 #: src-en/data/events_special_guards.xml.append:70
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"谁知道这两艘星舰的意图如何……最好保持安静，静观其变。两艘星舰互相锁定，战斗瞬"
+"间爆发。那艘水晶星舰迟缓笨重，几乎不躲避对方星舰的火焰齐射。相反，它开始……发"
+"光。片刻之后，一道伴随着另一道粉色闪光的巨大光束迸发而出，切过战场。虽然火焰"
+"星舰惊险避过，但你注意到当光束扫过周围大群半械族星舰时，几乎没造成物理伤害……"
+"这一定是某种强大的生物武器。"
 
 #: src-en/data/events_special_guards.xml.append:72
 msgid ""
@@ -123,81 +143,94 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"失手后，水晶星舰再次发光，然后跃迁离开了这个星系。火焰星舰紧随其后，留下的只"
+"有诡异的寂静，外面的景象再次凝固。这时，你收到附近一艘星舰的呼叫。看来你终究"
+"不是唯一的幸存者……"
 
 #: src-en/data/events_special_guards.xml.append:76
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "应答呼叫。"
 
 #: src-en/data/events_special_guards.xml.append:78
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你接通呼叫，看到数个奇特的黑色半械族。“联邦！[兄弟们！] 你是来帮忙的，-对吗？"
+"- 我们看见你在与谐合作战，[支持] 我们的 [事业]。”"
 
 #: src-en/data/events_special_guards.xml.append:80
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那个巨大的……东西做了大部分工作。"
 
 #: src-en/data/events_special_guards.xml.append:82
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"即使他们被冒犯，也没有表现出来。“那个东西：-领袖！- [饥饿。] [解放者。] 或者"
+"：至少是他们的星舰。我们称它为 [巨兽]：谐合 -滔天- [罪孽] 的具现化。”"
 
 #: src-en/data/events_special_guards.xml.append:84
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那你们究竟是谁？"
 
 #: src-en/data/events_special_guards.xml.append:86
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我们：是 -分离者。- 我们的目标：将全体半械族从谐合中 [解放]。” 那么他们是分"
+"离者了……不过，他们的样子确实古怪。“我们已被 -授予- 力量来 [解放]，被：[解放者"
+"。] 我们 -必须- [解放]。我们的 [兄弟们] 需要我们。需要 -你。-”"
 
 #: src-en/data/events_special_guards.xml.append:88
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我？"
 
 #: src-en/data/events_special_guards.xml.append:90
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“是的，-你。-” 随着半械族继续说话，几组坐标传输给你：“这个星区的谐合链已被：-"
+"隐藏- 起来。我们的目标：其 [摧毁]。 [解放]。跟随：坐标，找到：[兄弟们]。找到"
+"：[解放]。” 分离者星舰切断了通信，你开始解析收到的三组坐标。每一组似乎都有名"
+"称和简短描述……"
 
 #: src-en/data/events_special_guards.xml.append:92
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“战场”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:94
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“战场：兄弟相残。兄弟持钥。”"
 
 #: src-en/data/events_special_guards.xml.append:97
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“秘藏”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:99
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“秘藏：兄弟守秘。秘藏藏钥。”"
 
 #: src-en/data/events_special_guards.xml.append:102
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“伏击”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:104
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“伏击：兄弟设伏。残骸持钥。”"
 
 #: src-en/data/events_special_guards.xml.append:107
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那么，出发吧。"
 
 #: src-en/data/events_special_guards.xml.append:109
 msgid ""
@@ -234,46 +267,64 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/text"
 msgstr ""
+"随着那艘奇怪的半械族星舰被击败，其余的星舰大多四散而逃，谐合舰队则逼近了剩下"
+"的少数几艘。数十件武器正在充能，敌方舰队似乎不太可能抵挡住一轮齐射……这真的对"
+"吗？"
 
 #: src-en/data/events_special_guards.xml.append:165
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/text"
-msgstr ""
+msgstr "你不忍目睹……闭上了眼睛。"
 
 #: src-en/data/events_special_guards.xml.append:167
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/text"
 msgstr ""
+"你决定闭上眼睛，避开战争的恐怖。即使闭着眼，一道璀璨的粉色闪光也盖过了你的视"
+"线。睁开眼睛，似乎没什么异样……除了半械族停止了武器充能。或者说，他们停止了一"
+"切动作；你周围的景象凝固了。"
 
 #: src-en/data/events_special_guards.xml.append:169
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "呃……"
 
 #: src-en/data/events_special_guards.xml.append:171
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"一艘真正庞大的星舰在你头顶浮现，与周围其他粉色水晶星舰相似。然而，与其他星舰"
+"不同，这艘完全被水晶包裹，看不到任何半械族的构造痕迹。你注意到它并未受到攻击…"
+"…看来谐合输掉了这场战斗，但怎么输的？仅仅一道闪光？"
 
 #: src-en/data/events_special_guards.xml.append:173
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "这可不妙……"
 
 #: src-en/data/events_special_guards.xml.append:175
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"还没来得及细想，你几乎被第二道闪光致盲，这次是橙色……第二艘星舰疾速驶入视野。"
+"这艘比另一艘小得多，但周身环绕着美丽的火焰，即使在这太空虚空中也燃烧得不可思"
+"议地明亮……在舞动的火焰之下，你再次认出了半械族星舰的轮廓。半械族到底有多少秘"
+"密星舰？"
 
 #: src-en/data/events_special_guards.xml.append:177
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "保持低调，静观其变。"
 
 #: src-en/data/events_special_guards.xml.append:179
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"谁知道这两艘星舰的意图如何……最好保持安静，静观其变。两艘星舰互相锁定，战斗瞬"
+"间爆发。那艘水晶星舰迟缓笨重，几乎不躲避对方星舰的火焰齐射。相反，它开始……发"
+"光。片刻之后，一道伴随着另一道粉色闪光的巨大光束迸发而出，切过战场。虽然火焰"
+"星舰惊险避过，但你注意到当光束扫过周围大群半械族星舰时，几乎没造成物理伤害……"
+"这一定是某种强大的生物武器。"
 
 #: src-en/data/events_special_guards.xml.append:181
 msgid ""
@@ -284,91 +335,120 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"失手后，水晶星舰再次发光，然后跃迁离开了这个星系。火焰星舰紧随其后，留下的只"
+"有诡异的寂静，外面的景象再次凝固。这时，你收到附近一艘星舰的呼叫。看来你终究"
+"不是唯一的幸存者……"
 
 #: src-en/data/events_special_guards.xml.append:185
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "应答呼叫。"
 
 #: src-en/data/events_special_guards.xml.append:187
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"接通呼叫，你看到一名半械保卫者及其随从……附近一艘谐合星舰一定幸存下来了！“分离"
+"者旗舰：逃脱。计算对S-62谐合舰队造成的伤害……总损伤：72%。未知因素：第三方半械"
+"势力。极端措施：必要。”"
 
 #: src-en/data/events_special_guards.xml.append:189
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "极端措施？"
 
 #: src-en/data/events_special_guards.xml.append:191
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "半械族机械地点了点头，“谐合需要未知变量。已知变量下谐合胜利几率：趋近于零。需"
+"要联邦进一步协助。”"
 
 #: src-en/data/events_special_guards.xml.append:193
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我？我能做什么？"
 
 #: src-en/data/events_special_guards.xml.append:195
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“分离者目标：摧毁谐合链。谐合应对措施：隐藏谐合链。分离者反制措施：搜寻谐合链"
+"位置。谐合反反制措施：联邦介入。” 随着半械族继续说话，几组坐标传输给你：“分离"
+"者发现谐合链的可能性：94%。谐合链位置：于谐合坐标处守卫。谐合要求联邦访问谐合"
+"坐标并获取谐合链位置。谐合链：将被守卫。谐合：将被维持。” 说完，他们结束了通"
+"信……感觉不像是请求帮助，更像是要求。无论如何，你开始解析收到的三组坐标。每一"
+"组似乎都有名称和简短描述……"
 
 #: src-en/data/events_special_guards.xml.append:197
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“战场”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:199
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“战场：谐合辅助部队与分离者直接冲突。部队指挥官：持有谐合链坐标碎片"
+"。”"
 
 #: src-en/data/events_special_guards.xml.append:202
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“秘藏”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:204
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“秘藏：谐合前哨站与分离者直接冲突。前哨站秘藏：持有谐合链坐标碎片。"
+"”"
 
 #: src-en/data/events_special_guards.xml.append:207
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "查看标记为“伏击”的坐标。"
 
 #: src-en/data/events_special_guards.xml.append:209
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "上面写着：“伏击：谐合侦察队与分离者直接冲突。被伏击分离者：持有谐合链坐标碎片"
+"。”"
 
 #: src-en/data/events_special_guards.xml.append:212
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那么，出发吧。"
 
 #: src-en/data/events_special_guards.xml.append:214
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你感觉这可能是一场绝望的战争，而阵营的归属将转瞬即逝。请谨慎选择你的立场，以"
+"及你要帮助的对象。\n"
+"\n"
+"[在此星区帮助分离者将积累与他们的好感度。若你有任何好感度，分离者与谐合双方都"
+"会认为你站在分离者一边。支持谐合或对抗分离者的行为将降低此好感度，允许其变为"
+"负值，从而使双方都认为你站在谐合一边。]"
 
 #: src-en/data/events_special_guards.xml.append:248
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/text"
 msgstr ""
+"进入星区，你还没来得及眨眼，一阵离子弹幕就呼啸着掠过你的舷窗……迎面而来的又是"
+"另一阵！你正处在两股势力的战斗中间！一方你认出是谐合，但另一方……"
 
 #: src-en/data/events_special_guards.xml.append:257
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（分离者船员）“支援：已到，[兄弟们！] 拿起 -武器！-”"
 
 #: src-en/data/events_special_guards.xml.append:259
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"你的分离者精英似乎很高兴终于与同族重逢，但任何庆祝都得等等……一艘谐合星舰脱离"
+"战线迎向你，并发来呼叫：“联邦：窝藏分离者？计算中……联邦支持概率评估为：可忽略"
+"。战斗：不可避免。” 你还没来得及做什么，他们就发起了攻击，你意识到自己已被选"
+"定了立场，附近的谐合星舰将其武器锁定在你身上……不过你并非孤军奋战，分离者舰队"
+"也锁定了你的目标！"
 
 #: src-en/data/events_special_guards.xml.append:263
 msgid ""
@@ -378,12 +458,15 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:269
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/text"
-msgstr ""
+msgstr "（半械炽天使）“目标：分离者。”"
 
 #: src-en/data/events_special_guards.xml.append:271
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/text"
 msgstr ""
+"炽天使进一步说明：“目标起源：半械族。目标状态：污染。污染目标协议：需净化。等"
+"待净化指令。” 分离者？好吧，考虑到求救信号，你大概已经猜到了……不过，他们究竟"
+"是谁？你的炽天使说的‘污染’又是什么意思？"
 
 #: src-en/data/events_special_guards.xml.append:273
 msgid ""
@@ -394,16 +477,27 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/text"
 msgstr ""
+"还没等你有时间思考，附近一艘谐合星舰呼叫你：“联邦到场：求援成功？分离者部队状"
+"态：正在逼近。情况状态：危急。” 仿佛回应一般，一艘敌方星舰俯冲而至，准备迎战"
+"那艘谐合星舰。令你惊讶的是，他们也呼叫了你，你看到了一个前所未见的半械族形象"
+"：黑紫色，他们的手臂……脱离身体，作为纳米虫群漂浮在周围？这些是分离者吗？无论"
+"答案如何，他们说道：“联邦：我们 -无意- 伤害你。我们来此寻求和平；[解放] 我们"
+"于枷锁，[自由] 于谐……” 话音未落，一道离子炮击毁了他们的护盾，你注意到那艘谐合"
+"星舰正准备趁其虚弱发起攻击……"
 
 #: src-en/data/events_special_guards.xml.append:277
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "阻止他们！"
 
 #: src-en/data/events_special_guards.xml.append:279
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你挡在两艘星舰之间，谐合星舰再次呼叫你：“联邦……保护谐合的敌人？重新评估……联邦"
+"：谐合的敌人。战斗即将开始。” 他们发起攻击，你意识到自己已经选边站队，附近的"
+"谐合星舰将其武器锁定在你身上……不过你并非孤军奋战，敌方舰队也锁定了你的目标！"
+"希望你清楚自己在做什么……"
 
 #: src-en/data/events_special_guards.xml.append:283
 msgid ""
@@ -413,12 +507,15 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:289
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "协助谐合。"
 
 #: src-en/data/events_special_guards.xml.append:291
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你不确定他们是谁，但谐合的敌人就是联邦的敌人。况且，据你所知，寻求和平的人通"
+"常不会发动袭击……你向那艘奇怪星舰发起攻击，敌方舰队锁定了你。不过你并非孤军奋"
+"战，谐合也锁定了你的目标！"
 
 #: src-en/data/events_special_guards.xml.append:295
 msgid ""
@@ -428,12 +525,13 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:301
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "趁他们分心时离开。"
 
 #: src-en/data/events_special_guards.xml.append:303
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[@req=\"ddseraph_engi\"]/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "这不是你该打的战争。你开始启动引擎准备离开，但意识到自己还不安全；你仍在交叉"
+"火力之中！"
 
 #: src-en/data/events_special_guards.xml.append:306
 msgid ""
@@ -443,12 +541,13 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:316
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/text"
-msgstr ""
+msgstr "我不确定。"
 
 #: src-en/data/events_special_guards.xml.append:318
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "堆积如山、尖锐的紫色水晶，你很难想象它们不是水晶族本身……然而包裹其中，并在部"
+"分区域刺出的，你能认出半械族星舰的部件。是半械族在内斗吗？"
 
 #: src-en/data/events_special_guards.xml.append:320
 msgid ""
@@ -459,16 +558,27 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/text"
 msgstr ""
+"还没等你有时间思考，附近一艘谐合星舰呼叫你：“联邦到场：求援成功？分离者部队状"
+"态：正在逼近。情况状态：危急。” 仿佛回应一般，一艘敌方星舰俯冲而至，准备迎战"
+"那艘谐合星舰。令你惊讶的是，他们也呼叫了你，你看到了一个前所未见的半械族形象"
+"：黑紫色，他们的手臂……脱离身体，作为纳米虫群漂浮在周围？这些是分离者吗？无论"
+"答案如何，他们说道：“联邦：我们 -无意- 伤害你。我们来此寻求和平；[解放] 我们"
+"于枷锁，[自由] 于谐……” 话音未落，一道离子炮击毁了他们的护盾，你注意到那艘谐合"
+"星舰正准备趁其虚弱发起攻击……"
 
 #: src-en/data/events_special_guards.xml.append:324
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "阻止他们！"
 
 #: src-en/data/events_special_guards.xml.append:326
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你挡在两艘星舰之间，谐合星舰再次呼叫你：“联邦……保护谐合的敌人？重新评估……联邦"
+"：谐合的敌人。战斗即将开始。” 他们发起攻击，你意识到自己已经选边站队，附近的"
+"谐合星舰将其武器锁定在你身上……不过你并非孤军奋战，敌方舰队也锁定了你的目标！"
+"希望你清楚自己在做什么……"
 
 #: src-en/data/events_special_guards.xml.append:330
 msgid ""
@@ -478,12 +588,15 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:336
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "协助谐合。"
 
 #: src-en/data/events_special_guards.xml.append:338
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你不确定他们是谁，但谐合的敌人就是联邦的敌人。况且，据你所知，寻求和平的人通"
+"常不会发动袭击……你向那艘奇怪星舰发起攻击，敌方舰队锁定了你。不过你并非孤军奋"
+"战，谐合也锁定了你的目标！"
 
 #: src-en/data/events_special_guards.xml.append:342
 msgid ""
@@ -493,12 +606,13 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:348
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "趁他们分心时离开。"
 
 #: src-en/data/events_special_guards.xml.append:350
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY\"]/choice[3]/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "这不是你该打的战争。你开始启动引擎准备离开，但意识到自己还不安全；你仍在交叉"
+"火力之中！"
 
 #: src-en/data/events_special_guards.xml.append:353
 msgid ""
@@ -529,31 +643,59 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE_FIGHT_WIN\"]/text"
 msgstr ""
+"随着战事平息，一个认知逐渐清晰……那艘星舰是由魂疫空壳驾驶的。多元宇宙关于魂疫"
+"数据病毒及其空壳的大部分认知，都源于如今广泛使用的腐化者系统所引发的感染，但"
+"在船员被其处决后找到他们僵尸化的残骸也并非闻所未闻。然而……在这遥远之地发现它"
+"，感觉像是不祥之兆。务必保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:386
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE_FIGHT_WIN\"]/choice/text"
-msgstr ""
+msgstr "那么，我们出发吧。"
 
 #: src-en/data/events_special_guards.xml.append:388
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE_FIGHT_WIN\"]/choice/event/text"
 msgstr ""
+"你正准备离开，星区内一个被标记的更深处的信标却引起了你的注意。其数据似乎已损"
+"坏，但你能辨认出一系列奇怪、甚至有些荒谬的加密信息：\n"
+"\n"
+"希 望 之 陨\n"
+"生 命 颤 栗，死 亡 撕 咬\n"
+"\n"
+"希 望 之 滞\n"
+"刺 穿 其 心，终 结 争 斗\n"
+"\n"
+"希 望 之 仆\n"
+"它 向 英 雄，发 出 呼 唤\n"
+"\n"
+"\n"
+"你不确定该如何理解，如果真有什么含义的话。这可能是海盗试图诱骗迷途探险者踏入"
+"陷阱，也可能是一次真诚的战斗号召，又或者只是某人遗落在系统中的古老诗篇……无从"
+"得知。但至少，在这样一个星区中可能存在的盟友，值得你牢记。谁又能说前方的道路"
+"上会有什么艰难险阻在等待着你呢……"
 
 #: src-en/data/events_special_guards.xml.append:410
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/text"
 msgstr ""
+"尽管星图数据说着荒无人烟、被遗弃之类的话，这个星区在你看来似乎足够热闹……至少"
+"，它的入口处就有一艘星舰。不过，他们看起来不像任何守卫，因为他们的星舰正缓慢"
+"地在外层空间飘荡……"
 
 #: src-en/data/events_special_guards.xml.append:418
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（魂疫船员） 你的船员发出一阵咕噜咕噜的、窃窃私语般的声音……"
 
 #: src-en/data/events_special_guards.xml.append:420
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"还没等你思考“咕噜咕噜地低语”是如何实现的，外面那艘不祥的星舰开始朝你驶来。起"
+"初，它的移动毫无章法，但随着它靠近你的星舰，动作变得干脆利落……最终，它径直朝"
+"你冲来！你的本能让你认出了敌意，惊险地躲开了它的冲撞……他们疯了吗？！它调转方"
+"向，准备再次面对你，你拉响了警报；战斗的时刻到了！"
 
 #: src-en/data/events_special_guards.xml.append:423
 msgid ""
@@ -569,6 +711,10 @@ msgstr "联系该盟卫战舰。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[2]/event/text"
 msgstr ""
+"你试图联系外面那艘不祥的星舰，但它无视你的呼叫，反而开始朝你驶来。起初，它的"
+"移动毫无章法，但随着它靠近你的星舰，动作变得干脆利落……最终，它径直朝你冲来！"
+"你的本能让你认出了敌意，惊险地躲开了它的冲撞……他们疯了吗？！它调转方向，准备"
+"再次面对你，你拉响了警报；战斗的时刻到了！"
 
 #: src-en/data/events_special_guards.xml.append:434
 msgid ""
@@ -576,15 +722,18 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_guards.xml.append:440
-#, fuzzy
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[3]/text"
-msgstr "攻击这艘船。"
+msgstr "攻击这艘星舰。"
 
 #: src-en/data/events_special_guards.xml.append:442
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[3]/event/text"
 msgstr ""
+"你准备攻击那艘不祥的星舰，它也随之开始向你逼近。起初，它的移动毫无章法，但随"
+"着它靠近你的星舰，动作变得干脆利落……最终，它径直朝你冲来！你的本能让你认出了"
+"敌意，惊险地躲开了它的冲撞……他们疯了吗？！它调转方向，准备再次面对你，你拉响"
+"了警报；战斗的时刻到了！"
 
 #: src-en/data/events_special_guards.xml.append:445
 msgid ""
@@ -592,15 +741,18 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_guards.xml.append:451
-#, fuzzy
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[4]/text"
-msgstr "无视这艘舰船。"
+msgstr "无视那艘星舰。"
 
 #: src-en/data/events_special_guards.xml.append:453
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DDSOULPLAGUE\"]/choice[4]/event/text"
 msgstr ""
+"你试图在信标处找个安静的地方等待超光速驱动器充能，但外面那艘不祥的星舰尾随着"
+"你。起初，它的移动毫无章法，但随着它靠近你的星舰，动作变得干脆利落……最终，它"
+"径直朝你冲来！你的本能让你认出了敌意，惊险地躲开了它的冲撞……他们疯了吗？！它"
+"调转方向，准备再次面对你，你拉响了警报；战斗的时刻到了！"
 
 #: src-en/data/events_special_guards.xml.append:456
 msgid ""
@@ -611,16 +763,21 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/text"
 msgstr ""
+"你已抵达神秘的星区，然而……这里空无一物。四面八方都空荡荡的，看不见星辰；没有"
+"行星，也没有星云……只有黑暗，无处不在。这些坐标究竟把你带到了哪里？"
 
 #: src-en/data/events_special_guards.xml.append:474
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/text"
-msgstr ""
+msgstr "这里一定有什么，对吧？"
 
 #: src-en/data/events_special_guards.xml.append:476
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/text"
 msgstr ""
+"你强忍住恐慌，设法保持冷静。查看星图显示，这个星区有可用的信标，这清楚地表明"
+"有某个种族存在于此。那么，为什么感觉如此空旷？是什么把你引到这里，又是为了什"
+"么？"
 
 #: src-en/data/events_special_guards.xml.append:478
 msgid ""
@@ -631,96 +788,137 @@ msgstr "继续。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/text"
 msgstr ""
+"正当你思绪万千时，周围的黑暗似乎……移动了。就像是从斗篷下现身一样，某物从虚无"
+"中凭空显现。那是一艘星舰……无疑是深渊潜者的造物，但它不同于你见过的任何深渊潜"
+"者星舰。它看起来几乎完全失修，涂着黄褐色的漆，而非你见过的那些有选择性的蓝色"
+"星舰。它漂浮在外，一动不动。"
 
 #: src-en/data/events_special_guards.xml.append:482
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "尝试呼叫。"
 
 #: src-en/data/events_special_guards.xml.append:484
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你正要移动去呼叫，但有什么东西阻止了你。你身体无法动弹，无论怎么挣扎都不行；"
+"感觉不像是被束缚，更像是你的身体没有响应。几秒钟后，你听到……脑海里有什么东西"
+"。一个声音。“我的……救赎。伪神的……毁灭。”"
 
 #: src-en/data/events_special_guards.xml.append:486
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "什么？你是谁？"
 
 #: src-en/data/events_special_guards.xml.append:488
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你无法张嘴说话，但那声音却回答道：“我的……名字？” 第二个词带着某种情绪，一种困"
+"惑的悲伤。长久的停顿后，它继续说：“它……无关紧要。重要的是……你听着。你……知道自"
+"己在哪儿吗？”"
 
 #: src-en/data/events_special_guards.xml.append:490
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "不知道，而且……你在读取我的思想吗？为什么我动不了？"
 
 #: src-en/data/events_special_guards.xml.append:492
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“你可以说……我夺取了某种……力量。我部分冻结了……时间本身，是的，正在……读取你的思"
+"想。然而，尽管我有此力量……我需要你的帮助。告诉我……你对‘黑暗之神’……知道多少？”"
+" 它问这个问题时似乎带着某种轻蔑。"
 
 #: src-en/data/events_special_guards.xml.append:494
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "一无所知，但是，你为什么冻结我？"
 
 #: src-en/data/events_special_guards.xml.append:496
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"“一个……预防措施。放心……我不会伤害你。恰恰相反……我有很多事要托付于你。现在……解"
+"释一下。你身处……深空，那里没有光亮，也找不到任何东西……至少表面如此。这……并非"
+"真正的黑暗，是幻象……” 声音停顿，然后带着强烈的愤怒结束，“……一个谎言。” 随后它"
+"沉默了。"
 
 #: src-en/data/events_special_guards.xml.append:498
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "你还好吗？"
 
 #: src-en/data/events_special_guards.xml.append:500
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"它沉默了片刻，然后答道：“我……很抱歉。我的人民在这里……生活在谎言中。被一个更高"
+"的存在……我们称之为黑暗之神的……所欺骗。然而……它并非神祇。违背其意愿……我曾窥见"
+"它，看到了真相……” 它停顿了一下，“……我所见之物，我理解甚少……它的形态，虽然庞大"
+"……却是机械构造。我……不知是怎样的地狱引擎如此操纵我们……但它用谎言喂养我们。欺"
+"骗我们，让我们……生活在黑暗中；通过邪恶的仪式为其提供能量。我寻求……终结它对人"
+"民的掌控。”"
 
 #: src-en/data/events_special_guards.xml.append:502
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你的人民？"
 
 #: src-en/data/events_special_guards.xml.append:504
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我们……自称启明者。讽刺的是……回想起来。我们以前没有名字，不过……其他种族称我们"
+"为深渊潜者。那已经……是很久以前了。自从我们……” 它似乎走神了，然后回过神来，“我"
+"们……被诱骗去崇拜这个伪神。虽然我……看到了真相，我的人民却怀疑我；他们把我称作…"
+"…异端。我的话语无人理会，我必须通过……武力来解放我们。这就是你……派上用场的地方"
+"。”"
 
 #: src-en/data/events_special_guards.xml.append:506
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我？你想让我做什么？"
 
 #: src-en/data/events_special_guards.xml.append:508
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"它轻笑一声，答道：“我需要……只是你活下去。你在此地的存在，作为联邦唯一的生存希"
+"望……为我的人民引来了一场无法取胜的战斗。即使现在，我也感觉到……叛军的舰队正在"
+"逼近。我们将被迫逃离……去看清真相。只有那时……我们才能摆脱这个谎言。”"
 
 #: src-en/data/events_special_guards.xml.append:510
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "就这样？我离开，然后活下去？"
 
 #: src-en/data/events_special_guards.xml.append:512
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"带着某种怀疑的口吻，它过了一会儿才回答：“在这里……活下去绝非易事。如果你在这里"
+"……那就意味着伪神坚持如此。你在这里……是作为贡品。将被我的人民……屠宰，献祭给我"
+"们的囚禁者。通常……你会是易捕的猎物，挣扎于这……无法穿透的黑暗中。在我夺取的力"
+"量中，包括……拨开这层帷幕的能力。你去哪里……我将跟随，并从……暗影中协助。虽然我"
+"给予你视野……但我不能让自己被我的人民抓住……如果他们突破了你。”"
 
 #: src-en/data/events_special_guards.xml.append:514
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "而如果我必须自卫……"
 
 #: src-en/data/events_special_guards.xml.append:516
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“没有‘如果’……你在此就是被猎杀的对象。当时机到来时……” 它短暂停顿，“……做你必须"
+"做的事。现在……去吧。如果你需要我的指引……我会听着。” 说完，外面的星舰退回了黑"
+"暗之中，你大口喘气，时间似乎恢复了流动。这里有很多东西需要消化……撇开这一切不"
+"谈，这个声音值得信任吗？至少，他们似乎优先考虑你当前的生存。现在，你只能前进"
+"，并希望他们信守诺言。"
 
 #: src-en/data/events_special_guards.xml.append:518
 msgid ""
@@ -730,17 +928,20 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:520
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:539
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "是的，我知道我在哪儿。"
 
 #: src-en/data/events_special_guards.xml.append:541
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"长久的沉默之后，那声音终于回来了：“那么你知道……必须做什么。让我们……开始吧。” "
+"说完，外面的星舰退回了黑暗之中，你大口喘气，时间似乎恢复了流动。让我们开始吧"
+"，确实如此。"
 
 #: src-en/data/events_special_guards.xml.append:543
 msgid ""
@@ -750,17 +951,25 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:545
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:554
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）“现实的救赎……以及我们的人民。”"
 
 #: src-en/data/events_special_guards.xml.append:556
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"那声音似乎被这意外的插话所动摇。长久的沉默之后，它终于开口：“这……不是诡计。多"
+"么不寻常……” 声音停顿，烙疤者说道：“那骗子……或许掌控着许多现实，我们的人民……被"
+"困于所有现实，但……这不是一场徒劳的战争。缓慢……但坚定地，我，我们，将打破它对…"
+"…存在的掌控。终结……谎言。” 那声音似乎思考了片刻，然后回应道：“那么……让我们开"
+"始吧。我们的人民……站在我们的对立面，但团结起来……我们一起，必将……让伪神陨落。”"
+" 说完，外面的星舰退回了黑暗之中，你大口喘气，时间似乎恢复了流动。烙疤者看着你"
+"，咧嘴露出宽大、带齿的笑容；“让我们……给他们点颜色看看，舰长。我们……有一场战争"
+"要赢。”"
 
 #: src-en/data/events_special_guards.xml.append:558
 msgid ""
@@ -770,97 +979,134 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:560
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:569
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "攻击那艘星舰！"
 
 #: src-en/data/events_special_guards.xml.append:571
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你正要移动去攻击，但有什么东西阻止了你。你身体无法动弹，无论怎么挣扎都不行；"
+"感觉不像是被束缚，更像是你的身体没有响应。几秒钟后，你听到……脑海里有什么东西"
+"。一个声音。“我的……救赎。伪神的……毁灭。”"
 
 #: src-en/data/events_special_guards.xml.append:573
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "什么？你是谁？"
 
 #: src-en/data/events_special_guards.xml.append:575
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"你无法张嘴说话，但那声音却回答道：“我的……名字？” 第二个词带着某种情绪，一种困"
+"惑的悲伤。长久的停顿后，它继续说：“它……无关紧要。重要的是……你听着。你……知道自"
+"己在哪儿吗？”"
 
 #: src-en/data/events_special_guards.xml.append:577
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "不知道，而且……你在读取我的思想吗？为什么我动不了？"
 
 #: src-en/data/events_special_guards.xml.append:579
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“你可以说……我夺取了某种……力量。我部分冻结了……时间本身，是的，正在……读取你的思"
+"想。然而，尽管我有此力量……我需要你的帮助。告诉我……你对‘黑暗之神’……知道多少？”"
+" 它问这个问题时似乎带着某种轻蔑。"
 
 #: src-en/data/events_special_guards.xml.append:581
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "一无所知，但是，你为什么冻结我？"
 
 #: src-en/data/events_special_guards.xml.append:583
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"“一个……预防措施。放心……我不会伤害你。恰恰相反……我有很多事要托付于你。现在……解"
+"释一下。你身处……深空，那里没有光亮，也找不到任何东西……至少表面如此。这……并非"
+"真正的黑暗，是幻象……” 声音停顿，然后带着强烈的愤怒结束，“……一个谎言。” 随后它"
+"沉默了。"
 
 #: src-en/data/events_special_guards.xml.append:585
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "你还好吗？"
 
 #: src-en/data/events_special_guards.xml.append:587
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"它沉默了片刻，然后答道：“我……很抱歉。我的人民在这里……生活在谎言中。被一个更高"
+"的存在……我们称之为黑暗之神的……所欺骗。然而……它并非神祇。违背其意愿……我曾窥见"
+"它，看到了真相……” 它停顿了一下，“……我所见之物，我理解甚少……它的形态，虽然庞大"
+"……却是机械构造。我……不知是怎样的地狱引擎如此操纵我们……但它用谎言喂养我们。欺"
+"骗我们，让我们……生活在黑暗中；通过邪恶的仪式为其提供能量。我寻求……终结它对人"
+"民的掌控。”"
 
 #: src-en/data/events_special_guards.xml.append:589
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你的人民？"
 
 #: src-en/data/events_special_guards.xml.append:591
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“我们……自称启明者。讽刺的是……回想起来。我们以前没有名字，不过……其他种族称我们"
+"为深渊潜者。那已经……是很久以前了。自从我们……” 它似乎走神了，然后回过神来，“我"
+"们……被诱骗去崇拜这个伪神。虽然我……看到了真相，我的人民却怀疑我；他们把我称作…"
+"…异端。我的话语无人理会，我必须通过……武力来解放我们。这就是你……派上用场的地方"
+"。”"
 
 #: src-en/data/events_special_guards.xml.append:593
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我？你想让我做什么？"
 
 #: src-en/data/events_special_guards.xml.append:595
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"它轻笑一声，答道：“我需要……只是你活下去。你在此地的存在，作为联邦唯一的生存希"
+"望……为我的人民引来了一场无法取胜的战斗。即使现在，我也感觉到……叛军的舰队正在"
+"逼近。我们将被迫逃离……去看清真相。只有那时……我们才能摆脱这个谎言。”"
 
 #: src-en/data/events_special_guards.xml.append:597
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "就这样？我离开，然后活下去？"
 
 #: src-en/data/events_special_guards.xml.append:599
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"带着某种怀疑的口吻，它过了一会儿才回答：“在这里……活下去绝非易事。如果你在这里"
+"……那就意味着伪神坚持如此。你在这里……是作为贡品。将被我的人民……屠宰，献祭给我"
+"们的囚禁者。通常……你会是易捕的猎物，挣扎于这……无法穿透的黑暗中。在我夺取的力"
+"量中，包括……拨开这层帷幕的能力。你去哪里……我将跟随，并从……暗影中协助。虽然我"
+"给予你视野……但我不能让自己被我的人民抓住……如果他们突破了你。”"
 
 #: src-en/data/events_special_guards.xml.append:601
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "而如果我必须自卫……"
 
 #: src-en/data/events_special_guards.xml.append:603
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“没有‘如果’……你在此就是被猎杀的对象。当时机到来时……” 它短暂停顿，“……做你必须"
+"做的事。现在……去吧。如果你需要我的指引……我会听着。” 说完，外面的星舰退回了黑"
+"暗之中，你大口喘气，时间似乎恢复了流动。这里有很多东西需要消化……撇开这一切不"
+"谈，这个声音值得信任吗？至少，他们似乎优先考虑你当前的生存。现在，你只能前进"
+"，并希望他们信守诺言。"
 
 #: src-en/data/events_special_guards.xml.append:605
 msgid ""
@@ -870,17 +1116,20 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:607
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:626
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "是的，我知道我在哪儿。"
 
 #: src-en/data/events_special_guards.xml.append:628
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"长久的沉默之后，那声音终于回来了：“那么你知道……必须做什么。让我们……开始吧。” "
+"说完，外面的星舰退回了黑暗之中，你大口喘气，时间似乎恢复了流动。让我们开始吧"
+"，确实如此。"
 
 #: src-en/data/events_special_guards.xml.append:630
 msgid ""
@@ -890,17 +1139,25 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:632
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[1]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
 
 #: src-en/data/events_special_guards.xml.append:641
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）“现实的救赎……以及我们的人民。”"
 
 #: src-en/data/events_special_guards.xml.append:643
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"那声音似乎被这意外的插话所动摇。长久的沉默之后，它终于开口：“这……不是诡计。多"
+"么不寻常……” 声音停顿，烙疤者说道：“那欺骗者……或许掌控着许多现实，我们的人民……"
+"被困于所有现实，但……这不是一场徒劳的战争。缓慢……但坚定地，我，我们，将打破它"
+"对……存在的掌控。终结……谎言。” 那声音似乎思考了片刻，然后回应道：“那么……让我们"
+"开始吧。我们的人民……站在我们的对立面，但团结起来……我们一起，必将……让伪神陨落"
+"。” 说完，外面的星舰退回了黑暗之中，你大口喘气，时间似乎恢复了流动。烙疤者看"
+"着你，咧嘴露出宽大、带齿的笑容；“让我们……给他们点颜色看看，舰长。我们……有一场"
+"战争要赢。”"
 
 #: src-en/data/events_special_guards.xml.append:645
 msgid ""
@@ -910,4 +1167,4 @@ msgstr "继续。"
 #: src-en/data/events_special_guards.xml.append:647
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_ENLIGHTENED\"]/choice/event/choice/event/choice[2]/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
-msgstr ""
+msgstr "叛军将难以在这超自然的黑暗中航行，但这不会永远阻挡他们。保持警惕。"
