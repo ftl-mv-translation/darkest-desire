@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 13:47+0000\n"
+"PO-Revision-Date: 2026-01-16 23:20+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_lightspeedxmlappend/zh_Hans/>\n"
@@ -52,19 +52,19 @@ msgstr "进入？？？。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "前往深渊潜者星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:34
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "前往谐合(?)星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:38
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_MENU_NOEQUIPMENT\"]/mod-"
 "append:choice[3]/text"
-msgstr ""
+msgstr "前往废弃星云星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:42
 msgid ""
@@ -193,6 +193,13 @@ msgstr "调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDCOREMASS_WARP\"]/text"
 msgstr ""
+"名称：???\n"
+"\t类型：???\n"
+"\t主导势力：???\n"
+"\t叛军威胁等级：???\n"
+"\n"
+"\t读数显示你尚未移动至任何地方，但你显然正被以超光速拖行。无论这虫洞将带你去"
+"往何处，它所遵循的法则必定与多元宇宙的其余部分不同……"
 
 #: src-en/data/events_special_lightspeed.xml.append:172
 msgid ""
@@ -213,6 +220,13 @@ msgstr "本次跃迁无法调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDDARKONE_WARP\"]/text"
 msgstr ""
+"名称：???\n"
+"\t类型：???\n"
+"\t主导势力：???\n"
+"\t叛军威胁等级：???\n"
+"\n"
+"\t你似乎正被拖向更深处，越来越深，直至进入启明者虚空所占据的这片浩瀚空间的核"
+"心区域。随着星舰持续被拖行、拖行……你感到越来越不安。"
 
 #: src-en/data/events_special_lightspeed.xml.append:193
 msgid ""
@@ -233,6 +247,13 @@ msgstr "本次跃迁无法调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"DDANTUMBRA_WARP\"]/text"
 msgstr ""
+"名称：???\n"
+"\t类型：???\n"
+"\t主导势力：???\n"
+"\t叛军威胁等级：???\n"
+"\n"
+"\t当你的星舰持续被拖过虫洞时，掠过的并非星辰，而是整个现实。你被拖拽着，拖拽"
+"着，拖向星舰如今已趋模糊的读数所指之处——多元宇宙的边缘。你所知的一切的边界……"
 
 #: src-en/data/events_special_lightspeed.xml.append:214
 msgid ""
@@ -253,95 +274,97 @@ msgstr "本次跃迁无法调整航径。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice[1]/text"
-msgstr ""
+msgstr "前往未知星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:233
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU\"]/mod-"
 "append:choice[2]/text"
-msgstr ""
+msgstr "前往深渊潜者星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:240
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"REROUTE_MENU_LASTSTAND\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "前往未知星区。"
 
 #: src-en/data/events_special_lightspeed.xml.append:247
 msgid ""
 "data/events_special_lightspeed.xml.append$//mod:findName[@name=\"ATLAS_EQUIPMENT\"]/mod-"
 "append:choice/text"
-msgstr ""
+msgstr "使用异界典籍进行一项仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:253
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/text"
-msgstr ""
+msgstr "你手持异界典籍做好准备，舱外有无尽的星辰飞掠而过。"
 
 #: src-en/data/events_special_lightspeed.xml.append:255
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/text"
-msgstr ""
+msgstr "准备一份祭品。"
 
 #: src-en/data/events_special_lightspeed.xml.append:257
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你渴望献祭一个人类的生命，还是献祭你的废料？"
 
 #: src-en/data/events_special_lightspeed.xml.append:259
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（人类祭品）献祭一名你准备好的人类生命。"
 
 #: src-en/data/events_special_lightspeed.xml.append:261
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他胸膛时，这名人类祭品甚至没有动弹。他的血液涌出，一部分直接流"
+"到你手上，你发觉这血液异常冰冷……但这无关紧要。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:265
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆一个灵魂已被剥离躯体的人。"
 
 #: src-en/data/events_special_lightspeed.xml.append:268
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/choice/text"
-msgstr ""
+msgstr "准备一项仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:274
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）献祭一个人类的生命。"
 
 #: src-en/data/events_special_lightspeed.xml.append:280
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆一个灵魂已被剥离躯体的人。"
 
 #: src-en/data/events_special_lightspeed.xml.append:283
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/text"
-msgstr ""
+msgstr "准备一项仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:289
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "献祭一堆废料。"
 
 #: src-en/data/events_special_lightspeed.xml.append:297
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "准备一项仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:303
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "算了，取消仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:305
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "你犹豫了。显然，这不值得……你离开了房间，将异界典籍留在身后——心中仍带着一丝悔"
+"意。"
 
 #: src-en/data/events_special_lightspeed.xml.append:308
 msgid ""
@@ -351,12 +374,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:316
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/text"
-msgstr ""
+msgstr "（神圣生命体）免费进行神圣残骸仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:318
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_DIVINEGIMMICK\"]/event/text"
 msgstr ""
+"你的星舰即是神性，你将仅凭此起誓。在你脑海深处，和弦开始奏响……最终，在第七个"
+"也是最后一个音符响起时，你感觉自己仿佛明白了何处需要你。你的星舰传承所在之处—"
+"—你的利刃必须斩向之处。那么，前进吧……去取回你星舰与生俱来的权利。"
 
 #: src-en/data/events_special_lightspeed.xml.append:322
 msgid ""
@@ -367,35 +393,36 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "进行狩猎仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:330
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "蜡烛点燃，你跪在放置异界典籍的祭坛前。诵读祷文，向黑暗之神献上你的虔诚，并宣"
+"告你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:332
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "我渴望……贡物。"
 
 #: src-en/data/events_special_lightspeed.xml.append:338
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[@req=\"LIST_CREW_DDHUMANSACRIFICE\""
 " and @lvl=\"8\"]/text"
-msgstr ""
+msgstr "你已容纳了太多祭品，无法同时进行狩猎仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:342
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[5]/text"
-msgstr ""
+msgstr "算了，不进行仪式了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:344
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL\"]/choice[5]/event/text"
-msgstr ""
+msgstr "你犹豫了。显然这不值得……你离开了房间，离开了异界典籍。"
 
 #: src-en/data/events_special_lightspeed.xml.append:347
 msgid ""
@@ -406,241 +433,301 @@ msgstr "继续。"
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[1]"
 msgstr ""
+"那名人类在被拖入房间时又抓又踢，但一阵寒风吹过房间，吹熄了蜡烛，将房间投入黑"
+"暗，他的挣扎被证明是徒劳的。星舰里怎么会有风……一声尖叫响起，但随即同样迅速地"
+"沉寂了。蜡烛自行重新点燃，那名人类已死。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:356
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[2]"
 msgstr ""
+"接受了他们的结局，那名人类与你一同在异界典籍前祈祷。或许他们在祈求宽恕，或怜"
+"悯……抑或仅仅是他们自身的灭亡。无论如何，最后一种情况发生了，他们的眼睛翻白，"
+"气息离开身体；那名人类已死。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:357
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[3]"
-msgstr ""
+msgstr "“等等！求求你，别这么做！我很有用，我发誓！求你了！” 他们的恳求无人理会，一把"
+"匕首刺入胸膛，他们瘫倒下去；那名人类已死。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:358
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[4]"
 msgstr ""
+"目光扫视着房间，那名人类对你说：“你们这些人疯了吗？联邦知道这个……这个……邪教吗"
+"？” 不，你想他们不知道……而且只要你还能控制，他们就不会知道。你在此所做的一切"
+"，都是为了这个现实。至少，当你将匕首刺入那名人类心脏时，你是这样告诉自己的……"
+"他们死了。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:359
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[5]"
 msgstr ""
+"这个祭品没怎么反抗，但他们也并非轻易就范……当你将他们拖入房间时，他们只是软绵"
+"绵的。或许他们本来就已经死了……唉，算了。如果之前还没死，在胸口被刺之后肯定死"
+"了。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:360
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_HUMANSACRIFICE\"]/text[6]"
 msgstr ""
+"强行将那名人类带入房间，墙壁似乎隆隆作响。明白了暗示，你将祭品单独留在房间里"
+"，锁上了门。尖叫声没有持续多久。进去后，血污沾满了地板、墙壁，实际上是一切……"
+"那名人类已死。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:364
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[1]"
 msgstr ""
+"你在放置异界典籍的祭坛前堆放了大量的垃圾。房间震动，明白了暗示，你离开了房间"
+"。片刻间能听到研磨和刮擦声，但随后而来的寂静才让你感到真正刺骨。重新进入房间"
+"，废料不见了。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:365
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[2]"
 msgstr ""
+"虽然你不完全明白黑暗之神为何要插手废料，你还是按照异界典籍的指示，准备了一大"
+"堆。房间变得冰冷，蜡烛闪烁，然后……扭曲了。你感到温暖……被拥抱。睁开眼睛，发现"
+"废料消失了。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:366
 msgid ""
 "data/events_special_lightspeed.xml.append$//textList[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_SCRAPSACRIFICE\"]/text[3]"
 msgstr ""
+"你的一部分在好奇黑暗之神到底用这些垃圾做什么……但另一部分只希望这一切快点结束"
+"。将废料大致堆好，你进行了几次祈祷，感觉房间里的能量发生了变化。眨眼间，废料"
+"消失了。祭品已成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:370
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/text"
-msgstr ""
+msgstr "祭品已备，你准备好进行一项仪式了……不过你知道时间不多，不能犹豫，因为你的目的"
+"地正在接近。"
 
 #: src-en/data/events_special_lightspeed.xml.append:374
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/text"
-msgstr ""
+msgstr "进行一次基础仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:376
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用墨黑色书写的文字上。其中描述了几种基础仪式"
+"的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:378
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "进行黑暗武器仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:380
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你在手掌上划开一道口子，伸向异界典籍，诵读祷文。你的血液在掌心聚集并发热，最"
+"终沸腾起来……痛苦难忍。仁慈的是，它停止了，而你的手在应被割伤和灼伤的地方却不"
+"知怎地愈合了。现在你只需宣告你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:382
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我渴望……武器。"
 
 #: src-en/data/events_special_lightspeed.xml.append:388
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "进行阴影无人机仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:390
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你用粉笔在地板上描画着异界典籍中描述的一组奇怪的线条和半球图案。当你画完时，"
+"粉笔摸起来是温热的……现在，你必须让你的渴望被听到。"
 
 #: src-en/data/events_special_lightspeed.xml.append:392
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "我渴望……无人机。"
 
 #: src-en/data/events_special_lightspeed.xml.append:398
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "进行不安之魂仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:400
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"按照异界典籍的要求，你找来一小块锋利的金属。然后，你念诵简短的咒语，瞬间，那"
+"块金属从你手中跃出——仿佛有自己的意志般，刺入了你的头颅。然而，你感觉到的不是"
+"疼痛，当它钻得越来越深，鲜血从伤口涌出时……而是一种全然的理解。只要你认识到你"
+"的渴望，你就没事……"
 
 #: src-en/data/events_special_lightspeed.xml.append:402
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "我渴望……灵魂。"
 
 #: src-en/data/events_special_lightspeed.xml.append:408
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "进行腐化仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:410
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"你拿起一根备用的管子抵在膝盖上，折断它。然后，你又折断另一根，还有你脆弱的肩"
+"膀，以及每一根肋骨。形容这种痛苦为“极度”都是轻描淡写，然而，当你的骨骼愈合，"
+"胸腔内的嗡鸣召唤你去实现你的渴望时，你知道这是值得的……"
 
 #: src-en/data/events_special_lightspeed.xml.append:412
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "我渴望……腐化。"
 
 #: src-en/data/events_special_lightspeed.xml.append:418
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "进行神秘招募仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:420
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"异界典籍写道，你必须冥想并在脑海中构想一幅画面……于是，你盘腿坐在房间中央，双"
+"手举至胸前祈祷。准备好冥想后，你思考着潜在的招募对象……几张面孔浮现，但细节并"
+"不重要。你必须专注于你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:422
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[5]/event/choice/text"
-msgstr ""
+msgstr "我渴望……新成员。"
 
 #: src-en/data/events_special_lightspeed.xml.append:428
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "进行真诚信徒仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:430
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"按照仪式要求，你举起一把匕首……刺入自己的胸膛。剧痛灼热，难以忍受，但很快便化"
+"为一种……抚慰的温暖。你感觉匕首在手中融化，看着它被吸收进你的身体。伤口愈合了"
+"，你知道你必须实现你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:432
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[6]/event/choice/text"
-msgstr ""
+msgstr "我渴望……虔诚。"
 
 #: src-en/data/events_special_lightspeed.xml.append:438
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/text"
-msgstr ""
+msgstr "进行恐怖景象仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:440
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/event/text"
 msgstr ""
+"如仪式所命，你闭上眼睛，念诵咒语。恐怖的幻象开始笼罩你的心智……难以描述的怪物"
+"，连同由阴影和灰烬诞生的扭曲现实——如果不是在黑暗之神的注视下，你很可能会发疯"
+"。但既然它的注意力在你身上，你知道你必须对这些噩梦保持心智坚定，并实现你的渴"
+"望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:442
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[7]/event/choice/text"
-msgstr ""
+msgstr "我渴望……恐怖景象。"
 
 #: src-en/data/events_special_lightspeed.xml.append:448
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/text"
-msgstr ""
+msgstr "进行诡异就职仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:450
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/text"
 msgstr ""
+"你用笔在地板上画了一个粗糙的深渊潜者图案。用刀划开自己，让血液流到图案上。最"
+"后，通过祈祷……你要求与黑暗之神会面。它听到了，你知道你必须实现你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:452
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[@req=\"dd_ritualofeerieinaugurationcompleted\"]/event/choice/text"
-msgstr ""
+msgstr "我渴望……就职。"
 
 #: src-en/data/events_special_lightspeed.xml.append:458
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "进行决心仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:460
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
+"你闭上眼睛，思考你的使命……从叛军手中拯救这个现实。你不想为了黑暗之神扭曲的游"
+"戏再牺牲另一个灵魂。它接受了这一点，一如既往地乐于取悦，并希望听到你的渴望……"
 
 #: src-en/data/events_special_lightspeed.xml.append:462
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/choice[1]/text"
-msgstr ""
+msgstr "我渴望……决心。"
 
 #: src-en/data/events_special_lightspeed.xml.append:466
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[1]/event/choice[9]/event/choice[2]/text"
-msgstr ""
+msgstr "不……等等，我渴望继续我的虔诚。"
 
 #: src-en/data/events_special_lightspeed.xml.append:474
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/text"
-msgstr ""
+msgstr "（莉莉丝）进行一次升腾仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:476
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
+"你翻阅异界典籍的书页，最终停在了用深红色描述的文字上。其中描述了启明者的仪式"
+"和升腾咒语。书中解释，每组只能施展一个咒语，且必须按照“军团”、“高级召唤”和“力"
+"量”的顺序进行。"
 
 #: src-en/data/events_special_lightspeed.xml.append:478
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/text"
-msgstr ""
+msgstr "施展军团咒语之一。"
 
 #: src-en/data/events_special_lightspeed.xml.append:480
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/text"
-msgstr ""
+msgstr "书中描述了几种咒语。你渴望哪一种？"
 
 #: src-en/data/events_special_lightspeed.xml.append:482
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/text"
-msgstr ""
+msgstr "次级噩梦祭司咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:484
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你让莉莉丝跟随你进入房间，准备咒语。她略微退缩，可能回想起了上一次她参与的仪"
+"式结果……"
 
 #: src-en/data/events_special_lightspeed.xml.append:486
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "没事的，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:488
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:494
 msgid ""
@@ -650,22 +737,26 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:502
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/text"
-msgstr ""
+msgstr "噩梦半械族咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:504
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你让莉莉丝跟随你进入房间，准备咒语。她略微退缩，可能回想起了上一次她参与的仪"
+"式结果……"
 
 #: src-en/data/events_special_lightspeed.xml.append:506
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "没事的，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:508
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:513
 msgid ""
@@ -675,22 +766,26 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:521
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/text"
-msgstr ""
+msgstr "噩梦潜行者咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:523
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你让莉莉丝跟随你进入房间，准备咒语。她略微退缩，可能回想起了上一次她参与的仪"
+"式结果……"
 
 #: src-en/data/events_special_lightspeed.xml.append:525
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "没事的，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:527
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_incantationsofthehordecompleted\"]/event/choice[3]/event/choice/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:532
 msgid ""
@@ -700,32 +795,35 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:542
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/text"
-msgstr ""
+msgstr "施展高级召唤咒语之一。"
 
 #: src-en/data/events_special_lightspeed.xml.append:544
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/text"
-msgstr ""
+msgstr "书中描述了几种咒语。你渴望哪一种？"
 
 #: src-en/data/events_special_lightspeed.xml.append:546
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "高级噩梦爬行者咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:548
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "又一次，莉莉丝跟随你，坐在异界典籍旁。她似乎对现状更加适应了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:550
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:552
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:557
 msgid ""
@@ -735,12 +833,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:563
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:565
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:570
 msgid ""
@@ -750,12 +851,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:576
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:578
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:583
 msgid ""
@@ -765,22 +869,25 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:591
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/text"
-msgstr ""
+msgstr "高级噩梦聚合体咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:593
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "又一次，莉莉丝跟随你，坐在异界典籍旁。她似乎对现状更加适应了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:595
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:597
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:603
 msgid ""
@@ -790,12 +897,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:609
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:611
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:617
 msgid ""
@@ -805,12 +915,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:623
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:625
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:631
 msgid ""
@@ -820,22 +933,25 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:639
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/text"
-msgstr ""
+msgstr "高级噩梦殉道者咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:641
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "又一次，莉莉丝跟随你，坐在异界典籍旁。她似乎对现状更加适应了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:643
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:645
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到《异界典籍》中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……"
+"抬头看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:651
 msgid ""
@@ -845,12 +961,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:657
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:659
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:665
 msgid ""
@@ -860,12 +979,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:671
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:673
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:679
 msgid ""
@@ -875,22 +997,25 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:687
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/text"
-msgstr ""
+msgstr "高级噩梦祭司咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:689
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/text"
-msgstr ""
+msgstr "又一次，莉莉丝跟随你，坐在异界典籍旁。她似乎对现状更加适应了。"
 
 #: src-en/data/events_special_lightspeed.xml.append:691
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:693
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_a\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:698
 msgid ""
@@ -900,12 +1025,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:704
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:706
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_b\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:711
 msgid ""
@@ -915,12 +1043,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:717
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/text"
-msgstr ""
+msgstr "做得很好，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:719
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFTHEHORDE_PERFORMEDCHECK\"]/event/choice[4]/event/choice[@req=\"enlightened_horror_c\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:724
 msgid ""
@@ -930,32 +1061,36 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:734
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/text"
-msgstr ""
+msgstr "施展力量咒语之一。"
 
 #: src-en/data/events_special_lightspeed.xml.append:736
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/text"
-msgstr ""
+msgstr "书中描述了几种咒语。你渴望哪一种？"
 
 #: src-en/data/events_special_lightspeed.xml.append:738
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/text"
-msgstr ""
+msgstr "狂暴恐怖咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:740
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "最后一次，你和莉莉丝在异界典籍旁准备进行仪式。她最近自信多了，要不是你对她的"
+"坚定信念，这可能会让你感到不安。"
 
 #: src-en/data/events_special_lightspeed.xml.append:742
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:744
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[1]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:749
 msgid ""
@@ -965,22 +1100,26 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:757
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/text"
-msgstr ""
+msgstr "恐怖裂隙咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:759
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "最后一次，你和莉莉丝在异界典籍旁准备进行仪式。她最近自信多了，要不是你对她的"
+"坚定信念，这可能会让你感到不安。"
 
 #: src-en/data/events_special_lightspeed.xml.append:761
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:763
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[2]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:768
 msgid ""
@@ -990,22 +1129,26 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:776
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/text"
-msgstr ""
+msgstr "高级闪电咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:778
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "最后一次，你和莉莉丝在异界典籍旁准备进行仪式。她最近自信多了，要不是你对她的"
+"坚定信念，这可能会让你感到不安。"
 
 #: src-en/data/events_special_lightspeed.xml.append:780
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:782
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ad\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:788
 msgid ""
@@ -1015,12 +1158,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:794
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:796
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ae\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:802
 msgid ""
@@ -1030,12 +1176,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:808
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:810
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_af\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:816
 msgid ""
@@ -1045,12 +1194,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:822
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:824
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ag\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:830
 msgid ""
@@ -1060,12 +1212,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:836
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:838
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bd\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:844
 msgid ""
@@ -1075,12 +1230,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:850
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:852
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_be\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:858
 msgid ""
@@ -1090,12 +1248,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:864
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:866
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bf\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:872
 msgid ""
@@ -1105,12 +1266,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:878
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:880
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_bg\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:886
 msgid ""
@@ -1120,12 +1284,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:892
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:894
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cd\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:900
 msgid ""
@@ -1135,12 +1302,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:906
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:908
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_ce\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:914
 msgid ""
@@ -1150,12 +1320,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:920
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:922
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cf\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:928
 msgid ""
@@ -1165,12 +1338,15 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:934
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/text"
-msgstr ""
+msgstr "就是这样，莉莉丝。完成咒语。"
 
 #: src-en/data/events_special_lightspeed.xml.append:936
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_ASCENSIONRITUALSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DD_INCANTATIONSOFGREATERSUMMONING_PERFORMEDCHECK\"]/event/choice[3]/event/choice[@req=\"enlightened_horror_cg\"]/event/text"
 msgstr ""
+"你将你的渴望告知黑暗之神，它将额外的力量赐予莉莉丝。她的形体发出明亮的红光，"
+"让人联想到异界典籍中的深红色文字，一阵震耳欲聋的声音响起，你被推跪在地……抬头"
+"看，莉莉丝的光芒已褪去，似乎仪式已经完成。"
 
 #: src-en/data/events_special_lightspeed.xml.append:942
 msgid ""
@@ -1180,462 +1356,478 @@ msgstr "继续。"
 #: src-en/data/events_special_lightspeed.xml.append:954
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/text"
-msgstr ""
+msgstr "（分离者船员）进行一次分离者仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:956
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/text"
 msgstr ""
+"你翻阅异界典籍的书页，最终停在了用鲜艳紫色书写的文字上。其中描述了定位传说中"
+"的分离者水晶的步骤，还有一个更模糊的仪式——来自书中一张奇怪的散页。"
 
 #: src-en/data/events_special_lightspeed.xml.append:958
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/text"
-msgstr ""
+msgstr "进行仪式以定位效能水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:960
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:962
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_POTENCY\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:968
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/text"
-msgstr ""
+msgstr "进行仪式以定位便携水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:970
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:972
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_HANDINESS\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:978
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/text"
-msgstr ""
+msgstr "进行仪式以定位虹彩水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:980
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:982
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:988
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/text"
-msgstr ""
+msgstr "进行仪式以定位殉道水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:990
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:992
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_MARTYRDOM\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:998
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/text"
-msgstr ""
+msgstr "进行仪式以定位光环水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1000
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1002
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"DISPARITY_CRYSTAL_OF_AURAS\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1008
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/text"
-msgstr ""
+msgstr "进行仪式以定位传说水晶。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1010
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的紫色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1012
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[@req=\"dd_crystalhuntcompleted\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1018
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/text"
-msgstr ""
+msgstr "进行散页描述的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1020
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，一道鲜艳的光芒开始笼罩你的视线……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1022
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DD_CRYSTALHUNTSCOMPLETEDCHECKANDBEGINNING\"]/event/choice[7]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1030
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（启明者船员）进行一次启明者仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1032
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"你翻阅异界典籍的书页，最终停在了用闪亮黄色书写的文字上。其中描述了向黑暗之神"
+"证明自己并获得其馈赠的步骤，还有一个更模糊的仪式——来自书中一张奇怪的散页。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1034
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进行神圣虔诚仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1036
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的黄色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1038
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1044
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进行祝福馈赠仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1046
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，你感到一股温暖从胸口涌出，并绽放为熊熊烈焰……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1048
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "专注于那股热量。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1054
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
-msgstr ""
+msgstr "进行散页描述的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1056
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，一阵令人不适的、无源头的笑声弥漫在你周围的空气中……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1058
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1066
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（选召者船员）进行一次定位敌人的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1068
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用浑浊灰色书写的文字上。其中描述了追猎黑暗之"
+"神的敌人并获取其青睐的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1070
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/text"
-msgstr ""
+msgstr "进行破光仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1072
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的灰色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1074
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"dddeepone_chosen\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1082
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
-msgstr ""
+msgstr "（伊尔德里克船员）进行一次伊尔德里克仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1084
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用模糊棕色书写的文字上。其中描述了增强你伊尔"
+"德里克船员集体的力量和数量的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1086
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进行竞争仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1088
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的棕色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1090
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1096
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进行重生仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1098
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的棕色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1100
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1106
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/text"
-msgstr ""
+msgstr "进行叛变突变仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1108
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/text"
-msgstr ""
+msgstr "你的伊尔德里克船员们围站在异界典籍旁，准备作为仪式的导管。从他们充满粘液的奇"
+"异身体中，一曲歌声响起，异界典籍中的棕色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1111
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice[@req=\"DD_ILLDRYTHKPALEHEARTRITUALCHECK\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1119
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
-msgstr ""
+msgstr "（风暴船员）进行一次召唤衍生物的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1121
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"你翻阅异界典籍的书页，最终停在了用电光蓝色书写的文字上。其中描述了召唤风暴衍"
+"生物并使其臣服的步骤，还有一个更模糊的仪式——来自书中一张奇怪的散页。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1123
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进行唤雷仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1125
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你念诵异界典籍中描述的风暴祷文，并将意念专注于你渴望的衍生物类型……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1127
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "我渴望……一个风暴之子。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1131
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我渴望……一个衍生物看守者。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1137
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进行散页描述的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1139
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，一股静电电流在整个房间内脉动……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1141
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1149
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "（究极装甲）进行一次建立教派的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1151
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用刺眼白色书写的文字上。其中描述了发现风暴教"
+"派感兴趣的地点并壮大其队伍的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1153
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/text"
-msgstr ""
+msgstr "进行风暴扩张仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1155
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
-msgstr ""
+msgstr "究极装甲嗡嗡作响，随着你的渴望已知，异界典籍中的白色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1157
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1165
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（魂疫船员）进行一次魂疫仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1167
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用虹彩斑斓书写的文字上。其中描述了几种传播魂"
+"疫数据病毒并利用其力量的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1169
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进行噬魂仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1171
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的彩虹色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1173
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1179
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进行织魂仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1181
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，你的魂疫船员的皮肤开始冒泡并嗡嗡作响……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1183
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1189
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/text"
-msgstr ""
+msgstr "进行燃魂仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1191
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的彩虹色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1193
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1199
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/text"
-msgstr ""
+msgstr "进行缚魂仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1201
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/text"
 msgstr ""
+"你的魂疫船员们围站在异界典籍旁，准备作为仪式的导管。他们的身体开始扭曲，魂疫"
+"感染的触须从他们体内爆出，扭动片刻后不可避免地枯萎，异界典籍中的彩虹色文字开"
+"始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1204
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[@req=\"DD_SOULPLAGUESOULBINDINGRITUALCHECK\"]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1212
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "（活体辉光裔）进行一次辉光裔仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1214
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用陈旧、褪色书写的文字上。其中描述了几种收集"
+"强大辉光裔并进一步强化他们的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1216
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进行新生星辰仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1218
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，异界典籍中的褪色文字开始扭曲变换……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1220
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1226
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进行沐浴之光仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1228
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，你感到空气中有一股莫名的强烈氛围……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1230
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1236
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/text"
-msgstr ""
+msgstr "进行神圣残骸仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1238
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "祭品已备，你的渴望已知，一个和弦在你脑海中奏响……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1240
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "阅读文字。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1248
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/text"
-msgstr ""
+msgstr "（阴影一瞥）进行一次提升虔诚等级的仪式。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1250
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/text"
-msgstr ""
+msgstr "你翻阅异界典籍的书页，最终停在了用深栗色书写的文字上。其中描述了向黑暗之神证"
+"明你虔诚的步骤。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1252
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RITUALREADY\"]/choice[@req=\"DARKEST_GAZE_TIER1\"]/event/choice/text"
-msgstr ""
+msgstr "黑暗之神，请注视我……"
 
 #: src-en/data/events_special_lightspeed.xml.append:1254
 msgid ""
@@ -1713,7 +1905,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1322
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED\"]/choice[2]/text"
 msgstr "算了。"
@@ -1739,7 +1930,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1351
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_ENLIGHTENED_BOSS\"]/choice[2]/text"
 msgstr "算了。"
@@ -1765,7 +1955,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1384
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDDEEPONE\"]/choice[2]/text"
 msgstr "算了。"
@@ -1815,7 +2004,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1436
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DISPARITY\"]/choice[2]/text"
 msgstr "算了。"
@@ -1841,7 +2029,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_special_lightspeed.xml.append:1465
-#, fuzzy
 msgid ""
 "data/events_special_lightspeed.xml.append$//event[@name=\"LIGHTSPEED_SECTOR_WARP_DDSOULPLAGUE\"]/choice[2]/text"
 msgstr "算了。"
