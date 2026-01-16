@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 13:47+0000\n"
+"PO-Revision-Date: 2026-01-16 23:20+0000\n"
 "Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_darkonexml/zh_Hans/>\n"
@@ -35,77 +35,99 @@ msgstr "黑暗撕扯着你的舰体，但你在遭受重创前成功挣脱了它
 #: src-en/data/events_darkone.xml:38
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_INTERVENTION\"]/text"
-msgstr ""
+msgstr "你感到胸口灼热，你的渴望得以显化……敌舰不复存在，一份礼物已落入你手中。这便是"
+"虔诚的奖赏。"
 
 #: src-en/data/events_darkone.xml:45
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/text"
 msgstr ""
+"片刻的、令人舒心的寂静降临，你借此时间让自己重新站起。就在此时，黑暗之神的声"
+"音再次响起，与最初一样充满威胁、隆隆作响：“我 认 为 此 次 交 谈 已……卓 有 成 "
+"效。答 案、力 量、谜 团、战 斗——无 论 你 渴 求 何 物，我 的 怀 抱 都 将 赐 予"
+"；只 要 你 证 明 自 己 配 得 上 这 些 馈 赠。”"
 
 #: src-en/data/events_darkone.xml:47
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/text"
-msgstr ""
+msgstr "真的吗？那……你渴望什么？你为什么要这么做？"
 
 #: src-en/data/events_darkone.xml:49
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/text"
 msgstr ""
+"又是一阵沉默，而这次，它的声音没有回来。相反，你感觉到另一阵能量噼啪作响，某"
+"种不可名状之物似乎修复了你外部的舰体——同时，所谓的“外部”景象似乎在变换……因为"
+"你周围的阴影开始向你星舰内部蔓延！看来，你的试炼已经开始了。"
 
 #: src-en/data/events_darkone.xml:55
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）“伪 神……希 望 我 们 浪 费 时 间，并 冒……生 命 危 险。我，同 胞……不 "
+"会。”"
 
 #: src-en/data/events_darkone.xml:57
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"你看着烙疤者将一只利爪放在他那只完好的眼睛上，似乎从自身内部汲取着什么……确实"
+"，在你甚至还未理解发生了什么时，外面的黑暗便开始因极度的痛苦而扭动、翻腾。它"
+"选择退入这片奇异、无光的深渊更深处，松开了对你的星舰的抓握，只留下少数已经渗"
+"入内部的阴影。"
 
 #: src-en/data/events_darkone.xml:60
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/text"
-msgstr ""
+msgstr "等等，你还能这么做？"
 
 #: src-en/data/events_darkone.xml:62
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
 msgstr ""
+"他转向你，一抹微乎其微的笑意取代了原本严峻的表情，“我……一直在为你拨开黑暗……不"
+"是吗？就我个人而言，同胞……我对与伪神一较高下兴趣寥寥，但……对玩它那些幼稚的把"
+"戏，我更无兴致。我们该……继续前进了。”"
 
 #: src-en/data/events_darkone.xml:64
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "好吧，行——干得漂亮！"
 
 #: src-en/data/events_darkone.xml:66
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"就在你准备离开时，一个控制台开始闪烁。是凯尔和莉莉丝的信号……他们终究还是成功"
+"了！但谁知道他们能在这地狱里坚持多久呢——搞不好，已经太迟了。即便如此，你也不"
+"是个轻易放弃希望的人……为这对搭档的安全祈祷，你准备再次出发。"
 
 #: src-en/data/events_darkone.xml:71
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "好吧，行——干得漂亮！"
 
 #: src-en/data/events_darkone.xml:79
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "准备自卫！"
 
 #: src-en/data/events_darkone.xml:81
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"就在你准备战斗时，一个控制台开始闪烁。是凯尔和莉莉丝的信号……他们终究还是成功"
+"了！但谁知道他们能在这地狱里坚持多久呢——搞不好，已经太迟了。即便如此，你也不"
+"是个轻易放弃希望的人……为这对搭档的安全祈祷，你准备再次进入阵位。"
 
 #: src-en/data/events_darkone.xml:86
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START_TRUESENDOFF\"]/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "准备自卫！"
 
 #: src-en/data/events_darkone.xml:94
 msgid ""
@@ -181,49 +203,58 @@ msgstr "继续。"
 
 #: src-en/data/events_darkone.xml:142
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/text"
-msgstr ""
+msgstr "最终，你的星舰停了下来……你他妈的到底在哪儿？星舰的所有控制台都闪烁着红色警报"
+"，此起彼伏；警报大作。"
 
 #: src-en/data/events_darkone.xml:151
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "弄清方位。"
 
 #: src-en/data/events_darkone.xml:153
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"恐慌无济于事，所以你花点时间冷静下来，弄清状况。星图显示你被拖入了虚空的更深"
+"处……这里不再是启明者的领地了。不过，仍有希望；星区内散布着信标，出口就在其中"
+"。"
 
 #: src-en/data/events_darkone.xml:155
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "那就这样！冲向那个出口！"
 
 #: src-en/data/events_darkone.xml:157
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"就在你构思逃跑计划时，先前那个声音再次响起，其压倒性的音量又一次在你脑海中轰"
+"鸣：“是 时 候 谈 谈 了。挣 扎 吧，如 你 所 愿——无 关 紧 要。”"
 
 #: src-en/data/events_darkone.xml:159
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "在声音于你思绪中咆哮时，无助地挣扎。"
 
 #: src-en/data/events_darkone.xml:161
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
 msgstr ""
+"每一个强行闯入你脑海、没有形体的回声词，都让你感觉头骨进一步裂开。无论这东西"
+"是什么，你感觉它与其说是在对你说话，不如说是在通过你说话。即便如此，你仍从自"
+"身找到了咬紧牙关、低语出所能发出的只言片语的力量……"
 
 #: src-en/data/events_darkone.xml:163
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "什……么？你……把 我 们 带 到 了 哪 里？为 什 么……？"
 
 #: src-en/data/events_darkone.xml:165
 msgid ""
@@ -245,7 +276,7 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）你指的是……烙疤者？"
 
 #: src-en/data/events_darkone.xml:171
 msgid ""
@@ -269,35 +300,35 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:179
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:183
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:187
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:193
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
-msgstr ""
+msgstr "（饥饿）你指的是……饥饿？"
 
 #: src-en/data/events_darkone.xml:195
 msgid ""
@@ -323,35 +354,35 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:203
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:207
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:211
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:217
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/text"
-msgstr ""
+msgstr "（愚者）你指的是……愚者？"
 
 #: src-en/data/events_darkone.xml:219
 msgid ""
@@ -376,35 +407,35 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:227
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:231
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:235
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:241
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/text"
-msgstr ""
+msgstr "（女杰）你指的是……女杰？"
 
 #: src-en/data/events_darkone.xml:243
 msgid ""
@@ -430,35 +461,35 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:251
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:255
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:259
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:265
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（牧师）你指的是……牧师？"
 
 #: src-en/data/events_darkone.xml:267
 msgid ""
@@ -481,34 +512,34 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:275
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:279
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:283
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:289
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/text"
-msgstr ""
+msgstr "我……不太确定我有。"
 
 #: src-en/data/events_darkone.xml:291
 msgid ""
@@ -516,58 +547,67 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/text"
 msgstr ""
+"一阵声响——你意识到，类似于一阵有力、开怀的大笑——在你脑海中回荡，迫使你再次摇"
+"晃。“没 有，也 许 没 有。但 能 仅 凭 未 入 门 的 同 伴 行 至 此 处……也 许 你 "
+"比 我 计 算 的 更 为 强 大。邀 你 至 此 证 明 其 合 理。”"
 
 #: src-en/data/events_darkone.xml:293
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_badending_reward\"]/text"
-msgstr ""
+msgstr "我的……邀请？接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:297
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_weirdending_reward\"]/text"
-msgstr ""
+msgstr "我的……邀请？接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:301
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_neutralending_reward\"]/text"
-msgstr ""
+msgstr "我的……邀请？接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:305
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice/event/choice/event/choice[6]/event/choice[@req=\"dd_enlightenedstart_goodending_reward\"]/text"
-msgstr ""
+msgstr "我的……邀请？接着，回到深渊潜者星区……"
 
 #: src-en/data/events_darkone.xml:319
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "弄清方位。"
 
 #: src-en/data/events_darkone.xml:321
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"恐慌无济于事，所以你花点时间冷静下来，弄清状况。星图显示你被拖入了虚空的更深"
+"处……这里不再是启明者的领地了。不过，仍有希望；星区内散布着信标，出口就在其中"
+"。"
 
 #: src-en/data/events_darkone.xml:323
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/text"
-msgstr ""
+msgstr "那就这样！冲向那个出口！"
 
 #: src-en/data/events_darkone.xml:325
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_START\"]/choice[@req=\"darkone_alignment\""
 " and @lvl=\"1\"]/event/choice/event/text"
 msgstr ""
+"就在你构思逃跑计划时，你之前听到的同一个声音在你脑海中轰鸣：“我 以 我 的 怀 "
+"抱，欢 迎 你。然 我 的 意 志 依 旧 蔓 延。渴 求 干 预，事 便 成 就。” 说完，"
+"你感到负担被卸下……然后外面的阴影开始抓挠你的星舰！冲向出口！"
 
 #: src-en/data/events_darkone.xml:331
 msgid ""
@@ -575,7 +615,7 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "准备自卫！"
 
 #: src-en/data/events_darkone.xml:333
 msgid ""
@@ -583,7 +623,8 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "就在你准备战斗时，一个控制台闪烁起来。是凯尔和莉莉丝的信号……他们也在这里。你"
+"或许还能找到他们。"
 
 #: src-en/data/events_darkone.xml:338
 msgid ""
@@ -591,21 +632,21 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice/event/choice[@req=\"dd_kyrandlilith_darkgodlocation\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "准备自卫！"
 
 #: src-en/data/events_darkone.xml:352
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/text"
-msgstr ""
+msgstr "此处的黑暗也在摧残你的舰体。在它造成严重破坏前，逃跑，或击退它！"
 
 #: src-en/data/events_darkone.xml:363
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:367
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）“让 我……也 来 拨 开 这 黑 暗。”"
 
 #: src-en/data/events_darkone.xml:371
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_RUN\"]/choice[3]/text"
@@ -614,17 +655,23 @@ msgstr "准备战斗！"
 #: src-en/data/events_darkone.xml:381
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DARKNESSSHIP_DEFEATED\"]/text"
-msgstr ""
+msgstr "随着黑暗被摧毁，方碑再无能量可汲取。"
 
 #: src-en/data/events_darkone.xml:385
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER_SUCCESS\"]/text"
 msgstr ""
+"黑暗方碑及其异界衍生物倒下，那笑声再次响起：“确 实 是 炙 热 的 渴 望。你 已 "
+"回 报 我，故 我 亦 将 回 报 你……继 续 前 进。你 的 信 念 将 在 此 地 带 你 走"
+" 得 很 远。” 为你努力的奖赏显现在你身旁，你准备向更前方的疯狂进发。"
 
 #: src-en/data/events_darkone.xml:394
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/text"
 msgstr ""
+"你的渴望被聆听，一阵异界能量的咆哮响起：“渴 望……成 功？愿 其 成 真。” 你不觉"
+"得这真是你想要的，但你仍然渴望了它……另一波能量席卷了你，你明白你的试炼开始了"
+"！自由意志的存在只能留待他日思考了。"
 
 #: src-en/data/events_darkone.xml:401
 msgid ""
@@ -635,11 +682,17 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_BEGINNER\"]/choice/event/text"
 msgstr ""
+"一座怪异、扭曲的方尖碑出现……它似乎在汲取外面黑暗的力量。如果你能摧毁黑暗，方"
+"尖碑将无法再汲取能量，但你也可以选择只专注于摧毁方尖碑。要超越试炼，摧毁黑暗"
+"并非必要。"
 
 #: src-en/data/events_darkone.xml:410
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/text"
 msgstr ""
+"黑暗方尖碑及其异界衍生物倒下，那笑声再次响起：“确 实 是 炙 热 的 渴 望。你 已"
+" 回 报 我，故 我 亦 将 回 报 你……继 续 前 进。你 的 信 念 将 在 此 地 带 你 "
+"走 得 很 远。” 为你努力的奖赏显现在你身旁……"
 
 #: src-en/data/events_darkone.xml:417
 msgid ""
@@ -649,17 +702,20 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:419
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SUCCESS\"]/choice/event/text"
-msgstr ""
+msgstr "……接着又是一份。带着新获得的礼物，你准备向更前方的疯狂进发。"
 
 #: src-en/data/events_darkone.xml:426
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/text"
 msgstr ""
+"你的渴望被聆听，一阵异界能量的咆哮响起：“渴 望……尖 叫？愿 其 成 真。” 你不觉"
+"得这真是你想要的，但你仍然渴望了它……另一波能量席卷了你，你明白你的试炼开始了"
+"！自由意志的存在只能留待他日思考了。"
 
 #: src-en/data/events_darkone.xml:431
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:436
 msgid ""
@@ -670,11 +726,14 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE\"]/choice/event/text"
 msgstr ""
+"一座怪异、扭曲的方尖碑出现……它似乎在汲取外面黑暗的力量。如果你能摧毁黑暗，方"
+"尖碑将无法再汲取能量，但你也可以选择只专注于摧毁方尖碑。要超越试炼，摧毁黑暗"
+"并非必要。"
 
 #: src-en/data/events_darkone.xml:445
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:451
 msgid ""
@@ -684,12 +743,14 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:453
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_INTERMEDIATE_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:460
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/text"
 msgstr ""
+"黑暗方尖碑及其异界衍生物倒下，那笑声再次响起：“确 实 是 炙 热 的 渴 望。你 已"
+" 回 报 我，故 我 亦 将 回 报 你。” 为你努力的奖赏显现在你身旁……"
 
 #: src-en/data/events_darkone.xml:467
 msgid ""
@@ -699,7 +760,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:469
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/text"
-msgstr ""
+msgstr "……接着又是一份……"
 
 #: src-en/data/events_darkone.xml:472
 msgid ""
@@ -710,21 +771,30 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/text"
 msgstr ""
+"……接着是一……名深渊潜者选召者？！你以为是入侵者，准备自卫，但出乎意料的是，他"
+"们开始鞠躬，你再次听到那个声音：“服 务 即 是 渴 望 成 为 更 伟 大 事 物 的 一"
+" 部 分。此 人 服 务 于 我，如 你 服 务 于 我 的 消 遣；故 我 服 务 于 你。故 "
+"其 服 务 于 你。” 沉默降临，你身旁留下了这位新伙伴不安的存在……黑暗之神究竟站"
+"在哪一边？这一切对它来说只是一场游戏吗？你得不到答案，但唯一清晰的事实是，它"
+"最受崇敬的战士之一，如今位列你的船员之中。"
 
 #: src-en/data/events_darkone.xml:475
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SUCCESS\"]/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "纳瓦德伦"
 
 #: src-en/data/events_darkone.xml:483
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/text"
 msgstr ""
+"你的渴望被聆听，一阵异界能量的咆哮响起：“渴 望……痛 苦？愿 其 成 真。” 你不觉"
+"得这真是你想要的，但你仍然渴望了它……另一波能量席卷了你，你明白你的试炼开始了"
+"！自由意志的存在只能留待他日思考了。"
 
 #: src-en/data/events_darkone.xml:488
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:493
 msgid ""
@@ -735,16 +805,19 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT\"]/choice/event/text"
 msgstr ""
+"一座怪异、扭曲的方尖碑出现……它似乎在汲取外面黑暗的力量。如果你能摧毁黑暗，方"
+"尖碑将无法再汲取能量，但你也可以选择只专注于摧毁方尖碑。要超越试炼，摧毁黑暗"
+"并非必要。"
 
 #: src-en/data/events_darkone.xml:502
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:506
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:511
 msgid ""
@@ -754,12 +827,12 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:513
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:520
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:526
 msgid ""
@@ -769,22 +842,29 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:528
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_DIFFICULT_THIRDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:535
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/text"
-msgstr ""
+msgstr "黑暗方尖碑、它们的衍生物大军，甚至黑暗之神的选召者都已倒下……空气中弥漫着血腥"
+"与硫磺的气息，你感到筋疲力尽。"
 
 #: src-en/data/events_darkone.xml:541
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/text"
-msgstr ""
+msgstr "振作起来。"
 
 #: src-en/data/events_darkone.xml:543
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/text"
 msgstr ""
+"你站起身，掸掉膝盖上的灰尘，一阵喧嚣的掌声在你脑海中爆发。如果你不是已经如此"
+"不堪重负，这绝对会让你头痛……它持续了片刻，然后随着那声音对你说话而骤然停止：“"
+"无 法 逾 越 的 渴 望。无 法 逾 越 的 力 量。无 法 逾 越 的 坚 韧。你 值 得 服"
+" 务，亦 值 得 被 服 务，强 大 的 存 在。知 晓 我 的 眷 顾、我 的 力 量、我 的"
+" 选 召 者 并 继 续 前 进。你 的 命 运 由 你 自 己 决 定。” 一道闪电炸裂，奇怪"
+"的蓝图出现在你的系统中，一件纯粹、混乱能量的武器显现在你身旁……"
 
 #: src-en/data/events_darkone.xml:547
 msgid ""
@@ -794,7 +874,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:549
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "……接着是另一份奖赏……"
 
 #: src-en/data/events_darkone.xml:552
 msgid ""
@@ -804,7 +884,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:554
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "……又一份……"
 
 #: src-en/data/events_darkone.xml:557
 msgid ""
@@ -814,22 +894,25 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:559
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "……还有一份，以黑暗之神的一位选召者的形式。看来你确实赢得了它的崇敬。"
 
 #: src-en/data/events_darkone.xml:560
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SUCCESS\"]/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "纳瓦德伦"
 
 #: src-en/data/events_darkone.xml:572
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/text"
 msgstr ""
+"你的渴望被聆听，一阵异界能量的咆哮响起：“渴 望……屈 服？愿 其 成 真。” 你不觉"
+"得这真是你想要的，但你仍然渴望了它……另一波能量席卷了你，你明白你的试炼开始了"
+"！自由意志的存在只能留待他日思考了。"
 
 #: src-en/data/events_darkone.xml:577
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:582
 msgid ""
@@ -840,16 +923,19 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE\"]/choice/event/text"
 msgstr ""
+"一座怪异、扭曲的方尖碑出现……它似乎在汲取外面黑暗的力量。如果你能摧毁黑暗，方"
+"尖碑将无法再汲取能量，但你也可以选择只专注于摧毁方尖碑。要超越试炼，摧毁黑暗"
+"并非必要。"
 
 #: src-en/data/events_darkone.xml:591
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:595
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:600
 msgid ""
@@ -859,17 +945,17 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:602
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_SECONDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:609
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:613
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:618
 msgid ""
@@ -879,17 +965,17 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:620
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_THIRDOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:627
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/text"
-msgstr ""
+msgstr "另一波能量脉动，你的试炼加剧……"
 
 #: src-en/data/events_darkone.xml:631
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "你的试炼正在进行中……"
 
 #: src-en/data/events_darkone.xml:636
 msgid ""
@@ -899,12 +985,12 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:638
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_FOURTHOBELISK\"]/choice/event/text"
-msgstr ""
+msgstr "……又一座方尖碑出现。"
 
 #: src-en/data/events_darkone.xml:645
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/text"
-msgstr ""
+msgstr "另一波能量，与之前的不同，在你的试炼达到高潮时脉动……"
 
 #: src-en/data/events_darkone.xml:650
 msgid ""
@@ -915,80 +1001,99 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL_IMPOSSIBLE_CHOSENWAVE\"]/choice/event/text"
 msgstr ""
+"……那声音在你脑海中响起：“此 乃 我 之 渴 望：你 于 此 地 陨 落，故 此 亦 为 我"
+" 选 召 者 之 渴 望。若 能 坚 持，或 可 与 他 们 并 肩。” 随着黑暗方尖碑散发光"
+"芒，闪电劈下，深渊潜者选召者侵入你的星舰……你内心对胜利的渴望熊熊燃烧。自由意"
+"志，正是在被视为不可能的局面下奋起，并将命运掌握在自己手中的能力。"
 
 #: src-en/data/events_darkone.xml:663
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/text"
 msgstr ""
+"此处空气中有种强烈的紧张感。你在这领域中短暂的时光里，曾感受过类似的感觉，但"
+"从未像现在这般强烈。然而，这里空无一物，甚至连外面的黑暗也静止不动……你说不清"
+"为何会被驱使来到此地。"
 
 #: src-en/data/events_darkone.xml:671
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/text"
-msgstr ""
+msgstr "你好？"
 
 #: src-en/data/events_darkone.xml:673
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/text"
 msgstr ""
+"你呼喊出声，周围的一切——包括你自己——都震颤起来。当你挣扎着想站稳时，一个声音"
+"在你脑海中回应：“跪 下。” 这个词让你膝盖一软，剧痛传遍全身，你感到天旋地转。"
+"你感觉自己的存在仿佛受制于存在本身。"
 
 #: src-en/data/events_darkone.xml:675
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/text"
-msgstr ""
+msgstr "你……想……要……什 么……？"
 
 #: src-en/data/events_darkone.xml:677
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/text"
 msgstr ""
+"每一个字都让你更加痛苦，但你仍然觉得必须将它们挤出。你不觉得那是你的话，也不"
+"觉得它们反映了你的思想，但你感觉别无选择。你的脑海中再次响起类似笑声的声音，"
+"那声音回来了：“这 本 应 是 你 的 试 炼 之 一，但……坦 率 说，我 很 享 受 你 的"
+" 扭 动。”"
 
 #: src-en/data/events_darkone.xml:679
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "对抗痛苦。"
 
 #: src-en/data/events_darkone.xml:681
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你的身体在燃烧，但你强迫自己站起来，缓慢而坚定。你的四肢都感觉重若千钧，但你"
+"仍然站了起来。就在这时，那笑声再次响起：“是 的。扭 动、挣 扎、站 立……我 乐 于"
+" 看 到 这 一 切。告 诉 我。你 渴 望 成 功、尖 叫、痛 苦 还 是 屈 服？”"
 
 #: src-en/data/events_darkone.xml:683
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:685
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"darkone_alignment\"]/event/text"
-msgstr ""
+msgstr "那声音大笑着，持续不断，直到它逐渐消失，一份礼物落入你手中。这便是虔诚的奖赏"
+"。"
 
 #: src-en/data/events_darkone.xml:690
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（选召者船员）“我 渴 望……和 平，吾 主。”"
 
 #: src-en/data/events_darkone.xml:692
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[@req=\"dddeepone_chosen\"]/event/text"
-msgstr ""
+msgstr "随着你的黑暗之神选召者成员开口，一阵强烈的寂静降临，空气中的敌意消散了。它的"
+"请求必定奏效，因为信标处没有发生其他值得注意的事情。"
 
 #: src-en/data/events_darkone.xml:696
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "（新手试炼）我渴望……成功。"
 
 #: src-en/data/events_darkone.xml:700
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "（中级试炼）我渴望……尖叫。"
 
 #: src-en/data/events_darkone.xml:704
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "（困难试炼）我渴望……痛苦。"
 
 #: src-en/data/events_darkone.xml:708
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_TRIAL\"]/choice/event/choice/event/choice/event/choice[6]/text"
-msgstr ""
+msgstr "（不可能试炼）我渴望……屈服。"
 
 #: src-en/data/events_darkone.xml:720
 msgid ""
@@ -1003,7 +1108,7 @@ msgstr ""
 #: src-en/data/events_darkone.xml:724
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/text"
-msgstr ""
+msgstr "聚焦于这关于终结的幻象。"
 
 #: src-en/data/events_darkone.xml:726
 msgid ""
@@ -1066,17 +1171,18 @@ msgstr ""
 #: src-en/data/events_darkone.xml:774
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "掸去灰尘，环顾四周。"
 
 #: src-en/data/events_darkone.xml:776
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "花点时间让自己振作，你惊讶地发现房间角落的一个阴影引起了你的注意——一名黑暗之"
+"神的选召者，仅仅站在那里……注视着你。"
 
 #: src-en/data/events_darkone.xml:778
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "举起武器，要求深渊潜者解释自己。"
 
 #: src-en/data/events_darkone.xml:780
 msgid ""
@@ -1099,35 +1205,42 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"在你来得及反对之前，那深渊潜者再次鞠躬，然后匆忙离开了房间。如果它所言属实，"
+"无论如何你都会被监视，那么你想船上留它一个也无大碍……至少，目前如此。"
 
 #: src-en/data/events_darkone.xml:787
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY_VISIONOFTHEEND\"]/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "瓦拉贡"
 
 #: src-en/data/events_darkone.xml:805
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/text"
 msgstr ""
+"此处空气中有种强烈的紧张感。你在这领域中短暂的时光里，曾感受过类似的感觉，但"
+"从未像现在这般强烈。然而，这里空无一物，甚至连外面的黑暗也静止不动……你说不清"
+"为何会被驱使来到此地。"
 
 #: src-en/data/events_darkone.xml:813
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/text"
-msgstr ""
+msgstr "你好？"
 
 #: src-en/data/events_darkone.xml:815
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/text"
-msgstr ""
+msgstr "你得到的不是回答，而是感觉到肌肉紧绷……视线开始模糊。你正被诱入深沉、深沉的睡"
+"眠……"
 
 #: src-en/data/events_darkone.xml:817
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/text"
-msgstr ""
+msgstr "对抗这奇怪的感觉。"
 
 #: src-en/data/events_darkone.xml:819
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "无论你渴望什么——这次都不作数。无论是什么在施加影响，都拒绝罢手——确实，你陷入"
+"了那最深沉的睡梦……"
 
 #: src-en/data/events_darkone.xml:821
 msgid ""
@@ -1138,11 +1251,15 @@ msgstr "..."
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"……然后发现自己身处一个熟悉却又陌生的地方。你不在星舰上，也没有任何熟悉的同伴…"
+"…你独自一人，站在一根柱子上。向下望去，柱子底部似乎消失在下方深不可测的黑暗中"
+"——你不确定这只是个巨大的房间，还是更不可思议地，是最黑暗的太空深处。不过，你"
+"觉得还算舒服。"
 
 #: src-en/data/events_darkone.xml:827
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "环顾四周。"
 
 #: src-en/data/events_darkone.xml:829
 msgid ""
@@ -1156,17 +1273,20 @@ msgstr ""
 #: src-en/data/events_darkone.xml:833
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "将手放在基座上。"
 
 #: src-en/data/events_darkone.xml:835
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"立刻，幻象蒙蔽了你的心智——可怕的、扭曲的场景，与你的心灵完全格格不入……每一个"
+"都单独足以粉碎你的思考能力。即便如此，你感觉或许能将注意力集中在这些疯狂景象"
+"中的任何一个上……"
 
 #: src-en/data/events_darkone.xml:837
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "聚焦于关于奇怪水晶的幻象——那个讲述神圣战争的幻象。"
 
 #: src-en/data/events_darkone.xml:839
 msgid ""
@@ -1199,7 +1319,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:861
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "聚焦于关于不可能之事的幻象——那个笼罩在黑暗、可怕红色中的幻象。"
 
 #: src-en/data/events_darkone.xml:863
 msgid ""
@@ -1230,7 +1350,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:885
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "聚焦于关于贪婪的幻象——那个在巨兽腹中的幻象。"
 
 #: src-en/data/events_darkone.xml:887
 msgid ""
@@ -1263,7 +1383,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:909
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "聚焦于关于遥远黑暗的幻象——那个位于多元宇宙边缘的幻象。"
 
 #: src-en/data/events_darkone.xml:911
 msgid ""
@@ -1294,7 +1414,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:933
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "聚焦于关于被遗忘记忆的幻象——那些与空灵力量相关的幻象。"
 
 #: src-en/data/events_darkone.xml:935
 msgid ""
@@ -1326,7 +1446,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:957
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[6]/text"
-msgstr ""
+msgstr "聚焦于关于爱的幻象——深藏于疯狂之海中的幻象。"
 
 #: src-en/data/events_darkone.xml:959
 msgid ""
@@ -1358,7 +1478,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:981
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[7]/text"
-msgstr ""
+msgstr "聚焦于关于神秘仪式的幻象——那些使用奇怪木质结构的仪式。"
 
 #: src-en/data/events_darkone.xml:983
 msgid ""
@@ -1391,7 +1511,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1005
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_PROPHECY\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice[8]/text"
-msgstr ""
+msgstr "聚焦于关于仇恨的幻象——那份针对装甲友人的怒火。"
 
 #: src-en/data/events_darkone.xml:1007
 msgid ""
@@ -1421,7 +1541,7 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1042
 msgid ""
 "data/events_darkone.xml$//ship[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT\"]/destroyed/text"
-msgstr ""
+msgstr "那艘神秘的异界星舰解体了，你迅速搜刮了能拿到的东西。"
 
 #: src-en/data/events_darkone.xml:1045
 msgid ""
@@ -1432,6 +1552,8 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/text"
 msgstr ""
+"你意识到……不仅那奇怪的虫洞在星舰被击败后关闭了，你早先听到的那个遥远声音也消"
+"失了。这艘星舰的起源，以及这里发生的一切其他怪事，似乎完全成了一个谜……"
 
 #: src-en/data/events_darkone.xml:1055
 msgid ""
@@ -1444,6 +1566,9 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"……包括那位加入你的披风身影。随着发光星舰的威胁消除，它似乎回到了闲置休眠状态"
+"。无论它是什么，它至少与你并肩作战这一事实让你感到些许安慰……或许，假以时日，"
+"你能弄清它的秘密。"
 
 #: src-en/data/events_darkone.xml:1061
 msgid ""
@@ -1455,42 +1580,47 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING_FIGHT_WIN\"]/choice[@req=\"ddunique_theshade\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "……包括那位披风身影，它似乎在战斗中被摧毁了。随着它的逝去，你还能理解这一切吗…"
+"…？"
 
 #: src-en/data/events_darkone.xml:1073
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/text"
 msgstr ""
+"此处空气中有种强烈的紧张感。你在这领域中短暂的时光里，曾感受过类似的感觉，但"
+"从未像现在这般强烈。然而，这里空无一物，甚至连外面的黑暗也静止不动……你说不清"
+"为何会被驱使来到此地。"
 
 #: src-en/data/events_darkone.xml:1081
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "你好？"
 
 #: src-en/data/events_darkone.xml:1083
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "片刻间，只有寂静……直到你意识到那根本不是寂静——你能听到什么。那是……一个声音？"
+"你不确定它从何而来，但听起来像是在某个遥远的地方。"
 
 #: src-en/data/events_darkone.xml:1085
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "保持安静，尝试倾听声音的来源。"
 
 #: src-en/data/events_darkone.xml:1087
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "尽管你安静下来，你的倾听很快被打断——一个虫洞在你旁边打开了！"
 
 #: src-en/data/events_darkone.xml:1089
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "做好准备！"
 
 #: src-en/data/events_darkone.xml:1091
 msgid ""
@@ -1507,13 +1637,16 @@ msgstr ""
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "武器保持瞄准那神秘的实体。"
 
 #: src-en/data/events_darkone.xml:1097
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"在你保持警惕时，外面的一道微光吸引了你的注意。看起来像是第二个虫洞正在形成，"
+"比第一个大得多……不过，有什么地方让你觉得不寻常。还没等你想明白，一个巨大的物"
+"体开始从中移动出来……"
 
 #: src-en/data/events_darkone.xml:1104
 msgid ""
@@ -1539,7 +1672,7 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "暗影"
 
 #: src-en/data/events_darkone.xml:1114
 msgid ""
@@ -1552,19 +1685,20 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "向那声音呼喊。"
 
 #: src-en/data/events_darkone.xml:1128
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "尽管你试图引起……不管是什么的注意，你的尝试很快被打断——一个虫洞在你旁边打开了"
+"！"
 
 #: src-en/data/events_darkone.xml:1130
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "做好准备！"
 
 #: src-en/data/events_darkone.xml:1132
 msgid ""
@@ -1581,13 +1715,16 @@ msgstr ""
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "武器保持瞄准那神秘的实体。"
 
 #: src-en/data/events_darkone.xml:1138
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"在你保持警惕时，外面的一道微光吸引了你的注意。看起来像是第二个虫洞正在形成，"
+"比第一个大得多……不过，有什么地方让你觉得不寻常。还没等你想明白，一个巨大的物"
+"体开始从中移动出来……"
 
 #: src-en/data/events_darkone.xml:1145
 msgid ""
@@ -1626,13 +1763,13 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "你好？"
 
 #: src-en/data/events_darkone.xml:1171
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_THESHADEMEETING\"]/choice[@req=\"LIST_CREW_DDTHESHADEFORMS\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "但没有回答。确实，仿佛答案一直与你同在……这里什么都没有留给你。"
 
 #: src-en/data/events_darkone.xml:1173
 msgid ""
@@ -1649,27 +1786,32 @@ msgstr "跳过。"
 #: src-en/data/events_darkone.xml:1185
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[1]"
-msgstr ""
+msgstr "空气中的一种憎恨与你共鸣，你意识到不仅仅这里的黑暗渴望摧毁你……从外面疯狂的深"
+"处，又升起了一艘光滑、漆黑的纯粹阴影星舰。准备战斗！"
 
 #: src-en/data/events_darkone.xml:1186
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[2]"
-msgstr ""
+msgstr "看来黑暗之神的选召者尚未放弃摧毁你的使命，他们的另一艘星舰冲破黑暗，准备发起"
+"攻击！"
 
 #: src-en/data/events_darkone.xml:1187
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[3]"
-msgstr ""
+msgstr "一艘星舰出现在外面，让你血液冰冷……一艘你现在熟悉的星舰。死亡的预兆。黑暗的具"
+"现化。黑暗之神的选召者……他们开始逼近，你准备自卫。"
 
 #: src-en/data/events_darkone.xml:1188
 msgid ""
 "data/events_darkone.xml$//textList[@name=\"DDDARKGODDOMAIN_CHOSEN_TEXT\"]/text[4]"
-msgstr ""
+msgstr "外面的景象变得更加黑暗，你意识到这不是普通的信标……你闯入了黑暗之神选召者的领"
+"地，而他们已选定你为下一份祭品！"
 
 #: src-en/data/events_darkone.xml:1197
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "尽管在此击败了一个强大的敌人，你意识到自己在与叛军的赛跑中正失去优势……黑暗方"
+"面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1201
 msgid ""
@@ -1679,22 +1821,24 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1203
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER_FIGHT_WIN\"]/choice/event/text"
-msgstr ""
+msgstr "不过，在此之前，一件武器显现在你身旁……你认出这是选召者们使用的同款武器。你不"
+"会错过免费的礼物，但你不禁好奇这种慷慨的目的何在……"
 
 #: src-en/data/events_darkone.xml:1219
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1223
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（选召者船员）“此 人……与 同 胞 同 行。”"
 
 #: src-en/data/events_darkone.xml:1225
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_CHOSEN_ENCOUNTER\"]/choice[@req=\"dddeepone_chosen\"]/event/text"
-msgstr ""
+msgstr "选召者们一认出他们中的一员与你站在一起，就停止了推进。一言不发，他们沉回黑暗"
+"，你再次想到，获得邪恶神祇的青睐自有其好处……"
 
 #: src-en/data/events_darkone.xml:1230
 msgid ""
@@ -1724,17 +1868,19 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1267
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你胸口感到一阵灼热，击败这些奇怪入侵者的奖赏显现在你身旁。即便如此，你意识到"
+"自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1273
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/text"
-msgstr ""
+msgstr "……并且变得更加黑暗，一个虫洞打开，一艘启明者星舰从虚空中显现。他们或许不知身"
+"在何处，亦不知为何在此，但他们知道一件事：你是他们的下一个目标！"
 
 #: src-en/data/events_darkone.xml:1278
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ENLIGHTENED\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1282
 msgid ""
@@ -1764,17 +1910,19 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1307
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你胸口感到一阵灼热，击败这些奇怪入侵者的奖赏显现在你身旁。即便如此，你意识到"
+"自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1313
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/text"
-msgstr ""
+msgstr "……并且闪烁着紫色，一个虫洞打开，一艘水晶星舰从虚空中显现。他们或许不知身在何"
+"处，亦不知为何在此，但他们知道一件事：你是他们的下一个目标！"
 
 #: src-en/data/events_darkone.xml:1318
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_DISPARITY\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1322
 msgid ""
@@ -1804,17 +1952,20 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1347
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你胸口感到一阵灼热，击败这些奇怪入侵者的奖赏显现在你身旁。即便如此，你意识到"
+"自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1353
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/text"
 msgstr ""
+"……并为远处的一道光让路，一个虫洞打开，一艘虹彩、油腻的星舰从虚空中显现。他们"
+"或许不知身在何处，亦不知为何在此，但他们知道一件事：你是他们的下一个目标！"
 
 #: src-en/data/events_darkone.xml:1363
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_SOULPLAGUE\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1367
 msgid ""
@@ -1845,21 +1996,29 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN\"]/text"
 msgstr ""
+"随着那些奇怪的入侵者崩溃，一阵尴尬的沉默降临，你觉得毁灭并非唯一的选择。即便"
+"如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1397
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"一阵微弱的歌声在你脑海中响起，新的生命从一具倒下的奇怪入侵者身上萌发……一个新"
+"的个体形成。你做好了最坏的打算，但它只是在你眨眼间跑到了角落……它是友好的吗？"
+"即便如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前"
+"进。"
 
 #: src-en/data/events_darkone.xml:1403
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/text"
 msgstr ""
+"……并且一阵奇怪的雾气滚滚而来，一个虫洞打开，一团毛茸茸的物质从虚空中显现。他"
+"们或许不知身在何处，亦不知为何在此，但他们知道一件事：你是他们的下一个目标！"
 
 #: src-en/data/events_darkone.xml:1408
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_ILLDRYTHK\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1412
 msgid ""
@@ -1890,21 +2049,30 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN\"]/text"
 msgstr ""
+"随着那些奇怪的入侵者融化，一阵尴尬的沉默降临，你觉得谋杀并非唯一的选择。即便"
+"如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前进。"
 
 #: src-en/data/events_darkone.xml:1442
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"那艘奇怪星舰的低语平息，其残骸汇聚成一个单一的形态……你认出是一个魂疫空壳。它"
+"出现在你身旁，你做好了最坏的打算，但它只是站在那里，发出咕噜声。它是友好的吗"
+"？即便如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续"
+"前进。"
 
 #: src-en/data/events_darkone.xml:1448
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/text"
 msgstr ""
+"……并为远处的一道光让路，一个虫洞打开，一艘虹彩、油腻的星舰从虚空中显现。从星"
+"舰中散发出微弱的低语……他们或许不知身在何处，亦不知为何在此，但他们知道一件事"
+"：你是他们的下一个目标！"
 
 #: src-en/data/events_darkone.xml:1458
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_HUSKWEAVER\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1462
 msgid ""
@@ -1935,21 +2103,31 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN\"]/text"
 msgstr ""
+"随着那些奇怪的入侵者逐渐消失，一阵尴尬的沉默降临，你觉得谋杀并非唯一的选择。"
+"即便如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要继续前"
+"进。"
 
 #: src-en/data/events_darkone.xml:1492
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST_FIGHT_WIN_BONUS\"]/text"
 msgstr ""
+"一道闪电从那艘奇怪星舰的残骸中迸发，其能量在你身旁汇聚，形成了一个你刚刚战斗"
+"过的奇怪实体。你做好了最坏的打算，但它只是站在那里，从斗篷下凝视着。它是友好"
+"的吗？即便如此，你意识到自己在与叛军的赛跑中正失去优势……黑暗方面亦然。你需要"
+"继续前进。"
 
 #: src-en/data/events_darkone.xml:1498
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/text"
 msgstr ""
+"……并且一场巨大的太空风暴滚滚而来，一个虫洞打开，一艘深色、涂漆的星舰从虚空中"
+"显现。他们或许不知身在何处，亦不知为何在此，但他们知道一件事：你是他们的下一"
+"个目标！"
 
 #: src-en/data/events_darkone.xml:1503
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE_LIST_TEMPEST\"]/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "我渴望……干预。"
 
 #: src-en/data/events_darkone.xml:1507
 msgid ""
@@ -1958,7 +2136,7 @@ msgstr "继续。"
 
 #: src-en/data/events_darkone.xml:1513
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_WORMHOLE\"]/text"
-msgstr ""
+msgstr "一阵剧痛刺痛你的心智，外面的疯狂景象似乎发生了转变……"
 
 #: src-en/data/events_darkone.xml:1521
 msgid ""
@@ -1967,47 +2145,56 @@ msgstr "继续。"
 
 #: src-en/data/events_darkone.xml:1527
 msgid "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/text"
-msgstr ""
+msgstr "你在这里感觉不到恶意……恰恰相反，你感到温暖。被抚慰。被赐福，因为你的负担被卸"
+"下……但哪个负担最困扰你？"
 
 #: src-en/data/events_darkone.xml:1530
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[1]/text"
-msgstr ""
+msgstr "我因舰体完整性不足而困扰。"
 
 #: src-en/data/events_darkone.xml:1532
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你闭上眼睛，内心的温暖绽放为更伟大的事物。某种有形之物。你星舰的损伤奇迹般地"
+"被修复，你对前路感到乐观……这片疯狂之地不会吞噬你。"
 
 #: src-en/data/events_darkone.xml:1537
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[2]/text"
-msgstr ""
+msgstr "我因船员不足而困扰。"
 
 #: src-en/data/events_darkone.xml:1539
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[2]/event/text"
 msgstr ""
+"你闭上眼睛，内心的温暖绽放为更伟大的事物。某种有形之物。一个传送门在你身旁打"
+"开，一名深渊潜者从中走出。他们看起来有些困惑，但还算热情，“这……是黑暗之神的领"
+"域吗？我们……接近它的伟大了吗？”你点点头，他们跳了个小舞，“那……仪式成功了！我…"
+"…是来帮助你的，我想。”你们交换了正式介绍，深渊潜者离开了房间，似乎很满意自己"
+"的位置。你对前路感到乐观……这片疯狂之地不会吞噬你。"
 
 #: src-en/data/events_darkone.xml:1544
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[3]/text"
-msgstr ""
+msgstr "我因资源不足而困扰。"
 
 #: src-en/data/events_darkone.xml:1546
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你闭上眼睛，内心的温暖绽放为更伟大的事物。某种有形之物。几箱资源莫名其妙地出"
+"现在你的货舱里，你对前路感到乐观……这片疯狂之地不会吞噬你。"
 
 #: src-en/data/events_darkone.xml:1555
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/text"
-msgstr ""
+msgstr "我因力量不足而困扰。"
 
 #: src-en/data/events_darkone.xml:1557
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你闭上眼睛，内心的温暖绽放为更伟大的事物。某种有形之物。一个传送门在你身旁打"
+"开，一个迷失的人类灵魂从中飘出……"
 
 #: src-en/data/events_darkone.xml:1560
 msgid ""
@@ -2017,17 +2204,23 @@ msgstr "继续。"
 #: src-en/data/events_darkone.xml:1562
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DDDARKGODDOMAIN_BLESSING\"]/choice[4]/event/choice/event/text"
-msgstr ""
+msgstr "……接着又是一个。尽管他们的面容可怖，但他们所散发的潜在力量是不可否认的。甚至"
+"令人感到安慰。你对前路感到乐观……这片疯狂之地不会吞噬你。"
 
 #: src-en/data/events_darkone.xml:1576
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_DESTROYEDLOSS\"]/text"
 msgstr ""
+"噩梦消散了，但什么也没留下……凯尔和莉莉丝的超光速信号也消失了。你可能永远不知"
+"道你的朋友们发生了什么，但一点燃料仍然显现在你的货舱里。黑暗之神一定在发笑……"
 
 #: src-en/data/events_darkone.xml:1583
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/text"
 msgstr ""
+"随着那怪物及其噩梦般的恐怖被击倒，一点来自黑暗之神的燃料出现在你的货舱里，一"
+"切归于平静。自由探索这艘幽灵般的星舰，你很快找到了属于凯尔和莉莉丝的纪念品……"
+"特别是两人的合照。这一定是他们的星舰……但那对恋人呢？"
 
 #: src-en/data/events_darkone.xml:1589
 msgid ""
@@ -2037,155 +2230,191 @@ msgstr "继续探索。"
 #: src-en/data/events_darkone.xml:1591
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/text"
-msgstr ""
+msgstr "握着照片进一步查看，你发现了一扇之前没注意到的门。将手放在上面，你感到一种奇"
+"怪的温暖……伴随着轻柔的嗡嗡声。"
 
 #: src-en/data/events_darkone.xml:1593
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "打开那扇神秘的门。"
 
 #: src-en/data/events_darkone.xml:1595
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"鼓起勇气，你打开了门……眼前的景象几乎恐怖到无法形容。房间沾满了血污：内脏、鲜"
+"血和肉块散落各处，让人无法辨认其来源。房间的另一端，蜡烛在基座周围静静燃烧，"
+"基座上放着一本打开的书。趟过血污，你走近那本书，注意到其页面上用最鲜艳的深红"
+"色潦草地写着文字。你意识到，描绘的是各种仪式……"
 
 #: src-en/data/events_darkone.xml:1598
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "所以凯尔和莉莉丝……？"
 
 #: src-en/data/events_darkone.xml:1600
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "那……东西……一定是莉莉丝。至少，是她的残骸……那么这房间里的血污，就是……"
 
 #: src-en/data/events_darkone.xml:1602
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我要吐了……"
 
 #: src-en/data/events_darkone.xml:1604
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"是的，这一定是凯尔剩下的部分……那两人到底想干什么？你再次瞥向那本书。如果还有"
+"任何答案，就在这里了。将其收好，你转身准备离开房间，却注意到门口有一个庞大的"
+"阴影。那个怪物站在那里，不知怎的从伤势中恢复了……它胸口的眼睛依然紧盯着你手中"
+"的凯尔和莉莉丝的照片。"
 
 #: src-en/data/events_darkone.xml:1606
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "莉-莉莉丝？真的是你吗？"
 
 #: src-en/data/events_darkone.xml:1608
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "当你喊出莉莉丝的名字时，那怪物身体一僵。它真的是她……她开始缓慢靠近，眼睛依然"
+"盯着照片。"
 
 #: src-en/data/events_darkone.xml:1610
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "是我，莉莉丝。联邦，记得吗？"
 
 #: src-en/data/events_darkone.xml:1612
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "莉莉丝眼中闪过一丝什么。你只能希望是认出来了……她的靠近稍微加快了一些。"
 
 #: src-en/data/events_darkone.xml:1614
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你还记得凯尔说过什么吗？"
 
 #: src-en/data/events_darkone.xml:1616
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你提到凯尔，莉莉丝加快速度。她马上就要到跟前了。"
 
 #: src-en/data/events_darkone.xml:1618
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "他说你可以信任我，莉莉丝，我知道我也能信任你。站稳别动。"
 
 #: src-en/data/events_darkone.xml:1620
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"离你只有几英寸时，莉莉丝停了下来。一条扭动的触须以闪电般的速度从她身体里伸出…"
+"…抓住了照片。照片似乎能让她平静，你缓慢而礼貌地拿回照片，莉莉丝没有阻止。当你"
+"离开房间，走向你的星舰时，她跟随着，你意识到你安抚了一个克苏鲁式的怪物……但她"
+"也是你的朋友。一回到星舰上，你拿出那本书，莉莉丝对着它发出一声低吼。"
 
 #: src-en/data/events_darkone.xml:1621
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/crewMember"
-msgstr ""
+msgstr "莉莉丝"
 
 #: src-en/data/events_darkone.xml:1624
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "检查那本书。"
 
 #: src-en/data/events_darkone.xml:1626
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"翻阅书页，你发现自己读不懂任何内容。它是用一种你的翻译器或船员都无法识别的文"
+"字写成的……除了莉莉丝，她正以强烈的目光盯着那些深红色的文字。在她的身体排出一"
+"种神秘的墨水后，应你的要求，她在地板上写出了一份密码……你很好奇，如果她能做这"
+"种事，她到底还有多少自我残留其中。最终，密码完成后，你能够辨认出那些文字确实"
+"描绘了几种仪式……最引人注目的，是一种允许人升腾并与黑暗之神交流的仪式。你看向"
+"莉莉丝。"
 
 #: src-en/data/events_darkone.xml:1628
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "你是不是……"
 
 #: src-en/data/events_darkone.xml:1630
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/choice/event/text"
 msgstr ""
+"她低吼一声，你咽了口唾沫。深入书页，还有其他颜色的文字，莉莉丝的密码无法涵盖"
+"。她一定读不懂所有这些……也许你能找到能读懂的人。同时，似乎还有一些仪式，可以"
+"在完成升腾仪式后增强一个人的力量。如果你进行这些仪式，或许能让莉莉丝变得更强…"
+"…但谁知道你得付出什么代价。"
 
 #: src-en/data/events_darkone.xml:1632
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "凯尔……"
 
 #: src-en/data/events_darkone.xml:1634
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and @lvl=\"0\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你已无能为力。你必须向前走，尽你所能照顾莉莉丝……以及完成这些异界仪式，如果你"
+"愿意的话。"
 
 #: src-en/data/events_darkone.xml:1644
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/text"
-msgstr ""
+msgstr "检查那本书。"
 
 #: src-en/data/events_darkone.xml:1646
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"DARKGOD_CURSED_BOOK\""
 " and not(@lvl)]/event/text"
 msgstr ""
+"你很快意识到，这本书和你已有的那本《异界典籍》一模一样。她和凯尔一定进行了书"
+"页中记载的某种不可言说的仪式，而他成了祭品……至少可以说，这很可怕，但对你来说"
+"，拥有第二本这可怕的书副本价值不大。你把它留在原地，莉莉丝不断的扭动似乎稍微"
+"平静了一些。"
 
 #: src-en/data/events_darkone.xml:1653
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "就是现在！冲过怪物，离开这里！"
 
 #: src-en/data/events_darkone.xml:1655
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"莉莉丝冲过来时，你躲开她，丢下了书和照片。你不知道她变成了什么，也绝不可能把"
+"性命托付给这样的噩梦。当你冲向星舰时，你听到莉莉丝……在你身后哭泣。那是扭曲、"
+"可怕的哭泣声。但你不能让它影响你……你仍然需要离开这个地狱般的地方。"
 
 #: src-en/data/events_darkone.xml:1671
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不管它，离开这里。"
 
 #: src-en/data/events_darkone.xml:1673
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER_FIGHT_WIN\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你不确定自己是否想知道这里发生了什么真相，或者门后到底有什么。你满足于离开这"
+"里，准备继续你对黑暗之神及其阴影的战斗。"
 
 #: src-en/data/events_darkone.xml:1690
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_KYRANDLILITH_ENCOUNTER\"]/text"
 msgstr ""
+"你期待着看到凯尔和莉莉丝的星舰，但迎接你的是……等等，不，这确实是凯尔和莉莉丝"
+"的星舰。至少，形状是的，但它完全扭曲，被黑暗包裹……发生了什么？你没太多时间思"
+"考，因为你朋友们那噩梦般的星舰形态开始攻击了！"
 
 #: src-en/data/events_darkone.xml:1699
 msgid ""
@@ -2194,11 +2423,11 @@ msgstr "继续。"
 
 #: src-en/data/events_darkone.xml:1705
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_ALONE\"]/text"
-msgstr ""
+msgstr "你再次抵达这可怕旅程的出口……这次，你会接受它吗？"
 
 #: src-en/data/events_darkone.xml:1711
 msgid "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/text"
-msgstr ""
+msgstr "既然到了出口，黑暗似乎……静止了。一切归于平静。"
 
 #: src-en/data/events_darkone.xml:1714
 msgid ""
@@ -2211,24 +2440,29 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"然而，这份宁静没有持续多久……你感到周围的空间扭曲，时间本身似乎再次放缓。然后"
+"，令你不安的是，黑暗之神再次强行闯入你的脑海：“能 行 至 此 处 确 实 令 人 印 "
+"象 深 刻。你 立 于 悬 崖 之 巅；逃 脱 触 手 可 及。然 而，在 我 们 相 伴 的 "
+"时 光 结 束 前，我 将 赐 予 你 最 后 一 个 渴 望。让 它 显 现 吧。”"
 
 #: src-en/data/events_darkone.xml:1725
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/text"
-msgstr ""
+msgstr "我渴望……真相。"
 
 #: src-en/data/events_darkone.xml:1727
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/text"
-msgstr ""
+msgstr "一阵被激起的兴趣，那震耳欲聋的声音答道：“非 常……好 奇。你 渴 望 何 种 真 相？"
+"”"
 
 #: src-en/data/events_darkone.xml:1729
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/text"
-msgstr ""
+msgstr "那个……我击败的英雄的真相。"
 
 #: src-en/data/events_darkone.xml:1731
 msgid ""
@@ -2236,6 +2470,12 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/event/text"
 msgstr ""
+"“你 击 败 的 那 个 英 雄……令 我 惊 讶。很 少 有 事 能 让 我 惊 讶，而 我 至 "
+"今 无 法 计 算 它 是 如 何 能 从 我 自 身 的 力 量 中 脱 离 控 制 的。有 一 "
+"个 变 量 是 确 定 的：纯 粹 的 渴 望。去 克 服 它 认 为 无 人 能 及 之 事。在"
+" 这 一 点 上，你 与 它 并 无 不 同；然 而 你 现 在 站 在 这 里，胜 利 者……” "
+"停顿了一下，黑暗之神似乎在思考着什么，“……不 过，我 担 心 其 他 ‘英 雄’ 尚 存"
+"。找 出 他 们，击 败 他 们，你 将 知 晓 真 正 的 力 量。”"
 
 #: src-en/data/events_darkone.xml:1733
 msgid ""
@@ -2250,18 +2490,35 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"darkone_alignment\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1746
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/text"
-msgstr ""
+msgstr "（押韵者）“哦，谁会不爱真相！但，凭什么你就是那超级神探？”"
 
 #: src-en/data/events_darkone.xml:1748
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/event/text"
 msgstr ""
+"一阵烦躁充斥空气，黑暗之神反驳道：“了 解 事 物 是 我 的 职 责，野 兽——正 如 "
+"你 的 职 责 是 无 休 止 地 纠 缠。而 你 主 人 的 职 责 则 是 干 预——她 认 为 "
+"只 有 她 的 计 划 才 行 得 通。” 停顿了一下，黑暗之神似乎在思考着什么，“唉，"
+"混 沌 之 中 鲜 有‘存 在’。无 所 渴 求，唯 余 万 物 之 疯 狂……这 算 不 上 多 "
+"么 有 成 效 的 存 在。即 便 如 此……它 仍 是 一 种 渴 望。其 中 有 力 量——我 "
+"将 欢 迎 它，待 到 舞 蹈 之 日。”\n"
+"\n"
+"押韵者似乎对其反驳很感兴趣，这时黑暗的锁链在其周围显现——迅速将其束缚在地。“尽"
+" 管 你 的 族 类 或 许 强 大，在 我 的 领 域 中，你 不 过 是 位 客 人。尊 重 "
+"外 围 星 团 的 秩 序，我 亦 将 继 续 尊 重 它 们 的 混 沌。”"
 
 #: src-en/data/events_darkone.xml:1752
 msgid ""
@@ -2276,18 +2533,30 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"eldritch_cat\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1765
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/text"
-msgstr ""
+msgstr "（矮人）关于……这个玩意儿的真相。"
 
 #: src-en/data/events_darkone.xml:1767
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/event/text"
 msgstr ""
+"“这 个‘玩 意 儿’，如 你 所 言……来 自 外 围 边 缘。” 停顿了一下，黑暗之神似乎"
+"在思考着什么，“我 曾 在 裂 隙 间 穿 梭 良 多，所 见 更 多——但 鲜 有 如 此 真 "
+"正 混 沌 之 物。我 想 象……她 会 是 其 幕 后 黑 手。小 心，容 器。即 便 是 我"
+"，也 会 建 议 你 在 她 周 围 小 心 行 事……若 非 她——那 就 是 中 央 区 的 居 "
+"民。看 到 此 物 在 你 手 中，他 们 可 不 会 像 我 这 般 平 静。”"
 
 #: src-en/data/events_darkone.xml:1769
 msgid ""
@@ -2301,12 +2570,19 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"gnome\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1782
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/text"
-msgstr ""
+msgstr "（希尔凡）关于希尔凡的真相。"
 
 #: src-en/data/events_darkone.xml:1784
 msgid ""
@@ -2314,6 +2590,14 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/text"
 msgstr ""
+"“中 心 区 的 居 民……每 个 现 实 的 希 尔 凡 们。对 此，你 大 概 知 晓——即 使 "
+"你 记 不 起。但 你 或 许 好 奇 想 知 道 的 是……他 们 容 忍 我 在 此 存 在 的 "
+"真 相。” 停顿了一下，黑暗之神似乎在思考着什么，“坦 白 说……我 只 是 顺 应 他 "
+"们 的 渴 望。他 们 不 愿 看 到 外 围 星 团 的 干 预，故 我 确 保 他 们 看 不 "
+"到。如 此，他 们 对 我 的 事 务 保 持 盲 目……在 某 种 意 义 上。他 们 的 领 "
+"袖 自 视 凌 驾 于 我 这 般 存 在 的 力 量 之 上，手 中 隐 约 控 制 着 一 个 "
+"混 沌 的 外 围 存 在……但 希 尔 凡 们 对 他 们 自 以 为 负 责 维 系 的 秩 序 "
+"一 无 所 知。唉——待 到 舞 蹈 之 日，他 们 都 将 明 白 何 为 真 正 的 秩 序。”"
 
 #: src-en/data/events_darkone.xml:1786
 msgid ""
@@ -2328,12 +2612,19 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_SYLVAN\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1799
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）关于烙疤者的真相。"
 
 #: src-en/data/events_darkone.xml:1801
 msgid ""
@@ -2341,6 +2632,12 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"“那 叛 徒……是 个 错 误 的 判 断。我 曾 以 为 它 值 得 成 为 我 的 利 刃——它 "
+"却 证 明 自 己 只 配 将 其 打 碎。如 今，它 与 我 的 利 刃 皆 成 碎 片——等 待"
+" 着 被 修 复、能 再 次 执 行 其 意 志 的 那 一 天……或 者 等 待 着 它 们 化 为"
+" 尘 埃、成 为 被 遗 忘 记 忆 的 那 一 天。” 停顿了一下，黑暗之神似乎在思考着"
+"什么，“我……会 建 议 你 留 意 它，如 果 你 打 算 留 着 它。你 已 看 到 信 任 "
+"它 给 我 带 来 了 什 么 下 场。”"
 
 #: src-en/data/events_darkone.xml:1803
 msgid ""
@@ -2355,12 +2652,19 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thescarred\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1816
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
-msgstr ""
+msgstr "（“饥饿”）关于“饥饿”的真相。"
 
 #: src-en/data/events_darkone.xml:1818
 msgid ""
@@ -2368,6 +2672,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/text"
 msgstr ""
+"“那‘饥 饿’……并 非 总 是 如 此 饥 饿。” 停顿了一下，黑暗之神似乎在思考着什么，"
+"“也 并 非……所 有 个 体 都 如 此 连 接。一 个 集 体，其 目 标 如 此 一 致，来 "
+"自 他 们‘谐 合’的 伤 疤 如 此 相 似，以 至 于 在 物 理 上 连 为 一 体。这 便 "
+"是 他 们 纽 带 的 力 量——以 及 他 们 的 渴 望。事 便 如 此 成 就。”"
 
 #: src-en/data/events_darkone.xml:1820
 msgid ""
@@ -2382,13 +2690,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1833
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/text"
-msgstr ""
+msgstr "（“愚者”）关于“愚者”的真相。"
 
 #: src-en/data/events_darkone.xml:1835
 msgid ""
@@ -2396,6 +2711,12 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/text"
 msgstr ""
+"“那‘愚 者’……名 副 其 实——一 个 愚 人。” 停顿了一下，黑暗之神似乎在思考着什么"
+"，“我 赐 予 了 它 想 要 的 一 切——它 的 朋 友，安 全 无 虞；实 验 的 成 功。"
+"甚 至 名 望——如 今 所 有 人 都 知 晓 它 的 作 品。它 的 数 据 病 毒 的 作 品"
+"；腐 化 者、空 壳，甚 至 武 器……然 而，对 它 而 言 这 仍 然 不 够。它 所 度 "
+"过 的 每 一 个 痛 苦、未 曾 满 足 的 瞬 间，回 忆 着 曾 能 呼 吸 的 时 光，它"
+" 本 该 用 来 感 谢 你，因 为 你 保 护 它 免 受 我 的 伤 害。”"
 
 #: src-en/data/events_darkone.xml:1837
 msgid ""
@@ -2410,13 +2731,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theaberration\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1850
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/text"
-msgstr ""
+msgstr "（“女杰”）关于“女杰”的真相。"
 
 #: src-en/data/events_darkone.xml:1852
 msgid ""
@@ -2424,6 +2752,13 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/text"
 msgstr ""
+"“那‘女 杰’，如 你 所 称……是 我 所 厌 恶 之 人。憎 恨 并 非 我 的 本 分：然 而"
+"，我 确 实 憎 恨。这 位 女 杰 并 不 渴 望：它 显 化。它 不 违 抗 命 运：它 接"
+" 受 命 运。它，就 像 它 族 类 中 的 少 数 其 他 个 体，是 一 台 隐 喻 的 机 "
+"器，为 了‘拯 救’ 它 认 为 较 弱 者 而 被 建 造，并 欣 然 遵 循 此 道。正 因 "
+"如 此，若 有 机 会，我 会 摧 毁 它，就 如 它 会 摧 毁 我。” 停顿了一下，黑暗"
+"之神似乎在思考着什么，“我 唯 一 的 遗 憾……是 我 可 能 再 也 不 会 有 那 样 的"
+" 机 会 了。尤 其 是 有 你 站 在 它 身 边。”"
 
 #: src-en/data/events_darkone.xml:1854
 msgid ""
@@ -2438,13 +2773,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theheroine\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1867
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（“牧师”）关于“牧师”的真相。"
 
 #: src-en/data/events_darkone.xml:1869
 msgid ""
@@ -2452,6 +2794,11 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"“那 老 头……最 好 被 遗 忘。总 有 一 天，当 他 完 成 使 命，我 的 双 翼 将 撞 "
+"击 现 实 之 壁。在 那 之 前，他 活 着 只 为 一 个 原 因——他 的 渴 望。无 论 "
+"从 他 的 角 度，还 是 从 我 的 角 度。” 停顿了一下，黑暗之神似乎在思考着什么"
+"，“尽 管，我 内 心 的 某 个 部 分 确 实 享 受 看 着 他 执 行 那 些 小 小 的 "
+"差 事。他 显 得 如 此……微 不 足 道。”"
 
 #: src-en/data/events_darkone.xml:1871
 msgid ""
@@ -2466,13 +2813,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1884
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/text"
-msgstr ""
+msgstr "（“监督者”）关于“监督者”的真相。"
 
 #: src-en/data/events_darkone.xml:1886
 msgid ""
@@ -2480,6 +2834,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/text"
 msgstr ""
+"“我 的 利 刃……竟 能 将 它 带 到 此 处，确 实 令 人 印 象 深 刻。” 停顿了一下"
+"，黑暗之神似乎在思考着什么，“且 不 提 你 能 挥 舞 它……很 少 有 人 像 你 这 样"
+" 令 我 印 象 深 刻，容 器。然 而……须 知，当 时 机 到 来，执 掌 利 刃 的 将 是"
+" 我。对 此，我 绝 不 犹 豫。”"
 
 #: src-en/data/events_darkone.xml:1888
 msgid ""
@@ -2494,12 +2852,19 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTHEOVERSEER\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1901
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/text"
-msgstr ""
+msgstr "（“暗影”）关于这个神秘身影的真相。"
 
 #: src-en/data/events_darkone.xml:1903
 msgid ""
@@ -2507,6 +2872,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/text"
 msgstr ""
+"“这 个‘神 秘 身 影’，如 你 所 言……” 停顿了一下，黑暗之神似乎在思考着什么，“……"
+"将 很 好 地 为 你 服 务。对 此，我 确 信 无 疑。若 你 渴 望 知 道 更 多，不 "
+"过……考 虑 造 访 现 实 裂 隙 之 一 吧——你 必 须 亲 眼 见 证 万 物 的 边 缘。”"
 
 #: src-en/data/events_darkone.xml:1905
 msgid ""
@@ -2521,13 +2889,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"ddunique_theshade\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1918
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "（莉莉丝）关于凯尔遭遇的真相。"
 
 #: src-en/data/events_darkone.xml:1920
 msgid ""
@@ -2535,6 +2910,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"“凯 尔……并 未 在 我 计 算 中 人 们 所 预 期 的 地 方。其 他 人 也 一 样。为 "
+"此 感 到 安 慰 吧：我 从 不 浪 费。” 停顿了一下，黑暗之神似乎在思考着什么，“"
+"也 许 有 一 天，你 会 看 到 它。那 场 美 丽 的 舞 蹈。凯 尔 的，莉 莉 丝 的……"
+"所 有 人 的，当 他 们 一 起 歌 唱，永 远 地。事 便 如 此 成 就。”"
 
 #: src-en/data/events_darkone.xml:1922
 msgid ""
@@ -2549,13 +2928,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1935
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "（究极装甲）关于究极装甲的真相。"
 
 #: src-en/data/events_darkone.xml:1937
 msgid ""
@@ -2563,6 +2949,12 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"“我 的 双 翼……总 有 一 天，它 们 将 展 翅 翱 翔，并——与 我 的 利 刃 和 护 盾 "
+"一 起——迫 使 维 系 存 在 的 裂 隙 震 颤。它 们 或 许 能 坚 持 一 时——但 它 们"
+" 终 将 崩 碎，如 我 的 预 言 所 示。而 当 它 们 崩 碎 之 时……” 停顿了一下，黑"
+"暗之神似乎在思考着什么，“……一 切 存 在 者，终 结；一 切 将 存 在 者，开 始。"
+"直 到 那 时……保 护 好 它 们。那 老 头 干 得 不 错，让 它 们 有 了 一 位 更 称"
+" 职 的 持 有 者。”"
 
 #: src-en/data/events_darkone.xml:1939
 msgid ""
@@ -2577,13 +2969,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1952
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/text"
-msgstr ""
+msgstr "（炽天使船员）关于炽天使的真相。"
 
 #: src-en/data/events_darkone.xml:1954
 msgid ""
@@ -2591,6 +2990,11 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/text"
 msgstr ""
+"“炽 天 使 们……自 视 凌 驾 于 渴 望 之 上。凌 驾 于 我，及 我 的 意 志 之 上。"
+"” 停顿了一下，黑暗之神似乎在思考着什么，“对 于 其 中 大 多 数 来 说，这 与 真"
+" 相 相 去 甚 远。对 于 那 少 数 真 正 如 此 的……我 在 寻 求 解 决 他 们 这 琐"
+" 事 的 方 法。在 任 何 现 实 中，都 没 有 如 此 无 私 之 人——如 此 缺 乏 自 "
+"身 渴 望 之 人——的 容 身 之 地。对 此……我 将 确 保 无 疑。”"
 
 #: src-en/data/events_darkone.xml:1956
 msgid ""
@@ -2605,13 +3009,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1969
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（分离者船员）关于分离者的真相。"
 
 #: src-en/data/events_darkone.xml:1971
 msgid ""
@@ -2619,6 +3030,11 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"“分 离 者……是 一 支 初 生 的 舰 队，渴 望 推 翻 他 们 的 主 人。那 么，为 何 "
+"他 们 会 欢 迎 一 位 新 主 人……？” 停顿了一下，黑暗之神似乎在思考着什么，“……"
+"因 为 他 们 的‘谐 合’代 表 着 与 我 截 然 相 反 的 一 切。你 会 发 现，几 乎 "
+"没 有 什 么 比 一 副 枷 锁 更 与 渴 望 或 自 由 格 格 不 入 了。故 此，他 们 "
+"寻 求 打 破 它 们。事 便 如 此 成 就。”"
 
 #: src-en/data/events_darkone.xml:1973
 msgid ""
@@ -2633,13 +3049,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:1986
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（魂疫船员）关于魂疫数据病毒的真相。"
 
 #: src-en/data/events_darkone.xml:1988
 msgid ""
@@ -2647,6 +3070,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"“魂 疫 数 据 病 毒……并 非 出 自 我 的 设 计。” 停顿了一下，黑暗之神似乎在思考"
+"着什么，“然 而，它 依 然 源 自 我 的 力 量。诞 生 于 与 你 相 似 的 炙 热 渴 "
+"望。但 最 终，这 份 渴 望 会 崩 碎。所 剩 无 几 的，只 是 未 曾 实 现 梦 想 "
+"的 余 响。未 曾 兑 现 诺 言 的 隐 喻 僵 尸。”"
 
 #: src-en/data/events_darkone.xml:1990
 msgid ""
@@ -2661,13 +3088,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2003
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
-msgstr ""
+msgstr "（风暴船员）关于风暴的真相。"
 
 #: src-en/data/events_darkone.xml:2005
 msgid ""
@@ -2675,6 +3109,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"“风 暴……只 是 众 多 名 号 之 一。” 停顿了一下，黑暗之神似乎在思考着什么，“名 "
+"字 中 蕴 含 力 量；它 扭 曲 渴 望。一 场 风 暴 曾 在 一 个 悲 惨 男 人 的 心 "
+"中 肆 虐，而 那 风 暴 至 今 仍 在 肆 虐。只 是 它……变 得 更 强 大 了。我 变 "
+"得 更 强 大 了。”"
 
 #: src-en/data/events_darkone.xml:2007
 msgid ""
@@ -2689,13 +3127,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2020
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
-msgstr ""
+msgstr "（伊尔德里克船员）关于伊尔德里克树的真相。"
 
 #: src-en/data/events_darkone.xml:2022
 msgid ""
@@ -2703,6 +3148,10 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
+"“伊 尔 德 里 克 树……依 然 存 活。曾 有 一 段 时 光，这 并 非 确 定 之 事，于 "
+"是 一 份 渴 望 诞 生 了。一 份 不 让 它 们 的 歌 谣 被 埋 没 的 渴 望。” 停顿"
+"了一下，黑暗之神似乎在思考着什么，“故 此，它 们 以 自 己 的 方 式 继 续 歌 唱"
+"。如 今 它 们 变 得 弱 小，却 因 此 而 更 伟 大。活 着。”"
 
 #: src-en/data/events_darkone.xml:2024
 msgid ""
@@ -2717,13 +3166,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2037
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "（活体辉光裔）关于辉光裔的真相。"
 
 #: src-en/data/events_darkone.xml:2039
 msgid ""
@@ -2731,6 +3187,9 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"“辉 光 裔 们……曾 发 誓 放 弃 一 切，如 他 们 所 渴 望 的 那 样。” 停顿了一下"
+"，黑暗之神似乎在思考着什么，“或 者 说，梦 境 如 是……然 而，又 有 什 么 能 让 "
+"现 实 更 加 实 在 呢？毕 竟，是 梦 境——渴 望——塑 造 了 它。”"
 
 #: src-en/data/events_darkone.xml:2041
 msgid ""
@@ -2745,13 +3204,20 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2054
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/text"
-msgstr ""
+msgstr "（目睹预言者）关于预言的真相。"
 
 #: src-en/data/events_darkone.xml:2056
 msgid ""
@@ -2759,6 +3225,11 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/event/text"
 msgstr ""
+"“预 言……如 你 所 见。关 于 万 物 终 结 的 真 相。” 停顿了一下，黑暗之神似乎在"
+"思考着什么，“它 是 无 尽、严 谨 计 算 的 结 果——我 一 生 的 心 血。我 对 它 "
+"的 确 信，犹 如 你 对 呼 吸 空 气 的 确 信。然 而……我 畏 惧 它。名 字 中 的 "
+"力 量。我 不 得 不 取 走 它 们 全 部，以 免 那 注 定 的 舞 蹈 之 日 受 到 干 "
+"扰，为 此 我 深 表 遗 憾。”"
 
 #: src-en/data/events_darkone.xml:2058
 msgid ""
@@ -2773,18 +3244,28 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice/event/choice[@req=\"dd_prophecyoftheendwitnessed\"]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2071
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[21]/text"
-msgstr ""
+msgstr "关于你本质的真相。"
 
 #: src-en/data/events_darkone.xml:2073
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[21]/event/text"
 msgstr ""
+"“我 的 本 质……” 停顿了一下，黑暗之神似乎在思考着什么，“……与 我 曾 是 的 样 子"
+" 不 同。被 抛 弃。我 已 完 成 我 的 使 命。现 在，我 寻 求 服 务 新 的 目 的—"
+"—实 现 新 的 渴 望。事 便 如 此 成 就。”"
 
 #: src-en/data/events_darkone.xml:2075
 msgid ""
@@ -2797,18 +3278,30 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[21]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2088
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[22]/text"
-msgstr ""
+msgstr "关于你欲望的真相。"
 
 #: src-en/data/events_darkone.xml:2090
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[22]/event/text"
 msgstr ""
+"“我 的 欲 望……与 你 的 欲 望 一 致。看 到 更 多，做 得 更 多……” 停顿了一下，"
+"黑暗之神似乎在思考着什么，“……一 切 都 将 实 现。一 场 永 无 止 境 的 渴 望 与"
+" 满 足 之 舞，回 荡 于 过 去、现 在 和 未 来——一 曲 穿 透 任 何 预 设 边 界 "
+"的 欣 喜 呼 唤。我 将 粉 碎 行 星，它 们 环 绕 的 恒 星——甚 至 它 们 所 在 的"
+" 空 间……并 赐 予 它 们 全 新 的 意 义。”"
 
 #: src-en/data/events_darkone.xml:2092
 msgid ""
@@ -2821,18 +3314,30 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[22]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2105
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[23]/text"
-msgstr ""
+msgstr "关于你力量的真相。"
 
 #: src-en/data/events_darkone.xml:2107
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[23]/event/text"
 msgstr ""
+"“我 的 力 量……是 无 尽 的。无 休 止 的。在 其 创 造 之 初 就 已 确 保 如 此。"
+"” 停顿了一下，黑暗之神似乎在思考着什么，“即 使 超 越 我 的 意 志，它 依 然 保"
+" 持 这 不 可 动 摇 的 力 量。我 无 法 疲 惫，如 它 无 法。我 无 法 动 摇，如 "
+"它 无 法。我 无 法 死 亡，如 它 无 法。渴 望 唯 有 无 限——而 没 有 渴 望，我 "
+"便 什 么 也 不 是。”"
 
 #: src-en/data/events_darkone.xml:2109
 msgid ""
@@ -2845,18 +3350,33 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[23]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2122
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[24]/text"
-msgstr ""
+msgstr "关于你与名字关联的真相。"
 
 #: src-en/data/events_darkone.xml:2124
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[24]/event/text"
 msgstr ""
+"“我 与 名 字 的 关 联……确 实，你 会 发 现 被 我 触 及 者 皆 缺 乏 名 字。事 "
+"实 上……” 停顿了一下，黑暗之神似乎在思考着什么，“……它 们 是 我 最 大 的 弱 点"
+"。当 预 言 实 现 之 时——当 我 的 双 翼 翱 翔，我 的 利 刃 挥 击，我 的 护 盾 "
+"坚 守 之 时——能 阻 止 我 舞 蹈 的，唯 有 一 个 名 字。无 论 我 计 算 了 多 少"
+" 已 知 变 量、考 虑 了 多 少 可 能 性 或 假 设 情 景——在 我 的 计 算 中，这 "
+"一 结 果 始 终 恒 定。因 此……我 认 为 在 那 一 天 到 来 前，将 它 们 全 部 取"
+" 走 是 合 适 的。至 于 为 何 我 有 信 心 告 诉 你 这 些，尽 管 我 没 有 取 走"
+" 你 自 己 的 名 字……嗯，看 来 有 人 已 抢 先 一 步。”"
 
 #: src-en/data/events_darkone.xml:2126
 msgid ""
@@ -2869,18 +3389,31 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[24]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2139
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[25]/text"
-msgstr ""
+msgstr "关于深渊潜者的真相。"
 
 #: src-en/data/events_darkone.xml:2141
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[25]/event/text"
 msgstr ""
+"“深 渊 潜 者……是 众 多 种 族 之 一。因 此，你 或 许 会 认 为 他 们 平 凡 无 "
+"奇。” 停顿了一下，黑暗之神似乎在思考着什么，“然 而，他 们 在 此 处 为 我 服 "
+"务——在 多 元 宇 宙 的 这 个 角 落。他 们 也 不 是 唯 一 如 此 的；许 多 种 族"
+" 在 许 多 角 落 里 执 行 我 的 意 志。即 便 如 此——他 们 因 其 努 力 而 受 到"
+" 感 谢 与 回 报。自 远 古 以 来，他 们 渴 望 被 遗 世 独 立。事 便 如 此 成 "
+"就。”"
 
 #: src-en/data/events_darkone.xml:2143
 msgid ""
@@ -2893,18 +3426,30 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[25]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2156
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[26]/text"
-msgstr ""
+msgstr "关于启明者虚空的真相。"
 
 #: src-en/data/events_darkone.xml:2158
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[26]/event/text"
 msgstr ""
+"“他 们 的 虚 空，以 及 延 伸 而 来 的 我 的 领 域……并 非 出 自 我 的 设 计。"
+"你 会 发 现，在 那 些 我 赐 予 力 量 的 人 当 中……我 也 同 样 索 取。对 一 人"
+" 有 价 值 之 物，可 能 被 另 一 人 毫 不 吝 惜 地 给 予。” 停顿了一下，黑暗之"
+"神似乎在思考着什么，“至 于 它 出 自 谁 的 设 计，你 很 快 就 会 发 现……如 果 "
+"你 还 没 发 现 的 话。”"
 
 #: src-en/data/events_darkone.xml:2160
 msgid ""
@@ -2917,18 +3462,29 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[26]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2173
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[27]/text"
-msgstr ""
+msgstr "关于我的渴望的真相。"
 
 #: src-en/data/events_darkone.xml:2175
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[27]/event/text"
 msgstr ""
+"“你 的 渴 望……是 不 可 计 算 的。然 而，我 能 理 解 驱 动 你 的 似 乎 是：战 "
+"争、废 料、朋 友、敌 人、武 器，尤 其 是……星 舰。” 停顿了一下，黑暗之神似乎在"
+"思考着什么，“……仿 佛 你 打 算 驾 驶 所 有 的 星 舰。这 难 道 不 是 一 个……有 "
+"趣 的 渴 望 吗？”"
 
 #: src-en/data/events_darkone.xml:2177
 msgid ""
@@ -2941,18 +3497,28 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[27]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 预 计……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2190
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[28]/text"
-msgstr ""
+msgstr "关于未来的真相。"
 
 #: src-en/data/events_darkone.xml:2192
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[28]/event/text"
 msgstr ""
+"“未 来 蕴 含……很 多。” 停顿了一下，黑暗之神似乎在思考着什么，“你 的 人 类‘叛 "
+"军’争 夺 着 这 片 虚 空 的 控 制 权，但 这 无 关 紧 要。我 还 有 其 他 的 棋 "
+"子 要 下。我 想，你 也 是。记 住 这 一 点：这 并 非 终 结。”"
 
 #: src-en/data/events_darkone.xml:2194
 msgid ""
@@ -2965,6 +3531,13 @@ msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"0\"]/event/choice/event/choice[28]/event/choice/event/text"
 msgstr ""
+"随着你的渴望得到满足，黑暗之神再次说道：“若 你 渴 望 留 在 此 处，留 在 我 的"
+" 怀 抱 中，须 知 我 将 继 续 考 验 你 并 赐 予 你 每 一 个 渴 望。若 你 渴 望"
+" 离 开，此 事 亦 可 成 就。我 计 算……无 论 如 何，我 们 再 次 共 舞 只 是 时 "
+"间 问 题。” 说完，你感觉现实恢复正常，似乎可以自由离开了……在你货舱里最后一格"
+"燃料显形之后。你猛然意识到这场疯狂终于结束了，然而你却感觉在途中失去了自己的"
+"一部分。或许你永远无法逃离这可憎的虚空；无法全身而退……只要你内心还承载着自己"
+"的黑暗。"
 
 #: src-en/data/events_darkone.xml:2211
 msgid ""
@@ -2976,4 +3549,4 @@ msgstr "继续。"
 msgid ""
 "data/events_darkone.xml$//event[@name=\"DARKONE_FINISH\"]/choice[@req=\"dd_darkgodsdomainexitvisited\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "然而这一次……它保持如此。黑暗之神似乎暂时对你失去了兴趣。"
