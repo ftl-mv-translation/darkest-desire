@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 12:37+0000\n"
+"PO-Revision-Date: 2026-01-16 13:47+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datablueprintsxmlappend/zh_Hans/>\n"
@@ -2815,17 +2815,19 @@ msgstr "巨炮"
 #: src-en/data/blueprints.xml.append:16786
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/desc"
-msgstr ""
+msgstr "[基础冷却：45]此装置可激发一道阴险致命的穿刺光束，能够击穿舱壁、唤出饥渴暗影"
+"，并将命中的一切存在彻底湮灭。"
 
 #: src-en/data/blueprints.xml.append:16787
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/tooltip"
-msgstr ""
+msgstr "巨炮：激发一道阴险致命的穿刺光束，能够击穿舱壁、唤出饥渴暗影，并将命中的一切"
+"存在彻底湮灭。"
 
 #: src-en/data/blueprints.xml.append:16796
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:16833
 msgid ""
@@ -2840,92 +2842,102 @@ msgstr "巨炮"
 #: src-en/data/blueprints.xml.append:16835
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/desc"
-msgstr ""
+msgstr "[基础冷却：45]此装置可激发一道阴险致命的穿刺光束，能够击穿舱壁、唤出饥渴暗影"
+"，并将命中的一切存在彻底湮灭。"
 
 #: src-en/data/blueprints.xml.append:16836
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/tooltip"
-msgstr ""
+msgstr "巨炮：激发一道阴险致命的穿刺光束，能够击穿舱壁、唤出饥渴暗影，并将命中的一切"
+"存在彻底湮灭。"
 
 #: src-en/data/blueprints.xml.append:16845
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"ARTILLERY_DISPARITY_LIFETAKER_DETERMINATION\"]/spawnCrew/name"
-msgstr ""
+msgstr "决意之影"
 
 #: src-en/data/blueprints.xml.append:16883
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/title"
-msgstr ""
+msgstr "虚烬轰击者巨炮"
 
 #: src-en/data/blueprints.xml.append:16884
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:16885
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/desc"
-msgstr ""
+msgstr "[基础冷却：12.5] 发射三发类类似破片的暗影弹。"
 
 #: src-en/data/blueprints.xml.append:16886
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/tooltip"
-msgstr ""
+msgstr "巨炮：发射三发类似破片炮的暗影弹。每发成功命中的弹体有70%概率在目标舱室内召唤"
+"一个 饥渴暗影，持续21秒。"
 
 #: src-en/data/blueprints.xml.append:16896
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_RAVAGING_VOID\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:16943
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/title"
-msgstr ""
+msgstr "黑暗质变巨炮"
 
 #: src-en/data/blueprints.xml.append:16944
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:16945
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/desc"
-msgstr ""
+msgstr "[基础冷却：14]发射一道可穿透的光束，能损伤系统、召唤一个饥渴暗影，并在被击中"
+"的舱室制造一片临时黑暗帷幕。"
 
 #: src-en/data/blueprints.xml.append:16946
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/tooltip"
 msgstr ""
+"巨炮：发射一道穿透射线，100%概率召唤一个饥渴暗影（持续21秒），并额外在命中的"
+"舱室生成一片临时黑暗帷幕（持续12秒）。该攻击有60%概率造成舱体破损，并造成2点"
+"系统伤害。"
 
 #: src-en/data/blueprints.xml.append:16955
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_DARK_METAMORPHOSIS\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:17023
 msgid ""
 "data/blueprints.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "进化"
 
 #: src-en/data/blueprints.xml.append:17024
 msgid ""
 "data/blueprints.xml.append$//statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：1秒]\n"
+"\t\t\t\t\t转化为吞噬暗影形态，使其战斗力大幅提升。"
 
 #: src-en/data/blueprints.xml.append:17068
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_ECLIPTIC_EXTINCTION\"]/title"
-msgstr ""
+msgstr "终焉歼星巨炮"
 
 #: src-en/data/blueprints.xml.append:17069
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_ECLIPTIC_EXTINCTION\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17070
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_ECLIPTIC_EXTINCTION\"]/desc"
-msgstr ""
+msgstr "[基础冷却：70] 释放一股难以想象的毁灭能量，纵使未能将敌舰彻底湮灭，也足以将其"
+"重创至濒临瓦解。"
 
 #: src-en/data/blueprints.xml.append:17071
 msgid ""
@@ -2943,22 +2955,26 @@ msgstr "粉碎星域"
 #: src-en/data/blueprints.xml.append:17125
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/title"
-msgstr ""
+msgstr "实验型渎魂巨炮"
 
 #: src-en/data/blueprints.xml.append:17126
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17127
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/desc"
-msgstr ""
+msgstr "[基础冷却：20] 一项奇特的技术造物，似乎能汲取与 Heroine 同源的力量，并可在敌"
+"舰上投射出她的一个克隆体。"
 
 #: src-en/data/blueprints.xml.append:17128
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/tooltip"
-msgstr ""
+msgstr "巨炮：一项奇特的技术装置，似乎汲取着与Heroine同源的能量，能够在敌舰上显形出一"
+"具她的克隆体。"
 
 #: src-en/data/blueprints.xml.append:17133
 msgid ""
@@ -2973,7 +2989,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17171
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE_ENEMY\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17172
 msgid ""
@@ -2998,7 +3014,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17216
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_PALE_ION\"]/short"
-msgstr ""
+msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17217
 msgid ""
@@ -3028,7 +3044,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17343
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DISPARITY\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:17384
 msgid ""
@@ -3053,7 +3069,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17481
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DARKGOD\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:17521
 msgid ""
@@ -3063,7 +3079,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:17531
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_FLAK_DARKGOD_CRYSTALLINE\"]/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:17583
 msgid ""
@@ -4338,7 +4354,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22363
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"darkgodtendrils\"]/title"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/blueprints.xml.append:22364
 msgid ""
