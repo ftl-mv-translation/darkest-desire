@@ -1,9 +1,16 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-01-16 12:29+0000\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
+"projects/darkest-desire/dataevents_special_transportsxmlappend/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.13.3\n"
 
 #: src-en/data/events_special_transports.xml.append:3
 msgid ""
@@ -16,10 +23,9 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_transports.xml.append:15
-#, fuzzy
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_special_transports.xml.append:16
 msgid ""
@@ -30,16 +36,19 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/text"
 msgstr ""
+"那声音说道：“这个信标处……有一艘运输船。奇怪的星舰，这些……是我们自那以后建造的"
+"唯一一种……”它的话音渐弱，然后继续说道，“……无论如何，我可以拨开帷幕……如果你想"
+"要它的战利品。只是……别摧毁它。”"
 
 #: src-en/data/events_special_transports.xml.append:21
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "让我看看它们。它们的战利品就是我的了！"
 
 #: src-en/data/events_special_transports.xml.append:23
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "黑暗退去，星舰显现。你准备用武力夺取它们的货物。"
 
 #: src-en/data/events_special_transports.xml.append:27
 msgid ""
@@ -49,17 +58,17 @@ msgstr "继续。"
 #: src-en/data/events_special_transports.xml.append:33
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/text"
-msgstr ""
+msgstr "别拨开，我不是为它们而来的。"
 
 #: src-en/data/events_special_transports.xml.append:35
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“仁慈？真是……出乎意料。”那声音安静下来，留下你独自面对黑暗。"
 
 #: src-en/data/events_special_transports.xml.append:38
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_ENLIGHTENED_LOOT\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储存室。"
 
 #: src-en/data/events_special_transports.xml.append:42
 msgid ""
@@ -82,10 +91,9 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_transports.xml.append:71
-#, fuzzy
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DISPARITY_LOOT\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_special_transports.xml.append:72
 msgid ""
@@ -95,7 +103,8 @@ msgstr "未探索的信标。"
 #: src-en/data/events_special_transports.xml.append:74
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DISPARITY_LOOT\"]/text"
-msgstr ""
+msgstr "这个信标有一艘分离者运输船。基本可以断定这艘星舰很可能载有特殊技术。如果你能"
+"消灭其船员，它们的货物就归你了。"
 
 #: src-en/data/events_special_transports.xml.append:77
 msgid ""
@@ -148,10 +157,9 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_transports.xml.append:125
-#, fuzzy
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"NEBULA_DDSOULPLAGUE_TEMPEST_TRANSPORT\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_special_transports.xml.append:126
 msgid ""
@@ -162,6 +170,9 @@ msgstr "未探索的信标。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"NEBULA_DDSOULPLAGUE_TEMPEST_TRANSPORT\"]/text"
 msgstr ""
+"这个信标有一艘……水晶族运输船？你认不出它们的标志，也不明白它们为何在此，但是…"
+"…基本可以断定这艘星舰很可能载有特殊技术。如果你能消灭其船员，它们的货物就归你"
+"了。"
 
 #: src-en/data/events_special_transports.xml.append:131
 msgid ""
@@ -202,16 +213,22 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/text"
 msgstr ""
+"船员以及它们那些奇怪的怪物都死了，星舰留给了你。它们的货物任由你拿取……如果它"
+"们有的话！这里没有战利品！这是什么意思？！你正要气得把这地方拆了，这时它们一"
+"个闪烁的控制台吸引了你的注意……"
 
 #: src-en/data/events_special_transports.xml.append:163
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/choice/text"
-msgstr ""
+msgstr "调查控制台。"
 
 #: src-en/data/events_special_transports.xml.append:165
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDSOULPLAGUE_TEMPEST\"]/choice/event/text"
 msgstr ""
+"这不是普通的控制台，是它们的导航台。它们试图逃往的坐标似乎还锁定在系统里……或"
+"许你可以亲自去调查一下，毕竟还能从这事里得到点东西。尽管你还不算完全满意，你"
+"还是记下了坐标，并暂时将就从星舰上收集到的资源凑合着用。"
 
 #: src-en/data/events_special_transports.xml.append:173
 msgid ""
@@ -229,6 +246,11 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"……如你所料，低语充斥了你的脑海，但你发觉它们不如往常那般……令人畏惧：\n"
+"\n"
+"\t\t\t“……我们的战利品……不是你的……”\n"
+"\t\t\t“……它是我们的……加入我们……”\n"
+"\t\t\t“……星辰的战利品……你的战利品……”"
 
 #: src-en/data/events_special_transports.xml.append:202
 msgid ""
@@ -247,12 +269,12 @@ msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "魂疫核心质体将在倒计时结束后发起攻击。"
 
 #: src-en/data/events_special_transports.xml.append:217
 msgid ""
 "data/events_special_transports.xml.append$//backgroundObject[@name=\"DDSOULPLAGUE_WARNING_SPRITE_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "你正处于魂疫核心质体内部。只要它保持躁动，就会周期性地攻击你的星舰。"
 
 #: src-en/data/events_special_transports.xml.append:220
 msgid ""
@@ -270,7 +292,8 @@ msgstr "避开这艘船。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "它们停留在你的武器射程之外，最终跃迁离开了……奇怪，就连星辰之子也会觊觎战利品"
+"吗。"
 
 #: src-en/data/events_special_transports.xml.append:230
 msgid ""
@@ -294,7 +317,7 @@ msgstr "继续。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDCOREMASS_LOOT\"]/choice[@req=\"dd_soulplague_coremass_heartdefeated\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "……但魂疫核心质体碎裂瓦解了，因为它的心脏已失。这里几乎什么也没剩下。"
 
 #: src-en/data/events_special_transports.xml.append:248
 msgid ""
@@ -316,7 +339,7 @@ msgstr "对方船员都死了，留给你一艘空船。他们的货物任由你
 #: src-en/data/events_special_transports.xml.append:269
 msgid ""
 "data/events_special_transports.xml.append$//ship[@name=\"SHIP_DDFALSE_RADIANCE_TRANSPORT_LOOT\"]/escape/text"
-msgstr ""
+msgstr "嘿，等等——它想逃跑！你得，呃……你得揍它揍得更快才行，我猜？！"
 
 #: src-en/data/events_special_transports.xml.append:279
 msgid ""
@@ -324,10 +347,9 @@ msgid ""
 msgstr "未探索的信标。"
 
 #: src-en/data/events_special_transports.xml.append:280
-#, fuzzy
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/beaconType/visitedTooltip"
-msgstr "已探索的信标，没什么值得注意。"
+msgstr "探索完毕的地点。已无值得关注之物。"
 
 #: src-en/data/events_special_transports.xml.append:281
 msgid ""
@@ -349,49 +371,50 @@ msgstr "..."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "……嘿，等等——这可不是普通的伪辉光成员。这一个在保护着什么有价值的东西！不过，"
+"它们似乎并不急于开战……呃，这……取决于你，想怎么做。"
 
 #: src-en/data/events_special_transports.xml.append:291
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "具象化战利品——某种有价值、需用武力夺取之物。"
 
 #: src-en/data/events_special_transports.xml.append:293
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "对，让它们知道谁才是老大！是，呃……是你，万一你想知道的话……？"
 
 #: src-en/data/events_special_transports.xml.append:296
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "具象化战斗——一件需要准备的事。"
 
 #: src-en/data/events_special_transports.xml.append:302
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "具象化仁慈——对这些怪物来说陌生的行为。"
 
 #: src-en/data/events_special_transports.xml.append:304
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "我能尊重这点。谁知道如果你挑起这场战斗会发生什么……搞不好是个陷阱呢！"
 
 #: src-en/data/events_special_transports.xml.append:306
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "具象化一项琐碎的任务——一件闲暇时做的事。"
 
 #: src-en/data/events_special_transports.xml.append:310
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "具象化虚无——那终将涵盖一切的东西。"
 
 #: src-en/data/events_special_transports.xml.append:318
 msgid ""
@@ -403,7 +426,8 @@ msgstr "..."
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_DDANTUMBRA_LOOT\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "尽管逆影位面如今恢复的色彩连同其宁静之美一同涌来……但不知为何，你发现自己不禁"
+"为其过后留下的寂静感到不安。看来这里已没有你的容身之处了。"
 
 #: src-en/data/events_special_transports.xml.append:323
 msgid ""
@@ -421,3 +445,5 @@ msgstr "跳过。"
 msgid ""
 "data/events_special_transports.xml.append$//event[@name=\"TRANSPORT_CAPTURE_DDFALSE_RADIANCE\"]/text"
 msgstr ""
+"哦，没错……就是这个好东西！反正我觉得是。我其实，啊……对武器啦、星舰啦、或者，"
+"嗯……大多数东西都一窍不通，但是……不管怎样，你拿到了特别的东西！"
