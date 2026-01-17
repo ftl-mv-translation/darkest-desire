@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 13:47+0000\n"
+"PO-Revision-Date: 2026-01-17 02:41+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datablueprintsxmlappend/zh_Hans/>\n"
@@ -138,7 +138,7 @@ msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDIVINE_DUALITY\"]/desc"
 msgstr ""
 "神圣双生的本质，是存在与不存在的真实共存。 它会发射一连串灌注了神性能量的射弹"
-"，每一发弹药在灼烧敌人/祝福盟友的同时，都有概率起火或召唤一道“噬渊暗影”。"
+"，每一发弹药在灼烧敌人/祝福盟友的同时，都有概率起火或召唤一道噬渊暗影。"
 
 #: src-en/data/blueprints.xml.append:811
 msgid ""
@@ -890,7 +890,7 @@ msgstr "炽天使光束"
 #: src-en/data/blueprints.xml.append:8446
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"BOMB_SERAPH_BEAM\"]/short"
-msgstr "炽天使光束"
+msgstr "魂疫光束"
 
 #: src-en/data/blueprints.xml.append:8448
 msgid ""
@@ -2963,14 +2963,12 @@ msgid ""
 msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17127
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/desc"
 msgstr "[基础冷却：20] 一项奇特的技术造物，似乎能汲取与 Heroine 同源的力量，并可在敌"
 "舰上投射出她的一个克隆体。"
 
 #: src-en/data/blueprints.xml.append:17128
-#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/tooltip"
 msgstr "巨炮：一项奇特的技术装置，似乎汲取着与Heroine同源的能量，能够在敌舰上显形出一"
@@ -2979,12 +2977,12 @@ msgstr "巨炮：一项奇特的技术装置，似乎汲取着与Heroine同源�
 #: src-en/data/blueprints.xml.append:17133
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE\"]/spawnCrew/name"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:17170
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE_ENEMY\"]/title"
-msgstr ""
+msgstr "实验型渎魂巨炮"
 
 #: src-en/data/blueprints.xml.append:17171
 msgid ""
@@ -2992,24 +2990,28 @@ msgid ""
 msgstr "巨炮"
 
 #: src-en/data/blueprints.xml.append:17172
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE_ENEMY\"]/desc"
-msgstr ""
+msgstr "[基础冷却：20] 一项奇特的技术造物，似乎能汲取与 Heroine 同源的力量，并可在敌"
+"舰上投射出她的一个克隆体。"
 
 #: src-en/data/blueprints.xml.append:17173
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE_ENEMY\"]/tooltip"
-msgstr ""
+msgstr "巨炮：一项奇特的技术装置，似乎汲取着与Heroine同源的能量，能够在敌舰上显形出一"
+"具她的克隆体。"
 
 #: src-en/data/blueprints.xml.append:17178
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_EXPERIMENTAL_SOUL_ENGINE_ENEMY\"]/spawnCrew/name"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:17215
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_PALE_ION\"]/title"
-msgstr ""
+msgstr "苍茫离子离子巨炮"
 
 #: src-en/data/blueprints.xml.append:17216
 msgid ""
@@ -3019,27 +3021,29 @@ msgstr "巨炮"
 #: src-en/data/blueprints.xml.append:17217
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_PALE_ION\"]/desc"
-msgstr ""
+msgstr "[基础冷却：9] 发射一种神秘的相位离子，其携带着伊尔德里克迷雾，并在击中的舱室"
+"中扩散该迷雾。"
 
 #: src-en/data/blueprints.xml.append:17218
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDARTILLERY_PALE_ION\"]/tooltip"
-msgstr ""
+msgstr "巨炮：发射一种神秘的相位离子，其携带着伊尔德里克迷雾，并在命中的舱室中扩散该"
+"迷雾。"
 
 #: src-en/data/blueprints.xml.append:17317
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DISPARITY\"]/title"
-msgstr ""
+msgstr "差异暗影碎片"
 
 #: src-en/data/blueprints.xml.append:17318
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DISPARITY\"]/short"
-msgstr ""
+msgstr "暗影"
 
 #: src-en/data/blueprints.xml.append:17319
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DISPARITY\"]/desc"
-msgstr ""
+msgstr "差异复仇弹"
 
 #: src-en/data/blueprints.xml.append:17343
 msgid ""
@@ -3049,22 +3053,22 @@ msgstr "噬渊暗影"
 #: src-en/data/blueprints.xml.append:17384
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DDSERAPH\"]/title"
-msgstr ""
+msgstr "炽天使火球"
 
 #: src-en/data/blueprints.xml.append:17385
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DDSERAPH\"]/short"
-msgstr ""
+msgstr "火球"
 
 #: src-en/data/blueprints.xml.append:17386
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"CRYSTAL_ARMOR_PROJ_DDSERAPH\"]/desc"
-msgstr ""
+msgstr "炽天使复仇弹"
 
 #: src-en/data/blueprints.xml.append:17471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DARKGOD\"]/title"
-msgstr ""
+msgstr "暗临爆破"
 
 #: src-en/data/blueprints.xml.append:17481
 msgid ""
@@ -3449,7 +3453,7 @@ msgstr "辉核光束"
 #: src-en/data/blueprints.xml.append:20024
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_RADIANTCORE_TIERTWO_TORMENTULAR_COMBAT\"]/spawnCrew/name"
-msgstr ""
+msgstr "光裔"
 
 #: src-en/data/blueprints.xml.append:20215
 msgid ""
@@ -4514,11 +4518,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:22449
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi\"]/title"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:22450
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi\"]/short"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:22455
 msgid ""
@@ -4538,12 +4542,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22461
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi_enemy\"]/title"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:22462
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_engi_enemy\"]/short"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:22467
 msgid ""
@@ -4573,7 +4577,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22481
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engidefault\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22482
 msgid ""
@@ -4603,7 +4608,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22496
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engispeed\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22497
 msgid ""
@@ -4633,7 +4639,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22511
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engiattack\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22512
 msgid ""
@@ -4663,7 +4670,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22526
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engidefense\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22527
 msgid ""
@@ -4693,7 +4701,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22541
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engihazard\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22542
 msgid ""
@@ -4723,7 +4732,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22556
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engihazard_enemy\"]/powerList/power[1]"
-msgstr ""
+msgstr "主动技能 超频：切换形态并生成一座差异中继器。该中继器会为所有友方半械族单位提"
+"供一个增益效果，此效果与其生成时所对应的形态相关。"
 
 #: src-en/data/blueprints.xml.append:22557
 msgid ""
@@ -4753,7 +4763,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22569
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engidefault_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22570
 msgid ""
@@ -4778,7 +4789,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22581
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engispeed_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22582
 msgid ""
@@ -4803,7 +4815,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22593
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engiattack_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22594
 msgid ""
@@ -4828,7 +4841,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22605
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engidefense_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22606
 msgid ""
@@ -4853,7 +4867,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22617
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engihazard_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22618
 msgid ""
@@ -4878,7 +4893,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22629
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_engirainbow_beacon\"]/powerList/power[1]"
-msgstr ""
+msgstr "生命值20点。 会自然衰竭（1点/秒），但其他友方中继器会干扰其信号，导致其额外以"
+"每信标1.5点/秒的速率衰竭。"
 
 #: src-en/data/blueprints.xml.append:22630
 msgid ""
@@ -4913,37 +4929,44 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22646
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22647
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22648
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22653
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22654
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22658
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22659
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22660
 msgid ""
@@ -4953,12 +4976,14 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22665
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22666
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22670
 msgid ""
@@ -5003,37 +5028,44 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:22692
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_a\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22693
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_a\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22694
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_a\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22699
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_a\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22700
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_a\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22704
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_a\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22705
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_a\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22706
 msgid ""
@@ -5043,47 +5075,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22711
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_a\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22712
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_a\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22716
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_b\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22717
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_b\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22718
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_b\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22723
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_b\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22724
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_b\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22728
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_b\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22729
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_b\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22730
 msgid ""
@@ -5093,47 +5134,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22735
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_b\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22736
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_b\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22740
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_c\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22741
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_c\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22742
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_c\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22747
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_c\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22748
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_c\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22752
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_c\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22753
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_c\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22754
 msgid ""
@@ -5143,47 +5193,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22759
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_c\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22760
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_c\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22764
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ad\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22765
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ad\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22766
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ad\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22771
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ad\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22772
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ad\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22776
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ad\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22777
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ad\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22778
 msgid ""
@@ -5193,47 +5252,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22783
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ad\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22784
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ad\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22788
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ae\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22789
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ae\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22790
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ae\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22795
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ae\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22796
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ae\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22800
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ae\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22801
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ae\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22802
 msgid ""
@@ -5243,47 +5311,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22807
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ae\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22808
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ae\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22812
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_af\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22813
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_af\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22814
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_af\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22819
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_af\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22820
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_af\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22824
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_af\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22825
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_af\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22826
 msgid ""
@@ -5293,47 +5370,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22831
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_af\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22832
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_af\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22836
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ag\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22837
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ag\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22838
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ag\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22843
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ag\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22844
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ag\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22848
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ag\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22849
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ag\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22850
 msgid ""
@@ -5343,47 +5429,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22855
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ag\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22856
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ag\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22860
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bd\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22861
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bd\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22862
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bd\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22867
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bd\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22868
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bd\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22872
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bd\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22873
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bd\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22874
 msgid ""
@@ -5393,47 +5488,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22879
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bd\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22880
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bd\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22884
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_be\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22885
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_be\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22886
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_be\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22891
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_be\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22892
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_be\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22896
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_be\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22897
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_be\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22898
 msgid ""
@@ -5443,47 +5547,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22903
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_be\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22904
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_be\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22908
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bf\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22909
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bf\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22910
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bf\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bf\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22916
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bf\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bf\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22921
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bf\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22922
 msgid ""
@@ -5493,47 +5606,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22927
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bf\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22928
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bf\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22932
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bg\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22933
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bg\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22934
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bg\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22939
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bg\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22940
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bg\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22944
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bg\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22945
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bg\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22946
 msgid ""
@@ -5543,47 +5665,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22951
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bg\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22952
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bg\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22956
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cd\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22957
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cd\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22958
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cd\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22963
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cd\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22964
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cd\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22968
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cd\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22969
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cd\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22970
 msgid ""
@@ -5593,47 +5724,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22975
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cd\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:22976
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cd\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:22980
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ce\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:22981
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ce\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22982
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ce\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:22987
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ce\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:22988
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_ce\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:22992
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ce\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:22993
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ce\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:22994
 msgid ""
@@ -5643,47 +5783,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:22999
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ce\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23000
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_ce\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23004
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cf\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23005
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cf\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23006
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cf\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23011
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cf\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23012
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cf\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23016
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cf\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23017
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cf\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23018
 msgid ""
@@ -5693,47 +5842,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23023
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cf\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23024
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cf\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23028
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cg\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23029
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cg\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cg\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23035
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cg\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23036
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cg\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cg\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cg\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23042
 msgid ""
@@ -5743,47 +5901,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23047
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cg\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23048
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cg\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23052
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_adj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23053
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_adj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23054
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_adj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23059
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_adj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23060
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_adj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23064
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_adj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23065
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_adj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23066
 msgid ""
@@ -5793,47 +5960,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23071
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_adj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23072
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_adj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23076
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_aej\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23077
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_aej\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23078
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_aej\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23083
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_aej\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23084
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_aej\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23088
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_aej\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23089
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_aej\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23090
 msgid ""
@@ -5843,47 +6019,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23095
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_aej\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23096
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_aej\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_afj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23101
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_afj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23102
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_afj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23107
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_afj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23108
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_afj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23112
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_afj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23113
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_afj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23114
 msgid ""
@@ -5893,47 +6078,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23119
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_afj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23120
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_afj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23124
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_agj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23125
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_agj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23126
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_agj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23131
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_agj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23132
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_agj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23136
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_agj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23137
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_agj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23138
 msgid ""
@@ -5943,47 +6137,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23143
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_agj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23144
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_agj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23148
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bdj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23149
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bdj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23150
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bdj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23155
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bdj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23156
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bdj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bdj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23161
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bdj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23162
 msgid ""
@@ -5993,47 +6196,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23167
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bdj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23168
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bdj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23172
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bej\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23173
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bej\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23174
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bej\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23179
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bej\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23180
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bej\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23184
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bej\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23185
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bej\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23186
 msgid ""
@@ -6043,47 +6255,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23191
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bej\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23192
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bej\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23196
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bfj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23197
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bfj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23198
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bfj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23203
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bfj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23204
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bfj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23208
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bfj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23209
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bfj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23210
 msgid ""
@@ -6093,47 +6314,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23215
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bfj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23216
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bfj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23220
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bgj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23221
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bgj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23222
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bgj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23227
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bgj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23228
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_bgj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23232
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bgj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23233
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bgj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23234
 msgid ""
@@ -6143,47 +6373,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23239
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bgj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23240
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_bgj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23244
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cdj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23245
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cdj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23246
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cdj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23251
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cdj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23252
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cdj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23256
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cdj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23257
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cdj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23258
 msgid ""
@@ -6193,47 +6432,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23263
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cdj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23264
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cdj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23268
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cej\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23269
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cej\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23270
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cej\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23275
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cej\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23276
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cej\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23280
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cej\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23281
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cej\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23282
 msgid ""
@@ -6243,47 +6491,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23287
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cej\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23288
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cej\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23292
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cfj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23293
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cfj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23294
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cfj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23299
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cfj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23300
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cfj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23304
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cfj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23305
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cfj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23306
 msgid ""
@@ -6293,47 +6550,56 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23311
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cfj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23312
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cfj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23316
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cgj\"]/desc"
-msgstr ""
+msgstr "一个骇人的存在正操控着这具受亵渎的启蒙者遗体……然而，它的力量令人着迷，不是吗"
+"？"
 
 #: src-en/data/blueprints.xml.append:23317
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cgj\"]/title"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23318
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cgj\"]/short"
-msgstr ""
+msgstr "启蒙之惧"
 
 #: src-en/data/blueprints.xml.append:23323
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cgj\"]/powerList/power[1]"
 msgstr ""
+"它拥有极高的战斗属性（基础350点生命值，并默认造成1.5倍战斗伤害），且其属性会"
+"根据您向黑暗神执行的仪式而额外变化。允许您控制同舰上的噩梦存在。"
 
 #: src-en/data/blueprints.xml.append:23324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"enlightened_horror_cgj\"]/powerList/power[2]"
 msgstr ""
+"主动技能：在敌舰上召唤一道通往黑暗神祇领域的裂隙。裂隙会周期性地释放混乱的能"
+"量箭矢，显化为梦魇般的阴影——阴影的类型取决于你向黑暗神祇所执行的仪式。该技能"
+"仅在裂隙持续期间可控。"
 
 #: src-en/data/blueprints.xml.append:23328
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cgj\"]/desc"
-msgstr ""
+msgstr "据《异界典籍》记载，此裂隙直通黑暗神的国度。栖息于彼端的噩梦实体，正仿佛洪水"
+"般自这道裂隙中汹涌而出。"
 
 #: src-en/data/blueprints.xml.append:23329
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cgj\"]/title"
-msgstr ""
+msgstr "噩梦裂隙"
 
 #: src-en/data/blueprints.xml.append:23330
 msgid ""
@@ -6343,12 +6609,14 @@ msgstr "裂隙"
 #: src-en/data/blueprints.xml.append:23335
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cgj\"]/powerList/power[1]"
-msgstr ""
+msgstr "每隔数秒便释放数道混沌能量束，这些能量会具现化为噩梦般的暗影，而暗影的具体类"
+"型则取决于您向黑暗神所执行的仪式。"
 
 #: src-en/data/blueprints.xml.append:23336
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddnightmare_rift_cgj\"]/powerList/power[2]"
-msgstr ""
+msgstr "该存在会自然衰竭（6生命值/秒），且若裂隙死亡，其操控的噩梦将会迅速崩解。在其"
+"存活期间，您可掌控启蒙之惧。"
 
 #: src-en/data/blueprints.xml.append:23340
 msgid ""
@@ -6373,7 +6641,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23348
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_crawler\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23352
 msgid ""
@@ -6398,7 +6666,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23360
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_greatercrawler\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23364
 msgid ""
@@ -6448,7 +6716,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23384
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_priest\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23388
 msgid ""
@@ -6473,7 +6741,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23396
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_greaterpriest\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23400
 msgid ""
@@ -6498,7 +6766,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23408
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_stalker\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23412
 msgid ""
@@ -6523,7 +6791,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23420
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_engi\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23424
 msgid ""
@@ -6548,7 +6816,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23432
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_mass\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23436
 msgid ""
@@ -6573,7 +6841,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23444
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_greatermass\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23448
 msgid ""
@@ -6598,7 +6866,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23456
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_martyr\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23460
 msgid ""
@@ -6623,7 +6891,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23468
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"nightmarish_greatermartyr\"]/powerList/power[2]"
-msgstr ""
+msgstr "若裂隙闭合，它将迅速崩解。"
 
 #: src-en/data/blueprints.xml.append:23472
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddultimaarmor\"]/desc"
@@ -6934,12 +7202,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23620
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_human\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23625
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_human\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23626
 msgid ""
@@ -6959,12 +7229,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23632
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_human_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23637
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_human_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23638
 msgid ""
@@ -6984,12 +7256,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23644
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_crystal\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23649
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_crystal\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23650
 msgid ""
@@ -7009,12 +7283,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23656
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_crystal_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23661
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_crystal_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23662
 msgid ""
@@ -7034,12 +7310,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23668
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_engi\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23673
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_engi\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23674
 msgid ""
@@ -7059,12 +7337,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23680
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_engi_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23685
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_engi_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23686
 msgid ""
@@ -7109,12 +7389,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23704
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_zoltan\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23709
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_zoltan\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23710
 msgid ""
@@ -7134,12 +7416,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23716
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_zoltan_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23721
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_zoltan_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23722
 msgid ""
@@ -7159,12 +7443,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23728
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_orchid\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23733
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_orchid\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23734
 msgid ""
@@ -7184,12 +7470,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23740
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_orchid_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23745
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_orchid_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23746
 msgid ""
@@ -7209,12 +7497,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23752
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_mantis\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23757
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_mantis\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23758
 msgid ""
@@ -7234,12 +7524,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23764
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_mantis_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23769
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_mantis_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23770
 msgid ""
@@ -7259,12 +7551,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23776
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_rockman\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23781
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_rockman\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23782
 msgid ""
@@ -7284,12 +7578,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23788
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_rockman_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23793
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_rockman_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23794
 msgid ""
@@ -7309,12 +7605,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23800
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_slug\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23805
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_slug\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23806
 msgid ""
@@ -7334,12 +7632,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23812
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_slug_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23817
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_slug_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23818
 msgid ""
@@ -7359,12 +7659,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23824
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_shell\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23829
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_shell\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23830
 msgid ""
@@ -7384,12 +7686,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23836
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_shell_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23841
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_shell_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23842
 msgid ""
@@ -7409,12 +7713,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23848
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_lanius\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23853
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_lanius\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23854
 msgid ""
@@ -7434,12 +7740,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23860
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_lanius_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23865
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23866
 msgid ""
@@ -7459,12 +7767,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23872
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_deepone\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23877
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_deepone\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23878
 msgid ""
@@ -7484,12 +7794,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23884
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_deepone_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23889
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_deepone_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23890
 msgid ""
@@ -7509,12 +7821,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23896
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_ghost\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23901
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_ghost\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23902
 msgid ""
@@ -7534,12 +7848,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23908
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_ghost_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23913
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_ghost_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23914
 msgid ""
@@ -7559,12 +7875,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23920
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_leech\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23925
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_leech\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23926
 msgid ""
@@ -7584,12 +7902,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23932
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_leech_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23937
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_leech_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23938
 msgid ""
@@ -7609,12 +7929,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23944
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23949
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23950
 msgid ""
@@ -7634,12 +7956,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:23956
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk_enemy\"]/short"
-msgstr ""
+msgstr "躯壳"
 
 #: src-en/data/blueprints.xml.append:23961
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerList/power[1]"
 msgstr ""
+"拥有更高的伤害 (x1.3) 与伤害抗性 (所受伤害×0.7)，但移动速度 (x0.8) 与维修速度"
+" (x0.8) 降低。免疫窒息与心灵控制，且受到更高的火焰伤害。"
 
 #: src-en/data/blueprints.xml.append:23962
 msgid ""
@@ -7859,7 +8183,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24076
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24081
 msgid ""
@@ -7869,7 +8193,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24082
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24086
 msgid ""
@@ -7884,7 +8208,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24090
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_cinderbark\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24095
 msgid ""
@@ -7894,7 +8218,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24096
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_cinderbark\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24100
 msgid ""
@@ -7909,7 +8233,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24104
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_frostwood\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24109
 msgid ""
@@ -7919,7 +8243,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24110
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_frostwood\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24114
 msgid ""
@@ -7934,7 +8258,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24118
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_ironbound\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24123
 msgid ""
@@ -7944,7 +8268,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24124
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_ironbound\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24128
 msgid ""
@@ -7959,7 +8283,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24132
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_leafhost\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24137
 msgid ""
@@ -7969,7 +8293,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24138
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_leafhost\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24142
 msgid ""
@@ -7984,7 +8308,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24146
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_toxblood\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24151
 msgid ""
@@ -7994,7 +8318,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24152
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_toxblood\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24156
 msgid ""
@@ -8009,7 +8333,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24160
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_voidroot\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24165
 msgid ""
@@ -8019,7 +8343,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24166
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_voidroot\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24170
 msgid ""
@@ -8104,12 +8428,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24213
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofdetermination\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24214
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofdetermination\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24219
 msgid ""
@@ -8124,12 +8448,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24224
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofbravery\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24225
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofbravery\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24230
 msgid ""
@@ -8144,12 +8468,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24235
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofintegrity\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24236
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofintegrity\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24241
 msgid ""
@@ -8164,12 +8488,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24246
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofintegrity_enemy\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24247
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofintegrity_enemy\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24252
 msgid ""
@@ -8184,12 +8508,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24257
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofjustice\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24258
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofjustice\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24263
 msgid ""
@@ -8204,12 +8528,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24268
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofkindness\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24269
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofkindness\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24274
 msgid ""
@@ -8224,12 +8548,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24279
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofpatience\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24280
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofpatience\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24285
 msgid ""
@@ -8244,12 +8568,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24290
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofperseverance\"]/title"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24291
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddmanifestationofperseverance\"]/short"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/blueprints.xml.append:24296
 msgid ""
@@ -8282,11 +8606,11 @@ msgstr ""
 
 #: src-en/data/blueprints.xml.append:24312
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell\"]/title"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:24313
 msgid "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell\"]/short"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:24318
 msgid ""
@@ -8306,12 +8630,12 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24324
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell_enemy\"]/title"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:24325
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_shell_enemy\"]/short"
-msgstr ""
+msgstr "炽天使"
 
 #: src-en/data/blueprints.xml.append:24330
 msgid ""
@@ -8548,7 +8872,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24462
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_slayling\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24463
 msgid ""
@@ -8573,7 +8898,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24474
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24475
 msgid ""
@@ -8593,12 +8919,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24482
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_prismling\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24486
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24487
 msgid ""
@@ -8618,12 +8946,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24494
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cinderling\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24498
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24499
 msgid ""
@@ -8643,12 +8973,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24506
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_spiritling\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24510
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_breakling\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24511
 msgid ""
@@ -8673,7 +9005,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24522
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_clusterular\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24523
 msgid ""
@@ -8698,7 +9031,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24534
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_cellular\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24535
 msgid ""
@@ -8723,7 +9057,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24546
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24547
 msgid ""
@@ -8743,12 +9078,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24554
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_angelular\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24558
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24559
 msgid ""
@@ -8768,12 +9105,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24566
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_warlockular\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24570
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_tormentular\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24571
 msgid ""
@@ -8798,7 +9137,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24582
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_timelux\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24583
 msgid ""
@@ -8823,7 +9163,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24594
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24595
 msgid ""
@@ -8843,12 +9184,14 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24602
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_devourlux\"]/powerList/power[2]"
-msgstr ""
+msgstr "身为光裔，它在辉光环境之外会极度衰弱（移动速度×0.2、战斗伤害×0.2、破坏速度×0."
+"2），并会快速衰竭（-4点/秒）。"
 
 #: src-en/data/blueprints.xml.append:24606
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddlightborne_commandlux\"]/desc"
-msgstr ""
+msgstr "光裔——那诡异的光芒，被赋予了混沌的形态。尽管如今大多已臣服于虚伪辉光，但仍有"
+"少数……并非如此。"
 
 #: src-en/data/blueprints.xml.append:24607
 msgid ""
@@ -8886,9 +9229,11 @@ msgid ""
 msgstr ""
 
 #: src-en/data/blueprints.xml.append:24627
+#, fuzzy
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_shatter\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24628
 msgid ""
@@ -8918,7 +9263,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24642
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_plague\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24643
 msgid ""
@@ -8948,7 +9294,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24657
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_dark\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24658
 msgid ""
@@ -8978,7 +9325,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24672
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_cloud\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24673
 msgid ""
@@ -9008,7 +9356,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24687
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_judge\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24688
 msgid ""
@@ -9038,7 +9387,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24702
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddeepone_tributeshaper_cage\"]/powerList/power[1]"
-msgstr ""
+msgstr "使所有未稳灵魂与耗竭灵魂各自散发出一层被动光环（覆盖双方舰船上的全体船员与无"
+"人机），其强度分别相当于启蒙教徒光环的25%与10%。"
 
 #: src-en/data/blueprints.xml.append:24703
 msgid ""
@@ -9063,17 +9413,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24710
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_spent\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24715
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_spent\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24716
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_spent\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24717
 msgid ""
@@ -9093,17 +9447,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24723
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cage\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24728
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cage\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24729
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cage\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24730
 msgid ""
@@ -9123,17 +9481,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24736
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cloud\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24741
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cloud\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24742
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_cloud\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24743
 msgid ""
@@ -9153,17 +9515,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24749
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_judge\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24754
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_judge\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24755
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_judge\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24756
 msgid ""
@@ -9183,17 +9549,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24762
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_shatter\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24767
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_shatter\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24768
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_shatter\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24769
 msgid ""
@@ -9213,17 +9583,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24775
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_plague\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24780
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_plague\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24781
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_plague\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24782
 msgid ""
@@ -9243,17 +9617,21 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24788
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_dark\"]/short"
-msgstr ""
+msgstr "灵魂"
 
 #: src-en/data/blueprints.xml.append:24793
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_dark\"]/powerList/power[1]"
 msgstr ""
+"该单位占据半个船员槽位，生命值较低（30点），对多数伤害来源拥有0.5倍抗性，且无"
+"法被克隆或通过多数手段治疗（仅能依靠其自然再生——16秒后以每秒1点的恢复）。虽无"
+"法执行多数行动，但可在两舰之间自由传送。"
 
 #: src-en/data/blueprints.xml.append:24794
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddunstable_soul_dark\"]/powerList/power[2]"
-msgstr ""
+msgstr "位于敌舰内时，会以每秒2点的速率持续衰竭。若其被摧毁，将引发一次短暂的空间裂隙"
+"。"
 
 #: src-en/data/blueprints.xml.append:24795
 msgid ""
@@ -9333,7 +9711,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24827
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_seed\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24828
 msgid ""
@@ -9383,7 +9762,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24851
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted1\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24852
 msgid ""
@@ -9408,7 +9788,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24863
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted2\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24864
 msgid ""
@@ -9433,7 +9814,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24875
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted3\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24876
 msgid ""
@@ -9458,7 +9840,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24887
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted4\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24888
 msgid ""
@@ -9483,7 +9866,8 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24899
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddtempest_blight_guardian_planted5\"]/desc"
-msgstr ""
+msgstr "一个完全异形、植物般的生命体，被风暴教派称为凋零守卫。在此形态下，它几乎毫无"
+"用处，但其潜能尚未可知……"
 
 #: src-en/data/blueprints.xml.append:24900
 msgid ""
@@ -9518,7 +9902,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24915
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24920
 msgid ""
@@ -9528,7 +9912,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24921
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24925
 msgid ""
@@ -9543,7 +9927,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24929
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell_enemy\"]/short"
-msgstr ""
+msgstr "来源"
 
 #: src-en/data/blueprints.xml.append:24934
 msgid ""
@@ -9553,7 +9937,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:24935
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerList/power[2]"
-msgstr ""
+msgstr "主动技能：以迷雾充盈舱室，令室内所有友方伊尔德里克雕像暂时获得行动能力。"
 
 #: src-en/data/blueprints.xml.append:24940
 msgid ""
@@ -9573,7 +9957,7 @@ msgstr "开发人员信息。"
 #: src-en/data/blueprints.xml.append:24946
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"disparity_liberator\"]/powerList/power"
-msgstr "无人机"
+msgstr "自由虽渺茫，却仍可企及。紧握它，切勿放手。"
 
 #: src-en/data/blueprints.xml.append:24950
 msgid ""
@@ -9593,7 +9977,7 @@ msgstr "开发人员信息。"
 #: src-en/data/blueprints.xml.append:24956
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddseraph_arbiter\"]/powerList/power"
-msgstr "无人机"
+msgstr "自由虽渺茫，却仍可企及。紧握它，切勿放手。"
 
 #: src-en/data/blueprints.xml.append:24960
 msgid ""
@@ -9618,12 +10002,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:24970
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_default\"]/title"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24971
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_default\"]/short"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24972
 msgid ""
@@ -9638,12 +10022,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:24980
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_speed\"]/title"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24981
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_speed\"]/short"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24982
 msgid ""
@@ -9658,12 +10042,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:24990
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_attack\"]/title"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24991
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_attack\"]/short"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:24992
 msgid ""
@@ -9678,12 +10062,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25000
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_defense\"]/title"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:25001
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_defense\"]/short"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:25002
 msgid ""
@@ -9698,12 +10082,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25010
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_hazard\"]/title"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:25011
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"dddisparity_administrator_hazard\"]/short"
-msgstr ""
+msgstr "管理无人机"
 
 #: src-en/data/blueprints.xml.append:25012
 msgid ""
@@ -9718,12 +10102,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25020
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierzero\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25021
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierzero\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25022
 msgid ""
@@ -9738,12 +10122,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25030
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_abyss\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25031
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_abyss\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25032
 msgid ""
@@ -9758,12 +10142,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25040
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_abyss\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25041
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_abyss\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25042
 msgid ""
@@ -9778,12 +10162,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25050
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_abyss\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25051
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_abyss\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25052
 msgid ""
@@ -9798,12 +10182,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25060
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_stars\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25061
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_stars\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25062
 msgid ""
@@ -9818,12 +10202,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25070
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_stars\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25071
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_stars\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25072
 msgid ""
@@ -9838,12 +10222,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25080
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_stars\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25081
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_stars\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25082
 msgid ""
@@ -9858,12 +10242,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25090
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_mire\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25091
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_mire\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25092
 msgid ""
@@ -9878,12 +10262,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25100
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_mire\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25101
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_mire\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25102
 msgid ""
@@ -9898,12 +10282,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25110
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_mire\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25111
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_mire\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25112
 msgid ""
@@ -9918,12 +10302,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25120
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_dawn\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25121
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierone_dawn\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25122
 msgid ""
@@ -9938,12 +10322,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25130
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_dawn\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25131
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tiertwo_dawn\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25132
 msgid ""
@@ -9958,12 +10342,12 @@ msgstr "无人机"
 #: src-en/data/blueprints.xml.append:25140
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_dawn\"]/title"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25141
 msgid ""
 "data/blueprints.xml.append$//crewBlueprint[@name=\"ddenlightened_darktemplar_tierthree_dawn\"]/short"
-msgstr ""
+msgstr "圣殿无人机"
 
 #: src-en/data/blueprints.xml.append:25142
 msgid ""
@@ -11073,7 +11457,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27917
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER1\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27918
 msgid ""
@@ -11083,7 +11467,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27925
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER2\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27926
 msgid ""
@@ -11093,7 +11477,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27933
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER3\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27934
 msgid ""
@@ -11103,7 +11487,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27941
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER4\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27942
 msgid ""
@@ -11113,7 +11497,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27949
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER5\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27950
 msgid ""
@@ -11123,7 +11507,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27957
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_TIER6\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27958
 msgid ""
@@ -11133,7 +11517,7 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:27965
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDTEMPEST_BLESSING_SHIELD_ENEMY\"]/title"
-msgstr ""
+msgstr "风暴祝福"
 
 #: src-en/data/blueprints.xml.append:27966
 msgid ""
@@ -11598,82 +11982,114 @@ msgstr ""
 #: src-en/data/blueprints.xml.append:28335
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28336
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER1\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28342
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28343
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER2\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28349
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28350
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER3\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28356
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28357
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER4\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28363
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28364
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER5\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28370
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28371
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER6\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28377
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28378
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER7\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28384
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER8\"]/title"
-msgstr ""
+msgstr "神圣生命体"
 
 #: src-en/data/blueprints.xml.append:28385
 msgid ""
 "data/blueprints.xml.append$//augBlueprint[@name=\"DDFALSERADIANCE_RESPLENDENT_LIFEFORM_DIVINEGIMMICK_TIER8\"]/desc"
 msgstr ""
+"您的舰船本身即是一头庞大而鲜活的光裔巨兽——其力量之强，足以比肩大天使。与其他"
+"璀璨生命体相比，它具备类似优势，且额外能够免费执行神圣遗物仪式。完成此仪式后"
+"，将不会获得常规奖励，而是提供神性尘埃——这些尘埃可用于进一步巩固您舰船对神格"
+"的宣称。"
 
 #: src-en/data/blueprints.xml.append:28391
 msgid ""
