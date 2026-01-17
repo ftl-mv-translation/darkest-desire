@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-17 02:41+0000\n"
+"PO-Revision-Date: 2026-01-17 03:00+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datablueprintsxmlappend/zh_Hans/>\n"
@@ -3068,7 +3068,7 @@ msgstr "炽天使复仇弹"
 #: src-en/data/blueprints.xml.append:17471
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DRONE_FLAK_DARKGOD\"]/title"
-msgstr "暗临爆破"
+msgstr "迫影爆破"
 
 #: src-en/data/blueprints.xml.append:17481
 msgid ""
@@ -3078,7 +3078,7 @@ msgstr "噬渊暗影"
 #: src-en/data/blueprints.xml.append:17521
 msgid ""
 "data/blueprints.xml.append$//weaponBlueprint[@name=\"DDDRONE_FLAK_DARKGOD_CRYSTALLINE\"]/title"
-msgstr ""
+msgstr "水晶迫影爆破"
 
 #: src-en/data/blueprints.xml.append:17531
 msgid ""
@@ -3088,47 +3088,53 @@ msgstr "噬渊暗影"
 #: src-en/data/blueprints.xml.append:17583
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DRONE_MINISHROUD\"]/title"
-msgstr ""
+msgstr "迫影"
 
 #: src-en/data/blueprints.xml.append:17584
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DRONE_MINISHROUD\"]/short"
-msgstr ""
+msgstr "迫影"
 
 #: src-en/data/blueprints.xml.append:17585
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DRONE_MINISHROUD\"]/desc"
 msgstr ""
+"这架无人机似乎能在其内部生成一种原始态的黑暗，并向你的敌人发射实体化的阴影。"
+"它每次攻击会连发两弹，每一发成功命中的弹体都会造成伤害，并有70%的概率在目标舱"
+"室召唤一个饥渴暗影，持续21秒。"
 
 #: src-en/data/blueprints.xml.append:17601
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/title"
-msgstr ""
+msgstr "水晶迫影"
 
 #: src-en/data/blueprints.xml.append:17602
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/short"
-msgstr ""
+msgstr "水晶迫影"
 
 #: src-en/data/blueprints.xml.append:17603
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDDRONE_MINISHROUD_CRYSTALLINE\"]/desc"
-msgstr ""
+msgstr "一种地狱般的黑暗在这架无人机的暗影水晶甲壳内嗡鸣不息。其射速高于基础型号，且"
+"额外增加了一发射弹，弹体命中后会引发暗影水晶禁锢效果。"
 
 #: src-en/data/blueprints.xml.append:17619
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/title"
-msgstr "辉核光束[零-无]"
+msgstr "辉核核心[零-虚无]"
 
 #: src-en/data/blueprints.xml.append:17620
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/short"
-msgstr ""
+msgstr "辉核核心[零-虚无]"
 
 #: src-en/data/blueprints.xml.append:17621
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERZERO\"]/desc"
 msgstr ""
+"一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果——不过，你隐约感觉到，它似乎有办法获得某种强化……"
 
 #: src-en/data/blueprints.xml.append:17636
 msgid ""
@@ -3143,17 +3149,20 @@ msgstr "辉核光束"
 #: src-en/data/blueprints.xml.append:17824
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/title"
-msgstr "辉核光束[壹-无]"
+msgstr "辉核光束[壹-虚无]"
 
 #: src-en/data/blueprints.xml.append:17825
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/short"
-msgstr ""
+msgstr "辉核核心[壹-虚无]"
 
 #: src-en/data/blueprints.xml.append:17826
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE\"]/desc"
 msgstr ""
+"一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果。该个体可被锁定在第一阶光裔子层级中，亦可升级至"
+"更高层级。"
 
 #: src-en/data/blueprints.xml.append:17841
 msgid ""
@@ -3168,17 +3177,20 @@ msgstr "辉核光束"
 #: src-en/data/blueprints.xml.append:18029
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/title"
-msgstr "辉核光束[贰-无]"
+msgstr "辉核光束[贰-虚无]"
 
 #: src-en/data/blueprints.xml.append:18030
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/short"
-msgstr ""
+msgstr "辉核核心[贰-虚无]"
 
 #: src-en/data/blueprints.xml.append:18031
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTWO\"]/desc"
 msgstr ""
+"一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果。该个体可被锁定在第二阶光裔子层级中，亦可升级至"
+"更高层级。"
 
 #: src-en/data/blueprints.xml.append:18046
 msgid ""
@@ -3193,17 +3205,18 @@ msgstr "辉核光束"
 #: src-en/data/blueprints.xml.append:18234
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/title"
-msgstr "辉核光束[叁-无]"
+msgstr "辉核光束[叁-虚无]"
 
 #: src-en/data/blueprints.xml.append:18235
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/short"
-msgstr ""
+msgstr "辉核核心[叁-虚无]"
 
 #: src-en/data/blueprints.xml.append:18236
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERTHREE\"]/desc"
-msgstr ""
+msgstr "一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果。该个体可被锁定在第三阶光裔子层级中。"
 
 #: src-en/data/blueprints.xml.append:18251
 msgid ""
@@ -3218,17 +3231,20 @@ msgstr "辉核光束"
 #: src-en/data/blueprints.xml.append:18439
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/title"
-msgstr "辉核光束[壹-戮灵]"
+msgstr "辉核核心[壹-戮灵]"
 
 #: src-en/data/blueprints.xml.append:18440
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/short"
-msgstr ""
+msgstr "辉核核心[壹-戮]"
 
 #: src-en/data/blueprints.xml.append:18441
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_SLAYLING\"]/desc"
 msgstr ""
+"一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果。同时，它还能创造戮灵——一种能力平平，但与其他第"
+"一阶光裔相比拥有较高战斗属性的船员单位。"
 
 #: src-en/data/blueprints.xml.append:18456
 msgid ""
@@ -3253,12 +3269,15 @@ msgstr "辉核光束[壹-晶灵]"
 #: src-en/data/blueprints.xml.append:18662
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/short"
-msgstr ""
+msgstr "辉核核心[壹-晶]"
 
 #: src-en/data/blueprints.xml.append:18663
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_PRISMLING\"]/desc"
 msgstr ""
+"一个存活的光裔个体，能够从无人机控制系统中汲取能量。它可以穿透护盾，并对击中"
+"的舱室施加侵蚀与辉光亵渎效果。同时，它还能创造 晶灵 —— 一种弱小的船员单位，死"
+"亡时会额外施加一次辉光亵渎效果。"
 
 #: src-en/data/blueprints.xml.append:18678
 msgid ""
@@ -3278,12 +3297,12 @@ msgstr "光裔"
 #: src-en/data/blueprints.xml.append:18883
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/title"
-msgstr "辉核光束[壹-烬灵]"
+msgstr "辉核核心[壹-烬灵]"
 
 #: src-en/data/blueprints.xml.append:18884
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_CINDERLING\"]/short"
-msgstr ""
+msgstr "辉核核心[壹-烬]"
 
 #: src-en/data/blueprints.xml.append:18885
 msgid ""
@@ -3308,7 +3327,7 @@ msgstr "光裔"
 #: src-en/data/blueprints.xml.append:19105
 msgid ""
 "data/blueprints.xml.append$//droneBlueprint[@name=\"DDFALSERADIANCE_RADIANT_CORE_TIERONE_BREAKLING\"]/title"
-msgstr "辉核光束[壹-裂灵]"
+msgstr "辉核核心[壹-裂灵]"
 
 #: src-en/data/blueprints.xml.append:19106
 msgid ""
