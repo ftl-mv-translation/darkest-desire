@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-15 14:14+0000\n"
-"Last-Translator: 针眼 <24996694@qq.com>\n"
+"PO-Revision-Date: 2026-01-19 14:55+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_fleetxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -38,7 +38,8 @@ msgstr "(杰瑞)\"你好！\""
 #: src-en/data/events_special_fleet.xml.append:30
 msgid ""
 "data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DARKONE\"]/text"
-msgstr ""
+msgstr "叛军本应在此，然而……此地的黑暗同样在侵蚀你的船体。在它造成严重损伤前，速速撤"
+"离，或将其驱退！"
 
 #: src-en/data/events_special_fleet.xml.append:42
 #, fuzzy
@@ -50,6 +51,10 @@ msgstr "继续。"
 msgid ""
 "data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDCOREMASS\"]/text"
 msgstr ""
+"看来叛军必定尾随你进入了核心物质区，你发现他们同样庞大的舰队正于此抵御着那无"
+"尽触须的侵袭。他们注意到了你的抵达，一艘邻近舰船转向接战。来者并非普通的精英"
+"舰，而是一艘MFK精英战舰！它比大多数叛军舰船更为强大，若能将其击败，或许能让舰"
+"队再拖延片刻。"
 
 #: src-en/data/events_special_fleet.xml.append:63
 msgid ""
@@ -69,22 +74,24 @@ msgstr "(杰瑞)\"你好！\""
 #: src-en/data/events_special_fleet.xml.append:81
 msgid ""
 "data/events_special_fleet.xml.append$//ship[@name=\"FLEET_ACE_DDANTUMBRA_FIGHT\"]/destroyed/text"
-msgstr ""
+msgstr "我多希望能有时间搜刮不止一个燃料单元，但……真的没时间了，舰队正朝你压来！求、"
+"求你，快动起来吧！"
 
 #: src-en/data/events_special_fleet.xml.append:86
 msgid ""
 "data/events_special_fleet.xml.append$//ship[@name=\"FLEET_ACE_DDANTUMBRA_FIGHT\"]/destroyed/choice/text"
-msgstr ""
+msgstr "观想顺服——即坦然接纳此地潜藏之危。"
 
 #: src-en/data/events_special_fleet.xml.append:94
 msgid ""
 "data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDANTUMBRA_REAL\"]/text"
-msgstr ""
+msgstr "……糟了。虚伪辉光的主力部队已追上你……你，呃……得赶紧离开那儿！这并非值得一战的"
+"对手——你必须前往创世纪！"
 
 #: src-en/data/events_special_fleet.xml.append:100
 msgid ""
 "data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDANTUMBRA_REAL\"]/choice/text"
-msgstr ""
+msgstr "具象化战斗——一件需要准备的事。"
 
 #: src-en/data/events_special_fleet.xml.append:107
 msgid ""
@@ -107,7 +114,8 @@ msgstr "..."
 msgid ""
 "data/events_special_fleet.xml.append$//event[@name=\"FLEET_ACE_DDANTUMBRA\"]/choice[@req=\"dd_antumbra_genesisdefeated\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "尽管幽影界现已复原的色彩如潮涌至，带着其宁谧之美……不知为何，你仍不禁为其消逝"
+"后留下的寂静感到不安。此地似已无你容身之处。"
 
 #: src-en/data/events_special_fleet.xml.append:123
 msgid ""
