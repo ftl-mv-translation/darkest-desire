@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-19 03:12+0000\n"
+"PO-Revision-Date: 2026-01-19 05:48+0000\n"
 "Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datatext_miscxmlappend/zh_Hans/>\n"
@@ -94,78 +94,101 @@ msgstr "...死亡..."
 
 #: src-en/data/text_misc.xml.append:20
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddcoremassheartloc\"]"
-msgstr ""
+msgstr "核心[出口]"
 
 #: src-en/data/text_misc.xml.append:21
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_gravedigger\"]"
-msgstr ""
+msgstr "掘墓人 [!]"
 
 #: src-en/data/text_misc.xml.append:22
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_godcore\"]"
-msgstr ""
+msgstr "神之核心[!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_genesis\"]"
-msgstr ""
+msgstr "创世纪 [出口]"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"hack_dd_corruptor\"]"
-msgstr ""
+msgstr "暂时关闭腐化者的功能，阻止其生成额外潮汐。"
 
 #: src-en/data/text_misc.xml.append:25
 msgid "data/text_misc.xml.append$//text[@name=\"dd_corruptor\"]"
-msgstr ""
+msgstr "腐化者"
 
 #: src-en/data/text_misc.xml.append:26
 msgid "data/text_misc.xml.append$//text[@name=\"dd_corruptor_installed\"]"
-msgstr ""
+msgstr "腐化者系统已安装"
 
 #: src-en/data/text_misc.xml.append:27
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
-msgstr ""
+msgstr "你正遭受一股灵魂瘟疫集群的攻击。只要它保持激怒状态，便会周期性袭击你的舰船。"
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
-msgstr ""
+msgstr "你正身处一团灵魂瘟疫集群之中。它将周期性袭击敌方的舰船。"
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"warning_ddsoulplague_mass_hazard_text\"]"
 msgstr ""
+"灵魂瘟疫攻击\\n"
+"迫在眉睫"
 
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_disparity_1\"]"
 msgstr ""
+"谐离战利品\n"
+"+1 护盾穿透\n"
+"+40% 生成几率，射击可引发暗影水晶封锁"
 
 #: src-en/data/text_misc.xml.append:35
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddsoulplague_1\"]"
 msgstr ""
+"灵魂瘟疫战利品\n"
+"+8 无人机速度，-2 光束速度，-10 光束射程\n"
+"火焰与船体模式现变更为瘟疫与灾厄模式"
 
 #: src-en/data/text_misc.xml.append:39
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
+"虚伪辉光战利品\n"
+"对被击中的房间施加侵蚀与辉光亵渎效果，+6 射击次数，-69 光束射程\n"
+"生成随机的光裔族而非噬渊暗影"
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"tip_shadow_weapon\"]"
-msgstr ""
+msgstr "提示： 暗影武器会生成噬渊暗影，它们处于同一房间时将不断增强实力。善用此特性来"
+"压制你的敌人！"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddplagueridden_weapon\"]"
 msgstr ""
+"提示： 瘟疫感染类武器不会对灵魂瘟疫阵营的船员造成伤害，且会对击中的房间施加瘟"
+"疫感染效果，该效果会减缓敌人的维修速度，并使在此效果内被击杀的敌人转变为一名"
+"友方灵魂瘟疫躯壳！"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
 msgstr ""
+"提示： 辉光核心会对击中的房间施加侵蚀与辉光亵渎效果，该效果会随时间对敌人造成"
+"轻微伤害，并降低其战斗伤害与移动/破坏速度。此外，该效果可使光裔族完全发挥机能"
+"，而多数辉光核心皆有能力生成光裔族单位。"
 
 #: src-en/data/text_misc.xml.append:46
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
+"提示： 光裔武器会对击中的房间施加辉光亵渎效果，该效果会随时间对敌人造成轻微伤"
+"害，并降低其战斗伤害与移动/破坏速度。此外，该效果可使光裔族完全发挥机能，与辉"
+"光核心生成光裔族的能力形成互补。"
 
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddtear_weapon\"]"
-msgstr ""
+msgstr "提示： 此武器会生成不稳定的空间裂隙——一种无敌的拟态船员单位，可造成系统/船体/"
+"船员伤害，短时间眩晕目标，并有较高概率每3秒引发一次火灾。"
 
 #: src-en/data/text_misc.xml.append:48
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddshadowcrystal_weapon\"]"
-msgstr ""
+msgstr "提示： 此无人机频繁引发暗影水晶封锁——一种特殊的封锁类型，其持续时间远长于其他"
+"封锁，但也异常脆弱，易于突破。"
