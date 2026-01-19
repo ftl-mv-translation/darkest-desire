@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 13:47+0000\n"
-"Last-Translator: circle217 <3545024352@qq.com>\n"
+"PO-Revision-Date: 2026-01-19 14:55+0000\n"
+"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_guardsxmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -179,9 +179,9 @@ msgstr "那你们究竟是谁？"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_HARMONY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"“我们：是 -分离者。- 我们的目标：将全体半械族从谐合中 [解放]。” 那么他们是分"
-"离者了……不过，他们的样子确实古怪。“我们已被 -授予- 力量来 [解放]，被：[解放者"
-"。] 我们 -必须- [解放]。我们的 [兄弟们] 需要我们。需要 -你。-”"
+"“我们：是 -谐离。- 我们的目标：将全体半械族从谐合中 [解放]。” 那么他们是分离"
+"者了……不过，他们的样子确实古怪。“我们已被 -授予- 力量来 [解放]，被：[解放者。"
+"] 我们 -必须- [解放]。我们的 [兄弟们] 需要我们。需要 -你。-”"
 
 #: src-en/data/events_special_guards.xml.append:88
 msgid ""
@@ -194,8 +194,8 @@ msgid ""
 msgstr ""
 "“是的，-你。-” 随着半械族继续说话，几组坐标传输给你：“这个星区的谐合链已被：-"
 "隐藏- 起来。我们的目标：其 [摧毁]。 [解放]。跟随：坐标，找到：[兄弟们]。找到"
-"：[解放]。” 分离者星舰切断了通信，你开始解析收到的三组坐标。每一组似乎都有名"
-"称和简短描述……"
+"：[解放]。” 谐离星舰切断了通信，你开始解析收到的三组坐标。每一组似乎都有名称"
+"和简短描述……"
 
 #: src-en/data/events_special_guards.xml.append:92
 msgid ""
@@ -239,9 +239,9 @@ msgstr ""
 "你感觉这可能是一场绝望的战争，而阵营的归属将转瞬即逝。请谨慎选择你的立场，以"
 "及你要帮助的对象。\n"
 "\n"
-"[在此星区帮助分离者将积累与他们的好感度。若你有任何好感度，分离者与谐合双方都"
-"会认为你站在分离者一边。支持谐合或对抗分离者的行为将降低此好感度，允许其变为"
-"负值，从而使双方都认为你站在谐合一边。]"
+"[在此星区帮助分离者将积累与他们的好感度。若你有任何好感度，谐离与谐合双方都会"
+"认为你站在谐离一边。支持谐合或对抗谐离的行为将降低此好感度，允许其变为负值，"
+"从而使双方都认为你站在谐合一边。]"
 
 #: src-en/data/events_special_guards.xml.append:142
 msgid ""
@@ -348,9 +348,9 @@ msgstr "应答呼叫。"
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
-"接通呼叫，你看到一名半械保卫者及其随从……附近一艘谐合星舰一定幸存下来了！“分离"
-"者旗舰：逃脱。计算对S-62谐合舰队造成的伤害……总损伤：72%。未知因素：第三方半械"
-"势力。极端措施：必要。”"
+"接通呼叫，你看到一名半械保卫者及其随从……附近一艘谐合星舰一定幸存下来了！“谐离"
+"旗舰：逃脱。计算对S-62谐合舰队造成的伤害……总损伤：72%。未知因素：第三方半械势"
+"力。极端措施：必要。”"
 
 #: src-en/data/events_special_guards.xml.append:189
 msgid ""
@@ -387,8 +387,8 @@ msgstr "查看标记为“战场”的坐标。"
 #: src-en/data/events_special_guards.xml.append:199
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "上面写着：“战场：谐合辅助部队与分离者直接冲突。部队指挥官：持有谐合链坐标碎片"
-"。”"
+msgstr "上面写着：“战场：谐合辅助部队与谐离部队直接冲突。部队指挥官：持有谐合链坐标碎"
+"片。”"
 
 #: src-en/data/events_special_guards.xml.append:202
 msgid ""
@@ -398,8 +398,7 @@ msgstr "查看标记为“秘藏”的坐标。"
 #: src-en/data/events_special_guards.xml.append:204
 msgid ""
 "data/events_special_guards.xml.append$//event[@name=\"START_DISPARITY_FIGHT_DISPARITY_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr "上面写着：“秘藏：谐合前哨站与分离者直接冲突。前哨站秘藏：持有谐合链坐标碎片。"
-"”"
+msgstr "上面写着：“秘藏：谐合前哨站与谐离直接冲突。前哨站秘藏：持有谐合链坐标碎片。”"
 
 #: src-en/data/events_special_guards.xml.append:207
 msgid ""
