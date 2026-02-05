@@ -7,25 +7,25 @@ msgstr ""
 
 #: src-en/data/text_misc.xml.append:1
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_deepone\"]"
-msgstr "MAGASIN [PROFONDS]"
+msgstr "BOUTIQUE [PROFOND]"
 
 #: src-en/data/text_misc.xml.append:2
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_disparity\"]"
-msgstr "MAGASIN [DISPARITÉ]"
+msgstr "BOUTIQUE [DISPARITÉ]"
 
 #: src-en/data/text_misc.xml.append:3
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_store_ddsoulplague\"]"
-msgstr "MAGASIN [ÂME]"
+msgstr "BOUTIQUE [ÂME]"
 
 #: src-en/data/text_misc.xml.append:4
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_store_ddantumbra_lightborne\"]"
-msgstr "MAGASIN [LUMIÈRE]"
+msgstr "BOUTIQUE [LUMIÈRE]"
 
 #: src-en/data/text_misc.xml.append:5
 msgid ""
 "data/text_misc.xml.append$//text[@name=\"map_icon_store_ddantumbra_shadows\"]"
-msgstr "MAGASIN [OMBRE]"
+msgstr "BOUTIQUE [OMBRE]"
 
 #: src-en/data/text_misc.xml.append:6
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddkyrandlilith\"]"
@@ -62,7 +62,7 @@ msgstr "%H$0*>P%#3$ [!]"
 
 #: src-en/data/text_misc.xml.append:14
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddcoremass_drown\"]"
-msgstr "...noyade..."
+msgstr "...noyer..."
 
 #: src-en/data/text_misc.xml.append:15
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddcoremass_love\"]"
@@ -99,7 +99,7 @@ msgstr "CŒUR-DIEU [!]"
 
 #: src-en/data/text_misc.xml.append:23
 msgid "data/text_misc.xml.append$//text[@name=\"map_icon_ddarchangel_genesis\"]"
-msgstr "GENÈSE [SORTIE]"
+msgstr "GENESIS [SORTIE]"
 
 #: src-en/data/text_misc.xml.append:24
 msgid "data/text_misc.xml.append$//text[@name=\"hack_dd_corruptor\"]"
@@ -119,13 +119,13 @@ msgstr "Système Corrupteur installé"
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague\"]"
 msgstr ""
 "Vous êtes assailli par une masse de Peste d'Âme. Tant qu'elle reste agitée, "
-"elle attaquera périodiquement votre vaisseau."
+"elle assaillira périodiquement votre vaisseau."
 
 #: src-en/data/text_misc.xml.append:28
 msgid "data/text_misc.xml.append$//text[@name=\"tooltip_soulplague_allies\"]"
 msgstr ""
-"Vous êtes au sein d'une masse de Peste d'Âme. Elle attaquera périodiquement "
-"le vaisseau ennemi."
+"Vous êtes à l'intérieur d'une masse de Peste d'Âme. Elle assaillera "
+"périodiquement le vaisseau ennemi."
 
 #: src-en/data/text_misc.xml.append:29
 msgid ""
@@ -135,68 +135,68 @@ msgstr "ASSAUT DE PESTE D'ÂME\\nIMMINENT"
 #: src-en/data/text_misc.xml.append:31
 msgid "data/text_misc.xml.append$//text[@name=\"loot_disparity_1\"]"
 msgstr ""
-"BUTIN DE DISPARITÉ\n"
-"+1 perforation de bouclier\n"
-"+40% chance d'apparition, les tirs provoquent un verrouillage Cristal d'Ombre"
+"BUTIN DE DISPARITÉ\\n+1 perforation de bouclier\\n+40% chance d'apparition, "
+"les tirs provoquent le verrouillage Cristal d'Ombre"
 
 #: src-en/data/text_misc.xml.append:35
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddsoulplague_1\"]"
 msgstr ""
-"BUTIN DE PESTE D'ÂME\n"
-"+8 vitesse de drone, -2 vitesse de rayon, -10 longueur de rayon\n"
-"+Les modes Feu et Coque sont maintenant les modes Fléau et Chaos"
+"BUTIN DE PESTE D'ÂME\\n+8 vitesse de drone, -2 vitesse de rayon, -10 "
+"longueur de rayon\\n+Les modes Feu et Coque sont désormais les modes Peste "
+"et Carnage"
 
 #: src-en/data/text_misc.xml.append:39
 msgid "data/text_misc.xml.append$//text[@name=\"loot_ddfalseradiance_1\"]"
 msgstr ""
-"BUTIN DE FAUSSE RADIANCE\n"
-"+Inflige aux pièces touchées l'érosion et l'effet Profanation Radiante, +6 tirs, -69 longueur de rayon\n"
-"+Fait apparaître des Lumineux aléatoires au lieu d'Ombres Affamées"
+"BUTIN DE FAUSSE RADIANCE\\n+Inflige aux pièces touchées l'érosion et l'effet"
+" de Profanation Radiante, +6 tirs, -69 longueur de rayon\\n+Fait apparaître "
+"des Porteurs de Lumière aléatoires au lieu des Ombres Affamées"
 
 #: src-en/data/text_misc.xml.append:43
 msgid "data/text_misc.xml.append$//text[@name=\"tip_shadow_weapon\"]"
 msgstr ""
-"Astuce : Les armes d'Ombre génèrent des Ombres Affamées, qui gagnent en "
-"force lorsqu'elles sont regroupées dans les pièces. Utilisez-les pour "
-"submerger vos ennemis !"
+"Astuce : Les armes d'Ombre font apparaître des Ombres Affamées, qui gagnent "
+"en force lorsqu'elles sont dans la même pièce. Utilisez-les pour submerger "
+"vos ennemis !"
 
 #: src-en/data/text_misc.xml.append:44
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddplagueridden_weapon\"]"
 msgstr ""
-"Astuce : Les armes infectées ne causent aucun dégât aux membres d'équipage "
-"marqués par la Peste d'Âme, et elles infligent aux pièces touchées l'état "
-"Fléau, ce qui ralentit la vitesse de réparation de l'ennemi et les "
-"transforme en Carcasse de Peste d'Âme alliée s'ils sont tués sous l'effet !"
+"Astuce : Les armes Infectées ne causent aucun dégât à l'équipage marqué par "
+"la Peste d'Âme, et elles infligent aux pièces touchées l'effet Infecté, ce "
+"qui ralentit la vitesse de réparation de l'ennemi et les transforme en "
+"Carcasse de Peste d'Âme alliée s'ils sont tués sous l'effet !"
 
 #: src-en/data/text_misc.xml.append:45
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_core\"]"
 msgstr ""
-"Astuce : Les Cœurs Radiants infligent aux pièces touchées l'érosion et "
-"l'effet Profanation Radiante, ce qui endommage légèrement les ennemis avec "
-"le temps et entrave leurs dégâts de combat et leur vitesse de "
-"déplacement/sabotage. De plus, l'effet permet aux Lumineux de fonctionner "
-"pleinement, ce que la plupart des Cœurs Radiants sont capables de générer."
+"Astuce : Les Noyaux Radiants infligent aux pièces touchées l'érosion et "
+"l'effet de Profanation Radiante, ce qui endommage légèrement les ennemis "
+"avec le temps et entrave leurs dégâts de combat et leur vitesse de "
+"déplacement/sabotage. De plus, l'effet permet aux Porteurs de Lumière de "
+"fonctionner pleinement, ce que la plupart des Noyaux Radiants sont capables "
+"de faire apparaître."
 
 #: src-en/data/text_misc.xml.append:46
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddradiant_weapons\"]"
 msgstr ""
-"Astuce : Les armes Lumineuses infligent aux pièces touchées l'effet "
-"Profanation Radiante, ce qui endommage légèrement les ennemis avec le temps "
-"et entrave leurs dégâts de combat et leur vitesse de déplacement/sabotage. "
-"De plus, l'effet permet aux Lumineux de fonctionner pleinement, complétant "
-"leur génération via les Cœurs Radiants."
+"Astuce : Les armes de Porteur de Lumière infligent aux pièces touchées "
+"l'effet de Profanation Radiante, ce qui endommage légèrement les ennemis "
+"avec le temps et entrave leurs dégâts de combat et leur vitesse de "
+"déplacement/sabotage. De plus, l'effet permet aux Porteurs de Lumière de "
+"fonctionner pleinement, complétant leur génération via les Noyaux Radiants."
 
 #: src-en/data/text_misc.xml.append:47
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddtear_weapon\"]"
 msgstr ""
-"Astuce : Cette arme génère des déchirures spatiales volatiles – des pseudo-"
-"équipages invulnérables qui infligent des dégâts aux "
-"systèmes/coque/équipage, étourdissent brièvement et ont de bonnes chances de"
-" créer un incendie toutes les 3 secondes."
+"Astuce : Ces armes génèrent des failles spatiales volatiles - de faux "
+"membres d'équipage invulnérables qui infligent des dégâts aux systèmes/à la "
+"coque/à l'équipage, étourdissent brièvement et ont une bonne chance de "
+"provoquer un incendie toutes les 3 secondes."
 
 #: src-en/data/text_misc.xml.append:48
 msgid "data/text_misc.xml.append$//text[@name=\"tip_ddshadowcrystal_weapon\"]"
 msgstr ""
-"Astuce : Ce drone provoque fréquemment des verrouillages de Cristal d'Ombre "
-"– une variété spéciale de verrouillage qui dure beaucoup plus longtemps que "
-"les autres, mais est incroyablement fragile et facile à briser."
+"Astuce : Ce drone provoque fréquemment des verrouillages Cristal d'Ombre - "
+"une variété spéciale de verrouillage qui dure beaucoup plus longtemps que "
+"les autres, mais qui est incroyablement fragile et facile à briser."
