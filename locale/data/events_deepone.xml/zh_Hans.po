@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-16 04:45+0000\n"
-"Last-Translator: circle217 <3545024352@qq.com>\n"
+"PO-Revision-Date: 2026-02-24 19:22+0000\n"
+"Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_deeponexml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -130,7 +130,7 @@ msgstr "请求燃料。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "一箱沾满潮湿手印的燃料被带上了船。"
 
 #: src-en/data/events_deepone.xml:99
 msgid ""
@@ -142,7 +142,7 @@ msgstr "请求弹药。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "一批沾满湿手印的弹药被送到你的船上。"
 
 #: src-en/data/events_deepone.xml:108
 msgid ""
@@ -154,19 +154,20 @@ msgstr "请求无人机部件。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/event/choice[4]/event/text"
-msgstr ""
+msgstr "一批沾着潮湿手印的无人机部件被运送到了你的舰船上。"
 
 #: src-en/data/events_deepone.xml:117
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "(深渊生物)让你的深渊生物为每样东西讨价还价。"
 
 #: src-en/data/events_deepone.xml:119
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"challenge_level\""
 " and @lvl=\"1\"]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
-msgstr ""
+msgstr "前哨站的指挥官一看见你的深渊生物，脸上立刻露出喜色。“同族？竟在一艘多元宇宙飞"
+"船上……为了你，朋友……任何条件都好说。”"
 
 #: src-en/data/events_deepone.xml:131
 msgid ""
@@ -176,7 +177,7 @@ msgstr "攻击前哨站！"
 #: src-en/data/events_deepone.xml:133
 msgid ""
 "data/events_deepone.xml$//event[@name=\"FEDERATION_OUTPOST_DEEPONE\"]/choice[@req=\"pilot\"]/event/text"
-msgstr ""
+msgstr "你非但没有接受援助，反而决定袭击这座满是友军的前哨站……"
 
 #: src-en/data/events_deepone.xml:136
 msgid ""
@@ -193,179 +194,187 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:156
 msgid "data/events_deepone.xml$//textList[@name=\"TEXT_EMPTY_DEEPONE\"]/text[1]"
-msgstr ""
+msgstr "抵达信标位置后，你发现了一间破旧废弃的商店。令你失望的是，这里似乎早已被深渊"
+"生物洗劫一空。"
 
 #: src-en/data/events_deepone.xml:157
 msgid "data/events_deepone.xml$//textList[@name=\"TEXT_EMPTY_DEEPONE\"]/text[2]"
-msgstr ""
+msgstr "这里的信标点位看上去空无一物。可即便如此，身处深渊潜者的星域时，你还是总忍不"
+"住觉得，有什么东西一直在暗中注视着你……"
 
 #: src-en/data/events_deepone.xml:158
 msgid "data/events_deepone.xml$//textList[@name=\"TEXT_EMPTY_DEEPONE\"]/text[3]"
-msgstr ""
+msgstr "一个物体以难以形容的速度呼啸着从你身旁掠过，瞬间便与你打了照面。它来得快去得"
+"也快，面对这道蓝色的残影，你完全无法判断那究竟是什么。"
 
 #: src-en/data/events_deepone.xml:159
 msgid "data/events_deepone.xml$//textList[@name=\"TEXT_EMPTY_DEEPONE\"]/text[4]"
-msgstr ""
+msgstr "很快就判定这里没有任何有价值的物品。在超光速引擎充能的间隙，你隐约看见外面有"
+"东西在移动，但区域扫描却没有捕捉到任何信号。那一定是你的错觉。"
 
 #: src-en/data/events_deepone.xml:168
 msgid "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/text"
-msgstr ""
+msgstr "你说不清自己为何会执意来到这里，眼前也看不到任何反常的事物，可……你就是觉得哪"
+"里不对劲。一种深入骨髓的、强烈的违和感。"
 
 #: src-en/data/events_deepone.xml:171
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "回头看看。"
 
 #: src-en/data/events_deepone.xml:173
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/text"
-msgstr ""
+msgstr "你迅速转过身，可那里……什么都没有。什么都没有，对吧？"
 
 #: src-en/data/events_deepone.xml:176
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/text"
-msgstr ""
+msgstr "转回去。"
 
 #: src-en/data/events_deepone.xml:178
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你转回身，面向船舱窗外，可那股令人窒息的恐惧感依旧没有消散。"
 
 #: src-en/data/events_deepone.xml:180
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "再次回头查看。"
 
 #: src-en/data/events_deepone.xml:182
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你猛地再次转过身，冷汗一颗颗冒了出来。可那里依旧……什么都没有。"
 
 #: src-en/data/events_deepone.xml:184
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "再次转回去。"
 
 #: src-en/data/events_deepone.xml:186
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你强压住心底的偏执，摇了摇头，重新望向窗外。"
 
 #: src-en/data/events_deepone.xml:188
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "眨一下眼。"
 
 #: src-en/data/events_deepone.xml:194
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "检查舱室。"
 
 #: src-en/data/events_deepone.xml:196
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"不对劲，一定有哪里不对劲。你的目光飞速扫过舱室的每一个角落，试图找寻任何一丝"
+"线索，证明自己并非在胡思乱想。疯狂搜寻数分钟后，你正准备放弃，却终于看见了……"
+"那个东西。通风口里面，有什么东西。"
 
 #: src-en/data/events_deepone.xml:198
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[1]/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "检查通风口。"
 
 #: src-en/data/events_deepone.xml:206
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "望向窗外，试着放松下来。"
 
 #: src-en/data/events_deepone.xml:208
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "窗外只有漫天星辰。无论你去往何方，星辰总会相伴左右，这让你稍稍感到一丝慰藉。"
 
 #: src-en/data/events_deepone.xml:210
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "眨一下眼。"
 
 #: src-en/data/events_deepone.xml:218
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/text"
-msgstr ""
+msgstr "环顾舱室四周。"
 
 #: src-en/data/events_deepone.xml:220
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你谨慎地环顾舱室四周，并未发现任何反常的事物。"
 
 #: src-en/data/events_deepone.xml:222
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "转回身去。"
 
 #: src-en/data/events_deepone.xml:224
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "你转回身，面向船舱窗外，可那股沉重压抑的恐惧感，依旧没有散去。"
 
 #: src-en/data/events_deepone.xml:226
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "再回头看看。"
 
 #: src-en/data/events_deepone.xml:228
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "你再次猛地转过身，冷汗一颗颗渗了出来。可那里，依旧空无一物……"
 
 #: src-en/data/events_deepone.xml:230
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "再次转回身去。"
 
 #: src-en/data/events_deepone.xml:232
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你强压下心头的偏执妄想，摇了摇头，重新望向窗外。"
 
 #: src-en/data/events_deepone.xml:234
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "眨一下眼。"
 
 #: src-en/data/events_deepone.xml:240
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "检查舱室。"
 
 #: src-en/data/events_deepone.xml:242
 msgid ""
@@ -373,50 +382,54 @@ msgid ""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"一定有哪里不对劲，绝对是。你的目光飞快扫过房间的每个角落，寻找着一切能证明你"
+"没有发疯的蛛丝马迹。疯狂搜寻几分钟后，你正要放弃，却终于看见了……那个东西。通"
+"风口里，藏着什么。"
 
 #: src-en/data/events_deepone.xml:244
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "检查通风口。"
 
 #: src-en/data/events_deepone.xml:252
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "凝视窗外，试着放松下来。"
 
 #: src-en/data/events_deepone.xml:254
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"0\"]/event/choice[2]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "窗外唯有星辰相伴。无论你去往何处，星辰总会在那里守候着你，这让你得到了些许慰"
+"藉。"
 
 #: src-en/data/events_deepone.xml:256
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and "
 "@lvl=\"0\"]/event/choice[2]/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "眨一下眼。"
 
 #: src-en/data/events_deepone.xml:268
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "察觉到一阵似曾相识的诡异感，你回头查看身后。"
 
 #: src-en/data/events_deepone.xml:270
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "呵。那里什么都没有。看来终究是没什么事！你现在可以在船上做点别的事了。"
 
 #: src-en/data/events_deepone.xml:272
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START\"]/choice[@req=\"loc_mysterious_entity_seen\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储藏室。"
 
 #: src-en/data/events_deepone.xml:276
 msgid ""
@@ -427,120 +440,167 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:284
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/text"
-msgstr ""
+msgstr "星辰也在眨着眼回望你。"
 
 #: src-en/data/events_deepone.xml:286
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/text"
-msgstr ""
+msgstr "它们……什么？"
 
 #: src-en/data/events_deepone.xml:288
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/text"
 msgstr ""
+"就在这时，突然断电了！你听见其他船员在附近的舱室里来回挪动的声响，可你的房间"
+"陷入一片漆黑，唯有窗外以太散发出的极其微弱的光线，勉强照亮些许空间。"
 
 #: src-en/data/events_deepone.xml:290
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "瞥向窗外。"
 
 #: src-en/data/events_deepone.xml:292
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰"
+"消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失"
+"了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。"
+"星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰"
+"消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失"
+"了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。"
+"星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰"
+"消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失"
+"了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。"
+"星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰"
+"消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失"
+"了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。星辰消失了。"
 
 #: src-en/data/events_deepone.xml:296
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:300
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:306
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "静静地坐着，决不再看向外面。"
 
 #: src-en/data/events_deepone.xml:314
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/text"
 msgstr ""
+"你等待着。然后，继续等待。时间一点点流逝，你内心的惶恐愈发严重；黑暗仿佛变得"
+"更加浓稠，死寂也变得震耳欲聋。就在你起身去找其他船员时，舱室的角落里、你和舱"
+"门之间的位置，传来了一阵声响。一直有个东西，和你同处一室。"
 
 #: src-en/data/events_deepone.xml:317
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/text"
-msgstr ""
+msgstr "要求对方现身。"
 
 #: src-en/data/events_deepone.xml:319
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/text"
-msgstr ""
+msgstr "没有任何回应。就你所能察觉的，也没有任何动静。"
 
 #: src-en/data/events_deepone.xml:321
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "再问一遍，谁在那？"
 
 #: src-en/data/events_deepone.xml:323
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你迟疑了一下，有气无力地重复了一遍你的喝问。片刻之后，四周陷入死寂，你开始觉"
+"得自己刚才一定是听错了。可紧接着，沉重的脚步声便朝着你的方向轰然踏来。"
 
 #: src-en/data/events_deepone.xml:325
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:329
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:335
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "安静下来。"
 
 #: src-en/data/events_deepone.xml:341
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_MIDDLE_TWO\"]/choice[2]/text"
-msgstr ""
+msgstr "保持安静。"
 
 #: src-en/data/events_deepone.xml:347
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_BAD_END\"]/text"
 msgstr ""
+"你被一名船员的尖叫声惊醒。你和其他船员一同冲向他的舱室，可眼前这恐怖的一幕，"
+"是所有人都始料未及的。他的内脏被尽数掏空，鲜血溅满了房间的每一处缝隙，面部也"
+"损毁得面目全非，若不是靠着名牌，你根本认不出这是谁。就在你快要呕吐时，你注意"
+"到墙上用他的血写下了一组星区坐标……犯下这桩暴行的恶徒，显然是想让你前往那里，"
+"而你打算如他所愿。这笔血债，对方休想一笔勾销。"
 
 #: src-en/data/events_deepone.xml:352
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_BAD_END\"]/removeCrew/text"
-msgstr ""
+msgstr "做出这一切的家伙十分狡猾，不仅瘫痪了你的克隆舱，还销毁了你所有的DNA备份。该死"
+"……"
 
 #: src-en/data/events_deepone.xml:359
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_BAD_END_NOCREW\"]/text"
 msgstr ""
+"你在一阵……某人的尖叫声中惊醒。可这艘船上，明明只有你一个人……你小心翼翼地检查"
+"星舰的各项系统，却发现哪里不太对劲。无论切换哪个控制台或系统，屏幕上都在重复"
+"着同一串字符与数字，你随即认出，这是一组坐标。你不清楚究竟发生了什么，但做出"
+"这一切的东西，显然就是为了吸引你的注意……好在，你的所有系统都没有受到永久性损"
+"伤。或许，这组坐标终究还是值得一探。"
 
 #: src-en/data/events_deepone.xml:367
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_NEUTRAL_END\"]/text"
 msgstr ""
+"你刚靠近通风口，飞船就突然断电了！里面的那个东西制造出了前所未有的巨大声响仓"
+"皇逃窜，可你在一片漆黑中什么也做不了。片刻之后，你听见了某种……撕裂般的动静——"
+"有东西正在硬生生破开飞船的船体！你大喊着让船员们立刻戴上氧气面罩，而果不其然"
+"，破开船体的破洞正是通风口里的那个东西造成的，因为船舱内的所有氧气瞬间向外泄"
+"空。万幸的是，电力在千钧一发之际恢复了，你立刻派部分船员外出修补破洞、恢复飞"
+"船供氧，但事情还没有结束。船员们报告，船体上“刻着”一组星域坐标，是被粗暴地切"
+"割在船身外壳上的。你推测这极有可能是个陷阱，做出这一切的东西不可能怀有好意，"
+"但你依旧心生好奇，把坐标记录了下来。"
 
 #: src-en/data/events_deepone.xml:374
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ENLIGHTENED_QUEST_START_GOOD_END\"]/text"
 msgstr ""
+"你保持沉默，有那么一会儿，什么都没发生。直到电力恢复！你情绪极度紧张，带着被"
+"偏执驱使的狂热在房间里仔细搜查，可一切看起来都毫无异常。你在脑海里反复回想断"
+"电时听到的声响，这时一名船员冲进了房间，接着是第二个、第三个。显然，所有人都"
+"经历了相似的事情：先是被一股强烈的恐惧感笼罩，随后在黑暗中等待，都选择不和那"
+"个未知存在交谈。但一名格外慌乱的船员说，黑暗里的那个存在和他说话了——而且是说"
+"个不停。他声称那个存在一遍又一遍、无休止地重复着一串数字，直到电力恢复，那东"
+"西便消失无踪。你对这种数字组合十分熟悉，立刻认出这是一组星域坐标。策划这一切"
+"的，无论是某种神秘实体，还是一群未知存在，显然都在逼你前往那里；可谁也说不准"
+"，等待你的会是什么。"
 
 #: src-en/data/events_deepone.xml:397
 msgid "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/text"
-msgstr ""
+msgstr "这个信标处出现了一艘深渊潜者商人，至少可以说，这是一幕令人欣慰的景象。"
 
 #: src-en/data/events_deepone.xml:400
 msgid ""
@@ -550,7 +610,8 @@ msgstr "呼叫。"
 #: src-en/data/events_deepone.xml:402
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "一名兴奋的深渊潜者回应了你的通讯：“欢迎……潜在的顾客。倘若你……想要交易，就必须"
+"……解开我的谜题。”"
 
 #: src-en/data/events_deepone.xml:404
 msgid ""
@@ -560,7 +621,7 @@ msgstr "接受。"
 #: src-en/data/events_deepone.xml:406
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“他们有……”"
 
 #: src-en/data/events_deepone.xml:408
 msgid ""
@@ -570,7 +631,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:410
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“……八根手指。”"
 
 #: src-en/data/events_deepone.xml:412
 msgid ""
@@ -580,7 +641,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:414
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“他们还有一……”"
 
 #: src-en/data/events_deepone.xml:416
 msgid ""
@@ -590,7 +651,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:418
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“……一对拇指。”"
 
 #: src-en/data/events_deepone.xml:420
 msgid ""
@@ -600,7 +661,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:422
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"但是...\""
 
 #: src-en/data/events_deepone.xml:425
 msgid ""
@@ -610,7 +671,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:427
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“……它们并非活物。”"
 
 #: src-en/data/events_deepone.xml:429
 msgid ""
@@ -620,17 +681,17 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:431
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“那……它们是什么？”"
 
 #: src-en/data/events_deepone.xml:433
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "你再不赶紧闭嘴谈交易，倒霉的就是你自己。"
 
 #: src-en/data/events_deepone.xml:435
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "深渊潜者皱起眉头：“你在聚会上……肯定很招人烦。算了，你随便……看看吧。”"
 
 #: src-en/data/events_deepone.xml:437
 msgid ""
@@ -640,12 +701,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:443
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）“它们是……一双手套！”"
 
 #: src-en/data/events_deepone.xml:445
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
-msgstr ""
+msgstr "商人因为有人猜对了他的谜题而欣喜若狂，甚至还免费送了你一些物资！"
 
 #: src-en/data/events_deepone.xml:448
 msgid ""
@@ -660,17 +721,18 @@ msgstr "我们没有时间搞这个。"
 #: src-en/data/events_deepone.xml:462
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“真是太……可惜了。”它们挂断了通讯。"
 
 #: src-en/data/events_deepone.xml:474
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "天啊！我最讨厌谜题了！攻击这个商人。"
 
 #: src-en/data/events_deepone.xml:476
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“你居然……恨谜题恨到……这种地步？”你朝那位出谜题的深渊潜者商人冲去发起攻击，它"
+"也随即摆出防御姿态。"
 
 #: src-en/data/events_deepone.xml:479
 msgid ""
@@ -685,7 +747,7 @@ msgstr "拒绝。"
 #: src-en/data/events_deepone.xml:487
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“那……或许……下次吧。”他们切断了通讯。"
 
 #: src-en/data/events_deepone.xml:489
 msgid ""
@@ -700,12 +762,12 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:501
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[2]/text"
-msgstr ""
+msgstr "哟，可算来个顺眼的东西……一艘能炸飞的船！"
 
 #: src-en/data/events_deepone.xml:503
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "商船在你靠近时察觉到你拒绝应答通讯，随即转为敌对状态。准备战斗。"
 
 #: src-en/data/events_deepone.xml:506
 msgid ""
@@ -721,7 +783,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_deepone.xml:514
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_RIDDLE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你无视了那艘商船，而商船也同样无视了你。"
 
 #: src-en/data/events_deepone.xml:516
 msgid ""
@@ -736,36 +798,45 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:532
 msgid "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/text"
 msgstr ""
+"抵达信标处时，数艘深渊潜者舰船从你眼前飞速掠过。紧接着，又出现了好几艘……这里"
+"竟是一整支舰队！你环顾四周搜寻那艘商船，最终在密集的舰船群中发现了它。在这样"
+"一支严阵以待的舰队面前发动攻击，无异于自寻死路。"
 
 #: src-en/data/events_deepone.xml:534
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/text"
-msgstr ""
+msgstr "靠近这艘船，并发出通讯呼叫。"
 
 #: src-en/data/events_deepone.xml:536
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/text"
-msgstr ""
+msgstr "商人应答了你的通讯，但画面里他似乎正忙着收拾东西。"
 
 #: src-en/data/events_deepone.xml:538
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "问问他在做什么。"
 
 #: src-en/data/events_deepone.xml:540
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“正准备……奔赴战场。我们所有人都是，这难道……还不明显吗。那个……神权国残暴无情，"
+"我们……不打算袖手旁观。”"
 
 #: src-en/data/events_deepone.xml:542
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/text"
-msgstr ""
+msgstr "（迷失烈阳）你的烈阳突击兵有话要讲。"
 
 #: src-en/data/events_deepone.xml:544
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/text"
 msgstr ""
+"你麾下的迷失烈阳成员眼含悔意，上前对商人说道：“无论是焦土枯岩，还是鳞甲肉身，"
+"在那个神权国眼中并无分别。你我都被视作瘟疫，而他们这场‘神圣’圣战，便是用来‘根"
+"除’我们的手段。我们被同样的枷锁束缚，承受着长老们的怒火，因此在我看来，你丝毫"
+"不逊于任何一名失落之阳战士；于我而言，我们便是同胞，在即将到来的战事中，我们"
+"亟需你的力量并肩作战。”"
 
 #: src-en/data/events_deepone.xml:546
 msgid ""
@@ -776,16 +847,19 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/text"
 msgstr ""
+"这名商人显然把你烈阳突击兵的这番话听进了心里。你能看到他眼眶微微泛红，却一时"
+"没有作答。良久，他才打破沉默：“你的话……句句属实……同胞。可这场战事，我实在……无"
+"法抽身。我这里的族人……都需要我。但倘若有……任何我能为你效劳的事，尽管……开口。”"
 
 #: src-en/data/events_deepone.xml:550
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "瞥向外面他的维修小队，询问是否可以让他们来舰体维修。"
 
 #: src-en/data/events_deepone.xml:552
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "他点了点头，随即派维修小队去修理你的船体。在他们作业期间，你可以进行购物。"
 
 #: src-en/data/events_deepone.xml:555
 msgid ""
@@ -795,12 +869,15 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:561
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "瞥向房间角落里那些尚未安装的深渊潜者照明灯具。"
 
 #: src-en/data/events_deepone.xml:563
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"他留意到你的目光，开口说道：“我们的发光灯具……算得上是一项了不起的技术成就。你"
+"要是把它们装上去……效果肯定会……让你满意。”你接受了他的好意，在灯具安装的间隙，"
+"抽空逛了逛他的货品。"
 
 #: src-en/data/events_deepone.xml:566
 msgid ""
@@ -810,12 +887,15 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "你看向摆放在附近架子上的深渊潜者武器，询问是否可以将它收下。"
 
 #: src-en/data/events_deepone.xml:574
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[@req=\"rock_commando\"]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"他似乎思索了片刻，随即答应了你的请求。“这是……水母光束炮。是我们的远古同族最早"
+"研制出的……武器之一。他们钻研了……已有的离子技术，再将其高度集束……确保它绝不会"
+"偏离锁定的目标。你尽管……继续挑选货品，我让人把武器给你装上。”"
 
 #: src-en/data/events_deepone.xml:577
 msgid ""
@@ -825,12 +905,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:587
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "主动提出资助他们的战事。"
 
 #: src-en/data/events_deepone.xml:589
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "面对你的慷慨之举，他面露喜色。"
 
 #: src-en/data/events_deepone.xml:594
 msgid ""
@@ -841,6 +921,8 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"“你真是……仁厚善良之人。如果你愿意……我可以派出我手下最精锐的……一员，在这动荡之"
+"世……护卫你的安全，以此回报你的……慷慨善举。当然，你也依旧可以……随意选购货品。”"
 
 #: src-en/data/events_deepone.xml:599
 msgid ""
@@ -850,12 +932,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:607
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "拿出一笔巨款，资助他们的战事。"
 
 #: src-en/data/events_deepone.xml:609
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "看到你如此慷慨，他瞪大了双眼。"
 
 #: src-en/data/events_deepone.xml:614
 msgid ""
@@ -866,6 +948,9 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[3]/event/choice/event/text"
 msgstr ""
+"“你的善意……实在令人振奋。我会确保在我们的圣战途中，帮你牵制住那些叛军。尽管……"
+"选购你需要的一切吧。”你不清楚他是如何得知你正在被叛军追捕的，但即便如此，你依"
+"然感激这份心意。"
 
 #: src-en/data/events_deepone.xml:619
 msgid ""
@@ -875,12 +960,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:627
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "主动提出几乎由你一人承担整场该死的战争的全部费用。"
 
 #: src-en/data/events_deepone.xml:629
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "一堆比他本人还要高大的废料被传送到了他身旁的房间里，他惊得向后一跃。"
 
 #: src-en/data/events_deepone.xml:634
 msgid ""
@@ -891,6 +976,10 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[4]/event/choice/event/text"
 msgstr ""
+"“你要么…… 是真心向着我们，要么…… 就是恨透了这个神权国。正因为如此…… 我觉得最"
+"具讽刺意味的，莫过于把我们俘获的…… 他们的将军交给你。在我们让他受尽…… 那般地"
+"狱般的折磨后，他如今相当…… 顺从。你尽管…… 随意选购，之后想怎么处置他…… 都悉听"
+"尊便。”"
 
 #: src-en/data/events_deepone.xml:639
 msgid ""
@@ -900,12 +989,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:647
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "请求购物。"
 
 #: src-en/data/events_deepone.xml:649
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "他没有转身，只是匆忙低声念叨着：“好，好……”，随后将你领了进去。"
 
 #: src-en/data/events_deepone.xml:651
 msgid ""
@@ -915,12 +1004,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:659
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "请求购物。"
 
 #: src-en/data/events_deepone.xml:661
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "他没有转身，只是匆忙低声念叨着：“好，好……”，随后将你领了进去。"
 
 #: src-en/data/events_deepone.xml:663
 msgid ""
@@ -930,12 +1019,15 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:671
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[2]/text"
-msgstr ""
+msgstr "嘿，“自寻死路”可是我的个性！攻击那个商人！"
 
 #: src-en/data/events_deepone.xml:673
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[2]/event/text"
 msgstr ""
+"好了，联邦 “亡命徒”变元者，你撑了大概十一秒就被发现，还被人盘问来意。你竖起两"
+"根中指作为回应，随即遭到十几艘舰船的集火射击。不用说，你根本没能靠近那名商人"
+"。"
 
 #: src-en/data/events_deepone.xml:676
 msgid ""
@@ -945,7 +1037,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:682
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（高级隐形系统)启动隐形，尝试劫掠这艘商船。"
 
 #: src-en/data/events_deepone.xml:686
 #, fuzzy
@@ -956,7 +1048,7 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_deepone.xml:688
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_WAR\"]/choice[4]/event/text"
-msgstr ""
+msgstr "你无视了这艘商船，在超光速引擎充能的过程中，没有遭到任何干扰。"
 
 #: src-en/data/events_deepone.xml:690
 msgid ""
@@ -972,36 +1064,49 @@ msgstr "跳过。"
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_WAR_CLOAKING\"]/event[1]/text"
 msgstr ""
+"这简直堪称奇迹——你的隐形装置恰好持续了足够久，让船员得以成功接进商船、洗劫一"
+"空，而后神不知鬼不觉地全身而退。那个可怜的蠢货当时正忙着收拾行装，嘴里还嘟囔"
+"着要奔赴战场之类的胡话。"
 
 #: src-en/data/events_deepone.xml:707
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_WAR_CLOAKING\"]/event[2]/text"
 msgstr ""
+"你的隐形装置撑到了船员成功接驳进商船，可就在他们开始随意搜刮财物时，你察觉到"
+"隐形即将失效。你催促他们带着少量战利品火速返航，然而正如你所料，在撤离途中，"
+"隐形效果彻底消失！商人察觉了发生的一切，立刻请求火力支援。你在逃逸时，舰体被"
+"数发流弹擦过，但总体而言，情况本可能糟得多。"
 
 #: src-en/data/events_deepone.xml:712
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_WAR_CLOAKING\"]/event[3]/text"
-msgstr ""
+msgstr "可惜的是，你还没抵达商船，隐形装置就失效了。附近舰船被你突如其来的现身惊动，"
+"随即对你发起攻击，在你试图撤离时，舰体被打得支离破碎。"
 
 #: src-en/data/events_deepone.xml:716
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_WAR_CLOAKING\"]/event[4]/text"
-msgstr ""
+msgstr "可惜的是，你还没抵达商船，隐形装置就失效了。附近舰船被你突如其来的现身惊动，"
+"随即对你发起攻击，在你试图撤离时，舰体被打得支离破碎。"
 
 #: src-en/data/events_deepone.xml:726
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_STANDARD\"]/text"
-msgstr ""
+msgstr "此地有一艘深渊潜者商船，你一进入信标区域，这艘船便立刻与你通讯，并主动提出交"
+"易。"
 
 #: src-en/data/events_deepone.xml:729
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_STANDARD\"]/choice[1]/text"
-msgstr ""
+msgstr "四处查看，进行购物。"
 
 #: src-en/data/events_deepone.xml:731
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_STANDARD\"]/choice[1]/event/text"
 msgstr ""
+"深渊潜者商店内的灯光刺眼得近乎令人目眩，那股浓烈的霉味与鱼腥味混杂在一起，让"
+"你难以忍受。就在你以为这种感官折磨已经糟到极致时，店员却毫无缘由地对着天花板"
+"尖叫起来。你只得尽力快速购物。"
 
 #: src-en/data/events_deepone.xml:733
 msgid ""
@@ -1016,7 +1121,7 @@ msgstr "炸毁它！"
 #: src-en/data/events_deepone.xml:741
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_STANDARD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定攻击这名商人。"
 
 #: src-en/data/events_deepone.xml:744
 msgid ""
@@ -1025,7 +1130,7 @@ msgstr "继续。"
 
 #: src-en/data/events_deepone.xml:756
 msgid "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/text"
-msgstr ""
+msgstr "你刚一进入信标区域，通讯信号立刻就响了起来……"
 
 #: src-en/data/events_deepone.xml:759
 msgid ""
@@ -1035,17 +1140,19 @@ msgstr "接受呼叫。"
 #: src-en/data/events_deepone.xml:761
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "监视器里出现了两名深渊潜者，可你还没来得及开口，它们就开始尖叫。然后……就这么"
+"一直尖叫个不停。"
 
 #: src-en/data/events_deepone.xml:763
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "难以置信地愣在原地，死死盯着画面。"
 
 #: src-en/data/events_deepone.xml:765
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "就这样又尖叫了几分钟后，深潜者突然切断了通讯，并且立刻拒绝你后续的所有呼叫。"
+"还真是“彬彬有礼”……"
 
 #: src-en/data/events_deepone.xml:767
 msgid ""
@@ -1060,12 +1167,16 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:777
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "尖叫过去。"
 
 #: src-en/data/events_deepone.xml:779
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你对着深渊潜者放声嘶吼，它们顿时噤声，震惊地向后退缩。其中一个开口道：“何等……"
+"野蛮行径。”另一个接话：“我们本就知道联邦人……愚蠢不堪，可即便如此，依旧被彻底…"
+"…惊到了。”你耸了耸肩，它们随即切断通讯。你正准备离开，突然间，它们的武器全部"
+"启动！这才叫野蛮呢……"
 
 #: src-en/data/events_deepone.xml:782
 msgid ""
@@ -1075,12 +1186,15 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:788
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）让你的深渊潜者也嘶吼着回敬过去。"
 
 #: src-en/data/events_deepone.xml:790
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你的深渊潜者发出嘶吼，对面那两个深渊潜者当即愣住。“何等……富有感染力的嗓音。”"
+"其中一个赞叹道。“何等……震撼的美感！”另一个高声附和。它们看上去对你无比倾慕，"
+"随即主动提出要和你交易。这里发生的一切，在你看来全都荒诞到无法理解……"
 
 #: src-en/data/events_deepone.xml:792
 msgid ""
@@ -1090,12 +1204,13 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:800
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[2]/text"
-msgstr ""
+msgstr "拒绝呼叫。"
 
 #: src-en/data/events_deepone.xml:802
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_INSULT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "不管这艘船想干什么，你都毫无兴趣。你拒绝了它们的通讯请求，作为回应，它们的武"
+"器立刻全部启动！"
 
 #: src-en/data/events_deepone.xml:805
 msgid ""
@@ -1125,7 +1240,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:832
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STORE_DEEPONE_THEOCRACY_WIN\"]/text"
-msgstr ""
+msgstr "殖民地为你的英勇之举千恩万谢，并主动提出与你进行贸易。"
 
 #: src-en/data/events_deepone.xml:834
 msgid ""
@@ -1135,27 +1250,31 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:845
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/text"
-msgstr ""
+msgstr "附近的一颗卫星上坐落着一处深渊潜者贸易殖民地，你一进入信标区域，其中一名住民"
+"便立刻向你发出通讯，提出要和你交易。"
 
 #: src-en/data/events_deepone.xml:847
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/text"
-msgstr ""
+msgstr "上前进行交易。"
 
 #: src-en/data/events_deepone.xml:849
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/text"
 msgstr ""
+"你即将抵达时，探测到附近出现超光速航行信号 —— 一艘岩石族舰船跃迁至信标区域！"
+"它们径直扑向殖民地发动攻击，而殖民地的反舰炮台，根本无法击穿岩石族舰船的船体"
+"装甲。"
 
 #: src-en/data/events_deepone.xml:852
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "保护殖民地！"
 
 #: src-en/data/events_deepone.xml:854
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "休想，你们这些疯狂的狂热分子。你准备拦截这艘现已敌对的岩石族舰船。"
 
 #: src-en/data/events_deepone.xml:857
 msgid ""
@@ -1165,12 +1284,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:863
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "背叛殖民地，向岩石族提供一批弹药，让他们的进攻更顺利。"
 
 #: src-en/data/events_deepone.xml:865
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "岩石族收下弹药，低声嗤笑。"
 
 #: src-en/data/events_deepone.xml:870
 msgid ""
@@ -1185,7 +1304,7 @@ msgstr "不要插手。"
 #: src-en/data/events_deepone.xml:878
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你决定不插手。你清楚自己这是把殖民地推向了悲惨的结局，但这和你毫无关系。"
 
 #: src-en/data/events_deepone.xml:880
 msgid ""
@@ -1200,12 +1319,15 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:890
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "（水晶族）让你的水晶族向岩石族发起通讯。"
 
 #: src-en/data/events_deepone.xml:892
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[1]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"看到你的水晶族个体，岩石族陷入极度癫狂，尖叫着砸毁周遭一切。混乱中，有个岩石"
+"族无疑误触了超光速引擎开关，舰船立刻跃出信标区域。殖民地的住民和你一样目瞪口"
+"呆，却还是向你道谢，并照旧提出交易。"
 
 #: src-en/data/events_deepone.xml:895
 msgid ""
@@ -1215,12 +1337,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:903
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[2]/text"
-msgstr ""
+msgstr "无视殖民地。"
 
 #: src-en/data/events_deepone.xml:905
 msgid ""
 "data/events_deepone.xml$//event[@name=\"STOREEVENT_DEEPONE_THEOCRACY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你现在没兴趣交易。"
 
 #: src-en/data/events_deepone.xml:907
 msgid ""
@@ -1236,6 +1358,8 @@ msgstr "跳过。"
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_THEOCRACY_BETRAYAL\"]/event[1]/text"
 msgstr ""
+"你看见他们用随手找来的材料把导弹捆在一起，随即把这枚简易炸弹射向殖民地。爆炸"
+"将其彻底夷为平地，碎片四处飞溅。你打捞了部分残骸，岩石族舰船心满意足地离去。"
 
 #: src-en/data/events_deepone.xml:924
 msgid ""
@@ -1246,6 +1370,9 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"STOREEVENT_DEEPONE_THEOCRACY_BETRAYAL\"]/event[2]/text"
 msgstr ""
+"可没过多久，一阵爆炸就撼动了他们的舰船！他们肯定是不慎引爆了一枚导弹，却怀疑"
+"是你提供的弹药有问题，于是岩石族转而对你发难。与此同时，殖民地的住民们都以为"
+"这是你事先策划的反间计，全都在为你助威。"
 
 #: src-en/data/events_deepone.xml:933
 msgid ""
@@ -1268,27 +1395,31 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:963
 msgid "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_FRIENDLY\"]/text"
-msgstr ""
+msgstr "这个信标处有一个深渊潜者殖民地，你靠近时，他们示意你降落。"
 
 #: src-en/data/events_deepone.xml:965
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_FRIENDLY\"]/choice[1]/text"
-msgstr ""
+msgstr "我们还有些时间，同意降落。"
 
 #: src-en/data/events_deepone.xml:967
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_FRIENDLY\"]/choice[1]/event/text"
 msgstr ""
+"你谨慎地靠近深渊潜者殖民地，却很快发现这份警惕毫无必要。他们坦言极少见到访客"
+"，对你的到来欣喜若狂，随即向你馈赠了大量礼物。你也投桃报李，慷慨讲述自己在多"
+"元宇宙中的冒险事迹，每一段恣意的故事都让深渊潜者们惊奇地瞪大双眼。尽管逗留的"
+"时间超出了预期，但你的船员们都很珍惜这难得的休整时刻。"
 
 #: src-en/data/events_deepone.xml:973
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_FRIENDLY\"]/choice[2]/text"
-msgstr ""
+msgstr "我们没时间耽搁。"
 
 #: src-en/data/events_deepone.xml:975
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_FRIENDLY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你告诉深渊潜者，此次任务时间极为紧迫。他们对你的拒绝感到失落，但表示理解。"
 
 #: src-en/data/events_deepone.xml:977
 msgid ""
@@ -1304,25 +1435,47 @@ msgstr "跳过。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DARKGOD_LIST_STUFF\"]/text"
 msgstr ""
+"你心里暗自打算，回头要找负责舰船系统的联邦工程师谈谈，可刚回到自己的房间，就"
+"撞见了诡异的一幕。房间中央堆着一堆杂七杂八的废旧物品，满是废料和物资，偏偏就"
+"出现在这里，房间其他地方却毫发无损。你询问了一圈，船员们全都一头雾水，事发时"
+"监控又恰好失灵了。尽管心里发慌，你还是觉得不要白不要，随即准备火速离开这个信"
+"标区域。"
 
 #: src-en/data/events_deepone.xml:1005
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DARKGOD_LIST_REACTOR\"]/text"
 msgstr ""
+"你暗自打算要找负责舰船系统的联邦工程师谈一谈，可回到房间时，却看到了诡异的一"
+"幕。房间中央整齐堆放着一堆反应堆核心，数量可观，不知被谁放在这里，而房间其他"
+"地方却完好无损。你询问了所有船员，他们和你一样毫不知情，而且事发期间监控恰好"
+"失灵了。尽管心里不安，你还是觉得不要白不要，随即准备迅速离开这个信标区域。"
 
 #: src-en/data/events_deepone.xml:1010
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DARKGOD_LIST_DARKWEAPON\"]/text"
 msgstr ""
+"你在心里暗自记下，回头一定要找负责飞船系统的联邦工程师好好理论一番。可等你回"
+"到自己的房间，却撞见了一幕诡异的景象——房间中央放着一件造型怪异的机械，是一件"
+"气息不祥的武器，不知何时被悄无声息地放在这里，房间里其他东西却分毫未动。你问"
+"遍船员，所有人都对此一无所知，而事发时段的监控又恰好失灵了。尽管心里隐隐不安"
+"，你还是想着，白送的武器不要白不要，随即准备匆匆离开这片信标区域。"
 
 #: src-en/data/events_deepone.xml:1015
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DARKGOD_LIST_DARKDRONE\"]/text"
 msgstr ""
+"你在心里暗自记下，回头一定要找负责飞船系统的联邦工程师好好算笔账。可刚回到自"
+"己的房间，就撞见了一幕诡异的景象——房间中央摆着一台造型怪异的机械装置，是一架"
+"气息不祥的无人机，不知何时被悄悄放在了这里，房间里其他东西却分毫未动。你问遍"
+"船员，所有人都对此一无所知，而事发时段的监控录像又恰好失效了。尽管心里阵阵发"
+"毛，你还是暗自盘算：白捡的无人机不要白不要，随即准备匆匆离开这片信标区域。"
 
 #: src-en/data/events_deepone.xml:1020
 msgid "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DARKGOD\"]/text"
 msgstr ""
+"一进入这个星系，你的舰船就检测到货舱中凭空出现了一团未知物质。附近没有其他舰"
+"船，不可能是有人传送过来，你以为是虚警，但还是手持爆裂手枪前往货舱查看。进一"
+"步检查后，你的猜测很快得到证实，这里一切正常，并无异常。"
 
 #: src-en/data/events_deepone.xml:1022
 msgid ""
@@ -1333,65 +1486,97 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK_ESCAPE_LIST_REWARD\"]/text"
 msgstr ""
+"你的队伍奋力冲向出口，途中却意外撞见了一样东西：一名半械分离者，就伫立在走廊"
+"里。它此前并不在这里……你的船员要求它表明身份，可它全然无视，反而径直对你开口"
+"：“我一直在——等你，变元者。我们在此的时间：很[短暂]。”它转向你的船员，总算给"
+"出了回应：“快——走这边。”它领着你的船员穿梭在迷宫般的走廊，行动笃定果决，一行"
+"人也确实比预想中快得多地顺利脱险。回到舰船后，这名半械族并非请求加入你的船员"
+"，更像是直接……留了下来。而你对此，也并无任何异议。"
 
 #: src-en/data/events_deepone.xml:1042
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK_ESCAPE_LIST_NOTHING\"]/text"
 msgstr ""
+"你一言不发，你的队伍却都与你心意相通。他们立刻转身，顺着原路狂奔折返，可令他"
+"们错愕的是，往回走才几分钟，就找到了出口。尽管这番行动一无所获，但至少船员们"
+"都安然无恙。"
 
 #: src-en/data/events_deepone.xml:1046
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK_ESCAPE_LIST_LOST\"]/text"
 msgstr ""
+"你决定是时候撤离了，可……出口到底在哪？你的队伍花了仿佛数小时的时间试图原路折"
+"返，最终终于找到了刚进来时的那条T型走廊。他们堪堪逃出来，这艘舰船就发生了最后"
+"一次结构性崩塌，彻底向内坍毁。与此同时，舰队想必已经追了上来，你这一趟非但一"
+"无所获，可至少，你的船员全都安然无恙。"
 
 #: src-en/data/events_deepone.xml:1051
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK_ESCAPE_LIST_ASSAULT\"]/text"
 msgstr ""
+"你的队伍顺利找到了出路，可在靠近出口时，他们察觉到了异样……脚步声正朝着他们的"
+"方向回荡，而且越来越急促。他们拼命狂奔，某个东西以超乎常理的速度紧追不舍。船"
+"员们堪堪及时逃回舰内，可你还没来得及关上气密舱，那道追击的身影就已经跟着冲了"
+"进来……这鬼东西到底是什么？"
 
 #: src-en/data/events_deepone.xml:1057
 msgid "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/text"
 msgstr ""
+"你眼前出现了一艘深渊潜者的失事舰船，其信号完全沉寂，舰体灯光却依旧亮得刺眼。"
+"没人能判断它在此搁浅了多久，而且你的舰船扫描系统，竟无论如何都无法穿透它的船"
+"体。"
 
 #: src-en/data/events_deepone.xml:1059
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/text"
-msgstr ""
+msgstr "检查飞船内部。"
 
 #: src-en/data/events_deepone.xml:1061
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/text"
 msgstr ""
+"你派遣一支队伍探查飞船内部，可一进入内部，就能立刻判断出这艘船撑不了多久。在"
+"明确这一时间限制后，你的队伍展开行动，请求你下达指令，探索这片迷宫般的区域。"
 
 #: src-en/data/events_deepone.xml:1063
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "走…… 右边。"
 
 #: src-en/data/events_deepone.xml:1065
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你的队伍遵照指令，向右边行进。在泛着虹彩的走廊里静默行进几分钟后，你的队伍报"
+"告称所有人都心生恐惧。起初你并未多想，但随后你发现船员转弯的路线存在规律。这"
+"些走廊似乎在无限循环，可……自从进入之后，他们就再也没见过入口。你的船员开始恐"
+"慌，你听到飞船船体发出挤压变形的声响。飞船即将自行解体，所剩时间无几。"
 
 #: src-en/data/events_deepone.xml:1067
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "让他们继续前进。"
 
 #: src-en/data/events_deepone.xml:1069
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你安抚队伍说一切正常，并鼓励他们继续前进。他们不情愿地照做，但片刻后又停了下"
+"来。你正要再次安抚他们，却注意到在他们前方视线之外，有一个一动不动的高大身影"
+"阴影。这是第一条没有灯光的走廊吗？"
 
 #: src-en/data/events_deepone.xml:1071
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "命令他们直面那个身影。"
 
 #: src-en/data/events_deepone.xml:1073
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你语气坚决，命令船员直面前方的身影。可他们还没来得及抗议，通讯画面就突然中断"
+"，紧接着通讯器里瞬间传来尖叫声……随后是沉重的脚步声。两种声音都迅速变弱，显然"
+"船员在慌乱中掉落了通讯器。你只能难以置信地呆在原地，等待结果。"
 
 #: src-en/data/events_deepone.xml:1075
 msgid ""
@@ -1402,156 +1587,199 @@ msgstr "等等。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"几分钟过去了，你的队伍奇迹般地从失事飞船里冲了出来，仍旧在尖叫，身后还追着一"
+"名深潜者。你要求他们给出解释，就在船员们陷入歇斯底里的状态时，那名深渊潜者请"
+"求你给它一个说话的机会。事实证明，它并非有意恐吓你的队伍，只是在自己残存的飞"
+"船上看到外来者，同样感到震惊。它解释道，因一次撞击导致引擎损毁，它已经漂流了"
+"数日，被困在此处，飞船也在缓慢失压。话音刚落，身后的飞船完成了最后一次结构扭"
+"曲，向内彻底坍毁。它满心失落，此地也再无牵挂，于是提出加入你的船员，以此弥补"
+"它无意间造成的所有恐慌。"
 
 #: src-en/data/events_deepone.xml:1084
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "好吧，现在绝对该离开了。"
 
 #: src-en/data/events_deepone.xml:1090
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "也许是时候离开了。"
 
 #: src-en/data/events_deepone.xml:1096
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "走……左边。"
 
 #: src-en/data/events_deepone.xml:1098
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你的队伍遵照指令向左行进。在泛着虹光的走廊里静默行走几分钟后，他们发现了几个"
+"标有外星文字的房间，你的翻译设备无法识别这些文字。你听到飞船开始发出结构扭曲"
+"的声响，显然很快就没有时间探查两个房间了。"
 
 #: src-en/data/events_deepone.xml:1100
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "进入黑暗的房间。"
 
 #: src-en/data/events_deepone.xml:1102
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的船员走进没有任何照明的房间，很快发现这里是飞船的物资储藏室。他们尽可能收"
+"集可用物资，准备在飞船内部坍塌前离开。任务成功。"
 
 #: src-en/data/events_deepone.xml:1107
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "进入亮着灯的房间。"
 
 #: src-en/data/events_deepone.xml:1109
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"你的船员进入了这间亮得刺眼的房间，却无法理解周遭的环境。这间房在人的余光中仿"
+"佛会扭曲，每个角落只要不集中注意力就会不停变化。可以确定的是，房间里空无一物"
+"，只有一具半械族被拆解的残骸。但仔细观察后会发现，这具躯体的形态是你从未在任"
+"何半械族个体上见过的……黑紫相间，没有双臂，背部伸出怪异的尖刺；体内的纳米微粒"
+"不断变换形态，和周遭的房间如出一辙。"
 
 #: src-en/data/events_deepone.xml:1111
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）等等。你分明知道这是什么！"
 
 #: src-en/data/events_deepone.xml:1113
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"这是谐离精英的残骸！你命令队员收起残骸立刻撤离，回到己方舰船后，你队伍中的谐"
+"离成员立刻着手将它重新拼装修复。修复完成时，这名刚被重组的谐离精英结结巴巴地"
+"说出几句感谢：“兄、兄、兄弟们……？…… 在、在这里……？谢、谢谢你……” 它还需要一段"
+"时间才能彻底恢复，但为了报答救命之恩，它主动提出加入你的队伍！"
 
 #: src-en/data/events_deepone.xml:1118
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/text"
-msgstr ""
+msgstr "（半械分离者船员）你队伍里的这名分离者船员似乎认出了这种构造。"
 
 #: src-en/data/events_deepone.xml:1120
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/text"
 msgstr ""
+"它通过通讯器对你说道：“我……听、说起过这些个体。我、我想我能【修复】它们。”你"
+"下令队员收起这具被拆解的半械族躯体，立刻撤离。回到己方飞船后，队伍里的半械分"
+"离者成员便着手将它重新组装修复。修复完成时，这具重获新生的半械族断断续续地吐"
+"出几句感谢：“兄、兄、兄弟们……？……在、在这里……？谢、谢谢你……”它还需要一段时间"
+"才能彻底恢复，但为了报答救命之恩，这具形态怪异的半械族主动提出加入你的船员队"
+"伍！"
 
 #: src-en/data/events_deepone.xml:1125
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "我不知道这是什么。"
 
 #: src-en/data/events_deepone.xml:1127
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "尽管这事十分诡异，你却束手无策。你听见飞船发出结构崩裂的声响……这个谜团，只能"
+"留待日后再去解开了。"
 
 #: src-en/data/events_deepone.xml:1129
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "该走了。"
 
 #: src-en/data/events_deepone.xml:1137
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）你手下的深渊潜者主动提出，为你解读那些标识文字。"
 
 #: src-en/data/events_deepone.xml:1139
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者解释道，黑暗房间的标识写着货舱，而发光房间的标识，字面直译就是 ——"
+"“危险金属人形”。"
 
 #: src-en/data/events_deepone.xml:1141
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/text"
-msgstr ""
+msgstr "进入货舱。"
 
 #: src-en/data/events_deepone.xml:1143
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你的船员进入货舱，尽可能搜刮战利品，并在飞船内部坍塌前准备撤离。任务成功。"
 
 #: src-en/data/events_deepone.xml:1148
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/text"
-msgstr ""
+msgstr "进入这个标识怪异的房间。"
 
 #: src-en/data/events_deepone.xml:1150
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/text"
 msgstr ""
+"你的船员进入了这间亮得刺眼的房间，却无从判断周遭的环境。房间会在人的余光中扭"
+"曲变形，除非集中视线，否则每个角落都始终处于变化之中。可以确定的是，房间里空"
+"无一物，只有一具半械族被拆解的残骸。但仔细观察后会发现，这具躯体的形态是你从"
+"未在任何半械族身上见过的……通体黑紫，没有双臂，背部伸出怪异的尖刺；体内的纳米"
+"单元不断流转，与这间房间的特质如出一辙。"
 
 #: src-en/data/events_deepone.xml:1152
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）等一下。你分明知道这是什么！"
 
 #: src-en/data/events_deepone.xml:1154
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"这是谐离精英的残骸！你让队员将其收起并撤离，回到己方飞船后，你队伍中的谐离成"
+"员便着手将它重新组装。修复完成时，这具刚被重组的谐离精英结结巴巴地说出几句感"
+"谢的话：“兄、兄、兄弟们……？…… 在、在这里……？谢、谢、谢谢你……” 它还需要一段时"
+"间才能完全恢复，但为了报答恩情，它主动提出加入你的船员队伍！"
 
 #: src-en/data/events_deepone.xml:1159
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/text"
-msgstr ""
+msgstr "（半械分离者）你的半械分离者成员似乎认得这种构造。"
 
 #: src-en/data/events_deepone.xml:1161
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[@req=\"LIST_VARIANT_SEPARATIST\"]/event/text"
 msgstr ""
+"他们通过通讯器对你说道：“我……听过这类存在的传闻。我想……我能修复它们。”你让队"
+"员收起这具被拆解的半械族残骸并撤离，登舰后，你手下的分裂派成员便着手将其重新"
+"组装。修复完成时，这具刚被重组的半械族结结巴巴地又说出几句感谢的话语：“兄、兄"
+"、兄弟们……在这里……？谢、谢、谢谢你……”它还需要一段时间才能彻底恢复，但作为报答"
+"，这具特殊的半械族主动提出加入你的船员队伍！"
 
 #: src-en/data/events_deepone.xml:1166
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "我不知道这是什么。"
 
 #: src-en/data/events_deepone.xml:1168
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "尽管这事十分诡异，你却无计可施。你听见船体发出扭曲崩裂的声响……这个谜团，只能"
+"留待日后再去解开了。"
 
 #: src-en/data/events_deepone.xml:1170
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "该离开了。"
 
 #: src-en/data/events_deepone.xml:1184
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[2]/text"
-msgstr ""
+msgstr "拆解飞船外部残骸。"
 
 #: src-en/data/events_deepone.xml:1186
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你绕到飞船外侧，尽可能地搜刮拆解可用废料。"
 
 #: src-en/data/events_deepone.xml:1191
 #, fuzzy
@@ -1562,7 +1790,8 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_deepone.xml:1193
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_WRECK\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你没空理会这些透着不祥的残骸，更别说这还是在深渊潜者的星域。为了避免被某种可"
+"怖的怪物突袭，你准备离开这个信标点。"
 
 #: src-en/data/events_deepone.xml:1195
 msgid ""
@@ -1578,11 +1807,17 @@ msgstr "跳过。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST_LIST_WIN\"]/text"
 msgstr ""
+"“速速作答……既然如此，那便定了。神权国之敌……便是我等之友。”他们说道，随后主动"
+"提出，要与你分享他们近期劫掠岩石族前哨站所得的部分战利品！他们的飞船疾速驶入"
+"视野，一边向你细数此番征战的传奇事迹；在他们转交战利品的间隙，你也向他们讲述"
+"了属于你的冒险故事。"
 
 #: src-en/data/events_deepone.xml:1217
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST_LIST_LOSS\"]/text"
 msgstr ""
+"“是吗……你倒是会说。我……可没那么容易被糊弄。”他们随即切断了通讯，自始至终都没"
+"有显露自己的飞船，只留下你暗自疑惑：他们原本究竟期待你给出怎样的答复。"
 
 #: src-en/data/events_deepone.xml:1219
 msgid ""
@@ -1597,17 +1832,21 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1229
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/text"
-msgstr ""
+msgstr "你还没来得及采取任何行动，就收到了一条通讯请求，对方邀请你接入一条私密频道。"
+"你望向外部，附近没有发现任何飞船踪迹。感觉十分蹊跷……"
 
 #: src-en/data/events_deepone.xml:1231
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/text"
-msgstr ""
+msgstr "接受通讯。"
 
 #: src-en/data/events_deepone.xml:1233
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/text"
 msgstr ""
+"映入你眼帘的是一间昏暗的房间，仅有天花板上的青蓝色灯光勉强照明。你无法看清周"
+"遭的具体事物，却能辨认出这种灯光正是深潜者所用的款式。一道声音自黑暗中传来：“"
+"你……对岩石族怀有敬意吗？”话音落下，周遭陷入沉寂，对方静待你的答复。"
 
 #: src-en/data/events_deepone.xml:1235
 msgid ""
@@ -1617,7 +1856,7 @@ msgstr "当然。"
 #: src-en/data/events_deepone.xml:1237
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“那我们和你没什么好谈的。”通讯随即中断，只留下你独自陷入一片沉寂。"
 
 #: src-en/data/events_deepone.xml:1239
 msgid ""
@@ -1632,22 +1871,29 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1249
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）让你的深渊潜者成员作答。"
 
 #: src-en/data/events_deepone.xml:1251
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你的深渊潜者对着麦克风低吼出几句尖锐刻薄的话语。通讯另一端的深渊潜者们似乎对"
+"这个回答十分满意，笑了片刻后，房间的灯光亮起，露出了他们的身形。“神权国的敌人"
+"……就是我们的朋友。”他们说道，随后主动提出，要与你分享他们近期劫掠岩石族前哨站"
+"所得的战利品！他们的飞船疾速驶入视野，一边向你细数此番功绩；在他们转交战利品"
+"的间隙，你也向他们讲述了你自己的经历。"
 
 #: src-en/data/events_deepone.xml:1256
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族成员来回应。"
 
 #: src-en/data/events_deepone.xml:1258
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/text"
 msgstr ""
+"你的岩石族成员傲然答道：“是的！怀有无限的敬意！”通讯那头陷入了短暂的沉默，随"
+"后传来回应：“可悲。这是无尽的……耻辱。”通讯随即中断，只留下你独自沉寂。"
 
 #: src-en/data/events_deepone.xml:1260
 msgid ""
@@ -1662,27 +1908,33 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1270
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "（水晶族）让你的水晶族成员作答。"
 
 #: src-en/data/events_deepone.xml:1272
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"你的水晶族成员微微挪动了一下身子，怯生生地回答：“算不上敬重。那些家伙有点古怪"
+"，而且……太过狂热。”你听到深潜者那边发出一声叹息，随即回应道：“狂热……已经到了"
+"极致。即便如此，神权国的敌人……就是我们的朋友。”说完，他们提出要与你分享近期劫"
+"掠岩石族前哨站斩获的战利品！他们的飞船疾速驶入视野，一边向你讲述着自己的英勇"
+"事迹；在他们转交战利品的过程中，你也和他们分享了你自己的故事。"
 
 #: src-en/data/events_deepone.xml:1277
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "当然不。"
 
 #: src-en/data/events_deepone.xml:1283
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[2]/text"
-msgstr ""
+msgstr "拒绝通讯。"
 
 #: src-en/data/events_deepone.xml:1285
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_THEOCRACY_HEIST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你没有再尝试发起通讯。在超光速引擎充能完毕前，你还有一点时间……可心底却始终惴"
+"惴不安。"
 
 #: src-en/data/events_deepone.xml:1287
 msgid ""
@@ -1696,37 +1948,45 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:1299
 msgid "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/text"
-msgstr ""
+msgstr "你驶入信标区域时，隐约觉得哪里不对劲。眼前出现的是一座深渊潜者前哨站，可你发"
+"出的通讯全都无人应答，整片区域死寂一片。"
 
 #: src-en/data/events_deepone.xml:1301
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/text"
-msgstr ""
+msgstr "停靠进空间站。"
 
 #: src-en/data/events_deepone.xml:1303
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/text"
 msgstr ""
+"你和你的船员进入空间站后，气氛很快变得诡异起来。站内有数不清的深渊潜者，全都"
+"一动不动，眼神如同陷入恍惚失神的迷咒。你深知深渊潜者本就是怪异的族群，可这般"
+"景象，即便对他们而言也实属反常。他们究竟出了什么事？"
 
 #: src-en/data/events_deepone.xml:1305
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "试着引起一名深渊潜者的注意。"
 
 #: src-en/data/events_deepone.xml:1307
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你走向其中一名深渊潜者并挥手示意。毫无反应。你拍了几下手，依旧没有任何动静。"
 
 #: src-en/data/events_deepone.xml:1309
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "试着摇晃它。"
 
 #: src-en/data/events_deepone.xml:1311
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你双手扣住这名深渊潜者的肩膀，肢体接触的刹那，极致的恐惧瞬间席卷你的全身。你"
+"眼前闪过数十段画面，每一帧带来的惊骇都远超上一帧：仪式与邪教的幻象、一名身受"
+"重创、遍体鳞伤的深渊潜者、鲜血溅满地面，一群通体泛黄的深潜者簇拥在旁，以膜拜"
+"的姿态注视着这可怖的景象。还有以某个名号发起的祷告与追随者……"
 
 #: src-en/data/events_deepone.xml:1313
 msgid ""
@@ -1736,27 +1996,34 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:1315
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "船员把你拉开，你才回过神来。那到底是什么东西？你为什么会看见那些画面？这些深"
+"渊潜者究竟出了什么事？"
 
 #: src-en/data/events_deepone.xml:1317
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "继续往哨站深处前进。"
 
 #: src-en/data/events_deepone.xml:1319
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你和船员从无数深渊潜者身旁走过，它们自始至终纹丝不动。哨站的核心地带堆着一堆…"
+"…垃圾？不，是废料，旁边还放着一张字条，上面写着：“给你……舰长。”这些深渊潜者书"
+"写时居然也会用省略号吗？不，更关键的是，这真的是留给你的？它们早就知道你会来"
+"？你的所有疑问都得不到任何回应，那些深渊潜者依旧目光空洞地凝视着虚空，仿佛要"
+"这样僵持到永恒。你和船员带着刚得到的废料撤回飞船时，它们依旧分毫未动。"
 
 #: src-en/data/events_deepone.xml:1324
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "这不对劲，趁还没出事，赶紧回去。"
 
 #: src-en/data/events_deepone.xml:1326
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你和船员转身折返，那些深渊潜者依旧纹丝不动。虽然心有余悸，但暂时安全，在超光"
+"速引擎完成充能之前，你还有一段空闲时间。"
 
 #: src-en/data/events_deepone.xml:1328
 msgid ""
@@ -1771,52 +2038,72 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1342
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "别白费力气了，继续往前走就好。"
 
 #: src-en/data/events_deepone.xml:1344
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你和你的船员从无数深渊潜者身旁走过，它们自始至终都没有丝毫动弹。哨站的中心堆"
+"放着一堆……垃圾？不，是废料，旁边还放着一张字条，上面写着：“给你……舰长。”难道"
+"深渊潜者书写时也会用这种停顿省略吗？不对，更重要的是，这真的是留给你的？它们"
+"难道早就知道你会来？你的所有疑问都得不到任何回应，那些深渊潜者依旧空洞地凝视"
+"着虚空，仿佛要这样直到永恒。你和船员带着刚得到的废料撤回飞船时，它们依旧分毫"
+"未动。."
 
 #: src-en/data/events_deepone.xml:1351
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "无视那些深潜者，继续前进。"
 
 #: src-en/data/events_deepone.xml:1353
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你和船员从无数深渊潜者身旁走过，它们自始至终纹丝不动。前哨站的中心堆放着一堆…"
+"…垃圾？不，是废料，旁边还放着一张字条，上面写着：“给你……舰长。”深渊潜者书写文"
+"字时居然也会用这种停顿吗？不，更重要的是，这真的是留给你的？它们早就知道你会"
+"来？你的所有疑问都石沉大海，那些深渊潜者依旧目光空洞地凝视着虚空，仿佛要这样"
+"僵持到永恒。你和船员带着刚到手的废料撤回飞船时，它们依旧分毫未动。"
 
 #: src-en/data/events_deepone.xml:1358
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）你麾下的深渊潜者面露愁容。"
 
 #: src-en/data/events_deepone.xml:1360
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你看向自己的深渊潜者同伴，想从它那里了解当前状况，可它并不情愿给出答案。你稍"
+"加追问后，它只说了一个词：“仪式”。它执意要求你不要打扰这里的深渊潜者，尽快离"
+"开。一股不祥的预感笼罩而来……"
 
 #: src-en/data/events_deepone.xml:1362
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/text"
-msgstr ""
+msgstr "继续深入前哨站。"
 
 #: src-en/data/events_deepone.xml:1364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/event/text"
 msgstr ""
+"你和船员从无数深渊潜者身旁走过，它们自始至终纹丝不动。哨站的核心地带堆着一堆…"
+"…垃圾？不，是废料，旁边还放着一张字条，上面写着：“给你……舰长。”这些深渊潜者书"
+"写时居然也会用省略号吗？不，更关键的是，这真的是留给你的？它们早就知道你会来"
+"？你的所有疑问都得不到任何回应，那些深渊潜者依旧目光空洞地凝视着虚空，仿佛要"
+"这样僵持到永恒。你和船员带着刚得到的废料撤回飞船时，它们依旧分毫未动。"
 
 #: src-en/data/events_deepone.xml:1369
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/text"
-msgstr ""
+msgstr "回去，这感觉不对劲。"
 
 #: src-en/data/events_deepone.xml:1371
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你和船员转身折返，那些深渊潜者依旧纹丝不动。虽然心有余悸，但暂时安全，在超光"
+"速引擎完成充能之前，你还有一段空闲时间。"
 
 #: src-en/data/events_deepone.xml:1373
 msgid ""
@@ -1831,12 +2118,13 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1385
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "这实在太诡异了，赶紧离开。"
 
 #: src-en/data/events_deepone.xml:1387
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "你和船员转身折返，那些深渊潜者依旧纹丝不动。虽然心有余悸，但暂时安全，在超光"
+"速引擎完成充能之前，你还有一段空闲时间。"
 
 #: src-en/data/events_deepone.xml:1389
 msgid ""
@@ -1851,12 +2139,12 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1401
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[2]/text"
-msgstr ""
+msgstr "不。我就待在这儿。"
 
 #: src-en/data/events_deepone.xml:1403
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DEEPONE_DREAD\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你不信任这座前哨站。于是，你启动超光速引擎，准备离开这个信标所在的区域。"
 
 #: src-en/data/events_deepone.xml:1405
 msgid ""
@@ -1891,42 +2179,57 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:1436
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "什么？？？你是怎么做到的？？？"
 
 #: src-en/data/events_deepone.xml:1446
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_NAVIGATION_LIST_SUCCESS\"]/text"
 msgstr ""
+"你拼尽全力朝着飞船原本所在的大致方向飞去，当它的轮廓出现在不远处时，你松了一"
+"口气。抵达附近后，你勉强能看清它的外形以完成对接，但也立刻意识到，船体的受损"
+"程度极为严重。如果船上还有幸存者，你能用来营救他们的时间，恐怕已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1448
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_NAVIGATION_LIST_SUCCESS\"]/choice/text"
-msgstr ""
+msgstr "快！！"
 
 #: src-en/data/events_deepone.xml:1454
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_NAVIGATION_LIST_FAILURE\"]/text"
-msgstr ""
+msgstr "尽管你拼尽了全力，搜寻最终还是一无所获。最终，你断定在黑暗中摸索毫无意义，当"
+"即决定动身撤离，以免叛军进一步占据优势。"
 
 #: src-en/data/events_deepone.xml:1458
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_NAVIGATION_LIST_EXTREMEFAILURE\"]/text"
 msgstr ""
+"没过多久，你就找到了那艘隐匿在阴影中的飞船……结果径直撞了上去，让它再度翻滚着"
+"坠入黑暗！说到底，在黑暗里毫无头绪地四处摸索，压根就不是什么好主意。不过好在"
+"，船体受损并不算太严重。但你再也不会冒风险去重新寻找它了……"
 
 #: src-en/data/events_deepone.xml:1463
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_REWARD\"]/text"
 msgstr ""
+"你冲进这艘受损的飞船，却很快发现内部和外面一样漆黑……但你并没有感到那般迷茫。"
+"胸腔里一股隐秘的暖意仿佛在指引你前行，在漆黑的走廊中穿行时，你甚至没有撞到任"
+"何东西。最终，你的手停留在一个物体上。它的表面触感怪异，几乎难以用语言形容，"
+"却散发出与指引你的那股暖意相仿的热量。无论这东西是什么，它似乎一直在等你找到"
+"它。"
 
 #: src-en/data/events_deepone.xml:1465
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_REWARD\"]/choice/text"
-msgstr ""
+msgstr "真奇怪……"
 
 #: src-en/data/events_deepone.xml:1467
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_REWARD\"]/choice/event/text"
 msgstr ""
+"一声刺耳的撕裂巨响传来，你猛然意识到，这艘飞船即将彻底解体崩塌。你只能先带上…"
+"…不管这个东西是什么，立刻撤离，而且必须动作飞快！你咬牙抱起这个沉重的物件，朝"
+"着出口全力狂奔……"
 
 #: src-en/data/events_deepone.xml:1470
 msgid ""
@@ -1937,141 +2240,181 @@ msgstr "快跑！"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE_REWARD\"]/choice/event/choice/event/text"
 msgstr ""
+"令你惊诧的是，你在黑暗中这番疯狂的盲冲，竟和进来时一样顺畅无阻，你果断纵身一"
+"跃，跳回了自己飞船的气密舱。气密舱闭合的瞬间，你眼见身后的飞船彻底崩解撕裂，"
+"也终于第一次看清了这件你冒着生命危险取回的物件……它看上去像是一件形制怪异的武"
+"器。你胸腔里的暖意随之消散，而这件武器的触感很快变得近乎灼烫。你无从知晓它究"
+"竟是什么、刚才此地发生了什么，也不明白为何遍寻不到这艘飞船上的任何生灵……但在"
+"你准备驶离这片信标区域时，此行已然让你收获颇丰。"
 
 #: src-en/data/events_deepone.xml:1481
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/text"
 msgstr ""
+"这里的两艘飞船，尽管无疑是深渊潜者的造物，却完全超出了你的认知范围。大多数深"
+"渊潜者舰船都会过度布置照明，而这两艘却没有配备任何外部灯光。甚至你会感觉，它"
+"们仿佛在吞噬周遭的光线……你无法确定它们是否已经发现了你，但能隐约感知到，它们"
+"正在彼此交流。"
 
 #: src-en/data/events_deepone.xml:1484
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/text"
-msgstr ""
+msgstr "靠近这两艘飞船。"
 
 #: src-en/data/events_deepone.xml:1486
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/text"
 msgstr ""
+"你还没来得及真正行动，其中一艘神秘的深潜者飞船就发生了剧烈爆炸；与此同时，另"
+"一艘瞬间跃迁离开了信标区域。裂口从第一艘飞船的船体破开处，一团黑雾疯狂喷涌而"
+"出，你的飞船很快被彻底的黑暗吞噬……舱内伸手不见五指，什么都看不见。即便如此，"
+"你仍有机会在一切太迟之前，找到那艘离去的飞船。"
 
 #: src-en/data/events_deepone.xml:1491
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（启蒙者船员）让你麾下的启蒙者余烬教徒引领你穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1493
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"你那位启蒙者教徒早已对环绕着你的黑暗熟稔于心，他成功穿透黑暗，精准定位到了那"
+"艘怪异飞船的位置。抵达后，你勉强能分辨出它的轮廓以完成对接，同时也清楚意识到"
+"，船体的受损程度极为惨重。倘若船上仍有生还者，你能用来营救他们的时间已然所剩"
+"无几。"
 
 #: src-en/data/events_deepone.xml:1495
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1501
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）让烙疤者引领你穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1503
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"烙疤者对笼罩着你的黑暗极为熟悉，成功穿透黑暗，精准锁定了那艘怪异飞船的位置。"
+"抵达后，你勉强能分辨出船体轮廓以完成对接，同时也清楚察觉到，舰体受损程度极其"
+"严重。若船上仍有生还者，你用来营救他们的时间大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1505
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"unique_thescarred\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1511
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（天选船员）让你的天选者引领你穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1513
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"你的天选者对笼罩你的黑暗了如指掌，成功穿透黑暗，精准锁定了那艘诡异飞船的方位"
+"。抵达目标后，你足以看清船体轮廓以完成对接，同时也能明确判断出，舰体受损程度"
+"极为惨重。若船上仍有幸存者，你能用来营救他们的时间，大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1515
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"dddeepone_chosen\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1521
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族成员引领你穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1523
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
+"你的蛞蝓族船员能够读取周遭生灵的意念，凭借这种能力，它成功捕捉到了感应信号，"
+"精准锁定了那艘怪异飞船的位置。抵达目标后，你足以分辨出船体轮廓以完成对接，同"
+"时也能清楚判定，舰体的受损程度极为惨重。若船上仍有幸存者，你能够用来营救他们"
+"的时间，大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1525
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1531
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr ""
+msgstr "（心灵感应甲壳族）让你的甲壳族引领你穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1533
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
+"你的甲壳族能够读取附近生灵的思维，它成功捕捉到意念信号，精准锁定了那艘怪异飞"
+"船的位置。抵达后，你足以分辨出船体轮廓以完成对接，同时也能察觉到其舰体受损极"
+"为严重。若船上仍有幸存者，你能用来营救他们的时间大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1535
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1541
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/text"
-msgstr ""
+msgstr "（生命扫描仪）让你的生命体扫描仪为你指引方向，穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1543
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/text"
 msgstr ""
+"你的生命扫描仪可以定位附近的生命体，它成功捕捉到读数，精准锁定了那艘怪异飞船"
+"的位置。抵达后，你足以分辨出船体轮廓以完成对接，同时也能确定其船体受损极为严"
+"重。如果船上还有幸存者，你用来营救他们的时间大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1545
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1551
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "（先进传感器）让你的传感器为你指引方向，穿越这片黑暗。"
 
 #: src-en/data/events_deepone.xml:1553
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"sensors\"]/event/text"
 msgstr ""
+"尽管你的传感器性能强劲，却也只能勉强捕捉到信号，精准定位到那艘怪异飞船的位置"
+"。抵达目标后，你勉强能分辨出船体轮廓以完成对接，同时也能察觉其船体受损程度极"
+"为惨重。若船上仍有幸存者，你能够用来营救他们的时间，大概率已经所剩无几。"
 
 #: src-en/data/events_deepone.xml:1555
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[@req=\"sensors\"]/event/choice/text"
-msgstr ""
+msgstr "快!"
 
 #: src-en/data/events_deepone.xml:1561
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[8]/text"
-msgstr ""
+msgstr "尽力在黑暗中摸索前行。"
 
 #: src-en/data/events_deepone.xml:1565
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "去他的，原地不动。"
 
 #: src-en/data/events_deepone.xml:1567
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[1]/event/choice[9]/event/text"
 msgstr ""
+"天知道外面究竟发生了什么，也不知道你无意间撞进了一场怎样的交涉。你只求原地待"
+"命，等待超光速引擎完成充能，同时确保自己不会在这片非自然的黑暗云雾中盲目飞行"
+"，撞上任何物体。"
 
 #: src-en/data/events_deepone.xml:1569
 msgid ""
@@ -2086,12 +2429,13 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:1581
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[2]/text"
-msgstr ""
+msgstr "保持独处，不予理会。"
 
 #: src-en/data/events_deepone.xml:1583
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_CHOSENESCAPE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你有什么资格擅自介入陌生飞船之间的往来？更何况，这些飞船本身就让你毛骨悚然……"
+"你只想在超光速引擎充能期间安分守己，不与任何人产生交集。"
 
 #: src-en/data/events_deepone.xml:1585
 msgid ""
@@ -2107,16 +2451,29 @@ msgstr "跳过。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/text"
 msgstr ""
+"你抬高了出价，人群瞬间鸦雀无声…… 这真的就是你胜出所需的全部代价吗？拍卖师高声"
+"喊道：“现在出价 65 废料！一次！两次！” 人群仍在震惊中保持沉默，某处传来法槌敲"
+"响的声音：“成交！由联邦军官以 65 单位废料拍下！” 人群中爆发出兴奋的低语，你被"
+"引到台前，随后带去后台的一间密室。片刻后，拍卖师走了进来，身后拖着一个笼子，"
+"你终于能第一次仔细看清它 —— 这笼子无比巨大，你确信自己能听见里面传来一种怪异"
+"、微弱，还带着几分湿黏的声响。你也看清了拍卖师的模样：一个身材矮小、佝偻着背"
+"的男人，身着黑色长袍，脖子上挂着一枚吊坠，你认出上面的符号，和外面那些神秘飞"
+"船上的诡异印记一模一样。他转向你，开口问道：“那么，你用废料现付，还是记账？”"
 
 #: src-en/data/events_deepone.xml:1611
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1613
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"这名黑袍男子察觉到长老现身，猛地一惊，随即双膝跪地、俯首低头：“长、长老，不是"
+"您看到的那样！我们只是……呃……以风暴之主的名义筹措资金长老看向那只笼子，嗤笑一"
+"声：“我说过可以给你多余的幼体另寻安置之处，可没让你把它们放到民用飞船上，你这"
+"个蠢货。你该庆幸我没有把你这阴险的小虫直接碾死。”男子伏得更低，语无伦次地开始"
+"求饶。"
 
 #: src-en/data/events_deepone.xml:1615
 msgid ""
@@ -2127,66 +2484,98 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼：“这些幼体我要没收。要是再让我抓到你兜售风暴之主的恩赐，下次我"
+"绝不会有半分留情。”他一掌拍在笼子上，笼子应声碎裂，一只风暴降生幼体显露出来。"
+"长老转向你：“走吧，我们在这儿浪费的时间够多了。”你和他一同离开房间，那只幼体"
+"紧随在他身后。一路返回飞船的途中，人群全程用难以置信的目光打量着你和你的随行"
+"一行人。"
 
 #: src-en/data/events_deepone.xml:1624
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[2]/text"
-msgstr ""
+msgstr "现款！"
 
 #: src-en/data/events_deepone.xml:1626
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[2]/event/text"
 msgstr ""
+"你让船员搬来了那65 单位废料，黑袍男子兴奋地清点着。全部核对无误后，他再次转向"
+"你：“很好，钱款全数到账。我会让手下把这玩意儿运到你的飞船上。总算能甩掉这个麻"
+"烦了，它一直闹得天翻地覆…… 毕竟，呃，毕竟它会吃人。” 你有那么一瞬以为他在开玩"
+"笑，但很快就发现，他脸上的神情无比认真。"
 
 #: src-en/data/events_deepone.xml:1631
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1637
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[3]/text"
-msgstr ""
+msgstr "记账！"
 
 #: src-en/data/events_deepone.xml:1639
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[3]/event/text"
 msgstr ""
+"这里根本就不存在什么废料记账赊账的说法，你让船员搬来了那65单位废料。黑袍男子"
+"兴奋地清点完毕，确认数额无误后，再次转向你：“很好，款项全部结清。我这就吩咐手"
+"下把这东西推到你的飞船上。总算能把这个麻烦处理掉了，它一直闹得鸡犬不宁……毕竟"
+"，呃，毕竟它会吃人。”你一度以为他在开玩笑，可很快便发现，他脸上的表情没有半分"
+"开玩笑的意思。"
 
 #: src-en/data/events_deepone.xml:1644
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_LUCKY\"]/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实买不起这个。"
 
 #: src-en/data/events_deepone.xml:1656
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/text"
 msgstr ""
+"人群先是陷入片刻寂静，随即一位衣着格外考究的男子干脆利落地举起手：\n"
+"“我来结束这场竞拍。200。”\n"
+"竞拍者们顿时一片哗然，拍卖师也瞪大了双眼。200！这位穿黑色西装的慷慨先生出价20"
+"0！200一次，200两次……”就这样了吗？"
 
 #: src-en/data/events_deepone.xml:1662
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/text"
-msgstr ""
+msgstr "狠狠踩下脚，将出价抬高到205。"
 
 #: src-en/data/events_deepone.xml:1664
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/text"
 msgstr ""
+"你跺脚的声响在整间厅堂里回荡，人群里所有人都转头看向你。就连刚才那位出价者也"
+"面露惊愕，可他再也没有举手。拍卖师再度亢奋地高声喊道，有人出价205！一次！两次"
+"！人群在震惊中保持死寂，随后某处响起法槌落定的声音，成交！由慷慨的联邦军官以2"
+"05单位废料拍下！人群中立刻响起兴奋的窃窃私语，你被引至台前，随后带去后台的私"
+"密房间。片刻后，拍卖师拖着笼子走进来，你这才第一次仔细看清它——笼子硕大无比，"
+"你分明能听见里面传出一阵怪异、微弱，还带着几分湿黏的声响。你也看清了拍卖师的"
+"模样：一个身材矮小、佝偻身躯的男子，身着黑色长袍。他脖颈上挂着一枚吊坠，你一"
+"眼认出，上面的诡异符号和外面那些神秘飞船上的印记完全一致。他转向你，开口问道"
+"，那么，付现还是记账？”"
 
 #: src-en/data/events_deepone.xml:1666
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1668
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"这名黑袍男子察觉到长老现身，猛地一惊，随即双膝跪地、俯首低头：“长、长老，不是"
+"您看到的那样！我们只是……呃……以风暴之主的名义筹措资金长老看向那只笼子，嗤笑一"
+"声：“我说过可以给你多余的幼体另寻安置之处，可没让你把它们放到民用飞船上，你这"
+"个蠢货。你该庆幸我没有把你这阴险的小虫直接碾死。”男子伏得更低，语无伦次地开始"
+"求饶。"
 
 #: src-en/data/events_deepone.xml:1670
 msgid ""
@@ -2197,86 +2586,131 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼：“这些幼体我要没收。要是再让我抓到你兜售风暴之主的恩赐，下次我"
+"绝不会有半分留情。”他一掌拍在笼子上，笼子应声碎裂，一只风暴降生幼体显露出来。"
+"长老转向你：“走吧，我们在这儿浪费的时间够多了。”你和他一同离开房间，那只幼体"
+"紧随在他身后。一路返回飞船的途中，人群全程用难以置信的目光打量着你和你的随行"
+"一行人。"
 
 #: src-en/data/events_deepone.xml:1679
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "现款！"
 
 #: src-en/data/events_deepone.xml:1681
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你让船员搬来了205单位废料，黑袍男子兴奋地清点着。全部清点核对完毕后，他再次转"
+"向你：“很好，钱款都齐了。我这就吩咐手下把这东西推到你的飞船上。总算能甩掉这个"
+"麻烦了，它一直闹得鸡犬不宁……毕竟，呃，毕竟它会吃人。”你有一瞬间以为他在开玩笑"
+"，但很快就发现，他脸上的神情无比严肃。"
 
 #: src-en/data/events_deepone.xml:1686
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1692
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "记账！"
 
 #: src-en/data/events_deepone.xml:1694
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"这里根本就没有废料赊账这一说，不过你已经让船员把205单位废料搬了过来。黑袍男子"
+"兴奋地清点，待全部核对清楚后，又一次转向你：“很好，钱款都到齐了。我这就吩咐手"
+"下把这玩意儿推到你的飞船上。总算能把这个麻烦处理掉，它一直闹得天翻地覆……毕竟"
+"，呃，毕竟它会吃人。”你有那么一刻以为他在开玩笑，可很快就发现，他脸上的表情没"
+"有半点玩笑的意思。"
 
 #: src-en/data/events_deepone.xml:1699
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1705
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实买不起这个。"
 
 #: src-en/data/events_deepone.xml:1711
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW_STEADY_UNLUCKY\"]/choice[2]/text"
-msgstr ""
+msgstr "咬紧牙关，一言不发。"
 
 #: src-en/data/events_deepone.xml:1717
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/text"
 msgstr ""
+"你找到一处为数不多的空泊位停靠飞船，和船员顺利进入前哨站，一路无人打扰。站内"
+"空间并不算宽敞，很快就看见深处聚集着一大群人。走近后，你看到人群中央站着一名"
+"男子，他绕着一个罩着布的笼子高声喊话：“既然各位都清楚这件拍品的分量了……那么，"
+"有出价的吗？起拍价只要区区5单位废料！”\n"
+"原来这里是一场拍卖会。人群里立刻有人纷纷举手，喊出各自的价格：\n"
+"“10！”\n"
+"“我出15！”\n"
+"“那简单，我出20！”\n"
+"“我加到25！”\n"
+"场面有条不紊地推进，中间出现了一段短暂的沉默，刚好给了你开口竞价的机会。"
 
 #: src-en/data/events_deepone.xml:1729
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/text"
-msgstr ""
+msgstr "你抬价喊出：30！"
 
 #: src-en/data/events_deepone.xml:1731
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/text"
 msgstr ""
+"你报出价格后，站在人群中央高台上的男子看向你：“哦，联邦的人！本来没指望会有你"
+"们这类买家到场，不过……只要你不是来查抄我们的就好！行，那就30！有没有人加价到3"
+"5？”\n"
+"又有几只手瞬间举了起来：\n"
+"“我……我出35吧。”\n"
+"“40！40！”\n"
+"“我快没预算了，不过……不管了，50！”\n"
+"“60怎么样？！”\n"
+"竞价就这么直接翻了倍，人群里的人都震惊地低声议论起来。"
 
 #: src-en/data/events_deepone.xml:1743
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "保持冷静，加价到65。"
 
 #: src-en/data/events_deepone.xml:1747
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "给他们来个惊艳绝杀，直接加价到120。"
 
 #: src-en/data/events_deepone.xml:1749
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"人群全都震惊地转向你，拍卖师得意地高声喊道：“有人出价120！一次！两次！”人群在"
+"震惊中鸦雀无声，随即某处响起法槌敲击的声音：“成交！由慷慨的联邦军官以120单位"
+"废料拍下！”人群中随即响起兴奋的窃窃私语，你被引到前方，随后带去后台的一间私密"
+"房间。片刻后，拍卖师拖着笼子走了进来，你这才第一次仔细看清这个笼子……它体积异"
+"常庞大，你分明听见里面传出一阵怪异、微弱、近乎湿黏的声响。你也看清了拍卖师的"
+"样貌：一个身材矮小、佝偻着身子的男人，身着黑色长袍。他脖子上挂着一枚吊坠，你"
+"认出上面的诡异符号，和外面那些神秘飞船上的图案一模一样。他转向你，开口问道：“"
+"那么，付现还是记账？”"
 
 #: src-en/data/events_deepone.xml:1751
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1753
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"黑袍男子察觉到长老现身，猛地一惊，随即双膝跪倒在地，低下头：“长、长老，事情不"
+"是您看到的那样！我们只是……呃……以风暴之主的名义筹措资金！”长老瞥向笼子，嗤笑一"
+"声：“我让你给多余的幼崽另寻安置之处，没叫你把它们弄到民用飞船上，你这个蠢货。"
+"你该庆幸我没把你这阴险的小虫直接碾死。”男子伏得更低，开始语无伦次地求饶。"
 
 #: src-en/data/events_deepone.xml:1755
 msgid ""
@@ -2287,21 +2721,30 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼，说道：“这些幼体我全部没收。要是再让我抓到你兜售风暴之主的恩赐"
+"，下次我绝不会有半分情面可讲。”他一掌重击在笼子上，笼子瞬间碎裂，一只风暴降生"
+"幼体显露出来。长老转向你：“走吧，我们在这儿浪费的时间已经够多了。”你和他一同"
+"离开房间，那只幼体紧随在他的身影之后。在返回飞船的全程中，人群都用难以置信的"
+"目光，盯着你和你的随行一行人。"
 
 #: src-en/data/events_deepone.xml:1764
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "现金！"
 
 #: src-en/data/events_deepone.xml:1766
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"你让船员把120单位废料搬了过来，黑袍男子兴奋地清点着。全部清点核对完毕后，他再"
+"次转向你：“很好，款项都齐了。我这就吩咐手下把这东西推到你的飞船上。总算能甩掉"
+"这个麻烦了，它一直闹得鸡犬不宁……毕竟，呃，毕竟它会吃人。”你有一瞬间以为他在开"
+"玩笑，但很快就发现，他脸上的神情无比严肃。"
 
 #: src-en/data/events_deepone.xml:1771
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1777
 msgid ""
@@ -2316,12 +2759,12 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1784
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1790
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_LOW\"]/choice[1]/event/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实我根本付不起。"
 
 #: src-en/data/events_deepone.xml:1796
 msgid ""
@@ -2341,12 +2784,16 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1815
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1817
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"黑袍男子察觉到长老现身，猛地一惊，随即双膝跪倒在地，低下头：“长、长老，事情不"
+"是您看到的那样！我们只是……呃……以风暴之主的名义筹措资金！”长老瞥向笼子，嗤笑一"
+"声：“我让你给多余的幼崽另寻安置之处，没叫你把它们弄到民用飞船上，你这个蠢货。"
+"你该庆幸我没把你这阴险的小虫直接碾死。”男子伏得更低，开始语无伦次地求饶。"
 
 #: src-en/data/events_deepone.xml:1819
 msgid ""
@@ -2357,6 +2804,11 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼，说道：“这些幼体我全部没收。要是再让我抓到你兜售风暴之主的恩赐"
+"，下次我绝不会有半分情面可讲。”他一掌重击在笼子上，笼子瞬间碎裂，一只风暴降生"
+"幼体显露出来。长老转向你：“走吧，我们在这儿浪费的时间已经够多了。”你和他一同"
+"离开房间，那只幼体紧随在他的身影之后。在返回飞船的全程中，人群都用难以置信的"
+"目光，盯着你和你的随行一行人。"
 
 #: src-en/data/events_deepone.xml:1828
 msgid ""
@@ -2371,7 +2823,7 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1835
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1841
 msgid ""
@@ -2386,12 +2838,12 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1848
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1854
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_LUCKY\"]/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实我根本付不起。"
 
 #: src-en/data/events_deepone.xml:1860
 msgid ""
@@ -2411,12 +2863,16 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1870
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1872
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"黑袍男子察觉到长老现身，猛地一惊，随即双膝跪倒在地，低下头：“长、长老，事情不"
+"是您看到的那样！我们只是……呃……以风暴之主的名义筹措资金！”长老瞥向笼子，嗤笑一"
+"声：“我让你给多余的幼崽另寻安置之处，没叫你把它们弄到民用飞船上，你这个蠢货。"
+"你该庆幸我没把你这阴险的小虫直接碾死。”男子伏得更低，开始语无伦次地求饶。"
 
 #: src-en/data/events_deepone.xml:1874
 msgid ""
@@ -2427,6 +2883,11 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼，说道：“这些幼体我全部没收。要是再让我抓到你兜售风暴之主的恩赐"
+"，下次我绝不会有半分情面可讲。”他一掌重击在笼子上，笼子瞬间碎裂，一只风暴降生"
+"幼体显露出来。长老转向你：“走吧，我们在这儿浪费的时间已经够多了。”你和他一同"
+"离开房间，那只幼体紧随在他的身影之后。在返回飞船的全程中，人群都用难以置信的"
+"目光，盯着你和你的随行一行人。"
 
 #: src-en/data/events_deepone.xml:1883
 msgid ""
@@ -2441,7 +2902,7 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1890
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1896
 msgid ""
@@ -2456,57 +2917,87 @@ msgstr ""
 #: src-en/data/events_deepone.xml:1903
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1909
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实我根本付不起。"
 
 #: src-en/data/events_deepone.xml:1915
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH_STEADY_UNLUCKY\"]/choice[2]/text"
-msgstr ""
+msgstr "咬紧牙关，一言不发。"
 
 #: src-en/data/events_deepone.xml:1921
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/text"
 msgstr ""
+"你报出价格后，站在人群中央高台上的男子看向你：“哦，联邦的人！本来没指望会有你"
+"们这类买家到场，不过……只要你不是来查抄我们的就好！行，那就30！有没有人加价到3"
+"5？”\n"
+"又有几只手瞬间举了起来：\n"
+"“我……我出35吧。”\n"
+"“40！40！”\n"
+"“我快没预算了，不过……不管了，50！”\n"
+"“60怎么样？！”\n"
+"竞价就这么直接翻了倍，人群里的人都震惊地低声议论起来。"
 
 #: src-en/data/events_deepone.xml:1933
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/text"
-msgstr ""
+msgstr "保持冷静，加价到65。"
 
 #: src-en/data/events_deepone.xml:1935
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/text"
 msgstr ""
+"你报出价格，站在人群中央高台上的男子看向你：“哦，是联邦的人！本来没料到会是你"
+"们这类买家，不过……只要你不是来查抄我们的就好！行，那就65！还有人加价到70吗？"
+"！”\n"
+"又有几只手瞬间举了起来：\n"
+"- “我……我可以出70……”\n"
+"- “管他呢，100！”\n"
+"- “你疯了吗？！”\n"
+"- “你觉得这就算疯？150！”\n"
+"竞价就这样直接翻了一倍还多，人群里满是震惊的窃窃私语。"
 
 #: src-en/data/events_deepone.xml:1947
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "保持冷静，加价到155。"
 
 #: src-en/data/events_deepone.xml:1951
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "给他们来个惊艳绝杀，直接加价到250。"
 
 #: src-en/data/events_deepone.xml:1953
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"人群全都震惊地看向你，拍卖师得意地大喊：“有人出价250！一次，两次……”人群在震惊"
+"中陷入沉默，随即某处响起了法槌的敲击声：“成交！由这位慷慨的联邦军官以250单位"
+"废料拍下！”人群里顿时响起此起彼伏的兴奋低语，你被引到台前，随后又被带去后台的"
+"一间密室。片刻之后，拍卖师拖着笼子走了进来，你这才第一次仔细看清它……笼子无比"
+"庞大，你分明能听见笼内传来一阵怪异、微弱、近乎湿黏的声响。你也看清了拍卖师的"
+"样貌：一个身材矮小、脊背佝偻的男人，身着黑色长袍。他颈间挂着一枚吊坠，你认出"
+"上面的诡异符号，和外面那些神秘飞船上的图案完全一致。他转向你，问道：“那么，付"
+"现还是记账？”"
 
 #: src-en/data/events_deepone.xml:1955
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）长老清了清嗓子。"
 
 #: src-en/data/events_deepone.xml:1957
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/event/text"
 msgstr ""
+"黑袍男子察觉到长老现身，猛地一惊，随即双膝跪倒在地，低下头：“长、长老，事情不"
+"是您看到的那样！我们只是……呃……以风暴之主的名义筹措资金！”长老瞥向笼子，嗤笑一"
+"声：“我让你给多余的幼崽另寻安置之处，没叫你把它们弄到民用飞船上，你这个蠢货。"
+"你该庆幸我没把你这阴险的小虫直接碾死。”男子伏得更低，开始语无伦次地求饶。"
 
 #: src-en/data/events_deepone.xml:1959
 msgid ""
@@ -2517,103 +3008,138 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[@req=\"ddunique_theminister\"]/event/choice/event/text"
 msgstr ""
+"长老翻了个白眼，说道：“这些幼体我全部没收。要是再让我抓到你兜售风暴之主的恩赐"
+"，下次我绝不会有半分情面可讲。”他一掌重击在笼子上，笼子瞬间碎裂，一只风暴降生"
+"幼体显露出来。长老转向你：“走吧，我们在这儿浪费的时间已经够多了。”你和他一同"
+"离开房间，那只幼体紧随在他的身影之后。在返回飞船的全程中，人群都用难以置信的"
+"目光，盯着你和你的随行一行人。"
 
 #: src-en/data/events_deepone.xml:1968
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "现金！"
 
 #: src-en/data/events_deepone.xml:1970
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"你让船员把250单位废料搬了进来，黑袍男子兴奋地清点着。所有款项核对无误后，他再"
+"次转向你：“很好，钱都到齐了。我这就吩咐手下把这东西推到你的飞船上。总算能甩掉"
+"这个麻烦了，它一直闹得鸡犬不宁……毕竟，呃，它还会吃人。”你有一瞬间以为他在开玩"
+"笑，但很快就发现，他脸上的表情没有丝毫玩笑的意思。"
 
 #: src-en/data/events_deepone.xml:1975
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1981
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "记账！"
 
 #: src-en/data/events_deepone.xml:1983
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"这里根本不存在废料赊账这一说，不过你已经让船员把250单位废料搬了进来。黑袍男子"
+"兴奋地清点，待所有数目核对清楚后，他再次转向你：“很好，钱款都齐了。我这就吩咐"
+"手下把这玩意儿推到你的飞船上。总算能甩掉这个麻烦了，它一直闹得天翻地覆……毕竟"
+"，呃，它还会吃人。”你有那么一刻以为他在开玩笑，可很快就意识到，他脸上的神情没"
+"有半点戏谑，无比严肃。"
 
 #: src-en/data/events_deepone.xml:1988
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "额... 吃人?"
 
 #: src-en/data/events_deepone.xml:1994
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "我……呃……其实我根本付不起。"
 
 #: src-en/data/events_deepone.xml:2000
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "怂了吧，这太多了。"
 
 #: src-en/data/events_deepone.xml:2006
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_BIDSTART_HIGH\"]/choice[2]/text"
-msgstr ""
+msgstr "你对这场拍卖没什么兴趣，离开这里。"
 
 #: src-en/data/events_deepone.xml:2012
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/text"
 msgstr ""
+"他点了点头，面露疲惫：“是啊，这些造物有时候真的很麻烦。上头的那位大人物不断送"
+"来，我们也就一直收下，但到了一定程度，船上能安置的数量终究有限。好在‘之手’那"
+"边不介意我们，呃，把它们‘送’出去。这场拍卖我们一直做得很低调，可……信徒总得想"
+"办法维持开销。”造物？上头的大人物？“之手”？信徒？？返回飞船的路上你一言不发，"
+"心里不断思忖，自己拍下的到底是个什么东西……"
 
 #: src-en/data/events_deepone.xml:2014
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/text"
-msgstr ""
+msgstr "你在飞船上等候属于你的拍品送达。"
 
 #: src-en/data/events_deepone.xml:2016
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/event/text"
 msgstr ""
+"没过多久，同样身着长袍的几个人就抬着那个怪异的笼子来到了你的飞船。他们把笼子"
+"丢进货舱，动作匆忙，你还没来得及说上一句话，几人就匆匆退了出去。此刻只剩你和"
+"笼子独处，你也更清晰地分辨出之前听到的声响……里面毫无疑问关着活物。"
 
 #: src-en/data/events_deepone.xml:2018
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/event/choice/text"
-msgstr ""
+msgstr "你伸手掀开笼罩在笼子上的布罩。"
 
 #: src-en/data/events_deepone.xml:2020
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/event/choice/event/text"
 msgstr ""
+"布罩被彻底掀开，笼中的景象毫无保留地展现在你眼前。笼内的东西并非你预想的外星"
+"野兽或是怪异机械，而是一团不断轻微蠕动、体表泛着黏腻暗光的肉质躯体，轮廓扭曲"
+"难辨，数根纤细又不断抽动的触须从主体延伸出来，在金属笼条上轻轻刮擦，之前那湿"
+"黏诡异的声响，正是它蠕动、摩擦笼身发出的。它察觉到光线与你的存在，动作骤然顿"
+"了一瞬，随即发出一阵低沉、非人的细碎嗡鸣，体表的褶皱有节奏地起伏，一股淡淡的"
+"、带着腥气的异星气味漫开在货舱里。你能清晰感受到它的视线——哪怕找不到明确的眼"
+"状器官，也能确定这活物正牢牢锁定着你，没有任何攻击性的扑击动作，却透着一种远"
+"超普通野兽的、令人脊背发寒的诡异意识。"
 
 #: src-en/data/events_deepone.xml:2023
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:2025
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_WINNINGS\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"……它移开了原本挤压着你的那面笼栏，然后毫无恶意地爬走了。说“移开”其实过于轻描"
+"淡写；它干脆把笼条拖进自己的躯体里，直接吞噬了它们。这个怪异的东西缓慢却笃定"
+"地离开了房间，只留下你瘫在地上大口喘气。你根本不知道自己刚刚在飞船上放出了什"
+"么可怕的东西，但至少它看上去站在你这边。越多越好，是吗……？"
 
 #: src-en/data/events_deepone.xml:2037
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/text"
-msgstr "那艘船四分五裂，你迅速回收了你能找到的东西。"
+msgstr ""
+"那艘船四分五裂，你迅速回收了你能找到的东西。你却发现那个笼子居然在损毁中幸存"
+"下来，看上去完好无损……没错，笼子里的东西依旧在发出那种湿黏的声响。"
 
 #: src-en/data/events_deepone.xml:2040
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/destroyed/choice/text"
-msgstr ""
+msgstr "凑近仔细查看这个笼子。"
 
 #: src-en/data/events_deepone.xml:2045
-#, fuzzy
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT\"]/deadCrew/text"
-msgstr "敌方船员尽数死亡，你迅速回收了你能找到的东西。"
+msgstr "敌方船员尽数死亡，可以放心地从他们的飞船里把笼子偷回来……没错，里面的东西依旧"
+"在发出那种湿黏的声响。"
 
 #: src-en/data/events_deepone.xml:2048
 msgid ""
@@ -2624,56 +3150,81 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN_MONSTERGAMBLE_LUCKY\"]/text"
 msgstr ""
+"就在你动手要揭开笼罩的刹那，笼子骤然碎裂，令你大惊失色，其中一面笼壁径直砸向"
+"你。你短暂陷入晕眩，随即发觉自己被死死压在地板上……而俯视着你的，正是原本关在"
+"笼中的怪物。那是一团无法形容、骇人至极的聚合体，布满触须、眼球与利齿，高高耸"
+"立在你上方，无数巨颚大张。这畸形的怪物发出咆哮，震得你双耳嗡鸣，它顺着你的双"
+"腿爬上来，压过你的躯干，朝你的头颅逼近……"
 
 #: src-en/data/events_deepone.xml:2064
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN_MONSTERGAMBLE_LUCKY\"]/choice/text"
-msgstr ""
+msgstr "尖叫。"
 
 #: src-en/data/events_deepone.xml:2066
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN_MONSTERGAMBLE_LUCKY\"]/choice/event/text"
 msgstr ""
+"……它移开了压住你的那面笼栏，接着毫无恶意地爬走了。用“移开”来形容实在太过轻描"
+"淡写，它竟是直接将笼条拖入自身躯体，将其吞噬殆尽。这个怪异的生物缓慢却坚定地"
+"离开了房间，只留你瘫在地上大口喘息。你根本无从知晓自己刚刚在飞船上放出了什么"
+"可怕的东西，但至少它看上去站在你这边。或许，帮手越多越好……？"
 
 #: src-en/data/events_deepone.xml:2073
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN_MONSTERGAMBLE_UNLUCKY\"]/text"
 msgstr ""
+"就在你准备揭开笼罩时，笼子骤然碎裂，你大惊失色，险之又险地侧身躲开，笼壁险些"
+"将你砸中。你抬眼望去，原本困在笼中的生物正居高临下地盯着你……那是一团无法形容"
+"、恐怖骇人的聚合体，布满触须、眼球与利齿，高高耸立在你面前，无数巨颚大张。这"
+"畸形的怪物发出嗜血的咆哮，在它发起扑击的瞬间，你狂奔着逃出了房间！"
 
 #: src-en/data/events_deepone.xml:2079
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/text"
 msgstr ""
+"你紧张地意识到，自己居然能辨认出这东西此刻发出的声响。这些声音即便不算完全相"
+"同，也会让你立刻联想到刚刚被你击败的其中一只怪物发出的恶心咕噜声……"
 
 #: src-en/data/events_deepone.xml:2081
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "你强压下心底的恐惧，伸手掀开了笼子的罩布。"
 
 #: src-en/data/events_deepone.xml:2085
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "你将笼子推出气闸，宁可谨慎万全，也不冒任何风险。"
 
 #: src-en/data/events_deepone.xml:2087
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS_FIGHT_WIN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你把笼子推到气闸处，里面湿黏的声响一刻也没停过，随后顺利将它排到舱外。一场危"
+"机无疑就此化解。"
 
 #: src-en/data/events_deepone.xml:2093
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/text"
-msgstr ""
+msgstr "黑袍男子眨了眨眼：“你……什么？那你当初为什么还要竞拍它？”他双手抱头，懊恼自己"
+"浪费了时间，而你意识到，机会来了……"
 
 #: src-en/data/events_deepone.xml:2095
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[1]/text"
-msgstr ""
+msgstr "趁他分神懊恼之际，你一拳狠狠砸向这名男子。"
 
 #: src-en/data/events_deepone.xml:2097
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[1]/event/text"
 msgstr ""
+"你一拳正中他的头部，他应声倒在地板上，不省人事。时间紧迫，你拖着笼子快步冲出"
+"房间，可没跑多远，就被另一个身着同款长袍的人撞见。对方立刻明白发生了什么，高"
+"声大喊：“站住！小偷！”\n"
+"周围的人群纷纷转头，脸上满是惊愕。你拼尽全力朝着自己的飞船狂奔，好在笼子装有"
+"滚轮，你赶在被人追上之前把它弄上了船，但危险远未结束。飞船升空的瞬间，先前留"
+"意到的一艘怪异舰船随即追来，数道闪电从对方船体射出，击中了你的飞船。\n"
+"你猛然反应过来，他们竟用传送手段把笼子传回了自己的船舱——想要夺回它，就只能一"
+"战。"
 
 #: src-en/data/events_deepone.xml:2100
 msgid ""
@@ -2683,17 +3234,23 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2106
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[2]/text"
-msgstr ""
+msgstr "住手。是我的错。"
 
 #: src-en/data/events_deepone.xml:2108
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FAILINGS\"]/choice[2]/event/text"
 msgstr ""
+"他抬起头，面露不耐：“那你能不能赶紧出去？你还待在这儿干什么？”他叹着气把你推"
+"出房间，你隐约听见他低声嘀咕了一句：“看来还得再办一场拍卖会……但愿这通乱子别让"
+"‘之手’察觉到……”\n"
+"“之手”？你不清楚他指的是谁，不过你可以一路琢磨着这个谜团，灰溜溜地返回飞船——"
+"两手空空。"
 
 #: src-en/data/events_deepone.xml:2114
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_CHICKENINGS\"]/text"
-msgstr ""
+msgstr "你可不想为了这事把自己搞到破产。返回飞船的一路平安无事，但在你准备离开信标站"
+"时，心底仍在揣测那个笼子里到底装着什么。"
 
 #: src-en/data/events_deepone.xml:2116
 msgid ""
@@ -2708,7 +3265,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2126
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_LEAVINGS\"]/text"
-msgstr ""
+msgstr "你不想为了参加一场拍卖会就倾家荡产。返回飞船的途中一切顺利，但在你准备离开信"
+"标站时，仍不禁好奇那个笼子里到底装着什么"
 
 #: src-en/data/events_deepone.xml:2128
 msgid ""
@@ -2743,37 +3301,49 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2157
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "击毁飞船、消灭那些异界生物后，你不禁思索起船上那些畸形怪物的诡异之处……那个前"
+"哨站里到底发生了什么？你心底一阵惶恐，恐怕这辈子都无从知晓了。"
 
 #: src-en/data/events_deepone.xml:2161
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/text"
 msgstr ""
+"踏入信标区域时，一道刺眼的强光逼得你抬手遮住双眼，而光源并非你预想中深渊潜者"
+"的照明装置。至少不全是：这里矗立着一座简易的临时前哨站，周遭停泊着数十艘飞船"
+"，其中确有部分属于深渊潜者的舰船，但以这片堪称它们核心领地的区域来看，数量远"
+"少于你的预期。"
 
 #: src-en/data/events_deepone.xml:2163
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/text"
-msgstr ""
+msgstr "进一步探查这座前哨站。"
 
 #: src-en/data/events_deepone.xml:2165
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/text"
 msgstr ""
+"前哨站射出几盏大得滑稽的探照灯，以固定规律不停扫动。你立刻压低飞船规避，免得"
+"再度被强光刺盲，同时凑近观察聚集在此的舰船……令你意外的是，这里绝大多数竟是联"
+"邦舰船。除此之外，还有深渊潜者的飞船，以及几艘你认得型号、却从未见过这般涂装"
+"与标识的外星飞船——船体通体漆黑，只在一侧绘有浅蓝色眼睛搭配闪电的标志。你的好"
+"奇心被彻底勾了起来。"
 
 #: src-en/data/events_deepone.xml:2167
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "看起来有点意思……停靠飞船，登上前哨站。"
 
 #: src-en/data/events_deepone.xml:2171
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "呵，现在我倒是想搞点破坏。袭击前哨站！"
 
 #: src-en/data/events_deepone.xml:2173
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"你朝着前哨站四周停泊的飞船开火，没过多久，先前留意到的那艘怪异飞船便引擎轰鸣"
+"、腾空而起。你当即掉头逃窜，可它还是在离前哨站不远的地方追了上来……准备迎战！"
 
 #: src-en/data/events_deepone.xml:2176
 msgid ""
@@ -2783,12 +3353,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2182
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "算了，其实我根本不在乎。无视这座前哨站。"
 
 #: src-en/data/events_deepone.xml:2184
 msgid ""
 "data/events_deepone.xml$//event[@name=\"ITEMS_DDDEEPONE_TEMPESTAUCTION\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "好奇心？狗屁好奇心。你一脸不爽地转身离开前哨站，准备驶离这片信标区域。"
 
 #: src-en/data/events_deepone.xml:2186
 msgid ""
@@ -2803,16 +3373,21 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2211
 msgid "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_GOOBER\"]/text"
 msgstr ""
+"你很快收到通讯请求，来者是个小个子深渊潜者，他喊道：“请看……古巴尔。”你看向古"
+"巴尔。他身材矮小敦实，而且格外……浑身发抖。是恐惧？是寒冷？鱼人也会打哆嗦吗？"
+"无论原因是什么，这个本就毫无威慑力的深渊潜者，此刻显得更加不堪一击。"
 
 #: src-en/data/events_deepone.xml:2214
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_GOOBER\"]/choice[1]/text"
-msgstr ""
+msgstr "啊，威能无边的古巴尔，我竭诚瞻仰您的全貌。您肯垂怜于我这卑微的魂魄吗？"
 
 #: src-en/data/events_deepone.xml:2216
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_GOOBER\"]/choice[1]/event/text"
 msgstr ""
+"“这家伙……说话跟鬼魂一样。不过，他倒是……把古巴尔捧得很高。古巴尔……大发慈悲。滚"
+"开吧，渺小的……东西。”古巴尔切断通讯，你别无他法，只能启动超光速引擎。"
 
 #: src-en/data/events_deepone.xml:2218
 msgid ""
@@ -2827,12 +3402,16 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2228
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_GOOBER\"]/choice[2]/text"
-msgstr ""
+msgstr "你就是个小……笨蛋，古巴尔。"
 
 #: src-en/data/events_deepone.xml:2230
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_GOOBER\"]/choice[2]/event/text"
 msgstr ""
+"他抖得更厉害了。再次开口时，他的声音不再低沉，甚至变得尖细：“天啊……我早就跟你"
+"们说过，我不是干这个的料……”他垂头丧气地走开，一个身形高大的新深潜者站到了他的"
+"位置。“你……惹恼了古巴尔。为这次冒犯付出的代价……就是你的项上人头。”对方切断通"
+"讯，一艘飞船骤然出现在视野中，炮口正在充能！"
 
 #: src-en/data/events_deepone.xml:2233
 msgid ""
@@ -2862,7 +3441,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2261
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_CALM\"]/destroyed/text"
-msgstr ""
+msgstr "飞船解体，你迅速打捞所有能抢救的物资，随后尝试追踪第二艘飞船。"
 
 #: src-en/data/events_deepone.xml:2264
 msgid ""
@@ -2872,7 +3451,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2269
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_CALM\"]/deadCrew/text"
-msgstr ""
+msgstr "船员全部阵亡，你迅速打捞一切可抢救的物资，随后尝试追踪第二艘飞船。"
 
 #: src-en/data/events_deepone.xml:2272
 msgid ""
@@ -2882,12 +3461,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2282
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_FANATIC_TIMED\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "若你未能在这段时间内击毁岩石战舰，第二艘战舰的信号就会彻底消失！"
 
 #: src-en/data/events_deepone.xml:2287
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_FANATIC_TIMED\"]/destroyed/text"
-msgstr ""
+msgstr "飞船解体，你迅速打捞所有能抢救的物资，随后尝试追踪第二艘飞船。"
 
 #: src-en/data/events_deepone.xml:2290
 msgid ""
@@ -2897,7 +3476,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2295
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_FANATIC_TIMED\"]/deadCrew/text"
-msgstr ""
+msgstr "船员全部阵亡，你迅速打捞一切可抢救的物资，随后尝试追踪第二艘飞船。"
 
 #: src-en/data/events_deepone.xml:2298
 msgid ""
@@ -2908,30 +3487,46 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_WIN_FANATIC\"]/text"
 msgstr ""
+"首艘飞船的覆灭并未让其动摇，第二艘飞船的通讯声响起：“那个家伙就是个蠢货。我确"
+"实得向上级交代一番，但即便如此，我仍要说你算是帮了我一个忙。拿着吧，这些照明"
+"设备归你了。这类东西我们有的是，而且这个蠢货闭了嘴，我说服同族认可这些设备的"
+"用途也不会有任何麻烦。”对方将照明设备传送过来，随即立刻离开了这个星系。"
 
 #: src-en/data/events_deepone.xml:2310
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_WIN_CALM_RUBBLE\"]/text"
 msgstr ""
+"你仔细搜寻残骸，最终发现那些照明设备完好无损！第一艘飞船的通讯器里传来像是觉"
+"得好笑的声音：“那家伙，真是愚蠢。竟然敢违背典籍，去不洁之物中寻求力量。联邦探"
+"员，你想要那些灯就拿走吧。我才不会想念它们那令人作呕的光。”对方切断通讯，随即"
+"离开了这个星系。"
 
 #: src-en/data/events_deepone.xml:2315
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_WIN_CALM_CREWKILL\"]/text"
 msgstr ""
+"你仔细搜查这艘现已空无一人的飞船，最终找到了那些完好无损的照明设备！第一艘飞"
+"船的驾驶者似乎觉得此事十分可笑，开口说道：“那家伙，真是愚蠢。竟敢违背典籍，妄"
+"图从邪恶污秽之物中汲取力量。联邦探员，你想要这些灯就尽管拿走。我才不会怀念它"
+"们那阴森可怖的光芒。”对方随即切断通讯，迅速驶离了这个星系。"
 
 #: src-en/data/events_deepone.xml:2320
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_FANATIC_TIMED_FAIL\"]/text"
 msgstr ""
+"第二艘飞船的信号已经完全消失。在确认同伴安全后，第一艘飞船朝相反方向逃逸。你"
+"明白无论如何都追不上第二艘飞船，继续追击毫无意义，于是准备离开这片信标区域。"
 
 #: src-en/data/events_deepone.xml:2326
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_FANATIC_TIMED_SUCCESS\"]/text"
-msgstr ""
+msgstr "第二艘飞船的信号依旧清晰可追踪！你在星图上记录下它们的坐标，满怀胜利地准备离"
+"开这片信标区域。"
 
 #: src-en/data/events_deepone.xml:2331
 msgid "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/text"
-msgstr ""
+msgstr "这个信标处停着两艘岩石族飞船，它们正在开放频道里通讯。完全没把你放在眼里，但"
+"你也可以毫无阻碍地窃听……"
 
 #: src-en/data/events_deepone.xml:2333
 msgid ""
@@ -2942,16 +3537,23 @@ msgstr "聆听。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/text"
 msgstr ""
+"“必须将它们尽数摧毁。这些长脚鱼怪的污秽造物，是最极致的亵渎！”一艘飞船说道，"
+"另一艘随即回应：“典籍里没有任何关于这些邪恶灯具的记载。它们虽污秽不堪，落入我"
+"们手中却自有妙用，尤其是用来对付深渊潜者。”他们发现你在窃听，第二艘飞船又开口"
+"：“那边的联邦飞船，你对这些灯具知道些什么？”"
 
 #: src-en/data/events_deepone.xml:2337
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "它们……是青蓝色的？"
 
 #: src-en/data/events_deepone.xml:2339
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“青蓝色？你视力有问题吗，联邦佬？它们明明是青绿色。我受够这些把戏了。先解决你"
+"，然后我们再商议毁掉这些可憎的灯具。”第一艘飞船转向你，武器开始充能！第二艘飞"
+"船似乎不想介入，但依旧留在附近。"
 
 #: src-en/data/events_deepone.xml:2342
 msgid ""
@@ -2961,12 +3563,16 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2348
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族）让你的岩石族人来回答。"
 
 #: src-en/data/events_deepone.xml:2350
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/text"
 msgstr ""
+"你的岩石族开口道：“这破东西能把人眼晃瞎，登这些……‘深渊潜者’的舰简直活受罪。”"
+"第二艘飞船对你的回答很满意，回应道：“哈，可不是嘛。真高兴不是只有我能看出它们"
+"的用处。听着，既然我这位……同伴执意要毁掉这些灯，我倒不介意让你把它们派上用场"
+"。当然，要付出点代价，不过我可以给你打折……我挺看好你。”"
 
 #: src-en/data/events_deepone.xml:2352
 msgid ""
@@ -2976,27 +3582,30 @@ msgstr "同意交易。"
 #: src-en/data/events_deepone.xml:2354
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "第一艘飞船在通讯器里低声抱怨了几句，但并未插手。灯具传送完毕、争执也已平息，"
+"两艘飞船逗留片刻后，跃迁离开了这个星系。"
 
 #: src-en/data/events_deepone.xml:2362
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/choice[2]/text"
-msgstr ""
+msgstr "拒绝这个提议。"
 
 #: src-en/data/events_deepone.xml:2364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“我懂了。这么说来，我还得继续听这蠢货絮絮叨叨了……”这番辱骂让第一艘飞船勃然大"
+"怒，两艘飞船再度吵作一团。事情就此作罢。"
 
 #: src-en/data/events_deepone.xml:2368
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/choice[3]/text"
-msgstr ""
+msgstr "“最划算的折扣就是免费。”发动攻击，从他们手中夺走那些灯具。"
 
 #: src-en/data/events_deepone.xml:2370
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_ROCK\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "“既然你要这么做？好啊，放马过来！”他们转向你，准备自卫。第一艘飞船似乎不想介"
+"入，但依旧留在附近。"
 
 #: src-en/data/events_deepone.xml:2373
 msgid ""
@@ -3006,12 +3615,17 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2381
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）让你的深渊潜者回话。"
 
 #: src-en/data/events_deepone.xml:2383
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你的深渊潜者对着那两个岩石族怒斥：“我们的技术……轮不到你们这种货色染指。窃贼……"
+"刽子手。”第二艘飞船嗤笑一声：“如今联邦居然收容深潜者了？看来是阿猫阿狗都能进"
+"了……解决掉他们。我们的争执稍后再了结。”第一艘飞船转向你，武器充能完毕，而第二"
+"艘飞船跃迁离开了星系。若是动作够快，你或许能追踪到它的超光速信号，从它手里夺"
+"走灯具！"
 
 #: src-en/data/events_deepone.xml:2386
 msgid ""
@@ -3021,12 +3635,14 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2392
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "所知不多。"
 
 #: src-en/data/events_deepone.xml:2394
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"“这么说来，你也没什么用。既然你没什么有价值的信息，我们就此告辞。我们可不需要"
+"窃听者。”两艘飞船跃迁离去，只留下你暗自好奇，他们最后到底谁吵赢了……"
 
 #: src-en/data/events_deepone.xml:2400
 #, fuzzy
@@ -3037,7 +3653,7 @@ msgstr "无视对方。"
 #: src-en/data/events_deepone.xml:2402
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你无视了那两艘飞船。你是来拯救宇宙的，不是来偷听岩石族闲言碎语的。"
 
 #: src-en/data/events_deepone.xml:2404
 msgid ""
@@ -3052,7 +3668,7 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2417
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_CHASE\"]/destroyed/text"
-msgstr ""
+msgstr "飞船解体了，你迅速打捞起一切可用物资。但愿那些灯具没有损毁……"
 
 #: src-en/data/events_deepone.xml:2420
 msgid ""
@@ -3062,7 +3678,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2425
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_NEUTRAL_DEEPONE_ROCKOFF_CHASE\"]/deadCrew/text"
-msgstr ""
+msgstr "船员全部阵亡，你迅速打捞起所有可用物资，随后开始寻找那些灯具。"
 
 #: src-en/data/events_deepone.xml:2428
 msgid ""
@@ -3072,17 +3688,21 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2435
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_WIN_CHASE_RUBBLE\"]/text"
-msgstr ""
+msgstr "你在残骸中找到了那些灯具，完好无损……要么是它们极度坚固，要么就是你运气绝佳。"
+"无论如何，你只希望这一切流血牺牲都值得，随即继续前行。"
 
 #: src-en/data/events_deepone.xml:2440
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_WIN_CHASE_CREWKILL\"]/text"
-msgstr ""
+msgstr "你在飞船货舱里找到了那些灯具，完好无损。它们在黑暗中散发着诱人的光芒……你只希"
+"望这一切流血与纷争都值得，随即继续前行。"
 
 #: src-en/data/events_deepone.xml:2445
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_ROCKOFF_CHASE\"]/text"
 msgstr ""
+"不出所料，第二艘岩石族飞船就在这个信标处。“你……居然追到这里来了？就这么想要这"
+"些灯？所谓的‘联邦’，真是狠毒。很好，那就开战！”他们切断了通讯。准备战斗。"
 
 #: src-en/data/events_deepone.xml:2448
 msgid ""
@@ -3092,61 +3712,82 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2467
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_SMALL\"]/text"
-msgstr ""
+msgstr "这里的确没什么有价值的东西……不过，免费的废料总归是免费的。"
 
 #: src-en/data/events_deepone.xml:2472
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_MEDIUM\"]/text"
-msgstr ""
+msgstr "虽说战利品算不上多得夸张，但你找到的物资还是比预想的要多上不少！"
 
 #: src-en/data/events_deepone.xml:2477
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_SOULPLAGUE\"]/text"
 msgstr ""
+"你在一艘艘飞船间穿行，尽可能打捞废料，这时一艘泛着奇异虹彩的飞船映入眼帘……检"
+"查其货物时，你发现了一件外形奇特、品相近乎完好的武器。在这片堪比太空垃圾场的"
+"地方，你本没指望能找到如此独特的东西，可你偏偏找到了！"
 
 #: src-en/data/events_deepone.xml:2481
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_SOULPLAGUE\"]/choice/text"
-msgstr ""
+msgstr "中头奖了!"
 
 #: src-en/data/events_deepone.xml:2483
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_SOULPLAGUE\"]/choice/event/text"
 msgstr ""
+"你带着新斩获的战利品登舰时，发现有某种黏液从物品上渗出。黏液啪嗒滴落在地板上"
+"，随即开始翻腾、冒泡，接着直立起来，化作人形。这是灵魂瘟疫。更多这类黏液怪物"
+"开始不断滋生，你意识到自己遇上大麻烦了。"
 
 #: src-en/data/events_deepone.xml:2491
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKWEAPON\"]/text"
 msgstr ""
+"你在一艘艘飞船之间穿梭，尽力打捞可用的废料，这时一艘破旧怪异的深渊潜者飞船映"
+"入眼帘……你检查了它的货舱，意外发现了一件外形奇特、状态近乎完好的武器。在这片"
+"堪比太空垃圾场的地方，你本没指望能找到如此独特的东西，可你还是如愿找到了！"
 
 #: src-en/data/events_deepone.xml:2495
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKWEAPON\"]/choice/text"
-msgstr ""
+msgstr "中头奖了!"
 
 #: src-en/data/events_deepone.xml:2497
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKWEAPON\"]/choice/event/text"
 msgstr ""
+"你带着新战利品登上飞船时，注意到有某种黑暗物质从它上面散发出来。这团黑暗凝聚"
+"在一起，最终在地板上形成了一团触手。接着一个又一个触手接连出现……这到底是什么"
+"诡异的东西？更多这类暗影生物开始不断滋生，你意识到自己遇上大麻烦了！"
 
 #: src-en/data/events_deepone.xml:2505
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKDRONE\"]/text"
 msgstr ""
+"你在一艘艘飞船间穿梭，尽可能回收废料，这时一艘造型怪异的水晶飞船吸引了你的目"
+"光……你检查了它的货舱，成功找到一台外形奇特、状态近乎完好的无人机。在这片堪比"
+"太空垃圾场的地方，你本没指望能找到如此独特的东西，可你还是找到了！"
 
 #: src-en/data/events_deepone.xml:2509
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKDRONE\"]/choice/text"
-msgstr ""
+msgstr "中头奖了!"
 
 #: src-en/data/events_deepone.xml:2511
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT_LOOT_LIST_JACKPOT_DARKDRONE\"]/choice/event/text"
 msgstr ""
+"你带着新战利品登上飞船时，注意到有某种黑暗从它身上散发出来。这团黑暗不断凝聚"
+"，最终在地板上形成了一团触手。接着一个又一个接连出现……这是什么诡异的景象？更"
+"多这类暗影生物开始不断增殖，你意识到自己遇上大麻烦了！"
 
 #: src-en/data/events_deepone.xml:2519
 msgid "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/text"
 msgstr ""
+"一片凄惨的景象展现在你眼前。数十艘飞船的残骸散布在这片宇宙中，其中有深渊潜者"
+"的舰船，也有神权国的舰船。唯有一艘完好的飞船留存下来，是一艘深潜者侦察舰，它"
+"似乎正在一艘艘残骸之间移动。"
 
 #: src-en/data/events_deepone.xml:2522
 msgid ""
@@ -3156,87 +3797,103 @@ msgstr "联系这艘舰船。"
 #: src-en/data/events_deepone.xml:2524
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "几秒后，对方接受了你的通讯请求。“联邦……说。”"
 
 #: src-en/data/events_deepone.xml:2526
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "这里发生了什么?"
 
 #: src-en/data/events_deepone.xml:2528
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“答案依旧……不明。没有……发出过求救信号。也没有……分享过攻击神权国的计划。究竟发"
+"生了什么……依旧是个谜。”深渊潜者停顿了一下。“我在这里……分析。搜寻……任何线索。”"
 
 #: src-en/data/events_deepone.xml:2530
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "有什么推测吗？"
 
 #: src-en/data/events_deepone.xml:2532
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"深渊潜者顿了顿才回答。“我……认为这里没有发生过交战。反而是……”它环顾四周，像是"
+"在确认是否有人窥探，“……它们是被带到这里来的。这些……残骸。一艘一艘地带过来的。"
+"”它刻意加重了最后那个词的语气，透着不祥的意味。"
 
 #: src-en/data/events_deepone.xml:2534
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "被带到这里？目的是什么？"
 
 #: src-en/data/events_deepone.xml:2536
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“……贡品。”它没有再多做解释。"
 
 #: src-en/data/events_deepone.xml:2538
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "贡品？是谁献上的，又献给什么存在？"
 
 #: src-en/data/events_deepone.xml:2540
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "它迟疑了好一会儿才开口，最终用压低的、近乎耳语的声音说道：“我……不该说的。这不"
+"是……你该知道的事。也……轮不到我来说。”"
 
 #: src-en/data/events_deepone.xml:2542
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "坚持追问。"
 
 #: src-en/data/events_deepone.xml:2544
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"就在它看似要开口回答的瞬间，通讯毫无征兆地突然中断。你正要再次发出联络信号，"
+"船外一道剧烈的强光让你当场僵住——那艘深渊潜者侦察舰方才发生了爆炸！爆炸将周遭"
+"的飞船残骸向四面八方掀飞，你的飞船也被冲击波裹挟着剧烈颠簸。舰体一切残存部件"
+"都已彻底无法打捞，最终留在你心头的，只有数不尽的谜团。"
 
 #: src-en/data/events_deepone.xml:2551
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "收手。"
 
 #: src-en/data/events_deepone.xml:2553
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"深渊潜者因你不再继续追问，显然松了一口气。“我想…… 我们到此为止吧。你尽管…… 处"
+"置这里剩下的一切。我…… 必须离开，回去汇报。” 说完，深潜者便离去了，只留下你置"
+"身这片残骸区域。"
 
 #: src-en/data/events_deepone.xml:2556
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "咱们看看能在这儿找到些什么……"
 
 #: src-en/data/events_deepone.xml:2570
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "介意我把这些全都拆解回收吗？"
 
 #: src-en/data/events_deepone.xml:2572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"它有些困惑地眨了眨眼，然后回答：“我……想我这边的事已经了结了。这里……没什么有价"
+"值的东西，但你尽管……取用你能用上的。”说完，深渊潜者便离开了，只留下你身处这片"
+"残骸地带。"
 
 #: src-en/data/events_deepone.xml:2575
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "我们看看能在这里找到些什么……"
 
 #: src-en/data/events_deepone.xml:2583
 msgid ""
@@ -3246,7 +3903,8 @@ msgstr "攻击！"
 #: src-en/data/events_deepone.xml:2585
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你不知道这些舰船遭遇了什么，也绝不想落得和它们一样的下场。深渊潜者侦察兵转向"
+"你，察觉到了你的意图，随即准备反击。"
 
 #: src-en/data/events_deepone.xml:2588
 msgid ""
@@ -3256,12 +3914,12 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2594
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[3]/text"
-msgstr ""
+msgstr "别管这艘船和这片残骸区域。"
 
 #: src-en/data/events_deepone.xml:2596
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_WARSCOUT\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你毫无兴趣，转身离开这片残骸区域，准备离开这个信标所在之处。"
 
 #: src-en/data/events_deepone.xml:2598
 msgid ""
@@ -3275,7 +3933,8 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:2610
 msgid "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/text"
-msgstr ""
+msgstr "这个信标处有一艘食铁族舰船，但它看上去没什么动静。你谨慎地观察了它片刻，依旧"
+"毫无异常。"
 
 #: src-en/data/events_deepone.xml:2613
 msgid ""
@@ -3286,36 +3945,41 @@ msgstr "尝试沟通。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/text"
 msgstr ""
+"食铁族是出了名的难以沟通，但你还是尝试了。他们至少接收到了你的联络信号，并说"
+"道：“被困。需要进食。光源，吃不到。帮忙？”他们似乎正试图吞食深渊潜者的光源，"
+"却没能成功……"
 
 #: src-en/data/events_deepone.xml:2617
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "给它们一些废料吃。"
 
 #: src-en/data/events_deepone.xml:2619
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "食铁族欣然接受，但它们很快就把废料吃光了，然后转向你。“还要吃。帮忙？”你猜，"
+"它们是真的饿极了……"
 
 #: src-en/data/events_deepone.xml:2624
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "再给它们更多废料吃。"
 
 #: src-en/data/events_deepone.xml:2626
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "这次它们花了更久才把这些废料吃完。它们心满意足地说：“废料好吃。光源不好吃。光"
+"源归你，谢谢废料。马上就过来。还有别的事吗？”"
 
 #: src-en/data/events_deepone.xml:2631
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "有，还有别的事。我还挺喜欢喂你们的。"
 
 #: src-en/data/events_deepone.xml:2633
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "“你还有更多废料？”他们面露喜色，花了一会儿把废料吃掉。"
 
 #: src-en/data/events_deepone.xml:2638
 msgid ""
@@ -3326,26 +3990,31 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"它们吃完后，其中一名食铁族开口道：“喜欢你。喜欢你和更多废料。跟着你，有好多废"
+"料等着我。”片刻之后，深渊潜者的光源被传送进你的飞船货舱，一同过来的还有那名食"
+"铁族！看来它准备好踏上冒险了，而且它运气不错——为变元者效力时，你能找到大把的"
+"废料。"
 
 #: src-en/data/events_deepone.xml:2648
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不用了，谢谢。"
 
 #: src-en/data/events_deepone.xml:2650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“明白。再次感谢废料。”片刻之后，深渊潜者的光源被传送进你的飞船货舱。尽食铁族"
+"人曾无数次试图吞食它们，这些光源却完好无损。"
 
 #: src-en/data/events_deepone.xml:2657
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我要断供了。"
 
 #: src-en/data/events_deepone.xml:2659
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“有补给，却不给。要进食。抢补给。”饿到不惜对你反目，食铁族准备发起攻击！"
 
 #: src-en/data/events_deepone.xml:2662
 msgid ""
@@ -3355,22 +4024,23 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2670
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "抱歉，我帮不了你。"
 
 #: src-en/data/events_deepone.xml:2672
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "食铁族面露不悦，“明白。继续试着吃光源。”他们回到原本的举动，随即切断了通讯。"
+"希望他们能成功吃掉那些光源……"
 
 #: src-en/data/events_deepone.xml:2678
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[2]/text"
-msgstr ""
+msgstr "他们肯定没在干好事，攻击！"
 
 #: src-en/data/events_deepone.xml:2680
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你下令给武器充能，食铁族察觉到了你的敌意，随即转身准备自卫！"
 
 #: src-en/data/events_deepone.xml:2683
 msgid ""
@@ -3386,7 +4056,7 @@ msgstr "无视对方。"
 #: src-en/data/events_deepone.xml:2691
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DEEPONE_LANIUS\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你任由食铁族去忙它们的……随便食铁族干的那些事，随即准备离开这个星系。"
 
 #: src-en/data/events_deepone.xml:2693
 msgid ""
@@ -3400,62 +4070,74 @@ msgstr "跳过。"
 
 #: src-en/data/events_deepone.xml:2705
 msgid "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/text"
-msgstr ""
+msgstr "抵达信标后，一名情绪暴怒的深渊潜者立刻向你发出通讯。尽管他们的翻译设备性能有"
+"限，你仍能清楚察觉，这里并不欢迎你。"
 
 #: src-en/data/events_deepone.xml:2708
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者）你的深渊潜者主动出面介入。"
 
 #: src-en/data/events_deepone.xml:2710
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"在两名深渊潜者短暂的交谈中，你看着原本的暴怒迅速转为愧疚。原来，海盗劫掠一直"
+"在肆虐这片区域的本地深潜者族群，他们自此便对陌生人抱有戒心。他泪流满面地转向"
+"你，你手下的深潜者向你解释，对方想知道你来到此地的缘由。"
 
 #: src-en/data/events_deepone.xml:2712
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/text"
-msgstr ""
+msgstr "我们正在执行拯救这个宇宙的任务。"
 
 #: src-en/data/events_deepone.xml:2714
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "他不完全明白你的意思，但点了点头，看起来很乐意帮你继续上路。"
 
 #: src-en/data/events_deepone.xml:2720
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/text"
-msgstr ""
+msgstr "我们途经此地，试图躲避叛军舰队。"
 
 #: src-en/data/events_deepone.xml:2722
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[2]/event/text"
 msgstr ""
+"一听到“叛军”这个词，他眼中的怒火再次燃起。他低声嘟囔了几句，带着决绝的神情转"
+"身离去，随即切断了通讯。你手下的深渊潜者向你保证，叛军舰队想要通过，必然要经"
+"历一场血战。"
 
 #: src-en/data/events_deepone.xml:2727
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[3]/text"
-msgstr ""
+msgstr "我们大杀四方，搜刮废料。"
 
 #: src-en/data/events_deepone.xml:2729
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[3]/event/text"
 msgstr ""
+"你身旁的深渊潜者强忍住笑，而你们两人只收获了对方茫然的注视。他刚要试着解释你"
+"的话，就被一阵只能形容为鱼人语的混乱凄厉惨叫打断了……通讯突然中断，同时你侦测"
+"到了传送信号！在其他人反应过来之前，同样一脸困惑的你的深渊潜者及时介入，并且"
+"解读出——你竟然鼓舞了对方舰长，让他决定加入你们一同奋战……不知怎么的，居然真的"
+"成功了！"
 
 #: src-en/data/events_deepone.xml:2736
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[2]/text"
-msgstr ""
+msgstr "试着道歉然后离开。"
 
 #: src-en/data/events_deepone.xml:2740
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[3]/text"
-msgstr ""
+msgstr "先下手为强!"
 
 #: src-en/data/events_deepone.xml:2742
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DEEPONE_CONFUSION\"]/choice[3]/event/text"
-msgstr ""
+msgstr "谁管他们到底在说什么，他们想打，那就奉陪到底！"
 
 #: src-en/data/events_deepone.xml:2745
 msgid ""
@@ -3465,7 +4147,8 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2754
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DEEPONE_CONFUSION_FLEE\"]/event[1]/text"
-msgstr ""
+msgstr "你尴尬地设法表明自己并无恶意，对方的深渊潜者不情愿地放你离开。但在你切断通讯"
+"、准备驶离信标时，总感觉仍被监视着。"
 
 #: src-en/data/events_deepone.xml:2756
 msgid ""
@@ -3480,7 +4163,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2765
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DEEPONE_CONFUSION_FLEE\"]/event[2]/text"
-msgstr ""
+msgstr "尽管你尽了最大努力，对面的深潜者似乎已经失去了耐心。如果你不肯离开，他会强行"
+"将你赶走！"
 
 #: src-en/data/events_deepone.xml:2768
 msgid ""
@@ -3490,7 +4174,8 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2773
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DEEPONE_CONFUSION_FLEE\"]/event[3]/text"
-msgstr ""
+msgstr "尽管你已经尽了最大努力，可对面的那名深潜者显然已经失去了耐心。如果你执意不肯"
+"离开，他会动用武力将你驱逐！"
 
 #: src-en/data/events_deepone.xml:2776
 msgid ""
@@ -3521,46 +4206,56 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_FIGHT_WIN\"]/text"
 msgstr ""
+"你还在消化刚才目睹的恐怖景象，那艘怪异飞船的残骸中突然射出最后一道闪电，径直"
+"击中了你所在的房间……可你并没有被电流灼烧致死，一个兜帽身影毫无杀伤力地出现在"
+"你身旁。你认出它和刚才交手的那些家伙一模一样，立刻做好自卫准备，但它并没有对"
+"你发动攻击。非但如此，它似乎还在修复损伤、四处帮忙。你从不会被虚假的安全感迷"
+"惑，可……只要这个长着触手的怪家伙还有利用价值，你愿意暂时信任它。"
 
 #: src-en/data/events_deepone.xml:2805
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_FIGHT_WIN\"]/choice[@req=\"ddunique_theminister\"]/text"
-msgstr ""
+msgstr "（长老）“哈！真没想到他们竟然会对自己的亲信下手……”"
 
 #: src-en/data/events_deepone.xml:2807
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_FIGHT_WIN\"]/choice[@req=\"ddunique_theminister\"]/event/text"
-msgstr ""
+msgstr "你问他在笑什么，可他完全不理会你，一边嘟囔着低等生物之类的话，一边离开了房间"
+"。这家伙还真是不太愿意吐露实情，对吧……"
 
 #: src-en/data/events_deepone.xml:2811
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_FIGHT_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "天啊……"
 
 #: src-en/data/events_deepone.xml:2823
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/text"
 msgstr ""
+"你接受了通讯请求，但对方舰船没有视频信号，只有令人不安的音频传来……另一端是微"
+"弱、沉重的喘息声。不，那不是喘息，是低吼。这难道是他们搞的恶作剧？"
 
 #: src-en/data/events_deepone.xml:2825
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/text"
-msgstr ""
+msgstr "清了清嗓子，试着询问他们有什么需求。"
 
 #: src-en/data/events_deepone.xml:2827
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/event/text"
-msgstr ""
+msgstr "尽管你尽了最大努力，通讯另一端依旧没有任何回应，只有那富有节奏的低吼持续传来"
+"。"
 
 #: src-en/data/events_deepone.xml:2829
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我受够了。挂断通讯。"
 
 #: src-en/data/events_deepone.xml:2831
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "就在你准备挂断时，捕捉到一句极短促、压着声音的话：“……鲜美——”话音未落，通讯便"
+"彻底切断，那艘怪异飞船骤然运转起来……他们正逼近发动攻击！"
 
 #: src-en/data/events_deepone.xml:2834
 msgid ""
@@ -3570,12 +4265,14 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2840
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我真的受够了。进攻！"
 
 #: src-en/data/events_deepone.xml:2842
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_STRANGENOISES\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"就在你准备切断通讯、发起进攻的瞬间，你捕捉到一句极其短促的低语，只听见开头：“"
+"……鲜美——”随即，那艘陌生飞船轰鸣着启动……他们也正朝你逼近，准备发动攻击！"
 
 #: src-en/data/events_deepone.xml:2845
 msgid ""
@@ -3585,37 +4282,44 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2855
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/text"
-msgstr ""
+msgstr "你看到的是一个人类的面孔，浑身是血，遍体鳞伤。你还没来得及开口，他就把手指抵"
+"在唇边，示意你保持安静。"
 
 #: src-en/data/events_deepone.xml:2857
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/text"
-msgstr ""
+msgstr "将头偏向一侧（装作困惑的样子）。"
 
 #: src-en/data/events_deepone.xml:2859
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/text"
-msgstr ""
+msgstr "这个人指向他们身后的黑暗处，接着用拇指在喉咙上横划而过。你能感觉到他们正被囚"
+"禁，需要你的帮助……他们一定是冒着生命危险才拨通了这次通讯。"
 
 #: src-en/data/events_deepone.xml:2861
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "（传送装置）点头，同时摆动手指，模仿传送的动作。"
 
 #: src-en/data/events_deepone.xml:2863
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[@req=\"teleporter\"]/event/text"
 msgstr ""
+"他们没能完全明白你的意图，但你还是成功将他们传送到了舰上。就在你完成传送的瞬"
+"间，通讯画面亮起灯光，那艘怪异飞船开始移动……看来你的举动已经被察觉，他们正逼"
+"近发起攻击！"
 
 #: src-en/data/events_deepone.xml:2866
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[@req=\"teleporter\"]/event/choice/text"
-msgstr ""
+msgstr "在备战之前先查看一下那个人的情况。"
 
 #: src-en/data/events_deepone.xml:2868
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[@req=\"teleporter\"]/event/choice/event/text"
 msgstr ""
+"你扶起那个遍体鳞伤的人，询问他状态是否尚可参与战斗。他点了点头，随即准备去往"
+"你安排的任何位置……他是已经知道不必再保持安静，还是单纯喜欢用手势交流？"
 
 #: src-en/data/events_deepone.xml:2871
 msgid ""
@@ -3625,22 +4329,27 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2879
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "抬手抵在下巴上（做出思考的模样）。"
 
 #: src-en/data/events_deepone.xml:2881
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你只顾着比划手势，一时间都忘了正经思考，但随即你灵光一闪……你完全可以偷偷登上"
+"那艘飞船！"
 
 #: src-en/data/events_deepone.xml:2883
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "绷紧双肩，抬起前臂，身体上下轻晃（模仿潜行、鬼鬼祟祟的样子）。"
 
 #: src-en/data/events_deepone.xml:2885
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"个人被你滑稽的模样逗得笑出声来，但下一秒就立刻捂住了嘴，意识到自己闯了大祸。"
+"视频信号中断前，你最后看到的画面，是他身后灯光亮起时，他脸上惊恐的神情……紧接"
+"着，那艘诡异的飞船开始移动。看来你的介入已经被对方发现，他们正全速逼近，准备"
+"发起攻击！"
 
 #: src-en/data/events_deepone.xml:2888
 msgid ""
@@ -3650,12 +4359,15 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2898
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[2]/text"
-msgstr ""
+msgstr "无视信号，询问他们到底发生了什么事。"
 
 #: src-en/data/events_deepone.xml:2900
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_ESCAPEDSACRIFICES\"]/choice[2]/event/text"
 msgstr ""
+"他们身后的灯光亮起，恐惧瞬间笼罩了他们的脸庞，视频信号随即中断。你眨了几下眼"
+"，对自己的举动感到茫然无措。片刻之后，那艘陌生的飞船开始移动……看来你的介入已"
+"经被发现，他们正逼近发动攻击！"
 
 #: src-en/data/events_deepone.xml:2903
 msgid ""
@@ -3666,26 +4378,35 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING_HAILLIST_BLESSING\"]/text"
 msgstr ""
+"你接通通讯的刹那，一股电流贯穿手掌，海量能量莫名顺着你的手臂涌入系统。你本以"
+"为这是病毒或是网络攻击，可一切却迅速恢复正常……甚至系统运转得比以往还要高效。"
+"你望向外部太空，更让你困惑的是，那艘飞船已然凭空消失。刚才到底发生了什么……？"
 
 #: src-en/data/events_deepone.xml:2917
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/text"
 msgstr ""
+"一瞬间，一切都归于寂静，可紧接着你的系统便开始刺耳警报，通讯请求被疯狂刷屏。"
+"望向外部太空，你勉强在远处发现一艘孤舰。它似乎纹丝不动……他们究竟想干什么？"
 
 #: src-en/data/events_deepone.xml:2919
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/text"
-msgstr ""
+msgstr "你继续靠近，试图辨别这艘飞船。"
 
 #: src-en/data/events_deepone.xml:2921
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/event/text"
 msgstr ""
+"你飞近想要仔细查看这艘飞船，它在你靠近时依旧纹丝不动。你认出了飞船的型号，却"
+"对它的涂装感到陌生……那些仓促喷涂的标识，和多元宇宙里众多海盗船的风格十分相似"
+"，但你确定从未见过这一款特定的标识。就在你观察这艘船时，又有数十条通讯请求接"
+"连发来。"
 
 #: src-en/data/events_deepone.xml:2924
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "接受请求。"
 
 #: src-en/data/events_deepone.xml:2928
 #, fuzzy
@@ -3697,6 +4418,9 @@ msgstr "攻击这艘船。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"这些家伙还真是死缠烂打……你要好好教训他们，让他们知道胡乱骚扰变元者飞船的下场"
+"！你继续逼近，敌意已然显现，那艘诡异的飞船在察觉你的攻击意图后，终于开始机动…"
+"…看来，这场战斗是打定了！"
 
 #: src-en/data/events_deepone.xml:2933
 msgid ""
@@ -3706,12 +4430,13 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2939
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "无视通讯与飞船。"
 
 #: src-en/data/events_deepone.xml:2941
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "这多半是菜鸟海盗的陷阱……你可不是新手！你拉开与怪船的距离，通讯请求最终归于沉"
+"寂。"
 
 #: src-en/data/events_deepone.xml:2943
 msgid ""
@@ -3726,12 +4451,13 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2955
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[2]/text"
-msgstr ""
+msgstr "自顾自走，不理他们。"
 
 #: src-en/data/events_deepone.xml:2957
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_TEMPESTSCAVENGING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你不知道是谁不停发通讯，只觉得他们太烦人，一点都不懂体谅。你和那艘神秘飞船拉"
+"开距离，通讯请求最终消失了。"
 
 #: src-en/data/events_deepone.xml:2959
 msgid ""
@@ -3746,7 +4472,7 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:2974
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "若你未能在这段时间内击毁同盟战舰，他们的隐秘仪式便会完成。"
 
 #: src-en/data/events_deepone.xml:2979
 msgid ""
@@ -3771,7 +4497,7 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:2997
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/text"
-msgstr ""
+msgstr "外部空间扭曲，平民们发出最后一段晦涩难懂的嘶吼......"
 
 #: src-en/data/events_deepone.xml:3001
 msgid ""
@@ -3782,11 +4508,14 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_LOSS\"]/choice/event/text"
 msgstr ""
+"仪式完成。随着仪式落幕，同盟舰炸裂并迸发出毁灭性的能量波，一团黑雾充斥了外太"
+"空。部分诡异的黑暗顺着你飞船新裂开的缝隙渗了进来——你意识到，有不速之客来了！"
 
 #: src-en/data/events_deepone.xml:3015
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你在他们完成那诡异仪式前击毁了飞船，但你的手上还是沾了同盟成员的血。有些时候"
+"，根本就没有赢面……"
 
 #: src-en/data/events_deepone.xml:3017
 msgid ""
@@ -3797,116 +4526,186 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/text"
 msgstr ""
+"令你意外的是，在这里迎上来的是一艘同盟飞船。不过，把这称作迎接实在有点夸张……"
+"更准确地说，他们发出了带有威胁意味的通讯，喝道：“交出人类祭品，否则掉脑袋的就"
+"是你，变元者”这可算不上什么热情的欢迎……"
 
 #: src-en/data/events_deepone.xml:3027
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
-msgstr ""
+msgstr "(异界魔典) 我留着他们自有我的用处，你这废话连篇的蠢货。"
 
 #: src-en/data/events_deepone.xml:3029
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
+"你察觉到这些民众诉求背后的逻辑，便举起异界魔典让他们看。这一举动稍稍平息了他"
+"们的戾气，他们见状踉跄后退，可随即又迈步上前，说道：“你或许也掌握了他们的教义"
+"，可凭什么说你比我们更有资格使用这些祭品？你又凭什么高人一等？”"
 
 #: src-en/data/events_deepone.xml:3031
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "（莉莉丝）我自然更高贵，只因我追寻的是飞升仪式，蠢货。"
 
 #: src-en/data/events_deepone.xml:3033
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气，\"赤红经文？我不止一次失神盯着那些诡异难懂的地狱图谱……"
+"看来，你在祂们眼中的分量，确实远胜我们。既然如此，便容许我们通过侍奉你，来侍"
+"奉祂们吧。但愿你无上的威能，能分一丝庇佑于我们，尊贵的大人。\"\n"
+"有那么一瞬，你分不清他们是彻底被你慑服，还是在暗中嘲弄你。可下一刻，一具活人"
+"祭品从他们的飞船传送而来，以贡品的名义呈到你面前。你不禁暗想，当个作恶多端的"
+"邪恶邪教徒，倒也有几分所谓的社交好处——当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3038
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）我更为尊贵，只因我追寻的是晶化秘典，蠢货。"
 
 #: src-en/data/events_deepone.xml:3040
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气：“鲜艳的紫色经文？我不止一次出神地凝望那些绝美而晶莹的图"
+"谱……毫无疑问，你在祂们心中的地位，远高于我们。既然如此，请允许我们通过侍奉你"
+"，来侍奉祂们；但愿你无上的威严，能稍稍庇佑我们，尊贵的大人。”\n"
+"有那么一瞬间，你分不清他们是彻底被你折服，还是在取笑你。可紧接着，一具活人祭"
+"品从他们的飞船传送过来，作为贡品献给了你。你心想，当个凶残邪恶的邪教徒，居然"
+"也有这种所谓的社交便利……当然，前提是你只和这群志趣相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3045
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（启蒙者船员）我更为崇高，只因我追寻的是证道祷文，白痴。"
 
 #: src-en/data/events_deepone.xml:3047
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“熠熠生辉的黄色经文？我不止一次失神凝望过那些诡异幽暗的图"
+"案……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们通过侍奉你"
+"，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一刻，你无法判断他们是彻底被你折服，还是在嘲弄你。可随即，一具活人祭品"
+"从他们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒"
+"，居然也有这般所谓的社交好处……当然，前提是你只与这群臭味相投的疯子往来。"
 
 #: src-en/data/events_deepone.xml:3052
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（天选船员）我更为至高，只因我追寻的是黑暗召唤，蠢货。"
 
 #: src-en/data/events_deepone.xml:3054
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“晦暗的灰色经文？我不止一次痴迷于那些充满恶意的插画……毫无"
+"疑问，你在祂们眼中的地位，远高于我们。既然如此，请允许我们通过侍奉你，来侍奉"
+"祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一瞬间，你分不清他们是彻底被你慑服，还是在暗中取笑你。可紧接着，一具活"
+"人祭品从他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个凶残邪恶"
+"的邪教徒，居然也有这般所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3059
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
-msgstr ""
+msgstr "（伊尔德里克船员）我更为至高，只因我追寻的是救赎颂歌，无知之徒。"
 
 #: src-en/data/events_deepone.xml:3061
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“模糊的棕色经文？我不止一次失神凝望过那些诡异怪诞、形似植"
+"物的诡怪画像……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们"
+"通过侍奉你，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一刻，你无法判断他们是彻底被你折服，还是在嘲弄你。可随即，一具活人祭品"
+"从他们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒"
+"，居然也有这般所谓的社交便利……当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3066
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
-msgstr ""
+msgstr "（风暴船员）我更为至高，只因我追寻的是暴风天启，蠢货。"
 
 #: src-en/data/events_deepone.xml:3068
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“电光蓝的经文？我不止一次沉醉在那些广袤暴风云云的图景里……"
+"毫无疑问，你在祂们眼中的地位，远高于我们。既然如此，请允许我们通过侍奉你，来"
+"侍奉祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一瞬间，你分不清他们是彻底被你慑服，还是在暗中取笑你。可紧接着，一具活"
+"人祭品从他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个凶残邪恶"
+"的邪教徒，居然也有这般所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3073
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "（终焉装甲）我更为至高，只因我追寻的是新生敕令，愚钝之徒。"
 
 #: src-en/data/events_deepone.xml:3075
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气：“刺眼的白色经文？我不止一次凝望过那副诡异不祥的铠甲影像"
+"……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们通过侍奉你，"
+"来侍奉祂们，但愿你那无上的尊崇能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你折服，还是在暗中嘲弄你。可随即，一具活人祭品从他"
+"们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒，居"
+"然也有这般所谓的社交好处，当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3080
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（灵魂瘟疫船员）我更为至高，只因我追寻的是腐化低语，蠢货。"
 
 #: src-en/data/events_deepone.xml:3082
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"这名民众倒吸一口凉气：“流光幻彩的彩虹经文？我不止一次被上面描绘的死亡与腐朽景"
+"象深深吸引……毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通"
+"过侍奉你，来侍奉祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你慑服，还是在暗中嘲弄你。可紧接着，一具活人祭品从"
+"他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个作恶凶残的邪恶邪"
+"教徒，居然也有这般所谓的社交便利……当然，前提是你只和这群臭味相投的疯子打交道"
+"。"
 
 #: src-en/data/events_deepone.xml:3087
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "（生灵光裔）我更为至高，只因我追寻光与暗的颂歌，蠢物。"
 
 #: src-en/data/events_deepone.xml:3089
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"这名民众倒吸一口凉气：“那些陈旧褪色的经文？我自己也曾徒劳地想要解读残存的寥寥"
+"墨迹……毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通过侍奉"
+"你，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你慑服，还是在暗中嘲弄你。可紧接着，一具活人祭品从"
+"他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个作恶多端、嗜杀成"
+"性的邪教徒，倒也有这类所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3094
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/text"
-msgstr ""
+msgstr "我所追寻的，不过是一本《神秘学入门指南》。"
 
 #: src-en/data/events_deepone.xml:3096
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/event/text"
 msgstr ""
+"“就这？行啊，欢迎入伙，费迪。你压根不比我们高贵半分！要是你觉得和我们平起平坐"
+"，还能随便踩在我们头上作威作福，那你可就大错特错了！”\n"
+"这名民众转过身，朝着走廊尽头大吼：“准备祭品！把这个信标炸进地狱！以祂们的名义"
+"！”\n"
+"你必须赶在他们动手之前阻止这一切，而且要快！"
 
 #: src-en/data/events_deepone.xml:3099
 msgid ""
@@ -3916,122 +4715,192 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:3107
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/text"
-msgstr ""
+msgstr "等等，等等，等等。你们到底在胡说八道什么？"
 
 #: src-en/data/events_deepone.xml:3109
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/text"
 msgstr ""
+"他们打断你的话，不行，不许提问。除非你想看着我们把这个信标拖进地狱。我们见过"
+"比死亡更恐怖的东西，我们根本不怕你。你甚至不确定他们是不是在冲你吼叫，但不管"
+"怎样，他们的要求已经很明确了。你的回应是什么？"
 
 #: src-en/data/events_deepone.xml:3111
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/text"
-msgstr ""
+msgstr "（异界魔典）很好，既然装糊涂不能让你满意……我自有目的要留着他们，你这喋喋不休"
+"的蠢货。"
 
 #: src-en/data/events_deepone.xml:3113
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/text"
 msgstr ""
+"你领会了对方提出要求的逻辑，随即亮出异界魔典让他们看。这一举动稍稍平息了他们"
+"的戾气，他们见状踉跄着后退，可很快又迈步上前，“你或许也掌握了祂们的教义，但凭"
+"什么说你比我们更有资格动用这些祭品，凭什么你就更高人一等？”"
 
 #: src-en/data/events_deepone.xml:3115
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/text"
-msgstr ""
+msgstr "（莉莉丝）我更为至高，只因我追寻的是升格仪式，愚笨之徒。"
 
 #: src-en/data/events_deepone.xml:3117
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_ENLIGHTENED_HORRORS\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气，猩红的经文？我不止一次凝望过那些地狱般难以理解的图谱……"
+"毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通过侍奉你，来"
+"侍奉祂们，但愿你那无上的尊崇能分一丝惠及我们，尊贵的大人。\n"
+"你一时无法分辨他们是彻底被你折服，还是在暗中嘲弄你。可随即，一具活人祭品从他"
+"们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒，倒"
+"也有这类所谓的社交好处，当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3122
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）我更为尊贵，只因我追寻的是晶化秘典，蠢货。"
 
 #: src-en/data/events_deepone.xml:3124
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气，鲜艳的紫色经文？我不止一次凝视过那些绝美剔透的晶体绘像…"
+"…毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通过侍奉你，来"
+"侍奉祂们，但愿你那无上的尊崇能分一丝惠及我们，尊贵的大人。\n"
+"你一时无法分辨他们是彻底被你折服，还是在暗中嘲弄你。可随即，一具活人祭品从他"
+"们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒，倒"
+"也有这类所谓的社交好处，当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3129
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（启蒙者船员）我更为崇高，只因我追寻的是证道祷文，白痴。"
 
 #: src-en/data/events_deepone.xml:3131
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“熠熠生辉的黄色经文？我不止一次失神凝望过那些诡异幽暗的图"
+"案……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们通过侍奉你"
+"，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一刻，你无法判断他们是彻底被你折服，还是在嘲弄你。可随即，一具活人祭品"
+"从他们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒"
+"，居然也有这般所谓的社交好处……当然，前提是你只与这群臭味相投的疯子往来。"
 
 #: src-en/data/events_deepone.xml:3136
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/text"
-msgstr ""
+msgstr "（天选船员）我更为至高，只因我追寻的是黑暗召唤，蠢货。"
 
 #: src-en/data/events_deepone.xml:3138
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"dddeepone_chosen\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“晦暗的灰色经文？我不止一次痴迷于那些充满恶意的插画……毫无"
+"疑问，你在祂们眼中的地位，远高于我们。既然如此，请允许我们通过侍奉你，来侍奉"
+"祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一瞬间，你分不清他们是彻底被你慑服，还是在暗中取笑你。可紧接着，一具活"
+"人祭品从他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个凶残邪恶"
+"的邪教徒，居然也有这般所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3143
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/text"
-msgstr ""
+msgstr "（伊尔德里克船员）我更为至高，只因我追寻的是救赎颂歌，无知之徒。"
 
 #: src-en/data/events_deepone.xml:3145
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDCREW_ILLDRYTHK_ALLGOOBERS\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“模糊的棕色经文？我不止一次失神凝望过那些诡异怪诞、形似植"
+"物的诡怪画像……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们"
+"通过侍奉你，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一刻，你无法判断他们是彻底被你折服，还是在嘲弄你。可随即，一具活人祭品"
+"从他们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒"
+"，居然也有这般所谓的社交便利……当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3150
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/text"
-msgstr ""
+msgstr "（风暴船员）我更为至高，只因我追寻的是风暴天启，蠢货。"
 
 #: src-en/data/events_deepone.xml:3152
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDTEMPEST_ALIGNED\"]/event/text"
 msgstr ""
+"那民众倒吸一口凉气：“电光蓝的经文？我不止一次沉醉在那些广袤暴风云云的图景里……"
+"毫无疑问，你在祂们眼中的地位，远高于我们。既然如此，请允许我们通过侍奉你，来"
+"侍奉祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"有那么一瞬间，你分不清他们是彻底被你慑服，还是在暗中取笑你。可紧接着，一具活"
+"人祭品从他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个凶残邪恶"
+"的邪教徒，居然也有这般所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3157
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "（终焉铠甲）我更为至高，只因我追寻的是新生敕令，愚钝之徒。"
 
 #: src-en/data/events_deepone.xml:3159
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"那名民众倒吸一口凉气：“刺眼的白色经文？我不止一次凝望过那副诡异不祥的铠甲影像"
+"……毫无疑问，你在祂们眼中的分量，远胜于我们。既然如此，请容许我们通过侍奉你，"
+"来侍奉祂们，但愿你那无上的尊崇能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你折服，还是在暗中嘲弄你。可随即，一具活人祭品从他"
+"们的飞船传送而来，以贡品的名义呈献给你。你暗自思忖，当个凶残邪恶的邪教徒，居"
+"然也有这般所谓的社交好处，当然，前提是你只与这群臭味相投的疯子为伍。"
 
 #: src-en/data/events_deepone.xml:3164
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（灵魂瘟疫船员）我更为至高，只因我追寻的是腐化低语，蠢货。"
 
 #: src-en/data/events_deepone.xml:3166
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"这名民众倒吸一口凉气：“流光幻彩的彩虹经文？我不止一次被上面描绘的死亡与腐朽景"
+"象深深吸引……毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通"
+"过侍奉你，来侍奉祂们；但愿你那无上的威严，能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你慑服，还是在暗中嘲弄你。可紧接着，一具活人祭品从"
+"他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个作恶凶残的邪恶邪"
+"教徒，居然也有这般所谓的社交便利……当然，前提是你只和这群臭味相投的疯子打交道"
+"。"
 
 #: src-en/data/events_deepone.xml:3171
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/text"
-msgstr ""
+msgstr "（生灵光裔）我更为至高，只因我追寻光与暗的颂歌，蠢物。"
 
 #: src-en/data/events_deepone.xml:3173
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[@req=\"BLUELIST_DDLIGHTBORNE_EQUIPMENT\"]/event/text"
 msgstr ""
+"这名民众倒吸一口凉气：“那些陈旧褪色的经文？我自己也曾徒劳地想要解读残存的寥寥"
+"墨迹……毫无疑问，你在祂们眼中的分量，远胜过我们。既然如此，请容许我们通过侍奉"
+"你，来侍奉祂们；但愿你那无上的尊崇，能分一丝惠及我们，尊贵的大人。”\n"
+"你一时无法分辨他们是彻底被你慑服，还是在暗中嘲弄你。可紧接着，一具活人祭品从"
+"他们的飞船传送而来，以贡品的名义呈到你面前。你暗自心想，当个作恶多端、嗜杀成"
+"性的邪教徒，倒也有这类所谓的社交好处……当然，前提是你只和这群臭味相投的疯子打"
+"交道。"
 
 #: src-en/data/events_deepone.xml:3178
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/text"
-msgstr ""
+msgstr "我所追寻的，不过是一本《神秘学入门指南》。"
 
 #: src-en/data/events_deepone.xml:3180
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"DARKGOD_CURSED_BOOK\"]/event/choice[10]/event/text"
 msgstr ""
+"“就这？行啊，欢迎入伙，费迪。你压根不比我们高贵半分！要是你觉得和我们平起平坐"
+"，还能随便踩在我们头上作威作福，那你可就大错特错了！”\n"
+"这名民众转过身，朝着走廊尽头大吼：“准备祭品！把这个信标炸进地狱！以祂们的名义"
+"！”\n"
+"你必须赶在他们动手之前阻止这一切，而且要快！"
 
 #: src-en/data/events_deepone.xml:3183
 msgid ""
@@ -4041,42 +4910,56 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:3191
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人祭品）行吧，给你了。"
 
 #: src-en/data/events_deepone.xml:3193
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
 msgstr ""
+"你将备好的活人祭品传送过去，通讯器那头的民众瞬间欣喜若狂，哦，你居然通晓祂们"
+"的规矩……联邦的人？你到底是什么来头，是间谍吗。\n"
+"你耸了耸肩，那人低笑起来，谢了，变元者！我们这就去献祭流血！这次说不定能举行"
+"腐化仪式……\n"
+"他们的飞船从信标处跃迁离去，只留下一头雾水、还少了一具祭品的你。"
 
 #: src-en/data/events_deepone.xml:3197
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆这份活人祭品，因为对方还没有死亡。"
 
 #: src-en/data/events_deepone.xml:3202
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）行吧，这些人归你了。"
 
 #: src-en/data/events_deepone.xml:3204
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
+"你无视那些人的挣扎尖叫，把他们传送了过去，通讯器里的民众稍稍平复了一些，终于"
+"，终于啊！我们可以亲手夺取性命，把命运牢牢握在自己手里！\n"
+"你微微挪动身体，心里很不自在，那人轻笑起来，谢了，叛道者！我们这就去献祭流血"
+"！这次说不定要举行腐化仪式……\n"
+"他们的飞船从信标处跃迁离去，只留在原地满心惊骇，还少了几名船员的你。"
 
 #: src-en/data/events_deepone.xml:3208
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆这名人类船员，因为对方还没有死亡。"
 
 #: src-en/data/events_deepone.xml:3213
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "我不会把任何人送过去送死，你这个疯子。"
 
 #: src-en/data/events_deepone.xml:3215
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_SHADOWCULT\"]/choice[2]/event/choice[4]/event/text"
 msgstr ""
+"那你就是在判我们所有人死刑，费迪！你，我们，还有你的那些小家伙们……准备受死吧"
+"！\n"
+"你看着他们围站在房间中央的仪式法阵旁，一股诡秘的异界力量在他们体内涌动……你必"
+"须赶在他们完成仪式之前阻止这一切，而且要快！"
 
 #: src-en/data/events_deepone.xml:3218
 msgid ""
@@ -4107,66 +4990,88 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/text"
 msgstr ""
+"终于能喘口气，你却对刚才目睹的一切彻底茫然。灵魂瘟疫躯壳伪装成深渊潜者，试图"
+"哄骗他人……若不是满地狼藉和战后的战利品，你只会觉得这一切都是梦境。但坐在这里"
+"空想也无济于事，带着诸多未解的疑问，是时候动身离开这里了。"
 
 #: src-en/data/events_deepone.xml:3249
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（灵魂瘟疫船员）你麾下效忠于魂疫的这名船员发出了一阵怪异的咕噜声。"
 
 #: src-en/data/events_deepone.xml:3251
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
-msgstr ""
+msgstr "身边的船员一直发出这种声响，你根本没法静下心梳理刚才亲历的那些疯狂事……他们难"
+"道看不出你正试图解开这桩谜团吗？"
 
 #: src-en/data/events_deepone.xml:3255
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER_FIGHT_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "给的那点酬劳，可根本不值得我遭这份罪……"
 
 #: src-en/data/events_deepone.xml:3261
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/text"
 msgstr ""
+"进入信标时你感到一阵轻微的头晕，但这感觉很快就被一旁靠近并向你发出通讯的深渊"
+"潜者舰船驱散。他们看起来衣衫凌乱，声音细若蚊吟，断断续续地说着……废料……交出来…"
+"…废料……你几乎看不清他们长袍下的身形，却隐约察觉到，有什么地方不太对劲……"
 
 #: src-en/data/events_deepone.xml:3263
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/text"
-msgstr ""
+msgstr "等等。废料？要这个做什么，还有你们要多少？"
 
 #: src-en/data/events_deepone.xml:3265
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/text"
-msgstr ""
+msgstr "身着斗篷的深渊潜者把头埋得更低，声音依旧微弱含糊，……酬劳……恩惠……眷顾……要60个…"
+"…除此之外，它再不多说一个字。"
 
 #: src-en/data/events_deepone.xml:3267
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "行吧，没问题。我倒是挺好奇这所谓的恩惠到底是什么。"
 
 #: src-en/data/events_deepone.xml:3269
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"你将对方要的60份废料传送过去，废料径直出现在那名怪异的深渊潜者身旁。两人之间"
+"陷入片刻沉默，就在你准备打破寂静时，对方一把扯下身上的长袍，露出了真实的模样—"
+"—或者说，根本没有所谓的形体。那只是一团类人形态、泛着油光的黏稠团块。它片刻间"
+"就吞食完你送去的废料，随后转向你，声音再度微弱响起，……慷慨……感激……\n"
+"你忽然意识到，对方并非真的在说话，而是那细碎的低语直接回荡在你的脑海里。下一"
+"秒，你终于认清了眼前的存在：一具灵魂瘟疫躯壳。"
 
 #: src-en/data/events_deepone.xml:3274
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "呃……那我的报酬到底是什么？"
 
 #: src-en/data/events_deepone.xml:3276
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"它的低语再次在你脑海中响起：……随行……同伴……协助……你挑了挑眉，它随即融成一滩黏"
+"液消失不见……可片刻之后，它竟又莫名出现在了你身旁！……舰长……散播……恩泽……这具躯"
+"壳踉跄着退开，你在心里暗自记下，回头一定要检查飞船的一氧化碳浓度……"
 
 #: src-en/data/events_deepone.xml:3283
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不行，抱歉。我没兴趣。"
 
 #: src-en/data/events_deepone.xml:3285
 msgid ""
 "data/events_deepone.xml$//event[@name=\"NEUTRAL_DDDEEPONE_MATTERVIRUSDEALER\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"你这里又不是开慈善堂……而且你也对任何神秘报酬毫无兴趣。\n"
+"你的意图已经十分明确，那个怪异的身影扯下了身上的遮蔽物，露出了它的真面目——更"
+"准确地说，是根本没有固定的形体。它不过是一团类人形态、泛着油光的黏稠团块……它"
+"发出咆哮，那艘深渊潜者飞船开始古怪地摇晃着朝你逼近。\n"
+"对方武器已经充能待命，你的本能开始觉醒……准备战斗！"
 
 #: src-en/data/events_deepone.xml:3288
 msgid ""
@@ -4175,7 +5080,7 @@ msgstr "继续。"
 
 #: src-en/data/events_deepone.xml:3307
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/text"
-msgstr ""
+msgstr "抵达求救信标处时，你看到远处有一艘深渊潜者飞船，它没有任何移动的意图。"
 
 #: src-en/data/events_deepone.xml:3309
 msgid ""
@@ -4185,157 +5090,222 @@ msgstr "联系这艘舰船。"
 #: src-en/data/events_deepone.xml:3311
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你尝试向这艘飞船发送通讯联络，但全都失败了。对方并没有拒绝接通，而是你的信号"
+"从一开始就似乎根本无法抵达那艘飞船……"
 
 #: src-en/data/events_deepone.xml:3313
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "靠近飞船并进行检查。"
 
 #: src-en/data/events_deepone.xml:3315
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"凑近仔细查看后，你发现这根本不是一艘飞船，至少现在已经不是了。它实质上就是一"
+"堆被撕碎的废铁，只是深潜者飞船那不灭的灯光，让它从远处看起来还算完好。你正暗"
+"自疑惑这艘残骸和它的求救信标就这样漂浮了多久，这时却注意到……废墟之中，有东西"
+"在缓缓挪动？"
 
 #: src-en/data/events_deepone.xml:3317
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "凑近查看。"
 
 #: src-en/data/events_deepone.xml:3319
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"是一只深渊潜者！它还活着，身处太空之中，就只是……在这艘残骸里等待着！你立刻让"
+"船员行动起来，短短几分钟后就将这只深潜者接上了飞船。它虽然还活着，但状态看上"
+"去极差，几乎只是在苟延残喘。"
 
 #: src-en/data/events_deepone.xml:3321
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/text"
-msgstr ""
+msgstr "（高级医疗舱）使用你已升级的医疗舱救治它。"
 
 #: src-en/data/events_deepone.xml:3323
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/text"
 msgstr ""
+"你把这只深渊潜者安置进医疗舱，设备立刻启动运转。不过片刻，它就恢复了状态，并"
+"且对你满怀感激。\n"
+"“千重祝福……万般谢意，都赠予你，朋友。若是没有你……”它顿了顿，“恐怕我早已……在那"
+"片残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3325
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么？"
 
 #: src-en/data/events_deepone.xml:3327
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"medbay\"]/event/choice/event/text"
 msgstr ""
+"它看上去对回答这个问题十分犹豫。沉默片刻之后，它开口道：“我……很抱歉。为了你好"
+"……也为了我好，我不能告诉你。我知道这听上去……像是带有威胁的意味，但我请求你……"
+"相信我。”\n"
+"短暂的沉寂过后，它继续说道：“无论如何，我都欠你……一条命。如今我的飞船已经成了"
+"一堆碎片，我想不出比……与你并肩作战更好的方式来报答你。你曾救我于危难，我愿……"
+"为你效命。”\n"
+"说完它便转过身去。你心中仍有诸多疑问，可是……能得到它的协助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3334
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/text"
-msgstr ""
+msgstr "（高级克隆舱）使用你已升级的克隆舱救下它。"
 
 #: src-en/data/events_deepone.xml:3336
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/text"
 msgstr ""
+"你使用克隆舱对这只深渊潜者进行克隆。不过片刻工夫，它便恢复完好，对你满怀感激"
+"。“万千祝福与谢意，都归于你，朋友。若是没有你……”它顿了顿，“我恐怕早已……在那片"
+"残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3338
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么?"
 
 #: src-en/data/events_deepone.xml:3340
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"clonebay\"]/event/choice/event/text"
 msgstr ""
+"它显得迟疑，不愿作答。沉默片刻后，它开口道：“我…… 很抱歉。为了你…… 也为了我自"
+"己，我不能告诉你。我知道这听上去…… 有些不怀好意，但我请求你…… 相信我。”\n"
+"短暂停顿后，它继续说：“无论如何，我都欠你…… 一条命。我的飞船如今已成…… 碎片，"
+"我想不出比…… 与你并肩作战更好的报恩方式。你曾施以援手，我便愿为你效命。”\n"
+"说完，它便转过身去。你心中仍有疑问，可…… 能得到它的帮助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3347
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/text"
-msgstr ""
+msgstr "（医疗船员）动用你的医疗船员救治它。"
 
 #: src-en/data/events_deepone.xml:3349
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/text"
 msgstr ""
+"你的医疗船员立刻着手稳定这只深渊潜者的生命体征。没过多久，它便恢复了健康，并"
+"且对你感激万分。“万千祝福……与谢意，都赠予你，朋友。若是没有你……”它顿了顿，“我"
+"恐怕早已……在那片残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3351
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么？"
 
 #: src-en/data/events_deepone.xml:3353
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_MEDICAL\"]/event/choice/event/text"
 msgstr ""
+"它显得迟疑，不愿回答。沉默片刻后，它开口道：“我……很抱歉。为了你好……也为了我好"
+"，我不能告诉你。我知道这听上去……像是带有恶意，但我请求你……相信我。”\n"
+"短暂沉默过后，它继续说道：“无论如何，我都欠你……一条命。如今我的飞船已经成了……"
+"碎片，我想不出比……与你并肩作战更好的报恩方式。你帮了我，我便会……助你一臂之力"
+"。”\n"
+"说完，它便转过身去。你心中仍有诸多疑问，可……能得到它的协助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3360
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/text"
-msgstr ""
+msgstr "（医疗无人机）使用医疗无人机救治它。"
 
 #: src-en/data/events_deepone.xml:3362
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/text"
 msgstr ""
+"你的医疗无人机立刻启动，稳定住这只深渊潜者的生命体征。短短片刻之后，它便恢复"
+"完好，对你满怀感激。“万千祝福……与谢意，都赠予你，朋友。若是没有你……”它顿了顿"
+"，“我恐怕早已……在那片残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3364
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么？"
 
 #: src-en/data/events_deepone.xml:3366
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"DRONE_CONTROL_MEDICAL\"]/event/choice/event/text"
 msgstr ""
+"它显得迟疑，不愿回答。沉默片刻后，它开口道：“我……很抱歉。为了你好……也为了我好"
+"，我不能告诉你。我知道这听上去……像是带有恶意，但我请求你……相信我。”\n"
+"短暂沉默过后，它继续说道：“无论如何，我都欠你……一条命。如今我的飞船已经成了……"
+"碎片，我想不出比……与你并肩作战更好的报恩方式。你帮了我，我便会……助你一臂之力"
+"。”\n"
+"说完，它便转过身去。你心中仍有诸多疑问，可……能得到它的协助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3373
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/text"
-msgstr ""
+msgstr "（医疗炸弹）使用医疗炸弹救治它。[-1]"
 
 #: src-en/data/events_deepone.xml:3375
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/text"
 msgstr ""
+"你使用医疗炸弹稳定住了这只深渊潜者的生命体征。没过片刻，它就恢复了健康，并且"
+"对你感激至极。“万千祝福……与谢意，都赠予你，朋友。若是没有你……”它顿了顿，“我恐"
+"怕早已……在那片残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3380
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么？"
 
 #: src-en/data/events_deepone.xml:3382
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"BOMB_HEAL\"]/event/choice/event/text"
 msgstr ""
+"它显得迟疑，不愿回答。沉默片刻后，它开口道：“我……很抱歉。为了你好……也为了我好"
+"，我不能告诉你。我知道这听上去……像是带有恶意，但我请求你……相信我。”\n"
+"短暂沉默过后，它继续说道：“无论如何，我都欠你……一条命。如今我的飞船已经成了……"
+"碎片，我想不出比……与你并肩作战更好的报恩方式。你帮了我，我便会……助你一臂之力"
+"。”\n"
+"说完，它便转过身去。你心中仍有诸多疑问，可……能得到它的协助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3389
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/text"
-msgstr ""
+msgstr "（传送重构器）使用你的传送重构器救下它。"
 
 #: src-en/data/events_deepone.xml:3391
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/text"
 msgstr ""
+"这个方法虽然有些非同寻常，但你通过传送重构器，将深潜者传送进你的飞船再传送出"
+"来，以此完成修复治疗。不过片刻，这只深潜者就恢复了健康，并且对你满怀感激。\n"
+"“万千祝福……与谢意，都赠予你，朋友。若是没有你……”它顿了顿，“我恐怕早已……在那片"
+"残骸之中走向灭亡了。”"
 
 #: src-en/data/events_deepone.xml:3393
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/text"
-msgstr ""
+msgstr "你的飞船发生了什么？"
 
 #: src-en/data/events_deepone.xml:3395
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[@req=\"RECON_AND_TELEPORT\"]/event/choice/event/text"
 msgstr ""
+"它显得迟疑，不愿回答。沉默片刻后，它开口道：“我……很抱歉。为了你好……也为了我好"
+"，我不能告诉你。我知道这听上去……像是带有恶意，但我请求你……相信我。”\n"
+"短暂沉默过后，它继续说道：“无论如何，我都欠你……一条命。如今我的飞船已经成了……"
+"碎片，我想不出比……与你并肩作战更好的报恩方式。你帮了我，我便会……助你一臂之力"
+"。”\n"
+"说完，它便转过身去。你心中仍有诸多疑问，可……能得到它的协助，你还是感到庆幸。"
 
 #: src-en/data/events_deepone.xml:3402
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/text"
-msgstr ""
+msgstr "救不了他。"
 
 #: src-en/data/events_deepone.xml:3404
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[1]/event/choice/event/choice[7]/event/text"
-msgstr ""
+msgstr "这名深渊潜者遭受的创伤过重，片刻之后便死去了。你无计可施，只能被迫继续前行。"
+"该死……"
 
 #: src-en/data/events_deepone.xml:3412
 msgid ""
@@ -4345,7 +5315,8 @@ msgstr "放弃。"
 #: src-en/data/events_deepone.xml:3414
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "算了，你已经尽力了。如果他们需要帮助，至少也该接听你的通讯信号……你转身离开，"
+"准备驶离这个信标点。"
 
 #: src-en/data/events_deepone.xml:3416
 msgid ""
@@ -4365,7 +5336,8 @@ msgstr "不理会它。"
 #: src-en/data/events_deepone.xml:3430
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_DRIFTING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你还有更重要的事情要做，没必要把时间花在救人上。你转身离开，准备驶离这个信标"
+"点。"
 
 #: src-en/data/events_deepone.xml:3432
 msgid ""
@@ -4380,12 +5352,14 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:3445
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/destroyed/text"
-msgstr ""
+msgstr "虽然那些深渊潜者没能亲自前来向你道谢，但在你拆解这艘异种猎人飞船时，内心依旧"
+"感到十分畅快。"
 
 #: src-en/data/events_deepone.xml:3449
 msgid ""
 "data/events_deepone.xml$//ship[@name=\"SHIP_DISTRESS_DEEPONE_CLANSMAN_SLUG_FIGHT\"]/deadCrew/text"
-msgstr ""
+msgstr "尽管那些深渊潜者无法亲自前来向你道谢，但在你拆解这艘异种猎人飞船时，你心里还"
+"是感觉相当不错。"
 
 #: src-en/data/events_deepone.xml:3456
 msgid ""
@@ -4411,11 +5385,16 @@ msgstr "继续。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN_DEEPONE_WIN\"]/text"
 msgstr ""
+"等你对打捞到的东西满意之后，异种猎人联络了你。“希望你没太指望能有多少道谢，联"
+"邦佬，那本来是我们的目标。虽说如此，那些家伙也没那么容易被解决……”蛞蝓人顿了顿"
+"。“就当我们扯平了。回头见，联邦佬。”说完，异种猎人的飞船从信标处跃迁离去。算"
+"不上热烈的致谢，但他们的感激已经足够明显。"
 
 #: src-en/data/events_deepone.xml:3479
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[1]/text"
-msgstr ""
+msgstr "你奇迹般地毫发无损逃出了战斗，找了一处僻静的地方保持距离，等待超光速引擎充能"
+"。"
 
 #: src-en/data/events_deepone.xml:3481
 msgid ""
@@ -4430,7 +5409,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:3490
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[2]/text"
-msgstr ""
+msgstr "尽管你的飞船被几发流弹击中，你还是成功脱离了战斗，找了一处僻静的地方，在超光"
+"速引擎充能的同时休整恢复。"
 
 #: src-en/data/events_deepone.xml:3493
 msgid ""
@@ -4445,7 +5425,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:3502
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[3]/text"
-msgstr ""
+msgstr "你的飞船遭到的交叉火力比预想中要多，但你还是成功脱身，找了一处安静的地方，一"
+"边等待超光速引擎充能，一边休整修复。"
 
 #: src-en/data/events_deepone.xml:3505
 msgid ""
@@ -4460,7 +5441,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:3514
 msgid ""
 "data/events_deepone.xml$//eventList[@name=\"DISTRESS_DEEPONE_CLANSMAN_GETOUT\"]/event[4]/text"
-msgstr ""
+msgstr "你的飞船承受的交叉火力超出了预期，但你还是成功脱身，找了一处僻静之地，在超光"
+"速引擎充能的同时休整修复。"
 
 #: src-en/data/events_deepone.xml:3517
 msgid ""
@@ -4475,6 +5457,8 @@ msgstr "跳过。"
 #: src-en/data/events_deepone.xml:3529
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/text"
 msgstr ""
+"抵达求救信标后，窗外立刻有炮火呼啸而过……你直接坠入了两艘飞船交战的中心！显然"
+"是蛞蝓异种猎人以猎杀深潜者为乐，除非你想被流弹波及，否则必须尽快选边站。"
 
 #: src-en/data/events_deepone.xml:3531
 msgid ""
@@ -4485,6 +5469,9 @@ msgstr "攻击异种猎人。"
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[1]/event/text"
 msgstr ""
+"你调转矛头对准异种猎人，准备发起进攻。他们判定你威胁更大，随即转向迎战你。与"
+"此同时，那艘深渊潜者的飞船立刻抓住机会，逃离了这个星系。看来你是得不到任何道"
+"谢了……"
 
 #: src-en/data/events_deepone.xml:3536
 msgid ""
@@ -4494,12 +5481,14 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:3542
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/text"
-msgstr ""
+msgstr "攻击深渊潜者。"
 
 #: src-en/data/events_deepone.xml:3544
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[2]/event/text"
 msgstr ""
+"你调转方向对准深渊潜者，准备发起进攻。他们判定你威胁更大，随即转头迎战你。与"
+"此同时，异种猎人停止了开火，在远处旁观这场战斗。看来你不会得到任何援助了……"
 
 #: src-en/data/events_deepone.xml:3547
 msgid ""
@@ -4509,11 +5498,14 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:3553
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_CLANSMAN\"]/choice[3]/text"
-msgstr ""
+msgstr "碰碰运气，设法突围逃离。"
 
 #: src-en/data/events_deepone.xml:3560
 msgid "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_TRAP\"]/text"
 msgstr ""
+"你抵达求救信标，可这里的深渊潜者飞船立刻转向对准你，武器正在充能——你落入了一"
+"场伏击。这些深渊潜者本非生性凶残，或许是某些事让他们陷入了绝境……但无论如何，"
+"现在你必须自卫反击！"
 
 #: src-en/data/events_deepone.xml:3563
 msgid ""
@@ -4523,207 +5515,286 @@ msgstr "继续。"
 #: src-en/data/events_deepone.xml:3570
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/text"
-msgstr ""
+msgstr "附近的一颗卫星上有一处深渊潜者定居点。你推测这应该就是求救信号的来源，但从当"
+"前距离看去，暂时没有发现明显异常。"
 
 #: src-en/data/events_deepone.xml:3572
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/text"
-msgstr ""
+msgstr "靠近前去探查。"
 
 #: src-en/data/events_deepone.xml:3574
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/text"
-msgstr ""
+msgstr "这里一切看起来都很正常。飞船按规律进出，深渊潜者们在街道上从容走动，毫无异样"
+"。"
 
 #: src-en/data/events_deepone.xml:3576
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "着陆并锁定求救信号的源头。"
 
 #: src-en/data/events_deepone.xml:3578
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你着陆后，置身于深潜者风格的建筑之中，目之所及是大片的蓝紫色调，还有多得刺眼"
+"的青绿色灯光。深渊潜者们似乎并不在意你的到来，你最终锁定了求救信号的源头。你"
+"被带到定居点一处僻静的角落，住宅区尽头一间偏小的房屋前。站在门口时，依旧没有"
+"任何迹象显示这里发生了紧急情况。"
 
 #: src-en/data/events_deepone.xml:3580
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你抬手敲了敲门。."
 
 #: src-en/data/events_deepone.xml:3582
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "无人应答，屋内也听不到任何动静。"
 
 #: src-en/data/events_deepone.xml:3584
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "你再次敲了敲门。"
 
 #: src-en/data/events_deepone.xml:3586
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "这次你敲得响了许多，屋内传来一阵拖沓的响动，却依旧没有人来开门。"
 
 #: src-en/data/events_deepone.xml:3588
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "你再次敲门......"
 
 #: src-en/data/events_deepone.xml:3590
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"就在你准备第三次敲门时，门猛地被拉开，出现在你面前的是一位衣衫凌乱的年老深渊"
+"潜者。它上下打量着你，看过你的制服后开口道：“联邦的人……找上门来？为了……什么事"
+"？”"
 
 #: src-en/data/events_deepone.xml:3592
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你的屋内正发出求救信号。"
 
 #: src-en/data/events_deepone.xml:3594
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"“求救信——”这位深渊潜者短暂顿住，面露错愕。“抱歉……稍等一下。”它关上了门，你听"
+"见屋内传来更多挪动的声响。没过多久它便折返回来，手里拿着一个求救信标，只是这"
+"个信标看起来已经严重破损。“这就是……信号的来源吗？”"
 
 #: src-en/data/events_deepone.xml:3596
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "没错，这就是求救信标。"
 
 #: src-en/data/events_deepone.xml:3598
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"它显然十分窘迫，连忙回应道：“我的天……这是我从一个游走的自由螳螂商贩手里买的，"
+"他说这是个‘减压信标’……要么，就是我当时听错了。”它思索片刻，接着说道：“真的万"
+"分抱歉给你惹了麻烦。我……真想有什么能补偿你的办法，可我实在想不出来。”"
 
 #: src-en/data/events_deepone.xml:3600
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者船员）或许是有办法的？"
 
 #: src-en/data/events_deepone.xml:3602
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你的深渊潜者同伴对着面前这位年长深潜者低声说了几句，年长深渊潜者的脸上立刻浮"
+"现出恐惧的神情。它点了点头，也低声回了几句，随后关上房门，退回了屋内。你询问"
+"你的深渊潜者同伴刚才是怎么回事，它却示意你安静，坚持让你们先稍等片刻。"
 
 #: src-en/data/events_deepone.xml:3604
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
-msgstr ""
+msgstr "那我们就等一等。"
 
 #: src-en/data/events_deepone.xml:3606
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"等候片刻之后，那位深渊潜者走了出来，手里拎着一只公文箱。“那我们走吧……既然他们"
+"是这么裁定的。”它在“他们”这个词上特意加重了语气，你挑了挑眉，而你的深渊潜者同"
+"伴只是对此轻描淡写，一带而过。你们一行人返回飞船，年长的深渊潜者也一同随行，"
+"它显然打算加入你们的船员队伍。你并不清楚同伴当初说了些什么，能让它抛下这里的"
+"一切，不过……你向来不会拒绝新的船员。"
 
 #: src-en/data/events_deepone.xml:3614
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
-msgstr ""
+msgstr "（自由螳螂船员）“别怀疑，行商的话尽管信！”"
 
 #: src-en/data/events_deepone.xml:3616
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
+"你的自由螳螂族同伴拍了拍深渊潜者手中的信标，信标立刻释放出一阵舒缓的能量……哇"
+"，这东西真的能减压。深渊潜者同样对此惊叹不已，在释然的叹息中费力开口：“这……太"
+"妙了……拿着……这个……这是我……能报答这份……天大恩情的……一点心意……”它迈着沉浸在愉悦"
+"中的步伐，慢慢走回屋内，随后捧着一大堆好东西走了出来。你不确定它此刻是不是在"
+"完全清醒的状态下送出这些物品，但你向来不会拒绝他人的好意。你收下了这份回礼，"
+"和深渊潜者道别，随后动身返回飞船。"
 
 #: src-en/data/events_deepone.xml:3621
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）“哼，典型的骗~~~ 局！”"
 
 #: src-en/data/events_deepone.xml:3623
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
+"你的蛞蝓族船员放声大笑，顺手把深渊潜者手中的小装置打飞，装置却突然释放出一阵"
+"舒缓的能量…… 哇，这东西真的能减压。这股能量对你的蛞蝓族船员却产生了截然相反的"
+"效果，它尖叫着惊恐地跑回飞船，不过你觉得，它大概只是被自己这颇具机械天赋的力"
+"量吓到了。深渊潜者同样对此惊叹不已，在释然的叹息中勉强开口：“这…… 太妙了…… 拿"
+"着…… 这个…… 这是我…… 能报答这份…… 天大恩情的…… 最起码的心意……” 它迈着沉醉在愉"
+"悦中的步子慢慢走回屋内，随后捧着一大堆好东西走了出来。你不确定它此刻是不是在"
+"完全清醒的状态下送出这些物品，但你向来不会拒绝他人的好意。你收下这份回礼，与"
+"深潜者道别，随后动身返回飞船。"
 
 #: src-en/data/events_deepone.xml:3628
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/text"
-msgstr ""
+msgstr "（工程师船员）让你的工程师检查这个信标。"
 
 #: src-en/data/events_deepone.xml:3630
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
+"你的工程师把这个小装置在手里掂了几下，随即用扳手果断地敲了一下。信标立刻被激"
+"活，骤然释放出一阵舒缓的能量……哇，这东西真的能减压。深渊潜者同样又惊又喜，在"
+"释然的轻叹中勉强开口：“这……太妙了……拿着……这个……这是我……能报答这份……天大恩情的"
+"……一点心意……”它脚步轻快、满心愉悦地慢慢走回屋内，很快又捧着一大堆好东西走了出"
+"来。你不确定它是不是在完全清醒的状态下送出这些东西，但你向来不会拒绝别人的好"
+"意。你收下这份谢礼，和深渊潜者道别，随后动身返回飞船。"
 
 #: src-en/data/events_deepone.xml:3635
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/text"
-msgstr ""
+msgstr "你这边碰巧有没有……什么闲置的破烂玩意儿？"
 
 #: src-en/data/events_deepone.xml:3637
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[5]/event/text"
 msgstr ""
+"“……破烂？”它环顾了片刻，目光落在手中的信标上，“这东西……现在想来，应该就算是破"
+"烂了吧。”\n"
+"深渊潜者把信标递给你，再次道了歉。你随即回到飞船，驶离了这片定居点。\n"
+"总的来说，这趟行程大半都在浪费时间，不过你至少可以把这个信标拆解掉，从里面榨"
+"出一丁点可用的材料……"
 
 #: src-en/data/events_deepone.xml:3648
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "够了，把门砸开！"
 
 #: src-en/data/events_deepone.xml:3650
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你刚要动手砸门，门就猛地被拉开了。出现在你眼前的是一个衣衫凌乱的年老深渊潜者"
+"。它上下打量着你，看清你的制服后开口道：“联邦的人……居然找上门来？为……为了什么"
+"事？”"
 
 #: src-en/data/events_deepone.xml:3652
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "你的屋内正在发出求救信号。"
 
 #: src-en/data/events_deepone.xml:3654
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"“求救信——”这位深渊潜者短暂顿住，面露错愕。“抱歉……稍等一下。”它关上了门，你听"
+"见屋内传来更多挪动的声响。没过多久它便折返回来，手里拿着一个求救信标，只是这"
+"个信标看起来已经严重破损。“这就是……信号的来源吗？”"
 
 #: src-en/data/events_deepone.xml:3656
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "没错，这就是求救信标。"
 
 #: src-en/data/events_deepone.xml:3658
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"它显然十分窘迫，连忙回应道：“我的天……这是我从一个游走的自由螳螂商贩手里买的，"
+"他说这是个‘减压信标’……要么，就是我当时听错了。”它思索片刻，接着说道：“真的万"
+"分抱歉给你惹了麻烦。我……真想有什么能补偿你的办法，可我实在想不出来。”"
 
 #: src-en/data/events_deepone.xml:3660
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "（深渊潜者船员）或许是有办法的？"
 
 #: src-en/data/events_deepone.xml:3662
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你的深潜者同伴对着面前这位年长深渊潜者低声说了几句，年长深渊潜者的脸上立刻浮"
+"现出恐惧的神情。它点了点头，也低声回了几句，随后关上房门，退回了屋内。你询问"
+"你的深渊潜者同伴刚才是怎么回事，它却示意你安静，坚持让你们先稍等片刻。"
 
 #: src-en/data/events_deepone.xml:3664
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/text"
-msgstr ""
+msgstr "那我们就等一等。"
 
 #: src-en/data/events_deepone.xml:3666
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"等候片刻之后，那位深渊潜者走了出来，手里拎着一只公文箱。“那我们走吧……既然他们"
+"是这么裁定的。”它在“他们”这个词上特意加重了语气，你挑了挑眉，而你的深渊潜者同"
+"伴只是对此轻描淡写，一带而过。你们一行人返回飞船，年长的深渊潜者也一同随行，"
+"它显然打算加入你们的船员队伍。你并不清楚同伴当初说了些什么，能让它抛下这里的"
+"一切，不过……你向来不会拒绝新的甲板船员。"
 
 #: src-en/data/events_deepone.xml:3674
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/text"
-msgstr ""
+msgstr "（自由螳螂船员）“别怀疑，行商的话尽管信！”"
 
 #: src-en/data/events_deepone.xml:3676
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_FREEMAN\"]/event/text"
 msgstr ""
+"你的自由螳螂同伴拍了拍深渊潜者手中的信标，信标立刻释放出一阵舒缓的能量…… 哇，"
+"这东西真的能减压。深渊潜者同样对此惊叹不已，在释然的叹息中费力开口：“这…… 太"
+"妙了…… 拿着…… 这个…… 这是我…… 能报答这份…… 天大恩情的…… 一点心意……” 它迈着沉"
+"浸在愉悦中的步伐，慢慢走回屋内，随后捧着一大堆好东西走了出来。你不确定它此刻"
+"是不是在完全清醒的状态下送出这些物品，但你向来不会拒绝他人的好意。你收下了这"
+"份回礼，和深渊潜者道别，随后动身返回飞船。"
 
 #: src-en/data/events_deepone.xml:3681
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）“哼，典型的骗~~~局！”"
 
 #: src-en/data/events_deepone.xml:3683
 msgid ""
 "data/events_deepone.xml$//event[@name=\"DISTRESS_DEEPONE_MISUNDERSTANDING\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_SLUG\"]/event/text"
 msgstr ""
+"你的蛞蝓族船员放声大笑，顺手把深潜者手中的小装置打飞，装置却突然释放出一阵舒"
+"缓的能量…… 哇，这东西真的能减压。这股能量对你的蛞蝓族船员却产生了截然相反的效"
+"果，它尖叫着惊恐地跑回飞船，不过你觉得，它大概只是被自己这颇具机械天赋的力量"
+"吓到了。深潜者同样对此惊叹不已，在释然的叹息中勉强开口：“这…… 太妙了…… 拿着……"
+" 这个…… 这是我…… 能报答这份…… 天大恩情的…… 最起码的心意……” 它迈着沉醉在愉悦中"
+"的步子慢慢走回屋内，随后捧着一大堆好东西走了出来。你不确定它此刻是不是在完全"
+"清醒的状态下送出这些物品，但你向来不会拒绝他人的好意。你收下这份回礼，与深潜"
+"者道别，随后动身返回飞船。"
 
 #: src-en/data/events_deepone.xml:3688
 msgid ""
