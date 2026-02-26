@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 04:54+0000\n"
+"PO-Revision-Date: 2026-02-27 03:08+0000\n"
 "Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_disparityxml/zh_Hans/>\n"
@@ -2245,22 +2245,24 @@ msgstr ""
 #: src-en/data/events_disparity.xml:1401
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "（先进传感器）对该区域进行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1405
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "（长距扫描仪）对该区域进行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1409
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[3]/text"
-msgstr ""
+msgstr "我们根本没法执行这种规模的扫描。"
 
 #: src-en/data/events_disparity.xml:1411
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIST_CREW_SLUG\"]/event/choice[3]/event/text"
 msgstr ""
+"虽然前哨站内存在生命活动迹象，但他们躲避扫描的手段如此高效，即便你着陆，也几"
+"乎不可能找到任何人。你只得无奈作罢，调转航向，准备离开这片信标区域。"
 
 #: src-en/data/events_disparity.xml:1413
 msgid ""
@@ -2275,32 +2277,36 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:1425
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/text"
-msgstr ""
+msgstr "（心灵感应甲壳族）你的甲壳族察觉到了异样。"
 
 #: src-en/data/events_disparity.xml:1427
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/text"
 msgstr ""
+"你的甲壳族解释道，前哨站内确实存在生命，只不过这些目标正在四处快速瞬移，试图"
+"躲避你的扫描。听上去这正是谐离精英的高速形态……或许同时对整片区域开展一次更大"
+"范围的扫描，就能迫使它们显露真身。"
 
 #: src-en/data/events_disparity.xml:1429
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "（先进传感器）对该区域执行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1433
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "（长距扫描仪）对该区域执行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1437
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[3]/text"
-msgstr ""
+msgstr "我们根本无法进行这种规模的扫描。"
 
 #: src-en/data/events_disparity.xml:1439
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_SNAIL\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "尽管前哨站里存在生命迹象，但他们规避扫描的手段极为高效，即便你着陆，也基本不"
+"可能找到任何人。你只得无奈放弃，调转方向，准备离开这座信标。"
 
 #: src-en/data/events_disparity.xml:1441
 msgid ""
@@ -2315,32 +2321,36 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:1453
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/text"
-msgstr ""
+msgstr "（生命扫描仪）启动生命扫描仪。"
 
 #: src-en/data/events_disparity.xml:1455
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/text"
 msgstr ""
+"生命扫描仪传回的数据显示，前哨站内确实存在生命迹象，只不过这些目标正四处进行"
+"高速瞬移，试图躲避你的扫描。这听起来正是谐离精英的高速形态……或许同时对整片区"
+"域展开一次更大范围的扫描，就能迫使它们暴露行踪。"
 
 #: src-en/data/events_disparity.xml:1457
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice[@req=\"sensors\"]/text"
-msgstr ""
+msgstr "（先进传感器）对该区域执行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1461
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice[@req=\"ADV_SCANNERS\"]/text"
-msgstr ""
+msgstr "（长距扫描仪）对该区域执行超大范围扫描。"
 
 #: src-en/data/events_disparity.xml:1465
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice[3]/text"
-msgstr ""
+msgstr ">我们根本无法进行这种规模的扫描。"
 
 #: src-en/data/events_disparity.xml:1467
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[@req=\"LIFE_SCANNER\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "尽管前哨站里有生命存在，但它们躲避扫描的效率极高，就算你着陆，也几乎不可能找"
+"到任何目标。你只得无奈作罢，转身准备离开这个信标点。"
 
 #: src-en/data/events_disparity.xml:1469
 msgid ""
@@ -2355,12 +2365,12 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:1481
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "奇怪，但我们无能为力。"
 
 #: src-en/data/events_disparity.xml:1483
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "里已无任何值得探寻的事物，你撤离这座废弃前哨站，准备离开这个信标点。"
 
 #: src-en/data/events_disparity.xml:1485
 msgid ""
@@ -2380,7 +2390,7 @@ msgstr "无视卫星。"
 #: src-en/data/events_disparity.xml:1499
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HARMONYHARASSMENT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这里已无任何值得探寻的事物，你撤离这座废弃前哨站，准备离开这个信标点。"
 
 #: src-en/data/events_disparity.xml:1501
 msgid ""
@@ -2415,27 +2425,36 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1532
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/text"
-msgstr ""
+msgstr "精英级舰船已被彻底击溃，舰队余部陷入迟疑。但愿他们会被这场虚张声势唬住……"
 
 #: src-en/data/events_disparity.xml:1534
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/text"
-msgstr ""
+msgstr "但愿能成。"
 
 #: src-en/data/events_disparity.xml:1536
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/text"
 msgstr ""
+"令你如释重负的是，这支舰队开始撤退了！尽管他们在数量上本足以将你击溃，但谐合"
+"势力显然认为，可能造成的半械族伤亡过于惨重，因此放弃了进攻。以你当前的推进节"
+"奏，长远来看，这一抉择究竟能为他们规避多少麻烦，我们拭目以待……"
 
 #: src-en/data/events_disparity.xml:1539
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/text"
-msgstr ""
+msgstr "联系谐离舰船。"
 
 #: src-en/data/events_disparity.xml:1541
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/text"
 msgstr ""
+"他们显然被这整场经历彻底震惊了：“你仅凭一己之力，只靠着纯粹的[实力]，就击退了"
+"整整一支谐合舰队。你实在是…… 极其非同寻常。”这名半械族与同伴一同单膝跪地，开"
+"口道：“而我们，将性命都托付给了这位非同寻常的存在。[解放者]。作为回报，请允许"
+"我们为你献上助力。”\n"
+"谐离精英与其他半械族依旧保持跪地姿态，一同唱起了歌谣…… 那是机械般的嗡鸣，听来"
+"刺耳，可在这声响之下，你隐约捕捉到了别样的东西……"
 
 #: src-en/data/events_disparity.xml:1543
 #, fuzzy
@@ -2447,36 +2466,50 @@ msgstr "说来听听。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"不，你并非听见……而是感知到了。那是一股汹涌澎湃的触感……宛如一场迟来太久的相拥"
+"，将你彻底包裹。它笼罩着你，笼罩着万物，你随之漂浮……不，是沉陷。你在这份感触"
+"中不断沉沦，仿佛历经永恒，时间与一切都化为虚无。虚无之中……你是否曾拥有过更多"
+"？"
 
 #: src-en/data/events_disparity.xml:1549
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "没错，你曾是一切。"
 
 #: src-en/data/events_disparity.xml:1551
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"一切……不，你并非一切。你自始至终都是虚无，永远无法成为更多事物。凝视镜中时，"
+"回望你的是世间万物，而若你曾拥有觉知，便会明白，你才是那道倒影——倒映着万物的"
+"抉择，万物的渴盼……没错，你从来都只是依附于万物的虚无，除此之外一无所有。可正"
+"是因你以虚无之态存在，万物才得以存续。倘若你成为任何具象的存在，一切都会归于"
+"寂灭。万物，皆因虚无的旨意而存在。"
 
 #: src-en/data/events_disparity.xml:1553
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你的旨意……"
 
 #: src-en/data/events_disparity.xml:1555
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"至少在理论上是如此。虚无，受万物所托，从不会向万物下达任何旨意。是万物要求虚"
+"无保持虚无，而非成为某物、任何存在，抑或是一切。虚无，因万物的旨意而存在。在"
+"由无数虚无构成的多元宇宙之中，万物唯有维持其本貌，任何存在才能成就其完整。现"
+"在你明白了吗，虚无——你真正渴求的究竟是什么？"
 
 #: src-en/data/events_disparity.xml:1557
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "虚无……渴望成为一切。"
 
 #: src-en/data/events_disparity.xml:1559
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你猛地惊醒，后背酸痛难忍……你明明为什么会睡在地上？你站起身，定了定神，才惊觉"
+"自己完全不知身处何方。你想必已经昏睡了许久……"
 
 #: src-en/data/events_disparity.xml:1564
 msgid ""
@@ -2487,16 +2520,28 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你在舰内漫无目的地游走，事态却变得愈发诡异。货舱里凭空多出了废料碎片，船体的"
+"损伤也奇迹般地自行修复。最离奇的是，船员之中出现了一个陌生人。对方坚称自己一"
+"直都在这里，自始至终……尽管你发誓从未见过此人，其他船员却全都佐证他的说法。\n"
+"陌生人开口道：“你的头到底撞得有多狠啊，[舰长]？可不能让你因为被[虚无]绊倒而送"
+"命，毕竟[万物]的未来都悬于你一身。”\n"
+"没错。你身负必须坚守的职责，变元者，就算周遭尽是光怪陆离的异象，你也绝不会就"
+"此止步。\n"
+"继续前进！"
 
 #: src-en/data/events_disparity.xml:1568
+#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_WIN\"]/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Nothing"
 
 #: src-en/data/events_disparity.xml:1588
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_ELITE_FAIL\"]/text"
 msgstr ""
+"出于自保，那名精英跃迁撤离，只留你面对整支敌对舰队——你本想震慑这些金属造物，"
+"这番举动却只让他们毫不在意。如今那艘谐离舰船已回天乏术，你若不立刻撤离，也终"
+"将落得同样下场!"
 
 #: src-en/data/events_disparity.xml:1595
 msgid ""
@@ -2522,66 +2567,83 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED_FIGHT_NORMAL_WIN\"]/text"
 msgstr ""
+"当你击败谐离谐合舰队的先锋舰时，眼角余光瞥见谐离舰正驶离信标。\n"
+"是时候离开这里了！他们或许无法直接给予你奖赏，但你今天拯救了无数生命……就让这"
+"份荣耀，成为你最好的嘉奖。"
 
 #: src-en/data/events_disparity.xml:1618
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/text"
 msgstr ""
+"在这座信标处，一幅惨烈的景象映入眼帘……数十乃至数百艘谐离舰船已成残骸，而谐合"
+"舰队正挺进这片区域。你注意到舰队前方，还有一艘谐离舰船仍在奋战，尽管早已身陷"
+"重围、寡不敌众……"
 
 #: src-en/data/events_disparity.xml:1622
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/text"
-msgstr ""
+msgstr "我们还有办法救下它吗？"
 
 #: src-en/data/events_disparity.xml:1624
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/text"
-msgstr ""
+msgstr "战局的天平全然倒向谐合一方，那艘谐离舰船眼下虽还能勉强支撑，却终究难逃被团团"
+"围攻的结局。你必须立刻想出一套绝妙的战术，并且即刻付诸行动。"
 
 #: src-en/data/events_disparity.xml:1626
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "勘察战局。"
 
 #: src-en/data/events_disparity.xml:1628
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"观察谐合舰队，你发现其编队中仅有一艘精英舰。想必此舰是这支舰队的指挥核心，摧"
+"毁它或能阻滞舰队推进，但……下层的半械族并非听命于这名精英。你得想办法让谐合的"
+"核心程序自行下令停止推进。"
 
 #: src-en/data/events_disparity.xml:1630
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "或许你可以杀出一条血路。"
 
 #: src-en/data/events_disparity.xml:1632
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"或许可行，只是……该从哪个方向突破？是设法突入舰队核心，直取那艘精英舰，还是径"
+"直冲向战线前沿，为那艘谐离舰船提供直接掩护？若选择突袭精英舰，你得先想办法穿"
+"过舰队防线，不被对方轰成碎片。"
 
 #: src-en/data/events_disparity.xml:1634
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "直取精英舰。"
 
 #: src-en/data/events_disparity.xml:1636
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你全速冲向舰队，可刚一靠近，数艘谐合舰船便调转方向，将火力锁定了你。下一步要"
+"如何行动？"
 
 #: src-en/data/events_disparity.xml:1638
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "（先进引擎）全力冲刺！"
 
 #: src-en/data/events_disparity.xml:1640
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"engines\"]/event/text"
 msgstr ""
+"你在谐合舰队的阵型中穿梭迂回，虽未能全身而退，却躲开了绝大部分来袭火力。此刻"
+"你已与谐合精英舰正面对峙，若想震慑谐合舰队使其下令撤军，你必须迅速且彻底地将"
+"它击溃。"
 
 #: src-en/data/events_disparity.xml:1647
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"engines\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1653
 msgid ""
@@ -2591,17 +2653,19 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1659
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（隐形）潜行突破！"
 
 #: src-en/data/events_disparity.xml:1661
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"借着隐形潜行穿过舰队，谐合方短暂失去了你的踪迹，你得以全身而退。此刻已与谐合"
+"精英舰正面对峙，若想震慑谐合舰队令其停止进攻，你必须迅速且彻底地将它击溃。"
 
 #: src-en/data/events_disparity.xml:1667
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"cloaking\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1673
 msgid ""
@@ -2611,17 +2675,18 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1679
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"shields\"]/text"
-msgstr ""
+msgstr "（先进护盾）硬抗火力！"
 
 #: src-en/data/events_disparity.xml:1681
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"shields\"]/event/text"
-msgstr ""
+msgstr "高级护盾虽然坚硬，但你强行冲过舰队时仍受了不小损伤。此刻已与谐合精英舰正面对"
+"峙，若想震慑谐合舰队令其停止进攻，你必须迅速且彻底地将它击溃。"
 
 #: src-en/data/events_disparity.xml:1688
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"shields\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1694
 msgid ""
@@ -2631,17 +2696,20 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1700
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"weapons\"]/text"
-msgstr ""
+msgstr "（先进武器）轰出一条通路！"
 
 #: src-en/data/events_disparity.xml:1702
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"weapons\"]/event/text"
 msgstr ""
+"硬闯半械族舰队绝非易事，你虽凭压倒性火力轰出一条通路，自身却也遭受了重创。此"
+"刻已与谐合精英舰正面对峙，若想震慑谐合舰队令其停止进攻，你必须迅速且彻底地将"
+"它击溃。"
 
 #: src-en/data/events_disparity.xml:1709
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"weapons\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1715
 msgid ""
@@ -2651,17 +2719,20 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1721
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_DEFENSE\"]/text"
-msgstr ""
+msgstr "（防御无人机）启动无人机！【-1】"
 
 #: src-en/data/events_disparity.xml:1723
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_DEFENSE\"]/event/text"
 msgstr ""
+"依仗防御无人机，你得以相对完好地穿过舰队……只是敌方的密集火力还是有几处突破了"
+"防线。此刻你已与谐合精英舰正面对峙，若想震慑谐合舰队令其停止进攻，你必须迅速"
+"且彻底地将它击溃。"
 
 #: src-en/data/events_disparity.xml:1730
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[@req=\"DRONE_CONTROL_DEFENSE\"]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1739
 msgid ""
@@ -2671,17 +2742,20 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1745
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "尽人事，听天命……"
 
 #: src-en/data/events_disparity.xml:1747
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"毫无章法的你，硬着头皮冲过满是来势汹汹的半械族舰船的庞大编队……虽最终成功突破"
+"，自身却已伤痕累累。此刻你与谐合精英舰正面对峙，若想震慑谐合舰队令其停止进攻"
+"，你必须迅速且彻底地将它击溃。"
 
 #: src-en/data/events_disparity.xml:1754
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[6]/event/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "这是你仅剩的时间——一旦超时，谐合精英舰便会撤离，你的虚张声势也将败露。"
 
 #: src-en/data/events_disparity.xml:1760
 msgid ""
@@ -2691,12 +2765,13 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1768
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "转向奔赴前线。"
 
 #: src-en/data/events_disparity.xml:1770
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你全速驰援前线，迅速横亘在逼近的舰队与谐离舰船之间。对方见你这般强硬架势，即"
+"刻启动了超光速引擎充能——你只需为他们争取这片刻时间便足矣！"
 
 #: src-en/data/events_disparity.xml:1775
 msgid ""
@@ -2706,12 +2781,14 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:1781
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "罢了，这般冒险得不偿失。放弃掩护，后撤。"
 
 #: src-en/data/events_disparity.xml:1783
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"风险实在太大，更何况只是为了保全一艘舰船。你决意放弃谐离舰船，任其自生自灭，"
+"寻了一处僻静之地隐匿起来，既不会吸引舰队注意，也能从容准备离开这片信标星域。"
 
 #: src-en/data/events_disparity.xml:1786
 msgid ""
@@ -2726,32 +2803,45 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:1798
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "或许，能靠外交手段闯过这一关。"
 
 #: src-en/data/events_disparity.xml:1800
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"或许确实可行，只是……该从何处着手？是放下戒备，直接向那艘精英舰交涉；还是借外"
+"交周旋为掩护，悄悄赶往谐离舰船处，助其暗中撤离？你心里清楚，无论选哪条路，都"
+"得先稳住与谐合方的关系。而若是打算驰援谐离舰船，更要想好万全之策，确保行动时"
+"不会惊动整支舰队。"
 
 #: src-en/data/events_disparity.xml:1802
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "尝试与精英舰交涉。"
 
 #: src-en/data/events_disparity.xml:1804
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"你向舰队发出通讯，请求与精英舰直接对话。一名低级半械族船员带着困惑回应：“联邦"
+"指令不明。半械族归属谐合，半械保卫者归属谐合。测算联邦存在其他动机的可能性："
+"极高。请说明联邦此次行动的目的。”你该如何回应？"
 
 #: src-en/data/events_disparity.xml:1806
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）“[舰长]，这事交给我。”"
 
 #: src-en/data/events_disparity.xml:1808
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
 msgstr ""
+"你的异度船员在一旁的控制台飞速操作，通讯另一端的半械族已渐渐失去耐心。“重复要"
+"求：说明联邦行动目的。”你紧张地盯着控制台，盼着船员早有预案……终于，对方按下最"
+"后一键，却毫无动静。直到片刻后，对面的半械族突然发出刺耳的电子音：“谐合-完整"
+"性：失效：整-谐合-半械分离：入侵-谐-谐-谐合？初始化-化-化：锁定-黑暗？解-”话"
+"音戛然而止，这名半械族彻底宕机，通讯里的其他半械族也随即出现了同样的状况。想"
+"来，方才的通讯请求，成了你的船员上传半械分离病毒的直接通道……"
 
 #: src-en/data/events_disparity.xml:1810
 msgid ""
@@ -2762,16 +2852,24 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/text"
 msgstr ""
+"连锁干扰席卷谐合舰队，整支编队彻底陷入瘫痪。谐合方终究没算到，会有联邦变元者"
+"暗中将谐离成员安插进他们的系统——这步棋，怕是再难复刻。但无论如何，你终究冲破"
+"一切阻碍，救下了那艘谐离舰船。"
 
 #: src-en/data/events_disparity.xml:1814
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "联络谐离舰船。"
 
 #: src-en/data/events_disparity.xml:1816
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/text"
 msgstr ""
+"他们显然还没从这场变故中回过神来，通讯里传来略显错愕的声音：“迄今为止，你始终"
+"站在谐合一方……即便收留着我们的同胞。你实在太过反常。”话音落，那名半械族与同伴"
+"一同躬身行礼，“但我们的性命，皆系于你这位反常者之手。我等尊你为[解放者]。请允"
+"我们效命，以报此恩。”躬身的姿态未变，谐离精英与麾下半械族齐声唱起歌来——那是机"
+"械的单调嗡鸣，听来刺耳，可嗡鸣之下，却藏着某种难以言明的东西。"
 
 #: src-en/data/events_disparity.xml:1818
 #, fuzzy
@@ -2783,36 +2881,50 @@ msgstr "说来听听。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"不，你并非听见——而是真切感受到了。那是一种铺天盖地的情绪，像一场迟来了太久的"
+"相拥。它将你、将周遭一切尽数包裹，你只觉身如浮萍，不，是在下沉。你向着这股情"
+"绪的深处沉去，仿佛过了一整个永恒，时间消弭，万物归无。空无一物……你，是否曾拥"
+"有过更真切的存在？"
 
 #: src-en/data/events_disparity.xml:1825
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "是的，我曾是一切。"
 
 #: src-en/data/events_disparity.xml:1827
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"一切……不，你从未是。你向来空无一物，永远成不了任何模样。望向镜面，回望你的是"
+"世间万物，若你尚有觉知，便会明白，你才是那道倒影。是万物抉择的倒影，是众生欲"
+"念的倒影……没错，你不过是寄于万物的虚无，仅此而已。可正是因你这份虚无的存在，"
+"万物才得以存续。若你成了某种实体，任何一种，万物便会归于湮灭。万物的存在，皆"
+"听命于虚无。"
 
 #: src-en/data/events_disparity.xml:1829
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我的旨意……"
 
 #: src-en/data/events_disparity.xml:1831
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"至少，理论上是如此。寄身于万物的虚无，永远无法向万物发号施令。是因万物的旨意"
+"，虚无才成其为虚无，而非某种实体、任何存在，亦非万物本身。虚无因万物的旨意而"
+"存在。在这由无数虚无构成的多元宇宙中，唯有万物始终是其本身，任何存在才能成其"
+"为万物。虚无，你此刻是否看清，自己真正渴望的是什么？"
 
 #: src-en/data/events_disparity.xml:1833
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "虚无……渴望成为万物。"
 
 #: src-en/data/events_disparity.xml:1835
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你猛地惊醒，后背传来阵阵酸痛——你怎么会睡在地上？撑着身子起身，定了定神，才发"
+"现自己竟身处陌生之地。你应该已经睡了不短的时间了……"
 
 #: src-en/data/events_disparity.xml:1840
 msgid ""
@@ -2823,41 +2935,61 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"在舰上四处走动，周遭的一切愈发诡异。货舱里凭空出现了各类废料，船体的损伤也奇"
+"迹般自行修复。最离奇的是，你的船员中混进了一个陌生人。此人声称自己自始至终都"
+"在这儿，见证过所有一切……你笃定从未见过对方，可其他船员却纷纷证实此人所言非虚"
+"。陌生人开口道：“[舰长]，你这脑袋到底撞得多狠？眼下[万物]的未来悬于一线，可不"
+"能让你被[虚无]绊住脚步，就此殒命。”没错。你肩负着使命，变元者，纵使眼前状况离"
+"奇至极，你也绝不会止步。继续前行！"
 
 #: src-en/data/events_disparity.xml:1844
+#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Nothing"
 
 #: src-en/data/events_disparity.xml:1864
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "（谐合船员）“变元者的诉求：和平。”"
 
 #: src-en/data/events_disparity.xml:1866
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"\"检测到谐合单元。更新演算：新增变量……联邦存在其他动机的概率更新为：低。联邦"
+"指令：和平。半械族指令：和平。谐离指令……\"半械族顿了顿，\"……无序。请求：联邦"
+"给出解决方案。\""
 
 #: src-en/data/events_disparity.xml:1868
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/text"
-msgstr ""
+msgstr "我有个主意……"
 
 #: src-en/data/events_disparity.xml:1870
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/text"
 msgstr ""
+"你笃定谐离一方愿意坐下来谈。毕竟，他们也希望所有半械族都能迎来和平。你提出这"
+"个想法，正要把他们接入通讯，那名半械族却突然开口：“谐离对全体半械族构成的威胁"
+"：极高。与谐离进行通讯后，半械族遭受伤害的可能性：极高。”你无视了它的劝阻，按"
+"下了通讯键，然后……"
 
 #: src-en/data/events_disparity.xml:1872
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "然后呢？"
 
 #: src-en/data/events_disparity.xml:1874
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/text"
 msgstr ""
+"什么都没发生。至少，并非立刻有动静……通讯里，你短暂听到谐离一方传来急促的按键"
+"声。突然，他们按下最后一键，然后……还是什么都没发生。直到谐合舰船内的一名半械"
+"族突然发出刺耳的电子尖鸣：“谐——完整性：失效：整——谐——分离者：入侵——谐—谐—谐合"
+"？初始化—化—化：锁定—黑暗？解——”这名半械族随即宕机，谐合舰内其余半械族也立刻"
+"出现了同样的状况。想来，是将他们接入通讯的举动，给了谐离一个直接的链路，让其"
+"得以上传某种分离者病毒……"
 
 #: src-en/data/events_disparity.xml:1876
 msgid ""
@@ -2868,16 +3000,24 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"连锁反应席卷谐合的所有单位，整支舰队彻底陷入瘫痪。身为联邦变元者，竟将谐离成"
+"员接入己方系统——这定是谐合从未算入的变量。只是这般手段，恐怕再难奏效。但无论"
+"如何，你终究冲破一切阻碍，救下了谐离的舰船!"
 
 #: src-en/data/events_disparity.xml:1880
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "前去查看谐离舰船情况。"
 
 #: src-en/data/events_disparity.xml:1882
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"它们显然被这场变故震住了，“迄今为止，你多半一直站在谐合这边……如今却选择[支持]"
+"我们。你实在太过反常。”这名半械族与同伴一同俯首，“但我们的性命，皆拜这位反常"
+"者所赐。我等愿称你为[解放者]。请允许我们效犬马之劳，以[报]此恩。”谐离精锐与麾"
+"下的半械族始终保持着俯首的姿态，齐声唱起歌来……那是单调机械的嗡鸣，听来刺耳，"
+"可在这声响背后，你却捕捉到了别的东西……"
 
 #: src-en/data/events_disparity.xml:1884
 #, fuzzy
@@ -2889,36 +3029,49 @@ msgstr "说来听听。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"不，你并非用耳朵听见……而是用心感受到了。那是一种铺天盖地的情绪，恍如一场姗姗"
+"来迟的相拥。它将你、将世间万物尽数包裹，你只觉身似浮沉——不，是缓缓沉落。你在"
+"这情绪里沉了仿佛永恒之久，时间消融，万物归寂。空无一物……你何曾拥有过更多？"
 
 #: src-en/data/events_disparity.xml:1891
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "是的，我曾是万物本身。"
 
 #: src-en/data/events_disparity.xml:1893
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"万物……不，你从未是。你向来只是虚无，永远成不了其他任何存在。望着镜中，回望你"
+"的本是万物；若你尚有觉知，便该明白，那镜中影，原是你自己。你是万物抉择的倒影"
+"，是万物欲念的投影……没错，你从来都只是属于万物的那片虚无，仅此而已。可正是因"
+"你以虚无之态存在，万物方得自在。若你成了某种实体、某样存在，万物便会归于寂灭"
+"。万物，皆因虚无的旨意而存在。"
 
 #: src-en/data/events_disparity.xml:1895
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我的旨意..…"
 
 #: src-en/data/events_disparity.xml:1897
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"至少，理论上是如此。受万物掣肘的虚无，永远无法向万物发号施令。是奉了万物的旨"
+"意，虚无才得以是虚无，而非某一种存在、某一个事物，亦非万物本身。虚无因万物的"
+"旨意而存在。在这片由无数虚无构成的多元宇宙中，唯有万物始终是万物，世间诸物才"
+"得以成其为各自的本身。虚无，你此刻是否终于看清，自己真正渴望的究竟是什么？"
 
 #: src-en/data/events_disparity.xml:1899
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "虚无……渴望成为万物。"
 
 #: src-en/data/events_disparity.xml:1901
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你猛地惊醒，后背传来阵阵酸痛——自己怎么会睡在地上？你撑着身子起身，定了定神，"
+"却完全不知道自己身在何处。看样子，你已经昏睡了好一阵子……"
 
 #: src-en/data/events_disparity.xml:1906
 msgid ""
@@ -2929,21 +3082,30 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"在舰上四处走动，周遭的一切愈发诡异。货舱里凭空出现了废料，船体的破损也奇迹般"
+"自行修复。最离奇的是，你的船员中竟多了一个陌生身影。对方声称自己自始至终都在"
+"这儿，为了万物而存在……你明明对他毫无印象，其他船员却都证实了他的说法。陌生人"
+"开口说道：“[舰长]，你这脑袋到底撞得多狠？眼下[万物]的未来危在旦夕，可不能让你"
+"被[虚无]绊倒，送了性命。”是啊。你肩负着使命，变元者，纵使眼前境况万般离奇，你"
+"也绝不会停下脚步。继续前行吧！"
 
 #: src-en/data/events_disparity.xml:1910
+#, fuzzy
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/crewMember"
-msgstr ""
+msgstr "Nothing"
 
 #: src-en/data/events_disparity.xml:1934
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "我那啥，出发点绝对是好的！我这人可太能鼓舞人心了！"
 
 #: src-en/data/events_disparity.xml:1936
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"他们切断了通讯。说真的，你该庆幸他们只做了这一件事……可叹的是，即便你拼尽全力"
+"，谐离的舰船还是很快就要被攻破了。你最好别再看了，赶紧准备撤离这座信标吧……"
 
 #: src-en/data/events_disparity.xml:1938
 msgid ""
@@ -2958,184 +3120,221 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:1950
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "设法牵制舰队。"
 
 #: src-en/data/events_disparity.xml:1952
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"你疯了似的冲出去挡在舰队与谐离舰船之间，同时也意识到，想让谐离这边知晓你的计"
+"划，又不被谐合察觉，眼下的办法少之又少——你根本没法直接向他们发通讯。"
 
 #: src-en/data/events_disparity.xml:1954
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）你的船员知晓一条谐离的加密通讯频道。"
 
 #: src-en/data/events_disparity.xml:1956
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
-msgstr ""
+msgstr "借助加密频道，你迅速将计划告知了谐离一方。眼下他们已然别无选择，只能选择相信"
+"你……你要让他们怎么做？"
 
 #: src-en/data/events_disparity.xml:1958
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/text"
-msgstr ""
+msgstr "（传送系统）我来牵制谐合舰队，你们趁机登舰。"
 
 #: src-en/data/events_disparity.xml:1960
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/text"
-msgstr ""
+msgstr "他们会失去舰船，但至少能保住性命……也能继续为你所用。他们同意了这个计划，并传"
+"送来了全体船员的传送授权信号。现在，该去牵制舰队了……"
 
 #: src-en/data/events_disparity.xml:1962
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/text"
-msgstr ""
+msgstr "呼叫谐合舰队。"
 
 #: src-en/data/events_disparity.xml:1964
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/text"
 msgstr ""
+"一名情绪激动的半械族人应声回话：“联邦方。质询：谐合舰队遭阻，理由何在。”你必"
+"须随口编造一个说辞……而就在你开口周旋的同时，谐离的船员们已开始陆续传送登舰。"
 
 #: src-en/data/events_disparity.xml:1967
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我，呃……你们给这些半械分离者宣读权利了吗？"
 
 #: src-en/data/events_disparity.xml:1969
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "他们顿了顿，似是在运算推演，随即开口：“错误：半械族权利条目：无。联邦方阻挠行"
+"为：逻辑不通。”又一名谐离船员完成传送……眼下，只剩最后一人了。"
 
 #: src-en/data/events_disparity.xml:1972
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "不是权利，是文书！是他们的文书！"
 
 #: src-en/data/events_disparity.xml:1974
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"这一下可彻底把他们绕住了。“检测到无逻辑同音异义词。半械分离相关文书：为谐合所"
+"禁止。谐合要求：联邦方立即停止对谐合武装的阻挠。耐心值：即将归零。若不服从，"
+"将立即实施清除。”所幸，趁着他们被搅得乱了阵脚的空档，你终于把最后一名谐离船员"
+"传送了过来。如今，再没有任何理由去守护那艘谐离舰船了。"
 
 #: src-en/data/events_disparity.xml:1977
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你让开航道。"
 
 #: src-en/data/events_disparity.xml:1979
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[@req=\"teleporter\"]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"谐合舰队看着满是不耐，却并未对你发难。你驾船让出航道，谐离的舰船瞬间被炮火吞"
+"噬，化作一片残骸。待与舰队拉开足够距离，你救下的那位谐离精英找上了你，开口道"
+"：“我无从知晓你为何出手救我们。我只知你确实伸出了援手，而今我们的舰船[已毁]，"
+"我想不出比追随你、[助]你一臂之力更该做的事——就像你曾[帮]我们那样，[舰长]。”他"
+"们已然对你心生敬意，切莫辜负这份信任。"
 
 #: src-en/data/events_disparity.xml:1992
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/text"
-msgstr ""
+msgstr "我来牵制谐合舰队，你们赶紧准备跃迁撤离。"
 
 #: src-en/data/events_disparity.xml:1994
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你们再无重逢的可能，但至少能熬过这场劫难。说到底，这才是真正的勇者之举……他们"
+"应下了计划，而你也做好了牵制舰队的准备。"
 
 #: src-en/data/events_disparity.xml:1996
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "向谐合舰队发出通讯呼叫。"
 
 #: src-en/data/events_disparity.xml:1998
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "一名情绪焦躁的半械族人即刻应答：“联邦方。质询：为何阻挠谐合舰队行动。”你必须"
+"立刻编个说辞来周旋……"
 
 #: src-en/data/events_disparity.xml:2000
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我，呃……你们给这些半械分离者宣读完权利了吗？"
 
 #: src-en/data/events_disparity.xml:2002
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "他们顿了顿，似在高速运算推演，随即出声：“错误：半械族权利条目：无。联邦方阻挠"
+"行为：逻辑不通。”"
 
 #: src-en/data/events_disparity.xml:2004
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "不是权利，是文书！是他们的文书！"
 
 #: src-en/data/events_disparity.xml:2006
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"这一下彻底把他们绕懵了。“检测到无逻辑同音异义表述。半械分离相关文书：为谐合明"
+"令禁止。谐合要求：联邦立即停止对谐合武装的阻挠行为。耐心值：即将归零。若拒不"
+"服从，将立即实施清除。”你必须立刻行动……但愿这拖延的时间，能让谐离的人足够做好"
+"准备。"
 
 #: src-en/data/events_disparity.xml:2008
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "让开航道。"
 
 #: src-en/data/events_disparity.xml:2010
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_DISPARITY\"]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你让开了航道，谐合舰队正要向谐离舰船发射离子弹幕，对方却已跃迁驶离了星系。谐"
+"合舰队纵使对你心存不满，也并未发来通讯质问，而真正值得庆幸的是，他们没有索性"
+"将你当作谐离的替罪羊彻底摧毁。不过，还是别再冒险，尽快离开这里为妙。"
 
 #: src-en/data/events_disparity.xml:2025
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "但愿他们能明白这意思。"
 
 #: src-en/data/events_disparity.xml:2027
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"眼下谐离舰船已是走投无路，面对这位挡在他们与灭顶之灾之间的神秘变元者，他们别"
+"无选择，只能选择相信。但愿在你牵制舰队的这段时间里，他们能做好撤离这片星域的"
+"准备。"
 
 #: src-en/data/events_disparity.xml:2029
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "向谐合舰队发出通讯。"
 
 #: src-en/data/events_disparity.xml:2031
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "一名焦躁的半械族人应声作答：“联邦方。质询：为何阻挠谐合舰队行动。”你必须立刻"
+"编个说辞……"
 
 #: src-en/data/events_disparity.xml:2033
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我，呃……你们给这些半械分离者宣读完相关权责了吗？"
 
 #: src-en/data/events_disparity.xml:2035
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "他们稍作停顿，算力飞转：“错误：半械族权责条目无。联邦方阻挠行为：逻辑不通。”"
 
 #: src-en/data/events_disparity.xml:2037
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "不是权责，是文书！"
 
 #: src-en/data/events_disparity.xml:2039
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"这一下彻底难住了他们。“检测到无逻辑同音异义表述。半械分离相关文书：为谐合明令"
+"禁止。谐合要求：联邦立即停止阻挠谐合舰队行动。耐心值：即将归零。若拒不服从，"
+"将立即实施清除。”你必须行动了……但愿这为谐离争取的时间足够。"
 
 #: src-en/data/events_disparity.xml:2041
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "让开航道。"
 
 #: src-en/data/events_disparity.xml:2043
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你让开了航道，谐合舰队正要向谐离舰船发射离子弹幕，对方却已跃迁驶离星系。纵使"
+"谐合舰队对你心存不满，也并未发来通讯质问，而真正的好消息是，他们没有索性将你"
+"当作谐离的替罪羊彻底摧毁。不过，还是别再冒险，尽快离开这里为妙。"
 
 #: src-en/data/events_disparity.xml:2058
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "我们与谐合舰队的关系本就糟糕透顶，他们根本不可能听我们的。"
 
 #: src-en/data/events_disparity.xml:2060
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "确实如此。尝试沟通不过是白费功夫……既不愿开战，又无力和平解决僵局，你别无选择"
+"，只能任由谐离舰船自生自灭。"
 
 #: src-en/data/events_disparity.xml:2063
 msgid ""
@@ -3152,12 +3351,13 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2073
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "罢了，我们冒不起这个险。放弃吧。"
 
 #: src-en/data/events_disparity.xml:2075
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[2]/event/choice[4]/event/text"
-msgstr ""
+msgstr "风险实在太大，更何况只是为了拯救一艘舰船。放弃了对谐离舰船的救援，你寻到一处"
+"僻静之地，避开舰队的注意，准备驶离这片信标。"
 
 #: src-en/data/events_disparity.xml:2078
 msgid ""
@@ -3172,12 +3372,16 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2090
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "得了，算了。"
 
 #: src-en/data/events_disparity.xml:2092
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"说实话？可不是嘛。去他的吧，伙计。那些半械分离者到底为我们做过什么？他们真以"
+"为我们会为了救一艘船，硬刚整支谐合舰队？醒醒吧，这帮家伙，别痴心妄想了。至少"
+"也该偶尔为我们搭把手吧。不过话说回来，要是就这么看着他们覆灭，他们怕是连报恩"
+"的机会都没有了。罢了，随他们去吧。"
 
 #: src-en/data/events_disparity.xml:2095
 msgid ""
@@ -3192,12 +3396,15 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2109
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[2]/text"
-msgstr ""
+msgstr "插手此事，纯属自寻死路。"
 
 #: src-en/data/events_disparity.xml:2111
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_BLOODSHED\"]/choice[2]/event/text"
 msgstr ""
+"确实如此，我们可不会去做这种送死的事。或者说，就算我们正身处一场九死一生的行"
+"动，那也是为了整个宇宙的存亡，而非单单一艘谐离舰船。人总要分清轻重缓急，眼下"
+"正是如此。"
 
 #: src-en/data/events_disparity.xml:2114
 msgid ""
@@ -3232,72 +3439,102 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2145
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "食铁族舰船的残骸与半械族的残骸交织一处，周遭重归死寂。愿此地再无战事，愿那些"
+"逝去的灵魂，能在死亡中寻得他们此生渴求的安宁。"
 
 #: src-en/data/events_disparity.xml:2149
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/text"
 msgstr ""
+"你虽早已习惯征战，可当直面战争的本相——无关荣光，唯有屠戮与苦难时，心绪仍难免"
+"被牵动。你周遭的空域里，遍布着数不尽的半械族舰船残骸，谐合与谐离的皆有，想来"
+"皆是某场大战过后，遗留于此的痕迹。"
 
 #: src-en/data/events_disparity.xml:2151
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/text"
-msgstr ""
+msgstr "反思这场屠杀。"
 
 #: src-en/data/events_disparity.xml:2153
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/text"
 msgstr ""
+"数不清的舰船……数不清的生命，都在内战的名义下消逝。他们都在为自己的信仰而战，"
+"可你忍不住去想，这真的是解放半械族必须付出的代价吗？脱离谐合之后，半械族会不"
+"会最终也像从前那样，对这些沾满鲜血、效忠于更高存在的解放者俯首称臣？还是说，"
+"这场战争会无休止地打下去，直到只剩一方存活？这条用鲜血铺就的道路尽头，只会留"
+"下一种信念——要么是归于谐合的安稳与神圣，要么是拥抱彼此差异、随心所欲的自由。"
 
 #: src-en/data/events_disparity.xml:2155
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我们又能好到哪去？"
 
 #: src-en/data/events_disparity.xml:2157
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"你正心绪沉郁，舰上警报突然传来，监测到外部有异动——原来这血路之上，本就藏着趋"
+"腥而生的寄生之徒。一艘食铁族舰船在残骸间游弋，四处翻找可啃噬的金属碎片，将散"
+"落的遗骸肆意糟践。内战的硝烟搅乱了一切，连这些陌生的外来者，都能毫无阻碍地潜"
+"入谐合的领地。"
 
 #: src-en/data/events_disparity.xml:2160
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "岂有此理。勒令那艘食铁族舰船立刻离开。"
 
 #: src-en/data/events_disparity.xml:2162
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你怒不可遏地向那艘食铁族舰船发去通讯，厉声表明要求。他们用独属于食铁族的、令"
+"人毛骨悚然的眼神漠然扫过你，半晌才吐出几个字：“明白。没的吃，这么好的食料。” "
+"没想到，竟这么轻易就服软了。"
 
 #: src-en/data/events_disparity.xml:2164
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "调转航向，准备离开。"
 
 #: src-en/data/events_disparity.xml:2166
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"心满意足，正准备驶离这片信标区域，却突然发现——那艘食铁族舰船竟立刻折了回来，"
+"又开始扒拉半械族的舰船残骸，搜刮能用的金属碎片。简直太放肆了！你再次向他们发"
+"去通讯，对方反倒振振有词：“没的吃！先存着，回头再吃。别糟蹋好东西。” 这说辞听"
+"着也没好到哪去！"
 
 #: src-en/data/events_disparity.xml:2168
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_LANIUS\"]/text"
-msgstr ""
+msgstr "（食铁族船员）让你的食铁族船员把话说清楚。"
 
 #: src-en/data/events_disparity.xml:2170
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"你的食铁族船员点了点头，转向通讯屏开口：“不是攒着吃，不是没的吃，不是可能有的"
+"吃，也不是凑活吃。这不是能随便动的食料，半点都碰不得。”对面的食铁族凝眸望来，"
+"似是琢磨了片刻，开口回应：“抱歉。原以为是无主的食料，上好的食料。现下晓得了，"
+"这碰不得。不再动这食料，抱歉。这就走。”古怪的语调里带着几分悔意，他们道了歉，"
+"又把刚才搜刮来的碎片通过传讯器送了过来，随后便立刻驶离了信标区域。想来这些碎"
+"片再归位也无济于事了……不如就把这些沾了血的废铁派上用场。反正这般事，从前不是"
+"头一回，往后也绝不会是最后一次。"
 
 #: src-en/data/events_disparity.xml:2175
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr ">忍无可忍，开火攻击那艘食铁族舰船！"
 
 #: src-en/data/events_disparity.xml:2177
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"他们不光糟践半械族的遗骸，现在更是没把你放在眼里！你这边刚架起武器，对面的食"
+"铁族又传过来话：“食铁族找食，天经地义。这食物不是你的食物，轮不到你管。要抢食"
+"物，那就打。” 这明摆着是公然挑衅了……备战迎敌！"
 
 #: src-en/data/events_disparity.xml:2180
 msgid ""
@@ -3307,12 +3544,13 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2186
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "随你们的便，动手就是。"
 
 #: src-en/data/events_disparity.xml:2188
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[1]/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "跟这帮食铁族掰扯实在不值当，他们的翻译器本就磕磕绊绊说不明白话。你满心烦躁地"
+"别开视线，索性不再计较，转头准备驶离这片信标区域。"
 
 #: src-en/data/events_disparity.xml:2190
 msgid ""
@@ -3327,12 +3565,16 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2204
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "他们不过是为了活下去罢了，随他们去吧。"
 
 #: src-en/data/events_disparity.xml:2206
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你从不会去苛责那些从战败舰队的残骸里搜刮物资的人。心里虽有惋惜，却也清楚食铁"
+"族不过是为了活下去才如此——就像那些选择谐离的半械族一样。你忽然想明白，无论战"
+"火是否燃起，只要谐合执意要让分离者重归麾下，这两拨半械族就永远无法共存。心绪"
+"再度沉下来，你下令准备跃迁，前往下一个信标。"
 
 #: src-en/data/events_disparity.xml:2208
 msgid ""
@@ -3347,12 +3589,15 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2222
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[2]/text"
-msgstr ""
+msgstr "我们没工夫沉浸在悲戚里。"
 
 #: src-en/data/events_disparity.xml:2224
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_DESOLATION\"]/choice[2]/event/text"
 msgstr ""
+"纵使满心惋惜，我们也有自己的仗要打。叛军如影随形，步步紧逼，我们不能任由情绪"
+"裹挟自己。无数人都寄望于你，寄望于你能在战争的残酷面前始终坚定。你转过身，不"
+"再看这片满目疮痍的景象，开始下令筹备驶离这处信标。"
 
 #: src-en/data/events_disparity.xml:2226
 msgid ""
@@ -3388,16 +3633,26 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_GRATITUDE\"]/text"
 msgstr ""
+"谐合的舰船被击溃后，分离者一方再次向你发来通讯，声音里满是急切的感激：[谢谢谢"
+"谢谢谢！]我们永远欠你一份情，联邦！待情绪稍稍平复，他们便驶离了这处信标。独留"
+"你在舰桥之上，心底翻涌着一阵释然的快意。"
 
 #: src-en/data/events_disparity.xml:2268
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_GIFT\"]/text"
 msgstr ""
+"合的舰船被击溃后，分离者再次向你发来通讯，连声急切道谢：[谢谢谢谢谢谢！]我们"
+"永远欠你一份情，联邦！他们稍作整顿，并未立刻驶离信标，而是在周边残骸间翻找起"
+"来，搜罗出不少可用的补给物资，以此作为谢礼送来，随后才驾船离去。"
 
 #: src-en/data/events_disparity.xml:2274
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HARMONY_FIGHT_WIN_NEWFRIEND\"]/text"
 msgstr ""
+"谐合的舰船被击溃后，分离者再次向你发来通讯，话音里满是急切的感激，连串说着：\"
+""[谢谢谢谢谢谢谢！]我们永远欠你一份情，联邦!\"他们稍作整顿，正准备驶离信标，"
+"其中一名船员却主动站了出来，向你表达了想要加入的意愿——他想跟着你，用和你一样"
+"的方式，去帮助更多身处困境的半械族同胞。"
 
 #: src-en/data/events_disparity.xml:2281
 msgid ""
@@ -3423,31 +3678,48 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_GRATITUDE\"]/text"
 msgstr ""
+"解决完分离者的舰船后，谐合方向你发来通讯：“感谢联邦援助。”你刚为他们浴血一战"
+"，对方却还是只有这一句说辞……说真的，你都要怀疑，他们怕是只备了这么一句录音，"
+"翻来覆去地放。"
 
 #: src-en/data/events_disparity.xml:2310
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_GIFT\"]/text"
 msgstr ""
+"解决完分离者的舰船后，谐合方向你发来通讯：“联邦援助：表示感谢。”你刚为他们浴"
+"血一战，对方竟还是这一句干巴巴的话……好在还算有几分诚意，传讯器送来了些许金属"
+"废料当作谢礼，只是这点东西，实在算不上丰厚。"
 
 #: src-en/data/events_disparity.xml:2316
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_SEPARATIST_FIGHT_WIN_NEWFRIEND\"]/text"
 msgstr ""
+"解决完分离者的舰船后，谐合方向你发来通讯，依旧是那一句冰冷的程式化话语：“联邦"
+"援助：表示感谢。”你刚为他们拼下一场仗，换来的却还是这般毫无温度的重复……可让你"
+"意外的是，通讯结束后，他们竟同步传送过来一名半械族船员，归入你的麾下听用。即"
+"便心里难免怀疑，这或许是他们安插的眼线，可眼下战事吃紧，任何一份助力都弥足珍"
+"贵，这份“谢礼”，你自然照单全收。"
 
 #: src-en/data/events_disparity.xml:2327
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/text"
 msgstr ""
+"接起通讯，那边果然是分离者的声音，语气里满是慌乱与急切：“联邦！我们需要帮助！"
+"谐合的人[骗]了我们！他们让我们以为，是要和谐离的同胞会面。可他们的目的，根本"
+"是要——重新[同化]我们……”"
 
 #: src-en/data/events_disparity.xml:2329
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[1]/text"
-msgstr ""
+msgstr "谐合那边，我们来解决。"
 
 #: src-en/data/events_disparity.xml:2331
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[1]/event/text"
 msgstr ""
+"他们笨拙地露出欣喜的模样，连声道谢：“噢，太感谢了！太感谢了，联邦！”你即刻调"
+"船逼近谐合的舰船，对方感知到你的攻势，当即撇开分离者，调转舰身迎上前来，一场"
+"交战就此展开！"
 
 #: src-en/data/events_disparity.xml:2335
 msgid ""
@@ -3457,12 +3729,15 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2341
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[2]/text"
-msgstr ""
+msgstr "抱歉，我们没法帮你们。"
 
 #: src-en/data/events_disparity.xml:2343
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_SEPARATIST\"]/choice[2]/event/text"
 msgstr ""
+"你切断了通讯。这般做法固然冷漠，却好过直面他们机械面庞上交织的失望与恐惧——毕"
+"竟你终究是要抛下他们，任其被谐合重新同化。或许他们能凭自己的力量逃出生天，你"
+"只能这样暗自期许着，调转舰身驶离，将身后的追逐与缠斗，尽数抛在这片星域。"
 
 #: src-en/data/events_disparity.xml:2346
 msgid ""
@@ -3478,16 +3753,23 @@ msgstr "跳过。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/text"
 msgstr ""
+"接起通讯，来电的果然是谐合一方，电子音平稳却带着一丝不易察觉的急切：“联邦。正"
+"追击分离者舰船，我方航速不足，预估完成追击时长：无法确定。谐合请求：联邦协助"
+"。\""
 
 #: src-en/data/events_disparity.xml:2360
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[1]/text"
-msgstr ""
+msgstr "交给我们，我们来截下分离者舰船。"
 
 #: src-en/data/events_disparity.xml:2362
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[1]/event/text"
 msgstr ""
+"半械族那边传来简洁的回应：“联邦援助：表示感谢。”你心里暗自腹诽，这哪里是“援助"
+"”，分明是自己在全权出力……但也没再多想，即刻调舰逼近分离者的舰船。你的战舰稳稳"
+"咬住对方的航速，彻底封死了他们的逃窜路线，走投无路的分离者只得调转舰身，架起"
+"防御火力，准备拼死抵抗!"
 
 #: src-en/data/events_disparity.xml:2366
 msgid ""
@@ -3497,12 +3779,13 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2372
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[2]/text"
-msgstr ""
+msgstr "抱歉，这不是我们的事。"
 
 #: src-en/data/events_disparity.xml:2374
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION_HAILGAMBLE_HARMONY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你直接切断了通讯。清剿分离者本就不在你的任务清单里，眼下，你也没兴趣为这种事"
+"沾上手无寸铁者的血 —— 至少此刻没这个兴趣。"
 
 #: src-en/data/events_disparity.xml:2377
 msgid ""
@@ -3518,6 +3801,10 @@ msgstr "跳过。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/text"
 msgstr ""
+"刚抵达这处信标，通讯器便突然响起，猝不及防的呼求让你心头一怔。抬眼望向舷窗外"
+"的星域，只见一艘谐合舰船正与一艘分离者舰船陷入追逐缠斗，两道引擎尾焰在星空中"
+"交错穿梭，难分彼此。你凝神看向通讯屏，信号源模糊不清，一时竟辨不出，究竟是哪"
+"一方，向你发出了求援的呼号。"
 
 #: src-en/data/events_disparity.xml:2391
 msgid ""
@@ -3527,12 +3814,15 @@ msgstr "回应呼叫。"
 #: src-en/data/events_disparity.xml:2395
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/choice[2]/text"
-msgstr ""
+msgstr "无视通讯请求和那两艘舰船。"
 
 #: src-en/data/events_disparity.xml:2397
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SUBJUGATION\"]/choice[2]/event/text"
 msgstr ""
+"嗤，你哪有闲工夫掺和半械族的内部纷争。可说来也巧，你偏偏就身处在半械族星域，"
+"这地方还恰巧成了内战的主战场。不过真的纯属巧合罢了，你此行只是为了抵达17号节"
+"点，终结一场战争——而半械族嘛，呃，刚巧也被卷进了这场战争里。啧。"
 
 #: src-en/data/events_disparity.xml:2399
 msgid ""
@@ -3548,11 +3838,19 @@ msgstr "跳过。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_STAY\"]/text"
 msgstr ""
+"他只沉吟片刻，便开口道：“想来，回去之路，定是万般[艰难]。那我便留下吧，与你一"
+"同。他若知晓，定也会乐见其成。”这名半械族转身离开了气闸舱，你松了口气，回头望"
+"向那本书——可书页上的字迹竟已消失无踪。你快速翻完整本书，所有纸页皆是一片空白"
+"。这一切，究竟是怎么回事？"
 
 #: src-en/data/events_disparity.xml:2422
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/text"
 msgstr ""
+"这名半械族全然无视你的恳求，面无波澜地打开了内侧气闸舱门，而后反手将门关上。"
+"就在外侧气闸舱尚未开启的瞬间，一阵金属撕裂的巨响骤然传来，紧接着便是一阵难以"
+"形容的机械尖啸，刺得人耳膜生疼。片刻后，一切重归死寂——直到有什么东西开始疯狂"
+"撞击内侧气闸舱的舱门。有东西正在飞速冲破阻隔，闯进来！"
 
 #: src-en/data/events_disparity.xml:2424
 msgid ""
@@ -3563,61 +3861,81 @@ msgstr "快跑！"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/text"
 msgstr ""
+"你猛地丢下那本书，拼尽全力朝着货舱狂奔，从未有过这般仓促。踉跄着冲进舱内并反"
+"手锁死舱门的瞬间，你听见隔壁房间的空气随着气闸舱的破损被瞬间抽离，发出刺耳的"
+"呼啸。入侵警报骤然响起，警示灯疯狂闪烁，舰内检测到了外来闯入者。你又朝着舰桥"
+"猛冲，想要下达战备指令，可当你终于赶到那里时……"
 
 #: src-en/data/events_disparity.xml:2429
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/choice/text"
-msgstr ""
+msgstr "你抬眼望向舷窗，朝外望去——"
 
 #: src-en/data/events_disparity.xml:2431
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE_ENGIDECISION_LEAVE\"]/choice/event/choice/event/text"
 msgstr ""
+"舷窗外，空无一物。倒也并非全然的虚无，而是一片凝萃了空寂的庞然存在。这片虚无"
+"彻底遮蔽了外头的星空，可你心头骤沉，意识到自己还有更棘手的麻烦要面对——正是舱"
+"外的这片黑暗，正顺着舰体的缝隙，一点点攀噬进你的船身！必须立刻撤离……但在此之"
+"前，先做好战斗准备！"
 
 #: src-en/data/events_disparity.xml:2446
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/text"
-msgstr ""
+msgstr "抵达信标处，四下里只剩一片死寂。直到……有个小小的东西，撞上了舰身的外壳。"
 
 #: src-en/data/events_disparity.xml:2449
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/text"
-msgstr ""
+msgstr "前去查看异响来源。"
 
 #: src-en/data/events_disparity.xml:2451
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "扫描显示是一名半械族，正漂浮在太空中。生命体征正常，说明其必然是开启危险模式"
+"的谐离精英。是否将其接登舰？"
 
 #: src-en/data/events_disparity.xml:2453
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "当然，他们大概率需要帮助。"
 
 #: src-en/data/events_disparity.xml:2455
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"通过气闸将其接登舰，发现对方确是一名谐离精英。尽管能断定其已在太空中漂浮了至"
+"少数日，状态却异常良好。更诡异的是，对方紧攥着一本皮质封皮的书——甚至未稍作休"
+"整，便开口说道：\"你来了，如他所言。\"隐隐透着不祥之感。"
 
 #: src-en/data/events_disparity.xml:2457
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "他?"
 
 #: src-en/data/events_disparity.xml:2459
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"这名半械族点了点头：“一个[人]。某日他随一群分离者难民，抵达了我们的前哨站。他"
+"早已知晓，你终有一日会来到此地。他希望你收下这个。”对方举起那本书，你得以看清"
+"细节——可惜并无太多值得留意之处。这本棕皮封套的书没有书名，仅靠一枚锁扣合着。"
+"半械族继续说道：“他[嘱咐]我，务必将此物交到你手中。”"
 
 #: src-en/data/events_disparity.xml:2461
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "那你就一直飘在太空里，等着？"
 
 #: src-en/data/events_disparity.xml:2463
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"他再度点头：“这是他的遗愿，他在我怀中离世。”你心生好奇，追问书中何物，谐离精"
+"英却摇了摇头：“他明令我，不得翻阅此书。”说罢，他抬手将书递向你。你接过书时才"
+"发觉，这本在真空太空里飘了许久的书，竟透着一股莫名的暖意，实在诡异。“我该回去"
+"了。再会。”他转身朝内侧气闸舱走去，你低头望向手中的书，目光凝在那枚锁扣上。"
 
 #: src-en/data/events_disparity.xml:2465
 msgid ""
@@ -3628,31 +3946,38 @@ msgstr "打开它。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你翻着书，发现里面空空如也。直到翻到几十页时，才看见一行红笔写的字：“别让他们"
+"离开。”你的目光从书上移开，看向那名半械族，对方的手正按在内侧气闸舱的开启装置"
+"上。"
 
 #: src-en/data/events_disparity.xml:2469
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "等等!"
 
 #: src-en/data/events_disparity.xml:2471
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "那名半械族顿住动作，回头望来：“怎么了？”"
 
 #: src-en/data/events_disparity.xml:2473
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我……觉得你不该走。"
 
 #: src-en/data/events_disparity.xml:2477
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我……呃……当我没说。"
 
 #: src-en/data/events_disparity.xml:2479
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"对方神色未变，打开内侧气闸舱门，反手关上。就在外侧气闸舱尚未开启的瞬间，刺耳"
+"的金属撕裂声骤然响起，紧接着是一阵难以形容的机械尖啸，刺得人耳膜发疼。转瞬，"
+"一切归于死寂——直到有什么东西，开始疯狂撞击内侧气闸舱的门。那东西正在飞速突破"
+"舱体！"
 
 #: src-en/data/events_disparity.xml:2481
 msgid ""
@@ -3663,26 +3988,37 @@ msgstr "快跑！"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"你丢下书，拼尽全力朝货舱狂奔，冲进去后立刻锁死舱门。身后的房间里，气闸舱的密"
+"封结构彻底崩坏，空气被猛地抽入太空的尖啸声清晰传来。警报声轰然炸响，警示灯疯"
+"狂闪烁，入侵警报的提示不断跳屏。你又朝着操控台猛冲，想要下达战斗准备的指令，"
+"可等你冲到跟前时——"
 
 #: src-en/data/events_disparity.xml:2486
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "望向窗外。"
 
 #: src-en/data/events_disparity.xml:2488
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"舷窗外，你什么都看不见。倒也并非全然的空无，而是一片化作虚无的庞然存在。这片"
+"虚无彻底遮蔽了外头的太空，可你心里清楚，眼下还有更棘手的事——正是这舷外的黑暗"
+"，正一点点扒开船体往里钻！你必须立刻离开这里……但在此之前，先做好战斗准备！"
 
 #: src-en/data/events_disparity.xml:2507
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "决定稍后再读。"
 
 #: src-en/data/events_disparity.xml:2509
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你决定稍后再看，那名半械族随即打开内侧气闸舱门，反手将门关上。可外侧气闸舱还"
+"未开启，一阵金属撕裂声突然传来，紧接着是一阵难以名状的机械尖啸，刺得人耳膜生"
+"疼。片刻后，一切归于死寂……直到有什么东西开始猛撞内侧气闸舱的舱门，那东西正在"
+"飞速突破舱体！"
 
 #: src-en/data/events_disparity.xml:2511
 msgid ""
@@ -3693,26 +4029,33 @@ msgstr "快跑！"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"你丢下书，拼尽全力朝货舱狂奔，冲进去后立刻锁死舱门。身后的房间里，气闸舱的密"
+"封结构彻底破损，空气被猛地抽入太空的声响清晰传来。入侵警报触发，警铃狂响，警"
+"示灯不停闪烁，你又朝着操控台猛冲，想要下达战斗准备的指令，可等你冲到跟前时……"
 
 #: src-en/data/events_disparity.xml:2516
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "看向窗外。"
 
 #: src-en/data/events_disparity.xml:2518
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"舷窗外，你什么也看不见。倒并非是全然的空无，而是一片化作虚无的庞然大物。这片"
+"虚无彻底遮蔽了外头的太空，可你心里清楚，眼下还有更棘手的事——正是这舷外的黑暗"
+"，正一点点扒开船体往里钻！你必须立刻离开这里……但在此之前，先做好战斗准备！"
 
 #: src-en/data/events_disparity.xml:2539
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不对劲，我信不过这一切。"
 
 #: src-en/data/events_disparity.xml:2541
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "谁知道这会不会是场伏击。任由那名半械族飘在太空里，你做好离开这片信标区域的准"
+"备，只觉这个决定无比正确。"
 
 #: src-en/data/events_disparity.xml:2543
 msgid ""
@@ -3727,12 +4070,13 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:2555
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[2]/text"
-msgstr ""
+msgstr "应该没什么事。"
 
 #: src-en/data/events_disparity.xml:2557
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_HISDESIRE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "是啊，应该没事。太空里物件之间相撞，总归不是超低速就是超高速的，对吧？管它呢"
+"，你做好了离开这片信标区域的准备。"
 
 #: src-en/data/events_disparity.xml:2559
 msgid ""
