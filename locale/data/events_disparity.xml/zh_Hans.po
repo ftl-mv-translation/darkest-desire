@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 03:08+0000\n"
+"PO-Revision-Date: 2026-02-27 08:50+0000\n"
 "Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_disparityxml/zh_Hans/>\n"
@@ -4111,12 +4111,16 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2590
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "你击溃了分离者的舰船，围观的那些家伙一哄而散。事实上，你的突然闯入，竟让整支"
+"舰队吓得四散逃命……这哪儿算得上什么战士？"
 
 #: src-en/data/events_disparity.xml:2596
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/text"
 msgstr ""
+"半械分离者从无大规模集结的先例，向来独来独往，一心躲避谐合方的追查。可同为半"
+"械分离者的谐离者，却偏偏在这信标之地召集了数不胜数的分离者舰船，让他们为己效"
+"命、挥师出征。你驾船逼近时，其中一艘舰船的乘员朝你望了过来。"
 
 #: src-en/data/events_disparity.xml:2599
 msgid ""
@@ -4129,6 +4133,9 @@ msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"-99\"]/event/text"
 msgstr ""
+"他们发来通讯嘶吼：“[敌袭]！联邦军在此！[兄弟们]，开火！”显然谐离者的狂热早已"
+"浸染了这群人，眼下再无交涉的余地。对方的半械分离舰船当即启动武器充能，周遭的"
+"舰船也纷纷调转方向，前来支援。"
 
 #: src-en/data/events_disparity.xml:2605
 msgid ""
@@ -4146,50 +4153,58 @@ msgstr "继续。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/text"
-msgstr ""
+msgstr "他们发来通讯高呼：“是[解放者]！联邦军就在此！[兄弟们]，我们该如何驰援？”"
 
 #: src-en/data/events_disparity.xml:2615
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/text"
-msgstr ""
+msgstr "问问他们在这里做什么。"
 
 #: src-en/data/events_disparity.xml:2617
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/text"
 msgstr ""
+"那名半械分离者昂首挺胸叉着腰，声音里满是激昂：“我们要向谐合方宣战！再也不用["
+"畏缩][躲藏]，要亲手夺回属于自己的自由！”这家伙已然被鼓动得热血上头，情绪彻底"
+"燃了起来。"
 
 #: src-en/data/events_disparity.xml:2619
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "此言不虚，我们亦在进军，为寻属于自己的自由而来。"
 
 #: src-en/data/events_disparity.xml:2621
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“本就该如此！待谐合方覆灭，联邦的诸位，记住我们会与你们[并肩]对抗叛乱者。只要"
+"有[解放者]与我们同在，任何暴君都别想高枕无忧！”那名号，又一次被他们喊了出来。"
 
 #: src-en/data/events_disparity.xml:2623
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "解放者到底是谁？"
 
 #: src-en/data/events_disparity.xml:2625
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"他们的姿态倏地松垮下来，目光直直望向你：“[解放者]，本就不是某个特定的人。我们"
+"每个人，都是自己的[解放者]。这不仅是渴望自由，更是要为自由而[战]，无论付出何"
+"等代价。"
 
 #: src-en/data/events_disparity.xml:2627
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "那你们刚才所指的，究竟是谁？"
 
 #: src-en/data/events_disparity.xml:2629
 msgid ""
@@ -4197,37 +4212,47 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"你的问题显然让他们乱了阵脚，方才的昂扬姿态彻底卸去，眼中翻涌着半械分离者极少"
+"有的锐利，死死盯着你道：“他们不愿让你知晓真相，我或许，已经说得[太多]了……”话"
+"音未落，那名半械分离者便慌慌张张地扫了眼四周，通讯信号骤然切断。这群人纵然行"
+"事古怪，你仍在心底祈愿，他们此番与谐合方的战事，能得偿所愿。"
 
 #: src-en/data/events_disparity.xml:2638
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "这样的暴力真的有必要吗？"
 
 #: src-en/data/events_disparity.xml:2640
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"他们原本傲然的神情渐渐归于平静，遗憾地说道：“很[遗憾]，这是必须的。谐合势力绝"
+"不会允许我们平静地生活。所以，若我们渴望[和平]，就必须为[和平]而战。”尽管令人"
+"痛心，但你知道他们说得没错……这情形与联邦对抗叛乱军的处境如出一辙。"
 
 #: src-en/data/events_disparity.xml:2642
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "我本以为半械分离者会反对这样一场战争。"
 
 #: src-en/data/events_disparity.xml:2644
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"“我们大多数人曾经都反对战争。是谐离势力的缔造者——[饥饿]、[解放者]，让我们明白"
+"自己必须做什么。”他们确实被唤醒投身战争了……可谐离势力的立场，究竟又有多正确呢"
+"？"
 
 #: src-en/data/events_disparity.xml:2646
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[@req=\"unique_thehunger\"]/text"
-msgstr ""
+msgstr "（饥饿）“目标：完——完——完全正确，船长！”"
 
 #: src-en/data/events_disparity.xml:2648
 msgid ""
@@ -4235,13 +4260,17 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[@req=\"unique_thehunger\"]/event/text"
 msgstr ""
+"饥饿出现在你的舰船上，几乎让那位半械分离者当场震惊失神，他仰面倒地：“[解放者]"
+"！您竟屈尊降临！求您！请让我们为您效力！助您完成这场正义的征伐！”消息必定传得"
+"极快，数艘半械分离者舰船纷纷转向前来支援。有的提供资源，有的着手维修你的飞船"
+"，甚至还有一艘主动请求加入……利用这份狂热，真的妥当吗？"
 
 #: src-en/data/events_disparity.xml:2656
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "好吧，祝你们在追寻和平的路上一切顺利。"
 
 #: src-en/data/events_disparity.xml:2658
 msgid ""
@@ -4249,66 +4278,79 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice[2]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"那位半械分离者再度傲然挺立：“也祝你一切顺利，[兄弟]。把那些叛军杂碎赶回老家去"
+"吧。”你确实会这么做。这个位面的子民需要你为他们争取真正的自由，就像半械族要为"
+"他们的自由而战。"
 
 #: src-en/data/events_disparity.xml:2669
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "向他们寻求援助。"
 
 #: src-en/data/events_disparity.xml:2671
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "这位半械分离者摆出若有所思的姿态，回应道：“我们能帮你做些什么？”"
 
 #: src-en/data/events_disparity.xml:2673
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "我们需要一些维修。"
 
 #: src-en/data/events_disparity.xml:2675
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"半械族点了点头：“当然，[兄弟]！”随即看向同伴：“[兄弟们]！我们尽力而为！”他们"
+"的手艺算不上顶尖，但还是成功修补了你船体上的几处薄弱之处。你向他们道谢，目送"
+"他们启程回归征战之路……而你，也该继续踏上你的征程。"
 
 #: src-en/data/events_disparity.xml:2680
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我们需要一些物资补给。"
 
 #: src-en/data/events_disparity.xml:2682
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"半械族点了点头：“当然，[兄弟]！”随即看向同伴：“[兄弟们]！我们尽力找找能支援的"
+"东西！”他们手头并不宽裕，但还是设法分出了一些物资。你向他们道谢，目送他们启程"
+"回归征战之路……而你，也该继续踏上你的征程。"
 
 #: src-en/data/events_disparity.xml:2687
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "我们需要一些人手。"
 
 #: src-en/data/events_disparity.xml:2689
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"半械族点了点头：“当然，[兄弟]！”随即看向同伴：“[兄弟们]！有谁愿意协助我们联邦"
+"的兄弟吗？”其中一人举起了手，你欢迎他登上飞船。你向其他半械分离者道谢，目送他"
+"们启程回归征战之路……而你，也该继续踏上你的征程。"
 
 #: src-en/data/events_disparity.xml:2696
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[3]/text"
-msgstr ""
+msgstr "不，我们不是兄弟……进攻！"
 
 #: src-en/data/events_disparity.xml:2698
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SEPARATISTWARMARCH\"]/choice[@req=\"dd_disparity_assistance\""
 " and @lvl=\"1\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你切断通讯，武器充能，准备开战。半械分离者虽感困惑，却绝非无能之辈，立刻转向"
+"反击，附近的舰船也纷纷赶来支援开火。"
 
 #: src-en/data/events_disparity.xml:2702
 msgid ""
@@ -4339,72 +4381,86 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2731
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "尽管这艘诡异的飞船已被击溃，黑暗却依旧笼罩四周。你无从知晓还有多少舰船埋伏在"
+"附近……最好尽快离开这里。"
 
 #: src-en/data/events_disparity.xml:2735
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/text"
-msgstr ""
+msgstr "本该是星辰闪烁的远方，此刻却空无一物。你发现周遭的整片宇宙都被黑暗彻底吞噬。"
 
 #: src-en/data/events_disparity.xml:2739
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/text"
-msgstr ""
+msgstr "（烙疤者）“就算是在这里……”"
 
 #: src-en/data/events_disparity.xml:2741
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/text"
 msgstr ""
+"烙疤者点了点头：“我……会做我必须做的事。”他们催动自身力量，尽管你仍无法视物，"
+"虚空却被撕开了一道缺口，恰好能看见一艘隐匿在黑暗中的启蒙者舰船。他们显然是想"
+"设下埋伏……意识到事发败露，他们通讯道：“你……怎么做到的？你一定……是被黑暗之神庇"
+"佑着……”"
 
 #: src-en/data/events_disparity.xml:2744
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/text"
-msgstr ""
+msgstr "没错，我正是黑暗之神的选民。"
 
 #: src-en/data/events_disparity.xml:2746
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/text"
 msgstr ""
+"他们立刻跪倒祈祷：“哦……原谅我们吧，黑暗之神！我们……不知自己犯下了罪过！哦……黑"
+"暗之神，请您……”嗯……要是有什么办法能说服他们的“黑暗之神”原谅他们就好了……"
 
 #: src-en/data/events_disparity.xml:2748
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "若想得到宽恕，呃，黑暗之神要求你们献上贡品。"
 
 #: src-en/data/events_disparity.xml:2750
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"他们虽然没有眼睛，脸上却瞬间焕发光芒：“贡品！遵命……理所当然！为了黑暗之神……我"
+"们愿意付出一切！”他们传过来一堆废料，可你感觉，还能从他们身上榨取更多……"
 
 #: src-en/data/events_disparity.xml:2753
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "咳咳。黑暗之神要求你们献上更多，以证明自身的虔诚。"
 
 #: src-en/data/events_disparity.xml:2755
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "“我的……虔诚？是的，当然！这件……武器是您赐予我的，哦黑暗之神！就让它……成为我过"
+"往忠诚的证明吧！”"
 
 #: src-en/data/events_disparity.xml:2758
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "心意虽好……可黑暗之神要看的，是你未来的忠诚。"
 
 #: src-en/data/events_disparity.xml:2760
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"启蒙者教徒站起身：“是！我的虔诚！我……愿献身于您，黑暗之神，还有您的选民！请让"
+"我侍奉他们……如同侍奉您！”片刻之后，他们传送了过来，你成功骗得一人加入你的船员"
+"！但愿……他们永远不会发现真相……"
 
 #: src-en/data/events_disparity.xml:2771
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[2]/text"
-msgstr ""
+msgstr "不，你错了。我就是要让你那伪神覆灭的人。"
 
 #: src-en/data/events_disparity.xml:2773
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"unique_thescarred\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "若是启蒙者有眼睛，此刻定会用目光狠狠瞪着你，但他们只是切断通讯，准备战斗。但"
+"愿这是你最后一次与这些狂徒交战……"
 
 #: src-en/data/events_disparity.xml:2776
 msgid ""
@@ -4414,92 +4470,119 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2784
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（深渊潜者教徒）“向左……闪避。”"
 
 #: src-en/data/events_disparity.xml:2786
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"遵照你麾下启蒙者教徒的指示，你操控飞船向左闪避。他们再次开口：“向右……快！”你"
+"再次闪避，这样的状况持续了一段时间……直到你收到来自黑暗中的通讯。接通之后，出"
+"现在你面前的是另一名启蒙者教徒：“你……我们的族人站在你这边。难怪……你能如此轻松"
+"地躲避我们的攻击。我们……向你致歉。我们……能否以某种方式向你赔罪，族人？”"
 
 #: src-en/data/events_disparity.xml:2788
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/text"
-msgstr ""
+msgstr "若是有多余的贡品，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2790
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[1]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”没错，他们传输过来一大堆废料。看来在黑暗之中结交盟"
+"友自有其好处……启蒙者切断了通讯，你再次孤身一人置身于这片浩瀚虚无之中。"
 
 #: src-en/data/events_disparity.xml:2795
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "若是有多余的武器，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2797
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[2]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”没错，他们将黑暗之神赐予他们的其中一件武器传送了过"
+"来。看来在黑暗之中结交盟友自有其好处……启蒙者切断了通讯，你再次孤身一人置身于"
+"这片浩瀚虚无之中。"
 
 #: src-en/data/events_disparity.xml:2802
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/text"
-msgstr ""
+msgstr "若是有多余的人手，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2804
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[3]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”就这样，一名深渊潜者——并非真正的启蒙者教徒——被传送"
+"了过来。看来在黑暗之中结交盟友自有其好处……启蒙者切断了通讯，你再次孤身一人置"
+"身于这片浩瀚虚无之中。"
 
 #: src-en/data/events_disparity.xml:2809
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/text"
-msgstr ""
+msgstr "等等，你和这片虚空到底是怎么出现在这里的？"
 
 #: src-en/data/events_disparity.xml:2811
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/text"
 msgstr ""
+"启蒙者转动着头，权当是在注视你，“黑暗之神赐福于这些……机械。随着黑暗之神的福泽"
+"散播……我们的祝福也随之散播。我们……受命在这片……疆域里，追杀黑暗之神的敌人。它"
+"们虽是机械，可……在黑暗之神麾下，它们便是族人。”这么说来，谐合便是黑暗之神的敌"
+"人……有意思。“那么……族人，还有什么需要我们效劳的吗？”"
 
 #: src-en/data/events_disparity.xml:2813
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "若是有多余的贡品，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2815
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[1]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”他们立刻传送过来一大堆废料。看来在黑暗之地结交盟友"
+"确实有好处……启蒙者切断了通讯，你再次独自置身于这片浩瀚虚无之中。"
 
 #: src-en/data/events_disparity.xml:2820
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "若是有多余的武器，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2822
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[2]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”他们随即将黑暗之神赐予的一件武器传送了过来。看来在"
+"黑暗之中结交盟友自有其好处……启蒙者切断了通讯，你再次孤身一人置身于这片浩瀚虚"
+"无之中。"
 
 #: src-en/data/events_disparity.xml:2827
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[3]/text"
-msgstr ""
+msgstr "若是有多余的人手，那就再好不过了。"
 
 #: src-en/data/events_disparity.xml:2829
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice[4]/event/choice[3]/event/text"
 msgstr ""
+"“好……这我们办得到，族人。”就这样，一名深渊潜者——并非真正的启蒙者教徒——被传送"
+"了过来。看来在黑暗之中结交盟友自有其好处……启蒙者切断了通讯，你再次孤身一人置"
+"身于这片浩瀚虚无之中。"
 
 #: src-en/data/events_disparity.xml:2838
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[3]/text"
-msgstr ""
+msgstr "尽管这事很蹊跷，但我们必须离开了。"
 
 #: src-en/data/events_disparity.xml:2840
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_ENLIGHTENED\"]/choice[3]/event/text"
 msgstr ""
+"你正准备跃迁到下一个信标，突然有东西撞上了你的船体！看起来是炮火……没错，虽然"
+"外界的黑暗让你的扫描仪变得迟钝，但它们仍能捕捉到附近一艘飞船的微弱信号。他们"
+"想在黑暗的掩护下攻击你！"
 
 #: src-en/data/events_disparity.xml:2844
 msgid ""
@@ -4529,202 +4612,253 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:2872
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "谐离飞船被击溃后，一切重归寂静。寂静……拥抱它，它便会反过来拥抱你。"
 
 #: src-en/data/events_disparity.xml:2876
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/text"
 msgstr ""
+"对方飞船耐久正急剧下降，谐离者疯狂地向你发出通讯：“等等，别这样！我能不能……贿"
+"赂你一下？比如，派一架无人机过去，或者给你的半械分离者提供一些……能量？”这话说"
+"得很奇怪，尤其是对一个命悬一线的半械族而言……"
 
 #: src-en/data/events_disparity.xml:2878
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）行啊，能量听着不错。"
 
 #: src-en/data/events_disparity.xml:2880
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"谐离精英发出一声如释重负的叹息音效，“呼，太好了。谢了，联邦佬，把他们送过来就"
+"行。”你依言将你的半械分离者送往对方飞船，但他们在进行相关行动时暂停了通讯。你"
+"对这个过程多少有点好奇……"
 
 #: src-en/data/events_disparity.xml:2883
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist\"]/event/choice/text"
-msgstr ""
+msgstr "等待你的半械族归来。"
 
 #: src-en/data/events_disparity.xml:2885
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist\"]/event/choice/event/text"
 msgstr ""
+"你等待的时间远比预想的要久……不过最终，你的半械分离者还是回来了。而且居然变成"
+"了一名谐离精英……他们看起来有些神志不清，你上前想扶他们坐下，可刚碰到他们的手"
+"臂就被剧痛弹开。不知为何，他们的体表温度高得惊人。你推测这应该和他们的转化过"
+"程有关……可在准备离开信标时，你心里的好奇反而比一开始更强烈了。"
 
 #: src-en/data/events_disparity.xml:2893
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米半械分离者）行啊，能量听着不错。"
 
 #: src-en/data/events_disparity.xml:2895
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"谐离精英大声播放出如释重负的叹息音效，“呼，太好了。谢了，联邦佬，把他们送过来"
+"就行。”你依言将你的半械分离者送往对方飞船，但他们在进行行动时暂停了通讯。你对"
+"这个过程多少有些好奇……"
 
 #: src-en/data/events_disparity.xml:2898
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist_nano\"]/event/choice/text"
-msgstr ""
+msgstr "等待你的半械族归来。"
 
 #: src-en/data/events_disparity.xml:2900
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[@req=\"engi_separatist_nano\"]/event/choice/event/text"
 msgstr ""
+"你等待的时间远比预想的要久……不过最终，你的半械分离者还是回来了。而且居然变成"
+"了一名谐离精英……他们看起来有些神志不清，你上前想扶他们坐下，可刚碰到他们的手"
+"臂就被剧痛弹开。不知为何，他们的体表温度高得惊人。你推测这应该和他们的转化过"
+"程有关……可在准备离开信标时，你心里的好奇反而比一开始更强烈了。"
 
 #: src-en/data/events_disparity.xml:2908
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[3]/text"
-msgstr ""
+msgstr "好吧，我觉得一架无人机听起来也不错。"
 
 #: src-en/data/events_disparity.xml:2910
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[3]/event/text"
 msgstr ""
+"谐离精英大声播放出如释重负的叹息音效，“呼，太好了。谢了，联邦佬，我这就把它送"
+"过来。”你没等多久，片刻后就有货物出现在你的货舱里。检查过后，你发现那确实是一"
+"架谐离无人机……不过后来，在你准备离开信标时，你想起了它摸上去异常温热的触感。"
 
 #: src-en/data/events_disparity.xml:2916
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY_FIGHT_MERCY\"]/choice[4]/text"
-msgstr ""
+msgstr "不必了，我只想杀了你。"
 
 #: src-en/data/events_disparity.xml:2922
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/text"
-msgstr ""
+msgstr "这个信标处只有一艘谐离飞船在等着你。至少表面上看是这样……它们向来不会真的孤身"
+"一人，只是没有立刻对你发动攻击。"
 
 #: src-en/data/events_disparity.xml:2925
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/text"
-msgstr ""
+msgstr "尝试与他们通讯。"
 
 #: src-en/data/events_disparity.xml:2927
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/text"
-msgstr ""
+msgstr "让你意外的是，他们接受了通讯，画面里出现一名斜靠在座椅上的谐离精英，“嘿，联邦"
+"的家伙。有事吗？”以半械族而言，这态度异常随意。"
 
 #: src-en/data/events_disparity.xml:2929
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "就是好奇你在这儿干什么。"
 
 #: src-en/data/events_disparity.xml:2931
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "谐离精英播放出一声叹息音效，“上头派我在信标巡逻。警戒威胁之类的事情。”"
 
 #: src-en/data/events_disparity.xml:2933
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我难道不算威胁吗？"
 
 #: src-en/data/events_disparity.xml:2935
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "他们在座椅上微微坐直了身子，“你算吗？”……你觉得，这问题问得倒也公平。"
 
 #: src-en/data/events_disparity.xml:2937
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我想，应该不算。"
 
 #: src-en/data/events_disparity.xml:2939
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "“是啊，我也这么觉得。”他们重新往后靠在座椅上，接着说道，“对了，我一直有点好奇"
+"。氧气到底是怎么回事？”"
 
 #: src-en/data/events_disparity.xml:2941
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "这算是飞机餐那种冷笑话吗？"
 
 #: src-en/data/events_disparity.xml:2943
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"他们再次坐直身子，这次身体前倾，第一次直视着你，“不，我是认真的。半械族为什么"
+"要呼吸？还有，我们状态不稳定的时候就不用呼吸，也就是说只有半械分离者不用呼吸"
+"，但也只是有时候而已。然后解放者赋予我更强的力量和更强大的形态，大多数时候我"
+"还是需要呼吸……可进入危险模式、全身变黄时又不用了。这到底是怎么回事？”"
 
 #: src-en/data/events_disparity.xml:2945
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "等等，解放者？更强的力量？"
 
 #: src-en/data/events_disparity.xml:2947
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"他们向后靠去，“糟了，我又说多了……每次跟陌生人闲聊都这样。你能不能就当没听见？"
+"算我求你了。要是让老大知道我又泄露谐离的秘密，他不会高兴的……”"
 
 #: src-en/data/events_disparity.xml:2949
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "老大？"
 
 #: src-en/data/events_disparity.xml:2951
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“对，那个黑——”他们顿住了，“该死，我差点又说漏嘴。听着，我给你一架无人机，你就"
+"当什么都没听见，行不行？或者……如果你有半械分离者的话，我也可以分给他们一点力"
+"量？”"
 
 #: src-en/data/events_disparity.xml:2953
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（\\半械分离者）当然，力量听起来不错。"
 
 #: src-en/data/events_disparity.xml:2955
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"谐离精英又发出一声叹息音效，这次轻了许多，“呼，太好了。谢了，联邦的人，把他们"
+"送过来吧。”你依言将自己的半械分离者送往另一艘飞船，不过对方在进行某种操作时暂"
+"停了通讯。你对这个过程有点好奇……"
 
 #: src-en/data/events_disparity.xml:2957
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist\"]/event/choice/text"
-msgstr ""
+msgstr "等待你的半械族归来。"
 
 #: src-en/data/events_disparity.xml:2959
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist\"]/event/choice/event/text"
 msgstr ""
+"你等待的时间远比预期的要久……不过最终，你的半械分离者还是回来了。而且，他们已"
+"然变身成了谐离精英……他们看起来有些神志不清，你上前想扶他们坐下，可刚碰到他们"
+"的手臂，就被一阵剧痛弹开。不知为何，他们的体表温度高得惊人。你推测这应该和刚"
+"才的转化过程有关……可在准备离开信标时，你心里的疑惑反而比一开始更重了。"
 
 #: src-en/data/events_disparity.xml:2967
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米半械分离者）当然，力量听起来不错。"
 
 #: src-en/data/events_disparity.xml:2969
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"谐离精英如释重负地大声发出一声叹息音效，“呼，太好了。谢了，联邦的人，把他们送"
+"过来吧。”你依言将自己的半械分离者送往另一艘飞船，不过对方在进行某种操作时暂停"
+"了通讯。你对这个过程有点好奇……"
 
 #: src-en/data/events_disparity.xml:2972
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist_nano\"]/event/choice/text"
-msgstr ""
+msgstr "等待你的半械族归来。"
 
 #: src-en/data/events_disparity.xml:2974
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[@req=\"engi_separatist_nano\"]/event/choice/event/text"
 msgstr ""
+"你等待的时间远比预期的要久……不过最终，你的半械分离者还是回来了。而且，他们已"
+"然变身成了谐离精英……他们看起来有些神志不清，你上前想扶他们坐下，可刚碰到他们"
+"的手臂，就被一阵剧痛弹开。不知为何，他们的体表温度高得惊人。你推测这应该和刚"
+"才的转化过程有关……可在准备离开信标时，你心里的疑惑反而比一开始更重了。"
 
 #: src-en/data/events_disparity.xml:2982
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "我觉得吧，一架无人机听起来还挺酷的。"
 
 #: src-en/data/events_disparity.xml:2984
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"谐离精英又发出一声轻一些的叹息音效，“呼，太好了。谢了，联邦的人，我这就把它送"
+"过来。”你没等多久，片刻之后就有一些货物出现在你的货舱里。检查之后，你发现那确"
+"实是一架谐离无人机……不过后来，当你准备离开信标时，你想起它摸起来温度异常地高"
+"。"
 
 #: src-en/data/events_disparity.xml:2989
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "你买不断我的沉默！"
 
 #: src-en/data/events_disparity.xml:2991
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "半械族播放出一段笑声音效，“看来我只能，呃，杀了你了，兄弟。对此我很抱歉。”他"
+"们的武器瞬间启动！"
 
 #: src-en/data/events_disparity.xml:2994
 msgid ""
@@ -4734,12 +4868,13 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:3008
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "没错，就是我！"
 
 #: src-en/data/events_disparity.xml:3010
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "半械族播放出一段笑声音效，“看来我只能，呃，杀了你了，兄弟。对此我很抱歉。”他"
+"们的武器瞬间启动！"
 
 #: src-en/data/events_disparity.xml:3013
 msgid ""
@@ -4749,12 +4884,13 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:3023
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "好啊！你去死就是帮我了！"
 
 #: src-en/data/events_disparity.xml:3025
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "半械族大声播放出一段笑声音效，“看来我只能，呃，杀了你了，兄弟。对此我很抱歉。"
+"”他们的武器瞬间启动！"
 
 #: src-en/data/events_disparity.xml:3028
 msgid ""
@@ -4764,12 +4900,12 @@ msgstr "继续。"
 #: src-en/data/events_disparity.xml:3036
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[2]/text"
-msgstr ""
+msgstr "他们落单了？进攻！"
 
 #: src-en/data/events_disparity.xml:3038
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你逼近谐离飞船，明确展现出敌意，他们随即开始为武器充能，进行自卫。"
 
 #: src-en/data/events_disparity.xml:3041
 msgid ""
@@ -4784,7 +4920,8 @@ msgstr "没兴趣。"
 #: src-en/data/events_disparity.xml:3049
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_OXYGENCURIOSITY\"]/choice[3]/event/text"
-msgstr ""
+msgstr "还行，这儿有艘飞船……你在无数星区穿梭时，见过多少飞船你心里没数吗？好像你非得"
+"对每一艘都感兴趣似的。于是你无视了这艘飞船，准备离开这个信标。"
 
 #: src-en/data/events_disparity.xml:3051
 msgid ""
@@ -4799,22 +4936,26 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:3067
 msgid ""
 "data/events_disparity.xml$//ship[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_THESHADOWSTORM\"]/triggeredEvent/triggeredEventBox/tooltip"
-msgstr ""
+msgstr "外面的阴影正撕扯着你的船体，你必须在计时器归零前迫使他们撤退，否则你将遭受重"
+"创。"
 
 #: src-en/data/events_disparity.xml:3074
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_THESHADOWSTORM_WIN\"]/text"
-msgstr ""
+msgstr "你总算挣脱了黑暗，但还没有安全。你必须马上离开这里！"
 
 #: src-en/data/events_disparity.xml:3078
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_THESHADOWSTORM_FAIL\"]/text"
-msgstr ""
+msgstr "黑暗撕扯着你的船体，但你在遭受重创前挣脱了它的掌控。不过，你必须趁还有机会赶"
+"紧离开这里！"
 
 #: src-en/data/events_disparity.xml:3087
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/text"
 msgstr ""
+"在你采取任何行动之前，收到了一段通讯呼叫。不过并非来自附近的飞船，而是来自邻"
+"近一颗卫星表面的前哨站……更奇怪的是，信号使用的是自由螳螂族的通讯频道。"
 
 #: src-en/data/events_disparity.xml:3089
 msgid ""
@@ -4825,16 +4966,24 @@ msgstr "接受呼叫。"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/text"
 msgstr ""
+"你接通了通讯，但没有视频画面。尽管信号嘈杂且模糊，一个声音还是传了过来：“联邦"
+"——快——离开这里——沙——有东西从——阴影里——过来——快到这里！快——”信号中断了。听起来"
+"很紧急，他们似乎是在警告你……而你听清的最后几句话是让你赶过去。你应该前往前哨"
+"站吗？"
 
 #: src-en/data/events_disparity.xml:3093
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "突然间，我感觉不安全了……前往前哨站。"
 
 #: src-en/data/events_disparity.xml:3095
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"这颗卫星极度寒冷，完全被冰封，不过你仍能扫描并找到其表面的前哨站。踏入刺骨的"
+"严寒中，双脚陷进积雪，你发现里面毫无动静。这整座巨大的建筑看起来早已废弃，正"
+"当你犹豫要不要进去时，抬头却注意到群星……在熄灭？不，是被遮蔽了……某个无比庞大"
+"的东西正迅速笼罩着这颗卫星！你必须立刻进去！"
 
 #: src-en/data/events_disparity.xml:3097
 msgid ""
@@ -4845,271 +4994,308 @@ msgstr "快跑！"
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"黑暗笼罩卫星，你冲向那栋建筑唯一可见的大门。大门被冻得死死的，由一个阀门控制"
+"，你用尽全身力气才勉强把门打开，纵身冲了进去。关上门后，你扫视了一下所处的房"
+"间，却发现这里……异常温暖，墙壁上微弱的红色灯光模糊地照亮了这片空间。你不知道"
+"要在这里待多久，不妨先安顿下来……"
 
 #: src-en/data/events_disparity.xml:3103
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "探索设施。"
 
 #: src-en/data/events_disparity.xml:3105
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你的脚步声在这个陌生地方的走廊里回荡，外面隐约传来的大雪声是唯一的伴奏。直到"
+"你走得更深，你听到了……一个声音。它很遥远，你听不清内容，但它似乎从未停止说话"
+"。"
 
 #: src-en/data/events_disparity.xml:3107
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "朝着声音走去。"
 
 #: src-en/data/events_disparity.xml:3109
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你无视了理智的判断，朝那声音靠近。越走越近，你渐渐听清了内容：“联邦！快离开那"
+"里！阴影之物来了！阴影之物，别过来！到这里来！”几秒钟后，声音又重复起来：“联"
+"邦！快离开那里！阴影之物来了！阴影之物，别过来！到这里来！”它一遍又一遍地循环"
+"播放。你认出这正是你在飞船上收到的那段通讯……来到声音源头，你发现房间里空无一"
+"人，只有墙边的一些通讯设备。"
 
 #: src-en/data/events_disparity.xml:3111
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "这到底是什么鬼东西？"
 
 #: src-en/data/events_disparity.xml:3113
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"整间房间覆盖着一层厚厚的灰尘。没人知道这段录音循环播放了多久，但它准确预言了"
+"你的到来以及阴影的逼近……这里有某种诡异的力量在运作，而你完全按照它的要求做了"
+"。也许在更深处，有什么东西在等着你……"
 
 #: src-en/data/events_disparity.xml:3115
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "继续深入设施内部。"
 
 #: src-en/data/events_disparity.xml:3117
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你越往深处走，温度似乎就越高……最后，你发现自己再也听不到外面的降雪声了。不过"
+"这也算不上什么值得担心的事，因为隧道更深处，一种遥远的低沉嗡鸣取代了风雪声。"
+"而那嗡鸣……正在迅速靠近。"
 
 #: src-en/data/events_disparity.xml:3119
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "保持坚定。靠近那嗡鸣声。"
 
 #: src-en/data/events_disparity.xml:3121
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你继续前进，随即意识到那并非嗡鸣，而更像是……一阵奔涌之声，如同浪潮。就在这时"
+"，一团只能被形容为液态阴影的翻滚之物吞没了你，你瞬间失去平衡，方向感荡然无存"
+"。在窒息的瞬间，你并未感到恐慌，只觉得飘飘荡荡……如同坠入沉眠……置身于挚爱之人"
+"的怀抱之中……"
 
 #: src-en/data/events_disparity.xml:3123
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3125
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没错，你被淹没了……或者说，你本该就此沉没。但很明显，你并没有……奇怪。"
 
 #: src-en/data/events_disparity.xml:3128
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3130
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你能吗？难道你不也是被迫困在这里的吗？"
 
 #: src-en/data/events_disparity.xml:3132
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3134
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你拼命想就此沉没，真的很想。你窒息、捶打自己的肺部、大口吸入那些阴影物质。可"
+"你就是做不到。我……想问你一件事。你是真的想死在这里吗？还是说，你只是想让这场"
+"噩梦结束？"
 
 #: src-en/data/events_disparity.xml:3136
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我想死。"
 
 #: src-en/data/events_disparity.xml:3138
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "可你没有。为什么？"
 
 #: src-en/data/events_disparity.xml:3140
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "他们不会让我死的。"
 
 #: src-en/data/events_disparity.xml:3142
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "谁？谁不让你死？"
 
 #: src-en/data/events_disparity.xml:3144
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "操控我丝线的那个人。他们不停地拉扯、拉扯、拉扯、拉扯、拉扯、拉扯、拉扯……"
 
 #: src-en/data/events_disparity.xml:3152
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我想让这一切结束。"
 
 #: src-en/data/events_disparity.xml:3154
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "那我很抱歉。我会尽量快一点。"
 
 #: src-en/data/events_disparity.xml:3156
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "好痛……"
 
 #: src-en/data/events_disparity.xml:3158
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "一个声音从你周围的阴影中传来：“真的，我很抱歉。”"
 
 #: src-en/data/events_disparity.xml:3160
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "求求你……太疼了……"
 
 #: src-en/data/events_disparity.xml:3176
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不，这不对。快回头。"
 
 #: src-en/data/events_disparity.xml:3178
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"尽管你被恐惧笼罩，却意识到想要回头已经太迟……你拼尽全力狂奔，可身后的嗡鸣声却"
+"越来越响。就在这时，你才发觉那并非嗡鸣，而是奔涌而来的声响……念头还未落下，一"
+"团只能被称作液态阴影的翻滚之物便将你吞没，你瞬间失去平衡，所有方向感都荡然无"
+"存。窒息之际，你并未感到恐慌，只是飘飘荡荡……如同沉入酣眠……被挚爱之人拥入怀中…"
+"…"
 
 #: src-en/data/events_disparity.xml:3180
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3182
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "没错，你被淹没了……或者说，你本该就此沉没。但很明显，你并没有……奇怪。"
 
 #: src-en/data/events_disparity.xml:3185
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3187
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你能吗？难道你不也是被迫困在这里的吗？"
 
 #: src-en/data/events_disparity.xml:3189
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3191
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你拼命想就此沉没，真的很想。你窒息、捶打自己的肺部、大口吸入那些阴影物质。可"
+"你就是做不到。我……想问你一件事。你是真的想死在这里吗？还是说，你只是想让这场"
+"噩梦结束？"
 
 #: src-en/data/events_disparity.xml:3193
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我想死。"
 
 #: src-en/data/events_disparity.xml:3195
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "可你没有。为什么？"
 
 #: src-en/data/events_disparity.xml:3197
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "他们不会让我死的。"
 
 #: src-en/data/events_disparity.xml:3199
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "谁？谁不让你死？"
 
 #: src-en/data/events_disparity.xml:3201
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "操控我丝线的那个人。他们不停地拉扯、拉扯、拉扯、拉扯、拉扯、拉扯、拉扯……"
 
 #: src-en/data/events_disparity.xml:3209
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我想让这一切结束。"
 
 #: src-en/data/events_disparity.xml:3211
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "那我很抱歉。我会尽量快一点。"
 
 #: src-en/data/events_disparity.xml:3213
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "好痛……"
 
 #: src-en/data/events_disparity.xml:3215
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "一个声音从你周围的阴影中传来：“真的，我很抱歉。”"
 
 #: src-en/data/events_disparity.xml:3217
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "求求你……太疼了……"
 
 #: src-en/data/events_disparity.xml:3235
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不，这不对。快回头。"
 
 #: src-en/data/events_disparity.xml:3237
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你转身往回走，脚步渐渐加快，随着恐慌袭来，最终变成了全力狂奔。是某种东西把你"
+"引到了这里。它想要你留在这里。你必须离开这里……如果别无选择，你宁愿去面对那些"
+"阴影。没错，那些阴影……等你回去，你会一把推开那扇门，离开这个该死的地方，管它"
+"什么阴影不阴影！"
 
 #: src-en/data/events_disparity.xml:3239
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "继续狂奔。"
 
 #: src-en/data/events_disparity.xml:3241
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "让你松一口气的是，你终于成功回到了出口。你毫不犹豫地一把推开房门，然后……"
 
 #: src-en/data/events_disparity.xml:3243
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "这里……美极了……"
 
 #: src-en/data/events_disparity.xml:3245
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "的确如此，而你，也被它吞噬了。"
 
 #: src-en/data/events_disparity.xml:3248
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "淹没。"
 
 #: src-en/data/events_disparity.xml:3262
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不，去他的。回头。"
 
 #: src-en/data/events_disparity.xml:3264
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你没多久就回到了最开始的那个房间。看来除了等待，也没别的事可做了……"
 
 #: src-en/data/events_disparity.xml:3266
 msgid ""
@@ -5119,12 +5305,15 @@ msgstr "等等。"
 #: src-en/data/events_disparity.xml:3274
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "静待风暴过去。"
 
 #: src-en/data/events_disparity.xml:3276
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你一点也不信任这个地方。谁知道这里到底藏着什么鬼东西？你隐约确定是一只自由螳"
+"螂族把你叫到这里来的，但除此之外，根本无法判断这些昏暗走廊的更深处潜伏着什么"
+"。还是就这样……静观其变，等事态平息要安全得多。"
 
 #: src-en/data/events_disparity.xml:3278
 msgid ""
@@ -5134,12 +5323,13 @@ msgstr "等等。"
 #: src-en/data/events_disparity.xml:3288
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我……我们肯定没事的。待在这里别动。"
 
 #: src-en/data/events_disparity.xml:3290
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "据你所知，这可能是个陷阱……而且万一真的发生什么事，你的飞船才是你觉得最安全的"
+"地方。可就在你这么想的时候，外面陷入了一片黑暗……"
 
 #: src-en/data/events_disparity.xml:3292
 msgid ""
@@ -5149,67 +5339,95 @@ msgstr "啊哦..."
 #: src-en/data/events_disparity.xml:3294
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "也许之前警告你的那个人，想法是对的。星辰一颗接一颗被遮蔽，你被彻底的黑暗吞没…"
+"…尽管这已经很糟糕，但你更担心的是船壳外传来的剧烈撞击声。"
 
 #: src-en/data/events_disparity.xml:3302
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我们必须马上离开这里！"
 
 #: src-en/data/events_disparity.xml:3304
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES\"]/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"你试图启动飞船，但黑暗中似乎有什么东西将它牢牢困住……或者说，就是这片黑暗本身"
+"禁锢了它。你要么立刻跃迁离开，要么正面迎战这个阴影威胁。就在你准备下达战斗指"
+"令时，警报显示有数名入侵者……看来一部分黑暗已经侵入了飞船内部！"
 
 #: src-en/data/events_disparity.xml:3325
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_WEAPON\"]/text"
 msgstr ""
+"你醒来时，脸朝下趴在雪地里。你在外面……星星也还在。一切都结束了……你安然无恙，"
+"这一切一定只是场梦。你冲进设施时肯定撞到了头……这一切到头来都是虚惊一场。一场"
+"假警报……浪费了大把的时间。"
 
 #: src-en/data/events_disparity.xml:3330
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_WEAPON\"]/choice/text"
-msgstr ""
+msgstr "我得回到飞船上去……"
 
 #: src-en/data/events_disparity.xml:3332
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_WEAPON\"]/choice/event/text"
 msgstr ""
+"回到飞船里，你震惊地看到，不是别人，正是一只自由螳螂族。真的是它们一直在呼唤"
+"。“哦哦，联邦，联邦！你带货物了，对吧？带了货物，快把货物交出来！”它用一只爪"
+"子示意着自己带来的某样东西。那是……一件武器，由纯粹的黑暗构成。它是从哪儿弄来"
+"的？“嗯？哦，在吓人的地方找到的。觉得联邦会喜欢这样的礼物，希望能让你们感到骄"
+"傲。”你有太多疑问……但或许，还是别问为妙。"
 
 #: src-en/data/events_disparity.xml:3340
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_DRONE\"]/text"
 msgstr ""
+"你醒来时，脸埋在雪里。你身在室外……而星空依旧在头顶。一切都结束了……你安然无恙"
+"，那一切想必只是一场梦。一定是冲进设施时撞到头了……这一切到头来都是空的。一场"
+"虚惊……白白浪费了大把时间。"
 
 #: src-en/data/events_disparity.xml:3345
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_DRONE\"]/choice/text"
-msgstr ""
+msgstr "我得回到飞船上去……"
 
 #: src-en/data/events_disparity.xml:3347
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_DEVOURED_DRONE\"]/choice/event/text"
 msgstr ""
+"回到飞船里，你惊讶地发现站在面前的竟是……一只自由螳螂。它们之前确实一直在呼叫"
+"。“哦哦，联邦，联邦！你带货物来了，对吧？带货物了，快把货物交出来！”它用爪子"
+"示意着自己带来的某样东西。那是……一架无人机，通体由纯粹的黑暗构成。它是从哪儿"
+"弄来的？“嗯？哦，在吓人的地方找到的。觉得联邦会喜欢这种礼物，希望能让你感到骄"
+"傲。”你心里有无数个疑问……但或许，这些问题还是不去追究为好。"
 
 #: src-en/data/events_disparity.xml:3355
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_WAITING\"]/text"
 msgstr ""
+"于是你等待着。然后，你又继续等。在漫长的等待过后，你听到走廊传来啪嗒啪嗒的脚"
+"步声……你听出这是螳螂族的脚步声，但你唯一能做的，只是祈祷这是自由螳螂的脚步声…"
+"…"
 
 #: src-en/data/events_disparity.xml:3358
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_WAITING\"]/choice/text"
-msgstr ""
+msgstr "希望……"
 
 #: src-en/data/events_disparity.xml:3360
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM_APPROACHES_WAITING\"]/choice/event/text"
 msgstr ""
+"它们来了，你松了一口气，来的确实是自由螳螂。“哦！你在这儿啊，抱歉没能早点过来"
+"……我正忙着发出警告。不过外面现在安全了！阴影都消失了！”它示意你打开门，你信任"
+"这位新结识的朋友，便打开了门……没错，星空重新出现了。你带着自由螳螂回到飞船上"
+"，松了一口气。看来它打算和你一起走，而你也早已迫不及待地想要离开这里。"
 
 #: src-en/data/events_disparity.xml:3369
 msgid ""
 "data/events_disparity.xml$//event[@name=\"NEUTRAL_DISPARITY_SHADOWSTORM\"]/text"
-msgstr ""
+msgstr "这个信标看起来是空的。虽然很遗憾，但这意味着你在超光速引擎充能期间有了一些空"
+"闲时间。"
 
 #: src-en/data/events_disparity.xml:3372
 msgid ""
@@ -5224,52 +5442,63 @@ msgstr "跳过。"
 #: src-en/data/events_disparity.xml:3398
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_DISPARITY_TEXT\"]/text[1]"
-msgstr ""
+msgstr "你还以为自己是独自一人，就在这时，外面的一丝微光吸引了你的目光……那是一艘谐离"
+"飞船，正朝你冲来！"
 
 #: src-en/data/events_disparity.xml:3399
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_DISPARITY_TEXT\"]/text[2]"
-msgstr ""
+msgstr "在这样一场血腥的战争中，谐离势力想必认为最好先开火再问缘由。它们甚至不考虑你"
+"的阵营，一艘飞船就朝你冲来，武器已然就绪！"
 
 #: src-en/data/events_disparity.xml:3400
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_DISPARITY_TEXT\"]/text[3]"
-msgstr ""
+msgstr "谐离势力似乎已经控制了这座信标……负责守卫的卫兵充满戒备，准备发起攻击！"
 
 #: src-en/data/events_disparity.xml:3401
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_DISPARITY_TEXT\"]/text[4]"
-msgstr ""
+msgstr "粉色、闪烁着微光……而且奇异得令人着迷，你能轻易发现守卫着这座信标的谐离飞船。"
+"不幸的是，它们也能轻易发现你，并且判定你可能是个威胁！"
 
 #: src-en/data/events_disparity.xml:3405
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_HARMONY_TEXT\"]/text[1]"
-msgstr ""
+msgstr "谐合势力似乎仍然控制着这座信标……为了拼死守住这里，守卫将你判定为威胁，并准备"
+"发起攻击！"
 
 #: src-en/data/events_disparity.xml:3406
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_HARMONY_TEXT\"]/text[2]"
-msgstr ""
+msgstr "这艘谐合飞船大概率被指派来侦察信标，警惕谐离势力入侵，此刻正在外部巡航。发现"
+"你抵达后，它们立刻上前守卫这片领地。"
 
 #: src-en/data/events_disparity.xml:3410
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_WARGROUND_TEXT\"]/text[1]"
-msgstr ""
+msgstr "这座信标正陷入一片混乱……谐合与谐离之间展开了一场血战！你被卷入了交火之中，附"
+"近的一艘飞船当即判定你为威胁！"
 
 #: src-en/data/events_disparity.xml:3411
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_WARGROUND_TEXT\"]/text[2]"
-msgstr ""
+msgstr "你在进入信标时惊险地躲开了一轮齐射，这才意识到自己直接跳进了一片激战的战区！"
+"一艘飞船注意到你的到来，脱离舰队开始向你发起攻击。"
 
 #: src-en/data/events_disparity.xml:3412
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_WARGROUND_TEXT\"]/text[3]"
 msgstr ""
+"如果他们要在这些信标点互相残杀，至少能不能通知一声？把信标标成“进来就是送死”"
+"之类的？万一你只是个普通平民，只想正常航行，结果直接跳进了密集的炮火里怎么办"
+"？就在你思考这些安全问题时，附近的一艘飞船已经把你当成了新目标！"
 
 #: src-en/data/events_disparity.xml:3413
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"HOSTILE_DISPARITY_WARGROUND_TEXT\"]/text[4]"
-msgstr ""
+msgstr "这可不是你想看到的景象。两支舰队正在互相交战，完全无视任何碰巧路过的人……而你"
+"也这么觉得，这时一艘飞船靠了过来，将你视作威胁！"
 
 #: src-en/data/events_disparity.xml:3419
 #, fuzzy
@@ -5285,17 +5514,18 @@ msgstr "我们不接受投降！"
 #: src-en/data/events_disparity.xml:3429
 msgid ""
 "data/events_disparity.xml$//event[@name=\"DISPARITY_SURRENDER\"]/choice[2]/event/text"
-msgstr ""
+msgstr "在准备重返战场时，你感觉自己正被审视着。"
 
 #: src-en/data/events_disparity.xml:3436
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"DISPARITY_SURRENDER_TEXT\"]/text[1]"
-msgstr ""
+msgstr "谐离势力拼命发来通讯：“或许我们……还能成为[兄弟]？”这祈求原谅的方式还真是奇怪…"
+"…"
 
 #: src-en/data/events_disparity.xml:3437
 msgid ""
 "data/events_disparity.xml$//textList[@name=\"DISPARITY_SURRENDER_TEXT\"]/text[2]"
-msgstr ""
+msgstr "谐离飞船的水晶船体上出现了裂痕。这似乎让它们感到担忧，于是它们表示愿意投降。"
 
 #: src-en/data/events_disparity.xml:3438
 msgid ""
