@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-16 05:17+0000\n"
-"Last-Translator: 土豆老年人 <2685455659@qq.com>\n"
+"PO-Revision-Date: 2026-02-28 13:44+0000\n"
+"Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_enlightenedxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -32,7 +32,7 @@ msgstr "黑暗退去，明显，一艘亮眼的船闲置在这里。没有标识
 #: src-en/data/events_enlightened.xml:23
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "联系商人。"
 
 #: src-en/data/events_enlightened.xml:27
 msgid ""
@@ -42,7 +42,7 @@ msgstr "攻击！"
 #: src-en/data/events_enlightened.xml:29
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "启蒙者商人察觉到了你的敌意，准备自卫。"
 
 #: src-en/data/events_enlightened.xml:33
 msgid ""
@@ -52,17 +52,17 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:41
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[2]/text"
-msgstr ""
+msgstr "继续吧，我要离开这里了。"
 
 #: src-en/data/events_enlightened.xml:43
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“明白。”声音沉寂下去，只留下你独自置身于黑暗之中。"
 
 #: src-en/data/events_enlightened.xml:45
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:49
 msgid ""
@@ -73,6 +73,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING_COINFLIP\"]/event[1]/text"
 msgstr ""
+"商人回应了你的通讯：“外来者……或许是自投罗网的祭品，但……也算是送上门的钱包。就"
+"算……你们在这里注定灭亡，我……也不介意做点生意。”启蒙者商人向你打开了他们的商店"
+"。"
 
 #: src-en/data/events_enlightened.xml:60
 msgid ""
@@ -82,7 +85,7 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:65
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING_COINFLIP\"]/event[2]/text"
-msgstr ""
+msgstr "你的通讯没有接通。突然，那艘商船转向你的飞船，武器正在充能；准备战斗！"
 
 #: src-en/data/events_enlightened.xml:68
 msgid ""
@@ -93,51 +96,58 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/text"
 msgstr ""
+"据说这片黑暗里有个商人。那个声音带着担忧说道：“这艘船，是启蒙者商船……船体出现"
+"了破损。它正在……泄压。里面充斥着……这种虚假的虚空。我可以拨开这层帷幕……却对他"
+"们沾染的黑暗无能为力。”"
 
 #: src-en/data/events_enlightened.xml:82
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/text"
-msgstr ""
+msgstr "动手吧，我必须救他们！"
 
 #: src-en/data/events_enlightened.xml:84
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/text"
 msgstr ""
+"随着虚空退去，你得以第一时间评估受损情况。扫描显示，这艘飞船承受的残余腐化程"
+"度与大多数启蒙者飞船相当，但船体上有一处小破损正在导致飞船失压。封堵它并不困"
+"难，至少可以做临时修复，但你派出的任何船员都将置身于黑暗以及太空真空环境中。"
 
 #: src-en/data/events_enlightened.xml:87
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr ""
+msgstr "我们必须试试！派一名船员登船修复他们的船体。"
 
 #: src-en/data/events_enlightened.xml:91
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/text"
-msgstr ""
+msgstr "（维修无人机）派出你的无人机去修复他们的船体。"
 
 #: src-en/data/events_enlightened.xml:95
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"BEAM_REPAIR\"]/text"
-msgstr ""
+msgstr "（舰体修复光束）使用你的修复光束修复他们的船体。"
 
 #: src-en/data/events_enlightened.xml:99
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[@req=\"BLUELIST_CREW_NO2\"]/text"
-msgstr ""
+msgstr "（无氧船员）派遣你的无氧船员登船并修复他们的船体。"
 
 #: src-en/data/events_enlightened.xml:103
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "我们不能冒这个险。准备离开。"
 
 #: src-en/data/events_enlightened.xml:105
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "我们确实什么也做不了，至少你是这么告诉自己的。你就这样任由启蒙者自生自灭，那"
+"个声音沉默不语，只留下你凝视着无尽的虚空。"
 
 #: src-en/data/events_enlightened.xml:107
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[5]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:111
 msgid ""
@@ -147,27 +157,29 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:117
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[6]/text"
-msgstr ""
+msgstr "反正他们横竖都是死，我们不如能捞多少是多少……"
 
 #: src-en/data/events_enlightened.xml:119
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[1]/event/choice[6]/event/text"
 msgstr ""
+"“我……明白了。只要能帮你……活下去就行。”你在拆解、劫掠这艘启蒙者商船时没有受到"
+"任何干扰，只是……那些透过你破开的裂口凝视着你的尸体，并没有让你真正心安。"
 
 #: src-en/data/events_enlightened.xml:127
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[2]/text"
-msgstr ""
+msgstr "继续吧，这本来就是无望之举。"
 
 #: src-en/data/events_enlightened.xml:129
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“我……明白。有太多东西……命悬一线。”声音沉寂下去，你独自置身于黑暗之中。"
 
 #: src-en/data/events_enlightened.xml:132
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:136
 msgid ""
@@ -178,6 +190,11 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[1]/text"
 msgstr ""
+"你的船员时间紧迫、氧气不足、视线模糊，却奇迹般成功登船，找到破损处并临时封堵"
+"。飞船恢复供氧，船上的启蒙者渐渐苏醒。很快他们向你发来通讯：“外人……有人视你为"
+"祭品，可……在黑暗之主无能为力时，是你救了我们。我们的货物……向你开放，外来者。”"
+"那个声音随后对你说：“并非所有我的同类……都被狂热蒙蔽。他们之中有些……只是字面意"
+"义上的失明而已。”它听起来颇为自得。"
 
 #: src-en/data/events_enlightened.xml:148
 msgid ""
@@ -188,6 +205,9 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[2]/text"
 msgstr ""
+"你的船员成功登船，但黑暗根本无法导航。他们在虚空中盲目摸索了片刻，突然撞到了"
+"什么东西……是一只深渊潜者，而且还活着！你果断下令把船员拉回来，以免氧气耗尽，"
+"或是更糟——被黑暗吞噬；他们把那名深渊潜者也一并带了出来。"
 
 #: src-en/data/events_enlightened.xml:156
 msgid ""
@@ -198,31 +218,54 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[2]/choice/event/text"
 msgstr ""
+"回到飞船后，你终于看清了这位深渊潜者的模样，那个声音开口道：“这一位……被伪神所"
+"祝福，或是诅咒，取决于你问谁。所有启蒙者都追随他们的神，而其中‘被选中者’则领"
+"导众人。在他们眼里，被选中即是升华。可事实上……”它顿了顿，“这不过是个谎言。他"
+"们以灵魂为代价，换取所谓的力量。”声音沉寂，只留下你和这位怪异的深渊潜者。它坚"
+"信你是黑暗神亲自派来拯救它的，快速祈祷一番后，它坚持要回报神的仁慈，留在你的"
+"飞船上为你效力。真是奇怪……"
 
 #: src-en/data/events_enlightened.xml:164
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[3]/text"
 msgstr ""
+"你的船员成功登船，可黑暗之中根本无法导航。他们在虚空中盲目摸索了片刻……通讯突"
+"然中断。前一秒还在通话，下一秒就没了声息。你还没来得及反应，就看见外面那艘飞"
+"船轰然解体，裂成两半；而在裂缝中间……你看到了什么。是你的船员，正回头望着你。"
+"黑暗在吞噬他，飞船被撕裂的冲击、太空的真空环境，他都无动于衷。黑暗将他彻底吞"
+"没，一切都完了。那个声音，没有给出任何解释。"
 
 #: src-en/data/events_enlightened.xml:170
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[3]/removeCrew/text"
-msgstr ""
+msgstr "你船员的DNA备份不知为何已经彻底损坏，完全无法使用，你再也救不回他们了。这片该"
+"死的星域……"
 
 #: src-en/data/events_enlightened.xml:174
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[4]/text"
 msgstr ""
+"你的船员成功登舰，但这片黑暗根本无法导航。他们在虚空中盲目摸索了片刻……通讯突"
+"然中断。前一秒还在说话，下一秒就没了声息。你还没来得及反应，就看见外面的飞船"
+"轰然解体，裂成两半；在飞船断裂的地方……你看到了一个身影。是你的船员，正回头望"
+"着你；逼近的黑暗、飞船被剧烈撕裂的冲击、太空的真空环境，他都无动于衷。黑暗将"
+"他彻底吞没，一切都完了。那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:180
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_ENDURE\"]/event[4]/removeCrew/text"
-msgstr ""
+msgstr "不知为何，你船员的DNA备份似乎已经……损坏了？完全无法使用，你再也无法将他们复活"
+"。这个该死的地方……"
 
 #: src-en/data/events_enlightened.xml:187
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[1]/text"
 msgstr ""
+"你找到了破损处并暂时将其密封。随着氧气重新回到船舱，舰上的启蒙者们慢慢恢复了"
+"意识。没过多久，他们向你发来通讯：“贡品……或许有人会这么称呼你，可是……在黑暗之"
+"主无能为力的时候，是你救了我们。我们的货物……对你开放，外来者。”那个声音随后对"
+"你说道：“并非所有我的同类……都被狂热蒙蔽了双眼。他们中的一些……只不过是失明了，"
+"字面意义上的失明。”它似乎有些自鸣得意。"
 
 #: src-en/data/events_enlightened.xml:190
 msgid ""
@@ -233,6 +276,9 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[2]/text"
 msgstr ""
+"你找到了船体破损处并成功将其密封，但许多深渊潜者已经遇难，只剩下最后一人。这"
+"名幸存者恢复意识后坚称，你一定是黑暗之神亲自派来拯救他们的，在快速祈祷一番后"
+"，他坚持要回报神明的仁慈，留在你的飞船上为你效力。真是奇怪……"
 
 #: src-en/data/events_enlightened.xml:198
 msgid ""
@@ -243,31 +289,48 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"STORE_HOSTILE_ENLIGHTENED_DARKNESS_SAVED\"]/event[2]/choice/event/text"
 msgstr ""
+"当他们登上你的飞船时，你终于看清了这名深渊潜者的模样，那个声音对你说道：“这一"
+"位……被伪神所赐福，或是所诅咒——取决于你问的是谁。所有启蒙者……都追随他们的神，"
+"而他们之中的‘被选者’则担任领袖。在他们眼中，成为被选者……就是升华。而事实上……”"
+"它顿了顿，“……这不过是个谎言。为了换取力量……他们出卖了自己的灵魂。”声音就此沉"
+"寂，只留下你和这个怪异的深渊潜者。"
 
 #: src-en/data/events_enlightened.xml:212
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/text"
 msgstr ""
+"虽然你什么也看不见，但黑暗中传来了枪声。那个声音说道：“有一艘蓝色的飞船就在这"
+"里。很罕见的景象。他们要么是新来者，要么……根本无意追随那位伪神。不管怎样……他"
+"们似乎是在朝着黑暗射击，而不只是……朝虚空中乱开。要我……拨开这片迷雾吗？”"
 
 #: src-en/data/events_enlightened.xml:215
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/text"
-msgstr ""
+msgstr "这听起来很有趣。拨开它。"
 
 #: src-en/data/events_enlightened.xml:217
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/text"
 msgstr ""
+"随着这片空间展开，深渊潜者的飞船出现在视野中。他们惊慌地向你通讯：“这……这是怎"
+"么回事？黑暗……在退去？难道是我们的攻击……起效了？”思索片刻后，他们继续说道：“"
+"也许……这事和你有关，联邦者？你……为何会来到这该死的虚空之中？”"
 
 #: src-en/data/events_enlightened.xml:220
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "算是在执行一项拯救宇宙、也拯救启蒙者的任务。"
 
 #: src-en/data/events_enlightened.xml:222
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"“你是来……解救我们的同胞？他们被这所谓的‘黑暗之神’、被力量的许诺给蛊惑了。我们"
+"的许多族人……从宇宙各处赶来这里，寻求它的眷顾。可是……”它顿了顿，“这片黑暗……透"
+"着一股诡异的虚假。我们朝它开火时，它会退去，哪怕只是……一瞬间。如果你是来把我"
+"们的族人从这座牢笼里解救出来，那就让我们协助你。”他们向你开放了物资，在你挑选"
+"物资时，还派了几名深渊潜者过来尽力修复你的舰船。与此同时，那个声音一直保持沉"
+"默；不过你能猜到，它对自己族人此刻展现出的这般心思，一定相当满意。"
 
 #: src-en/data/events_enlightened.xml:226
 msgid ""
@@ -277,12 +340,12 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:232
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我是来揍人的，包括你在内！"
 
 #: src-en/data/events_enlightened.xml:234
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“也许……我们的族人寻求庇护是正确的。”他们中断了通讯，在你发起攻击时准备自卫。"
 
 #: src-en/data/events_enlightened.xml:238
 msgid ""
@@ -292,17 +355,18 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:246
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[2]/text"
-msgstr ""
+msgstr "我不想和那边发生的任何事扯上关系。"
 
 #: src-en/data/events_enlightened.xml:248
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“这……不算个糟糕的决定。”那个声音沉寂下去，只留下你和这片黑暗，还有远处武器朝"
+"着虚空开火的声音。"
 
 #: src-en/data/events_enlightened.xml:250
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_CYAN\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:254
 msgid ""
@@ -313,26 +377,35 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/text"
 msgstr ""
+"圣殿骑士被击败时，阴影从它体内喷涌而出，但它并未被摧毁，似乎只是进入了休眠状"
+"态。不过更重要的是，这台圣殿骑士的威胁性如此之大……为什么不是所有启蒙者都配备"
+"这么强力的型号？"
 
 #: src-en/data/events_enlightened.xml:265
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/text"
-msgstr ""
+msgstr "向商人们回传通讯。"
 
 #: src-en/data/events_enlightened.xml:267
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/text"
 msgstr ""
+"启蒙者们听到圣殿骑士被击败的消息欣喜若狂，你向他们询问其现状。他们整体显得犹"
+"豫不愿回答，但其中一名深渊潜者开口说道：“它……已经失去了深渊潜主的赐福，现在……"
+"毫无力量。这是它……背叛我们应得的下场！它……肯定挣脱了深渊潜主的意志！背叛者……"
+"去死吧！”启蒙者们纷纷附和，掀起一阵喧哗，全都赞颂着他们的黑暗之神，不断庆祝你"
+"击败了圣殿骑士，仿佛这一切都是他们神明的旨意。"
 
 #: src-en/data/events_enlightened.xml:269
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/choice/text"
-msgstr ""
+msgstr "那我就先留着它吧。现在，这事解决了……"
 
 #: src-en/data/events_enlightened.xml:271
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR_SAVEDFROMDOOM\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "你决定留下这台圣殿骑士的残骸，商人们没有任何异议，还连忙向你展示他们的货物以"
+"示感谢。"
 
 #: src-en/data/events_enlightened.xml:274
 msgid ""
@@ -342,47 +415,60 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:288
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/text"
-msgstr ""
+msgstr "当你驶入信标区域时，那个声音显得有些惊讶：“我的……族人确实在这里，可是……他们的"
+"飞船上似乎正在发生某种冲突……你愿意……帮助他们吗？”"
 
 #: src-en/data/events_enlightened.xml:291
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/text"
-msgstr ""
+msgstr "我当然可以试试！"
 
 #: src-en/data/events_enlightened.xml:293
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/text"
 msgstr ""
+"外界的阴影散开时，你的脑海里传来一声感激的低哼，你果然看到了一艘启蒙者商船的"
+"身影。不过他们在外面的虚空中一动不动，于是你请求通讯，想弄清楚到底发生了什么"
+"。一名启蒙者教徒接通了通讯，疯狂地对你喊道：“外来者！我们……需要帮助！啊，黑暗"
+"之主，原谅我们……我们的圣殿骑士失控了！我们到底……做错了什么，啊，黑暗之主？您"
+"为什么要……这样惩罚我们？”这名深渊潜者继续向他们那冷漠的神明哭诉，仿佛你根本就"
+"不存在一样。"
 
 #: src-en/data/events_enlightened.xml:295
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你是说……你们的圣殿骑士？"
 
 #: src-en/data/events_enlightened.xml:297
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"深渊潜者虽然没有眼睛，脑袋却猛地转向你：“啊，没错……本来它该是……我们献上贡品后"
+"得到的恩赐，可是……它失控了！它在飞船里到处横冲直撞，疯狂破坏一切！啊，黑暗之"
+"神……为什么会这样？”"
 
 #: src-en/data/events_enlightened.xml:299
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "你尝试过把它丢弃吗？"
 
 #: src-en/data/events_enlightened.xml:301
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"“我们试过了……可它总会回来。我们……在受罚！为我们的……罪孽受罚！黑暗之主啊……求您"
+"宽恕我们！”启蒙者本就不擅长战斗，如今更是脆弱不堪，他们根本对付不了那架无人机"
+"，只会对着虚空祈祷，而不是想办法解决问题。"
 
 #: src-en/data/events_enlightened.xml:303
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "虚空或许不会回应，但我会。把那个圣殿骑士派过来！"
 
 #: src-en/data/events_enlightened.xml:305
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "启蒙者感谢你的介入，并着手将他们的圣殿骑士引诱回气闸舱……"
 
 #: src-en/data/events_enlightened.xml:310
 msgid ""
@@ -392,22 +478,24 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:312
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "没过多久，他们就把它朝你这边弹射了出来，那架圣殿骑士无人机立刻盯上了你！"
 
 #: src-en/data/events_enlightened.xml:320
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "他们尽管祈祷吧，我可不想管这事。"
 
 #: src-en/data/events_enlightened.xml:322
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"这些启蒙者几乎没意识到你的存在，你也不想冒险去和黑暗之神的造物一对一缠斗。你"
+"挂断了通讯，甚至不确定他们有没有察觉……但这不代表你的怯懦，就没人看在眼里。"
 
 #: src-en/data/events_enlightened.xml:325
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:329
 msgid ""
@@ -417,17 +505,20 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:341
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[2]/text"
-msgstr ""
+msgstr "我真的宁愿不要。"
 
 #: src-en/data/events_enlightened.xml:343
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[2]/event/text"
 msgstr ""
+"去他的补给信标，在这鬼地方我什么都不信。那个声音在你脑海里叹了口气：“好吧……那"
+"就随你吧。”随后它便沉寂下去，只留下你独自思索，还有……呃……外面那片深不见底的无"
+"边黑暗。"
 
 #: src-en/data/events_enlightened.xml:346
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_MALFUNCTIONINGTEMPLAR\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "检查储物舱。"
 
 #: src-en/data/events_enlightened.xml:350
 msgid ""
@@ -447,22 +538,30 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:371
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[1]"
-msgstr ""
+msgstr "当你抵达信标时，本以为会听到那个声音再次响起，却什么也没有。这里一定空无一物…"
+"…只有你，和这片虚空。"
 
 #: src-en/data/events_enlightened.xml:372
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[2]"
 msgstr ""
+"你飞船后方闪过一道令人不安的光，那个声音响起：“没什么……好担心的。我……征用的这"
+"艘飞船只是有点……故障。这个信标是空的。”它再次沉默。一切都寂静无声……"
 
 #: src-en/data/events_enlightened.xml:373
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[3]"
 msgstr ""
+"沉默片刻之后，那个声音说道：“这里……没什么值得注意的。”它话说得相当突兀，就此"
+"停住。你独自一人，凝视着外面的虚空，内心不禁开始琢磨：在这片无边无际的黑暗里"
+"，自己究竟能撑多久，才会彻底崩溃。"
 
 #: src-en/data/events_enlightened.xml:374
 msgid ""
 "data/events_enlightened.xml$//textList[@name=\"TEXT_EMPTY_ENLIGHTENED\"]/text[4]"
 msgstr ""
+"抵达信标时，你心里隐隐希望这一切只是场梦，希望这里会有光明等着你。但并没有。"
+"没有光，没有声音，只有……黑暗。看在你自己的份上，你只希望这里真的就仅此而已。"
 
 #: src-en/data/events_enlightened.xml:389
 msgid ""
@@ -487,82 +586,109 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:407
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/text"
-msgstr ""
+msgstr "守卫被击败后，这艘监狱飞船失去了防御，他们正在投降。"
 
 #: src-en/data/events_enlightened.xml:409
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "上船，我们去找货舱。"
 
 #: src-en/data/events_enlightened.xml:411
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/text"
 msgstr ""
+"那些启蒙者虽不情愿，却也只能让你登舰——他们本就没什么选择。你要求他们带你们去"
+"见囚犯，他们照做了。在船舱里，大约十几名深渊潜者正蜷缩在角落。你该怎么做？"
 
 #: src-en/data/events_enlightened.xml:413
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "放了他们。"
 
 #: src-en/data/events_enlightened.xml:415
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你打开舱门，明确表示他们可以自由离开，但这些深渊潜者却执意留下。毕竟，他们能"
+"去哪里呢？在这片星域里，你没有任何安全的地方可以安置他们，而星域之外，也没有"
+"什么能留给他们的了……"
 
 #: src-en/data/events_enlightened.xml:417
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "他们肯定能找到去处吧？"
 
 #: src-en/data/events_enlightened.xml:419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你正在思索这件事时，那个声音对你说道：“如果我的族人……执意要留在这座监狱里，那"
+"就让他们……待在这个笼中之笼吧。或许……牢笼就是他们所知的一切。无论如何，我感激…"
+"…你的努力。”它随即沉寂下去。你感到有些挫败，觉得是时候离开了。当你准备跃迁到"
+"下一个信标时，你凝视着虚空，回味着那个声音的话语。在这座“牢笼”里，你又比那些"
+"深渊潜者自由多少呢？"
 
 #: src-en/data/events_enlightened.xml:424
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/text"
-msgstr ""
+msgstr "（深渊潜者教徒）你们那位启蒙者教徒似乎有话要说。"
 
 #: src-en/data/events_enlightened.xml:426
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[1]/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/text"
 msgstr ""
+"你让它发言，它准备了一番极为激昂的演说……全程却只有咕噜声、低吼与尖叫。尽管你"
+"一个字都听不懂，但这番话显然鼓舞了所有囚犯；他们离开牢房，开始反抗抓捕者！守"
+"卫人数处于劣势，再加上你气势汹汹地站在一旁，只能被迫将飞船控制权交给这些重获"
+"自由的深渊潜者。就让他们尝尝被关在笼子里的滋味吧……重获自由后，你救下的深渊潜"
+"者们凑出仅有的一点资源向你致谢，其中一名更是请求加入你！那个声音赞许地说道：“"
+"看着……他们奋起反抗压迫者……”它顿了顿，“……我心中充满了希望。为我的族人……也为他"
+"们的未来。”话音落下，你收获了属于英雄的战利品。"
 
 #: src-en/data/events_enlightened.xml:435
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "奴役他们。"
 
 #: src-en/data/events_enlightened.xml:437
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"尽管他们中大多数都在反抗，也遭到了相应的处置，但仍有一名囚犯顺从地留了下来。"
+"你心满意足，带着新到手的奴隶返回自己的飞船，准备离开这个信标。在超光速引擎充"
+"能时，死寂令人窒息。"
 
 #: src-en/data/events_enlightened.xml:445
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "懦夫。消灭他们。"
 
 #: src-en/data/events_enlightened.xml:447
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON_WIN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他们几乎无力反抗，任由你猛攻。没过多久，他们遭受的打击就已是毁灭性的；监狱飞"
+"船轰然爆炸，残骸任由你拆解。你尽力搜刮着物资，四周死寂得令人窒息。"
 
 #: src-en/data/events_enlightened.xml:455
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/text"
 msgstr ""
+"那个声音担忧地对你说道：“我的族人……”它顿了顿，“一艘启蒙者的监狱飞船，还有它的"
+"守卫……就在这个信标处。这里……就是同族反目之地。狂热者……向‘亵渎者’发难。以一个"
+"伪神的名义……”它对此似乎情绪十分激动……平复了片刻后，那个声音继续说道：“他们……"
+"无意攻击你，以免危及他们的‘货物’。如果你……想扮演英雄，我可以驱散这该死的黑暗"
+"。”"
 
 #: src-en/data/events_enlightened.xml:458
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[1]/text"
-msgstr ""
+msgstr "我能做到。让这片虚空，归于虚无。"
 
 #: src-en/data/events_enlightened.xml:460
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PRISON\"]/choice[1]/event/text"
-msgstr ""
+msgstr "黑暗退去，你能看到不远处的监狱飞船……不过首先，你必须穿过守卫的防线——当他们发"
+"现失去了宝贵的遮蔽屏障时，立刻转身面向你！"
 
 #: src-en/data/events_enlightened.xml:463
 msgid ""
