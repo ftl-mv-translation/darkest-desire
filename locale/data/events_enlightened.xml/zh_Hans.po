@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 01:06+0000\n"
+"PO-Revision-Date: 2026-03-01 09:53+0000\n"
 "Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_enlightenedxml/zh_Hans/>\n"
@@ -27,7 +27,8 @@ msgstr "分开它。让我们看看我们在做什么。"
 #: src-en/data/events_enlightened.xml:20
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"STORE_HOSTILE_ENLIGHTENED_GAMBLING\"]/choice[1]/event/text"
-msgstr "黑暗退去，明显，一艘亮眼的船闲置在这里。没有标识。"
+msgstr "黑暗退去，果然，一艘启蒙者飞船正闲置在这里。就算他们对这片忽然清晰起来的小空"
+"间感到不安，也丝毫没有表现出来。"
 
 #: src-en/data/events_enlightened.xml:23
 msgid ""
@@ -1564,7 +1565,7 @@ msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/text"
-msgstr ""
+msgstr "教派事务。"
 
 #: src-en/data/events_enlightened.xml:922
 msgid ""
@@ -1572,13 +1573,16 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/event/text"
 msgstr ""
+"“啊，当然！我超爱教派相关的东西，这教徒虚空我怎么待都待不腻！”他看向屏幕外的"
+"窗外，你能看到他微微抖了一下。“话说回来，打个比方啊……假设有人真的待腻了这教徒"
+"虚空。那他们到底该怎么，你懂的，离开这里？”"
 
 #: src-en/data/events_enlightened.xml:924
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我呃，在神秘典籍里看到过，给陌生人送点免费的东西，有助于逃出教徒虚空。"
 
 #: src-en/data/events_enlightened.xml:926
 msgid ""
@@ -1586,13 +1590,19 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"BLUELIST_CREW_DDENLIGHTENED\"]/event/choice/event/choice/event/text"
 msgstr ""
+"“嗯，要是周围有陌生人的话，这办法倒挺有用……”他挠了半天头，脸上突然露出恍然大"
+"悟的神情，“等等！你就是陌生人啊！”他转向另一个岩石族人，“喂，呃……戈索克，把那"
+"些圣物送过去一些，行吗？我们平时送给陌生人的那些东西已经用完了。”然后他转回头"
+"对你说：“谢谢你帮我们离开这儿，刚才还以为我们彻底困死在这了呢！”他们切断了通"
+"讯，礼物也送了过来……你最好趁他们还没发现自己被骗之前赶紧离开。就当他们永远不"
+"会发现吧。"
 
 #: src-en/data/events_enlightened.xml:936
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/text"
-msgstr ""
+msgstr "（水晶族船员）我和上帝是朋友。"
 
 #: src-en/data/events_enlightened.xml:938
 msgid ""
@@ -1600,13 +1610,17 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/text"
 msgstr ""
+"看到你的水晶族人，那两个岩石族人立刻昏了过去；砰的一声重重倒在地上。有那么一"
+"瞬间你不知道该怎么办，然后其中一个醒了过来。接着你又不知道该怎么办了，因为他"
+"们再一次昏了过去。这样循环了好一会儿，你觉得最好还是切断通讯……你的水晶族人面"
+"无表情地看着你，叹了口气，离开了房间。"
 
 #: src-en/data/events_enlightened.xml:942
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/text"
-msgstr ""
+msgstr "（沃蒂根）“你觉得我在这儿干什么？”"
 
 #: src-en/data/events_enlightened.xml:944
 msgid ""
@@ -1614,18 +1628,24 @@ msgid ""
 " and "
 "@lvl=\"1\"]/event/choice[1]/event/choice/event/choice[@req=\"unique_vortigon\"]/event/text"
 msgstr ""
+"“沃、沃蒂根？！您怎么会在这儿？说实话，您出现在教徒虚空里，简直再合理不过了，"
+"大人！我向您致以最深的歉意，大人！”第二个岩石族人歉意地哼了一声，然后他们送过"
+"来一堆乱七八糟的东西作为赔罪。沃蒂根翻了个白眼。"
 
 #: src-en/data/events_enlightened.xml:953
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[2]/text"
-msgstr ""
+msgstr "这地方？就是你的坟墓，伙计。进攻！"
 
 #: src-en/data/events_enlightened.xml:955
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[1]/event/choice[@req=\"loc_crystalhome\""
 " and @lvl=\"1\"]/event/choice[2]/event/text"
 msgstr ""
+"那岩石族人眨了好几下眼，才反应过来发生了什么。“哦——呵——呵，原来是这么回事，是"
+"吧？戈索克！准备武——”话没说完，他们就切断了通讯。看来他们是迫不及待要开战了……"
+"只不过，还是远没你这么迫不及待。"
 
 #: src-en/data/events_enlightened.xml:958
 msgid ""
@@ -1641,7 +1661,8 @@ msgstr "不。"
 #: src-en/data/events_enlightened.xml:970
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_EMBER_CULTIST\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“我也……不怎么喜欢看到岩石族人。”那个声音低沉了下去。你凝视着黑暗，心里盘算着"
+"那艘岩石族人飞船不小心撞上你的概率有多大……"
 
 #: src-en/data/events_enlightened.xml:972
 msgid ""
@@ -1677,6 +1698,11 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_DEEP_WIN\"]/text"
 msgstr ""
+"你立刻飞向那艘奇怪的灰色飞船，可是……那里似乎已经没剩下什么了。飞船本身看起来"
+"像是在……融化？分裂？一块碎片朝你飘了过来，你这才意识到……它是有生命的！你派一"
+"名船员出去把它捡回来，等它登上飞船后，你凑近仔细一看；它简直就是一大团灰色的"
+"黏糊糊的东西。不过它似乎很感激被救了下来，开始在飞船里滚来滚去。看来你多了一"
+"名新船员！"
 
 #: src-en/data/events_enlightened.xml:1009
 msgid ""
@@ -1702,6 +1728,10 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_DEEP_KNOWLEDGE_WIN\"]/text"
 msgstr ""
+"你立刻飞向模物族飞船，可是……那里几乎没剩下什么了。这艘由单独的模物族组成的飞"
+"船正在解体……其中一个模物族，似乎是唯一的幸存者，朝你的飞船飘来，你派一名船员"
+"出去将它接了上来。等它登上飞船后，似乎对你的收留十分感激，心满意足地在船舱里"
+"滚来滚去。看来你多了一名新船员！"
 
 #: src-en/data/events_enlightened.xml:1033
 msgid ""
@@ -1727,6 +1757,9 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_GOO_WIN\"]/text"
 msgstr ""
+"你立刻赶往启蒙者的飞船，但……他们中的大多数人如今都已窒息身亡。只剩一人还活着"
+"，陷入昏迷；你将他接上船，尽全力抢救，几分钟后，他终于苏醒过来！他向你表达了"
+"感激之情，眼见所有熟识之人都已离世，便主动提出加入你的船员。"
 
 #: src-en/data/events_enlightened.xml:1057
 msgid ""
@@ -1752,41 +1785,54 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH_SHIP_GOO_KNOWLEDGE_WIN\"]/text"
 msgstr ""
+"你尽快飞往启蒙者的飞船，但……他们中的大多数人现在似乎已经窒息而亡。还有一个人"
+"活着，昏迷不醒；你把他接上船，尽全力抢救他，然后……几分钟后，他醒了过来！他表"
+"达了感激之情，看到所有认识的人都已死去，便提出要加入你的船员。"
 
 #: src-en/data/events_enlightened.xml:1080
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/text"
-msgstr ""
+msgstr "那个声音带着几分困惑对你说道：“这里有……”它顿了顿，“……两艘同族飞船，可是……其中"
+"一艘……至少可以说，很不对劲。要……过来看看吗？”"
 
 #: src-en/data/events_enlightened.xml:1083
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/text"
-msgstr ""
+msgstr "听起来很有趣，当然。"
 
 #: src-en/data/events_enlightened.xml:1085
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/text"
 msgstr ""
+"虚空被推开，你看到两艘飞船；一艘是灰色的启蒙者战斗舰，没有任何灯光，只是断断"
+"续续地四处乱飞。另一艘同样是启蒙者的飞船，一发现你能看见他们就立刻向你通讯：“"
+"先是这些……冒名顶替者，现在黑暗又降临了？到底……发生了什么事？”"
 
 #: src-en/data/events_enlightened.xml:1087
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "我也正想问你同样的事。"
 
 #: src-en/data/events_enlightened.xml:1089
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"就在这时，那艘灰色飞船接入了通讯；屏幕上出现一群灰色、没有眼睛的深渊潜者。其"
+"中一个开口道：“吉普？乌鲁，鲁？”对面的启蒙者教徒一时语塞，但随即低吼一声，下"
+"令给武器充能！他们打算攻击这艘奇怪的灰色飞船。"
 
 #: src-en/data/events_enlightened.xml:1091
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "保护灰色飞船，攻击启蒙者！"
 
 #: src-en/data/events_enlightened.xml:1093
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你试图挡在两艘飞船之间，但已经太迟了；启蒙者的一道光束击中了灰色飞船，造成了"
+"毁灭性的伤害。你不确定他们还能不能撑下去……但你必须尽力一试！启蒙者察觉到了你"
+"的敌意，随即把你定为下一个攻击目标。"
 
 #: src-en/data/events_enlightened.xml:1096
 msgid ""
@@ -1796,12 +1842,15 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1102
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我要查清楚这件事，攻击那艘灰色飞船！"
 
 #: src-en/data/events_enlightened.xml:1104
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你试图协助启蒙者，但战斗还没开始，一团奇怪的灰色黏状物就朝他们射了过去；它正"
+"在干扰他们的氧气系统和武器！在他们失去行动能力后，你只能独自去对付那艘灰色飞"
+"船了。"
 
 #: src-en/data/events_enlightened.xml:1107
 msgid ""
@@ -1811,12 +1860,13 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1113
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "我不想和这事有任何关系。滚开。"
 
 #: src-en/data/events_enlightened.xml:1115
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你任由那两艘飞船自相争斗，转身驶离，重新回到虚空之中……这种感觉虽然怪异，却莫"
+"名让人安心。"
 
 #: src-en/data/events_enlightened.xml:1117
 msgid ""
@@ -1831,22 +1881,28 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:1129
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/text"
-msgstr ""
+msgstr "我知道这些捣蛋鬼，他们是模物族。"
 
 #: src-en/data/events_enlightened.xml:1131
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/text"
 msgstr ""
+"就在这时，模物族飞船接入了通讯；你在屏幕上看到一群模物族伪装成了深渊潜者。其"
+"中一个开口道：“叽噗？呜噜，噜？”对面的启蒙者教徒一时语塞，但随即低吼一声，下"
+"令给武器充能！他们打算攻击这艘模物族飞船。"
 
 #: src-en/data/events_enlightened.xml:1133
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[1]/text"
-msgstr ""
+msgstr "保护模物族，攻击启蒙者！"
 
 #: src-en/data/events_enlightened.xml:1135
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[1]/event/text"
 msgstr ""
+"你试图挡在两艘飞船之间，但已经太迟了；启蒙者的炮火击中了模物族，造成了毁灭性"
+"的伤害。你不确定他们能否撑住……但你必须尽力一试！启蒙者察觉到了你的敌意，立刻"
+"将你定为下一个目标。"
 
 #: src-en/data/events_enlightened.xml:1138
 msgid ""
@@ -1856,12 +1912,15 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1144
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[2]/text"
-msgstr ""
+msgstr "其实我讨厌这些捣蛋鬼，攻击模物族！"
 
 #: src-en/data/events_enlightened.xml:1146
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[2]/event/text"
 msgstr ""
+"你试图协助启蒙者，但战斗还没开始，一大团模物族就朝他们扑了过去；这些模物族正"
+"在干扰启蒙者的氧气系统和武器！在他们失去行动能力后，你只能独自去对付这艘模物"
+"族飞船了。"
 
 #: src-en/data/events_enlightened.xml:1149
 msgid ""
@@ -1871,12 +1930,13 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1155
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[3]/text"
-msgstr ""
+msgstr "我不想和这事有任何关系，滚开。"
 
 #: src-en/data/events_enlightened.xml:1157
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[1]/event/choice[@req=\"LIST_CREW_MORPH\"]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你任由两艘飞船继续争斗，转身驶离，重新飞回虚空之中……这种感觉虽然诡异，却莫名"
+"让人安心。"
 
 #: src-en/data/events_enlightened.xml:1159
 msgid ""
@@ -1891,12 +1951,13 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:1173
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[2]/text"
-msgstr ""
+msgstr "这对我来说有点太奇怪了。"
 
 #: src-en/data/events_enlightened.xml:1175
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_MORPH\"]/choice[2]/event/text"
-msgstr ""
+msgstr "“那么，我想……我们永远都不会知道了。”声音渐渐沉寂，你在超光速引擎充能的过程中"
+"，只能凝视着黑暗，暗自想着那些本可能发生的一切。"
 
 #: src-en/data/events_enlightened.xml:1177
 msgid ""
@@ -1911,7 +1972,7 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:1190
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP\"]/destroyed/text"
-msgstr ""
+msgstr "尽管困难重重，你还是突破了圣骑士的护甲！你迅速打捞起一切能用的物资。"
 
 #: src-en/data/events_enlightened.xml:1193
 msgid ""
@@ -1921,7 +1982,7 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1198
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP\"]/deadCrew/text"
-msgstr ""
+msgstr "历尽艰险，你终于击杀了圣骑士！你迅速打捞起一切可用的物资。"
 
 #: src-en/data/events_enlightened.xml:1201
 msgid ""
@@ -1932,336 +1993,416 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/text"
 msgstr ""
+"你刚搜刮完毕，那个声音便对你说道：“我的族人……他们中还有人活着。还有……还有一艘"
+"飞船幸存。”随后它指引你找到那艘船，那是一艘没有战斗装备的小型飞船。你发出通讯"
+"请求，对方接通了：“你……外来者，猎物……你救了我们。为什么？”"
 
 #: src-en/data/events_enlightened.xml:1210
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/text"
-msgstr ""
+msgstr "我就是干这个的。"
 
 #: src-en/data/events_enlightened.xml:1212
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/text"
 msgstr ""
+"他们思索了片刻，然后说道：“我们所做的……是工程技术方面的工作。我们推测……这就是"
+"那些岩石族没有发现我们的原因。我们相信，我们的族人……徒劳地向他们开火，才导致"
+"了位置暴露；黑暗什么的……都见鬼去吧。”他们愿意尽己所能报答你的恩情。"
 
 #: src-en/data/events_enlightened.xml:1215
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "我的反应堆需要稍微升级一下。"
 
 #: src-en/data/events_enlightened.xml:1217
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，开始升级你的反应堆。"
 
 #: src-en/data/events_enlightened.xml:1222
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一些人手。"
 
 #: src-en/data/events_enlightened.xml:1224
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "他们其中一人看着你问道：“你具体在找什么？”"
 
 #: src-en/data/events_enlightened.xml:1226
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "我需要一名战士。"
 
 #: src-en/data/events_enlightened.xml:1228
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名深渊潜者过来。"
 
 #: src-en/data/events_enlightened.xml:1233
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一个能支撑我其余船员的核心助力。"
 
 #: src-en/data/events_enlightened.xml:1235
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名启蒙者教徒过来。"
 
 #: src-en/data/events_enlightened.xml:1240
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "（哈皮·霍利戴斯）我需要更多……不管这是什么。"
 
 #: src-en/data/events_enlightened.xml:1242
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/text"
 msgstr ""
+"其中一名工程师变成了第二个哈皮·霍利戴斯，剩下的深渊潜者惊恐地尖叫起来。他们立"
+"刻中断了通讯，可你发现第二个哈皮·霍利戴斯不知何时已经出现在了你身后。剧情展开"
+"得太离谱了。"
 
 #: src-en/data/events_enlightened.xml:1243
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/crewMember"
-msgstr ""
+msgstr "约翰·霍利戴斯"
 
 #: src-en/data/events_enlightened.xml:1249
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "来点异域风情的东西吧。"
 
 #: src-en/data/events_enlightened.xml:1251
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"“异域……的东西？”他们简单思索了一下，其中一人朝另一人点了点头，随后离开了房间"
+"。他们回来时带着……一架怪异的无人机，它仿佛能吞噬周围的光线。你会觉得这更像是"
+"半械族的科技……“这个……给你。这是黑暗之主送给我们的礼物……用来换取贡品。现在……它"
+"是我们送给你的礼物。”他们把无人机送了过来，毫无疑问，这是半械族的设计……只是其"
+"中还注入了某种不祥的黑暗力量。黑暗之神到底在对半械族的科技做些什么？那个声音"
+"没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:1256
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "你们这些工程师应该不会正好有什么武器吧？"
 
 #: src-en/data/events_enlightened.xml:1258
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"“武器……吗？”他们简单思索了一下，其中一人朝另一人点了点头，随后离开了房间。他"
+"们回来时带着……一把怪异的武器，它仿佛能吞噬周围的光线。“这个……给你。这是黑暗之"
+"主送给我们的礼物……用来换取贡品。现在……它是我们送给你的礼物。”他们把武器递了过"
+"来，当你靠近时，一股恐惧的气息萦绕在它周围。他们说……这是黑暗之主的礼物……这里"
+"面究竟蕴藏着怎样的诡秘力量？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:1263
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "那么……你们的光源怎么样？"
 
 #: src-en/data/events_enlightened.xml:1265
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"“真是个……奇怪又具体的要求。你刚刚……救了我们，还阻止了这块岩石的狂暴肆虐，所以"
+"……我想我们可以放心把黑暗之主的……恩赐交给你。这是你应得的。”说完，他们花了点时"
+"间拆下了仅剩的几台还能运作的光源，然后把它们递给了你。当你拿到它们时，至少可"
+"以说，让你感觉……很不舒服。你唯一能确定的是，它们散发出某种怪异的能量，而那个"
+"声音对此没有给出任何解释。"
 
 #: src-en/data/events_enlightened.xml:1272
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "救你们？我只是喜欢废料而已。"
 
 #: src-en/data/events_enlightened.xml:1274
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "他们不安地动了动。“好吧，不管怎么说……你救了我们。我们能做的……至少是偿还这份恩"
+"情。”他们说明自己是工程师，并愿意尽己所能提供帮助。"
 
 #: src-en/data/events_enlightened.xml:1276
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "我的反应堆需要稍微修理一下。"
 
 #: src-en/data/events_enlightened.xml:1278
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，开始着手修理你的反应堆。"
 
 #: src-en/data/events_enlightened.xml:1284
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一些人手。"
 
 #: src-en/data/events_enlightened.xml:1286
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "其中一人看着你问道：“你具体想要什么样的人手？”"
 
 #: src-en/data/events_enlightened.xml:1289
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "我需要一名战士。"
 
 #: src-en/data/events_enlightened.xml:1291
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名深渊潜者过来。"
 
 #: src-en/data/events_enlightened.xml:1296
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一个能带动我其他船员的人。"
 
 #: src-en/data/events_enlightened.xml:1298
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名启蒙者教徒过来。"
 
 #: src-en/data/events_enlightened.xml:1303
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "（哈皮·霍利戴斯）我需要更多……不管这东西是什么。"
 
 #: src-en/data/events_enlightened.xml:1305
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/text"
 msgstr ""
+"其中一名工程师变形成为第二个哈皮·霍利戴斯，其余的深渊潜者惊恐地尖叫起来。他们"
+"迅速终止了通讯，但你发现第二个哈皮·霍利戴斯在此期间不知何时已经出现在了你身后"
+"。场面一片混乱。"
 
 #: src-en/data/events_enlightened.xml:1306
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/crewMember"
-msgstr ""
+msgstr "约翰·霍利戴斯"
 
 #: src-en/data/events_enlightened.xml:1312
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "给我来点异域稀罕的玩意儿。"
 
 #: src-en/data/events_enlightened.xml:1314
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[3]/event/text"
 msgstr ""
+"“稀罕……的东西？”他们简单思索了一下，其中一人朝另一人点了点头，随后离开了房间"
+"。他们回来时带着……一架怪异的无人机，它仿佛能吞噬周围的光线。你会觉得这更像是"
+"半械族的科技……“这个……给你。这是黑暗之主送给我们的礼物……用来换取贡品。现在……它"
+"是我们送给你的礼物。”他们把无人机递了过来，而毫无疑问，它看上去确实是半械族的"
+"设计……只不过还被注入了某种邪恶的黑暗力量。黑暗之主究竟在对半械族的科技做些什"
+"么？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:1320
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[4]/text"
-msgstr ""
+msgstr "你们这些工程师应该不会正好有什么武器吧？"
 
 #: src-en/data/events_enlightened.xml:1322
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[4]/event/text"
 msgstr ""
+"“武器……吗？”他们简单思索了一下，其中一人朝另一人点了点头，然后离开了房间。他"
+"们回来时带着……一把怪异的武器，仿佛能吞噬周遭的光线。“这个……给你。这是黑暗之主"
+"送给我们的礼物……用来换取贡品。现在……它是我们送给你的礼物。”他们把武器递了过来"
+"，当你靠近时，一股恐惧的气息在它周围弥漫不散。他们说……这是黑暗之主的礼物……这"
+"里面究竟潜藏着怎样的诡异力量？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:1327
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "那么……你们的灯光怎么样？"
 
 #: src-en/data/events_enlightened.xml:1329
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[5]/event/text"
 msgstr ""
+"“真是个……奇怪又具体的要求。你刚刚……救了我们，还阻止了这块岩石的狂暴肆虐，所以"
+"……我想我们可以相信你，把黑暗之主的……恩惠交给你。这是你应得的。”说完，他们花了"
+"点时间拆下了仅剩的几台还能运作的灯光装置，然后把它们交给了你。当你拿到它们时"
+"，至少可以说，让你感觉……很不舒服。你唯一能确定的是，它们散发出某种诡异的能量"
+"，而那个声音对此没有给出任何解释。"
 
 #: src-en/data/events_enlightened.xml:1335
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/text"
-msgstr ""
+msgstr "“我说我喜欢废料，你到底哪部分没听懂？”"
 
 #: src-en/data/events_enlightened.xml:1337
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/text"
-msgstr ""
+msgstr "他们再次露出为难的神色。“我们实在……没有堆放废品。还有……别的我们能提供的东西吗"
+"？”"
 
 #: src-en/data/events_enlightened.xml:1339
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/text"
-msgstr ""
+msgstr "退让一步，选点别的吧。"
 
 #: src-en/data/events_enlightened.xml:1341
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你注意到他们其中一人松了口气。"
 
 #: src-en/data/events_enlightened.xml:1344
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "我的反应堆需要稍微修理一下。"
 
 #: src-en/data/events_enlightened.xml:1346
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，开始着手修理你的反应堆。"
 
 #: src-en/data/events_enlightened.xml:1351
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一些人手。"
 
 #: src-en/data/events_enlightened.xml:1353
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "其中一人看着你问道：“你具体想要什么样的人手？”"
 
 #: src-en/data/events_enlightened.xml:1355
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "我需要一名战士。"
 
 #: src-en/data/events_enlightened.xml:1357
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名深渊潜者过来。"
 
 #: src-en/data/events_enlightened.xml:1362
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我需要一个能带动我其他船员的人。"
 
 #: src-en/data/events_enlightened.xml:1364
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "工程师们点了点头，派了一名启蒙者教徒过来。"
 
 #: src-en/data/events_enlightened.xml:1369
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/text"
-msgstr ""
+msgstr "（哈皮·霍利戴斯）我需要更多……不管这东西是什么。"
 
 #: src-en/data/events_enlightened.xml:1371
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/text"
 msgstr ""
+"其中一名工程师变形成为第二个哈皮·霍利戴斯，其余的深渊潜者惊恐地尖叫起来。他们"
+"迅速终止了通讯，但你发现第二个哈皮·霍利戴斯在此期间不知何时已经出现在了你身后"
+"。场面一片混乱。"
 
 #: src-en/data/events_enlightened.xml:1372
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[2]/event/choice[@req=\"LIST_CREW_HAPPYHOLIDAYS\"]/event/crewMember"
-msgstr ""
+msgstr "约翰·霍利戴斯"
 
 #: src-en/data/events_enlightened.xml:1378
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "来点不一样的、有异域风情的。"
 
 #: src-en/data/events_enlightened.xml:1380
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"“稀罕……玩意儿？”他们略一思索，其中一人朝另一人点头，两人随即离开房间。他们回"
+"来时，带着一架怪异的无人机，它仿佛能吞噬周遭的光线。你本以为这更像是半械族的"
+"科技……“这个……给你。这是黑暗之主为换取贡品，送给我们的……礼物。现在……它是我们送"
+"给你的礼物。”他们把无人机递了过来，而它确实是半械族的设计……只是还被注入了某种"
+"邪恶的黑暗力量。黑暗之主究竟在利用半械族的科技做什么？那个声音依旧没有给出任"
+"何答案。"
 
 #: src-en/data/events_enlightened.xml:1385
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "你们这些工程师应该不会正好有什么武器吧？"
 
 #: src-en/data/events_enlightened.xml:1387
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"“武器……吗？”他们稍微想了想，然后其中一个朝另一个点了点头，两人离开了房间。他"
+"们回来时，带着一件怪异的武器，它仿佛能吞噬周围所有的光线。“这个……给你。这是黑"
+"暗之主为了换取贡品，送给我们的……礼物。现在……它是我们送给你的礼物。”他们把武器"
+"递了过来，当你靠近时，一股恐怖的气息萦绕在它周围。他们说……这是黑暗之主的礼物…"
+"…这里面究竟藏着怎样的诡异力量？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:1392
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "那么……你们的灯光怎么样？"
 
 #: src-en/data/events_enlightened.xml:1394
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[1]/event/choice[5]/event/text"
 msgstr ""
+"“这要求……还真是奇怪又具体。你刚刚……救了我们，还阻止了这块岩石的狂暴行径，所以"
+"……我想我们可以相信你，把黑暗之主的……馈赠交给你。这是你应得的。”说完，他们花了"
+"点时间拆下仅剩的几台还能运作的灯光，然后把它们递给了你。你一拿到手，至少可以"
+"说，感觉……很不舒服。你唯一能确定的是，它们散发着某种诡异的能量，而那个声音对"
+"此没有给出任何解释。"
 
 #: src-en/data/events_enlightened.xml:1401
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[2]/text"
-msgstr ""
+msgstr "他们根本就不明白，是吧？把他们炸掉。"
 
 #: src-en/data/events_enlightened.xml:1403
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE_SHIP_WIN\"]/choice[2]/event/choice[6]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“等等……求你——”通讯骤然中断，他们的飞船先是扭曲变形，随即断成两截。死寂震耳欲"
+"聋，你尽力搜刮物资，却所剩无几……真是浪费时间。"
 
 #: src-en/data/events_enlightened.xml:1415
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/text"
 msgstr ""
+"你抵达时，只见橙色的闪光一次次刺破黑暗，每次间隔数秒。这样过了一会儿，那个声"
+"音艰难地对你开口：“同族……在这里……正被……被屠杀……一艘岩石飞船……型号我从未见过，"
+"在猎杀他们。它……似乎对武器火焰免疫。我……我知道你的生存才是首要任务，联邦成员…"
+"…可是……我的族人……”它没能把话说完。"
 
 #: src-en/data/events_enlightened.xml:1418
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/text"
-msgstr ""
+msgstr "照亮前路，剩下的交给我。"
 
 #: src-en/data/events_enlightened.xml:1420
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/text"
 msgstr ""
+"它的声音里带着哽咽，却又透出一丝希望：“谢……谢谢你，真的谢谢你。”随着一阵强烈"
+"的紧迫感，虚空迅速退去；一条布满残骸的道路出现在你面前，启蒙者的飞船四处损毁"
+"，你意识到，自己正直面一名岩石圣骑士。"
 
 #: src-en/data/events_enlightened.xml:1423
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[1]/text"
 msgstr ""
+"它的声音哽咽，却又透出一丝希望：“谢……谢谢你，真的谢谢你。”强烈的紧迫感袭来，"
+"虚空迅速退去，一条布满残骸的道路出现在你眼前，启蒙者的飞船四处损毁，你意识到"
+"，自己正面迎上了一名岩石圣骑士。"
 
 #: src-en/data/events_enlightened.xml:1425
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你继续向前推进，圣骑士飞船发出通讯：“联邦舰队。我不知道你是如何迫使这股邪恶的"
+"黑暗退去的，但这已无关紧要。长老们要求净化这片虚空中的所有无信者，而你，就在"
+"其中。安心吧，我们的惩戒将会迅速降临。”他们切断通讯，准备发起攻击……你会成为他"
+"们神圣征途上的又一块垫脚石，还是终结这场疯狂的人？"
 
 #: src-en/data/events_enlightened.xml:1427
 msgid ""
@@ -2271,12 +2412,16 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1433
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "转念一想……"
 
 #: src-en/data/events_enlightened.xml:1435
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你还没来得及行动，圣骑士飞船便再次发来通讯：“联邦之人。我不知道你是如何让这股"
+"污秽的黑暗消退的，但这无关紧要。长老下令，必须净化这片虚空里的所有无信者，而"
+"你，就在其中。安心吧，我们的惩戒会来得很快。”他们随即切断通讯，准备发起攻击……"
+"你会成为他们神圣征途上的又一个牺牲品，还是终结这场疯狂的人？"
 
 #: src-en/data/events_enlightened.xml:1437
 msgid ""
@@ -2286,12 +2431,15 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1445
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[2]/text"
-msgstr ""
+msgstr "我做不到，对不起。"
 
 #: src-en/data/events_enlightened.xml:1447
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_PALADIN_CRUSADE\"]/choice[2]/event/text"
 msgstr ""
+"“可是，他们……”它顿了顿，“我……”没有再说下去。气氛有些尴尬，但……“武器无法击穿”"
+"这句话，实在没法让你对胜算有信心。话说回来，所有岩石族飞船不都多少能免疫武器"
+"攻击吗？"
 
 #: src-en/data/events_enlightened.xml:1450
 msgid ""
@@ -2306,7 +2454,8 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:1462
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/text"
-msgstr ""
+msgstr "虚空瞬间被抽离，一艘启蒙者飞船出现在视野中，那个声音说道：“猎手……来了。做好准"
+"备。”"
 
 #: src-en/data/events_enlightened.xml:1466
 msgid ""
@@ -2316,7 +2465,8 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:1468
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/text"
-msgstr ""
+msgstr "但让你意外的是，他们向你发出通讯：“等等！等等，等等，等等！”你从没见过深渊潜"
+"者说话这么快……"
 
 #: src-en/data/events_enlightened.xml:1470
 msgid ""
@@ -2327,46 +2477,58 @@ msgstr "等等。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"他们松了口气，继续说道：“天啊，哇……你真的来了！等等，你不认识我，呃……我是你的"
+"超级粉丝。我在深渊潜者星域的一场战斗里见过你，不是……不是这一场……”他们看向屏幕"
+"外，咽了口唾沫，“……呃，另一场。我真的不喜欢这场。不管怎样！从那以后我就一直跟"
+"着你。你看，我还偷了一艘这些花哨的邪教徒飞船！”"
 
 #: src-en/data/events_enlightened.xml:1475
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "那艘“花哨的邪教徒飞船”差点害你送命……"
 
 #: src-en/data/events_enlightened.xml:1477
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"“是啊，但……这很酷，不是吗？我现在简直在cosplay你的死敌啊！”他们眨了几下眼睛，"
+"然后说道，“现在想想……这主意好像不怎么聪明，对吧？也许我就不是干这种跟踪勾当的"
+"料……”"
 
 #: src-en/data/events_enlightened.xml:1479
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "如果你想更擅长跟踪我，我有一些诀窍。我可是个专业跟踪者。"
 
 #: src-en/data/events_enlightened.xml:1481
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "他们眼睛一亮，“真的吗？！哇！我本来觉得你已经够酷了……没想到我们居然这么有共同"
+"语言！”他们满怀期待地看着你。"
 
 #: src-en/data/events_enlightened.xml:1483
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（隐形）首先，你得搞到一个这玩意儿。"
 
 #: src-en/data/events_enlightened.xml:1485
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/text"
-msgstr ""
+msgstr "“哦，我真正用来跟踪的飞船上就有一个！我不太清楚这艘抢来的船有什么装备，反正就"
+"是顺手劫了……总之，我可比你这个专业跟踪者领先一步呢！”"
 
 #: src-en/data/events_enlightened.xml:1487
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[@req=\"cloaking\"]/text"
-msgstr ""
+msgstr "（先进隐形）你的跟踪能力跟我比起来，简直不值一提。"
 
 #: src-en/data/events_enlightened.xml:1489
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[@req=\"cloaking\"]/event/text"
 msgstr ""
+"他们吓得往后一跳，“整整十五秒，最少？！哇，你真的是专业的！”他们顿了顿，记下"
+"了什么，“好！等我离开这里，一定要好好练习隐形。说到……离开这里……这地方真的让我"
+"毛骨悚然。我下个星域再见吧。不过你肯定看不到我，我马上就要变成专业跟踪者了！”"
 
 #: src-en/data/events_enlightened.xml:1491
 msgid ""
@@ -2377,46 +2539,64 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[@req=\"cloaking\"]/event/choice/event/text"
 msgstr ""
+"不过在我走之前，这艘船上可是有各种好东西！我反正也用不上，而且我怎么能放过帮"
+"助联邦的机会呢？我现在也算你故事里的一员了！让我翻一翻，看看能找到什么……他们"
+"翻找了一会儿，随即给你发送了一堆乱七八糟的物资……其中还包括一件武器！“好了，专"
+"业跟踪大佬！祝你好运，我们回头见！”说完，他们便离开了这个星系。那个声音对你说"
+"道：“至少可以说……是个很有魅力的小家伙。”你几乎能感觉到，它的话语背后藏着一丝"
+"极淡的笑意……"
 
 #: src-en/data/events_enlightened.xml:1503
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[2]/text"
-msgstr ""
+msgstr "看来，终究没什么我能教你的了……"
 
 #: src-en/data/events_enlightened.xml:1505
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"cloaking\"]/event/choice[2]/event/text"
 msgstr ""
+"“哦……别难过呀，在我心里你依然是最专业的跟踪大佬！”他们环顾了一下四周，接着说"
+"道，“不过我想，这就意味着我得自己琢磨跟踪这门手艺了。但我不会放弃的！下个星域"
+"再见，到时候我的跟踪能力一定会强到你根本发现不了我！祝你好运，暂时先拜拜啦！”"
+"他们离开了信标区域，只留下你独自一人……除了那个声音，它对你说道：“至少可以说……"
+"是个很有魅力的小家伙。”你几乎能感觉到，它的话语背后藏着一丝极淡的笑意……"
 
 #: src-en/data/events_enlightened.xml:1513
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "其实……更像是个正在受训的跟踪者。"
 
 #: src-en/data/events_enlightened.xml:1515
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"“哦……别难过呀，在我心里你依然是专业跟踪大神！”他们环顾了一下四周，然后继续说"
+"道，“不过我想，这就意味着我得自己琢磨跟踪这门本事了。但我不会放弃的！我们下个"
+"星域见，到时候我的跟踪能力会强到你根本发现不了我！祝你好运，暂时再见啦！”他们"
+"离开了信标区域，只剩下你独自一人……除了那个声音，它对你说道：“至少可以说……是个"
+"很有魅力的小家伙。”你几乎能感觉到，它的话语背后藏着一丝极淡的笑意……"
 
 #: src-en/data/events_enlightened.xml:1523
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "你有没有想过别再跟踪别人了？"
 
 #: src-en/data/events_enlightened.xml:1525
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "他们短暂地愣了一下，看着你：“那我不跟踪你的话，怎么知道接下来会发生什么事啊？"
+"”"
 
 #: src-en/data/events_enlightened.xml:1527
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "你可以跟我来。"
 
 #: src-en/data/events_enlightened.xml:1529
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "他们一脸震惊地回答：“然后去打打杀杀？抱歉，我真的很佩服你，可是……我觉得我不是"
+"拯救世界那块料。跟踪安全多了！不过还是很谢谢你邀请我……”"
 
 #: src-en/data/events_enlightened.xml:1531
 msgid ""
@@ -2427,16 +2607,21 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"“好！我下定决心了。我要离开这里，好好练习我的跟踪术……在此期间，你一定要保重，"
+"好吗？我们下个星域见！不过你应该……呃，不会看到我的。”说完，他们便离开了这个星"
+"系，那个声音对你说道：“至少可以说……是个很有魅力的小家伙。”你几乎能感觉到，它"
+"的话语背后藏着一丝极淡的笑意……"
 
 #: src-en/data/events_enlightened.xml:1541
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "你可以过你自己的生活！"
 
 #: src-en/data/events_enlightened.xml:1543
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "他们坏笑一下：“你的生活可比我有意思多了！你收拾掉这么多坏蛋，感觉整个宇宙都在"
+"围着你转呢……不过我还是很谢谢你这番心意。”"
 
 #: src-en/data/events_enlightened.xml:1545
 msgid ""
@@ -2447,16 +2632,20 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"“好！我已经下定决心了。我要离开这里，好好练习我的跟踪术……在此期间，你一定要保"
+"重，好吗？我们下个星域见！只不过你应该……呃，不会看到我的。”说完，他们便离开了"
+"这个星系，那个声音对你说道：“至少可以说……是个很有魅力的小家伙。”你几乎能感觉"
+"到，它的话语背后藏着一丝极淡的笑意……"
 
 #: src-en/data/events_enlightened.xml:1561
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "继续攻击。"
 
 #: src-en/data/events_enlightened.xml:1563
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"NEUTRAL_ENLIGHTENED_SUPERFAN\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "这说不定是个圈套，你心里很清楚。你切断通讯，准备战斗。"
 
 #: src-en/data/events_enlightened.xml:1565
 msgid ""
@@ -2467,56 +2656,75 @@ msgstr "继续。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG_GUN\"]/text"
 msgstr ""
+"你朝那个保险箱开火，只见外面的现实本身都在扭曲；保险箱消失了，已经传送离开。"
+"你现在留下的只有更多疑问……不过说实话，这门槛也够低的，毕竟你本来就什么答案都"
+"没有。"
 
 #: src-en/data/events_enlightened.xml:1590
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[1]/text"
 msgstr ""
+"你的船员按下按钮，你看着外面的现实空间开始扭曲；保险箱消失了，被传送走了，而"
+"在它原本的位置上，留下了一小堆废料……你不太确定刚才到底发生了什么，但废料总归"
+"是废料。而且，你的船员安然无恙！"
 
 #: src-en/data/events_enlightened.xml:1594
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[2]/text"
 msgstr ""
+"你的船员按下按钮，你看着外面的现实空间开始扭曲；保险箱消失了，被传送走了，而"
+"在它原本的位置上，留下了几节燃料……你不太确定刚才到底发生了什么，但燃料总归是"
+"燃料。而且，你的船员安然无恙！"
 
 #: src-en/data/events_enlightened.xml:1598
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[3]/text"
 msgstr ""
+"你的船员按下按钮，你看着外面的现实空间开始扭曲；保险箱消失了，被传送走了，而"
+"在它原本的位置上，留下了几枚导弹……你不太确定刚才到底发生了什么，但导弹总归是"
+"导弹。而且，你的船员安然无恙！"
 
 #: src-en/data/events_enlightened.xml:1602
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_VAULT_WRONG\"]/event[4]/text"
 msgstr ""
+"你的船员按下按钮，你看着外面的现实空间开始扭曲；保险箱消失了，被传送走了，而"
+"在它原本的位置上，留下了一小堆无人机零件……你不太确定刚才到底发生了什么，但无"
+"人机零件总归是零件。而且，你的船员安然无恙！"
 
 #: src-en/data/events_enlightened.xml:1608
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/text"
-msgstr ""
+msgstr "当你抵达信标时，那个声音听起来有些困惑，“什么？怎么会……我居然不能……”它还在自"
+"顾自地低声嘟囔。"
 
 #: src-en/data/events_enlightened.xml:1611
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/text"
-msgstr ""
+msgstr "你问它出了什么事。"
 
 #: src-en/data/events_enlightened.xml:1613
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/text"
-msgstr ""
+msgstr "“呃……这里有个……某种……保险库，就飘在这儿。让我困扰的是……我看不穿里面。”虚空被"
+"推开，果然，太空中悬浮着一个巨大的保险箱……你该怎么做？"
 
 #: src-en/data/events_enlightened.xml:1615
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/text"
-msgstr ""
+msgstr "你派人出去打开它。"
 
 #: src-en/data/events_enlightened.xml:1617
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/text"
-msgstr ""
+msgstr "你的船员回报说，保险箱上装有一个数字键盘，需要输入四位数密码。他们该按什么数"
+"字？"
 
 #: src-en/data/events_enlightened.xml:1619
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[1]/text"
-msgstr ""
+msgstr "1."
 
 #: src-en/data/events_enlightened.xml:1623
 msgid ""
@@ -2524,9 +2732,10 @@ msgid ""
 msgstr "2。"
 
 #: src-en/data/events_enlightened.xml:1627
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[3]/text"
-msgstr ""
+msgstr "3."
 
 #: src-en/data/events_enlightened.xml:1631
 msgid ""
@@ -2534,9 +2743,10 @@ msgid ""
 msgstr "4。"
 
 #: src-en/data/events_enlightened.xml:1635
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[5]/text"
-msgstr ""
+msgstr "5."
 
 #: src-en/data/events_enlightened.xml:1639
 msgid ""
@@ -2544,34 +2754,39 @@ msgid ""
 msgstr "6。"
 
 #: src-en/data/events_enlightened.xml:1643
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[7]/text"
-msgstr ""
+msgstr "7."
 
 #: src-en/data/events_enlightened.xml:1647
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[8]/text"
-msgstr ""
+msgstr "8."
 
 #: src-en/data/events_enlightened.xml:1651
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[9]/text"
-msgstr ""
+msgstr "9."
 
 #: src-en/data/events_enlightened.xml:1655
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/text"
-msgstr ""
+msgstr "0."
 
 #: src-en/data/events_enlightened.xml:1657
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/text"
-msgstr ""
+msgstr "还要输入三位。接下来他们该按什么数字？"
 
 #: src-en/data/events_enlightened.xml:1659
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[1]/text"
-msgstr ""
+msgstr "1."
 
 #: src-en/data/events_enlightened.xml:1663
 msgid ""
@@ -2579,19 +2794,21 @@ msgid ""
 msgstr "2。"
 
 #: src-en/data/events_enlightened.xml:1667
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/text"
-msgstr ""
+msgstr "3."
 
 #: src-en/data/events_enlightened.xml:1669
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/text"
-msgstr ""
+msgstr "还要输入两位。接下来他们该按什么数字？"
 
 #: src-en/data/events_enlightened.xml:1671
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "1."
 
 #: src-en/data/events_enlightened.xml:1675
 msgid ""
@@ -2601,12 +2818,13 @@ msgstr "2。"
 #: src-en/data/events_enlightened.xml:1677
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/text"
-msgstr ""
+msgstr "只剩最后一位了……接下来他们该按什么数字？"
 
 #: src-en/data/events_enlightened.xml:1679
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "1."
 
 #: src-en/data/events_enlightened.xml:1683
 msgid ""
@@ -2614,9 +2832,10 @@ msgid ""
 msgstr "2。"
 
 #: src-en/data/events_enlightened.xml:1687
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "3."
 
 #: src-en/data/events_enlightened.xml:1691
 msgid ""
@@ -2624,9 +2843,10 @@ msgid ""
 msgstr "4。"
 
 #: src-en/data/events_enlightened.xml:1695
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[5]/text"
-msgstr ""
+msgstr "5."
 
 #: src-en/data/events_enlightened.xml:1699
 msgid ""
@@ -2634,39 +2854,48 @@ msgid ""
 msgstr "6。"
 
 #: src-en/data/events_enlightened.xml:1703
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[7]/text"
-msgstr ""
+msgstr "7."
 
 #: src-en/data/events_enlightened.xml:1707
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[8]/text"
-msgstr ""
+msgstr "8."
 
 #: src-en/data/events_enlightened.xml:1711
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[9]/text"
-msgstr ""
+msgstr "9."
 
 #: src-en/data/events_enlightened.xml:1715
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[10]/text"
-msgstr ""
+msgstr "0."
 
 #: src-en/data/events_enlightened.xml:1717
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[10]/event/text"
 msgstr ""
+"你的船员输入了最后一位数字，保险库打开了……里面躺着一种难以名状、无法形容的诡"
+"异恐怖存在。你将一股古老的邪恶力量释放到了这个现实世界……它看着你，然后又看向"
+"你的船员，说道：“看看这支队伍，我们一定会干出一番大事！”愿上帝怜悯你们的灵魂"
+"。"
 
 #: src-en/data/events_enlightened.xml:1719
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[2]/event/choice[10]/event/crewMember"
-msgstr ""
+msgstr "哈皮・霍利戴斯"
 
 #: src-en/data/events_enlightened.xml:1725
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "3."
 
 #: src-en/data/events_enlightened.xml:1729
 msgid ""
@@ -2674,9 +2903,10 @@ msgid ""
 msgstr "4。"
 
 #: src-en/data/events_enlightened.xml:1733
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[5]/text"
-msgstr ""
+msgstr "5."
 
 #: src-en/data/events_enlightened.xml:1737
 msgid ""
@@ -2684,24 +2914,28 @@ msgid ""
 msgstr "6。"
 
 #: src-en/data/events_enlightened.xml:1741
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[7]/text"
-msgstr ""
+msgstr "7."
 
 #: src-en/data/events_enlightened.xml:1745
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[8]/text"
-msgstr ""
+msgstr "8."
 
 #: src-en/data/events_enlightened.xml:1749
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[9]/text"
-msgstr ""
+msgstr "9."
 
 #: src-en/data/events_enlightened.xml:1753
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[3]/event/choice[10]/text"
-msgstr ""
+msgstr "0."
 
 #: src-en/data/events_enlightened.xml:1759
 msgid ""
@@ -2709,9 +2943,10 @@ msgid ""
 msgstr "4。"
 
 #: src-en/data/events_enlightened.xml:1763
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[5]/text"
-msgstr ""
+msgstr "5."
 
 #: src-en/data/events_enlightened.xml:1767
 msgid ""
@@ -2719,39 +2954,44 @@ msgid ""
 msgstr "6。"
 
 #: src-en/data/events_enlightened.xml:1771
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[7]/text"
-msgstr ""
+msgstr "7."
 
 #: src-en/data/events_enlightened.xml:1775
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[8]/text"
-msgstr ""
+msgstr "8."
 
 #: src-en/data/events_enlightened.xml:1779
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[9]/text"
-msgstr ""
+msgstr "9."
 
 #: src-en/data/events_enlightened.xml:1783
+#, fuzzy
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[@req=\"LIST_CHECK_ANY_CREW\"]/event/choice[10]/event/choice[10]/text"
-msgstr ""
+msgstr "0."
 
 #: src-en/data/events_enlightened.xml:1791
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "把它炸掉！"
 
 #: src-en/data/events_enlightened.xml:1797
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[2]/text"
-msgstr ""
+msgstr "别管它，让它自己嘟囔去吧。"
 
 #: src-en/data/events_enlightened.xml:1799
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_VAULT\"]/choice[2]/event/text"
-msgstr ""
+msgstr "那个声音又自顾自地含糊说了一会儿，你隐约听见它提到了保险库之类的东西，但你根"
+"本不在意。你还有更重要的事要做，比如……什么都不做。"
 
 #: src-en/data/events_enlightened.xml:1801
 msgid ""
@@ -2766,417 +3006,423 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:1814
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[1]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这应该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1818
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1822
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "其实这就够了。"
 
 #: src-en/data/events_enlightened.xml:1827
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[2]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这应该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1831
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1835
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "其实已经够了。"
 
 #: src-en/data/events_enlightened.xml:1840
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[3]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这应该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1844
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[3]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1848
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[3]/choice[2]/text"
-msgstr ""
+msgstr "其实真的够了。"
 
 #: src-en/data/events_enlightened.xml:1853
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[4]/text"
-msgstr ""
+msgstr "你继续大肆洗劫、偷窃、掠夺……这应该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1857
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[4]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1861
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[4]/choice[2]/text"
-msgstr ""
+msgstr "其实这就够了。"
 
 #: src-en/data/events_enlightened.xml:1866
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[5]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这总该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1870
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[5]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1874
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[5]/choice[2]/text"
-msgstr ""
+msgstr "其实这就够了。"
 
 #: src-en/data/events_enlightened.xml:1879
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[6]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这应该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1883
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[6]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1887
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[6]/choice[2]/text"
-msgstr ""
+msgstr "其实这就够了。"
 
 #: src-en/data/events_enlightened.xml:1892
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[7]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这应该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1896
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[7]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1900
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[7]/choice[2]/text"
-msgstr ""
+msgstr "其实这就够了。"
 
 #: src-en/data/events_enlightened.xml:1905
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[8]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这总该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1909
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[8]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1913
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[8]/choice[2]/text"
-msgstr ""
+msgstr "事实上，这已经足够了。"
 
 #: src-en/data/events_enlightened.xml:1918
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[9]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这总该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1922
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[9]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1926
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[9]/choice[2]/text"
-msgstr ""
+msgstr "事实上，这已经足够了。"
 
 #: src-en/data/events_enlightened.xml:1931
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[10]/text"
-msgstr ""
+msgstr "你继续大肆洗劫、偷窃、掠夺……这应该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1935
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[10]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1939
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[10]/choice[2]/text"
-msgstr ""
+msgstr "其实真的够了。"
 
 #: src-en/data/events_enlightened.xml:1944
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[11]/text"
-msgstr ""
+msgstr "你继续搜刮、偷窃、劫掠……这总该够了，对吧？"
 
 #: src-en/data/events_enlightened.xml:1948
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[11]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1952
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[11]/choice[2]/text"
-msgstr ""
+msgstr "其实已经够了。"
 
 #: src-en/data/events_enlightened.xml:1957
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[12]/text"
-msgstr ""
+msgstr "你还在不停地搜刮、偷窃、劫掠……这总该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1961
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[12]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1965
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[12]/choice[2]/text"
-msgstr ""
+msgstr "事实上，这已经足够了。"
 
 #: src-en/data/events_enlightened.xml:1970
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[13]/text"
-msgstr ""
+msgstr "你还在不断地洗劫、偷窃、掠夺……这总该够了吧？"
 
 #: src-en/data/events_enlightened.xml:1974
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[13]/choice[1]/text"
-msgstr ""
+msgstr "永远都不够！"
 
 #: src-en/data/events_enlightened.xml:1978
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_ONE\"]/event[13]/choice[2]/text"
-msgstr ""
+msgstr "其实已经够了。"
 
 #: src-en/data/events_enlightened.xml:1986
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[1]/text"
-msgstr ""
+msgstr "你又在大肆劫掠。你已经在这里待了一阵子了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:1990
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[1]/choice[1]/text"
-msgstr ""
+msgstr "够不够我说了算！"
 
 #: src-en/data/events_enlightened.xml:1994
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[1]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点迷失了自己……"
 
 #: src-en/data/events_enlightened.xml:1999
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[2]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2003
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2007
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2012
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[3]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一阵子了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2016
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[3]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2020
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[3]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自己了……"
 
 #: src-en/data/events_enlightened.xml:2025
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[4]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2029
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[4]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2033
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[4]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2038
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[5]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2042
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[5]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2046
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[5]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2051
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[6]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2055
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[6]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2059
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[6]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自己了……"
 
 #: src-en/data/events_enlightened.xml:2064
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[7]/text"
-msgstr ""
+msgstr "你又在继续劫掠。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2068
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[7]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2072
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[7]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点迷失了自己……"
 
 #: src-en/data/events_enlightened.xml:2077
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[8]/text"
-msgstr ""
+msgstr "你还在继续掠夺。你已经在这里待了这么久……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2081
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[8]/choice[1]/text"
-msgstr ""
+msgstr "什么时候够了，由我来说！"
 
 #: src-en/data/events_enlightened.xml:2085
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[8]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2090
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[9]/text"
-msgstr ""
+msgstr "你还在继续掠夺。事到如今，你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2094
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[9]/choice[1]/text"
-msgstr ""
+msgstr "够不够我说了算！"
 
 #: src-en/data/events_enlightened.xml:2098
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[9]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点就迷失自己了……"
 
 #: src-en/data/events_enlightened.xml:2103
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[10]/text"
-msgstr ""
+msgstr "你还在继续掠夺。到现在你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2107
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[10]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2111
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[10]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2116
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[11]/text"
-msgstr ""
+msgstr "你还在继续掠夺。到现在你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2120
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[11]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2124
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[11]/choice[2]/text"
-msgstr ""
+msgstr "是啊，我没事。刚才差点就迷失自我了……"
 
 #: src-en/data/events_enlightened.xml:2129
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[12]/text"
-msgstr ""
+msgstr "你还在继续掠夺。到现在你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2133
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[12]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2137
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[12]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点就迷失自己了。"
 
 #: src-en/data/events_enlightened.xml:2142
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[13]/text"
-msgstr ""
+msgstr "你还在继续掠夺。到现在你已经在这里待了好一会儿了……这还不够吗？"
 
 #: src-en/data/events_enlightened.xml:2146
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[13]/choice[1]/text"
-msgstr ""
+msgstr "够不够，我说了算！"
 
 #: src-en/data/events_enlightened.xml:2150
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_TWO\"]/event[13]/choice[2]/text"
-msgstr ""
+msgstr "我没事，刚才差点就迷失了自己……"
 
 #: src-en/data/events_enlightened.xml:2158
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_LEVIATHAN\"]/destroyed/text"
-msgstr ""
+msgstr "这巨兽果真淌出财富。虽只是微薄些许，在你皇家的荣光面前黯然失色……可即便如此，"
+"也仍是财富。"
 
 #: src-en/data/events_enlightened.xml:2161
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_LEVIATHAN\"]/destroyed/choice/text"
-msgstr ""
+msgstr "盛宴吧，我灵魂中的深渊……"
 
 #: src-en/data/events_enlightened.xml:2166
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_LEVIATHAN\"]/deadCrew/text"
-msgstr ""
+msgstr "这巨兽果真淌出无尽财富。虽只是微薄点滴，在你皇家的荣光面前黯然失色……可即便如"
+"此，也仍是真金白银。"
 
 #: src-en/data/events_enlightened.xml:2169
 msgid ""
 "data/events_enlightened.xml$//ship[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_LEVIATHAN\"]/deadCrew/choice/text"
-msgstr ""
+msgstr "吞噬吧，我灵魂深处的深渊……"
 
 #: src-en/data/events_enlightened.xml:2176
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_LEVIATHAN_WIN\"]/text"
 msgstr ""
+"几小时后，你醒了过来。你记得的最后一件事是……拆解飞船？那个声音对你喊道：“我们"
+"得……离开这儿，马上，你这个蠢货！叛军……要追上我们了！”每句话都带着轻蔑，你醉眼"
+"朦胧地环顾四周……几艘叛军飞船的残骸已经飘浮在外面的太空中。你在这里待了多久？"
+"就在这时，一支小型的MFK精英舰队正朝着信标驶来；你心想，是时候赶紧离开这里了。"
 
 #: src-en/data/events_enlightened.xml:2184
 msgid ""
@@ -3187,26 +3433,32 @@ msgstr "快跑！"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/text"
 msgstr ""
+"你强迫自己继续拆解飞船，试图填满你那吞噬一切的贪婪……可这远远不够。永远都不够"
+"。没有任何东西能满足你。你是被虚空吞噬了……还是你自己，已然变成了虚空？那个声"
+"音开口道：“我们……最好还是赶紧离开吧，真的。”"
 
 #: src-en/data/events_enlightened.xml:2194
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/choice[1]/text"
-msgstr ""
+msgstr "屈服吧，化身贪婪，成为它的具象。"
 
 #: src-en/data/events_enlightened.xml:2196
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/choice[1]/event/text"
 msgstr ""
+"“叛……叛军正在逼近。难……难道这不值得担心吗？”那个声音向你恳求着。它在哀求，可"
+"你充耳不闻；它的话语，不过是这片黄金之海中几滴微不足道的银水罢了……"
 
 #: src-en/data/events_enlightened.xml:2200
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "沉浸在这一切奢华璀璨的光辉之中。"
 
 #: src-en/data/events_enlightened.xml:2202
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "听！一只污秽的巨怪，闯入了你的财宝之中！这头野兽必须被斩杀，以免它玷污这片圣"
+"地……冲啊，兄弟们；尽情屠戮，畅饮这可憎之物的鎏金之血！"
 
 #: src-en/data/events_enlightened.xml:2205
 msgid ""
@@ -3216,47 +3468,54 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2213
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD_GREED_THREE\"]/choice[2]/text"
-msgstr ""
+msgstr "忏悔吧；化身意志力，成为它的化身。"
 
 #: src-en/data/events_enlightened.xml:2219
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/text"
 msgstr ""
+"无处不在的虚空向你致意。看来你很受欢迎，因为那个声音也随之响起：“一片……残骸区"
+"域似乎包围了这座信标。这里有宝贵的资源……前提是你愿意付出时间，而时间才是最珍"
+"贵的……资源。”"
 
 #: src-en/data/events_enlightened.xml:2222
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[1]/text"
-msgstr ""
+msgstr "残骸……资源……废料！让我来！"
 
 #: src-en/data/events_enlightened.xml:2224
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你和你的船员开始行动，成功拆解了不少飞船。再继续下去，就有被叛军追上的风险……"
 
 #: src-en/data/events_enlightened.xml:2227
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "继续干。还有战利品要抢！"
 
 #: src-en/data/events_enlightened.xml:2231
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我没事，可不想太贪心了。"
 
 #: src-en/data/events_enlightened.xml:2233
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“真是……明智的决定。”那语气听着几乎像是赞许……无论如何，你带着刚到手的战利品准"
+"备离开这座信标。"
 
 #: src-en/data/events_enlightened.xml:2239
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[2]/text"
-msgstr ""
+msgstr "不想打扰逝者，我就不去了。"
 
 #: src-en/data/events_enlightened.xml:2241
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_WRECKYARD\"]/choice[2]/event/text"
 msgstr ""
+"你能想象出那个声音在你脑海里挑了挑眉，对你说道：“真的吗？我……还以为你早就没有"
+"这种理智了。算我……小看你了。”这是赞美？还是讽刺？不管怎样，你都不明白他们为什"
+"么非要这么讨人厌。"
 
 #: src-en/data/events_enlightened.xml:2244
 msgid ""
@@ -3272,91 +3531,183 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_LOW_RED\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你突然意识到自己根本不确定接下来会发生什么。然而你的恐惧很"
+"快就平息了，因为……一大群骰子从虚空中飞了回来？你听到启蒙者在计数：“三……七……十"
+"四……三十八……三十九，红色……嗯……还有四十，蓝色。哈，我赢了！深渊潜者，赞美我！”"
+"该死。嘿，至少你押得不多。那个声音对你说道：“这游戏……很奇怪，但我……还算熟悉。"
+"骰子真正的点数相乘，本身……并不重要。”它没有细说，但听起来它玩得很开心，你是这"
+"么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2261
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_LOW_RED\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才发觉自己根本不知道接下来会发生什么。可你的不安很快就消"
+"散了，因为……一大群骰子从虚空中折返回来？你听见启蒙者数着：“三……七……十四……三十"
+"八……三十九，蓝色……嗯……还有……四十，红色。可恶……你赢得光明正大。”他们把你赢的东"
+"西送了过来，那个声音对你说道：“这游戏……很怪异，但我……还算熟悉。骰子真正的点数"
+"相乘，本身……根本无关紧要。”它没有再多解释，但听上去它玩得很尽兴，你是这么觉得"
+"的。"
 
 #: src-en/data/events_enlightened.xml:2271
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_LOW_BLUE\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就平息了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，蓝色……嗯……还有……四十，红色。哈，我赢了！深渊潜者，赞美我！”该"
+"死。嘿，至少你押得不多。那个声音对你说道：“这游戏……很奇怪，但我……还算熟悉。骰"
+"子真正的点数相乘，本身……微不足道。”它没有细说，但听起来它玩得很开心，你是这么"
+"觉得的。"
 
 #: src-en/data/events_enlightened.xml:2275
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_LOW_BLUE\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才发现自己根本不知道接下来会发生什么。但你的恐惧很快就消"
+"散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……三十"
+"八……三十九，红色……嗯……还有……四十，蓝色。可恶……你赢得光明正大。”他们把你的 "
+"winnings 送了过来，那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正"
+"的点数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉"
+"得的。"
 
 #: src-en/data/events_enlightened.xml:2285
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_MID_RED\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，红色……嗯……还有……四十，蓝色。哈，我赢了！深渊潜者，赞美我！”该"
+"死。嘿，至少你没有押太多。那个声音对你说道：“这游戏……很奇怪，但我……还算熟悉。"
+"骰子真正的点数相乘，本身……微不足道。”它没有细说，但听起来它玩得很开心，你是这"
+"么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2289
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_MID_RED\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，蓝色……嗯……还有……四十，红色。可恶……你赢得光明正大。”他们把你的"
+" winnings 送了过来，那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正"
+"的点数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉"
+"得的。"
 
 #: src-en/data/events_enlightened.xml:2299
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_MID_BLUE\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗之中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很"
+"快便消散了，因为……一大群骰子从虚空中折返回来？你听见启蒙者数着：“三……七……十四"
+"……三十八……三十九，蓝色……嗯……还有……四十，红色。哈，我赢了！深渊潜者，赞美我！”"
+"该死。嘿，至少你没有押上太多赌注。那个声音对你说道：“这游戏……很怪异，但我……还"
+"算熟悉。骰子真正的点数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很"
+"尽兴，你是这么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2303
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_MID_BLUE\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，红色……嗯……还有……四十，蓝色。可恶……你赢得光明正大。”他们把你的"
+"战利品送了过来，那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正的点"
+"数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉得的"
+"。"
 
 #: src-en/data/events_enlightened.xml:2313
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_HIGH_RED\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，红色……嗯……还有……四十，蓝色。哈，我赢了！深渊潜者，赞美我！”该"
+"死。嘿，严格来说你本可以押得更高。那个声音对你说：“这游戏……很奇怪，但我……还算"
+"熟悉。骰子真正的点数相乘，本身……微不足道。”它没有细说，但听上去它玩得很开心，"
+"你是这么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2317
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_HIGH_RED\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，蓝色……嗯……还有……四十，红色。可恶……你赢得光明正大。”他们把你的"
+"战利品送了过来，那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正的点"
+"数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉得的"
+"。"
 
 #: src-en/data/events_enlightened.xml:2327
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_HIGH_BLUE\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，蓝色……嗯……还有……四十，红色。哈，我赢了！深渊潜者，赞美我！”该"
+"死。嘿，说真的你本可以押得更高。那个声音对你说：“这游戏……很奇怪，但我……还算熟"
+"悉。骰子真正的点数相乘，本身……微不足道。”它没有细说，但听上去它玩得很开心，你"
+"是这么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2331
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_HIGH_BLUE\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者数着：“三……七……十四……"
+"三十八……三十九，红色……嗯……还有……四十，蓝色。可恶……你赢得光明正大。”他们把你的"
+"战利品送了过来，那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正的点"
+"数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉得的"
+"。"
 
 #: src-en/data/events_enlightened.xml:2341
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者激动地数着：“三……七……"
+"十四……呃，三十八……三十九，红色……深渊潜者，与我同在……三十七……四十！四十个蓝色"
+"！我……赢了，我真的赢了！深渊潜者，赞美我！”呃，该死。这没什么好掩饰的……你刚刚"
+"输掉了三十单位燃料。那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正"
+"的点数相乘，本身……根本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉"
+"得的。"
 
 #: src-en/data/events_enlightened.xml:2345
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者激动又慌乱地数着：“三"
+"……七……十四……呃，三十八……三十九，蓝色……深渊潜者，与我同在……三十七……不！不，不"
+"，深渊潜者，该死，为什么？！四十……红色……你赢了。这……是我全部的货物……我……肯定"
+"会被放逐的……”他们看起来彻底崩溃了。"
 
 #: src-en/data/events_enlightened.xml:2347
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "哇哦！大赢家，就是我！"
 
 #: src-en/data/events_enlightened.xml:2349
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/choice[1]/event/text"
 msgstr ""
+"启蒙者一边抽泣着一边把你赢来的东西送了过来。你之前也从不知道他们居然会哭。那"
+"个声音对你说道：“这游戏……很奇怪，但我……还算熟悉。骰子真正的点数相乘，本身……根"
+"本无关紧要。”它没有细说，但听上去它玩得很开心，你是这么觉得的。"
 
 #: src-en/data/events_enlightened.xml:2357
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "取消赌注。"
 
 #: src-en/data/events_enlightened.xml:2359
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/choice[2]/event/text"
 msgstr ""
+"启蒙者从地板上抽泣着抬起头，与你对视。“真……真的吗？”你点了点头，他们试图让自"
+"己镇定一些。但并没有多大效果，不过你还是很感激他们的努力。“我……我真不知该如何"
+"感谢你，外来者……如果我能报答你，我一定会……”他们顿了顿，脸上露出恍然大悟的神情"
+"。“等……等等！稍等一下！我有样东西……专门给你的！”随后他们中断了通讯，只剩下你"
+"在等待这份惊喜。"
 
 #: src-en/data/events_enlightened.xml:2361
 msgid ""
@@ -3367,36 +3718,63 @@ msgstr "等等。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_RED\"]/event[2]/choice[2]/event/choice/event/text"
 msgstr ""
+"幸好你不用等太久。片刻之后启蒙者再次联络，双臂捧着满是黄色的光团：这些光……是"
+"我们族群的根基，是深渊潜者赐予的礼物。我认为……没有比将我自身的光赠予你更高的"
+"荣耀了。这至少是我能做的；对你无边的仁慈，我怀有……无尽的感激。说完，他们把光"
+"团送了过来。你只是出于好意，可这人几乎要把你捧得比他们的神祇还高……那个声音对"
+"你说道：一场奇怪的游戏……结局更加离奇。你也……得到了我的谢意。对我的族人而言……"
+"生存本就艰难。而你明白……他们比你更需要这些燃料。所以，再次……谢谢你。你下注的"
+"筹码被归还，同时还收到了一整船的启蒙者之光，可以用来布置！"
 
 #: src-en/data/events_enlightened.xml:2378
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[1]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者激动地数着：“三……七……"
+"十四……呃，三十八……三十九，蓝色……深渊潜者，与我同在……三十七……四十！四十个红色"
+"！我……赢了，我真的赢了！深渊潜者，赞美我！”呃，该死。这没什么好掩饰的……你刚刚"
+"输掉了三十单位燃料。那个声音对你说：“这游戏……很奇怪，但我……还算熟悉。骰子真正"
+"的点数相乘，本身……微不足道。”它没有细说，但听上去它玩得很开心，你是这么觉得的"
+"。"
 
 #: src-en/data/events_enlightened.xml:2382
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/text"
 msgstr ""
+"骰子消失在黑暗中，你才意识到自己根本不确定接下来会发生什么。然而你的恐惧很快"
+"就消散了，因为……一大群骰子从虚空中飞了回来？你听见启蒙者激动又慌乱地数着：“三"
+"……七……十四……呃，三十八……三十九，红色……深渊潜者，与我同在……三十七……不！不，不"
+"，深渊潜者，该死，为什么？！四十……蓝色……你赢了。这……是我全部的货物……我……肯定"
+"会被放逐的……”他们看起来彻底崩溃了。"
 
 #: src-en/data/events_enlightened.xml:2384
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/choice[1]/text"
-msgstr ""
+msgstr "哇哦！大赢家，就是我！"
 
 #: src-en/data/events_enlightened.xml:2386
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/choice[1]/event/text"
 msgstr ""
+"启蒙者一边抽泣着，一边把你赢来的赌注送了过来。你之前也从不知道他们竟然会流泪"
+"。那个声音对你说道：“这……是场奇怪的游戏，可我……还算熟悉。骰子本身的点数相乘……"
+"其实根本无关紧要。”它没有再多解释，但听上去它玩得很开心。你心里这么想着。"
 
 #: src-en/data/events_enlightened.xml:2394
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/choice[2]/text"
-msgstr ""
+msgstr "取消赌注。"
 
 #: src-en/data/events_enlightened.xml:2396
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/choice[2]/event/text"
 msgstr ""
+"启蒙者从地板上抽泣着抬起头，与你对视。“真……真的吗？”你点了点头，他们试图让自"
+"己稍微镇定一点。虽然并没什么效果，但你还是很感激他们的努力。“我……我真的不知该"
+"如何感谢你，外来者……如果我能报答你，我一定会……”他们顿了顿，脸上露出恍然大悟的"
+"神情。“等……等等！稍等一下！我有样东西……专门给你的！”说完他们便中断了通讯，只"
+"留下你等待这份惊喜。"
 
 #: src-en/data/events_enlightened.xml:2398
 msgid ""
@@ -3407,11 +3785,19 @@ msgstr "等等。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_FUELDUEL_RIDIC_BLUE\"]/event[2]/choice[2]/event/choice/event/text"
 msgstr ""
+"幸好你没等多久。片刻之后，启蒙者再次发来通讯，双臂捧着满捧的黄色光团：“这些光"
+"……是我们族群的根基，是深渊潜者赐予的礼物。我想……没有比将我自身的光赠予你更高"
+"的荣耀了。这至少是我能做的；对你无边的仁慈，我怀有……无尽的感激。”说完，他们把"
+"光送了过来。你只是出于好意而已，可这家伙几乎要把你捧得比他们信奉的神祇还高……"
+"那个声音对你说道：“一场奇怪的游戏……结局更加离奇。你也……得到了我的谢意。对我的"
+"族人而言……生存本就艰难。而你明白……他们比你更需要这些燃料。所以，再次……谢谢你"
+"。”你下注的筹码被归还，同时还收到了一整船的启蒙者之光，可以用来布置！"
 
 #: src-en/data/events_enlightened.xml:2414
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/text"
-msgstr ""
+msgstr "当你抵达信标处时，本以为会听到那个声音呼唤你，却什么也没听见。这里一定空无一"
+"物……只有你，和这片虚空。"
 
 #: src-en/data/events_enlightened.xml:2417
 msgid ""
@@ -3421,157 +3807,175 @@ msgstr "星舰管理。"
 #: src-en/data/events_enlightened.xml:2419
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你正准备做某件事，这时收到了来自虚空的通讯……你要接听吗？"
 
 #: src-en/data/events_enlightened.xml:2421
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "怪瘆人的。不过当然接！"
 
 #: src-en/data/events_enlightened.xml:2423
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"你接通了通讯，眼前出现的是一名启蒙者教徒：“外来者，有兴趣……赌一把吗？”你还没"
+"来得及回答，那个声音便对你说道：“这艘……是启蒙者的燃料运输船。我之前……没把它当"
+"成威胁，也没料到……他们会来打扰你。”黑暗被拨开，你亲眼看到了这艘飞船。现在，说"
+"说看，这场赌局到底是怎么回事？"
 
 #: src-en/data/events_enlightened.xml:2425
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我们到底赌什么？"
 
 #: src-en/data/events_enlightened.xml:2427
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"如果启蒙者有眼睛的话，此刻肯定会翻个白眼。“燃料，这难道还不明显吗。我们……各自"
+"下注，然后把骰子抛进深渊潜者的怀抱里。等骰子回来时，谁的点数更大……谁就赢。”"
 
 #: src-en/data/events_enlightened.xml:2429
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "好啊，我奉陪到底。"
 
 #: src-en/data/events_enlightened.xml:2431
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"那就……下注吧。我会跟你押一样的筹码，除非……你的燃料比一艘专门用来运输燃料的"
+"飞船还要多？\""
 
 #: src-en/data/events_enlightened.xml:2433
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "小注。[-3{]"
 
 #: src-en/data/events_enlightened.xml:2435
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你把燃料送过去，启蒙者通过气闸将骰子抛向虚空。它让你选一个，一个红色，一个蓝"
+"色。"
 
 #: src-en/data/events_enlightened.xml:2440
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2444
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2450
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "中等下注。[-6{]"
 
 #: src-en/data/events_enlightened.xml:2452
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你把燃料送了过去，启蒙者通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一"
+"个是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2457
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2461
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2467
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "大注。[-9{]"
 
 #: src-en/data/events_enlightened.xml:2469
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你把燃料送了过去，启蒙者通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一"
+"个是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2474
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2478
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2484
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "押得高得离谱。[-30{]"
 
 #: src-en/data/events_enlightened.xml:2486
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"你把燃料送过去，注意到启蒙者紧张得满头大汗……你之前根本不知道他们居然会出汗。"
+"不管怎样，他们通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一个是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2491
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2495
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2501
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "转念一想，我其实不想下注了。"
 
 #: src-en/data/events_enlightened.xml:2503
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "“我本来还在想……事情总算要变得有趣起来了。”他们切断了通讯，只留下你独自回味这"
+"句话。你很无趣吗？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:2509
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不了，我没事。"
 
 #: src-en/data/events_enlightened.xml:2511
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“我本来还在想……事情总算要变得有趣起来了。”他们切断了通讯，只留下你独自回味这"
+"番话。你很无趣吗？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:2515
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "不如我直接把你炸飞怎么样？"
 
 #: src-en/data/events_enlightened.xml:2517
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"“等等，什么？这还有什么好……”你切断通讯，朝燃料运输船开火。即便在太空真空里，"
+"燃料仍从船内汲取氧气并短暂燃烧……飞船被彻底摧毁，吞没在炽烈的爆炸中。恐怕连残"
+"骸都不剩了……真是可惜。死寂也认同这一点。"
 
 #: src-en/data/events_enlightened.xml:2526
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "诡异。算了！"
 
 #: src-en/data/events_enlightened.xml:2528
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "拒绝呼叫之后，一切归于寂静。你试图安慰自己，你更喜欢这种彻底、无处可逃、震耳"
+"欲聋的沉默，想让自己好受一点。但不知为何，这并没有用。"
 
 #: src-en/data/events_enlightened.xml:2530
 msgid ""
@@ -3591,157 +3995,175 @@ msgstr "跳过。"
 #: src-en/data/events_enlightened.xml:2544
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你正准备什么都不做，这时收到了来自虚空的通讯呼叫。你要接听吗？"
 
 #: src-en/data/events_enlightened.xml:2546
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "诡异。好啊！"
 
 #: src-en/data/events_enlightened.xml:2548
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"你接通了通讯，迎面出现的是一名启蒙者教徒：“外来者，愿意……赌一把吗？”你还没来"
+"得及回答，那个声音便响起：“这艘……是启蒙者的燃料运输船。我……没把它视作威胁，也"
+"没料到……他们会来打扰你。”黑暗被拨开，你亲眼看见了那艘船。现在，说说赌局的事吧"
+"？"
 
 #: src-en/data/events_enlightened.xml:2550
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我们到底要赌什么？"
 
 #: src-en/data/events_enlightened.xml:2552
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/text"
 msgstr ""
+"如果启蒙者有眼睛的话，此刻一定会翻个白眼。“燃料，这难道……还不明显吗。我们……各"
+"自下注，然后把骰子……抛进黑暗之神的怀抱。谁的骰子……回来时点数最大，谁就赢。”"
 
 #: src-en/data/events_enlightened.xml:2554
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "好啊，我奉陪到底。"
 
 #: src-en/data/events_enlightened.xml:2556
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "\"那就下注吧。我会跟注，除非你的燃料比一艘专门用来运输燃料的飞船还要多？\""
 
 #: src-en/data/events_enlightened.xml:2558
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "小注。[-3{]"
 
 #: src-en/data/events_enlightened.xml:2560
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你把燃料送过去，启蒙者通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一个"
+"是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2565
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2569
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2575
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "中等下注。[-6{]"
 
 #: src-en/data/events_enlightened.xml:2577
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你把燃料送了过去，启蒙者通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一"
+"个是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2582
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2586
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2592
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "重注。[-9{]"
 
 #: src-en/data/events_enlightened.xml:2594
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "你把燃料送过去，启蒙者通过气闸将骰子掷向虚空。它让你选一个，一个是红色，一个"
+"是蓝色。"
 
 #: src-en/data/events_enlightened.xml:2599
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2603
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2609
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "押得高得离谱。[-30{]"
 
 #: src-en/data/events_enlightened.xml:2611
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"你把燃料送了过去，然后注意到那个启蒙者紧张得满头大汗……你之前根本不知道他们居"
+"然会出汗。不管怎样，他们通过气闸把骰子掷向了虚空。它让你选一个，一个红色，一"
+"个蓝色。"
 
 #: src-en/data/events_enlightened.xml:2616
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/choice[1]/text"
-msgstr ""
+msgstr "红色。"
 
 #: src-en/data/events_enlightened.xml:2620
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/choice[2]/text"
-msgstr ""
+msgstr "蓝色。"
 
 #: src-en/data/events_enlightened.xml:2626
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[5]/text"
-msgstr ""
+msgstr "转念一想，我其实并不想下注。"
 
 #: src-en/data/events_enlightened.xml:2628
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[5]/event/text"
-msgstr ""
+msgstr "“我本来还以为……事情要变得有趣了。”他们切断了通讯，只留下你独自回味这句话。你"
+"很无趣吗？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:2634
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "不了，我没事。"
 
 #: src-en/data/events_enlightened.xml:2636
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“我本来还以为……事情要变得有趣了。”他们切断了通讯，只留下你独自回味这番话。你"
+"很无趣吗？那个声音没有给出任何答案。"
 
 #: src-en/data/events_enlightened.xml:2640
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "不如我直接把你炸飞怎么样？"
 
 #: src-en/data/events_enlightened.xml:2642
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"“等等，什么？这有什么好……”你直接切断通讯，朝这艘燃料运输舰开火。即便在太空真"
+"空里，燃料还是从舰体内部抽出氧气，瞬间燃起大火……整艘船被猛烈的爆炸彻底摧毁、"
+"吞噬。恐怕连一点残骸都剩不下……真是可惜。死寂的太空也认同这一点。"
 
 #: src-en/data/events_enlightened.xml:2651
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "怪瘆人的。算了！"
 
 #: src-en/data/events_enlightened.xml:2653
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_FUELDUEL\"]/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "拒绝喊话之后，一切归于寂静。你试图安慰自己，你偏爱这种彻底的、无处可逃的、震"
+"耳欲聋的沉默，想让自己好受一点。但不知为何，这并没有用。"
 
 #: src-en/data/events_enlightened.xml:2655
 msgid ""
@@ -3776,72 +4198,84 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2688
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION_SHIP_WIN\"]/text"
-msgstr ""
+msgstr "等你完成打捞回收后，那个声音对你说道：“谐离-17……这个名字寓意很多，却又……什么"
+"都没说。”它没有再详细解释，只留下你独自琢磨这些含义。"
 
 #: src-en/data/events_enlightened.xml:2690
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION_SHIP_WIN\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/text"
-msgstr ""
+msgstr "（谐离船员）他们之前一定是来这里寻找谐离成员的。"
 
 #: src-en/data/events_enlightened.xml:2692
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION_SHIP_WIN\"]/choice[@req=\"LIST_CREW_DISPARITY\"]/event/text"
-msgstr ""
+msgstr "没错。虽然他们误入歧途，但这里确实是黑暗之神的领地。这算不上是宇宙中最糟糕的"
+"搜寻地点……可你还是会好奇，他们来到这里究竟想要达成什么目的。"
 
 #: src-en/data/events_enlightened.xml:2696
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION_SHIP_WIN\"]/choice[2]/text"
-msgstr ""
+msgstr "你不确定……"
 
 #: src-en/data/events_enlightened.xml:2698
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION_SHIP_WIN\"]/choice[2]/event/text"
-msgstr ""
+msgstr "唉，看来这个谜团只能留到以后再解开了。"
 
 #: src-en/data/events_enlightened.xml:2704
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/text"
-msgstr ""
+msgstr "这一次，那个声音向你提出了一个问题：“这些奇怪的……金属人。你……对他们了解多少？"
+"”"
 
 #: src-en/data/events_enlightened.xml:2707
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/text"
-msgstr ""
+msgstr "看情况。你说的是哪种金属人？"
 
 #: src-en/data/events_enlightened.xml:2709
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/text"
 msgstr ""
+"“你的族人……称他们为半械族。而我的族人……可以说相当封闭。我们只通过新来的同族或"
+"是贡品，才听闻外界和他们的行事方式。尤其是这些……半械族……我们对他们十分陌生。"
+"但不管怎样，我相信他们其中一艘……飞船就在这个信标处。”就连这个神秘的声音，也遇"
+"上谜团了？"
 
 #: src-en/data/events_enlightened.xml:2711
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "听起来挺有意思的，让我看看他们。"
 
 #: src-en/data/events_enlightened.xml:2713
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"黑暗退去，你眼前出现了一艘半械族飞船——而且还不是普通型号，是一艘精英舰。他们"
+"向你发出通讯：“身份：联邦。当前区域遭遇联邦的概率：趋近于零……表明存在外部动机"
+"。请求说明联邦动机。”他们想知道你为什么会在这里……他们到底在怀疑什么？"
 
 #: src-en/data/events_enlightened.xml:2716
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "说来话长。简单来说，我被深渊潜者的黑暗之神选为贡品了。现在只想设法逃出这片星"
+"域。"
 
 #: src-en/data/events_enlightened.xml:2718
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "它短暂处理了一下信息：“联邦目标：逃离。半械族目标：与联邦目标对立。提议妥协："
+"半械族协助联邦，联邦协助半械族。”"
 
 #: src-en/data/events_enlightened.xml:2720
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你想要我做什么？"
 
 #: src-en/data/events_enlightened.xml:2722
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“要求：不得向任何人透露你遭遇了半械族。”这听起来更像是命令，而非请求……"
 
 #: src-en/data/events_enlightened.xml:2724
 msgid ""
@@ -3851,7 +4285,8 @@ msgstr "当然。"
 #: src-en/data/events_enlightened.xml:2726
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "它的躯体微微一动：“要求：达成。半械族指令：信任联邦并提供协助。所需协助：未知"
+"。更新要求：告知所需协助。”"
 
 #: src-en/data/events_enlightened.xml:2728
 msgid ""
@@ -3862,6 +4297,8 @@ msgstr "请求维修。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"他们派出几架无人机过来修复你的船体。完工后，他们重新接通通讯：“要求：完成。无"
+"继续通讯理由。”说完，他们便重新潜入虚空，只留下你和一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2735
 msgid ""
@@ -3872,56 +4309,69 @@ msgstr "请求燃料。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"他们送过来几个燃料舱。之后，他们再次接通通讯：“请求：已完成。没有继续通讯的必"
+"要了。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2742
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "需要弹药。"
 
 #: src-en/data/events_enlightened.xml:2744
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"他们送过来几枚弹药。你不清楚半械族为什么会有弹药，但在那之后，他们重新接通通"
+"讯：“请求：已完成。没有继续通讯的必要了。”说完，他们便重新潜入虚空，只留下你"
+"和一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2749
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "请求无人机部件。"
 
 #: src-en/data/events_enlightened.xml:2751
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"他们送过来不少无人机部件，看来他们储备得很充足。之后，他们重新接通通讯：“请求"
+"：已完成。没有继续通讯的必要了。”说完，他们便重新潜入虚空，而你心中的疑惑和一"
+"开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2756
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "（谐合船员）请求谐合势力直接支援。"
 
 #: src-en/data/events_enlightened.xml:2758
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"他们看了一眼你的半械族，“检测到谐合单元。请求谐合支援：判定合格。派遣额外半械"
+"族。”话音刚落，一艘半械族防卫舰被派了过来，随后那艘飞船便潜入虚空，只留下你和"
+"一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2765
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我不能保证。"
 
 #: src-en/data/events_enlightened.xml:2767
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "半械族的躯体瞬间僵硬：“若未能满足要求，将招致报复。重申要求：不得向任何人透露"
+"你遭遇了半械族。”"
 
 #: src-en/data/events_enlightened.xml:2769
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "好的，我不会告诉任何人。"
 
 #: src-en/data/events_enlightened.xml:2771
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "它的身体放松下来，“请求：已完成。半械族指令：信任联邦并提供协助。所需协助：未"
+"知。更新请求：告知你需要何种协助。”"
 
 #: src-en/data/events_enlightened.xml:2773
 msgid ""
@@ -3932,6 +4382,8 @@ msgstr "请求维修。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"他们派来几架无人机修复你的船体。之后，他们重新接通通讯：“请求：已完成。没有继"
+"续通讯的理由。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2780
 msgid ""
@@ -3942,46 +4394,58 @@ msgstr "请求燃料。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"他们送过来几个燃料舱。之后，他们重新接通通讯：“请求：已完成。没有继续通讯的理"
+"由。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2787
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "请求弹药。"
 
 #: src-en/data/events_enlightened.xml:2789
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"他们送过来几枚弹药。你不清楚半械族为什么会有弹药，但在那之后，他们重新接通通"
+"讯：“请求：已完成。没有继续通讯的理由。”说完，他们便重新潜入虚空，而你心中的"
+"疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2794
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "请求无人机部件。"
 
 #: src-en/data/events_enlightened.xml:2796
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"他们送过来不少无人机部件，看来他们的储备十分充足。之后，他们重新接通通讯：“请"
+"求：已完成。没有继续通讯的理由。”说完，他们便重新潜入虚空，而你心中的疑惑和一"
+"开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2801
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "（谐合船员）请求谐合势力直接支援。"
 
 #: src-en/data/events_enlightened.xml:2803
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"他们瞥了一眼你的半械族，“检测到谐合单元。谐合支援请求：判定合格。正在派遣额外"
+"半械族。”话音刚落，一架半械族防卫机被派了过来，随后那艘飞船便重新潜入虚空，只"
+"留下你和一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2810
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "抱歉，我不能。"
 
 #: src-en/data/events_enlightened.xml:2812
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "谐合势力渗透谐离17区的事绝不能泄露。解决方案：摧毁联邦舰船。他们切断通讯，武"
+"器开始充能上线！"
 
 #: src-en/data/events_enlightened.xml:2815
 msgid ""
@@ -3991,12 +4455,14 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2823
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "我看我还是直接把你炸掉算了。"
 
 #: src-en/data/events_enlightened.xml:2825
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"“检测到敌意。启动自卫协议。”半械族转身离开，但通讯暂时还保持着畅通，“请求增援"
+"。位置：谐离17区，子区域198-B。任务关键——”通讯最终中断，你准备开始进攻。"
 
 #: src-en/data/events_enlightened.xml:2828
 msgid ""
@@ -4006,32 +4472,35 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2838
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "我没必要向你解释。"
 
 #: src-en/data/events_enlightened.xml:2840
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "“不满足要求将会遭到报复。重申要求：说明联邦的动机。”"
 
 #: src-en/data/events_enlightened.xml:2842
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "好吧，说来话长。简单来说，我被深渊潜者的“黑暗之神”选中作为祭品。我现在只想逃"
+"出这片星域。"
 
 #: src-en/data/events_enlightened.xml:2844
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "它短暂处理了一下信息：“联邦目标：逃离。半械族目标：与联邦目标对立。提议妥协："
+"半械族协助联邦，联邦协助半械族。”"
 
 #: src-en/data/events_enlightened.xml:2846
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你想要我做什么？"
 
 #: src-en/data/events_enlightened.xml:2848
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "“要求：不得向任何人透露你遇到过半械族。”这听起来根本不是请求，更像是一道命令…"
+"…"
 
 #: src-en/data/events_enlightened.xml:2850
 msgid ""
@@ -4041,7 +4510,8 @@ msgstr "当然。"
 #: src-en/data/events_enlightened.xml:2852
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "它的身体微微一动，“请求：已完成。半械族指令：信任联邦并提供协助。所需协助：未"
+"知。更新请求：告知你需要何种协助。”"
 
 #: src-en/data/events_enlightened.xml:2854
 msgid ""
@@ -4052,6 +4522,8 @@ msgstr "请求维修。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"他们派来几架无人机修复你的船体。之后他们重新接通通讯：“请求已完成。没有继续通"
+"讯的理由。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样。"
 
 #: src-en/data/events_enlightened.xml:2861
 msgid ""
@@ -4061,57 +4533,67 @@ msgstr "请求燃料。"
 #: src-en/data/events_enlightened.xml:2863
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "他们送过来几个燃料节点。之后他们重新接通通讯：“请求已完成。没有继续通讯的理由"
+"。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样。"
 
 #: src-en/data/events_enlightened.xml:2868
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "需要弹药。"
 
 #: src-en/data/events_enlightened.xml:2870
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"他们送过来几枚弹药。你不清楚半械族为什么会有弹药，但在那之后，他们重新接通通"
+"讯：“请求：已完成。没有继续通讯的理由。”说完，他们便重新潜入虚空，而你心中的"
+"疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2875
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "请求无人机部件。"
 
 #: src-en/data/events_enlightened.xml:2877
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[4]/event/text"
-msgstr ""
+msgstr "他们送过来大量无人机部件，显然库存过剩。之后他们重新接通通讯：“请求：已完成。"
+"没有继续通讯的理由。”说完，便重新潜入虚空，你依旧满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2882
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "（谐合船员）请求谐合直接支援。"
 
 #: src-en/data/events_enlightened.xml:2884
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"他们瞥了一眼你的半械族，“检测到谐合单元。谐合支援请求：判定合格。正在派遣额外"
+"半械族。”话音刚落，一架半械族防卫机被派了过来，随后那艘飞船便重新潜入虚空，只"
+"留下你和一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2891
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我不能保证。"
 
 #: src-en/data/events_enlightened.xml:2893
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "半械族的身体瞬间僵硬：“不满足该要求将招致报复。重申要求：不得向任何人透露你遇"
+"到过半械族。”"
 
 #: src-en/data/events_enlightened.xml:2895
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "好，我不会告诉任何人。"
 
 #: src-en/data/events_enlightened.xml:2897
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
-msgstr ""
+msgstr "它的身体放松下来：“请求：已完成。半械族指令：信任联邦并提供协助。所需协助：未"
+"知。更新请求：告知你需要何种协助。”"
 
 #: src-en/data/events_enlightened.xml:2899
 msgid ""
@@ -4122,6 +4604,8 @@ msgstr "请求维修。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[1]/event/text"
 msgstr ""
+"他们派来几架无人机修复你的船体。之后他们重新接通通讯：“请求：已完成。没有继续"
+"通讯的理由。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2906
 msgid ""
@@ -4132,46 +4616,58 @@ msgstr "请求燃料。"
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"他们送过来几个燃料节点。之后他们重新接通通讯：“请求：已完成。没有继续通讯的理"
+"由。”说完，他们便重新潜入虚空，而你心中的疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2913
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "请求弹药。"
 
 #: src-en/data/events_enlightened.xml:2915
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"他们送过来几枚弹药。你不清楚半械族为什么会有弹药，但在那之后，他们重新接通通"
+"讯：“请求：已完成。没有继续通讯的理由。”说完，他们便重新潜入虚空，而你心中的"
+"疑惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2920
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[4]/text"
-msgstr ""
+msgstr "请求无人机部件。"
 
 #: src-en/data/events_enlightened.xml:2922
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[4]/event/text"
 msgstr ""
+"他们送来了大量无人机部件，看来他们的库存十分充足。在那之后，他们重新接通通讯"
+"：“请求：已完成。没有继续通讯的理由。”说完，他们便重新潜入虚空，而你心中的疑"
+"惑和一开始时一模一样……"
 
 #: src-en/data/events_enlightened.xml:2927
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/text"
-msgstr ""
+msgstr "（谐合船员）请求谐合直接支援。"
 
 #: src-en/data/events_enlightened.xml:2929
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/choice[@req=\"LIST_CREW_HARMONY\"]/event/text"
 msgstr ""
+"他们瞥了一眼你的半械族：“检测到谐合单元。谐合支援请求：判定合格。正在派遣额外"
+"半械族。”话音刚落，一架半械族防卫机被派了过来，随后那艘飞船重新潜入虚空，只留"
+"下你和一开始一样满心疑惑……"
 
 #: src-en/data/events_enlightened.xml:2936
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "抱歉，我不能。"
 
 #: src-en/data/events_enlightened.xml:2938
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
-msgstr ""
+msgstr "谐合对谐离17号区域的渗透行动绝不能暴露。解决方案：摧毁联邦舰船。他们切断通讯"
+"，武器系统全部启动！"
 
 #: src-en/data/events_enlightened.xml:2941
 msgid ""
@@ -4181,12 +4677,14 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2949
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "我看我还是直接把你炸掉算了。"
 
 #: src-en/data/events_enlightened.xml:2951
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[1]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"检测到敌意。启动自卫协议。半械族转身离开，但通讯暂时还未中断：请求增援。位置"
+"：谐离17号区域，198-B子区域。任务为关键——通讯彻底切断，你准备开始进攻。"
 
 #: src-en/data/events_enlightened.xml:2954
 msgid ""
@@ -4196,12 +4694,14 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2964
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "我不会屈服于你的威胁。进攻！"
 
 #: src-en/data/events_enlightened.xml:2966
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[1]/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"“检测到敌意。启动自卫协议。”半械族转身离开，但通讯暂时未中断，“请求增援。位置"
+"：谐离17号区域，198-B子区域。任务至关——”通讯最终中断，你准备发起进攻。"
 
 #: src-en/data/events_enlightened.xml:2969
 msgid ""
@@ -4211,12 +4711,13 @@ msgstr "继续。"
 #: src-en/data/events_enlightened.xml:2979
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我不感兴趣。"
 
 #: src-en/data/events_enlightened.xml:2981
 msgid ""
 "data/events_enlightened.xml$//event[@name=\"ITEMS_ENLIGHTENED_ENGI_INVESTIGATION\"]/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "“我反倒觉得……这本身就很有意思。”那个声音沉寂下去。它总不可能在评判你现在什么"
+"都不做吧……毕竟，谁会不喜欢摸鱼呢？"
 
 #: src-en/data/events_enlightened.xml:2983
 msgid ""
@@ -4232,6 +4733,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[1]/text"
 msgstr ""
+"你尽全力扫描外面的一切，但扫描仪始终无法穿透这片黑暗。你束手无策，只能干等着"
+"，而某个……东西正在撞击你的船体。那是有节奏的撞击声：两下，停顿，一下，停顿，"
+"两下……如此循环。直到你离开信标区域，这声音也没有停止。"
 
 #: src-en/data/events_enlightened.xml:3000
 msgid ""
@@ -4247,6 +4751,9 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[2]/text"
 msgstr ""
+"你竭尽全力扫描外面的一切，但扫描仪始终无法穿透黑暗。你无能为力，只能干等着，"
+"而某个……东西正在撞击你的船体。那是有节奏的撞击声：两下，停顿，一下，停顿，两"
+"下……如此循环。直到你离开信标区域，这声音也没有停止。"
 
 #: src-en/data/events_enlightened.xml:3011
 msgid ""
@@ -4262,16 +4769,22 @@ msgstr "跳过。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[3]/text"
 msgstr ""
+"你成功穿透黑暗，弄清了真相；外面的那个东西是……深渊潜者？它正用拳头猛击船体，"
+"要么是徒劳地想闯进来，要么就是想吸引你的注意……而且效果相当显著。你该怎么做？"
 
 #: src-en/data/events_enlightened.xml:3022
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[3]/choice/text"
-msgstr ""
+msgstr "打开气闸。"
 
 #: src-en/data/events_enlightened.xml:3024
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[3]/choice/event/text"
 msgstr ""
+"你正要打开气闸，那个声音突然朝你尖叫起来：“以后……记住，你要放这种……虚假黑暗进"
+"来之前，先警告我！一旦它控制了你的飞船，我就救不了你了……你还算走运，我一直在"
+"留意。”你看着外面的虚空渐渐退去，终于可以打开气闸了……现在你只需要等待深渊潜者"
+"进入。"
 
 #: src-en/data/events_enlightened.xml:3026
 msgid ""
@@ -4282,6 +4795,8 @@ msgstr "等等。"
 msgid ""
 "data/events_enlightened.xml$//eventList[@name=\"ITEMS_ENLIGHTENED_EXILE_SCAN_LOW\"]/event[3]/choice/event/choice/event/text"
 msgstr ""
+"不出所料，没过多久，你就听见它在你关闭气闸后拼命喘息……它究竟屏息了多久？现在"
+"你可以好好看清它了，你意识到这并非普通的深渊潜者，而是一名启蒙者信徒。"
 
 #: src-en/data/events_enlightened.xml:3030
 msgid ""
