@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-05 10:44+0000\n"
+"PO-Revision-Date: 2026-03-06 13:44+0000\n"
 "Last-Translator: dajs <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datahyperspace-xml-append/zh_Hans/>\n"
@@ -57,48 +57,86 @@ msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[5]/tooltip"
 msgstr ""
+"梦魇裂隙：\n"
+"该敌人能够开启一道通往黑暗之神领域的裂隙。裂隙会定期释放混沌能量冲击，化为梦"
+"魇般的暗影；但一旦裂隙崩塌，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:30
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[6]/tooltip"
 msgstr ""
+"风暴之赐：\n"
+"该敌人受到风暴的赐福。他们被一股超凡的电能守护，获得一层薄弱的超级护盾，并为"
+"其无人机及效忠于风暴的船员提供增益。此类无人机与船员会为己方舰船系统提供1点能"
+"量，同时从你的舰船系统中汲取1点能量，并且获得以下属性强化：1.6倍移动/维修速度"
+"，1.3倍战斗/破坏伤害。此外，他们的部分船员可周期性召唤闪电，电离系统并召唤怪"
+"物突袭。"
 
 #: src-en/data/hyperspace.xml.append:35
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[7]/tooltip"
 msgstr ""
+"滔天黑暗：\n"
+"该敌人被滔天黑暗守护。这股压抑而诡异的力量会使登舰者的移动速度降低50%，破坏速"
+"度降低30%，同时他们还会陷入深渊溺亡的减益效果，移动速度进一步减缓，陷入沉默且"
+"无法恢复技能。此外，这股黑暗对敌方单位而言温暖而舒缓，会以每秒1.8点生命值的速"
+"度进行轻微持续治疗。"
 
 #: src-en/data/hyperspace.xml.append:40
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[8]/tooltip"
 msgstr ""
+"灵魂瘟疫毒气：\n"
+"这艘敌舰充斥着致命的异界毒气，会持续对我方船员造成每秒2.3点生命值的伤害，并使"
+"其感染灵魂瘟疫。任何感染灵魂瘟疫的友方船员被击杀后，无论死于何处，都会在我方"
+"舰船上复活为敌方的灵魂瘟疫空壳。通过灵魂瘟疫感染及其他特定方式生成的空壳，在"
+"刚复活时会短暂处于脆弱状态——4秒内受到所有来源的伤害翻倍，且战斗伤害、移动速度"
+"与破坏速度减半。\n"
+"无人机及效忠于灵魂瘟疫的船员对此免疫。"
 
 #: src-en/data/hyperspace.xml.append:46
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[9]/tooltip"
 msgstr ""
+"炽天使毒气：\n"
+"这艘敌舰充斥着致命的神圣毒气，会持续对我方船员造成每秒7.77点生命值的伤害，并"
+"使其附加神罚效果。此外，敌舰上的火焰会自动熄灭，且敌方船员在舰船上时可享受神"
+"罚带来的正面增益。\n"
+"无任何单位可免疫。"
 
 #: src-en/data/hyperspace.xml.append:52
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[10]/tooltip"
 msgstr ""
+"伊尔德里克之树：\n"
+"这艘敌舰及其怪异的住民会散发出不祥迷雾。若你的船员被困在弥漫迷雾的房间内，将"
+"会陷入失明状态，无法阻挡敌方的伊尔德里克雕像。"
 
 #: src-en/data/hyperspace.xml.append:57
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[11]/tooltip"
 msgstr ""
+"光耀生命体：\n"
+"这艘敌舰本身便是一具奇异的活物。它拥有与其他自动舰船相似的增益效果，还能修复"
+"船体破口，并且其所有房间都处于「光辉亵渎」效果影响之下。该效果会对你的船员造"
+"成每秒1点生命值伤害，使其战斗伤害、移动速度与破坏速度降低20%，并让敌方召唤出"
+"的诡异存在不受阻碍地存在。最后，登上该舰的你的船员会陷入自相残杀的威胁——每个"
+"船员都会对附近的友方单位造成每秒6点的被动伤害。"
 
 #: src-en/data/hyperspace.xml.append:62
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[1]/mod:findLike[1]/mod-"
 "append:shipIcon[12]/tooltip"
 msgstr ""
+"恐怖扰断器：\n"
+"该敌人会干扰你的防御无人机，使其无法开火。与普通的防御扰频器不同，它由诡异的"
+"异力驱动——无法以任何方式关闭。"
 
 #: src-en/data/hyperspace.xml.append:1832
 msgid ""
@@ -112,22 +150,22 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DISPARITY_ENGI_BEHEMOTH\"]/crew/unique_thehunger_enemy[@name=\"The"
 " Hunger\"]/@name"
-msgstr ""
+msgstr "饥饿"
 
 #: src-en/data/hyperspace.xml.append:2012
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:customShip[@name=\"DISPARITY_ENGI_BEHEMOTHDETERMINATION\"]/crew/unique_thehunger_enemy[@name=\"The"
 " Hunger\"]/@name"
-msgstr ""
+msgstr "饥饿"
 
 #: src-en/data/hyperspace.xml.append:2042
 msgid "data/hyperspace.xml.append$//human[@name=\"Kyr\"]/@name"
-msgstr ""
+msgstr "科尔"
 
 #: src-en/data/hyperspace.xml.append:2043
 msgid "data/hyperspace.xml.append$//deeponecultist[@name=\"Lilith\"]/@name"
-msgstr ""
+msgstr "莉莉丝"
 
 #: src-en/data/hyperspace.xml.append:2053
 msgid "data/hyperspace.xml.append$//enlightened_horror_enemy[@name=\"???\"]/@name"
@@ -137,7 +175,7 @@ msgstr "？？？"
 msgid ""
 "data/hyperspace.xml.append$//ddultimaarmor_enemy[@name=\"Ultima "
 "Armor\"]/@name"
-msgstr ""
+msgstr "终焉装甲"
 
 #: src-en/data/hyperspace.xml.append:2064
 msgid ""
@@ -274,51 +312,56 @@ msgstr "战痕累累"
 
 #: src-en/data/hyperspace.xml.append:5508
 msgid "data/hyperspace.xml.append$//unique_thehunger[@name=\"The Hunger\"]/@name"
-msgstr ""
+msgstr "饥饿"
 
 #: src-en/data/hyperspace.xml.append:5519
 msgid ""
 "data/hyperspace.xml.append$//ddunique_theminister[@name=\"The "
 "Minister\"]/@name"
-msgstr ""
+msgstr "长老"
 
 #: src-en/data/hyperspace.xml.append:5543
 msgid ""
 "data/hyperspace.xml.append$//ddunique_theaberration[@name=\"The "
 "Foolish\"]/@name"
-msgstr ""
+msgstr "愚者"
 
 #: src-en/data/hyperspace.xml.append:5607
 msgid ""
 "data/hyperspace.xml.append$//ddunique_theheroine[@name=\"The "
 "Heroine\"]/@name"
-msgstr ""
+msgstr "女杰"
 
 #: src-en/data/hyperspace.xml.append:5677
 msgid ""
 "data/hyperspace.xml.append$//ddunique_theoverseer[@name=\"The "
 "Overseer\"]/@name"
-msgstr ""
+msgstr "监管者"
 
 #: src-en/data/hyperspace.xml.append:5789
 msgid "data/hyperspace.xml.append$//enlightened_horror[@name=\"Lilith\"]/@name"
-msgstr ""
+msgstr "莉莉丝"
 
 #: src-en/data/hyperspace.xml.append:5930
 msgid "data/hyperspace.xml.append$//ddultimaarmor[@name=\"Ultima Armor\"]/@name"
-msgstr ""
+msgstr "终焉装甲"
 
 #: src-en/data/hyperspace.xml.append:7025
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "激怒"
 
 #: src-en/data/hyperspace.xml.append:7026
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deepone\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒  持续时间：30秒  生命值低于95时施放]\n"
+"陷入狂暴状态，自身速度降低，失去操控与维修能力，但获得以下增益：\n"
+"- 伤害提升至1.8倍\n"
+"- 伤害抗性提升至0.5倍\n"
+"- 每秒恢复2点生命值"
 
 #: src-en/data/hyperspace.xml.append:7118
 msgid ""
@@ -330,13 +373,16 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deeponecultist\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "赐福"
 
 #: src-en/data/hyperspace.xml.append:7138
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"deeponecultist\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒  持续时间：15秒]\n"
+"将启蒙者信徒的友方被动效果扩展至双方舰船，并可操控所有友方饥饿暗影。\n"
+"技能生效期间，启蒙者信徒无法进行操控与维修，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:7275
 msgid ""
@@ -354,349 +400,420 @@ msgstr "粉碎"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"spacetear\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "造成1点船体/系统伤害、15点船员伤害，并附带2秒眩晕效果，有40%概率引发火灾。"
 
 #: src-en/data/hyperspace.xml.append:7438
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "升华"
 
 #: src-en/data/hyperspace.xml.append:7439
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：120秒  持续时间：21秒]\n"
+"诱骗黑暗之神将其灵魂撕裂，使其化作时空裂隙疯狂肆虐，造成船体/系统伤害、电离伤"
+"害、眩晕、破口、全舰减益，并在消亡时引发爆炸。会对友方船员造成误伤，但不会伤"
+"及己方舰船。\n"
+"狂暴期间，其肉身无法移动且毫无防备。\n"
+"时空承受的过载会使传送能力在裂隙消失前无法使用。"
 
 #: src-en/data/hyperspace.xml.append:7447
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarred\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "无瑕者"
 
 #: src-en/data/hyperspace.xml.append:7555
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarredascended\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "苦修"
 
 #: src-en/data/hyperspace.xml.append:7556
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thescarredascended\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "悔 改"
 
 #: src-en/data/hyperspace.xml.append:7594
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"blobdeepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "激怒"
 
 #: src-en/data/hyperspace.xml.append:7595
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"blobdeepone\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒  持续时间：30秒  生命值低于70时施放]\n"
+"进入狂暴状态，移动速度降低，失去操控和维修能力，但获得以下加成：\n"
+"- 伤害变为1.8倍\n"
+"- 伤害抗性变为0.5倍\n"
+"- 每秒恢复2点生命值"
 
 #: src-en/data/hyperspace.xml.append:7648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "渐变切换"
 
 #: src-en/data/hyperspace.xml.append:7649
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒]\n"
+"节日快乐！\n"
+"（切换至治疗形态）\n"
+"看看咱们这支队伍……我们一定能大获全胜！"
 
 #: src-en/data/hyperspace.xml.append:7676
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays_healing\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "渐变切换"
 
 #: src-en/data/hyperspace.xml.append:7677
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"happyholidays_healing\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒]\n"
+"节日快乐！\n"
+"（切换至速度形态）\n"
+"看看咱们这支队伍……我们一定会做得超棒！"
 
 #: src-en/data/hyperspace.xml.append:7711
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_liberator\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "解放"
 
 #: src-en/data/hyperspace.xml.append:7712
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_liberator\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "自由虽难以寻觅，却依旧触手可及。紧握它，绝不放手。"
 
 #: src-en/data/hyperspace.xml.append:7754
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_arbiter\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "宣泄"
 
 #: src-en/data/hyperspace.xml.append:7755
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_arbiter\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "他们犯下罪孽，故必受焚身之苦。沐浴在他们的忏悔之中吧，看那冷酷无情之徒，如今"
+"跪地乞怜。"
 
 #: src-en/data/hyperspace.xml.append:7836
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_broodmother\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "蛰伏"
 
 #: src-en/data/hyperspace.xml.append:7837
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_broodmother\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "自动：生成一只噬渊暗影。"
 
 #: src-en/data/hyperspace.xml.append:7843
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_broodmother\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/hyperspace.xml.append:7878
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:7879
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒  持续时间：不定  下一形态：速度]\n"
+"受到8点伤害，并生成一个发射超频指令的信标，为两艘舰船上所有友方半械族单位额外"
+"增加50%（默认值）的治疗速度。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:7887
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefault\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "默认信标"
 
 #: src-en/data/hyperspace.xml.append:7995
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:7996
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒  持续时间：不定  下一形态：攻击]\n"
+"受到8点伤害，并生成一个发射超频指令的信标，为两艘舰船上所有友方半械族单位额外"
+"增加50%（默认值）的移动速度。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:8004
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engispeed\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "速度中继器"
 
 #: src-en/data/hyperspace.xml.append:8113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:8114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒  持续时间：不定  下一形态：防御]\n"
+"受到8点伤害，并生成一个发射超频指令的信标，为两艘舰船上所有友方半械族单位额外"
+"增加30%（默认值）的伤害与破坏速度。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:8122
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engiattack\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "攻击中继器"
 
 #: src-en/data/hyperspace.xml.append:8252
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:8253
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒  持续时间：不定  下一形态：危险]\n"
+"受到8点伤害，并生成一个发射超频指令的信标，为两艘舰船上所有友方半械族单位额外"
+"增加50%（默认值）的维修速度，并获得0.77倍的伤害抗性乘法加成。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:8261
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engidefense\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "防御中继器"
 
 #: src-en/data/hyperspace.xml.append:8393
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:8394
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒  持续时间：不定  下一形态：默认]\n"
+"受到8点伤害，并生成一个发射超频指令的中继器，为两艘舰船上所有友方半械族单位提"
+"供0.5倍的危险（火焰/窒息）抗性乘法加成，且每秒为其恢复1点生命值。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:8402
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"disparity_engihazard\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "危险中继器"
 
 #: src-en/data/hyperspace.xml.append:8561
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "净化"
 
 #: src-en/data/hyperspace.xml.append:8562
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：11秒]\n"
+"驾驭其光芒攻击敌方舰船，造成系统伤害，引发火灾，并为该房间叠加一层圣神裁决效"
+"果。"
 
 #: src-en/data/hyperspace.xml.append:8588
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "净化"
 
 #: src-en/data/hyperspace.xml.append:8589
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒]\n"
+"借助其光芒攻击敌方舰船，造成系统伤害，引发火灾，并为该房间叠加一层圣神裁决效"
+"果。"
 
 #: src-en/data/hyperspace.xml.append:8647
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "吞噬"
 
 #: src-en/data/hyperspace.xml.append:8648
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：15秒  持续时间：不定]\n"
+"该技能在有敌人的房间内会进行充能，且当饥饿者生命值低于200时，若房间内存在敌人"
+"则会自动释放。\n"
+"饥饿者会发动影晶封锁，并生成一座中继器，使其自身（及所有友方半械族）进入狂暴"
+"食人状态，吞噬所能找到的所有敌人，并以其作为养料修复自身损耗。狂暴状态下无法"
+"被操控或传送。"
 
 #: src-en/data/hyperspace.xml.append:8656
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "狂暴中继器"
 
 #: src-en/data/hyperspace.xml.append:8720
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "吞噬"
 
 #: src-en/data/hyperspace.xml.append:8721
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒  持续时间：不定]\n"
+"该技能在有敌人的房间内会进行充能，且当饥饿者生命值低于50时，若房间内存在敌人"
+"则会自动释放。\n"
+"饥饿者会发动影晶封锁，并生成一座中继器，使其自身（及所有友方半械族）进入狂暴"
+"食人状态，吞噬所能找到的所有敌人，并以其作为养料修复自身损耗。狂暴状态下无法"
+"被操控或传送。"
 
 #: src-en/data/hyperspace.xml.append:8729
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"unique_thehunger_enemy\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "狂暴中继器"
 
 #: src-en/data/hyperspace.xml.append:9217
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9218
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:9309
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "弹丸"
 
 #: src-en/data/hyperspace.xml.append:9310
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇般的暗影。"
 
 #: src-en/data/hyperspace.xml.append:9369
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9370
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:9462
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:9463
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:9522
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_a\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9523
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_a\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:9614
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_a\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:9615
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_a\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:9674
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9675
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:9681
 msgid ""
@@ -708,49 +825,59 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_b\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:9782
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_b\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:9841
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_c\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9842
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_c\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:9933
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_c\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:9934
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_c\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:9994
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:9995
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10001
 msgid ""
@@ -762,79 +889,94 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ad\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10102
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ad\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:10161
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ae\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10162
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ae\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10253
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ae\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10254
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ae\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:10313
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_af\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10314
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_af\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10405
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_af\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10406
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_af\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:10465
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ag\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10466
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ag\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10557
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ag\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10558
 msgid ""
@@ -846,13 +988,16 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10619
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10625
 msgid ""
@@ -870,25 +1015,30 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10741
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bd\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:10800
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10801
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10807
 msgid ""
@@ -900,25 +1050,30 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_be\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:10908
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_be\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:10967
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:10968
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:10974
 msgid ""
@@ -930,25 +1085,30 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11075
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bf\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:11134
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11135
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11141
 msgid ""
@@ -960,7 +1120,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11242
 msgid ""
@@ -972,13 +1132,16 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11303
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11309
 msgid ""
@@ -990,79 +1153,94 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cd\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11410
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cd\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:11469
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ce\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11470
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ce\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11561
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ce\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11562
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ce\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:11621
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11622
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cf\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11713
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cf\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11714
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cf\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:11773
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11774
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cg\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11865
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cg\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:11866
 msgid ""
@@ -1074,13 +1252,16 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:11927
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:11933
 msgid ""
@@ -1092,61 +1273,73 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_adj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12034
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_adj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:12093
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_aej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12094
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_aej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12185
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_aej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12186
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_aej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:12245
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_afj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12246
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_afj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12337
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_afj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12338
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_afj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:12397
 msgid ""
@@ -1159,12 +1352,15 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_agj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12489
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_agj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12490
 msgid ""
