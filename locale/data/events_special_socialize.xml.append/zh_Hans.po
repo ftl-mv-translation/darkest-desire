@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-06 13:44+0000\n"
-"Last-Translator: dajs <19732863360@163.com>\n"
+"PO-Revision-Date: 2026-03-08 03:23+0000\n"
+"Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_socializexmlappend/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -888,37 +888,46 @@ msgstr ""
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_MINISTER_NOTHING\"]/text"
 msgstr ""
-"长老正在摆弄他的装甲，见你走近便抬起空闲的那只手：“抱歉，变元者，我现在很忙。"
+"大臣正在摆弄他的装甲，见你走近便抬起空闲的那只手：“抱歉，变元者，我现在很忙。"
 "装甲核心又出故障了，我必须在它撕裂时空结构、把整艘飞船扯碎之前把它稳定住。”是"
 "啊，这……听起来确实很要紧。你还是晚点再来吧。"
 
 #: src-en/data/events_special_socialize.xml.append:461
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/text"
-msgstr ""
+msgstr "你正在寻找大臣时，舰船的能源短暂闪烁熄灭。片刻之后，灯光再次熄灭，你听到你要"
+"找的那个人怒吼道：“你现在为什么这么贪心？你到底还想要多少？”"
 
 #: src-en/data/events_special_socialize.xml.append:463
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[1]/text"
-msgstr ""
+msgstr "冲到他身边。"
 
 #: src-en/data/events_special_socialize.xml.append:465
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[1]/event/text"
 msgstr ""
+"你循着他的声音走去，当电力恢复时，他转过身面对你：“哦，变元者。抱歉，呃，舰船"
+"系统不太稳定。装甲饿了。”他没再多做解释，就回头继续之前的事，你注意到从他战甲"
+"延伸出的管线……正直接从舰船反应堆中汲取能量。"
 
 #: src-en/data/events_special_socialize.xml.append:467
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "这样安全吗？"
 
 #: src-en/data/events_special_socialize.xml.append:469
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"他再次转向你，毫不掩饰自己的不耐烦：“当然安全。不安全我会这么做吗？我说过了，"
+"装甲饿了，我想你也不会喜欢其他的解决办法。”他摆弄着其中一根管线，然后又回头瞪"
+"了你一眼，“没事的，变元者。我不会把飞船炸掉，也不会做出你担心的那些事。你现在"
+"可以走了；我必须在我们下一场冲突前把这事处理好。”撇开他那居高临下的态度不谈，"
+"在你离开房间、走向走廊时，你原本还相信他。可就在这时，能源忽明忽暗，那份信心"
+"也开始微微动摇。"
 
 #: src-en/data/events_special_socialize.xml.append:475
-#, fuzzy
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[2]/text"
 msgstr "不管他。"
@@ -927,131 +936,172 @@ msgstr "不管他。"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_1\"]/choice[2]/event/text"
 msgstr ""
+"他听起来过得很艰难，你也清楚他向来不喜欢被人打扰。你不再打扰他，转而在飞船的"
+"走廊里闲逛，心里相信他无论在做什么，应该都不会有事。灯光依旧忽明忽暗，闪烁不"
+"停，而那份信心也开始一点点减弱。"
 
 #: src-en/data/events_special_socialize.xml.append:482
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/text"
-msgstr ""
+msgstr "你在寻找大臣时，发现他正在休息室里喝咖啡。你不记得这艘船上有咖啡机……"
 
 #: src-en/data/events_special_socialize.xml.append:484
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/text"
-msgstr ""
+msgstr "你从哪儿弄来的这个？"
 
 #: src-en/data/events_special_socialize.xml.append:486
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/text"
 msgstr ""
+"他侧过头，又喝了一口咖啡，示意你看过去，你便走上前去……要是你嘴里正含着咖啡，"
+"看到房间里这一片狼藉，绝对会当场喷出来。柜台上摊着一台面目全非的诡异装置，散"
+"落的咖啡豆是它唯一还能看出用途的痕迹。装置周围的空间都被烧焦，机器残存的部分"
+"早已彻底扭曲、碎裂。"
 
 #: src-en/data/events_special_socialize.xml.append:488
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/text"
-msgstr ""
+msgstr "你……临时做了个爆炸装置，就为了煮咖啡？"
 
 #: src-en/data/events_special_socialize.xml.append:490
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "他放下杯子，得意一笑：“也可以这么说。天才吧？”"
 
 #: src-en/data/events_special_socialize.xml.append:492
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "可是，你从哪儿弄来的咖啡豆？"
 
 #: src-en/data/events_special_socialize.xml.append:494
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/event/choice/event/text"
 msgstr ""
+"他又把头歪向房间另一边，再次吸引了你的目光。你盯着那边那个怪物看了一会儿——一"
+"半是可怖的黏液生物，一半又像是咖啡植株，然后伸手拿起大臣的咖啡。他没有阻止，"
+"你重重地喝了一大口。"
 
 #: src-en/data/events_special_socialize.xml.append:496
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "把咖啡喷得到处都是。"
 
 #: src-en/data/events_special_socialize.xml.append:498
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_2\"]/choice/event/choice/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "你想不出更合适的回应。大臣看上去只觉得好笑，你放下他的杯子转身离开房间，两人"
+"都没再提起他在这里造出的这些恐怖东西。"
 
 #: src-en/data/events_special_socialize.xml.append:509
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/text"
 msgstr ""
+"虽然找到他并不难，但你还没说上几句话，大臣就把你赶出了他的房间，还给了你一张"
+"清单，让你去取他需要的东西……据说是为了他的实验，可这清单看起来更像是一份购物"
+"清单。他难道没有手下可以处理这些事吗？"
 
 #: src-en/data/events_special_socialize.xml.append:511
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/text"
-msgstr ""
+msgstr "看看清单。"
 
 #: src-en/data/events_special_socialize.xml.append:513
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/event/text"
 msgstr ""
+"一张横格纸上用墨水写着大臣的清单：\n"
+"\n"
+"鸡蛋\n"
+"鸡蛋\n"
+"糖\n"
+"面粉\n"
+"过量时空物质稳定装置（青绿色）\n"
+"鸡蛋"
 
 #: src-en/data/events_special_socialize.xml.append:522
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "好，行。去把大臣要的东西拿来。"
 
 #: src-en/data/events_special_socialize.xml.append:524
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"烹饪用的食材倒不难凑齐，可那个时空相关的玩意儿就显得有点……太奇特了。你能找到"
+"的最接近的东西只有青蓝色食用色素，最后决定把他要的东西放在门外，免得他让你解"
+"释。当天晚些时候，你从他房间里传来大喊：“不对，不对！我说的是青绿色！青绿色！"
+"”这差别真的有那么重要吗？"
 
 #: src-en/data/events_special_socialize.xml.append:528
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我是他老妈吗？把清单揉成一团扔掉。"
 
 #: src-en/data/events_special_socialize.xml.append:530
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_3\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"把那张纸扔到一边，纸上突然爆发出一阵强光；等你的视线恢复时，眼前的景象让你更"
+"加目瞪口呆……揉皱的纸变成了清单上列出的所有东西。你不想多问，更不想靠近那个散"
+"发着诡异震动、一看就知道是时空装置的神秘物品，于是把这堆东西放在了大臣的门外"
+"。当天晚些时候，你听到他房间里传来怒吼：“不对，不对！我说的是青绿色！青绿色！"
+"”你还以为这就是……"
 
 #: src-en/data/events_special_socialize.xml.append:537
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/text"
-msgstr ""
+msgstr "你在房间里找到了大臣，他正跪在地上查看一张照片。就算他注意到了你，也没有表现"
+"出来。"
 
 #: src-en/data/events_special_socialize.xml.append:539
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/text"
-msgstr ""
+msgstr "清了清嗓子。"
 
 #: src-en/data/events_special_socialize.xml.append:541
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/text"
-msgstr ""
+msgstr "他叹了口气，转向你：“是啊，我知道你在这儿。我要是聋了才会察觉不到……你真有什么"
+"要紧事，非得打断我的沉思不可吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:543
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "你的……沉思？你到底在想什么？"
 
 #: src-en/data/events_special_socialize.xml.append:545
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"大臣打量了你一番，仿佛在衡量你值不值得交谈，随后又叹了口气，重新看向手中的照"
+"片：“是……我的女儿。我一直都惦记着她。这件事我已经跟你说得够多了，只是……有件事"
+"我想问问你。”"
 
 #: src-en/data/events_special_socialize.xml.append:547
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我？我可以试着回答，不过我不确定能帮上你什么。"
 
 #: src-en/data/events_special_socialize.xml.append:549
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "他点了点头：“我要的只是一个答案。”大臣随即直视着你的眼睛，眼底带着一丝空洞：“"
+"你相信你所看到的一切吗？相信别人告诉你的一切吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:551
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "这问题……问得太模糊了。"
 
 #: src-en/data/events_special_socialize.xml.append:553
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"我们的处境、我们之间的关系，一切都是模糊的。即便如此，在这些事情上我们仍必须"
+"相信自己的判断。这是对话中他第一次眨了眨眼：“所以告诉我。你相信别人告诉你的一"
+"切吗？关于那场叛乱，关于那场风暴，或是……任何事。简单说：你相信我们这个现实是"
+"真实的吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:555
 msgid ""
@@ -1062,16 +1112,27 @@ msgstr "是。"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"人们常常会脑补模拟现实或是昏迷引发的梦境之类的想法，但你能感觉到，大臣指的完"
+"全是另一回事。某种更黑暗、更凶险的事。不过他似乎对你的回答很满意，随即再次转"
+"向手中的照片：“很好，变元者。没事了。”"
 
 #: src-en/data/events_special_socialize.xml.append:559
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "等等，真的假的？你抛出这么一个不祥的问题，然后就不肯再多解释了？"
 
 #: src-en/data/events_special_socialize.xml.append:561
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"他轻声笑了笑：“你还真是容易被吓到，不是吗？这只是我最近在沿着眼前这条路走下去"
+"时，一直萦绕在心头的事。纵然我有过人的才智，有这该死的铠甲赋予我的力量，可当"
+"我盲目遵从那些指令时，只觉得自己不过是一颗棋子。我就这么悬在一种虚无的状态里"
+"，不断追寻一个或许永远都不会到来的结果。我……原本以为我们在这一点上是相似的。”"
+"他深深地叹了口气：“也许是我判断错了。又或者，我只是太过阴郁，自寻烦恼。不管怎"
+"样，我想站在这里和你谈论这些，也没法弄明白事情的真相。当然，我并无冒犯之意。”"
+"好吧……听出这话里的暗示，你留下大臣独自进行那些诡异的沉思，可他的一部分疑虑，"
+"也跟着你一同离开了房间。他到底在怀疑什么？"
 
 #: src-en/data/events_special_socialize.xml.append:567
 msgid ""
@@ -1082,56 +1143,89 @@ msgstr "是的！"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"人们常会去设想模拟现实或是昏迷引发的梦境这类概念，但你能感觉到，大臣所指的完"
+"全是另一回事。某种更黑暗、更凶险的事。不过他似乎对你的回答很满意，随即再次看"
+"向手中的照片：“很好，变元者。没事了。”"
 
 #: src-en/data/events_special_socialize.xml.append:571
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "等等，真的吗？你抛出这么一个不祥的问题，然后就不肯详细解释了？"
 
 #: src-en/data/events_special_socialize.xml.append:573
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"他轻声笑了笑：“你还真是容易受惊，不是吗？这只是我最近沿着眼前这条路走下去时，"
+"一直萦绕在心头的事。纵然我天资过人，又有这副该死的铠甲赋予我力量，可当我盲目"
+"遵从下达的命令时，只觉得自己不过是一颗棋子。我就这般悬在虚无的境地之中，不断"
+"追寻一个或许永远都不会到来的结果。我……原本以为我们在这一点上是相似的。”他深深"
+"地叹了口气：“也许是我判断错了。又或者，我只是太过阴郁，自寻烦恼。无论如何，我"
+"想站在这里和你谈论这些，也没法弄清真相。当然，我并无冒犯之意。”好吧……听出了其"
+"中的暗示，你留下大臣独自进行那些诡异的沉思，可他的一部分疑虑，也跟着你一同离"
+"开了房间。他到底在怀疑什么？"
 
 #: src-en/data/events_special_socialize.xml.append:579
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "怎么了？"
 
 #: src-en/data/events_special_socialize.xml.append:581
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/event/text"
 msgstr ""
+"人们常会去设想模拟现实或是昏迷引发的梦境这类概念，但你能感觉到，大臣所指的完"
+"全是另一回事。某种更黑暗、更凶险的事。不过他似乎对你的回答很满意，随即再次看"
+"向手中的照片：“很好，变元者。没事了。”"
 
 #: src-en/data/events_special_socialize.xml.append:583
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/event/choice/text"
-msgstr ""
+msgstr "等等，真的吗？你抛出这么一个不祥的问题，然后就不肯再多解释了？"
 
 #: src-en/data/events_special_socialize.xml.append:585
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[3]/event/choice/event/text"
 msgstr ""
+"他轻声笑了笑：“你还真是容易受惊，不是吗？这只是我最近沿着眼前这条路走下去时，"
+"一直萦绕在心头的事。纵然我天资过人，又有这副该死的铠甲赋予我力量，可当我盲目"
+"遵从下达的命令时，只觉得自己不过是一颗棋子。我就这般悬在虚无的境地之中，不断"
+"追寻一个或许永远都不会到来的结果。我……原本以为我们在这一点上是相似的。”他深深"
+"地叹了口气：“也许是我判断错了。又或者，我只是太过阴郁，自寻烦恼。无论如何，我"
+"想站在这里和你谈论这些，也没法弄清真相。当然，我并无冒犯之意。”好吧……听出了其"
+"中的暗示，你留下大臣独自进行那些诡异的沉思，可他的一部分疑虑，也跟着你一同离"
+"开了房间。他到底在怀疑什么？"
 
 #: src-en/data/events_special_socialize.xml.append:591
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "对对对对对对对对对对对对对对对对对对对对对"
 
 #: src-en/data/events_special_socialize.xml.append:593
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/event/text"
 msgstr ""
+"人们常常会设想模拟现实或是昏迷引发的梦境之类的概念，但你能感觉到，大臣所指的"
+"完全是另一回事，某种更黑暗、更凶险的事。可他似乎对你的回答很满意，随即再次看"
+"向手中的照片：“很好，变元者。没事了。”"
 
 #: src-en/data/events_special_socialize.xml.append:595
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/event/choice/text"
-msgstr ""
+msgstr "等等，真的吗？你抛出这么一个不祥的问题，然后却不肯详细解释？"
 
 #: src-en/data/events_special_socialize.xml.append:597
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[1]/event/choice/event/choice/event/choice/event/choice[4]/event/choice/event/text"
 msgstr ""
+"他轻笑一声：“你还真是容易被吓到，不是吗？这只是我近来沿着眼前这条道路前行时，"
+"一直萦绕心头的事。纵然我才智过人，又有这副可憎的铠甲赋予我力量，可当我盲目遵"
+"从下达的命令时，只觉得自己不过是一枚棋子。我就这般身处虚无的境地，不断追寻一"
+"个或许永远都不会到来的结果。我……原本以为我们在这一点上是相似的。”他深深叹了口"
+"气：“也许是我判断错了。又或许，我只是太过阴郁，自寻烦恼。无论如何，我想站在这"
+"里和你谈论这些，也无法探明真相。当然，我并无冒犯之意。”好吧……你领会了暗示，留"
+"下大臣独自进行那些诡异的沉思，可他的一部分疑虑，也随你一同离开了房间。他究竟"
+"在怀疑什么？"
 
 #: src-en/data/events_special_socialize.xml.append:611
 msgid ""
@@ -1141,287 +1235,436 @@ msgstr "不管他了。"
 #: src-en/data/events_special_socialize.xml.append:613
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_4\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你觉得他看上去很忙，于是悄悄退了出去。大臣自始至终都没有动过，而你心里不禁疑"
+"惑，到底是什么事让他如此心事重重。"
 
 #: src-en/data/events_special_socialize.xml.append:618
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/text"
-msgstr ""
+msgstr "你走近大臣的房门时，能听见屋内传来一阵诡异的吟唱，那些颂歌仿佛要钻进你的脑海"
+"里。无尽的不安涌上心头，你开始怀疑自己是否该进去。"
 
 #: src-en/data/events_special_socialize.xml.append:620
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/text"
-msgstr ""
+msgstr "稳住心神，推门进去。"
 
 #: src-en/data/events_special_socialize.xml.append:622
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/text"
 msgstr ""
+"你紧贴着房门，做好了应对脑海中能想到的任何状况的准备……却唯独没料到眼前这一幕"
+"。大臣和其他几位身披斗篷的风暴信徒围坐在一张圆形咖啡桌旁，看得出来他们正在玩"
+"某种桌面游戏。房间另一侧的收音机正大声播放着你先前听到的吟唱。大臣转过头，尽"
+"力在嘈杂的音量中对你喊道：“变元者？你有什么理由打断我们的活动？”"
 
 #: src-en/data/events_special_socialize.xml.append:624
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "我……我还以为你在这里打开通往其他位面的传送门之类的东西。"
 
 #: src-en/data/events_special_socialize.xml.append:626
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"他眯起眼睛看着你：“你说什么？我听不太——等一下。”大臣站起身，走向收音机，用铠"
+"甲手套迸出的一道能量关掉了它，房间瞬间陷入死寂。他再次转向你：“好吧，不管你打"
+"断我们是为了什么，反正我们也差不多要结束了。下周二继续，诸位？”聚集的信徒们纷"
+"纷低声应和，随后在一阵刺眼的闪光中尽数消失。"
 
 #: src-en/data/events_special_socialize.xml.append:628
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "这是怎么回事？"
 
 #: src-en/data/events_special_socialize.xml.append:630
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"大臣挑了挑眉，指了指桌上摆好的棋局：“嗯？你当真没听说过克尔格瑟克里？”你眨了"
+"几下眼，他叹了口气：“我也该料到的。这东西算不上出名，但就算你听过我也不会意外"
+"。它算是……某种邪教经典游戏。”他面无表情地盯着你，你完全搞不懂他是不是在等你笑"
+"。"
 
 #: src-en/data/events_special_socialize.xml.append:632
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "勉强笑了笑。"
 
 #: src-en/data/events_special_socialize.xml.append:634
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "他的眉毛挑得更高了：“我……说了什么好笑的事吗？你没事吧，变元者？进来的时候撞到"
+"脑袋了？”"
 
 #: src-en/data/events_special_socialize.xml.append:636
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "呃……"
 
 #: src-en/data/events_special_socialize.xml.append:638
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"你们俩对视了片刻，都一时语塞。最后还是你先撑不住，尴尬地告退，溜进了走廊。刚"
+"才那场面……真是糟透了。所有悬而未决的问题里，有一个在你脑海里格外清晰……到底谁"
+"会约在周二聚会啊？"
 
 #: src-en/data/events_special_socialize.xml.append:644
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "保持沉默。"
 
 #: src-en/data/events_special_socialize.xml.append:646
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "你站在那里，一句话也说不出来，他的眉毛挑得更高了：“你……你还好吗，变元者？进来"
+"的时候撞到脑袋了？”"
 
 #: src-en/data/events_special_socialize.xml.append:648
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "呃……"
 
 #: src-en/data/events_special_socialize.xml.append:650
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"你们两人对视了片刻，大臣也和你一样说不出话来。最后还是你先撑不住，尴尬地告辞"
+"，快步退到走廊里。刚才那场面……呃，真是糟透了。在所有悬而未决的问题里，有一个"
+"在你脑海中挥之不去……到底谁会约在周二聚会啊？"
 
 #: src-en/data/events_special_socialize.xml.append:662
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[2]/text"
-msgstr ""
+msgstr "不了。转身离开。"
 
 #: src-en/data/events_special_socialize.xml.append:664
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_5\"]/choice[2]/event/text"
 msgstr ""
+"里面到底在搞什么鬼都跟你无关，你可不想被卷进大臣那些诡异仪式的交火里。尽管你"
+"已经走远，却依然能听见那低沉的吟唱……仿佛无论你走到哪里，它都如影随形。你耸了"
+"耸肩，心想跟一个神秘教派领袖住在一起，会遇上这种事也算是家常便饭了。"
 
 #: src-en/data/events_special_socialize.xml.append:669
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_6\"]/text"
 msgstr ""
+"一道白色残影从你身边飞速掠过，紧接着大臣便跑了过来：“让开，快让开！风暴的一个"
+"造物冲破禁锢了！”他转过拐角，仅仅几秒后，拐角处便传来一声爆炸……你必须立刻找掩"
+"护！"
 
 #: src-en/data/events_special_socialize.xml.append:671
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_6\"]/choice/text"
-msgstr ""
+msgstr "趴在地上，护住你的头！"
 
 #: src-en/data/events_special_socialize.xml.append:673
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_GENERIC_6\"]/choice/event/text"
 msgstr ""
+"你摆出防御姿势，闭上双眼，可……什么都没发生。你抬头一看，惊讶地发现大臣回来了"
+"，他铠甲上的靴子在地上拖曳着。他瞥了你一眼：“那个麻烦的家伙已经解决了。非常抱"
+"歉打扰到你，变元者。不会再发生这种事了。”他从你身边走过时，语气里带着一丝不屑"
+"，只留下你独自躺在地板上。"
 
 #: src-en/data/events_special_socialize.xml.append:678
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_VORTIGON_1\"]/text"
 msgstr ""
+"你撞见沃蒂根与大臣正在深入交谈，前者开口道：“所以……你所信奉的这个，呃，风暴。"
+"你声称它凌驾于诸圣之上？”他说出“风暴”这个名字时，语气就像被抢走了午餐钱一样。"
+"大臣抬手托着下巴，无视了这番轻蔑：“风暴教派内部确实存有水晶。你为何问起这个？"
+"难不成你想改信？”沃蒂根发出一阵浑厚的大笑：“我可没这么说，但你证实了我的猜测"
+"。你口中的风暴，必定就是一位圣尊，而且比其他任何一位都更为崇高！没想到竟有这"
+"种可能……我得去查阅典籍……”他一边思索一边离去，大臣这才注意到你的存在，朝你投来"
+"困惑的一瞥。你耸了耸肩。"
 
 #: src-en/data/events_special_socialize.xml.append:681
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/text"
 msgstr ""
+"你虽然没找到大臣，却撞见杰瑞正穿过走廊。他双眼圆睁，像是见了鬼一般，缓缓蹒跚"
+"走过时，甚至都没看你一眼。你知道他本就有些木讷古怪……可这副样子，就算对他而言"
+"也太反常了。"
 
 #: src-en/data/events_special_socialize.xml.append:683
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/text"
-msgstr ""
+msgstr "试着引起他的注意。"
 
 #: src-en/data/events_special_socialize.xml.append:685
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/text"
 msgstr ""
+"你喊了他的名字，杰瑞猛地停住脚步，以人类史上最慢的速度转向你。终于，他面向了"
+"你，艰难地结结巴巴道：“队、队、队长……那、那个……东、东西，在、在洗手间里……是、"
+"是真的吗？真、真的存在吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:687
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "东西？什么东西？"
 
 #: src-en/data/events_special_socialize.xml.append:689
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"杰瑞花了好几分钟，描述着让他惊魂未定的恐怖景象：一个长着触手的怪物，在黑暗中"
+"盯着他。从他的描述里你听得出，那不过是风暴的造物之一，多半是大臣出于某种不为"
+"人知的目的放出来的。当然，你可以把这些如实告诉杰瑞，只是……"
 
 #: src-en/data/events_special_socialize.xml.append:691
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "告诉他真相，并安慰他。"
 
 #: src-en/data/events_special_socialize.xml.append:693
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你用自己有限的认知，尽量解释了风暴造物的来历，杰瑞眨了好几下眼睛。“那……那没事"
+"了？”你点了点头，他夸张地松了一大口气，“太好了，谢天谢地！那下次它……呃……盯着"
+"我的时候，我尽量不盯着看就是了。真没想到大人会雇对这种奇怪东西感兴趣的人！”杰"
+"瑞走开了，步伐重新恢复了活力，你心里也泛起了一丝极淡的暖意。"
 
 #: src-en/data/events_special_socialize.xml.append:697
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "编个谎话，逗逗他。"
 
 #: src-en/data/events_special_socialize.xml.append:699
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你单手托着下巴，装作一副深思熟虑的样子，告诉杰瑞他刚才撞见的恐怕是来自异界的"
+"存在。他下巴都惊掉了，怔怔地盯着你片刻，随后双眼一翻，直挺挺倒在地上——杰瑞直"
+"接吓晕了。他……居然这么容易被吓到吗？你心里有点过意不去，便给他拿了条毯子，还"
+"托人照看他，免得有人在走廊里被他绊倒。"
 
 #: src-en/data/events_special_socialize.xml.append:707
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[2]/text"
-msgstr ""
+msgstr "别去打扰这个可怜的孩子了。"
 
 #: src-en/data/events_special_socialize.xml.append:709
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_JERRY_1\"]/choice[2]/event/text"
-msgstr ""
+msgstr "显然有什么东西吓到他了，但你觉得最好还是别打扰杰瑞。再说了，万一他只是梦游呢"
+"？你可不想打碎他那颗……呃，杰瑞脑袋里正在做的美妙梦境。"
 
 #: src-en/data/events_special_socialize.xml.append:714
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_HAYNES_1\"]/text"
 msgstr ""
+"转过拐角，你看见海因斯正在盘问大臣，而后者只顾摆弄着手里的东西，对这事一点也"
+"不上心。\n"
+"\n"
+"“职业？”\n"
+"\n"
+"“大臣。”\n"
+"“\n"
+"效忠对象？”\n"
+"\n"
+"“风暴。”\n"
+"\n"
+"“家人？”\n"
+"\n"
+"“失踪。”\n"
+"\n"
+"“出生日期？”\n"
+"\n"
+"“无关紧要。”\n"
+"\n"
+"海因斯被最后这个回答难住了：“那我们该怎么填表格？你对这份披萨订单的态度，能跟"
+"我一样认真点吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:734
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_HAYNES_1\"]/choice/text"
-msgstr ""
+msgstr "披萨订单……？"
 
 #: src-en/data/events_special_socialize.xml.append:736
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_HAYNES_1\"]/choice/event/text"
 msgstr ""
+"大臣猛地把注意力转向侦探，显然已经忍无可忍：“我倒要问问，送个意大利辣香肠披萨"
+"，凭什么需要知道这些东西？难道他们是通过跨次元虫洞送来的？”海因斯双臂交叉：“"
+"我怎么知道？我只是在尽力填这破表格而已。”大臣提高了音量：“你不是大名鼎鼎的侦"
+"探吗？弄清楚这些不是你的工作？”侦探也上前一步，声音同样拔高：“那你不就是那位"
+"大臣吗？你就不能让你那个‘风暴’给你变个披萨出来？”大臣一拳砸在桌上：“你该明白"
+"这种琐事根本不值得它费心！还是说你和这里其他人一样蠢？”两人就这样你来我往吵了"
+"好一会儿，火气越来越大，你心里隐隐有种预感——你们怕是等不到披萨了。"
 
 #: src-en/data/events_special_socialize.xml.append:741
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THESCARRED_1\"]/text"
 msgstr ""
+"虽然这两人未必对彼此抱有敌意，但只要烙疤者和大臣同时在场，房间里就弥漫着一股"
+"无法忽视的紧张气氛。你在食堂看到他们面对面坐着，谁也没说一句话，只是各自出神"
+"地望着远方。你觉得当着众人的面去打断他们实在太尴尬，但内心深处又很想劝他们放"
+"轻松一点——我们的敌人是叛军，不是彼此！不是吗？"
 
 #: src-en/data/events_special_socialize.xml.append:744
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHUNGER_1\"]/text"
 msgstr ""
+"一阵刺耳的碎裂声吸引了你的注意，你看到大臣正在给饥饿者喂食金属碎片，仿佛它只"
+"是一只宠物。最后，饥饿者似乎变得有些暴躁，试图去啃咬大臣的铠甲。就在这时，它"
+"那黏糊糊的身体被击飞出去，刺耳的尖叫刺穿了你的耳朵：“不、不、不可食用。仆从？"
+"解放者？怎、怎么……怎么会！”大臣轻笑一声，朝踉跄的半械族扔出最后一块金属碎片："
+"“真是有趣……我会盯着你的，小家伙。离铠甲远点，听懂了吗？”他自顾自地笑着走开了"
+"，饥饿者则摇晃着身体朝你爬来：“舰长……舰、舰、舰长……询问：这是什么？为什么！他"
+"、他到底是、是谁……？”你其实也希望自己能弄明白。"
 
 #: src-en/data/events_special_socialize.xml.append:747
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/text"
 msgstr ""
+"你正走向大臣的房间，一只戴着铠甲的手紧紧抓住你的肩膀，粗暴地把你转过身来面对"
+"它的主人。然而令你惊讶的是，站在那里的并不是大臣，而是……女杰。尽管隔着头盔很"
+"难看清她的表情，但你能感受到她目光中透出一股就连她本人都少有的强烈气势。"
 
 #: src-en/data/events_special_socialize.xml.append:749
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/text"
-msgstr ""
+msgstr "你还好吗？出什么事了？"
 
 #: src-en/data/events_special_socialize.xml.append:751
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/text"
 msgstr ""
+"女杰抓着你肩膀的手又收紧了几分，她凑近你：“你信任我，对吗？以前你曾为了我对抗"
+"邪恶，只是因为我请求了你。只是因为我说那是正确的事，而你选择相信我。”"
 
 #: src-en/data/events_special_socialize.xml.append:753
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/text"
-msgstr ""
+msgstr "我是说，没错，可是……这到底是怎么回事？"
 
 #: src-en/data/events_special_socialize.xml.append:755
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/text"
 msgstr ""
+"她的声音罕见地有些颤抖：“我……相信我们这艘舰上，又迎来了一股邪恶。你这位大臣，"
+"还有那个风暴的造物……他们……浑身都散发着邪恶、欺骗与恶意。我的长矛在他们附近就"
+"会灼热发烫，我对此无比确定。可是……”她望向一旁片刻，随后重新与你对视，“他是以"
+"盟友的身份来到这里，和我一样，而我信任你的判断……就像你信任我一样。所以，我想"
+"问你，战友：你真的相信这位大臣吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:757
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "是的，我相信他。我对他的信任，和对你的信任一样深。"
 
 #: src-en/data/events_special_socialize.xml.append:759
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[1]/event/text"
-msgstr ""
+msgstr "她放松下来，只是点了点头，然后转身离开。但愿你能像她一样，坚信自己做出的决定"
+"。"
 
 #: src-en/data/events_special_socialize.xml.append:763
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我……我不能说我相信他。我和你有着同样的担忧。"
 
 #: src-en/data/events_special_socialize.xml.append:765
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"女杰再次握紧你的肩膀，狂热的力道几乎要捏碎你的肩骨：“那我们就做英雄最擅长的事"
+"。一股新的邪恶必将在今夜覆灭，战友！与我并肩，向它黑暗堡垒的所在地进军，摧毁"
+"这玷污我们的污秽。为了多元宇宙！”她手持长矛，朝着大臣房间的方向冲去，而你几乎"
+"别无选择，只能跟上前去。"
 
 #: src-en/data/events_special_socialize.xml.append:767
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "追上她。"
 
 #: src-en/data/events_special_socialize.xml.append:769
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"这并不容易，但你还是勉强跟上了她狂热的步伐。你紧跟在女杰身后，她猛地撞开大臣"
+"房间的门，大喊道：“现身吧，邪恶，正义终将降临！你的防御已经失效，正义就在你门"
+"前！”大臣从椅子上坐直身子，一脸茫然：“你是说被你撞烂的这扇门吗？到底是什么意"
+"思？”他越过女杰看向你：“变元者？我建议你看好这个蛮不讲理的家伙，别让她到处随"
+"意破坏东西？”她立刻将长矛对准他，大臣的身形瞬间绷紧：“又或者，你和她是一伙的"
+"？这就是你所谓的情谊？”"
 
 #: src-en/data/events_special_socialize.xml.append:771
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "我……呃……"
 
 #: src-en/data/events_special_socialize.xml.append:773
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"你还没来得及说上话，女杰就打断了你：“闭嘴，奸贼，否则我就割掉你这条巧舌。”她"
+"握紧长矛，你能察觉到长矛在她手中因对准大臣的铠甲而发出灼热的声响。她开口道：“"
+"你这身……铠甲，恶魔。我能感受到它的恶意，它对生命以及所有守护生命者的憎恨。你"
+"为何要穿上这邪恶之物？”大臣翻了个白眼，立刻对这种夸张的做派感到厌烦：“你是要"
+"我闭嘴，还是来审问我的？”一支长矛擦着他的头顶飞过，女杰上前一步：“下一击就不"
+"会偏了。说。”大臣脸上先前的不耐烦尽数消失，取而代之的是一种你并非从未见过他流"
+"露的情绪：恐惧。"
 
 #: src-en/data/events_special_socialize.xml.append:775
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "这会不会有点太过分了？"
 
 #: src-en/data/events_special_socialize.xml.append:777
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"这一次，你的话传进了她耳中，她的气势稍稍缓和了一些，“原谅我，同志，但这是件严"
+"肃的事。他的这套铠甲绝非仅仅是邪恶之物——它就是由邪恶本身铸就的。一种有形的邪"
+"恶，堪比那可怕的物质病毒，甚至有过之而无不及……所以我再问你一次，恶魔。你究竟"
+"为何要穿戴它？”大臣立刻回答，声音里满是慌乱，“你们这群人疯了吗？关于这套铠甲"
+"及其用途，我知道的已经全都说了。它根本不是什么邪恶之物，它就是铠甲！是防具！"
+"诚然，它有着难以置信的坚韧，也有着不可言说的危险，但它没有任何自主意识。它只"
+"是一件我被迫绑定的物品——我还要补充一句，我对此本身就十分不满，而且它会遵照我"
+"的指令行动。至少在大多数情况下是这样，就和所有不稳定的机械一样……”他的声音渐渐"
+"低沉，带着一丝悲凉，但女英雄似乎毫不在意，“如果这件邪恶的东西真的在违背你的意"
+"愿束缚你，那你就不该对我摧毁它有任何异议。”"
 
 #: src-en/data/events_special_socialize.xml.append:779
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你真的能毁掉它吗？"
 
 #: src-en/data/events_special_socialize.xml.append:781
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"“这多元宇宙里没有任何邪恶是我摧毁不了的。这是我的誓言……”你看向大臣，令你惊讶"
+"的是，他看上去似乎在考量这种可能性。思索片刻后，他开口道：“你的确非同寻常，可"
+"这套铠甲是无法摧毁的。在它强行依附于我时，我就得到了这样的保证，而且……相信我"
+"，我试过了。”他叹了口气，继续说道：“如果这样能让你相信我的清白，我不反对移除"
+"它，但我担心可能带来的后果。过去我每次试图取下它，铠甲的反应都很不友善。”女杰"
+"把他的话听了进去，放下长矛转向你：“我……相信他，同志。即便如此……虽然他本身可能"
+"并非邪恶，但那铠甲是。如果你允许，我会试着将它移除。”你看向大臣，他似乎表示同"
+"意。现在由你做决定。"
 
 #: src-en/data/events_special_socialize.xml.append:783
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "我们来此是为了铲除邪恶。就让我们把这事做到底。"
 
 #: src-en/data/events_special_socialize.xml.append:785
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"女杰点了点头，转向大臣：“花点时间做好准备。我会将长矛刺入铠甲的核心，也就是它"
+"邪恶的源头，尝试从那里粉碎它对你的控制。准备好了就告诉我。”大臣也点了点头，花"
+"了片刻平复心神。你看着他翻转双手，注视着自己的护手，然后紧紧握成拳头。如果女"
+"英这次成功……他将不仅从铠甲中解脱，或许还能摆脱那场风暴。他可以真心去寻找自己"
+"的女儿，将邪教生活的种种恐怖抛在身后。和你、女杰，还有……所有人一起。他会获得"
+"真正的自由，你能感觉到他和你一样明白这一点。他深吸一口气，闭上双眼，挺起胸膛"
+"：“好了。我准备好了。尽管放手一试吧，英雄。”"
 
 #: src-en/data/events_special_socialize.xml.append:787
 msgid ""
@@ -1432,51 +1675,78 @@ msgstr "继续。"
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"女杰再次将长矛对准铠甲，厉声喝道：“你这囚笼，纵然没有生命，却依旧邪恶不减。我"
+"必将摧毁你，终有一天，我亦会粉碎你那恶毒的主宰。此誓，我必践行。”她摆出击刺姿"
+"态，准备发动猛攻，“现在……崩塌吧，囚笼！在你的罪孽重压之下，在我的意志之力面前"
+"，碎裂吧！！”女杰以超凡速度疾冲而上，长矛与大臣的铠甲轰然相撞，爆发出雷鸣般的"
+"巨响。纤细的光缕从铠甲核心中不断溢出……你意识到，她已然刺穿了它，哪怕只是浅浅"
+"一层。她怒吼着，一次、两次、三次地奋力突刺；她的意志化作实质力量，不断加持于"
+"身。当她挥出最后决定性一击时，缤纷的光芒自长矛中狂涌而出，然后……"
 
 #: src-en/data/events_special_socialize.xml.append:791
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "然后……？"
 
 #: src-en/data/events_special_socialize.xml.append:793
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"铠甲核心的光芒变得无比刺眼，你的视线瞬间被吞没，唯一能依靠的只剩下听觉。你听"
+"见女杰的怒吼，听见大臣在重击之下踉跄后退，还有……混乱之中的第三种声音。一阵低"
+"沉的嗡鸣，隐藏在一切声响之下。可你还没来得及辨清来源，大臣就突然尖叫起来：“住"
+"手！这套铠甲，它——”他顿了顿，随即因剧痛而抽搐，声音里充满了恐惧，“——我感觉到"
+"了！它……呃啊……它要把我撕碎了！！它要杀了我——住手！求你——”女杰也慌忙回应，声音"
+"里满是慌乱：“我……我不知道这是怎么回事！我的长矛被死死卡住了……我们是不是做错了"
+"……？”"
 
 #: src-en/data/events_special_socialize.xml.append:795
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我能做什么……？"
 
 #: src-en/data/events_special_socialize.xml.append:797
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"大臣的惨叫愈发凄厉，他哀求着帮助，哀求着原谅……也哀求着他的女儿。女杰拼命想要"
+"施救，却无能为力。比大臣的惨叫更刺耳的，是随之而来的死寂，还有……那阵声音。它"
+"此刻愈发强烈，盖过了女杰绝望的呼喊。房间里的光芒越来越盛，亮到远超目眩的程度"
+"，你拼命护住双眼。等你再次睁开眼时，光芒已经消失，可是……大臣也不见了。女杰怀"
+"里只剩下他的铠甲，如今空空如也。你注意到她的长矛仍嵌在铠甲的核心里，然而……不"
+"知为何，它之前造成的所有损伤似乎都已复原，因为你看到核心的外壳已经重新闭合，"
+"将长矛牢牢裹在其中。"
 
 #: src-en/data/events_special_socialize.xml.append:800
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "你的系统里完全没有留下大臣的任何痕迹……他到底遭遇了什么……？"
 
 #: src-en/data/events_special_socialize.xml.append:803
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你……做了什么……？"
 
 #: src-en/data/events_special_socialize.xml.append:805
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"你能听见她带着哭腔回答：“我……我不是……对不起……我没想到——”她话音未落，之前那阵"
+"嗡鸣再次袭来，声音越来越大，越来越响。是……那套铠甲。它要爆炸了吗？你再次朝她"
+"大喊，让她扔掉铠甲快跑，可……已经太晚了。她转身看向你时，怀中的铠甲再次迸发出"
+"一道强光，你被迫再次护住眼睛。等你的视线恢复……女杰也消失了。这一次，连她的铠"
+"甲都没留下。只剩下大臣的那套，还有……她的长矛，依旧死死卡在铠甲的核心里。铠甲"
+"重重摔落在地，强光过后，只剩下你独自一人。"
 
 #: src-en/data/events_special_socialize.xml.append:808
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/removeCrew/text"
-msgstr ""
+msgstr "女杰也消失得无影无踪。该死……"
 
 #: src-en/data/events_special_socialize.xml.append:811
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "放声呼喊你的朋友们。"
 
 #: src-en/data/events_special_socialize.xml.append:813
 msgid ""
@@ -1486,57 +1756,80 @@ msgstr ""
 #: src-en/data/events_special_socialize.xml.append:815
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "什么……？"
 
 #: src-en/data/events_special_socialize.xml.append:817
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"有那么一瞬间，你以为自己只是产生了幻觉，但紧接着，一切又再次发生。铠甲的手指"
+"开始抽搐，随后是双腿，接着是整个身躯。它剧烈痉挛、猛地抽动，动作越来越剧烈，"
+"然后……突然僵住，四肢笔直，开始缓缓浮空。"
 
 #: src-en/data/events_special_socialize.xml.append:819
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "我是不是疯了？"
 
 #: src-en/data/events_special_socialize.xml.append:821
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"铠甲以一种仿佛有意识的姿态转向你。它的护手伸出，抓住胸口里的长矛，就这么……拔"
+"了出来。在它行动的同时，核心的伤口自动愈合，看上去就像从未被刺穿一样。它将长"
+"矛扔到地上，继续面对着你。"
 
 #: src-en/data/events_special_socialize.xml.append:823
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "你是什么东西？你把我的朋友们怎么样了？"
 
 #: src-en/data/events_special_socialize.xml.append:825
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/text"
 msgstr ""
+"它的核心黯淡下去，随即闪烁起来，接着猛然爆发出强光，整个房间再次被一片白光吞"
+"没。这一次……消失的是那套铠甲，但并非没有留下任何痕迹。你检查飞船系统时发现，"
+"它为你留下了一段可读取的数据……一组坐标。你的理智在尖叫，告诉你这必定是个陷阱"
+"，可你内心却因失踪的伙伴们而剧痛不已。只要有一丝可能他们就在这些坐标之处，或"
+"是你能在那里为他们复仇，你都愿意一试。"
 
 #: src-en/data/events_special_socialize.xml.append:827
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[1]/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "别担心……我来了。"
 
 #: src-en/data/events_special_socialize.xml.append:849
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "我觉得这不值得冒这个险。我们应该想想别的办法。"
 
 #: src-en/data/events_special_socialize.xml.append:851
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_MINISTER_THEHEROINE_1\"]/choice/event/choice/event/choice[2]/event/choice/event/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"两人不情愿地同意了，局势暂时平息下来。如果大臣对那次针对他性命的袭击一直耿耿"
+"于怀，他并没有表现出来，但……整件事还是让你感到尴尬。而且，女杰所说的关于大臣"
+"铠甲的话，仍在你脑海中回荡。那东西真的会是一个由纯粹的仇恨构成的存在吗？"
 
 #: src-en/data/events_special_socialize.xml.append:887
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_HEROINE_NOTHING\"]/text"
 msgstr ""
+"你试图引起她的注意，可女杰似乎正忙着在飞船里追一只老鼠。她完全没理会你，只是"
+"在那只老鼠跑得比她快时对着它大喊：“你尽管逃吧，卑劣的害虫，但你给我记住。正义"
+"——永不停歇！你那传染性的恐怖统治，到此结束了！！”至少她玩得挺开心。"
 
 #: src-en/data/events_special_socialize.xml.append:890
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_HEROINE_GENERIC_1\"]/text"
 msgstr ""
+"你正在寻找女杰，这时一阵巨响吸引了你的注意……听起来像是玻璃被砸碎的声音。循着"
+"声音，你来到了自助餐厅，果不其然，女杰正把餐具狠狠砸在地上。她一边砸一边大喊"
+"：“自由吧，玻璃之民！你们再也不会被人类的随心所欲束缚，再也不会为了所谓的‘便"
+"利’被迫辛劳劳作。食物理应用双手捧着，而不是靠这些被奴役的器物！”她这场英勇的“"
+"暴动”持续了很久，你不禁开始疑惑，如果所有玻璃制品都象征着残酷，那她平时到底要"
+"怎么使用任何东西。"
 
 #: src-en/data/events_special_socialize.xml.append:893
 msgid ""
@@ -1672,11 +1965,18 @@ msgstr ""
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_HEROINE_THESCARRED_1\"]/text"
 msgstr ""
+"你撞见女杰和烙疤者正坐在一起，全神贯注地冥想。两位深渊潜者一同哼着低沉而粗犷"
+"的曲调，你能感觉到自己不该打扰他们。之后你向烙疤者询问他们刚才在做什么，你敢"
+"肯定，当他们将其描述为“一场对其族人而言神圣的仪式”时，脸颊微微泛红。你暗自庆"
+"幸，还好刚才没有打断他们……"
 
 #: src-en/data/events_special_socialize.xml.append:983
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_SHADE_NOTHING\"]/text"
 msgstr ""
+"虽然你成功找到了躲在角落里的暗影，但它对你的存在没有丝毫反应。它只是凝视着远"
+"方——似乎什么也没有看。考虑到你之前多次尝试与它互动都得到类似的回应，这并不令"
+"人意外，但你仍忍不住希望它这副失神的模样能有所改变……"
 
 #: src-en/data/events_special_socialize.xml.append:986
 msgid ""
@@ -1941,12 +2241,15 @@ msgstr ""
 #: src-en/data/events_special_socialize.xml.append:1131
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/text"
-msgstr ""
+msgstr "想象一只鸟——它生有雷霆万钧的巨翼，为黎明将至而鸣警。"
 
 #: src-en/data/events_special_socialize.xml.append:1133
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/text"
 msgstr ""
+"父亲的羽翼……没想到你不仅能找到我，还能找到我那更偏向野兽形态的妹妹……你的确令"
+"人叹服，大弑杀者。但我恐怕，他的盾牌不会这么容易被找到——父亲似乎执意要将她留"
+"在身边。更不必说她所承受的……惩戒……"
 
 #: src-en/data/events_special_socialize.xml.append:1135
 msgid ""
@@ -1956,17 +2259,21 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1137
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDULTIMAARMOR\"]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我离题了。我们在此的时间已经不多——待到下次再会，我的持有者……好好驾驭"
+"我，也好好驾驭我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1143
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/text"
-msgstr ""
+msgstr "想象一位天使——并非由水晶构成，也非出自黑暗阴谋，而是源于神圣的侍奉。"
 
 #: src-en/data/events_special_socialize.xml.append:1145
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/text"
 msgstr ""
+"我相信这些存在里，大多数都对父亲的伎俩一无所知。而那些知情者，似乎都遭到了嘲"
+"讽——被驱逐，流放到其他的现实之中……不过，这是你我之间的悄悄话，碎灰者？我倒是"
+"认同这位被放逐者后半段的想法——我也希望能再次见到母亲……"
 
 #: src-en/data/events_special_socialize.xml.append:1147
 msgid ""
@@ -1976,17 +2283,22 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1149
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[@req=\"LIST_CREW_DDSERAPHIM\"]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言尽于此。我们在此的时光已所剩无几——待到下次再会，我的持有者……好好"
+"运用我，也好好驾驭我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1155
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/text"
-msgstr ""
+msgstr "想象一名囚徒——一位满怀牵挂的姐姐，身陷无边、黑暗而扭曲的空间。"
 
 #: src-en/data/events_special_socialize.xml.append:1157
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/event/text"
 msgstr ""
+"我的妹妹……？虽然她所受的苦难并非徒劳，可我……我宁愿受苦的是我。她被父亲留在身"
+"边已经太久太久了，而——尽管我相信他的所作所为，相信他那场仪式的承诺——我还是忍"
+"不住希望，在他那永恒的乐园里能有她的一席之地。无论如何，我最开心的，是有幸再"
+"次听见她的声音……"
 
 #: src-en/data/events_special_socialize.xml.append:1159
 msgid ""
@@ -1996,17 +2308,21 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1161
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[8]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言归正传。我们在此的时间已经不多——待到下次再会，我的持有者……好好驾"
+"驭我，也好好驾驭我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1167
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/text"
-msgstr ""
+msgstr "想象一只眼——始终注视，始终存在，始终审判。"
 
 #: src-en/data/events_special_socialize.xml.append:1169
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/event/text"
 msgstr ""
+"无论父亲是否认可你过去或未来的所作所为，我发誓都会站在你这边，碎灰者。父亲或"
+"许常常……显得严苛，但……我从未认为他心怀恶意。对此我深信不疑——我只祈祷，假以时"
+"日，你能像我一样彻底信任他……"
 
 #: src-en/data/events_special_socialize.xml.append:1171
 msgid ""
@@ -2016,17 +2332,21 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1173
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[9]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言归正传。我们在此的时间已经不多——待到下次再会，我的持有者……好好运"
+"用我，也好好守护我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1179
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/text"
-msgstr ""
+msgstr "想象一具遗骸——曾经无比辉煌的存在，如今沦为星尘中的残砾。"
 
 #: src-en/data/events_special_socialize.xml.append:1181
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/event/text"
 msgstr ""
+"没错，大天使们及其可怖的阴谋已然落败。即便他们的算计曾让母亲获得些许自由，我"
+"也难以想象，在他们那亵渎神明的计划中，等待着母亲与冥影位面的将会是何等可怕的"
+"命运。不过，随着他们的覆灭，维持位面的秩序将会变得异常艰难……"
 
 #: src-en/data/events_special_socialize.xml.append:1183
 msgid ""
@@ -2036,17 +2356,21 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1185
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[10]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言归正传。我们在此的时间已经不多——待到下次再会，我的持有者……好好运"
+"用我，也好好守护我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1191
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/text"
-msgstr ""
+msgstr "想象一个国度——在挣脱束缚之后，依旧美得动人心魄。"
 
 #: src-en/data/events_special_socialize.xml.append:1193
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/event/text"
 msgstr ""
+"冥影位面……唉，我多希望事情不曾走到这一步。仅凭我一人，该如何唤醒光裔族？我知"
+"道父亲信任我，可是……我还是忍不住害怕，我会再次让他失望。害怕历史会重演，比上"
+"一次更加真实，而位面那些绚烂的色彩，将会再一次彻底消散……"
 
 #: src-en/data/events_special_socialize.xml.append:1195
 msgid ""
@@ -2056,17 +2380,21 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1197
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[11]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言归正传。我们在此的时间已经不多——待到下次再会，我的持有者……好好运"
+"用我，也好好守护我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1203
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/text"
-msgstr ""
+msgstr "想象一座钟——它滴答作响的宿命，无人能够逃避。"
 
 #: src-en/data/events_special_socialize.xml.append:1205
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/event/text"
 msgstr ""
+"当我们相伴的时光走向尽头，我会回到我的位面——毕竟，光裔族需要指引。不过，执刃"
+"者……倘若你真的有需要，我会尽我所能回应你的呼唤。我……我知道，我的妹妹也会希望"
+"如此。"
 
 #: src-en/data/events_special_socialize.xml.append:1207
 msgid ""
@@ -2076,104 +2404,153 @@ msgstr "..."
 #: src-en/data/events_special_socialize.xml.append:1209
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[1]/event/choice[12]/event/choice/event/text"
-msgstr ""
+msgstr "……不过，我言归正传。我们在此的时间已然不多——待到下次再会，我的持有者……好好运"
+"用我，也好好守护我的容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1217
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "想象一只杯子——空无一物，亦无任何用意。"
 
 #: src-en/data/events_special_socialize.xml.append:1219
 msgid ""
 "data/events_special_socialize.xml.append$//event[@name=\"SOCIALIZE_DDTHE_OVERSEER\"]/choice/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"只是一句问候而已吗？好吧，你好，持有者。说实话，我还挺喜欢这些不那么……沉重的"
+"交谈。我相信，我的妹妹也会喜欢的。那么，下次再会——好好运用我，也好好守护我的"
+"容器。"
 
 #: src-en/data/events_special_socialize.xml.append:1230
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/text"
-msgstr ""
+msgstr "你没花多久就找到了那位怪异的深渊潜者，他坐在离监管者及其诡异的空间影响结界不"
+"远的地方。你一靠近，那位带伤疤的存在便招呼你过去。"
 
 #: src-en/data/events_special_socialize.xml.append:1232
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/text"
-msgstr ""
+msgstr "遵命，坐到他们身边。"
 
 #: src-en/data/events_special_socialize.xml.append:1234
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/text"
 msgstr ""
+"你毫不犹豫地坐到烙疤者身旁，他们将你的注意力引向那具静止不动的自动人偶。“同族"
+"……我们穿越这片‘冥影位面’的旅程……已经揭示了许多真相。关于伪神的本质、他的圣物…"
+"…还有，令我意外的是，我过往的一些碎片。这把剑……我现在记起来了。我记得……我曾听"
+"闻的一切。记得……我曾做过的事。”"
 
 #: src-en/data/events_special_socialize.xml.append:1236
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "嗯，我在听……"
 
 #: src-en/data/events_special_socialize.xml.append:1238
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"深渊潜者沉吟片刻，继续说道：“我本应持有那件圣物……伪神是如此期望的。我的升华……"
+"我曾如此热切地期盼，可是……它在向我尖叫。在伪神机械外壳的深处，有什么东西就在"
+"附近……它尖叫着发出警告。警告……关于那场仪式，关于万物的终结……关于这位‘黑暗之神"
+"’真正的内里。尽管细节依旧……模糊不清，但我仿佛仍能清晰听见它的哀求……它恳求我拿"
+"起这把剑，然后……摧毁它。终结这一切……或者，至少延缓那看似无可避免的命运。直到…"
+"…有谁，或是有什么东西，能彻底阻止伪神。”\n"
+"\n"
+"沉默持续了一会儿，你不禁猜测深渊潜者正在回忆什么。随即，他们的脸色沉了下来，"
+"直视着你的眼睛：“我担心……我们修复了这把剑，反倒只是在推动伪神……他自己的阴谋。"
+"”"
 
 #: src-en/data/events_special_socialize.xml.append:1242
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "这些信息一时难以消化，可是……你为什么会突然想起这一切？"
 
 #: src-en/data/events_special_socialize.xml.append:1244
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "他们的目光移开，重新望向监管者：“在那个诡异的位面里……一切都显得混沌不清……可唯"
+"有一件事格外清晰——一个声音……你也听见了，对吗？”"
 
 #: src-en/data/events_special_socialize.xml.append:1246
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "是的，我听到了。那面盾牌……"
 
 #: src-en/data/events_special_socialize.xml.append:1248
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/text"
 msgstr ""
+"“它……真是这么说的吗？说实在的，我只和它短暂交谈过，但……这些事也是它告诉我的。"
+"我过往的这些秘密……它认为是伪神亲自……把它们从我记忆里藏了起来。了解它之后，我"
+"倾向于相信……这个陌生的声音。”"
 
 #: src-en/data/events_special_socialize.xml.append:1250
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/text"
-msgstr ""
+msgstr "那么，我们现在该怎么办？"
 
 #: src-en/data/events_special_socialize.xml.append:1252
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[1]/event/choice/event/text"
 msgstr ""
+"烙疤者深吸一口气，点了点头：“我们……一直在做的事——必须继续去了解……尽我们所能。"
+"我们如今亲眼所见……即便是自称为神的存在，也会流血。”\n"
+"\n"
+"他们从座位上起身，离开了房间，只留下你独自面对着监管者的容器所发出的异界嗡鸣…"
+"…为何黑暗之神在交出剑刃一事上改变了主意，却仍保留着它的盾牌？而如果她真的被困"
+"住了……你还能找到她吗？这些问题，连同更多的疑惑，都没能从头顶的星辰中得到多少"
+"答案……唯有那令人烦躁的嗡鸣不断回响。"
 
 #: src-en/data/events_special_socialize.xml.append:1260
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "保持安静。"
 
 #: src-en/data/events_special_socialize.xml.append:1262
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
 msgstr ""
+"“我不建议我们互相隐瞒，同族，只是……无论如何，是它向我揭示了这一切。我过往的这"
+"些秘密……它认为是伪神亲自……将它们从我这里隐藏起来。知道这点后，我倾向于相信……"
+"这个陌生的声音。”"
 
 #: src-en/data/events_special_socialize.xml.append:1264
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "那么，我们现在该怎么办？"
 
 #: src-en/data/events_special_socialize.xml.append:1266
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"烙疤者深吸一口气，然后点了点头，“我们……一直在做的事——我们必须继续去了解……尽我"
+"们所能。我们如今已经亲眼见证……即便是自称为神的存在，也会流血。”\n"
+"\n"
+"他们从座位上起身，离开了房间，只留下你独自承受着监管者容器传来的异界嗡鸣……为"
+"何黑暗之神改变了交出剑刃的主意，却仍旧保留着它的盾牌？而如果她早已被困……你还"
+"能找到她吗？这些疑问，连同更多未解之谜，都没能从头顶的星辰中得到多少答案……唯"
+"有那令人烦躁的嗡鸣依旧回荡。"
 
 #: src-en/data/events_special_socialize.xml.append:1280
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[2]/text"
-msgstr ""
+msgstr "逃跑。"
 
 #: src-en/data/events_special_socialize.xml.append:1282
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THESCARRED_1\"]/choice[2]/event/text"
 msgstr ""
+"你今天已经受够了这些诡异又夸张的对话，你受够了！你要回到太空去，该死！是正常"
+"的那种太空——没有灰度画面、没有盯着你的眼球状星辰、也没有会回望你的星云——只有"
+"舒适、美好、熟悉的太空！你趁机脱身逃走，你确信烙疤者此刻一定一脸困惑，但你现"
+"在根本不在乎。"
 
 #: src-en/data/events_special_socialize.xml.append:1287
 msgid ""
 "data/events_special_socialize.xml.append$/dummyroot/event[@name=\"SOCIALIZE_DDTHE_OVERSEER_THEMINISTER_1\"]/text"
 msgstr ""
+"在监管者身旁，你找到了大臣——他一边记录笔记，一边摆弄着几件工具，却仍刻意与她"
+"那诡异的气场保持着足够的距离。你路过时，他并未留意你，你也选择不去打扰他的摆"
+"弄，但你能猜出他心中所想……那柄剑、那双翅膀——还有预言。尽管他在其中扮演的角色"
+"对所有人而言都模糊不清，尤其是对他自己，你猜想他一心想要弄清真相。在这一点上"
+"，你与大臣感同身受……你也尚未弄明白，自己在这场疯狂之中究竟扮演着怎样的角色。"
