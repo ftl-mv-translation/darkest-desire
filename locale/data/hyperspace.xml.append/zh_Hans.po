@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-08 03:23+0000\n"
+"PO-Revision-Date: 2026-03-08 11:35+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datahyperspace-xml-append/zh_Hans/>\n"
@@ -819,7 +819,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_b\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:9781
 msgid ""
@@ -883,7 +883,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_ad\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:10101
 msgid ""
@@ -983,6 +983,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_ag\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:10618
 msgid ""
@@ -1003,13 +1005,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:10640
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bd\"]/powerEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:10740
 msgid ""
@@ -1044,7 +1046,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_be\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:10907
 msgid ""
@@ -1079,7 +1081,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bf\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:11074
 msgid ""
@@ -1114,7 +1116,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bg\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:11241
 msgid ""
@@ -1127,6 +1129,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bg\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:11302
 msgid ""
@@ -1147,7 +1151,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cd\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:11409
 msgid ""
@@ -1247,6 +1251,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cg\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:11926
 msgid ""
@@ -1267,7 +1273,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_adj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:12033
 msgid ""
@@ -1345,7 +1351,7 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_agj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12398
 msgid ""
@@ -1367,432 +1373,520 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_agj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:12550
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12551
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/tooltip"
 msgstr ""
+"冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12557
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/spawnCrew[1]/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:12572
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bdj\"]/powerEffect/spawnCrew[2]/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:12672
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12673
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bdj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:12732
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12733
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12739
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bej\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:12839
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:12840
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:12899
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:12900
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:12906
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bfj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:13006
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13007
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bfj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:13066
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13067
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:13073
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_bgj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:13173
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:13174
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_bgj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:13234
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13235
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:13241
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cdj\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:13341
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cdj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:13342
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cdj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:13401
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13402
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:13493
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cej\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:13494
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cej\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:13553
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13554
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cfj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:13645
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cfj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:13646
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cfj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒  持续时间：不定]\n"
+"释放一道混沌能量弹，化为梦魇暗影。"
 
 #: src-en/data/hyperspace.xml.append:13705
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裂隙"
 
 #: src-en/data/hyperspace.xml.append:13706
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"enlightened_horror_cgj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒  持续时间：不定]\n"
+"撕裂时空，在敌舰上打开一道通往黑暗之神领域的裂隙。裂隙会周期性释放混沌能量弹"
+"，化为梦魇般的暗影；但一旦裂隙被摧毁，暗影也会随之迅速消散。"
 
 #: src-en/data/hyperspace.xml.append:13797
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cgj\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "能量弹"
 
 #: src-en/data/hyperspace.xml.append:13798
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddnightmare_rift_cgj\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒 持续时间：可变]\n"
+"释放一道混沌能量冲击，化为梦魇般的暗影形态。"
 
 #: src-en/data/hyperspace.xml.append:13872
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_terror\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "慑魂恐袭"
 
 #: src-en/data/hyperspace.xml.append:13873
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_terror\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：16秒]\n"
+"造成一次裂隙……何等恐怖……对他们而言……"
 
 #: src-en/data/hyperspace.xml.append:13968
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greaterpriest\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "凝视"
 
 #: src-en/data/hyperspace.xml.append:13969
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greaterpriest\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：20秒 持续时间：10秒]\n"
+"将黑暗之神的目光引向自身以及两艘船上的其他梦魇造物，为它们全体提供庇护：治疗"
+"速度提升50%，并获得战斗伤害抗性。"
 
 #: src-en/data/hyperspace.xml.append:14030
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_stalker\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "潜行猎踪"
 
 #: src-en/data/hyperspace.xml.append:14031
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_stalker\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：4秒 持续时间：7秒]\n"
+"不断在隐身与显形之间切换。"
 
 #: src-en/data/hyperspace.xml.append:14181
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermass\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "噩梦"
 
 #: src-en/data/hyperspace.xml.append:14231
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_martyr\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "引爆"
 
 #: src-en/data/hyperspace.xml.append:14232
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_martyr\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：1秒]\n"
+"抵达敌人时立即爆炸，造成15点伤害，眩晕4秒并造成1点系统伤害。无友军伤害。"
 
 #: src-en/data/hyperspace.xml.append:14281
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermartyr\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "引爆"
 
 #: src-en/data/hyperspace.xml.append:14282
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"nightmarish_greatermartyr\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：1秒]\n"
+"抵达敌人时立即爆炸，造成30点伤害，眩晕6秒，造成2点系统伤害，封锁房间，并有60%"
+"概率引发火灾。无友军伤害。"
 
 #: src-en/data/hyperspace.xml.append:14351
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "终焉之击"
 
 #: src-en/data/hyperspace.xml.append:14352
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：40秒 持续时间：13秒]\n"
+"充盈终焉之力，终焉铠甲突破极限并快速再生，同时进入近乎无敌、无法移动、无法被"
+"选中且无法行动的状态。与此同时，它召唤一场风暴漩涡，对所在房间（若位于敌舰）"
+"造成巨额离子伤害，并为同一艘舰船上的所有敌人施加终焉侵蚀效果，将其技能替换为"
+"一个会周期性对自身造成伤害、且召唤为你作战的风暴闪电的技能。"
 
 #: src-en/data/hyperspace.xml.append:14448
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "终焉之击"
 
 #: src-en/data/hyperspace.xml.append:14449
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddultimaarmor_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：60秒 持续时间：13秒]\n"
+"终焉铠甲充盈终焉之力，突破自身极限并急速再生，同时进入近乎无敌、无法移动、无"
+"法被锁定、无法行动的状态。与此同时，它召唤风暴漩涡，对所在房间（若处于敌舰）"
+"造成巨额离子伤害，并为同一艘敌舰上所有敌人施加终焉侵蚀，将其技能替换为一个会"
+"周期性对自身造成伤害、且召唤听命于你的风暴闪电的技能。"
 
 #: src-en/data/hyperspace.xml.append:14551
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "终焉死灭"
 
 #: src-en/data/hyperspace.xml.append:14552
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：4秒]\n"
+"该船员处于终焉侵蚀效果影响下。他们会周期性受到30点伤害，并为敌人召唤风暴闪电"
+"。"
 
 #: src-en/data/hyperspace.xml.append:14591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "穷追不舍"
 
 #: src-en/data/hyperspace.xml.append:14592
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：13秒]\n"
+"当终焉之力耗尽后，终焉铠甲将恢复为普通形态。"
 
 #: src-en/data/hyperspace.xml.append:14662
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "终焉死灭"
 
 #: src-en/data/hyperspace.xml.append:14663
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/passiveStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：4秒]\n"
+"该船员处于终焉侵蚀效果影响下。他们会周期性受到30点伤害，并为敌人召唤风暴闪电"
+"。"
 
 #: src-en/data/hyperspace.xml.append:14702
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "穷追不舍"
 
 #: src-en/data/hyperspace.xml.append:14703
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFULTIMA_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：13秒]\n"
+"当终焉之力耗尽后，终焉铠甲将恢复为普通形态。"
 
 #: src-en/data/hyperspace.xml.append:14759
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "风暴"
 
 #: src-en/data/hyperspace.xml.append:14760
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"释放一道能量风暴轰击敌方舰船，化为风暴闪电，对房间造成离子干扰，并有可能召唤"
+"小型风暴衍生物。"
 
 #: src-en/data/hyperspace.xml.append:14820
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "风暴"
 
 #: src-en/data/hyperspace.xml.append:14821
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_stormborn_spawn_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"释放一股能量风暴袭击敌方舰船，并化为风暴闪电，对房间造成离子干扰，且有概率召"
+"唤小型风暴造物。"
 
 #: src-en/data/hyperspace.xml.append:14892
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_thunder_blight\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "凋零"
 
 #: src-en/data/hyperspace.xml.append:14901
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_thunder_blight\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：20秒  持续时间：20秒]\n"
+"逐渐凋零并释放所吸收的能量，对房间造成离子干扰并召唤风暴龙卷。风暴龙卷会大幅"
+"降低敌人的移动速度，并使其受到所有来源的伤害翻倍。"
 
 #: src-en/data/hyperspace.xml.append:14981
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_living_lightning\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "鞭打"
 
 #: src-en/data/hyperspace.xml.append:14982
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_living_lightning\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：9秒]\n"
+"挥击抽打并电击房间内的敌人，造成伤害并短暂眩晕他们。"
 
 #: src-en/data/hyperspace.xml.append:15029
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_roiling_storm\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "残响体"
 
 #: src-en/data/hyperspace.xml.append:15030
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_roiling_storm\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：12秒 持续时间：20秒]\n"
+"增殖并生成一个躁动残躯，该单位虽然极为脆弱，但在被消灭时会造成离子伤害并眩晕"
+"敌人。效果持续20秒。"
 
 #: src-en/data/hyperspace.xml.append:15038
 msgid ""
@@ -1804,61 +1898,72 @@ msgstr "生成"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "永寂"
 
 #: src-en/data/hyperspace.xml.append:15135
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：25秒]\n"
+"召唤一只噬渊暗影，持续21秒，并在当前房间生成半永久的黑暗帷幕，该帷幕仅在跳跃"
+"时消散。房间内的敌方船员会获得“深渊溺毙”减益效果，友方的饥饿之影则获得转化为"
+"吞噬之影的能力。"
 
 #: src-en/data/hyperspace.xml.append:15146
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/hyperspace.xml.append:15214
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/roomStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "进化"
 
 #: src-en/data/hyperspace.xml.append:15215
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_chosen\"]/powerEffect/roomStatBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒]\n"
+"变身为吞噬暗影，使其变得大幅强化。"
 
 #: src-en/data/hyperspace.xml.append:15298
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddevouring_shadow\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "屈服"
 
 #: src-en/data/hyperspace.xml.append:15304
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddevouring_shadow\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：50秒]\n"
+"立即死亡，驱动其变形的黑暗力量彻底燃尽。"
 
 #: src-en/data/hyperspace.xml.append:16779
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂锁"
 
 #: src-en/data/hyperspace.xml.append:16780
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：16秒 持续时间：12秒]\n"
+"承受7点伤害，并降下两发灵魂瘟疫弹攻击敌方舰船，可能造成船体破损、施加“瘟疫缠"
+"身”效果，并封锁所有被命中的房间。"
 
 #: src-en/data/hyperspace.xml.append:17278
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂锁"
 
 #: src-en/data/hyperspace.xml.append:17279
 msgid ""
@@ -1870,343 +1975,417 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超魂"
 
 #: src-en/data/hyperspace.xml.append:17776
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：21秒  持续时间：可变]\n"
+"承受8点伤害并生成一个中继器，该中继器会释放超频指令，为两艘舰船上所有与灵魂瘟"
+"疫结盟的友方船员额外增加50%（默认值）的修复速度，以及0.77倍的伤害抗性乘数。"
 
 #: src-en/data/hyperspace.xml.append:17785
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "瘟疫中继器"
 
 #: src-en/data/hyperspace.xml.append:18285
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "超魂"
 
 #: src-en/data/hyperspace.xml.append:18286
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：21秒  持续时间：可变]\n"
+"承受8点伤害并生成一个中继器，释放超频指令，为两艘舰船上所有隶属于灵魂瘟疫阵营"
+"的友方船员额外提升50%（默认值）修复速度，并使其伤害抗性乘以0.77倍。"
 
 #: src-en/data/hyperspace.xml.append:18296
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_engi_enemy\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "瘟疫中继器"
 
 #: src-en/data/hyperspace.xml.append:18853
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂能"
 
 #: src-en/data/hyperspace.xml.append:18854
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：15秒 持续时间：20秒]\n"
+"承受10点伤害，并触发一个临时效果，使同一房间内所有灵魂瘟疫阵营的友方单位每次"
+"汲取时额外获得1点能量。"
 
 #: src-en/data/hyperspace.xml.append:19580
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂能"
 
 #: src-en/data/hyperspace.xml.append:19581
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_zoltan_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：15秒 持续时间：20秒]\n"
+"承受10点伤害，并触发一个临时效果，使同一房间内所有灵魂瘟疫阵营的友方单位每次"
+"汲取时额外获得1点能量。"
 
 #: src-en/data/hyperspace.xml.append:20306
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂之舱"
 
 #: src-en/data/hyperspace.xml.append:20307
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒]\n"
+"承受15点伤害，并在当前房间生成一个半永久的瘟疫缠身区域，该区域仅在跳跃时消散"
+"。"
 
 #: src-en/data/hyperspace.xml.append:21076
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂之舱"
 
 #: src-en/data/hyperspace.xml.append:21077
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_orchid_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒]\n"
+"承受15点伤害，并在当前房间生成一个半永久的瘟疫缠身区域，该区域仅在跃迁时消散"
+"。"
 
 #: src-en/data/hyperspace.xml.append:21844
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂怒"
 
 #: src-en/data/hyperspace.xml.append:21845
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：4秒]\n"
+"承受3点伤害，使同一房间内所有灵魂瘟疫阵营的友方单位永久半强化，伤害提升效果持"
+"续至下一次跳跃。需要房间内有敌人才能激活。"
 
 #: src-en/data/hyperspace.xml.append:22352
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂怒"
 
 #: src-en/data/hyperspace.xml.append:22353
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_mantis_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：4秒]\n"
+"承受3点伤害，使同一房间内所有灵魂瘟疫阵营的友方单位获得半永久强化，伤害提升效"
+"果持续至下一次跳跃。需要房间内存在敌人才能激活。"
 
 #: src-en/data/hyperspace.xml.append:22858
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂甲"
 
 #: src-en/data/hyperspace.xml.append:22859
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒 持续时间：24秒]\n"
+"承受15点伤害，获得临时效果：极大提升战斗伤害抗性，并可通过火焰恢复生命值。"
 
 #: src-en/data/hyperspace.xml.append:23559
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂甲"
 
 #: src-en/data/hyperspace.xml.append:23560
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_rockman_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：7秒 持续时间：24秒]\n"
+"承受15点伤害，获得临时效果：极大提升战斗伤害抗性，并可通过火焰恢复生命值。"
 
 #: src-en/data/hyperspace.xml.append:24259
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂咒"
 
 #: src-en/data/hyperspace.xml.append:24260
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：24秒 持续时间：14秒]\n"
+"承受12点伤害并触发临时效果：使同一房间内所有灵魂瘟疫阵营的友方单位技能冷却更"
+"快。此外，同一房间内的敌人会受到额外的战斗伤害。"
 
 #: src-en/data/hyperspace.xml.append:24979
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂咒"
 
 #: src-en/data/hyperspace.xml.append:24980
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_slug_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：24秒 持续时间：14秒]\n"
+"受到12点伤害，并触发一个临时效果：使同一房间内所有灵魂瘟疫阵营的友方单位技能"
+"冷却速度加快。同时，该房间内的敌人会受到额外的战斗伤害。"
 
 #: src-en/data/hyperspace.xml.append:25696
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂愈"
 
 #: src-en/data/hyperspace.xml.append:25697
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：9秒 持续时间：15秒]\n"
+"承受20点伤害，并触发临时效果：使自身及同一房间内所有灵魂瘟疫阵营的友方单位持"
+"续恢复生命值。"
 
 #: src-en/data/hyperspace.xml.append:26405
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂愈"
 
 #: src-en/data/hyperspace.xml.append:26406
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_shell_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：9秒 持续时间：15秒]\n"
+"承受20点伤害，并触发临时效果：使自身以及同一房间内所有灵魂瘟疫阵营的友方单位"
+"持续恢复生命值。"
 
 #: src-en/data/hyperspace.xml.append:27113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂锈"
 
 #: src-en/data/hyperspace.xml.append:27114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：14秒 持续时间：31秒]\n"
+"承受14点伤害并触发临时效果：使自身以及同一艘船上除星之子外的所有灵魂瘟疫阵营"
+"友方单位持续消耗氧气，同时对同一房间内的敌人造成持续伤害。"
 
 #: src-en/data/hyperspace.xml.append:27832
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂锈"
 
 #: src-en/data/hyperspace.xml.append:27833
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_lanius_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：14秒 持续时间：31秒]\n"
+"受到14点伤害，触发临时效果：自身与同一艘船上除“星之子”以外的所有灵魂瘟疫阵营"
+"友方单位持续消耗氧气，同时对同一房间内的敌人造成持续伤害。"
 
 #: src-en/data/hyperspace.xml.append:28550
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂啸"
 
 #: src-en/data/hyperspace.xml.append:28551
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：9秒 持续时间：18秒]\n"
+"承受17点伤害，并触发一个临时效果：使自身以及所有敌人（无论其位置如何）的移动"
+"、维修和破坏速度大幅降低。"
 
 #: src-en/data/hyperspace.xml.append:29282
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂啸"
 
 #: src-en/data/hyperspace.xml.append:29283
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_deepone_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：9秒 持续时间：18秒]\n"
+"承受17点伤害，并触发临时效果：使自身以及所有敌人，无论其位置如何，移动、维修"
+"和破坏速度都大幅减慢。"
 
 #: src-en/data/hyperspace.xml.append:30018
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂击"
 
 #: src-en/data/hyperspace.xml.append:30019
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：6秒]\n"
+"承受7点伤害，在敌方飞船上释放一道光束，对命中的房间施加“瘟疫缠身”效果，并有较"
+"低概率生成一个随机“躯壳”。生命值满时无法使用。"
 
 #: src-en/data/hyperspace.xml.append:30518
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂击"
 
 #: src-en/data/hyperspace.xml.append:30519
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_ghost_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：6秒]\n"
+"承受7点伤害，在敌方飞船上释放一道光束，对被击中的房间施加“瘟疫缠身”效果，并有"
+"较低概率生成一个随机“躯壳”。生命值满时无法使用。"
 
 #: src-en/data/hyperspace.xml.append:31024
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂晕"
 
 #: src-en/data/hyperspace.xml.append:31025
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：4秒]\n"
+"承受4点伤害，并短暂眩晕房间内所有单位。当房间内有敌人时会自动施放。"
 
 #: src-en/data/hyperspace.xml.append:31531
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂晕"
 
 #: src-en/data/hyperspace.xml.append:31532
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_leech_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：4秒]\n"
+"承受4点伤害，并短暂眩晕房间内所有单位。当房间内有敌人时会自动施放。"
 
 #: src-en/data/hyperspace.xml.append:32030
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂风暴"
 
 #: src-en/data/hyperspace.xml.append:32031
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒]\n"
+"承受1点伤害，召唤三道光束生成随机躯壳。无法生成其他方尖碑躯壳。"
 
 #: src-en/data/hyperspace.xml.append:32530
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂风暴"
 
 #: src-en/data/hyperspace.xml.append:32531
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_obelisk_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒]\n"
+"受到1点伤害，召唤三道光束生成随机躯壳，无法生成其他方尖碑躯壳。"
 
 #: src-en/data/hyperspace.xml.append:32561
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂祷"
 
 #: src-en/data/hyperspace.xml.append:32562
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：5秒 持续时间：21秒 消耗生命值：40]\n"
+"在敌方飞船上召唤一道光束，生成一个随机的灵魂瘟疫躯壳。缓慢恢复42点生命值。"
 
 #: src-en/data/hyperspace.xml.append:32597
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂祷"
 
 #: src-en/data/hyperspace.xml.append:32598
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_shellcultist_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：5秒 持续时间：21秒 生命值-40]\n"
+"在敌方舰船降下一道光束，召唤一个随机的灵魂瘟疫躯壳，并缓慢回复42点生命值。"
 
 #: src-en/data/hyperspace.xml.append:33113
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂织"
 
 #: src-en/data/hyperspace.xml.append:33114
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：12秒 持续时间：12秒]\n"
+"触发临时效果：使所有灵魂瘟疫阵营的友方单位总计受到12点持续伤害，同时对所有敌"
+"人施加瘟疫感染效果，无论其位置如何。技能生效期间无法移动、治疗或进行任何其他"
+"操作。"
 
 #: src-en/data/hyperspace.xml.append:33871
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂织"
 
 #: src-en/data/hyperspace.xml.append:33872
 msgid ""
@@ -2476,61 +2655,71 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_default\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:39818
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_default\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:39880
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_speed\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:39881
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_speed\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:39943
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_attack\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:39944
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_attack\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:40027
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_defense\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:40028
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_defense\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:40111
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_hazard\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:40112
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_hazard\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:40211
 msgid ""
@@ -2752,139 +2941,158 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFANTUMBRA\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "穷追不舍"
 
 #: src-en/data/hyperspace.xml.append:42277
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddPOWEROFANTUMBRA\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：22秒]\n"
+"当其冥影之力耗尽后，监管者将恢复为普通形态。"
 
 #: src-en/data/hyperspace.xml.append:42574
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_clusterular\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "光裔"
 
 #: src-en/data/hyperspace.xml.append:42590
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_clusterular\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "屈服"
 
 #: src-en/data/hyperspace.xml.append:42591
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_clusterular\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：1秒]\n"
+"立即死亡，分裂为四个光裔族细胞体。"
 
 #: src-en/data/hyperspace.xml.append:42688
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_tormentular\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "折磨"
 
 #: src-en/data/hyperspace.xml.append:42689
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_tormentular\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "对同一房间内的敌人造成短暂的微眩晕效果。"
 
 #: src-en/data/hyperspace.xml.append:42728
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_warlockular\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "光耀之舞"
 
 #: src-en/data/hyperspace.xml.append:42729
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_warlockular\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：9秒]\n"
+"造成1点船体伤害、3点系统伤害、45点船员伤害，并施加3秒眩晕效果，100%概率造成船"
+"体破损。"
 
 #: src-en/data/hyperspace.xml.append:42763
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_timelux\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "时间之光"
 
 #: src-en/data/hyperspace.xml.append:42764
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_timelux\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：4秒]\n"
+"同一房间内的敌人会被暂时冻结在原地，无法行动。"
 
 #: src-en/data/hyperspace.xml.append:42904
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_devourlux\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "噬光"
 
 #: src-en/data/hyperspace.xml.append:42905
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_devourlux\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "吞噬其他光裔族单位来治疗自身，并随时间逐渐获得半永久性的力量提升。"
 
 #: src-en/data/hyperspace.xml.append:42980
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[1]/powerEffect/buttonText"
-msgstr ""
+msgstr "指令"
 
 #: src-en/data/hyperspace.xml.append:42981
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[1]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒]\n"
+"该光裔族单位受到指令之光的激励，会周期性地引燃火焰。"
 
 #: src-en/data/hyperspace.xml.append:43008
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[2]/powerEffect/buttonText"
-msgstr ""
+msgstr "指令"
 
 #: src-en/data/hyperspace.xml.append:43009
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒]\n"
+"该光裔族单位受到指令之光的激励，会周期性对附近敌人造成伤害。"
 
 #: src-en/data/hyperspace.xml.append:43035
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr ""
+msgstr "指令"
 
 #: src-en/data/hyperspace.xml.append:43036
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒]\n"
+"该光裔族单位受到指令之光的激励，会周期性地使房间受到光辉亵渎效果。"
 
 #: src-en/data/hyperspace.xml.append:43159
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "指令"
 
 #: src-en/data/hyperspace.xml.append:43160
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒]\n"
+"该光裔族单位受到指令之光的激励，会周期性破坏敌方系统。"
 
 #: src-en/data/hyperspace.xml.append:43187
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "指令"
 
 #: src-en/data/hyperspace.xml.append:43188
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddlightborne_commandlux\"]/passiveStatBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"[冷却：6秒]\n"
+"该光裔族单位受到指令之光的激励，会周期性治疗友方单位。"
 
 #: src-en/data/hyperspace.xml.append:43433
 msgid ""
@@ -2896,25 +3104,31 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_shatter\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:43456
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_shatter\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：3秒 持续时间：15秒]\n"
+"使祭塑者的被动技能“不稳之魂/枯竭之魂”光环效果翻倍，并将同一房间内的不稳之魂重"
+"塑为破碎之魂。允许操控所有友方饥饿之影。\n"
+"技能激活期间，祭塑者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:43480
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_shatter\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:43481
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_shatter\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:43947
 msgid ""
@@ -2945,6 +3159,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_plague\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:44461
 msgid ""
@@ -2975,6 +3191,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:44975
 msgid ""
@@ -3005,6 +3223,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cloud\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:45489
 msgid ""
@@ -3035,6 +3255,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_judge\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:46003
 msgid ""
@@ -3065,6 +3287,8 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cage\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：2秒]\n"
+"该不稳之魂正在被祭塑者塑形。"
 
 #: src-en/data/hyperspace.xml.append:46350
 msgid ""
@@ -3076,13 +3300,14 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_shatter\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "碎裂"
 
 #: src-en/data/hyperspace.xml.append:46370
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_shatter\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "释放其储存的不稳定能量，引发爆炸，造成1点系统伤害，眩晕敌人3秒并产生破口。变"
+"为枯竭之魂，在进行超光速跳跃前失去所有能力。"
 
 #: src-en/data/hyperspace.xml.append:46439
 msgid ""
@@ -3094,13 +3319,16 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cage\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "囚笼"
 
 #: src-en/data/hyperspace.xml.append:46460
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cage\"]/powerEffect/tooltip"
 msgstr ""
+"释放其储存的不稳定能量，引发爆炸，施加暗影水晶禁锢效果并眩晕敌人14秒。变为枯"
+"竭之魂，在进行超光速跳跃前失去所有能力。\n"
+"暗影水晶禁锢的持续时间远长于其他禁锢效果，但同时较为脆弱，容易被打破。"
 
 #: src-en/data/hyperspace.xml.append:46539
 msgid ""
@@ -3112,13 +3340,16 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cloud\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "云雾"
 
 #: src-en/data/hyperspace.xml.append:46564
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_cloud\"]/powerEffect/tooltip"
 msgstr ""
+"释放其储存的不稳定能量，引发爆炸，造成1点离子伤害，眩晕敌人3秒并召唤风暴龙卷"
+"。变为枯竭之魂，在进行超光速跳跃前失去所有能力。\n"
+"风暴龙卷会大幅降低敌人的移动速度，并使其受到所有来源的伤害翻倍，持续20秒。"
 
 #: src-en/data/hyperspace.xml.append:46661
 msgid ""
@@ -3130,13 +3361,17 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_judge\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "审判"
 
 #: src-en/data/hyperspace.xml.append:46681
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_judge\"]/powerEffect/tooltip"
 msgstr ""
+"释放其储存的不稳定能量，引发爆炸，为当前房间施加一层神圣审判效果，眩晕敌人3秒"
+"，并有较高概率引发火焰。变为枯竭之魂，在进行超光速跳跃前失去所有能力。\n"
+"神圣审判会移除敌方/友方的火焰抗性，使敌人承受巨额火焰伤害，并让友方可以从火焰"
+"中恢复生命值。叠加层数可强化这些效果，每层持续21秒。"
 
 #: src-en/data/hyperspace.xml.append:46798
 msgid ""
@@ -3148,19 +3383,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_plague\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "瘟疫"
 
 #: src-en/data/hyperspace.xml.append:46818
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_plague\"]/powerEffect/tooltip"
 msgstr ""
+"释放其储存的不稳定能量，引发爆炸，使当前房间沾染瘟疫缠身效果，眩晕敌人3秒，并"
+"生成一道灵魂瘟疫潮。变为枯竭之魂，在进行超光速跳跃前失去所有能力。\n"
+"瘟疫缠身会持续对敌人造成伤害，降低其修复速度，并使其感染灵魂瘟疫。被感染期间"
+"死亡的敌人会在敌方舰船上复活，成为友方的灵魂瘟疫躯壳，持续12秒。"
 
 #: src-en/data/hyperspace.xml.append:47083
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_plague\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "潮水"
 
 #: src-en/data/hyperspace.xml.append:47156
 msgid ""
@@ -3172,13 +3411,18 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_dark\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "幽暗"
 
 #: src-en/data/hyperspace.xml.append:47177
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunstable_soul_dark\"]/powerEffect/tooltip"
 msgstr ""
+"释放其储存的不稳定能量，引发爆炸，在当前房间施加一个短暂的梦魇光环，眩晕敌人3"
+"秒，并在敌方舰船上生成一道随机混沌冲击。变为枯竭之魂，在进行超光速跳跃前失去"
+"所有能力。\n"
+"该梦魇光环会使所有船员（无论阵营）受到的战斗伤害变为3倍，同时以每秒5点生命值"
+"的速度治疗他们，持续3秒。"
 
 #: src-en/data/hyperspace.xml.append:47260
 msgid ""
@@ -3189,18 +3433,18 @@ msgstr "粉碎星域"
 #: src-en/data/hyperspace.xml.append:47289
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"DDSPENTSOUL_TRANSFORM\"]/buttonText"
-msgstr ""
+msgstr "活化"
 
 #: src-en/data/hyperspace.xml.append:47290
 msgid ""
 "data/hyperspace.xml.append$//powerEffect[@name=\"DDSPENTSOUL_TRANSFORM\"]/tooltip"
-msgstr ""
+msgstr "重新恢复能量，变为一个随机的不稳之魂。"
 
 #: src-en/data/hyperspace.xml.append:47376
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47395
 msgid ""
@@ -3284,13 +3528,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47706
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "成长"
 
 #: src-en/data/hyperspace.xml.append:47707
 msgid ""
@@ -3302,13 +3546,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47757
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "成长"
 
 #: src-en/data/hyperspace.xml.append:47758
 msgid ""
@@ -3320,13 +3564,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47808
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "成长"
 
 #: src-en/data/hyperspace.xml.append:47809
 msgid ""
@@ -3338,13 +3582,13 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47859
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "成长"
 
 #: src-en/data/hyperspace.xml.append:47860
 msgid ""
@@ -3356,31 +3600,33 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/deathEffect/spawnCrew/name"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47911
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "成长"
 
 #: src-en/data/hyperspace.xml.append:47912
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "代谢吸收自超光速跳跃的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47942
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_crystalline\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "执掌"
 
 #: src-en/data/hyperspace.xml.append:47943
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_administrator_crystalline\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：8秒 持续时间：32秒]\n"
+"开始发出超频指令，在此过程中透支自身性能。"
 
 #: src-en/data/hyperspace.xml.append:48057
 msgid ""
