@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-08 11:35+0000\n"
+"PO-Revision-Date: 2026-03-09 03:49+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/datahyperspace-xml-append/zh_Hans/>\n"
@@ -1970,6 +1970,9 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_husk_crystal_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：16秒 持续时间：12秒]\n"
+"承受7点伤害，召唤两发灵魂瘟疫弹攻击敌方舰船，对命中的房间施加瘟疫感染效果并封"
+"锁该房间。"
 
 #: src-en/data/hyperspace.xml.append:17775
 msgid ""
@@ -2392,264 +2395,322 @@ msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_huskweaver_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：12秒 持续时间：12秒]\n"
+"触发临时效果：所有与灵魂瘟疫结盟的友军总计受到12点持续伤害，同时无论敌人身在"
+"何处，都会被施加瘟疫感染效果。技能生效期间无法移动、治疗或进行任何操作。"
 
 #: src-en/data/hyperspace.xml.append:34615
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂殁"
 
 #: src-en/data/hyperspace.xml.append:34616
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：300秒]\n"
+"立即死亡，因其被灵魂瘟疫感染的躯体变得不稳定。"
 
 #: src-en/data/hyperspace.xml.append:35115
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂殁"
 
 #: src-en/data/hyperspace.xml.append:35116
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddsoulplague_corruptor_tide_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：300秒]\n"
+"因被灵魂瘟疫感染的身躯变得不稳定，会立即死亡。"
 
 #: src-en/data/hyperspace.xml.append:35604
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂心"
 
 #: src-en/data/hyperspace.xml.append:35605
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：40秒  持续时间：7秒  生命值-90]\n"
+"承受90点伤害并触发临时效果，覆盖友方星之子的技能，使其能以自身巨大代价快速召"
+"唤灵魂瘟疫躯壳。技能生效期间移动速度极慢。"
 
 #: src-en/data/hyperspace.xml.append:35826
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂涌"
 
 #: src-en/data/hyperspace.xml.append:35827
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：3秒  生命值-30]\n"
+"愚者通过这名星之子引导其力量，向敌方舰船降下光束，召唤灵魂瘟疫躯壳。"
 
 #: src-en/data/hyperspace.xml.append:36334
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂心"
 
 #: src-en/data/hyperspace.xml.append:36335
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：40秒  持续时间：7秒  生命值-90]\n"
+"承受90点伤害并触发临时效果，覆盖友方星之子的技能，使其能以自身巨大代价快速召"
+"唤灵魂瘟疫躯壳。技能生效期间移动速度极慢。"
 
 #: src-en/data/hyperspace.xml.append:36557
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "魂涌"
 
 #: src-en/data/hyperspace.xml.append:36558
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theaberration_enemy\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却：3秒 -30点生命值]\n"
+"愚者通过这名星之子引导力量，向敌方舰船降下光束，召唤灵魂瘟疫躯壳。"
 
 #: src-en/data/hyperspace.xml.append:36814
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "迷雾"
 
 #: src-en/data/hyperspace.xml.append:36815
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
 
 #: src-en/data/hyperspace.xml.append:37118
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_cinderbark\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "烬雾"
 
 #: src-en/data/hyperspace.xml.append:37119
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_cinderbark\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会生成火焰并剥夺敌人的火焰抗性，同时使其承受巨额火焰伤害。"
 
 #: src-en/data/hyperspace.xml.append:37447
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_frostwood\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "霜雾"
 
 #: src-en/data/hyperspace.xml.append:37448
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_frostwood\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会封锁房间，并大幅降低敌人的移动速度。"
 
 #: src-en/data/hyperspace.xml.append:37763
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_ironbound\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "铁雾"
 
 #: src-en/data/hyperspace.xml.append:37764
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_ironbound\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会造成破缺，并让伊尔德里克雕像以极快的速度消耗氧气。"
 
 #: src-en/data/hyperspace.xml.append:38099
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_leafhost\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "叶雾"
 
 #: src-en/data/hyperspace.xml.append:38100
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_leafhost\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会治疗友方单位，并将伊尔德里克雕像的治疗速度翻倍。"
 
 #: src-en/data/hyperspace.xml.append:38451
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_toxblood\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "毒雾"
 
 #: src-en/data/hyperspace.xml.append:38452
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_toxblood\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会大幅削弱房间内的敌人，将其最大生命值减半。"
 
 #: src-en/data/hyperspace.xml.append:38793
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_voidroot\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "暗雾"
 
 #: src-en/data/hyperspace.xml.append:38794
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_voidroot\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无论是否有敌人在场都能自由行动。"
+"此外会为敌人施加深渊溺毙减益效果，并召唤两只饥饿暗影。"
 
 #: src-en/data/hyperspace.xml.append:38801
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_voidroot\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/hyperspace.xml.append:39039
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theminister\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "风暴使者"
 
 #: src-en/data/hyperspace.xml.append:39040
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theminister\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：20秒]\n"
+"生成数道活化闪电，它们是强力的玻璃大炮，能够眩晕并攻击敌人，除此之外无其他能"
+"力。"
 
 #: src-en/data/hyperspace.xml.append:39089
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theheroine\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/hyperspace.xml.append:39090
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theheroine\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：35秒]\n"
+"呼唤其灵魂深处不可名状的力量之源，在敌方舰船上显现自身的分身。该分身会随机体"
+"现女杰的七种特质之一，并据此拥有特殊效果。"
 
 #: src-en/data/hyperspace.xml.append:39124
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theheroine_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "显现"
 
 #: src-en/data/hyperspace.xml.append:39125
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theheroine_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：35秒]\n"
+"呼唤其灵魂深处不可名状的力量之源，在敌方舰船上显现自身的分身。该分身会随机体"
+"现女杰的七种特质之一，并据此拥有特殊效果。"
 
 #: src-en/data/hyperspace.xml.append:39287
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddmanifestationofintegrity\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "坚毅"
 
 #: src-en/data/hyperspace.xml.append:39288
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddmanifestationofintegrity\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：2秒]\n"
+"攻击敌方舰船的结构完整性，释放一连串光束，造成系统伤害，并可能引发破舱/起火。"
 
 #: src-en/data/hyperspace.xml.append:39331
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddmanifestationofintegrity_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "坚毅"
 
 #: src-en/data/hyperspace.xml.append:39332
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddmanifestationofintegrity_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：2秒]\n"
+"攻击敌方舰船的结构完整性，释放一连串光束，造成系统伤害，并可能引发破舱/起火。"
 
 #: src-en/data/hyperspace.xml.append:39604
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddeclipticextinctioncrew\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "灭绝协议"
 
 #: src-en/data/hyperspace.xml.append:39605
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddeclipticextinctioncrew\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒]\n"
+"直接摧毁敌方舰船。"
 
 #: src-en/data/hyperspace.xml.append:39650
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_shell\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裁决"
 
 #: src-en/data/hyperspace.xml.append:39651
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_shell\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：21秒]\n"
+"驾驭自身光芒释放神圣气体，承受伤害，并为当前房间叠加一层圣神裁决，低概率引发"
+"火灾。"
 
 #: src-en/data/hyperspace.xml.append:39735
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_shell_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "裁决"
 
 #: src-en/data/hyperspace.xml.append:39736
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddseraph_shell_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：5秒 持续时间：21秒]\n"
+"驾驭其光芒释放神圣气体，自身承受伤害，并为当前房间施加一层圣神裁决效果，极低"
+"概率引发火灾。"
 
 #: src-en/data/hyperspace.xml.append:39817
 msgid ""
@@ -2725,217 +2786,236 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_spawn_warden\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "祈祷"
 
 #: src-en/data/hyperspace.xml.append:40212
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_spawn_warden\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：10秒 持续时间：可变]\n"
+"进入冥想般的祈祷状态，期间无法移动或行动，但会提升所有风暴阵营友方单位的技能"
+"恢复速度。"
 
 #: src-en/data/hyperspace.xml.append:40280
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_spawn_warden_praying\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "觉醒"
 
 #: src-en/data/hyperspace.xml.append:40281
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_spawn_warden_praying\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：6秒 持续时间：可变]\n"
+"从冥想状态中苏醒，结束祈祷，但重新恢复移动能力。"
 
 #: src-en/data/hyperspace.xml.append:40472
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddark_obelisk\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "引导"
 
 #: src-en/data/hyperspace.xml.append:40473
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddark_obelisk\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：8秒 持续时间：3秒]\n"
+"作为黑暗之神扭曲能量的传导媒介，释放一道随机混沌冲击，并在当前房间生成一个治"
+"疗/易伤光环。"
 
 #: src-en/data/hyperspace.xml.append:40607
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddark_obelisk_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "引导"
 
 #: src-en/data/hyperspace.xml.append:40608
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddark_obelisk_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：8秒 持续时间：3秒]\n"
+"作为黑暗之神扭曲能量的传导媒介，释放一道随机混沌冲击，并在当前房间生成一个治"
+"疗/易伤光环。"
 
 #: src-en/data/hyperspace.xml.append:40702
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_abyss\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "深渊"
 
 #: src-en/data/hyperspace.xml.append:40703
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:40774
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_abyss\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "深渊"
 
 #: src-en/data/hyperspace.xml.append:40775
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:40846
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_abyss\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "深渊"
 
 #: src-en/data/hyperspace.xml.append:40847
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_abyss\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:40917
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_stars\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "星辰"
 
 #: src-en/data/hyperspace.xml.append:40918
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41010
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_stars\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "星辰"
 
 #: src-en/data/hyperspace.xml.append:41011
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41103
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_stars\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "星辰"
 
 #: src-en/data/hyperspace.xml.append:41104
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_stars\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41195
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_mire\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "沼泽"
 
 #: src-en/data/hyperspace.xml.append:41196
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41288
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_mire\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "沼泽"
 
 #: src-en/data/hyperspace.xml.append:41289
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41381
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_mire\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "沼泽"
 
 #: src-en/data/hyperspace.xml.append:41382
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_mire\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41472
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_dawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "黎明"
 
 #: src-en/data/hyperspace.xml.append:41473
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierone_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41575
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_dawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "黎明"
 
 #: src-en/data/hyperspace.xml.append:41576
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tiertwo_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41678
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_dawn\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "黎明"
 
 #: src-en/data/hyperspace.xml.append:41679
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddenlightened_darktemplar_tierthree_dawn\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "此技能会在战斗中自动激活。"
 
 #: src-en/data/hyperspace.xml.append:41772
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_caretaker\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "迷雾"
 
 #: src-en/data/hyperspace.xml.append:41773
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_caretaker\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：6秒]\n"
+"用神秘迷雾笼罩房间，使友方伊尔德里克雕像无视敌人是否存在，自由行动。"
 
 #: src-en/data/hyperspace.xml.append:41972
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theoverseer\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "冥影"
 
 #: src-en/data/hyperspace.xml.append:41973
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddunique_theoverseer\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：30秒 持续时间：22秒]\n"
+"冥影之力充盈全身，监管者突破自身极限，快速恢复生命，同时近乎无敌、无法移动、"
+"无法被选中、无法行动。与此同时，同一艘舰船上的所有友方光裔族，在增益效果判定"
+"上均算作饥饿暗影，可享受与其他饥饿暗影之间的相互加成；为当前房间施加“辉光亵渎"
+"”效果；召唤数道光明与黑暗无人机；并将自身4层饥饿暗影被动效果扩散给同一舰船上"
+"的所有饥饿暗影。"
 
 #: src-en/data/hyperspace.xml.append:42276
 msgid ""
@@ -3140,19 +3220,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_plague\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:43970
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_plague\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：15秒]\n"
+"使贡物塑造者的被动技能“不稳定/枯竭灵魂光环”效果翻倍，并将当前房间内的不稳定灵"
+"魂重塑为瘟疫灵魂。可操控所有友方饥饿暗影。\n"
+"技能激活期间，贡物塑造者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:43994
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_plague\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:43995
 msgid ""
@@ -3172,19 +3256,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:44484
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：15秒]\n"
+"使贡物塑造者的被动技能“不稳定/枯竭灵魂光环”效果翻倍，并将同一房间内的不稳定灵"
+"魂重塑为黯化灵魂。可操控所有友方饥饿暗影。\n"
+"技能激活期间，贡物塑造者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:44508
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_dark\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:44509
 msgid ""
@@ -3204,19 +3292,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cloud\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:44998
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cloud\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：15秒]\n"
+"使贡物塑造者的被动技能“不稳定/枯竭灵魂光环”效果翻倍，并将同一房间内的不稳定灵"
+"魂重塑为迷云灵魂。可操控所有友方饥饿暗影。\n"
+"技能激活期间，贡物塑造者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:45022
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cloud\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:45023
 msgid ""
@@ -3236,19 +3328,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_judge\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:45512
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_judge\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：15秒]\n"
+"使贡物塑造者的被动技能“不稳定/枯竭灵魂光环”效果翻倍，并将同一房间内的不稳定灵"
+"魂重塑为审判灵魂。可操控所有友方饥饿暗影。\n"
+"技能激活期间，贡物塑造者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:45536
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_judge\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:45537
 msgid ""
@@ -3268,19 +3364,23 @@ msgstr "粉碎星域"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cage\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:46026
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cage\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：3秒 持续时间：15秒]\n"
+"使贡物塑造者的被动技能“不稳定/枯竭灵魂光环”效果翻倍，并将同一房间内的不稳定灵"
+"魂重塑为禁锢灵魂。可操控所有友方饥饿暗影。\n"
+"技能激活期间，贡物塑造者会以每秒2点生命值的速度受到伤害，且移动速度降低。"
 
 #: src-en/data/hyperspace.xml.append:46050
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddeepone_tributeshaper_cage\"]/powerEffect/temporaryEffect/statBoosts/statBoost[@name=\"powerEffect\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "塑形"
 
 #: src-en/data/hyperspace.xml.append:46051
 msgid ""
@@ -3450,79 +3550,89 @@ msgstr "守卫"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "枯萎"
 
 #: src-en/data/hyperspace.xml.append:47396
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[1]/tooltip"
 msgstr ""
+"[冷却时间：20秒]\n"
+"召唤一场风暴龙卷，并发射一道能量弹攻击敌方舰船，化为风暴闪电，对房间进行离子"
+"化，并有可能召唤出小型风暴衍生物。"
 
 #: src-en/data/hyperspace.xml.append:47443
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "绽放"
 
 #: src-en/data/hyperspace.xml.append:47444
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/tooltip"
-msgstr ""
+msgstr "代谢从超光速跳跃中吸收的残余能量并绽放，生成一株外衍体。外衍体可让凋零守卫不"
+"断变强，并扩大其影响范围。"
 
 #: src-en/data/hyperspace.xml.append:47449
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_mature\"]/powerEffect[2]/spawnCrew/name"
-msgstr ""
+msgstr "外衍体"
 
 #: src-en/data/hyperspace.xml.append:47569
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "守卫"
 
 #: src-en/data/hyperspace.xml.append:47570
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[1]/tooltip"
 msgstr ""
+"[冷却时间：8秒]\n"
+"自动对房间内所有敌人造成1秒的微型眩晕。"
 
 #: src-en/data/hyperspace.xml.append:47584
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "灭杀"
 
 #: src-en/data/hyperspace.xml.append:47585
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_outgrowth\"]/powerEffect[2]/tooltip"
-msgstr ""
+msgstr "凋零守卫向该外衍体发送信号，使其在细胞层面瓦解，瞬间将其消灭。"
 
 #: src-en/data/hyperspace.xml.append:47617
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "掘地"
 
 #: src-en/data/hyperspace.xml.append:47618
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed\"]/powerEffect/tooltip"
 msgstr ""
+"将自身植入地面，开始一段需要数次跃迁才能完成的成长过程，最终成熟为完全体的凋"
+"零守卫。\n"
+"一旦扎根，凋零守卫将永远固定在此位置。之后唯一改变其位置的方法是让它死亡，再"
+"重新生成一个幼体。"
 
 #: src-en/data/hyperspace.xml.append:47656
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed_outgrowthing\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "掘地"
 
 #: src-en/data/hyperspace.xml.append:47657
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_seed_outgrowthing\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "将自身植入地面，变为一个外衍体。"
 
 #: src-en/data/hyperspace.xml.append:47689
 msgid ""
@@ -3540,7 +3650,7 @@ msgstr "成长"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted1\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "代谢吸收自超光速跃迁的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47740
 msgid ""
@@ -3558,7 +3668,7 @@ msgstr "成长"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted2\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "代谢吸收自超光速跃迁的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47791
 msgid ""
@@ -3576,7 +3686,7 @@ msgstr "成长"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted3\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "代谢吸收自超光速跃迁的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47842
 msgid ""
@@ -3594,7 +3704,7 @@ msgstr "成长"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted4\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "代谢吸收自超光速跃迁的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47894
 msgid ""
@@ -3612,7 +3722,7 @@ msgstr "成长"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddtempest_blight_guardian_planted5\"]/powerEffect/tooltip"
-msgstr "代谢吸收自超光速跳跃的残余能量，获得成长，逐步迈向完全成熟阶段。"
+msgstr "代谢吸收自超光速跃迁的残余能量，获得成长，逐步迈向完全成熟阶段。"
 
 #: src-en/data/hyperspace.xml.append:47942
 msgid ""
@@ -3632,67 +3742,74 @@ msgstr ""
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_broodmother_crystalline\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "蛰伏"
 
 #: src-en/data/hyperspace.xml.append:48058
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_broodmother_crystalline\"]/powerEffect/tooltip"
-msgstr ""
+msgstr "自动：生成一个饥饿暗影，并触发暗影水晶封锁。"
 
 #: src-en/data/hyperspace.xml.append:48075
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_broodmother_crystalline\"]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "噬渊暗影"
 
 #: src-en/data/hyperspace.xml.append:48115
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[1]/buttonText"
-msgstr ""
+msgstr "解放"
 
 #: src-en/data/hyperspace.xml.append:48116
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[1]/tooltip"
-msgstr ""
+msgstr "自由虽难以寻觅，却依旧触手可及。紧握它，绝不放手。"
 
 #: src-en/data/hyperspace.xml.append:48137
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[2]/buttonText"
-msgstr ""
+msgstr "禁锢"
 
 #: src-en/data/hyperspace.xml.append:48138
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"dddisparity_liberator_crystalline\"]/powerEffect[2]/tooltip"
-msgstr ""
+msgstr "救赎只属于那些当之无愧之人——少数绝境之中、证明自己有勇气踏上那条遍体鳞伤、鲜"
+"血浸染之路的求索者。"
 
 #: src-en/data/hyperspace.xml.append:48581
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "灵魂迷雾"
 
 #: src-en/data/hyperspace.xml.append:48582
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用一片神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无视敌人是否存在而自由行动。"
+"同时对该房间施加一个持续时间同样短暂的瘟疫感染效果。"
 
 #: src-en/data/hyperspace.xml.append:49336
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerEffect/buttonText"
-msgstr ""
+msgstr "灵魂迷雾"
 
 #: src-en/data/hyperspace.xml.append:49337
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:race[@name=\"ddilldrythk_statue_soulshell_enemy\"]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：19秒 持续时间：3秒]\n"
+"用一片神秘迷雾短暂笼罩房间，使友方伊尔德里克雕像无视敌人是否存在而自由行动。"
+"同时对该房间施加一个持续时间同样短暂的瘟疫感染效果。"
 
 #: src-en/data/hyperspace.xml.append:49668
 msgid ""
@@ -3710,211 +3827,211 @@ msgstr "水晶解放者"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDSERAPH_ARBITERTOG_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "仲裁者"
 
 #: src-en/data/hyperspace.xml.append:49680
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDSERAPH_ARBITERTOG_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "仲裁者"
 
 #: src-en/data/hyperspace.xml.append:49684
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DISPARITY_BROODMOTHERTOG_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "母巢之主"
 
 #: src-en/data/hyperspace.xml.append:49688
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DISPARITY_BROODMOTHERTOG_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "母巢之主"
 
 #: src-en/data/hyperspace.xml.append:49692
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_ADMINISTRATOR_DEFAULT\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49696
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_ADMINISTRATOR_SPEED\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49700
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_ADMINISTRATOR_ATTACK\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49704
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_ADMINISTRATOR_DEFENSE\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49708
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_ADMINISTRATOR_HAZARD\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49712
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_UNSEEN_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49716
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_UNSEEN_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49720
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49724
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49728
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49732
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49736
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49740
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_ABYSS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49744
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49748
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49752
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49756
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49760
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49764
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_STARS_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49768
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49772
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49776
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49780
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49784
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49788
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_MIRE_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49792
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49796
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49800
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49804
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49808
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49812
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDENLIGHTENED_DARKTEMPLAR_TIERTHREE_DAWN_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "圣殿武士"
 
 #: src-en/data/hyperspace.xml.append:49816
 msgid ""
@@ -3932,19 +4049,19 @@ msgstr "水晶解放者"
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_CRYSTALLINEBROODMOTHERTOG_DEFEND\"]/tooltipName"
-msgstr ""
+msgstr "母巢之主"
 
 #: src-en/data/hyperspace.xml.append:49828
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_CRYSTALLINEBROODMOTHERTOG_BOARDER\"]/tooltipName"
-msgstr ""
+msgstr "母巢之主"
 
 #: src-en/data/hyperspace.xml.append:49832
 msgid ""
 "data/hyperspace.xml.append$//mod-"
 "append:drone[@name=\"DDDISPARITY_CRYSTALLINEADMINISTRATOR\"]/tooltipName"
-msgstr ""
+msgstr "管理员"
 
 #: src-en/data/hyperspace.xml.append:49871
 msgid ""
@@ -4069,152 +4186,182 @@ msgstr "辅助系统"
 #: src-en/data/hyperspace.xml.append:51142
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51143
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1 秒 持续时间：可变 下一形态：速度]\n"
+"承受 8 点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘"
+"飞船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51151
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[2]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:51185
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51186
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：攻击]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51194
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[3]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:51229
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51230
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：防御]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51238
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[4]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:51272
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51273
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：危险]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51281
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[5]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:51315
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51316
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：默认]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51324
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_CRYSTAL_OF_RAINBOWS\"]/statBoosts/statBoost[6]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:51978
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:51979
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1 秒 持续时间：可变 下一形态：速度]\n"
+"承受 8 点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘"
+"飞船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:51987
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[28]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:52021
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:52022
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：攻击]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:52030
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[29]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:52065
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:52066
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：防御]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:52074
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[30]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:52108
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:52109
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：危险]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:52117
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[31]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:52151
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/buttonText"
-msgstr ""
+msgstr "超频"
 
 #: src-en/data/hyperspace.xml.append:52152
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/tooltip"
 msgstr ""
+"[冷却时间：1秒 持续时间：可变 下一形态：默认]\n"
+"承受8点伤害，生成一个彩虹中继器，释放超频指令，将所有中继器的效果叠加到两艘飞"
+"船上的所有友方半械族身上。切换形态。"
 
 #: src-en/data/hyperspace.xml.append:52160
 msgid ""
 "data/hyperspace.xml.append$//aug[@name=\"DISPARITY_LEGENDARY_CRYSTAL\"]/statBoosts/statBoost[32]/powerEffect/spawnCrew/name"
-msgstr ""
+msgstr "彩虹中继器"
 
 #: src-en/data/hyperspace.xml.append:54185
 msgid ""
@@ -4225,22 +4372,23 @@ msgstr "生成"
 msgid ""
 "data/hyperspace.xml.append$/dummyroot/mod:findLike[7]/mod-"
 "append:page[1]/section/@text"
-msgstr ""
+msgstr "至暗成就"
 
 #: src-en/data/hyperspace.xml.append:56707
 msgid "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE\"]/name"
-msgstr ""
+msgstr "深渊恩惠"
 
 #: src-en/data/hyperspace.xml.append:56708
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE\"]/secretDescription"
-msgstr "接受来自赛斯特的？？？恩惠。"
+msgstr "从赛斯特处获得深渊恩惠。"
 
 #: src-en/data/hyperspace.xml.append:56709
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE\"]/description"
 msgstr ""
+"向赛斯特展示一位深渊潜者。\n"
+"效果生效期间，敌人在你的飞船上移动速度降低10%。"
 
 #: src-en/data/hyperspace.xml.append:56711
 msgid ""
@@ -4250,18 +4398,19 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56716
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_CREW\"]/name"
-msgstr ""
+msgstr "饕餮恩赐"
 
 #: src-en/data/hyperspace.xml.append:56717
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_CREW\"]/secretDescription"
-msgstr "接受来自赛斯特的？？？恩惠。"
+msgstr "接受来自赛斯特的饕餮恩惠。"
 
 #: src-en/data/hyperspace.xml.append:56718
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_CREW\"]/description"
 msgstr ""
+"向赛斯特展示一名隶属于灵魂瘟疫的船员。\n"
+"效果生效期间，隶属于灵魂瘟疫的友方单位在你的飞船上移动速度提升30%。"
 
 #: src-en/data/hyperspace.xml.append:56720
 msgid ""
@@ -4271,22 +4420,24 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56725
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/name"
-msgstr ""
+msgstr "战壕恩惠"
 
 #: src-en/data/hyperspace.xml.append:56726
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/secretName"
-msgstr ""
+msgstr "???恩惠"
 
 #: src-en/data/hyperspace.xml.append:56727
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得???恩惠。"
 
 #: src-en/data/hyperspace.xml.append:56728
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDDEEPONE_ELITE\"]/description"
 msgstr ""
+"向赛斯特展示一位被选中的深渊潜者。\n"
+"效果生效期间，友方深渊潜者会使附近敌人的技能充能速率降低50%（每个）。"
 
 #: src-en/data/hyperspace.xml.append:56730
 msgid ""
@@ -4296,22 +4447,24 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56736
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/name"
-msgstr ""
+msgstr "苍穹恩惠"
 
 #: src-en/data/hyperspace.xml.append:56737
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/secretName"
-msgstr ""
+msgstr "???恩惠"
 
 #: src-en/data/hyperspace.xml.append:56738
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/secretDescription"
-msgstr ""
+msgstr "从赛斯特处获得???恩惠"
 
 #: src-en/data/hyperspace.xml.append:56739
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSERAPHIM_CREW\"]/description"
 msgstr ""
+"向赛斯特展示一位炽天使。\n"
+"效果生效期间，友方船员会使附近敌人受到的火焰伤害增加20%（每个）。"
 
 #: src-en/data/hyperspace.xml.append:56741
 msgid ""
@@ -4321,18 +4474,19 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56747
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/name"
-msgstr ""
+msgstr "腐化之赐"
 
 #: src-en/data/hyperspace.xml.append:56748
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/secretDescription"
-msgstr "接受来自阔碧的？？？予礼。"
+msgstr "从阔碧处获得腐化予礼。"
 
 #: src-en/data/hyperspace.xml.append:56749
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDCORRUPTOR\"]/description"
 msgstr ""
+"阔碧向阔碧展示满级腐化者系统。\n"
+"效果生效期间，友方灵魂瘟疫潮行者获得 + 5 点最大生命值。"
 
 #: src-en/data/hyperspace.xml.append:56751
 msgid ""
@@ -4342,18 +4496,19 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56756
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE_EQUIPMENT\"]/name"
-msgstr ""
+msgstr "惊惧祝福"
 
 #: src-en/data/hyperspace.xml.append:56757
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE_EQUIPMENT\"]/secretDescription"
-msgstr "接受来自威克森的？？？祝福。"
+msgstr "从威克森处获得惊惧祝福。"
 
 #: src-en/data/hyperspace.xml.append:56758
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DEEPONE_EQUIPMENT\"]/description"
 msgstr ""
+"向威克森展示任意深渊潜者装备。\n"
+"效果生效期间，有20%概率抵抗离子伤害。"
 
 #: src-en/data/hyperspace.xml.append:56760
 msgid ""
@@ -4363,18 +4518,19 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56765
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/name"
-msgstr ""
+msgstr "贪噬黑暗祝福"
 
 #: src-en/data/hyperspace.xml.append:56766
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/secretDescription"
-msgstr "接受来自威克森的？？？祝福。"
+msgstr "从威克森处获得贪噬黑暗祝福。"
 
 #: src-en/data/hyperspace.xml.append:56767
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DISPARITY_EQUIPMENT\"]/description"
 msgstr ""
+"向威克森展示任意谐离装备。\n"
+"效果生效期间，友方饥饿暗影获得+10点最大生命值。"
 
 #: src-en/data/hyperspace.xml.append:56769
 msgid ""
@@ -4384,18 +4540,19 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56774
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/name"
-msgstr ""
+msgstr "虹彩腐化祝福"
 
 #: src-en/data/hyperspace.xml.append:56775
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/secretDescription"
-msgstr "接受来自威克森的？？？祝福。"
+msgstr "接受来自威克森的虹彩腐化祝福。"
 
 #: src-en/data/hyperspace.xml.append:56776
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDSOULPLAGUE_EQUIPMENT\"]/description"
 msgstr ""
+"向威克森展示任意灵魂瘟疫装备。\n"
+"效果生效期间，友方空壳受到的火焰伤害变为0.25倍。"
 
 #: src-en/data/hyperspace.xml.append:56778
 msgid ""
@@ -4405,15 +4562,14 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56783
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/name"
-msgstr ""
+msgstr "堕天恩典祝福"
 
 #: src-en/data/hyperspace.xml.append:56784
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/secretName"
-msgstr ""
+msgstr "???祝福"
 
 #: src-en/data/hyperspace.xml.append:56785
-#, fuzzy
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/secretDescription"
 msgstr "接受来自威克森的？？？祝福。"
@@ -4422,6 +4578,8 @@ msgstr "接受来自威克森的？？？祝福。"
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_BOON_DDFALSERADIANCE_GEAR\"]/description"
 msgstr ""
+"向威克森展示任意光裔族装备。\n"
+"效果生效期间，友方光裔族拆门速度提升一倍。"
 
 #: src-en/data/hyperspace.xml.append:56788
 msgid ""
@@ -4431,7 +4589,7 @@ msgstr "已接受过该恩惠"
 #: src-en/data/hyperspace.xml.append:56794
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/name"
-msgstr ""
+msgstr "劫掠海怪"
 
 #: src-en/data/hyperspace.xml.append:56795
 msgid ""
@@ -4441,22 +4599,22 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56796
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/description"
-msgstr ""
+msgstr "击败深渊潜者变元者，获得卡律布狄斯。"
 
 #: src-en/data/hyperspace.xml.append:56799
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/secretDescription"
-msgstr ""
+msgstr "击败？？？变元者，获取其战利品。"
 
 #: src-en/data/hyperspace.xml.append:56800
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_DEEP_ONE\"]/header"
-msgstr ""
+msgstr "已击败变元者"
 
 #: src-en/data/hyperspace.xml.append:56804
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/name"
-msgstr ""
+msgstr "腐化裂隙"
 
 #: src-en/data/hyperspace.xml.append:56805
 msgid ""
@@ -4466,22 +4624,22 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56806
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/description"
-msgstr ""
+msgstr "击败灵魂瘟疫变元者，获得摩斯。"
 
 #: src-en/data/hyperspace.xml.append:56809
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/secretDescription"
-msgstr ""
+msgstr "击败？？？变元者，获取其战利品。"
 
 #: src-en/data/hyperspace.xml.append:56810
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SOULPLAGUE\"]/header"
-msgstr ""
+msgstr "已击败变元者"
 
 #: src-en/data/hyperspace.xml.append:56814
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/name"
-msgstr ""
+msgstr "烈焰赴墓"
 
 #: src-en/data/hyperspace.xml.append:56815
 msgid ""
@@ -4491,22 +4649,22 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56816
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/description"
-msgstr ""
+msgstr "击败炽天使变元者，获得天赐炼狱。"
 
 #: src-en/data/hyperspace.xml.append:56819
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/secretDescription"
-msgstr ""
+msgstr "击败？？？变元者，获取其战利品。"
 
 #: src-en/data/hyperspace.xml.append:56820
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_DDREN_SERAPHIM\"]/header"
-msgstr ""
+msgstr "已击败变元者"
 
 #: src-en/data/hyperspace.xml.append:56824
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKDEMIURGICOBLIVION\"]/name"
-msgstr ""
+msgstr "创世湮灭"
 
 #: src-en/data/hyperspace.xml.append:56825
 msgid ""
@@ -4516,7 +4674,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56834
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKEDGEOFEVERYTHING\"]/name"
-msgstr ""
+msgstr "万物之境"
 
 #: src-en/data/hyperspace.xml.append:56835
 msgid ""
@@ -4526,7 +4684,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56844
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKHARMONIOUSDISSONANCE\"]/name"
-msgstr ""
+msgstr "和谐异奏"
 
 #: src-en/data/hyperspace.xml.append:56845
 msgid ""
@@ -4536,7 +4694,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56854
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKHEARTOFSHATTEREDPROMISES\"]/name"
-msgstr ""
+msgstr "碎誓之心"
 
 #: src-en/data/hyperspace.xml.append:56855
 msgid ""
@@ -4546,7 +4704,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56864
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKHYMNTOTHEDEEP\"]/name"
-msgstr ""
+msgstr "深渊赞歌"
 
 #: src-en/data/hyperspace.xml.append:56865
 msgid ""
@@ -4556,7 +4714,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56874
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKLIGHTSLAMENT\"]/name"
-msgstr ""
+msgstr "光明挽歌"
 
 #: src-en/data/hyperspace.xml.append:56875
 msgid ""
@@ -4566,7 +4724,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56884
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKTODANCEWITHDARKNESS\"]/name"
-msgstr ""
+msgstr "与黑暗共舞"
 
 #: src-en/data/hyperspace.xml.append:56885
 msgid ""
@@ -4576,7 +4734,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56894
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"MUSIC_DDTRACKTRIALBYIRE\"]/name"
-msgstr ""
+msgstr "怒火试炼"
 
 #: src-en/data/hyperspace.xml.append:56895
 msgid ""
@@ -4591,17 +4749,17 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56905
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_ENLIGHTENED\"]/secretDescription"
-msgstr ""
+msgstr "从？？？运输舰中获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56906
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_ENLIGHTENED\"]/name"
-msgstr ""
+msgstr "启蒙运输舰"
 
 #: src-en/data/hyperspace.xml.append:56907
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_ENLIGHTENED\"]/description"
-msgstr ""
+msgstr "从启蒙者战利品运输舰中获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56912
 msgid ""
@@ -4611,17 +4769,17 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56913
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DISPARITY\"]/secretDescription"
-msgstr ""
+msgstr "从？？？运输舰中获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56914
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DISPARITY\"]/name"
-msgstr ""
+msgstr "谐离运输舰"
 
 #: src-en/data/hyperspace.xml.append:56915
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DISPARITY\"]/description"
-msgstr ""
+msgstr "从谐离运输舰中获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56920
 msgid ""
@@ -4631,17 +4789,17 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56921
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDSOULPLAGUE_TEMPEST\"]/secretDescription"
-msgstr ""
+msgstr "从？？？运输舰获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56922
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDSOULPLAGUE_TEMPEST\"]/name"
-msgstr ""
+msgstr "风暴运输舰"
 
 #: src-en/data/hyperspace.xml.append:56923
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDSOULPLAGUE_TEMPEST\"]/description"
-msgstr ""
+msgstr "从风暴战利品运输舰上获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56928
 msgid ""
@@ -4651,7 +4809,7 @@ msgstr "？？？"
 #: src-en/data/hyperspace.xml.append:56929
 msgid ""
 "data/hyperspace.xml.append$//achievement[@name=\"ACH_TRANS_DDCOREMASS\"]/secretDescription"
-msgstr ""
+msgstr "从？？？运输舰中获取战利品。"
 
 #: src-en/data/hyperspace.xml.append:56930
 msgid ""
