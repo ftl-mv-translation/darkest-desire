@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-08 03:23+0000\n"
+"PO-Revision-Date: 2026-03-09 14:21+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_sector_ddsoulplaguexml/zh_Hans/>\n"
@@ -72,6 +72,9 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_FIXED\"]/text"
 msgstr ""
+"空壳怪已经解决，你的注意力重新回到外面的无人机上。它似乎一直在附近耐心等候，"
+"这时你收到一段来自它的自动语音录音：联联联……邦！欢欢欢迎！你不清楚它为何会出"
+"现在此地，也不明白它为何还能勉强运转，但它似乎仍有货物可供交易。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:83
 msgid ""
@@ -82,6 +85,10 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/text"
 msgstr ""
+"能在这么远的地方看到一张熟悉的面孔，本该是种慰藉……可在这座信标等候你的联邦舰"
+"船，只是一艘自动舰船。更糟的是，它似乎因灵魂瘟疫物质病毒的侵袭，内部结构与外"
+"部船体都遭受了严重损毁。这艘自动舰船的外壳微微泛光，行动也断断续续，但你感觉"
+"，只要能想办法让它减速，或许依然可以和它进行交易。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:92
 msgid ""
@@ -96,12 +103,16 @@ msgstr "回收该无人机。"
 #: src-en/data/events_sector_ddsoulplague.xml:100
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "(灵魂瘟疫船员) 修理这架无人机……？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:102
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"你麾下受灵魂瘟疫侵染的船员发出一阵咕噜声，一丝微弱的低语拂过你的脑海。外面的"
+"自动舰船缓缓停下，你收到一段来自它的自动语音录音：联联联……邦！欢欢欢迎！你不"
+"清楚它为何会出现在此地，也不明白它为何还能勉强运转，但它似乎仍有货物可供交易"
+"。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:107
 msgid ""
