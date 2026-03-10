@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-09 14:21+0000\n"
+"PO-Revision-Date: 2026-03-10 14:44+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_sector_ddsoulplaguexml/zh_Hans/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 #: src-en/data/events_sector_ddsoulplague.xml:13
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_FIGHT\"]/destroyed/text"
-msgstr "被感染的无人机外壳碎裂，你唯一的选择就是打捞剩下的东西。"
+msgstr "被感染的无人机舰体碎裂，你唯一的选择就是打捞剩下的东西。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:25
 msgid ""
@@ -123,6 +123,9 @@ msgstr "(半械族船员)修理该无人机。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/text"
 msgstr ""
+"你的半械族对修理自动舰船和无人机早已熟稔，尽管它从未见过被物质病毒侵染的个体"
+"。它将无人机修复到能够静止的程度，但附着在无人机上的部分灵魂瘟疫黏液脱落，融"
+"进了你的飞船船体……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:114
 msgid ""
@@ -132,7 +135,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:116
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
-msgstr ""
+msgstr "……在潜入内部之后，汇聚成了一群空壳怪！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:123
 msgid ""
@@ -143,6 +146,9 @@ msgstr "(工程师船员)修理无人机。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/text"
 msgstr ""
+"你的工程师试图解释，他们只习惯修理叛军自动舰船，从未修理过被灵魂瘟疫感染的船"
+"只，但你还是说服他们尝试一下。他们将无人机修复到能够静止的程度，但附着在上面"
+"的部分灵魂瘟疫黏液脱落，融进了你的飞船船体……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:130
 msgid ""
@@ -152,7 +158,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:132
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_CREW_ENGINEER\"]/event/choice/event/text"
-msgstr ""
+msgstr "……随后渗入船内，汇聚成一群空壳怪！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:139
 msgid ""
@@ -162,7 +168,8 @@ msgstr "(维修无人机)修复该无人机。[1|]"
 #: src-en/data/events_sector_ddsoulplague.xml:141
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/text"
-msgstr ""
+msgstr "你的维修无人机开始修复这艘自动舰船。它将舰船修复到能够静止的程度，但附着在舰"
+"船上的部分灵魂瘟疫黏液脱落，融进了你的飞船船体……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:149
 msgid ""
@@ -172,7 +179,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:151
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"DRONE_CONTROL_REPAIR_ALL\"]/event/choice/event/text"
-msgstr ""
+msgstr "……随后渗入船内，汇聚成一群空壳怪！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:158
 msgid ""
@@ -183,16 +190,20 @@ msgstr "(食铁族船员)让你的食铁族船员回收无人机。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/text"
 msgstr ""
+"你的食铁族能够拆解回收这架无人机，它清楚该拆卸哪些部件以避免触发防御系统，但"
+"它并未做好应对随之一同带回的灵魂瘟疫感染物质的准备。附着在部分舰体上的虹色黏"
+"液脱落，掉落在地板上……随后汇聚成了一群空壳怪！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:166
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[8]/text"
-msgstr ""
+msgstr "无视这艘自动舰船。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:168
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_CORRUPTEDDRONE_REAL\"]/choice[8]/event/text"
-msgstr ""
+msgstr "这台故障的自动机械歪歪扭扭地驶离，深入星云之中，你不禁好奇，在它的系统彻底失"
+"效之前，还会漫无目的地漂泊多久。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:170
 msgid ""
@@ -207,52 +218,72 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:183
 msgid ""
 "data/events_sector_ddsoulplague.xml$//ship[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_FIGHT\"]/destroyed/text"
-msgstr ""
+msgstr "这艘联邦舰船仅存的残骸四散纷飞，消失在星云的云雾之中。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:195
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_FAILURE\"]/text"
 msgstr ""
+"你下令调查这艘残破舰船的内部。令你惊讶的是，它的系统不知为何仍在供电；微弱、"
+"沉闷的气流吹拂着舰船昏暗的走廊。但你很快就弄清了先前船员的遭遇——墙壁、地板和"
+"天花板上都覆盖着厚厚的灵魂瘟疫物质病毒，这里的病毒甚至比舰船本身还要多。你不"
+"顾一切地下令撤退，可已经太迟了；你周围的物质开始冒泡，空壳怪正从四周的墙壁中"
+"挣脱出来。万幸的是，你成功逃回了自己的飞船，可空壳怪也紧随其后追了上来！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:207
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/text"
-msgstr ""
+msgstr "最后一只空壳怪融化成一滩液体落在地板上，你将注意力转回悬停在外的自动舰船。你"
+"知道它仅剩的能量仅能完成一个请求。你会选择什么？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:209
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[1]/text"
-msgstr ""
+msgstr "发送修复指令。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:211
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[1]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它随即开始修复你的舰体。它修复了几分钟，随后灯光开"
+"始闪烁，接着彻底熄灭，自动舰船静止不动……它的任务完成了。你希望它能在这里，代"
+"替你陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:216
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[2]/text"
-msgstr ""
+msgstr "发送获取资源的指令。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:218
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[2]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它准备抛射出所载货物。完成这一切后，它的灯光开始闪"
+"烁，随后彻底熄灭，自动舰船静止不动……它的任务完成了。你希望它能在这里，代替你"
+"陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:223
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[3]/text"
-msgstr ""
+msgstr "下达指令，让它牵制叛军舰队。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:225
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE_LOOT\"]/choice[3]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它准备用尽剩余能量，全力发出一道联邦信号。完成这一"
+"切后，它的灯光开始闪烁，随后彻底熄灭，自动舰船静止不动……它的任务完成了。你希"
+"望它能在这里，代替你陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:232
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE\"]/text"
 msgstr ""
+"你按下自动舰船上的按钮，它瞬间轰鸣启动……它即将在片刻后展开部署，你意识到必须"
+"在它升空并撕裂舰体之前离开这里！你飞奔穿过破损舰船里霉味弥漫的走廊，随着无人"
+"机准备起飞，你周围那些虹色的水洼也随之震动，而你及时赶了回来……就在你返回的同"
+"时，自动舰船猛地从联邦舰船的残骸中挣脱出来。它的舰体碎裂，残骸四散飞溅，自动"
+"舰船悬停在外侧……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:238
 msgid ""
@@ -262,62 +293,85 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:240
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_BATTLE\"]/choice/event/text"
-msgstr ""
+msgstr "……但似乎有一大群空壳怪被惊醒，在那之前就跟着你登上了飞船！你必须先解决掉它们…"
+"…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:247
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/text"
 msgstr ""
+"你按下自动舰船上的按钮，它瞬间轰鸣启动……它即将在片刻后展开部署，你意识到必须"
+"在它升空并撕裂舰体之前离开这里！你飞奔穿过破损舰船里霉味弥漫的走廊，随着无人"
+"机准备起飞，你周围那些虹色水洼也随之震动，而你及时赶了回来。你关上身后的气密"
+"舱，你的飞船随即分离，此时灵魂瘟疫空壳怪正源源不断地涌出来；它们朝飞船扑来，"
+"却差了一点……它们似乎只能永远在这片星云中宣泄它们贪婪的能量。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:249
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/text"
-msgstr ""
+msgstr "等待无人机发射。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:251
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/text"
 msgstr ""
+"片刻之后，自动舰船猛地从联邦舰船的残骸中挣脱出来。它的舰体碎裂，残骸四散飞溅"
+"，自动舰船悬停在外侧……你知道它仅剩的能量仅能完成一个请求。你会选择什么？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:254
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[1]/text"
-msgstr ""
+msgstr "发送修复指令。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:256
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它随即开始修复你的舰体。它修复了几分钟，随后灯光开"
+"始闪烁，接着彻底熄灭，自动舰船静止不动……它的任务完成了。你希望它能在这里，代"
+"替你陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:261
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[2]/text"
-msgstr ""
+msgstr "发送获取资源的指令。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:263
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[2]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它准备抛射出所载货物。完成这一切后，它的灯光开始闪"
+"烁，随后彻底熄灭，自动舰船静止不动……它的任务完成了。你希望它能在这里，代替你"
+"陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:268
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "下达指令，让它牵制叛军舰队。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:270
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS_ACTIVATION_LUCKY\"]/choice/event/choice[3]/event/text"
 msgstr ""
+"你向无人机的系统发送指令，它准备用尽剩余能量，全力发出一道联邦信号。完成这一"
+"切后，它的灯光开始闪烁，随后彻底熄灭，自动舰船静止不动……它的任务完成了。你希"
+"望它能在这里，代替你陨落的联邦盟友安心安息。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:279
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS\"]/text"
 msgstr ""
+"你决定调查这艘残破飞船的内部。令你意外的是，它的系统不知为何仍在供电，微弱浑"
+"浊的气流在昏暗的船舱里流动。地板上散落着几滩灵魂瘟疫物质病毒，你大致能猜到船"
+"上的人遭遇了什么。你小心翼翼地绕过病毒，继续深入，意外发现了飞船的货舱。残骸"
+"里停着一艘未启用的自动舰船，你认出它正是储存信标的来源。可惜的是，在船员遇难"
+"前，它从未被妥善装载补给……即便启动，它的能量也只够完成一项任务。更糟的是，你"
+"余光瞥见黑暗中另一滩病毒正在微微发光……值得冒险惊动它吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:281
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS\"]/choice[1]/text"
-msgstr ""
+msgstr "启动无人机。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:285
 msgid ""
@@ -327,7 +381,8 @@ msgstr "离开这里。"
 #: src-en/data/events_sector_ddsoulplague.xml:287
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_MINORSUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "自动舰船能提供的那点物资，不值得你再与空壳怪一战。你小心沿路返回自己的飞船，"
+"只能目送这艘联邦残骸在星云中继续缓慢而孤独地漂流。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:289
 msgid ""
@@ -343,11 +398,19 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_BATTLE_LOOT\"]/text"
 msgstr ""
+"最后一只空壳怪融化成地上的一滩液体，你将注意力转回悬停在外的自动舰船。在它开"
+"始在星云中漫无目的地漂流之前，你知道还有时间与它进行交易。你心情沉重地完成交"
+"易；只能祈祷这架无人机的旅途，会比你那些陨落的联邦盟友顺利得多。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:313
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_BATTLE\"]/text"
 msgstr ""
+"你按下自动舰船上的按钮，它瞬间轰鸣启动……它即将在片刻后展开部署，你意识到必须"
+"在它升空并撕裂舰体之前离开这里！你飞奔穿过破损舰船里霉味弥漫的走廊，随着无人"
+"机准备起飞，你周围那些虹色的水洼也随之震动，而你及时赶了回来……就在你返回的同"
+"时，自动舰船猛地从联邦舰船的残骸中挣脱出来。它的舰体碎裂，残骸四散飞溅，自动"
+"舰船悬停在外侧……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:319
 msgid ""
@@ -357,32 +420,48 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:321
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_BATTLE\"]/choice/event/text"
-msgstr ""
+msgstr "……可似乎有一大群空壳怪被惊醒，在那之前就跟着你登上了飞船！你必须先解决掉它们…"
+"…"
 
 #: src-en/data/events_sector_ddsoulplague.xml:328
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_LUCKY\"]/text"
 msgstr ""
+"你按下自动舰船上的按钮，它瞬间轰鸣启动……它即将在片刻后展开部署，你意识到必须"
+"在它升空并撕裂舰体之前离开这里！你飞奔穿过破损舰船里霉味弥漫的走廊，随着无人"
+"机准备起飞，你周围那些虹色水洼也随之震动，而你及时赶了回来。你关上身后的气密"
+"舱，你的飞船随即分离，此时灵魂瘟疫空壳怪正源源不断地涌出来；它们朝飞船扑来，"
+"却差了一点……它们似乎只能永远在这片星云中宣泄它们贪婪的能量。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:330
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_LUCKY\"]/choice/text"
-msgstr ""
+msgstr "等待无人机发射。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:332
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS_ACTIVATION_LUCKY\"]/choice/event/text"
 msgstr ""
+"片刻之后，自动舰船猛地从联邦舰船的残骸中挣脱出来。舰体碎裂，残骸四处飞溅，自"
+"动舰船悬停在外侧……它自由了。不过在它开始在星云中漫无目的地航行之前，你还有时"
+"间与它进行交易。你心情沉重地完成交易；只能祈祷这架无人机的旅途，会比你那些陨"
+"落的联邦盟友顺利得多。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:340
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS\"]/text"
 msgstr ""
+"你决定探查这艘残破飞船的内部。令你惊讶的是，它的系统不知为何仍在供电，微弱浑"
+"浊的气流在昏暗的船舱中流动。地板上散落着几滩灵魂瘟疫物质病毒，你大致能猜到船"
+"上乘员的遭遇……你小心翼翼地绕过病毒继续深入，却意外发现了飞船的货舱。残骸里停"
+"着一艘尚未启用的自动舰船，你确认它就是补给信标的来源。更幸运的是，在船员遇难"
+"前，它似乎已经被完全补给完毕……只要启动它，你就能和它进行交易！然而，你余光瞥"
+"见黑暗中另一滩病毒正在微微发光……值得冒险惊动它吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:342
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS\"]/choice[1]/text"
-msgstr ""
+msgstr "启动无人机。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:346
 msgid ""
@@ -392,7 +471,8 @@ msgstr "离开这里。"
 #: src-en/data/events_sector_ddsoulplague.xml:348
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_INVESTIGATION_CRITICALSUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "自动舰船能提供的任何交易物资，都不值得你再与空壳怪战斗一场。你小心翼翼地返回"
+"自己的飞船，只能目送这艘联邦残骸在星云中继续缓慢而孤独地漂流。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:350
 msgid ""
@@ -413,11 +493,14 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_REAL\"]/text"
 msgstr ""
+"当你看到外面星云中这艘联邦舰船的状况时，心中仅存的希望瞬间破灭。它看起来已经"
+"在这里沉寂多年……即便还有值钱的东西，也所剩无几了。但你依旧知道，这里某处仍有"
+"一个活跃的补给信标……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:378
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_REAL\"]/choice[1]/text"
-msgstr ""
+msgstr "检查飞船的残骸。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:382
 msgid ""
@@ -428,6 +511,8 @@ msgstr "无视残骸。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_FEDERATIONREMAINS_REAL\"]/choice[2]/event/text"
 msgstr ""
+"这闻起来就像个陷阱，你内心也有些犹豫，不愿去打扰这片或许已是数位战友安息之地"
+"的地方。你不再触碰这艘残破的舰船，任由它在星云中继续缓慢而孤独地漂流。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:386
 msgid ""
@@ -462,7 +547,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:417
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "这就让那些混蛋知道教训！无论在什么情况下，无礼之徒都该去死！至少你对此感到满"
+"意，一边清点着战利品，一边准备离开信标。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:428
 msgid ""
@@ -473,26 +559,39 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/text"
 msgstr ""
+"联邦成员很少会将灵朝舰船视作友善的存在……但这总归好过遇上另一艘满载无脑空壳怪"
+"的飞船。显然，对方也是同样的想法，一名魂灵族发来通讯：“绝不可能！我从未想过，"
+"看到活人的身影竟能让我振奋……可这里的无魂者，比我所见过的任何活人都要可怖。敢"
+"问，是何缘由让你踏入这片星云炼狱？”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:437
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/text"
-msgstr ""
+msgstr "我倒也想问你同样的问题。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:439
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/text"
 msgstr ""
+"魂灵族嗤笑一声，“我还需要征得你的同意吗？如果你非要知道，我们是来此斩妖除魔的"
+"……却不知潜藏其中的是更可怕的怪物。我们的人数已在它们卑劣的袭击中不断减少，一"
+"想到又有人陨落、又有这些令人作呕的怪物诞生，我的心就为之颤抖。”气氛沉重了片刻"
+"，魂灵族继续说道，“所以正因如此，我们才容忍你在这里，活人。资源紧缺，我们要尽"
+"可能收集物资以便撤离，我们还有兄弟要悼念。”灵朝舰船向你开放了它们的货品，只要"
+"你能忍受它们的出言不逊。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:441
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "（灵魂瘟疫船员）被你叫作活人我可以忍，但侮辱我的船员就是另一回事了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:443
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"一阵困惑过后，你的灵魂瘟疫阵营船员走进了房间，通讯另一端的魂灵族提高了音量，“"
+"你竟然与怪物为伍？！我真是瞎了眼才会信任你这样的人……你的坟墓也会成为它们的归"
+"宿！”灵朝舰船切断了通讯，武器系统随即启动！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:446
 msgid ""
@@ -502,12 +601,17 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:452
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[@req=\"LIST_CREW_GHOST\"]/text"
-msgstr ""
+msgstr "（魂灵族船员）“求你，收回那些恶言！”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:454
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[@req=\"LIST_CREW_GHOST\"]/event/text"
 msgstr ""
+"你的魂灵族船员从你身后喊道，通讯另一端的魂灵族稍稍后退，“怎会，我的耳朵在骗我"
+"吗？一个活人竟会收留我们的族人，而且还是平等相待……这片炼狱依旧充满惊喜！资源"
+"或许匮乏，没错，但在怪物的海洋里，还有什么比情谊更稀缺的？容许我们庆贺一番！”"
+"两名魂灵族一见如故，他们给你发来一份纪念礼物，随后灵朝舰船便向你开放了货品。"
+"不过，他们自始至终都没收回“活人”这个称呼……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:457
 msgid ""
@@ -517,12 +621,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:463
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "闭上嘴，准备交易。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:465
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "你宁可忍气吞声，也不会恩将仇报……就算它们是魂灵族，周遭潜伏着的、还有远比它们"
+"更恐怖、更名副其实的不死之物。你会能拿多少就拿多少。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:467
 msgid ""
@@ -532,12 +637,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:473
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[4]/text"
-msgstr ""
+msgstr "不了，去他的。干掉这家伙。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:475
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_LONELYDYNASTY_REAL\"]/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "如果他们真的一心只想活命，就不会到处侮辱善良勤恳的人。你切断通讯、启动武器，"
+"准备付出更多“辛劳”，而那艘灵朝舰船也做出了同样的举动！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:478
 msgid ""
@@ -567,37 +673,57 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:508
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_FIGHT_MERCY\"]/text"
-msgstr ""
+msgstr "当蛞蝓族的舰船冒着浓烟，舰体距离崩解仅差分毫时，你收到了一通绝望的通讯：“等等"
+"！也许你终究还是有自保之力的。也许该手下留情的不是我，而是你？”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:510
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_FIGHT_MERCY\"]/choice[1]/text"
-msgstr ""
+msgstr "收手吧。你才是掌握仁慈的一方。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:512
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_FIGHT_MERCY\"]/choice[1]/event/text"
 msgstr ""
+"你放过了蛞蝓族，并解决了剩余的灵魂瘟疫空壳怪。一切平息之后，狼狈的蛞蝓族松了"
+"口气：“你是～～第一个真正拦住那些怪物的人。第一个真正活下来的人！”他们笑着，"
+"并未意识到自己已陷入疯狂，接着说道：“愿～～意的话就多待一会儿吧！我们在这里很"
+"少有同伴……毕竟到处都是杀人的丧尸～～。”如果情况如此糟糕，你不禁好奇蛞蝓族和它"
+"的船员为何还留在这里……无论答案如何，你都得到了一次交易的机会。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:518
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_FIGHT_MERCY\"]/choice[2]/text"
-msgstr ""
+msgstr "战斗吧。你即是死神。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:524
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "蛞蝓族已死，你再也没有可以交易的对象了……不过你本来就不确定自己是否想和这群疯"
+"子交易。他们显然已经在这片星云中丧失了理智，即便还没有丢掉性命。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:535
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_WAITING_NORMAL\"]/text"
 msgstr ""
+"又过了一会儿，这次时间短得多，外面的撞击声突然停了……你看向那只蛞蝓族，它松了"
+"口气说道：“我们～～应该能安全一阵子了。你是～～第一个真正听我话的人。第一个真"
+"正活下来的人！”它笑着，并未意识到自己已经疯了，接着说道：“愿～～意的话就多待"
+"一会儿吧！我们在这里很少有同伴……毕竟到处都是杀～～人的丧尸～～。”如果情况真的"
+"这么糟糕，你不禁好奇这只蛞蝓族和它的船员为什么还留在这里……不管答案是什么，一"
+"切都已平静下来，你得到了一次交易的机会。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:540
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_WAITING_UNLUCKY\"]/text"
 msgstr ""
+"没完没了，没完没了，没完没了……这声音就没停过。你在死寂中度过了仿佛永恒的时间"
+"，最终，外面的撞击声总算彻底平息了。你看向那只蛞蝓族，它松了口气说道：“我们～"
+"～应该能安全一阵子了。你是～～第一个真正听我话的人。第一个真正活下来的人！”它"
+"笑着，并未意识到自己已经疯了，接着说道：“愿～～意的话就多待一会儿吧！我们在这"
+"里很少有同伴……毕竟到处都是杀～～人的丧尸～～。”如果情况真的这么糟糕，你不禁好"
+"奇这只蛞蝓族和它的船员为什么还留在这里……不管答案是什么，一切都已平静下来，你"
+"得到了一次交易的机会。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:553
 msgid ""
@@ -608,36 +734,50 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/text"
 msgstr ""
+"一艘蛞蝓族舰船潜藏在附近的星云中，这景象通常会让任何舰船的船长心生恐惧……但你"
+"此刻只在祈祷，这不是另一艘被空壳怪占据的船。当对方舰船发来通讯时，你松了口气"
+"，但这份安心转瞬即逝，通讯那头的蛞蝓族朝你大喊：“滚出去！这里不～～安全！快～"
+"～走！”你想，蛞蝓族向来就没什么好客之道……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:562
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/text"
-msgstr ""
+msgstr "试着让蛞蝓族冷静下来。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:564
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/text"
 msgstr ""
+"你的努力毫无用处，它们依旧大喊着：“别～～说话！一个字都不～～许说！在我身边开"
+"口的人都会遇～～到坏事……一直都是这样！而我阻～～止不了！”它们看起来有点……精神"
+"错乱。你想，任谁在这里待久了都会变成这样。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:566
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "向蛞蝓族保证你能照顾好自己。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:568
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "蛞蝓族用脆弱的触手猛拍桌子，大喊道：“你没在听～～吗？闭～～嘴！！！”它的声音"
+"里，疯狂之中又多了几分愤怒与急躁。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:570
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "证明这只蛞蝓族是错的。发出点声音。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:572
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你故作嘲讽地举起双手，轻轻喊了一声：“嘘——”！你的舰船内部立刻传来一阵剧烈的颠"
+"簸，还有令人恐惧的金属摩擦声。蛞蝓族绝望地看着自己的触手：“为什么他们永远不～"
+"～听？这是对我的惩罚吗？我是不是在地狱里……？”过了片刻，它把面条般的手臂攥成拳"
+"头：“不！我～～还有选择……我绝不会让它们再把任何一个灵魂拉入它们扭曲的军团！我"
+"即是救赎！我即是仁慈！大团的灵魂瘟疫感染黏液从天花板渗透下来，随即聚集成一小"
+"支灵魂瘟疫空壳怪大军，而蛞蝓族的舰船也开始向你发起进攻！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:576
 msgid ""
@@ -647,22 +787,32 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:582
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "照做，保持安静。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:584
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"你听到金属发出嘎吱声，有什么东西在不断撞击你的舰船外壁。蛞蝓族稍微冷静了一些"
+"，但语气依旧无比严肃：“它们已经来了……可你只要～～保持～～安静，它们或许就会离"
+"开！”你暗自纳闷，这么大声喊真的有用吗。你和蛞蝓族就这样在寂静中等待着……时间一"
+"点点过去，可舰船外的撞击声依旧没有停止。就这样坐在这里干等，真的值得吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:587
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "坚持说你真的必须得走了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:589
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"你一边想着叛军舰队正在逼近，一边尽力礼貌地告辞。你的舰船内部立刻传来一阵剧烈"
+"震动，金属嘎吱声愈发刺耳。蛞蝓族绝望地看着自己的触手：“为什么他们永远不～～听"
+"？这是对我的惩罚吗？我是不是在地狱里……？”过了片刻，它把面条般的手臂攥成拳头："
+"“不！我～～还有选择……我绝不会让它们再把任何一个灵魂拉入它们扭曲的军团！我即是"
+"救赎！我即是仁慈！”大团沾染灵魂瘟疫的黏液从天花板渗透而下，随即聚集成一小支灵"
+"魂瘟疫空壳怪大军，而蛞蝓族的舰船也立刻向你发起进攻！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:593
 msgid ""
@@ -672,22 +822,31 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:599
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "继续安静等待。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:601
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/text"
 msgstr ""
+"你和那只蛞蝓族就这样对视着，气氛有些尴尬，但你心里清楚，在这片该死的星云里，"
+"比起糟糕透顶的遭遇，这点不愉快的社交尴尬甚至连沉默对峙都算不了什么。真正让你"
+"不安的是那阵撞击声……一下，又一下，持续不断，没完没了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:604
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[1]/text"
-msgstr ""
+msgstr "对着那声音大喊。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:606
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[1]/event/text"
 msgstr ""
+"你一时没忍住，对着外面的撞击声破口大骂。你的舰船内部立刻传来一阵剧烈震动，金"
+"属的嘎吱声变得更加刺耳。蛞蝓族绝望地看着自己的触手：“为什么他们永远不～～听？"
+"这是对我的惩罚吗？我是不是在地狱里……？”过了片刻，它把面条般的手臂攥成拳头：“"
+"不！我～～还有选择……我绝不会让它们再把任何一个灵魂拉入它们扭曲的军团！我即是"
+"救赎！我即是仁慈！”大团被灵魂瘟疫感染的黏液从天花板渗透而下，随即聚集成一小支"
+"灵魂瘟疫空壳怪大军，而蛞蝓族的舰船也立刻向你发起进攻！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:610
 msgid ""
@@ -697,17 +856,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:616
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[1]/event/choice/event/choice[2]/event/choice[2]/event/choice[2]/text"
-msgstr ""
+msgstr "保持坚强。等待。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:628
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[2]/text"
-msgstr ""
+msgstr "因为蛞蝓族的无礼，向它发起攻击。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:630
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[2]/event/text"
 msgstr ""
+"你才不会任由这个混蛋摆布。不管这里是不是被空壳怪占据的星云，你都有自己的底线"
+"！你摆明了自己的态度，你的舰船内部立刻传来一阵剧烈颠簸，还有令人恐惧的金属摩"
+"擦声。蛞蝓族绝望地看着自己的触手：“为什么他们永远不～～听？这是对我的惩罚吗？"
+"我是不是在地狱里……？”过了片刻，它把面条般的手臂攥成拳头：“不！我～～还有选择…"
+"…我绝不会让它们再把任何一个灵魂拉入它们扭曲的军团！我即是救赎！我即是仁慈！”"
+"大团被灵魂瘟疫感染的黏液从天花板渗透而下，随即聚集成一小支灵魂瘟疫空壳怪大军"
+"，而蛞蝓族的舰船也立刻向你发起进攻！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:634
 msgid ""
@@ -717,12 +883,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:640
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[3]/text"
-msgstr ""
+msgstr "听从蛞蝓族的话，赶紧离开。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:642
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_TIREDSLUG_REAL\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你终止通讯，与那只疯狂的蛞蝓族拉开了极大距离。它的舰船渐渐消失在星云昏暗的深"
+"处，而你不禁好奇，它到底遭遇了什么。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:644
 msgid ""
@@ -757,7 +924,8 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:675
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "蛞蝓族的舰船已经被摧毁，不用说这里也不会有任何交易了……算了。是时候继续前进了"
+"。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:686
 msgid ""
@@ -767,29 +935,37 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:692
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/text"
-msgstr ""
+msgstr "你在进入信标时猛地一惊，立刻收到了数十个请求通讯的提示音，视线望向星云外的那"
+"艘蛞蝓族舰船。至少你能确定它们不是空壳怪，但这种行为依旧十分诡异。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:695
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/text"
-msgstr ""
+msgstr "接听其中一个通讯请求。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:697
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/text"
 msgstr ""
+"你向蛞蝓族发起通讯，视频接通的瞬间你又被吓了一跳。一只蛞蝓族把脸紧紧贴在镜头"
+"上，它急切地说道：“你不是那些僵尸怪物吧？对不对？证明给我看！转过去！”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:699
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\""
 " and @lvl=\"0\"]/text"
-msgstr ""
+msgstr "顺着蛞蝓族的意，转过身去。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:701
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"你转过身，屏幕里的蛞蝓族声音稍稍平复了下来：“好了，好了——你是真的人。天啊～～"
+"。这地方烂透了～～。谁都信不过！跟老家一模一样～～。”它叹了口气，你这才转回身"
+"。“听着，我们真得赶紧离开这儿～～。你要是需要什么，我尽量快～～。快点～～。拜"
+"托～～。我……受够……这个破地方了～～……”蛞蝓族气急败坏地说完，你有一点时间可以在"
+"舰船上购物或者做点别的事。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:704
 msgid ""
@@ -807,13 +983,16 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\""
 " and @lvl=\"1\"]/text"
-msgstr ""
+msgstr "顺着蛞蝓族的意，转过身去。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:716
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"你转过身，屏幕里的蛞蝓族立刻尖叫起来：“我就知道～～！你骗不了我～～，僵尸杂碎"
+"～～！去死吧～～！”它立刻切断通讯，武器开始充能。你用布擦了擦后背……看来之前你"
+"那名受灵魂瘟疫影响的船员把一些黏液沾到了你背上。糟了……好吧，准备战斗！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:719
 msgid ""
@@ -824,12 +1003,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:725
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "我不转身。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:727
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"你站在原地一动不动，十分坚定。蛞蝓族尖叫起来～～：“僵尸就会这么说～～！你骗不"
+"了我～～，僵尸杂碎～～！去死吧～～！”它切断通讯，武器开始启动……你真的看起来很"
+"像僵尸吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:730
 msgid ""
@@ -839,12 +1021,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:738
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[2]/text"
-msgstr ""
+msgstr "因为这些蛞蝓族太烦人了，攻击他们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:740
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "说实话，你把这些狂发通讯的家伙解决掉，等于是在帮这个星域一个忙。他们一察觉到"
+"你的攻击意图，通讯请求立刻停止，武器全部启动！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:743
 msgid ""
@@ -854,12 +1037,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:749
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[3]/text"
-msgstr ""
+msgstr "无视这些蛞蝓族没完没了的骚扰通讯。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:751
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_STORELIST_DDSOULPLAGUE_SLUGPARANOIA_REAL\"]/choice[3]/event/text"
 msgstr ""
+"你很满足于无视这些蛞蝓族、只管自己的事，但他们似乎另有打算……发现你无视他们的"
+"通讯后，他们的武器开始启动，并准备发起攻击！你不确定这从一开始就是个陷阱，还"
+"是他们只是太过多疑，但无论如何，你都已准备好自卫。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:754
 msgid ""
@@ -889,12 +1075,24 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:787
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "击败深渊潜者后，你的灵魂隐隐作痛……真的只能这样吗？是的。只能如此。至少你会这"
+"样告诉自己，哪怕只是为了让自己心里好受一点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:791
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE_ECSTATIC\"]/text"
 msgstr ""
+"……深渊潜者们欣喜若狂。他们围绕着它，跳起了某种仪式之舞：\n"
+"\n"
+"“我们……得救了！我们得救了！”\n"
+"“黑暗之神的行事……果然高深莫测！”\n"
+"“这一切……都是它早已注定的旨意！”\n"
+"\n"
+"最终，之前和你对话的那只深渊潜者转向另外两只：“我和其他族人……将带着这份恩惠……"
+"返回故乡。我恳请……你们两位护送主上的使者……穿过这片荒原。”两只深渊潜者点了点头"
+"，对方转而对你说道：“我会留下……部分族人，以及……我们能筹集到的所有物资。如果愿"
+"意……请随意交易。我们……永远感激您，联邦大人。”说完，最先开口的那只深渊潜者迈步"
+"走了过来……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:800
 msgid ""
@@ -904,7 +1102,7 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:802
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE_ECSTATIC\"]/choice/event/text"
-msgstr ""
+msgstr "……接着是第二只……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:805
 msgid ""
@@ -914,77 +1112,96 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:807
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE_ECSTATIC\"]/choice/event/choice/event/text"
-msgstr ""
+msgstr "……然后拿出了他们认为能拿出的所有物资。当那两只深渊潜者与你的船员互相认识时，"
+"其他的深渊潜者则恳请你浏览他们剩下的物资。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:810
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE_ECSTATIC\"]/choice/event/choice/event/choice/text"
-msgstr ""
+msgstr "那我们就来采购吧！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:824
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/text"
 msgstr ""
+"你被商店信标吸引，进入星云的一片空旷区域，眼前出现了一艘深渊潜者的飞船。你不"
+"确定它是否已被物质病毒感染，于是在远处观察它的动向，而对方似乎也同样对你保持"
+"着警惕。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:827
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/text"
-msgstr ""
+msgstr "尝试与这艘飞船通讯。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:829
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你成功接通了通讯，当屏幕里出现一只活生生的深渊潜者时，你心中的焦虑一扫而空。“"
+"联邦……在这里？这么说信标……起效了？我们……得救了吗？”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:831
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "得救？我该做些什么？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:833
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"深渊潜者局促地动了动：“我们……已经缺少原材料……很久了。平日里……我们自认是……利用"
+"废弃旧物资的行家，可是……这场灵魂瘟疫的肆虐……几乎毁掉了一切。我们……想尽快离开"
+"，但是……缺少旅途所需的物资。”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:835
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/text"
-msgstr ""
+msgstr "你们当初为什么会来到这里？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:837
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/text"
 msgstr ""
+"它们的神态又变了，但这次不是局促，而是戒备，甚至有些隐秘。“那……用不着你操心。"
+"我们……来这里自有原因。来到这个……该死的地方……”一阵令人难受的沉默过后，深渊潜者"
+"清了清嗓子继续说道：“所以……你到底想不想交易？”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:839
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/text"
-msgstr ""
+msgstr "(深渊潜者船员) 同族……你有心事。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:841
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/text"
 msgstr ""
+"你看着这只深渊潜者不断变换姿态与神情，就像在游戏里疯狂刷表情一样。它们听到你"
+"的深渊潜者开口，肩膀瞬间垮下，立刻失去了镇定：“同族……在这里？竟然……在联邦的飞"
+"船上……没错，我们的确有心事。我们……是被派来取一件属于……主上的神器。我们……任务"
+"失败了，然而……比起神罚，我们更害怕……这片星域的怒火。无论如何……我们的命运似乎…"
+"…已经注定。”气氛变得无比压抑，这只深渊潜者绝望地盯着地面。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:843
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/text"
-msgstr ""
+msgstr "(黑暗武器) 这就是你要找的东西吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:845
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/text"
 msgstr ""
+"当你指向你的黑暗武器时，它们的眼睛亮了起来。“你……竟然持有主上的一件恩赐？你……"
+"当真非同寻常。没错，就是它。你……愿意交出它吗？我们……会重重酬谢你，拿出……我们"
+"所有能拿出的一切。”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:847
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"SHOTGUN_DARKGOD\"]/text"
-msgstr ""
+msgstr "把你的黑暗破片武器交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:849
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"SHOTGUN_DARKGOD\"]/event/text"
-msgstr ""
+msgstr "你把武器送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:852
 msgid ""
@@ -994,12 +1211,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:858
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"LASER_DARKGOD\"]/text"
-msgstr ""
+msgstr "把你的黑暗轻型激光武器交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:860
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"LASER_DARKGOD\"]/event/text"
-msgstr ""
+msgstr "你把武器送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:863
 msgid ""
@@ -1009,12 +1226,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:869
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"BOMB_DARKGOD\"]/text"
-msgstr ""
+msgstr "把你的黑暗炸弹武器交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:871
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"BOMB_DARKGOD\"]/event/text"
-msgstr ""
+msgstr "你把武器送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:874
 msgid ""
@@ -1024,12 +1241,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:880
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DD_BEAM_INSTANT_DARKGOD\"]/text"
-msgstr ""
+msgstr "把你的黑暗光束武器交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:882
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DD_BEAM_INSTANT_DARKGOD\"]/event/text"
-msgstr ""
+msgstr "你把武器送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:885
 msgid ""
@@ -1039,12 +1256,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:891
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DDLASER_CHARGE_DARKGOD\"]/text"
-msgstr ""
+msgstr "把你的黑暗充能激光武器交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:893
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[@req=\"DDLASER_CHARGE_DARKGOD\"]/event/text"
-msgstr ""
+msgstr "你把武器送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:896
 msgid ""
@@ -1054,12 +1271,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:902
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[6]/text"
-msgstr ""
+msgstr "不行，抱歉。我要留着它。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:904
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"GIFTLIST_DARKGOD_WEAPONS\"]/event/choice[6]/event/text"
 msgstr ""
+"深渊潜者的眼中燃起怒火：“那你……为何要提出来？罢了……原谅我，同族，但……我们必须"
+"得到它。我们……不能辜负主上。”它们切断了通讯，武器开始充能上线！看来它们打算强"
+"行夺取武器。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:907
 msgid ""
@@ -1069,22 +1289,25 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:915
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/text"
-msgstr ""
+msgstr "(黑暗无人机) 这就是你要找的东西吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:917
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/text"
 msgstr ""
+"当你指向你的黑暗无人机时，它们的眼睛瞬间亮了起来：“你……竟然持有主上的一件恩赐"
+"？你……当真非同寻常。没错，就是它。你……愿意把它交给我们吗？我们……会拿出一切所"
+"能，重重酬谢你。”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:919
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"DRONE_MINISHROUD\"]/text"
-msgstr ""
+msgstr "把你的黑暗战斗无人机交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:921
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"DRONE_MINISHROUD\"]/event/text"
-msgstr ""
+msgstr "你把无人机送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:924
 msgid ""
@@ -1094,12 +1317,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:930
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DISPARITYBROODMOTHER\"]/text"
-msgstr ""
+msgstr "把你的黑暗反人员无人机交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:932
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DISPARITYBROODMOTHER\"]/event/text"
-msgstr ""
+msgstr "你把无人机送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:935
 msgid ""
@@ -1109,12 +1332,12 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:941
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DDDISPARITYADMINISTRATOR\"]/text"
-msgstr ""
+msgstr "把你的黑暗多功能无人机交给它们。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:943
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[@req=\"LIST_CREW_MORPH_DDDISPARITYADMINISTRATOR\"]/event/text"
-msgstr ""
+msgstr "你把无人机送了过去，然后……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:946
 msgid ""
@@ -1124,12 +1347,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:952
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[4]/text"
-msgstr ""
+msgstr "不行，抱歉。我要留着它。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:954
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[@req=\"LIST_DDDARKGOD_DRONES\"]/event/choice[4]/event/text"
 msgstr ""
+"深渊潜者的眼中燃起怒火：“那你……为何要提起此事？算了……原谅我，同族，但……我们必"
+"须得到它。我们……不能辜负主上。”它们切断了通讯，武器全部启动！看来它们打算强行"
+"夺取无人机。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:957
 msgid ""
@@ -1139,12 +1365,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:965
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[3]/text"
-msgstr ""
+msgstr "我明白了……听到这个消息我很遗憾。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:967
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice[3]/event/text"
 msgstr ""
+"你表达了慰问，深渊潜者的情绪稍稍平复了一些：“我们……会想办法的。我……相信一定可"
+"以。无论如何，让我们……进行交易吧。”深渊潜者向你展示了他们的货物，你可以随意查"
+"看。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:969
 msgid ""
@@ -1154,12 +1383,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:977
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "好，那我们交易吧。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:979
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[2]/event/text"
-msgstr ""
+msgstr "它们的神情中露出一丝释然，但你能感觉到有什么事在困扰着它们。不过无论那是什么"
+"，都与你无关。深渊潜者向你展示了它们的货物，你可以随意查看。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:981
 msgid ""
@@ -1169,12 +1399,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:987
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "我要把你炸飞。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:989
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "“你……说什么？”你没有口头回应，而是直接切断了通讯，准备用更暴力的方式给出答案…"
+"…而深渊潜者也立刻进入了防御状态！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:992
 msgid ""
@@ -1184,12 +1415,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:998
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[4]/text"
-msgstr ""
+msgstr "没门。你肯定在打什么鬼主意。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1000
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[1]/event/choice/event/choice/event/choice[4]/event/text"
-msgstr ""
+msgstr "你毫不客气地拒绝了深渊潜者的交易提议，并在他们回应前就切断了通讯。你与他们拉"
+"开一段距离后，便安心等待超光速引擎充能。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1002
 msgid ""
@@ -1202,7 +1434,6 @@ msgid ""
 msgstr "跳过。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1018
-#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[2]/text"
 msgstr "攻击这艘船。"
@@ -1210,7 +1441,8 @@ msgstr "攻击这艘船。"
 #: src-en/data/events_sector_ddsoulplague.xml:1020
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "老实说，你根本不在乎他们为什么在这里，是不是躯壳，是不是深渊潜者。你只想把东"
+"西炸个粉碎。对方舰船察觉到了你的敌意，立刻准备自卫！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1023
 msgid ""
@@ -1218,7 +1450,6 @@ msgid ""
 msgstr "继续。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1029
-#, fuzzy
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[3]/text"
 msgstr "无视这艘舰船。"
@@ -1226,7 +1457,8 @@ msgstr "无视这艘舰船。"
 #: src-en/data/events_sector_ddsoulplague.xml:1031
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SCAREDDEEPONE\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你很乐意继续保持距离。深渊潜者的舰船也同样如此，你在等待超光速引擎充能时，并"
+"未受到打扰。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1033
 msgid ""
@@ -1241,72 +1473,101 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1046
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/text"
-msgstr ""
+msgstr "交易之前，你仍有时间干点别的。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1048
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/choice[1]/text"
-msgstr ""
+msgstr "星舰管理。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1052
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORE_LOAD_AUTO_DDCUSTOMGODTHISISSTUPID\"]/choice[2]/text"
-msgstr ""
+msgstr "跳过。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1058
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST_ANSWER\"]/text"
 msgstr ""
+"这一次，下一条消息迅速传回：\n"
+"\n"
+"伊普西隆\n"
+"\n"
+"只有这一个词。这一次，你无法再做出任何回应。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1064
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST_ANSWER\"]/choice/text"
-msgstr ""
+msgstr "什么？谁？为什么？在哪里？什么时候？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1066
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST_ANSWER\"]/choice/event/text"
 msgstr ""
+"你正在思考生命中最重大的问题，突然舰外一道强光将你拉回现实；前哨站爆炸了，一"
+"连串炸弹接连引爆，碎片向四面八方飞散，你勉强才躲开……至少你是这么以为的。碎片"
+"之中含有大量被灵魂瘟疫侵染的物质，这种虹彩般的物质在太空中飞散成成千上万的微"
+"小液滴。许多液滴溅落在你的舰体上，短短几秒内就融合在一起并渗入舰体内部……你完"
+"全不清楚刚才到底发生了什么，但你知道，有东西找上门来了！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1078
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/text"
 msgstr ""
+"刚进入星云的一片空旷区域时，你还以为自己产生了幻觉，但很快就意识到眼前的一切"
+"都是真实的……这个信标站处有一整座甲壳族前哨站，而且看起来还在正常运作！可就在"
+"你靠近时，安装在上面的数门巨型武器纷纷瞄准了你的飞船……你要如何应对？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1080
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/text"
-msgstr ""
+msgstr "停止靠近。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1082
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/text"
 msgstr ""
+"你停下飞船，前哨站的巨型武器没有开火。它们也没有挪开瞄准方向，但至少在把你炸"
+"成碎片这件事上犹豫了。令你困惑的是，你收到的不是问候，而是一条直接发送到你飞"
+"船系统的消息：\n"
+"\n"
+"联邦\n"
+"何事\n"
+"所需\n"
+"\n"
+"消息下方有一个单字输入框，等待回复。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1090
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "输入“交易”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1092
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[1]/event/text"
-msgstr ""
+msgstr "你发出消息，过了一会儿，另一条消息弹了出来……这一次是一份商品目录。但令人困惑"
+"的是，他们似乎并不打算出售任何船员。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1094
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "呵。奇怪。那就交易吧！不问任何问题！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1098
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "不了。我不信这个。赶紧离开这里。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1100
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"在你的飞船驶离时，前哨站的武器依旧锁定着你，但始终没有开火。你暂时安全了，就"
+"在这时舰体系统收到了最后一条信息，你不由得一阵战栗：\n"
+"\n"
+"英雄\n"
+"再见\n"
+"不久"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1107
 msgid ""
@@ -1321,32 +1582,54 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1119
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "输入“帮助”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1121
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/text"
 msgstr ""
+"你发出消息，过了一会儿，另一条消息弹了出来：\n"
+"\n"
+"救\n"
+"我们\n"
+"救\n"
+"救\n"
+"\n"
+"下方还有一个单字输入框等待填写。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1130
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "眨了眨眼，输入“什么”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1132
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/text"
 msgstr ""
+"这一次，你发出了消息，过了很久……最终，你收到了另一条回复：\n"
+"\n"
+"如何\n"
+"帮助\n"
+"什么\n"
+"需要\n"
+"\n"
+"又一个填空等待着你的回答。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1141
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[1]/text"
-msgstr ""
+msgstr "输入“船员”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1143
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[1]/event/text"
 msgstr ""
+"你不知道自己在期待什么，但肯定不是突然从上方天花板渗出来的一滩灵魂瘟疫污染物"
+"质。你及时躲开，看着它落在地上，正准备拉响警报，那团物质就凝聚成了一具灵魂瘟"
+"疫躯壳，可它就只是……站在那里。你眨了眨眼，它的面部随之震颤。你挥了挥手臂，它"
+"对应的手臂分裂成了三截。你不清楚原因，但它看起来……是友善的？你有种确切的感觉"
+"：自己还没弄明白这座前哨站的真正本质，但你不打算为此冒粉身碎骨的风险。你驾驶"
+"飞船驶离，带上了这个没有生命气息的新盟友，准备离开信标。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1146
 msgid ""
@@ -1361,12 +1644,16 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1156
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "输入“资源”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1158
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"一道强光闪过，几箱资源莫名其妙地出现在你身旁的房间里。更诡异的是这些箱子的状"
+"况……它们几乎爬满了灵魂瘟疫侵染物质。你想尽办法安全地取出了里面的资源，随后将"
+"被污染的箱子丢弃进太空。你有种确切的感觉：自己还没弄明白这座前哨站的真正本质…"
+"…但你不打算为此冒粉身碎骨的风险。你带着资源驶离，准备离开这个信标。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1161
 msgid ""
@@ -1381,12 +1668,16 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1171
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[3]/text"
-msgstr ""
+msgstr "输入“维修”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1173
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[2]/event/choice/event/choice[3]/event/text"
 msgstr ""
+"你本以为会有物体从前哨站驶出，却突然听到飞船外壳传来一阵急促的敲击声。还没等"
+"你查明原因，敲击声便停止了，而你发现飞船竟莫名被修复好了……什么情况？你真切地"
+"感觉到，自己还未洞悉这座前哨站的真实本质，但你绝不会为此冒粉身碎骨的风险。你"
+"驾驶着修复完毕的飞船驶离，准备离开这个信标。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1176
 msgid ""
@@ -1401,47 +1692,60 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1190
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "输入“信息”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1192
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/text"
 msgstr ""
+"你发出消息，过了一会儿，另一条消息弹了出来：\n"
+"\n"
+"一个\n"
+"问题\n"
+"问\n"
+"\n"
+"下方还有一个单字输入框等待填写。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1200
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/choice[1]/text"
-msgstr ""
+msgstr "输入“谁”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1204
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/choice[2]/text"
-msgstr ""
+msgstr "输入“什么”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1208
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "输入“何时”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1212
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/choice[4]/text"
-msgstr ""
+msgstr "输入“哪里”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1216
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[1]/event/choice[3]/event/choice[5]/text"
-msgstr ""
+msgstr "输入“为什么”。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1224
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[2]/text"
-msgstr ""
+msgstr "继续前往前哨站。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1226
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_SHELLOUTPOST\"]/choice[2]/event/text"
 msgstr ""
+"你已经做好万全准备，无论这些巨型大炮朝你发射什么，你都要全力规避。但你完全没"
+"料到接下来会发生什么……就在你靠近前哨站时，它突然爆炸了。一枚枚炸弹接连引爆，"
+"碎片朝四面八方飞散，你勉强才躲过一劫……至少你是这么以为的。碎片之中混杂着大量"
+"的灵魂瘟疫侵染物质，这种泛着虹彩的物质在太空中崩解成成千上万的微小液滴。许多"
+"液滴溅落在你的飞船上，短短几秒内就相互融合，渗入了舰体……你完全不清楚刚才到底"
+"发生了什么，但你知道，有“东西”找上门来了！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1235
 msgid ""
@@ -1467,56 +1771,75 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/text"
 msgstr ""
+"你驶过躯壳飞船的残骸，立刻向附近的甲壳族发送通讯信号。他们很快回应：“你太厉害"
+"了！我听过好多关于联邦的传说，可从没想过他们会特意来救我这样的人……尤其是在这"
+"种地方！”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1266
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/text"
-msgstr ""
+msgstr "你到底在这种地方做什么？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1268
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/text"
 msgstr ""
+"甲壳族向后退了一点，你能看出它是怪才体科学区的成员。“说实话，我来这里是违抗首"
+"领的命令……他和内尔瓦都坚决要求，在伊普西隆失联之后，任何人都不准来这里。我来"
+"这里纯粹是出于好奇，但现在看来，我这次真的是力不从心了……”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1270
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/text"
-msgstr ""
+msgstr "长官？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1272
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/text"
 msgstr ""
+"甲壳族发出一声低沉又烦躁的叹息，不过你明白这并非针对你，“说的应该是阿尔科莱。"
+"这家伙混蛋得很，却在区里一手遮天。让他不爽的是，出了这片区域他就没这么大权力"
+"了，我猜伊普西隆当初会来这里，就是因为这个。”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1274
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/text"
-msgstr ""
+msgstr "（阿尔科莱）“你说他是个彻头彻尾的混蛋？”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1276
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/text"
 msgstr ""
+"阿尔科莱从你身后慢悠悠地靠了过来，那名甲壳族见状吓得连连后退：“长、长、长官？"
+"！您怎么会在这里？！难道说……您特地让这些联邦军官一路护送到这里，就为了找我？”"
+"阿尔科莱嗤笑一声：“找你？我连你名字都不知道。不过等这堆烂事了结之后，我肯定会"
+"知道的。我要是你，现在就赶紧把履历擦干净；还好我不是你！”他大笑着转身离开，只"
+"留下那名甲壳族，神情彻底沮丧了下去……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1278
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/choice/text"
-msgstr ""
+msgstr "你要知道……联邦这边一直都在招人。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1280
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/choice/event/text"
 msgstr ""
+"他们靠了过来，听到这话立刻精神一振：“你是……在暗示我心里想的那件事吗？”你点了"
+"点头，甲壳族重重松了口气：“那我就和阿尔科莱平起平坐了，对吧？至少在他上船这段"
+"时间是。他绝对会气死的。”他们窃笑起来，和刚才阿尔科莱的笑声如出一辙：“让他嚣"
+"张。混蛋。不过我过去的时候，你尽管和我的同伴交易就行！”甲壳族转身驶出房间，片"
+"刻之后就出现在了你的飞船上……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1283
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/choice/event/choice/text"
-msgstr ""
+msgstr "好啊，去你的阿尔科莱！商店时间到！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1285
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[@req=\"unique_alkali\"]/event/choice/event/choice/event/text"
-msgstr ""
+msgstr "……这时一个新角色走了进来，手里拿着一份商品目录。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1288
 msgid ""
@@ -1526,22 +1849,30 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1298
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[2]/text"
-msgstr ""
+msgstr "这位伊普西隆……你之前说过他已经失联了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1300
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[2]/event/text"
 msgstr ""
+"“是啊……这实在是个谜，就算在那些顶尖学者当中也没人清楚。伊普西隆实验室及其成员"
+"在负责人与首领闹翻后，脱离了科学区的管控，一路来到这里秘密进行研究。可没过多"
+"久他们就彻底失联了……那都是好几年前的事了，剩下的你也看到了。他们就这么凭空消"
+"失了。”"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1302
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[2]/event/choice/text"
-msgstr ""
+msgstr "他们到底在研究什么？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1304
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[1]/event/choice/event/choice[2]/event/choice/event/text"
 msgstr ""
+"甲壳族微微收紧了身体，和我们大多数人研究的是同一样东西，我向你保证。不过我不"
+"能……确切告诉你那是什么。这是怪才体的商业机密之类的。一阵尴尬的沉默过后，甲壳"
+"族又精神起来，好了！不说这个了！在我离开之前，你有什么需要的吗？甲壳族向后退"
+"去，展示出他们的存货，你可以进行交易了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1307
 msgid ""
@@ -1551,12 +1882,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1319
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[2]/text"
-msgstr ""
+msgstr "关于那个商店信标……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1321
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_SHELL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "甲壳族精神一振，“是啊！在我赶紧离开这儿之前，我能给你提供点东西。看看吧！”甲"
+"壳族向后退去，展示出他们的存货，你可以进行交易了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1324
 msgid ""
@@ -1567,21 +1899,27 @@ msgstr "继续。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL_FIGHT_WIN_HUSKS\"]/text"
 msgstr ""
+"你驶过躯壳族飞船的残骸，立刻向附近的甲壳族发送通讯信号，但在这么做的时候你察"
+"觉到有些不对劲……他们的飞船同样在毫无规律地移动。如果这些怪物能做出这种事，那"
+"这个商店信标肯定是个陷阱……或者只是飞船前主人留下的东西。你竭尽全力逃离，但还"
+"是有部分躯壳族强行登上了你的飞船！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1341
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL\"]/text"
 msgstr ""
+"你抵达商店信标时，一艘飞船从你身旁飞驰而过，你认出了它那近乎毫无规律的移动方"
+"式……而且，你认出了它的目标！一艘满载躯壳的飞船正径直冲向前面的甲壳族飞船！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1343
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL\"]/choice[1]/text"
-msgstr ""
+msgstr "介入。保护商人！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1345
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你冲到布满躯壳的飞船前方，在它曲折行进时占据了先机，并准备阻止它前进！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1348
 msgid ""
@@ -1591,12 +1929,13 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1354
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL\"]/choice[2]/text"
-msgstr ""
+msgstr "任由甲壳族自生自灭。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1356
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"STORELIST_DDSOULPLAGUE_RESCUESHELL\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你并不想卷入这场战斗。尽管心中不忍，你还是转身离开甲壳族，假装对他们的困境一"
+"无所知。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1358
 msgid ""
@@ -1611,7 +1950,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1388
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_CRITICALLOSS\"]/text"
-msgstr ""
+msgstr "你竭尽全力在外面的灵魂瘟疫黏液中机动操控，但一次失误就导致你的舰体撞上了一堆"
+"受感染的物质……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1393
 msgid ""
@@ -1621,12 +1961,14 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1395
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_CRITICALLOSS\"]/choice/event/text"
-msgstr ""
+msgstr "这一切接连发生，撞击并惊动了更多的感染物！它们冒着泡，愤怒地蠕动着，随后钻入"
+"你的舰体，汇聚成一支由灵魂瘟疫躯壳组成的小型军团！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1402
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_MINORLOSS\"]/text"
-msgstr ""
+msgstr "你竭尽全力在外面的灵魂瘟疫黏液中机动操控，但一次失误就导致你的舰体撞上了一堆"
+"受感染的物质……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1407
 msgid ""
@@ -1636,12 +1978,15 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1409
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_MINORLOSS\"]/choice/event/text"
-msgstr ""
+msgstr "……它冒着泡，愤怒地蠕动着，随后钻入你的舰体，汇聚成一群灵魂瘟疫躯壳！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1416
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_SUCCESS\"]/text"
 msgstr ""
+"你竭尽全力在外面的灵魂瘟疫黏液中机动操控，令你惊讶的是，你成功抵达了储藏点，"
+"没有惊动任何受感染物质。当你靠近它时，你发现储藏点本身也已被物质病毒严重破坏…"
+"…它还值得带上舰体吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1418
 msgid ""
@@ -1651,7 +1996,7 @@ msgstr "检查这些埋藏的设备。"
 #: src-en/data/events_sector_ddsoulplague.xml:1420
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_SUCCESS\"]/choice[1]/event/text"
-msgstr ""
+msgstr "储藏点通过气密舱被带进内部，当物质病毒被惊动时，它的外壁开始扭曲蠕动……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1425
 msgid ""
@@ -1661,17 +2006,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1427
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_SUCCESS\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "……做好准备！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1434
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_SUCCESS\"]/choice[2]/text"
-msgstr ""
+msgstr "别碰这个储藏点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1436
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_NAVIGATEGAMBLE_SUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这一切终究不值得……你不去碰那个储藏点，在准备离开信标的同时，尽力让飞船保持稳"
+"定。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1438
 msgid ""
@@ -1686,7 +2032,8 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1450
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_REACHCACHE\"]/text"
-msgstr ""
+msgstr "击败躯壳后，你得以继续前往储藏点。幸好接下来的路程顺利得多，但当你靠近储藏点"
+"时，你发现它也已被物质病毒严重破坏……它还值得带上舰吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1452
 msgid ""
@@ -1696,7 +2043,7 @@ msgstr "检查这些埋藏的设备。"
 #: src-en/data/events_sector_ddsoulplague.xml:1454
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_REACHCACHE\"]/choice[1]/event/text"
-msgstr ""
+msgstr "储藏点通过气密舱被带入内部，当物质病毒被惊动时，它的外壁开始扭曲蠕动……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1459
 msgid ""
@@ -1706,17 +2053,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1461
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_REACHCACHE\"]/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "……做好准备！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1468
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_REACHCACHE\"]/choice[2]/text"
-msgstr ""
+msgstr "别碰这个储藏点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1470
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_REACHCACHE\"]/choice[2]/event/text"
-msgstr ""
+msgstr "这一切终究不值得……你不去碰那个储藏点，在准备离开信标的同时，尽力让飞船保持稳"
+"定。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1472
 msgid ""
@@ -1732,21 +2080,32 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE_CACHEFINISH\"]/text"
 msgstr ""
+"当最后一名入侵者融化成一滩无害且失去活性的物质后，你得以查看储藏点的残余部分…"
+"…并看到一把武器，它已完全被灵魂瘟疫物质病毒侵蚀。不过在这种状态下，它对你而言"
+"仍有价值；只是记得之后要清理你的舰体……用火焰。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1489
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/text"
 msgstr ""
+"这片星云密布的太空里，似乎到处都是被灵魂瘟疫感染的物质，它那斑斓却诡异的光泽"
+"，即便在星云云雾中也隐隐闪烁。这些物质还没有被你的存在惊动，你几乎愿意就这样"
+"静静等待超光速引擎充能完毕。可就在这时，你发现远处漂浮着一个储藏点……里面藏着"
+"什么无人知晓，但只要你能抵达，它就归你所有。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1492
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/text"
-msgstr ""
+msgstr "(灵魂瘟疫船员) 让你的船员安抚外面的感染物质。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1494
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/text"
 msgstr ""
+"一道微弱的低语从你那位隶属于灵魂瘟疫的船员口中传出，触碰着你的意识，也触碰着"
+"外面的灵魂瘟疫黏液，你明白前方已经铺好了一条通路。你穿过太空中散落的团块，它"
+"们甚至没有丝毫蠕动，你便迅速抵达了储藏点。当你靠近它时，你发现储藏点本身也已"
+"被物质病毒严重破坏……如果你将它带上舰体，你不确定你的船员能否帮上忙。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1496
 msgid ""
@@ -1756,7 +2115,7 @@ msgstr "检查这些埋藏的设备。"
 #: src-en/data/events_sector_ddsoulplague.xml:1498
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "储藏点通过气密舱被带进内部，当物质病毒被惊动时，它的外壁开始扭曲蠕动……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1503
 msgid ""
@@ -1766,17 +2125,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1505
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "……做好准备！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1512
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/text"
-msgstr ""
+msgstr "别碰这个储藏点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1514
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"LIST_DDSOULPLAGUE_ALIGNED\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "这一切终究不值得……你不去碰那个储藏点，在准备离开信标的同时，尽力让飞船保持稳"
+"定。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1516
 msgid ""
@@ -1791,12 +2151,15 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1528
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/text"
-msgstr ""
+msgstr "(高级引擎) 小心穿过外面的感染物质。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1530
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/event/text"
 msgstr ""
+"你的引擎动力充足，足以让你在外面这片如同雷区一般的区域里灵活穿行，顺利抵达储"
+"藏点，没有惊动任何感染物质。当你靠近时才发现，储藏点本身也已被物质病毒严重破"
+"坏……它还值得带上舰体吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1532
 msgid ""
@@ -1806,7 +2169,8 @@ msgstr "检查这些埋藏的设备。"
 #: src-en/data/events_sector_ddsoulplague.xml:1534
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/event/choice[1]/event/text"
-msgstr ""
+msgstr "储藏点通过气密舱被带入内部，当物质病毒被惊动时，它的外壁开始扭曲蠕动……做好准"
+"备！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1539
 msgid ""
@@ -1816,17 +2180,18 @@ msgstr "继续。"
 #: src-en/data/events_sector_ddsoulplague.xml:1541
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/event/choice[1]/event/choice/event/text"
-msgstr ""
+msgstr "……做好准备！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1548
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/event/choice[2]/text"
-msgstr ""
+msgstr "别碰这个储藏点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1550
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[@req=\"engines\"]/event/choice[2]/event/text"
-msgstr ""
+msgstr "这一切终究不值得……你不去碰那个储藏点，在准备离开信标的同时，尽力让飞船保持稳"
+"定。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1552
 msgid ""
@@ -1841,17 +2206,18 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:1564
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[3]/text"
-msgstr ""
+msgstr "尽力抵达储藏点。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1568
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[4]/text"
-msgstr ""
+msgstr "无视储藏点，保持静止。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1570
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_SWARMPRIZE\"]/choice[4]/event/text"
-msgstr ""
+msgstr "这风险实在太大了，尤其是你根本不知道那个储藏点里是否有任何有价值的东西。你满"
+"足于这个自保的决定，在准备离开信标的同时，尽力让舰船保持静止。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1572
 msgid ""
@@ -1867,106 +2233,133 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_FIRSTGAMBLE_SUCCESS\"]/text"
 msgstr ""
+"没错，你顺利收集到了大量无人争抢的废料。然而，外面新的微光吸引了你的注意，你"
+"意识到外面的一些残骸终究还是被感染了……如果你再继续收集，可能就是在碰运气了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1610
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_FIRSTGAMBLE_SUCCESS\"]/choice[1]/text"
-msgstr ""
+msgstr "不会有事的。继续前进！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1614
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_FIRSTGAMBLE_SUCCESS\"]/choice[2]/text"
-msgstr ""
+msgstr "我们别太贪心了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1616
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_FIRSTGAMBLE_SUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定最好还是避免遭遇更多灵魂瘟疫躯壳的风险，不再触碰剩余的残骸。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1622
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_FIRSTGAMBLE_FAILURE\"]/text"
 msgstr ""
+"你刚一开始收集外面的废料……就因为太过仓促而意识到自己犯了错。被碰到的第一块废"
+"料疯狂扭动，带着虹彩的触须向外伸展，将其余残骸甩进星云之中；紧接着，它对你的"
+"舰体发动攻击，显露出自始至终都是由灵魂瘟疫躯壳融化聚合而成的真身！看来这并不"
+"是你所期待的收获……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1627
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_SECONDGAMBLE_SUCCESS\"]/text"
 msgstr ""
+"看来你并不算倒霉，你继续填满自己的金库，成功没有惊动外面任何被灵魂瘟疫感染的"
+"物质。剩余的废料还有很多，但在此多留片刻，不仅要冒着潜伏的灵魂瘟疫躯壳发怒的"
+"风险，还要面对叛军舰队的威胁……你会怎么做？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1630
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_SECONDGAMBLE_SUCCESS\"]/choice[1]/text"
-msgstr ""
+msgstr "我生来就是为了冒险！继续！前进！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1634
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_SECONDGAMBLE_SUCCESS\"]/choice[2]/text"
-msgstr ""
+msgstr "够了。我准备离开这里。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1636
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_SECONDGAMBLE_SUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "你决定最好避免同时面对灵魂瘟疫躯壳与叛军的风险，不再触碰剩余的残骸。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1642
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_SECONDGAMBLE_FAILURE\"]/text"
 msgstr ""
+"这次你就没那么幸运了……你试图继续收集外面的废料，可其中一块在被触碰时突然扭动"
+"起来，带着虹彩的触须向外伸展，将其余残骸甩进星云；紧接着，它对你的舰体发动攻"
+"击，显露出自始至终都是由灵魂瘟疫躯壳融化聚合而成的形态！你说不上惊讶，但这依"
+"旧是件倒霉事……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1647
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/text"
 msgstr ""
+"一段时间过去，你意识到自己成功了……你把这鬼地方搜刮得一干二净。外面剩下的只有"
+"那些看起来被感染的残骸，而你还没那么贪心。或者说……你真的不贪心吗？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1651
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[1]/text"
-msgstr ""
+msgstr "我当然有那么贪心。把废料都拿走！全部都拿走！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1653
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[1]/event/text"
 msgstr ""
+"还没等任何人阻止你，你就操控舰船去收集外面那些被灵魂瘟疫感染的废料……可废料一"
+"被触碰就开始扭动，泛着虹彩的触须向外伸展，同时惊动了其他碎片，它们也做出了同"
+"样的反应。你彻底激怒了一整群灵魂瘟疫躯壳！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1658
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/text"
-msgstr ""
+msgstr "我或许贪心，但如果命都没了，废料还有什么用？别去碰那些被感染的物质。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1660
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/event/text"
-msgstr ""
+msgstr "带着它毫无意义，对吧？对吧……？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1662
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/event/choice/text"
-msgstr ""
+msgstr "对吧？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1664
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/event/choice/event/text"
-msgstr ""
+msgstr "……收下它吧……没错……带上我们……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1667
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/event/choice/event/choice/text"
-msgstr ""
+msgstr "好吧……我收下它……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1669
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_SUCCESS\"]/choice[2]/event/choice/event/choice/event/text"
 msgstr ""
+"就在你即将碰到外面那块被灵魂瘟疫感染的废料前，你猛地从恍惚中惊醒。刚才那是怎"
+"么回事？你感觉……有什么东西在你脑海里低语，引诱着你放纵内心的贪婪……你是要疯了"
+"吗？至少你及时回过神来。在准备从信标跃迁离开时，那些低语再也没有出现，这让你"
+"心有余悸。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1679
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP_THIRDGAMBLE_FAILURE\"]/text"
 msgstr ""
+"这次你可没那么走运了，你试图继续收集外面的废料，可其中一块刚被触碰就剧烈扭动"
+"起来，泛着虹彩的触须向外伸展，同时惊动了其他碎片，它们也跟着扭动不止，你不仅"
+"激怒了一整群灵魂瘟疫躯壳，就连叛军也正在逼近，外面那些未被污染的剩余废料被狠"
+"狠抽飞，向着星云更深处散去，该死。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1685
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_RISKYSCRAP\"]/text"
-msgstr ""
+msgstr "你瞥见外面的太空中有什么东西在闪烁，你本以为那不过是又一块被灵魂瘟疫感染的物"
+"质……可你很快意识到，这远不止如此。这里竟然是一整片残骸区域！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:1688
 msgid ""
@@ -2991,6 +3384,15 @@ msgstr ""
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_FOOLISHNOTES_WRECKEXPLORE_PARTTWO\"]/choice/event/choice[1]/event/text"
 msgstr ""
+"你翻到第一页能看清的页面，阅读上面的内容：\n"
+"\n"
+"———的日志，第13天\n"
+"愚者\n"
+"\n"
+"自从伊普西隆离开———以来，已经过去了近两周，担忧日益加剧。我已尽力平息这些流言"
+"，但我的部下———深入星云之中。但愿我们都能继续———\n"
+"\n"
+"页面剩余部分已无法辨认。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:2425
 msgid ""
@@ -3111,6 +3513,10 @@ msgstr ""
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"NEBULA_ITEMS_DDSOULPLAGUE_FOOLISHNOTES_WRECKEXPLORE\"]/choice[2]/event/text"
 msgstr ""
+"这些笔记有的被撕碎，有的残破不堪，散落在房间各处。它们用一种你和你的翻译器都"
+"无法识别的外星文字书写，你仅能辨认出其中包含着某种数学公式……还有形态怪异、无"
+"定形的生物图示。你发现，每一张保存完好、能看到右下角的笔记都盖着同一个印记，"
+"而印记上的刻字你可以辨认：伊普西隆。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:2546
 msgid ""
@@ -5586,71 +5992,94 @@ msgstr "跳过。"
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_HUSKATTACK\"]/text"
 msgstr ""
+"当最后一条锁链松开时，箱子开始震动……它的侧面猛然炸开，一股极度腐臭的气味弥漫"
+"在空气中。你后退一步，一团黑色的黏稠物从裂口缓缓渗出，躯壳在你面前开始聚合！"
+"哪怕就一次，你也希望能走运找到点战利品……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4500
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/text"
 msgstr ""
+"最后一条锁链松开，你打开了箱子……一股极度腐臭的气味瞬间充斥空气中。你后退一步"
+"，让眼睛适应箱子里的黑暗，随即发现自己正与一具躯壳面对面！你立刻摆出防御姿态"
+"，可在意识到它还没有任何动作时，又迟疑了。若不是见过躯壳会融化成一滩滩失活物"
+"质瘫在地上，你定会以为它已经死了……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4502
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/choice[1]/text"
-msgstr ""
+msgstr "没时间犹豫了。开枪打那该死的东西！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4504
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/choice[1]/event/text"
-msgstr ""
+msgstr "你摇了摇头，打破迟疑，朝躯壳开火。它在你开枪的瞬间活了过来，你立刻拔腿就跑！"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4509
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/choice[2]/text"
-msgstr ""
+msgstr "朝躯壳挥挥手。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4511
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/choice[2]/event/text"
 msgstr ""
+"你朝它挥了挥手，令你恶心的是，它居然也朝你挥了挥手。你再往后退一步，它就朝你"
+"走近一步，你意识到它在隐约模仿你的动作……有点用，就是……呃……让人很不舒服。欢迎"
+"加入队伍，躯壳……？"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4512
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_FRIENDLYHUSK\"]/choice[2]/event/crewMember"
-msgstr ""
+msgstr "镜中人"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4518
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS_BOXINSIDES_WEAPON\"]/text"
 msgstr ""
+"最后一条锁链松开，你打开了箱子……一股极度腐臭的气味弥漫在空气中。你后退一步，"
+"让眼睛适应里面的黑暗，然后你看到了……一件武器。但这并非普通武器，而是一件完全"
+"被灵魂瘟疫物质病毒侵染的武器！就算得小心安装，这也是个不错的发现。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4523
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/text"
 msgstr ""
+"太空外漂浮着一个金属箱，每一端都被锁链紧紧锁住，除此之外没有任何特征。你试图"
+"分辨里面装着什么，却徒劳无功，只能暗自疑惑自己面对的究竟是什么东西……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4525
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[1]/text"
-msgstr ""
+msgstr "把这个奇怪的箱子带上舰。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4527
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[1]/event/text"
 msgstr ""
+"把箱子弄进来并不算费力，可要挪动它却困难得多。等你把它放到满意的位置后，便能"
+"更清楚地观察……它并非你所想的那样毫无特征，侧面依稀能辨认出一些褪色的刻字：\n"
+"\n"
+"“怪才体科学区 伊普西隆分部 财产”\n"
+"\n"
+"还好，你周围没有看到任何甲壳族，不会有人来找你劫掠的麻烦。现在只剩下打开箱子"
+"这一步了。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4533
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[1]/event/choice[1]/text"
-msgstr ""
+msgstr "砸断箱子上的锁链，打开它。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4537
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[1]/event/choice[2]/text"
-msgstr ""
+msgstr "转念一想……"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4539
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[1]/event/choice[2]/event/text"
-msgstr ""
+msgstr "你一点也不信任这个箱子里的东西；谁知道怪才体的人在这里到底搞了什么勾当？你把"
+"它扔回外面，看着它缓缓飘向远方……或许某天会有其他人发现它。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4541
 msgid ""
@@ -5665,12 +6094,15 @@ msgstr "跳过。"
 #: src-en/data/events_sector_ddsoulplague.xml:4553
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[2]/text"
-msgstr ""
+msgstr "别碰这个箱子。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4555
 msgid ""
 "data/events_sector_ddsoulplague.xml$//event[@name=\"CLEARING_DDSOULPLAGUE_EPSILONREMAINS\"]/choice[2]/event/text"
 msgstr ""
+"就算这里飘着的是用彩虹和糖果做的随机箱子，你也不会信任，更别说这是金属和锁链"
+"打造的了……它有种说不出的感觉让你不安。你不去碰它，看着箱子缓缓飘向远方……或许"
+"某天会有其他人发现它。"
 
 #: src-en/data/events_sector_ddsoulplague.xml:4557
 msgid ""
