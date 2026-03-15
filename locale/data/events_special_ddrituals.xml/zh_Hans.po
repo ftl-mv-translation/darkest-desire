@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-15 11:44+0000\n"
+"PO-Revision-Date: 2026-03-16 08:56+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_ddritualsxml/zh_Hans/>\n"
@@ -392,7 +392,7 @@ msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯
 #: src-en/data/events_special_ddrituals.xml:332
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:335
 msgid ""
@@ -402,12 +402,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:341
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:343
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:346
 msgid ""
@@ -417,22 +417,23 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:354
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现，你思索着想要为其赐下的祝福……"
 
 #: src-en/data/events_special_ddrituals.xml:357
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/text"
-msgstr ""
+msgstr "向深渊呼唤。"
 
 #: src-en/data/events_special_ddrituals.xml:359
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/text"
-msgstr ""
+msgstr "阴影散去，令人不适的红色光芒笼罩了整个房间，你的圣卫完成了蜕变。它已获得深渊"
+"恩惠；你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:362
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:364
 msgid ""
@@ -464,7 +465,7 @@ msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯
 #: src-en/data/events_special_ddrituals.xml:385
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:388
 msgid ""
@@ -474,12 +475,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:394
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:396
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:399
 msgid ""
@@ -489,17 +490,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:407
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/text"
-msgstr ""
+msgstr "向星渊呼唤。"
 
 #: src-en/data/events_special_ddrituals.xml:409
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/text"
-msgstr ""
+msgstr "阴影散去，诡异的紫色光芒笼罩了整个房间，你的圣卫完成了蜕变。它已获得星渊恩惠"
+"；你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:412
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:414
 msgid ""
@@ -541,12 +543,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:444
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:446
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:449
 msgid ""
@@ -556,17 +558,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:457
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/text"
-msgstr ""
+msgstr "向腐朽呼唤。"
 
 #: src-en/data/events_special_ddrituals.xml:459
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/text"
-msgstr ""
+msgstr "阴影散去，阴郁的青蓝色光芒笼罩了整个房间，你的圣卫完成了蜕变。它已获得腐朽恩"
+"惠；你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:462
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:464
 msgid ""
@@ -608,12 +611,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:494
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:496
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:499
 msgid ""
@@ -623,7 +626,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:509
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:512
 msgid ""
@@ -633,12 +636,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:514
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/text"
-msgstr ""
+msgstr "……而当这片黑暗迅速消散时，一股熟悉的红光充斥了房间，你的圣卫留在原地；他们的"
+"深渊恩惠得到了强化。你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:517
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:519
 msgid ""
@@ -670,7 +674,7 @@ msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯
 #: src-en/data/events_special_ddrituals.xml:540
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:543
 msgid ""
@@ -680,12 +684,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:549
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:551
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:554
 msgid ""
@@ -695,7 +699,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:564
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:567
 msgid ""
@@ -705,12 +709,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:569
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/text"
-msgstr ""
+msgstr "……而当这片黑暗迅速消散时，一股熟悉的红光充斥了房间，你的圣卫留在原地；他们的"
+"深渊恩惠得到了强化。你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:572
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:574
 msgid ""
@@ -721,7 +726,7 @@ msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。
 #: src-en/data/events_special_ddrituals.xml:579
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:582
 msgid ""
@@ -736,12 +741,13 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:590
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:595
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:598
 msgid ""
@@ -751,12 +757,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:604
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:606
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:609
 msgid ""
@@ -766,7 +772,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:619
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:622
 msgid ""
@@ -776,12 +782,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:624
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/text"
-msgstr ""
+msgstr "……当这片黑暗迅速消散时，一股熟悉的紫光充斥了房间，你的圣卫留在原地；他们的星"
+"渊恩惠得到了强化。你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:627
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:629
 msgid ""
@@ -807,7 +814,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:645
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:650
 msgid ""
@@ -822,12 +830,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:659
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:661
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:664
 msgid ""
@@ -837,7 +845,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:674
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:677
 msgid ""
@@ -852,7 +860,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:682
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:684
 msgid ""
@@ -878,7 +886,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:700
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:705
 msgid ""
@@ -893,12 +902,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:714
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:716
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:719
 msgid ""
@@ -908,7 +917,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:729
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:732
 msgid ""
@@ -923,7 +932,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:737
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:739
 msgid ""
@@ -949,7 +958,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:755
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:760
 msgid ""
@@ -964,12 +974,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:769
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:771
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:774
 msgid ""
@@ -979,7 +989,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:784
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:787
 msgid ""
@@ -994,7 +1004,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:792
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:794
 msgid ""
@@ -1020,7 +1030,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:810
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:815
 msgid ""
@@ -1035,12 +1046,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:824
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:826
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:829
 msgid ""
@@ -1050,7 +1061,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:839
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:842
 msgid ""
@@ -1065,7 +1076,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:847
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:849
 msgid ""
@@ -1091,7 +1102,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:865
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:870
 msgid ""
@@ -1106,12 +1118,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:879
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:881
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:884
 msgid ""
@@ -1121,7 +1133,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:894
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:897
 msgid ""
@@ -1136,7 +1148,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:902
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:904
 msgid ""
@@ -1162,7 +1174,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:920
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:925
 msgid ""
@@ -1177,12 +1190,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:934
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:936
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:939
 msgid ""
@@ -1207,7 +1220,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:957
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:959
 msgid ""
@@ -1233,7 +1246,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:975
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:980
 msgid ""
@@ -1248,12 +1262,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:989
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:991
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:994
 msgid ""
@@ -1273,7 +1287,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1007
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1009
 msgid ""
@@ -1299,7 +1313,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1025
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1030
 msgid ""
@@ -1314,12 +1329,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1039
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1041
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1044
 msgid ""
@@ -1339,7 +1354,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1057
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1059
 msgid ""
@@ -1365,7 +1380,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1075
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1080
 msgid ""
@@ -1380,12 +1396,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1089
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1091
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1094
 msgid ""
@@ -1395,7 +1411,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1104
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1107
 msgid ""
@@ -1405,12 +1421,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1109
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/text"
-msgstr ""
+msgstr "……而当这片黑暗迅速消散时，一股熟悉的红光充斥了房间，你的圣卫留在原地；他们的"
+"深渊恩惠得到了强化。你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:1112
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1114
 msgid ""
@@ -1436,7 +1453,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1130
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1135
 msgid ""
@@ -1451,12 +1469,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1144
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1146
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1149
 msgid ""
@@ -1466,7 +1484,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1159
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1162
 msgid ""
@@ -1476,12 +1494,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1164
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/text"
-msgstr ""
+msgstr "……而当这片黑暗迅速消散时，一股熟悉的红光充斥了房间，你的圣卫留在原地；他们的"
+"深渊恩惠得到了强化。你要继续仪式，寻求更多馈赠吗？"
 
 #: src-en/data/events_special_ddrituals.xml:1167
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1169
 msgid ""
@@ -1507,7 +1526,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1185
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1190
 msgid ""
@@ -1522,12 +1542,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1199
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1201
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1204
 msgid ""
@@ -1537,7 +1557,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1214
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1217
 msgid ""
@@ -1552,7 +1572,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1222
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1224
 msgid ""
@@ -1578,7 +1598,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1240
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1245
 msgid ""
@@ -1593,12 +1614,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1254
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1256
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1259
 msgid ""
@@ -1608,7 +1629,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1269
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1272
 msgid ""
@@ -1623,7 +1644,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1277
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1279
 msgid ""
@@ -1649,7 +1670,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1295
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1300
 msgid ""
@@ -1664,12 +1686,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1309
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1311
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1314
 msgid ""
@@ -1679,7 +1701,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1324
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1327
 msgid ""
@@ -1694,7 +1716,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1332
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1334
 msgid ""
@@ -1720,7 +1742,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1350
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1355
 msgid ""
@@ -1735,12 +1758,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1364
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1366
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1369
 msgid ""
@@ -1750,7 +1773,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1379
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1382
 msgid ""
@@ -1765,7 +1788,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1387
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）进行一次额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1389
 msgid ""
@@ -1791,7 +1814,8 @@ msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。
 #: src-en/data/events_special_ddrituals.xml:1405
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1410
 msgid ""
@@ -1806,12 +1830,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1419
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[3]/text"
-msgstr ""
+msgstr "目前就这些。"
 
 #: src-en/data/events_special_ddrituals.xml:1421
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[3]/event/text"
-msgstr ""
+msgstr "房间的温度平复下来，你与这股神秘热量的联结也随之切断。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:1424
 msgid ""
@@ -1821,7 +1845,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1434
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1437
 msgid ""
@@ -1891,7 +1915,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1489
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_BOARDER\"]/text"
-msgstr ""
+msgstr "一层黑暗帷幕在你的圣卫周围显现……"
 
 #: src-en/data/events_special_ddrituals.xml:1492
 msgid ""
