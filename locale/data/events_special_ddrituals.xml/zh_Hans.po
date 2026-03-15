@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-14 11:26+0000\n"
+"PO-Revision-Date: 2026-03-15 11:44+0000\n"
 "Last-Translator: stone <19732863360@163.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_ddritualsxml/zh_Hans/>\n"
@@ -85,17 +85,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:74
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/text"
-msgstr ""
+msgstr "你的祈愿已然昭显，黑暗之神的注意力迅速化为怒火。你必须继续推进仪式……"
 
 #: src-en/data/events_special_ddrituals.xml:77
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）以活人献祭推进仪式。"
 
 #: src-en/data/events_special_ddrituals.xml:79
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你的刀刃精准命中，祭品瘫倒在地，湿黏而可悲地贴在地板上。随着鲜血涌出，你感受"
+"到黑暗之神的注视愈发强烈……"
 
 #: src-en/data/events_special_ddrituals.xml:84
 msgid ""
@@ -110,12 +111,15 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:93
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）献祭一名你的人类船员，以继续仪式。"
 
 #: src-en/data/events_special_ddrituals.xml:95
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
 msgstr ""
+"你趁他们毫无防备，刀刃精准刺入。他们瘫倒在地，湿黏而可悲地贴在地板上……所幸在"
+"你心中，你深知自己只是在做必须做的事。随着他们的鲜血涌出，你感受到黑暗之神的"
+"注视愈发强烈……"
 
 #: src-en/data/events_special_ddrituals.xml:100
 msgid ""
@@ -130,12 +134,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:109
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[3]/text"
-msgstr ""
+msgstr "我无力继续推进仪式……"
 
 #: src-en/data/events_special_ddrituals.xml:111
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_TERRIBLESIGHTSPERFORMED\"]/choice[3]/event/text"
-msgstr ""
+msgstr "你的灵魂深处传来一阵痛苦灼烈的否定——但黑暗之神明白，在此杀了你并无多少益处。"
+"因此，它赐予了你怜悯，仅此而已。仪式失败了。"
 
 #: src-en/data/events_special_ddrituals.xml:114
 msgid ""
@@ -145,7 +150,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:122
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_EERIEINAUGURATIONPERFORMED\"]/text"
-msgstr ""
+msgstr "异族思绪涌入你的脑海，你突然对深渊潜者所占据星域的坐标了然于心。仪式完成。"
 
 #: src-en/data/events_special_ddrituals.xml:127
 msgid ""
@@ -155,7 +160,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:133
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RESOLUTIONPERFORMED\"]/text"
-msgstr ""
+msgstr "你感受到一股暖意，知道仪式已经完成。睁开双眼，你发现那本异界之书已经消失……但"
+"愿它就此不再出现。"
 
 #: src-en/data/events_special_ddrituals.xml:137
 msgid ""
@@ -165,7 +171,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:143
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_RESOLUTIONTAKEBACKSIESPERFORMED\"]/text"
-msgstr ""
+msgstr "这并非你想要的。你需要更多恩惠，更多力量。尽管你的犹豫耗费了时间，也影响了仪"
+"式，但你睁开眼，发现那本异界之书仍在你面前。"
 
 #: src-en/data/events_special_ddrituals.xml:146
 msgid ""
@@ -175,7 +182,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:152
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_CRYSTALOFPOTENCYPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向谐离水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:156
 msgid ""
@@ -185,7 +192,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:162
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_CRYSTALOFHANDINESSPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向谐离水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:166
 msgid ""
@@ -195,7 +202,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:172
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_CRYSTALOFRAINBOWSPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向谐离水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:176
 msgid ""
@@ -205,7 +212,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:182
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_CRYSTALOFMARTYRDOMPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向谐离水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:186
 msgid ""
@@ -215,7 +222,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:192
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_CRYSTALOFAURASPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向谐离水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:196
 msgid ""
@@ -225,7 +232,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:202
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_LEGENDARYCRYSTALPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作了一张地图，指向传说中的传奇水晶。现在，你必须去寻找你的奖赏……"
 
 #: src-en/data/events_special_ddrituals.xml:206
 msgid ""
@@ -235,7 +242,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:212
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_PRAYEROFPROVINGPERFORMED\"]/text"
-msgstr ""
+msgstr "……它化作一张地图，指向黑暗之神选民的飞船所在之处。现在，你必须去领取你的奖赏…"
+"…"
 
 #: src-en/data/events_special_ddrituals.xml:216
 msgid ""
@@ -245,122 +253,125 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:226
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/text"
-msgstr ""
+msgstr "……最终它将以你期望的任何形式，显化为实体。"
 
 #: src-en/data/events_special_ddrituals.xml:228
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[1]/text"
-msgstr ""
+msgstr "我想要……一名隐匿圣卫，为更伟大的馈赠铺平道路。"
 
 #: src-en/data/events_special_ddrituals.xml:232
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_UNSEEN_DEFEND\"]/text"
-msgstr ""
+msgstr "（隐匿圣卫）我想要……一道祝福，来强化我的一名隐匿圣卫。"
 
 #: src-en/data/events_special_ddrituals.xml:236
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_UNSEEN_BOARDER\"]/text"
-msgstr ""
+msgstr "（隐匿圣卫）我想要……一道祝福，来隐匿我的一名无形圣卫。"
 
 #: src-en/data/events_special_ddrituals.xml:240
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_DEFEND\"]/text"
-msgstr ""
+msgstr "（一阶深渊圣卫）我想要……强化我的圣卫所拥有的深渊祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:244
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_ABYSS_BOARDER\"]/text"
-msgstr ""
+msgstr "（一阶深渊圣卫）我想要……强化我的圣卫所拥有的深渊祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:248
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_DEFEND\"]/text"
-msgstr ""
+msgstr "（二阶深渊圣卫）我想要……强化我的圣卫所拥有的深渊祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:252
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_ABYSS_BOARDER\"]/text"
-msgstr ""
+msgstr "（二阶深渊圣卫）我想要……强化我的圣卫所拥有的深渊祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:256
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_DEFEND\"]/text"
-msgstr ""
+msgstr "（一阶星辰圣卫）我想要……强化我的圣卫所拥有的星辰祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:260
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_STARS_BOARDER\"]/text"
-msgstr ""
+msgstr "（一阶星辰圣卫）我想要……强化我的圣卫所拥有的星辰祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:264
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_DEFEND\"]/text"
-msgstr ""
+msgstr "（二阶星辰圣卫）我想要……强化我的圣卫所拥有的星辰祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:268
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_STARS_BOARDER\"]/text"
-msgstr ""
+msgstr "（二阶星辰圣卫）我想要……强化我的圣卫所拥有的星辰祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:272
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_DEFEND\"]/text"
-msgstr ""
+msgstr "（一阶腐朽圣卫）我想要……强化我的圣卫所拥有的腐朽祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:276
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_MIRE_BOARDER\"]/text"
-msgstr ""
+msgstr "（一阶腐朽圣卫）我想要……强化我的圣卫所拥有的腐朽祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:280
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_DEFEND\"]/text"
-msgstr ""
+msgstr "（二阶腐朽圣卫）我想要……强化我的圣卫所拥有的腐朽祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:284
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_MIRE_BOARDER\"]/text"
-msgstr ""
+msgstr "（二阶腐朽圣卫）我想要……强化我的圣卫所拥有的腐朽祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:288
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_DEFEND\"]/text"
-msgstr ""
+msgstr "（一阶破晓圣卫）我想要……强化我的圣卫所拥有的破晓祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:292
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERONE_DAWN_BOARDER\"]/text"
-msgstr ""
+msgstr "（一阶破晓圣卫）我想要……强化我的圣卫所拥有的破晓祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:296
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_DEFEND\"]/text"
-msgstr ""
+msgstr "（一阶破晓圣卫）我想要……强化我的圣卫所拥有的破晓祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:300
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_REAL\"]/choice[@req=\"DDENLIGHTENED_DARKTEMPLAR_TIERTWO_DAWN_BOARDER\"]/text"
-msgstr ""
+msgstr "（一阶破晓圣卫）我想要……强化我的圣卫所拥有的破晓祝福。"
 
 #: src-en/data/events_special_ddrituals.xml:306
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/text"
 msgstr ""
+"那股炽热的气息已浓烈到几乎无法承受，它自你的胸膛迸发，化作一道闪光……最终在你"
+"面前的空间里，显化为你所渴求的无形圣卫。你是否要继续仪式，追寻更多馈赠？"
 
 #: src-en/data/events_special_ddrituals.xml:309
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"ddhuman_sacrifice\"]/text"
-msgstr ""
+msgstr "（活人献祭）再献上一次活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:311
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:316
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:319
 msgid ""
@@ -370,12 +381,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:325
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:327
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_UNSEENTEMPLAR\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:332
 msgid ""
@@ -425,12 +437,13 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:364
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:369
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:372
 msgid ""
@@ -440,12 +453,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:378
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:380
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:385
 msgid ""
@@ -490,12 +504,13 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:414
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:419
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:422
 msgid ""
@@ -505,17 +520,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:428
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:430
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:435
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:438
 msgid ""
@@ -555,12 +571,13 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:464
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:469
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:472
 msgid ""
@@ -570,17 +587,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:478
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:480
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:485
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_DEFEND\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:488
 msgid ""
@@ -625,12 +643,13 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:519
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:524
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:527
 msgid ""
@@ -640,12 +659,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:533
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:535
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/text"
-msgstr ""
+msgstr "当你将匕首刺入他们后背时，他们甚至毫无察觉，身躯毫无生气地倒在地上。又一次献"
+"祭完成，你胸腔中的火焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:540
 msgid ""
@@ -695,7 +715,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:574
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:579
 msgid ""
@@ -710,7 +731,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:588
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:590
 msgid ""
@@ -765,7 +786,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:629
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:634
 msgid ""
@@ -780,7 +802,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:643
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:645
 msgid ""
@@ -790,7 +812,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:650
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:653
 msgid ""
@@ -835,7 +857,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:684
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:689
 msgid ""
@@ -850,7 +873,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:698
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:700
 msgid ""
@@ -860,7 +883,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:705
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:708
 msgid ""
@@ -905,7 +928,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:739
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:744
 msgid ""
@@ -920,7 +944,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:753
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:755
 msgid ""
@@ -930,7 +954,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:760
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/event/removeCrew/text"
-msgstr ""
+msgstr "你无法克隆灵魂已献给黑暗之神的人。"
 
 #: src-en/data/events_special_ddrituals.xml:763
 msgid ""
@@ -975,7 +999,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:794
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:799
 msgid ""
@@ -990,7 +1015,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:808
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:810
 msgid ""
@@ -1045,7 +1070,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:849
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:854
 msgid ""
@@ -1060,7 +1086,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:863
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_DAWN_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:865
 msgid ""
@@ -1115,7 +1141,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:904
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:909
 msgid ""
@@ -1130,7 +1157,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:918
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_DAWN_DEFEND\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:920
 msgid ""
@@ -1185,7 +1212,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:959
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:964
 msgid ""
@@ -1200,7 +1228,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:973
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[1]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:975
 msgid ""
@@ -1250,7 +1278,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1009
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1014
 msgid ""
@@ -1265,7 +1294,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1023
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[2]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1025
 msgid ""
@@ -1315,7 +1344,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1059
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1064
 msgid ""
@@ -1330,7 +1360,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1073
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_GIVEMEBLESSINGS_BOARDER\"]/choice[3]/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1075
 msgid ""
@@ -1385,7 +1415,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1114
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1119
 msgid ""
@@ -1400,7 +1431,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1128
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_ABYSS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1130
 msgid ""
@@ -1455,7 +1486,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1169
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1174
 msgid ""
@@ -1470,7 +1502,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1183
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_ABYSS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1185
 msgid ""
@@ -1525,7 +1557,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1224
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1229
 msgid ""
@@ -1540,7 +1573,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1238
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_STARS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1240
 msgid ""
@@ -1595,7 +1628,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1279
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1284
 msgid ""
@@ -1610,7 +1644,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1293
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_STARS_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1295
 msgid ""
@@ -1665,7 +1699,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1334
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1339
 msgid ""
@@ -1680,7 +1715,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1348
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERONE_MIRE_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1350
 msgid ""
@@ -1735,7 +1770,8 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:1389
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[@req=\"ddhuman_sacrifice\"]/event/text"
-msgstr ""
+msgstr "你将匕首刺入他们的胸膛，躯体毫无生气地倒在地上。又一次献祭完成，你胸腔中的火"
+"焰再度燃起……"
 
 #: src-en/data/events_special_ddrituals.xml:1394
 msgid ""
@@ -1750,7 +1786,7 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:1403
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"ATLAS_EQUIPMENT_DARKGOD_CURSED_BOOK_PERFORMINGRITUAL_BLESSEDGIFTSPERFORMED_TIERTWO_MIRE_BOARDER\"]/choice/event/choice[@req=\"LIST_CREW_HUMAN\"]/text"
-msgstr ""
+msgstr "（人类船员）使用你的一名船员进行额外的活人献祭。"
 
 #: src-en/data/events_special_ddrituals.xml:1405
 msgid ""
