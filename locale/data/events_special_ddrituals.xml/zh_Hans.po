@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-03-17 12:44+0000\n"
-"Last-Translator: stone <19732863360@163.com>\n"
+"Last-Translator: circle217 <3545024352@qq.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://weblate.hyperq.be/"
 "projects/darkest-desire/dataevents_special_ddritualsxml/zh_Hans/>\n"
 "Language: zh_Hans\n"
@@ -9538,7 +9538,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7288
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7290
 msgid ""
@@ -9564,7 +9564,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7302
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7304
 msgid ""
@@ -9590,7 +9590,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7316
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7318
 msgid ""
@@ -9616,7 +9616,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7330
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7332
 msgid ""
@@ -9642,7 +9642,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7344
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7346
 msgid ""
@@ -9668,7 +9668,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7358
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7360
 msgid ""
@@ -9694,7 +9694,7 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7372
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7374
 msgid ""
@@ -9720,12 +9720,12 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7386
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:7388
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK_FIGHT_WIN_BONUS\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:7390
 msgid ""
@@ -9743,12 +9743,12 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:7404
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:7406
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:7409
 msgid ""
@@ -9761,6 +9761,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"一阵雾气滚滚而来，进一步遮蔽了你的视线，一团毛茸茸的物质爬入视野……一棵伊尔德"
+"里克树正在靠近。一阵明悟涌上心头：如果你能消灭它的船员，你或许能获得一份特殊"
+"奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:7415
 msgid ""
@@ -9779,6 +9782,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_ILLDRYTHK\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"一阵雾气滚滚而来，进一步遮蔽了你的视线，一团毛茸茸的物质爬入视野……一棵伊尔德"
+"里克树正在靠近。一阵明悟涌上心头：如果你能消灭它的船员，你或许能获得一份特殊"
+"奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:7427
 msgid ""
@@ -9809,12 +9815,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7454
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:7456
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7458
 msgid ""
@@ -9832,7 +9839,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7463
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7469
 msgid ""
@@ -9855,7 +9863,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7476
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7482
 msgid ""
@@ -9878,7 +9887,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7489
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7495
 msgid ""
@@ -9901,7 +9911,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7502
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7508
 msgid ""
@@ -9924,7 +9935,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7515
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7521
 msgid ""
@@ -9947,7 +9959,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7528
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7534
 msgid ""
@@ -9970,12 +9983,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7541
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7547
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7549
 msgid ""
@@ -9993,12 +10007,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7554
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7560
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7562
 msgid ""
@@ -10016,12 +10031,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7567
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7573
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7575
 msgid ""
@@ -10039,12 +10055,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7580
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7586
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7588
 msgid ""
@@ -10062,12 +10079,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7593
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7599
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7601
 msgid ""
@@ -10085,12 +10103,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7606
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7612
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7614
 msgid ""
@@ -10108,12 +10127,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7619
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7625
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7627
 msgid ""
@@ -10131,17 +10151,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7632
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7638
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:7640
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:7642
 msgid ""
@@ -10151,17 +10172,19 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7644
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN\"]/choice[15]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了那艘魂疫星舰的所有船员，你失去了那份特殊奖励，但你得到了"
+"你来此寻求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7652
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:7654
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7656
 msgid ""
@@ -10180,6 +10203,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7668
 msgid ""
@@ -10203,6 +10229,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7682
 msgid ""
@@ -10226,6 +10255,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7696
 msgid ""
@@ -10249,6 +10281,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7710
 msgid ""
@@ -10272,6 +10307,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7724
 msgid ""
@@ -10295,6 +10333,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7738
 msgid ""
@@ -10318,11 +10359,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7752
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7754
 msgid ""
@@ -10341,11 +10385,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7766
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7768
 msgid ""
@@ -10364,11 +10411,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7780
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7782
 msgid ""
@@ -10387,11 +10437,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7794
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7796
 msgid ""
@@ -10410,11 +10463,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7808
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7810
 msgid ""
@@ -10433,11 +10489,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7822
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7824
 msgid ""
@@ -10456,11 +10515,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7836
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7838
 msgid ""
@@ -10479,16 +10541,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7850
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:7852
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:7854
 msgid ""
@@ -10499,16 +10564,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER_FIGHT_WIN_BONUS\"]/choice[15]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，残留的魂疫感染物质汇聚成它们所能凝聚的微薄形态："
+"一个单一的魂疫空壳。它需要一个新的宿主，似乎已经与你的星舰建立了某种联系……只"
+"要你喂养它，它就愿意服从你的命令。"
 
 #: src-en/data/events_special_ddrituals.xml:7868
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:7870
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:7873
 msgid ""
@@ -10521,6 +10589,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"触须缠绕着你的星舰，你意识到这并非寻常的异常黑暗……这是一个魂疫聚合体！一个织"
+"魂者正前来保卫它，一阵明悟涌上心头：如果你摧毁它的星舰，你或许能获得一份特殊"
+"奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:7887
 msgid ""
@@ -10539,6 +10610,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_HUSKWEAVER\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"触须缠绕着你的星舰，你意识到这并非寻常的异常黑暗……这是一个魂疫聚合体！一个织"
+"魂者正前来保卫它，一阵明悟涌上心头：如果你摧毁它的星舰，你或许能获得一份特殊"
+"奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:7907
 msgid ""
@@ -10569,12 +10643,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7934
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:7936
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:7938
 msgid ""
@@ -10592,7 +10667,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7943
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7949
 msgid ""
@@ -10615,7 +10691,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7956
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7962
 msgid ""
@@ -10638,7 +10715,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7969
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7975
 msgid ""
@@ -10661,7 +10739,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7982
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:7988
 msgid ""
@@ -10684,7 +10763,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:7995
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8001
 msgid ""
@@ -10707,7 +10787,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8008
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8014
 msgid ""
@@ -10730,12 +10811,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8021
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8027
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8029
 msgid ""
@@ -10753,12 +10835,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8034
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8040
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8042
 msgid ""
@@ -10776,12 +10859,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8047
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8053
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8055
 msgid ""
@@ -10799,12 +10883,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8060
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8066
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8068
 msgid ""
@@ -10822,12 +10907,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8073
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8079
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8081
 msgid ""
@@ -10845,12 +10931,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8086
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8092
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8094
 msgid ""
@@ -10868,12 +10955,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8099
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8105
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8107
 msgid ""
@@ -10891,17 +10979,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8112
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8118
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:8120
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:8122
 msgid ""
@@ -10911,17 +11000,19 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8124
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN\"]/choice[15]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于摧毁了选召者的星舰，你失去了那份特殊奖励，但你得到了你来此寻求"
+"之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8132
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:8134
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8136
 msgid ""
@@ -10939,7 +11030,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8141
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8148
 msgid ""
@@ -10962,7 +11054,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8155
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8162
 msgid ""
@@ -10985,7 +11078,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8169
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8176
 msgid ""
@@ -11008,7 +11102,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8183
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8190
 msgid ""
@@ -11031,7 +11126,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8197
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8204
 msgid ""
@@ -11054,7 +11150,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8211
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8218
 msgid ""
@@ -11077,12 +11174,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8225
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8232
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8234
 msgid ""
@@ -11100,12 +11198,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8239
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8246
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8248
 msgid ""
@@ -11123,12 +11222,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8253
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8260
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8262
 msgid ""
@@ -11146,12 +11246,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8267
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8274
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8276
 msgid ""
@@ -11169,12 +11270,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8281
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8288
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8290
 msgid ""
@@ -11192,12 +11294,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8295
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8302
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8304
 msgid ""
@@ -11215,12 +11318,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8309
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8316
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8318
 msgid ""
@@ -11238,17 +11342,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8323
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8330
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:8332
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:8334
 msgid ""
@@ -11258,17 +11363,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8336
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN_FIGHT_WIN_BONUS\"]/choice[15]/event/choice/event/text"
-msgstr ""
+msgstr "同时，探索现在空无一人的选召者星舰，让你得以回收他们的一件武器……一件纯粹的黑"
+"暗武器。你猜想黑暗之神大概不会介意你拿走它的礼物。但愿吧。"
 
 #: src-en/data/events_special_ddrituals.xml:8348
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:8350
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:8353
 msgid ""
@@ -11281,6 +11387,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"一个残酷的觉悟在你心头浮现，外面的空间回荡着憎恨……你已被标记为死亡目标。它的"
+"收割者，一艘属于黑暗之神选召者的星舰，隐约出现在视野中。一阵明悟涌上心头：如"
+"果你能消灭它的船员，你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:8364
 msgid ""
@@ -11299,6 +11408,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_CHOSEN\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"一个残酷的觉悟在你心头浮现，外面的空间回荡着憎恨……你已被标记为死亡目标。它的"
+"收割者，一艘属于黑暗之神选召者的星舰，隐约出现在视野中。一阵明悟涌上心头：如"
+"果你能消灭它的船员，你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:8381
 msgid ""
@@ -11329,12 +11441,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8408
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:8410
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8412
 msgid ""
@@ -11352,7 +11465,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8417
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8423
 msgid ""
@@ -11375,7 +11489,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8430
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8436
 msgid ""
@@ -11398,7 +11513,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8443
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8449
 msgid ""
@@ -11421,7 +11537,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8456
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8462
 msgid ""
@@ -11444,7 +11561,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8469
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8475
 msgid ""
@@ -11467,7 +11585,8 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8482
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8488
 msgid ""
@@ -11490,12 +11609,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8495
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8501
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8503
 msgid ""
@@ -11513,12 +11633,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8508
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8514
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8516
 msgid ""
@@ -11536,12 +11657,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8521
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8527
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8529
 msgid ""
@@ -11559,12 +11681,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8534
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8540
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8542
 msgid ""
@@ -11582,12 +11705,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8547
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8553
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8555
 msgid ""
@@ -11605,12 +11729,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8560
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8566
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8568
 msgid ""
@@ -11628,12 +11753,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8573
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8579
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8581
 msgid ""
@@ -11651,17 +11777,18 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8586
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8592
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:8594
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:8596
 msgid ""
@@ -11671,17 +11798,19 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8598
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN\"]/choice[15]/event/choice/event/text"
-msgstr ""
+msgstr "不幸的是，由于杀死了风暴教派的船员，你失去了那份特殊奖励，但你得到了你来此寻"
+"求之物。"
 
 #: src-en/data/events_special_ddrituals.xml:8606
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:8608
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8610
 msgid ""
@@ -11700,6 +11829,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8622
 msgid ""
@@ -11723,6 +11855,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8636
 msgid ""
@@ -11746,6 +11881,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8650
 msgid ""
@@ -11769,6 +11907,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8664
 msgid ""
@@ -11792,6 +11933,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8678
 msgid ""
@@ -11815,6 +11959,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8692
 msgid ""
@@ -11838,11 +11985,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8706
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8708
 msgid ""
@@ -11861,11 +12011,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8720
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8722
 msgid ""
@@ -11884,11 +12037,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8734
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8736
 msgid ""
@@ -11907,11 +12063,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8748
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8750
 msgid ""
@@ -11930,11 +12089,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8762
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8764
 msgid ""
@@ -11953,11 +12115,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8776
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8778
 msgid ""
@@ -11976,11 +12141,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8790
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8792
 msgid ""
@@ -11999,16 +12167,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8804
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:8806
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:8808
 msgid ""
@@ -12019,16 +12190,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST_FIGHT_WIN_BONUS\"]/choice[15]/event/choice/event/text"
 msgstr ""
+"从星舰残骸中，一道闪电射出，击中了你的星舰。然而，它似乎并未造成任何物理损伤"
+"，反而显化出了教派的一个衍生物看守者……你意识到它正听从你的命令，猜想这大概是"
+"风暴赐予的某种礼物。"
 
 #: src-en/data/events_special_ddrituals.xml:8822
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:8824
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:8827
 msgid ""
@@ -12041,6 +12215,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"一道闪光暂时让你失明，待你视力恢复，外面的空间已完全改变……你身处某种太空风暴"
+"之中。一艘属于风暴教派的星舰冲破云层，一阵明悟涌上心头：如果你摧毁这艘星舰，"
+"你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:8833
 msgid ""
@@ -12059,6 +12236,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_TEMPEST\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"一道闪光暂时让你失明，待你视力恢复，外面的空间已完全改变……你身处某种太空风暴"
+"之中。一艘属于风暴教派的星舰冲破云层，一阵明悟涌上心头：如果你摧毁这艘星舰，"
+"你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:8845
 msgid ""
@@ -12079,12 +12259,13 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:8864
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，黑暗之神对你的奖赏在你货舱中显形……一座虹彩喷泉，你的一名船员"
+"可以饮用它。问题是，让谁喝？"
 
 #: src-en/data/events_special_ddrituals.xml:8866
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/text"
-msgstr ""
+msgstr "（方碑族船员）让你的方碑族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8868
 msgid ""
@@ -12103,6 +12284,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ANCIENT\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8880
 msgid ""
@@ -12126,6 +12310,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_CRYSTAL\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8894
 msgid ""
@@ -12149,6 +12336,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_DEEPONES\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8908
 msgid ""
@@ -12172,6 +12362,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ENGI\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8922
 msgid ""
@@ -12195,6 +12388,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_GHOST\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8936
 msgid ""
@@ -12218,6 +12414,9 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_HUMAN\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8950
 msgid ""
@@ -12241,11 +12440,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LANIUS\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8964
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/text"
-msgstr ""
+msgstr "（吸虫族船员）让你的吸虫族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8966
 msgid ""
@@ -12264,11 +12466,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_LEECH\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8978
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/text"
-msgstr ""
+msgstr "（螳螂族船员）让你的螳螂族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8980
 msgid ""
@@ -12287,11 +12492,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_MANTIS\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:8992
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/text"
-msgstr ""
+msgstr "（兰花族船员）让你的兰花族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:8994
 msgid ""
@@ -12310,11 +12518,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ORCHID\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9006
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/text"
-msgstr ""
+msgstr "（岩石族船员）让你的岩石族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:9008
 msgid ""
@@ -12333,11 +12544,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ROCK\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9020
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/text"
-msgstr ""
+msgstr "（甲壳族船员）让你的甲壳族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:9022
 msgid ""
@@ -12356,11 +12570,14 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SHELL\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9034
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/text"
-msgstr ""
+msgstr "（蛞蝓族船员）让你的蛞蝓族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:9036
 msgid ""
@@ -12379,16 +12596,22 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_SLUG\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9048
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/text"
-msgstr ""
+msgstr "（超能族船员）让你的超能族喝下喷泉之水。"
 
 #: src-en/data/events_special_ddrituals.xml:9050
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/text"
 msgstr ""
+"他们只抿了一口，几秒钟后你的船员就开始抽搐。你看着他们的血肉变色，然后完全脱"
+"落；他们的内脏和皮肤一同在地板上融成一滩血污。从血污中升起一个魂疫空壳，由你"
+"船员的DNA塑造而成，并受你指挥。真好。"
 
 #: src-en/data/events_special_ddrituals.xml:9053
 msgid ""
@@ -12399,16 +12622,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[@req=\"LIST_CREW_ZOLTAN\"]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9062
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[15]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:9064
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[15]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。喷泉融化消失，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:9066
 msgid ""
@@ -12419,16 +12645,19 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE_FIGHT_WIN_BONUS\"]/choice[15]/event/choice/event/text"
 msgstr ""
+"同时，由于摧毁了他们的星舰，某样东西从那大型辉光裔的微薄残骸中被弹出——看起来"
+"是一个较小的辉光裔，以辉光核心的形态存在。由于它对世界毫无感知，你觉得可以将"
+"其驯服，按你的意志行事……但要它好好为你服务，还需要进一步强化。"
 
 #: src-en/data/events_special_ddrituals.xml:9080
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9082
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9085
 msgid ""
@@ -12441,6 +12670,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"0\"]/event/text"
 msgstr ""
+"一阵奇怪的感觉笼罩着你，外面的黑暗逐渐消散。取而代之的，是一种新的、异质的黑"
+"暗——其上点缀着上千颗警惕星辰的憎恶怒火。伪辉光在此处。发现了它们，一阵明悟涌"
+"上心头：如果你摧毁它们的星舰，你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:9091
 msgid ""
@@ -12459,6 +12691,9 @@ msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_CORRUPTION_FALSERADIANCE\"]/choice[@req=\"dd_ritual_side_effect_triggered\""
 " and @lvl=\"1\"]/event/text"
 msgstr ""
+"一阵奇怪的感觉笼罩着你，外面的黑暗逐渐消散。取而代之的，是一种新的、异质的黑"
+"暗——其上点缀着上千颗警惕星辰的憎恶怒火。伪辉光在此处。发现了它们，一阵明悟涌"
+"上心头：如果你摧毁它们的星舰，你或许能获得一份特殊奖励。"
 
 #: src-en/data/events_special_ddrituals.xml:9103
 msgid ""
@@ -12490,16 +12725,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DEEPONE_FIGHT_WIN\"]/text"
 msgstr ""
+"随着星舰被击败，一道红光笼罩了其中一具深渊潜者的尸体……它消失了，然后出现在你"
+"身旁的星舰上。一声雷鸣般的炸响，那深渊潜者的身体活了过来！它说道：“哦，黑暗之"
+"神……你赐予了我一份最……仁慈的祝福。我不会浪费……这第二次机会。”认为这是他们黑暗"
+"之神的意志，复活的深渊潜者坚持要加入你的船员。"
 
 #: src-en/data/events_special_ddrituals.xml:9138
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DEEPONE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9140
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DEEPONE\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9143
 msgid ""
@@ -12549,16 +12788,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_ENLIGHTENED_FIGHT_WIN\"]/text"
 msgstr ""
+"随着星舰被击败，一道红光笼罩了其中一具深渊潜者的尸体……它消失了，然后出现在你"
+"身旁的星舰上。一声雷鸣般的炸响，那深渊潜者的身体活了过来！它说道：“哦，黑暗之"
+"神……你赐予了我一份最……仁慈的祝福。我不会浪费……这第二次机会。”认为这是他们黑暗"
+"之神的意志，复活的深渊潜者坚持要加入你的船员。"
 
 #: src-en/data/events_special_ddrituals.xml:9194
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_ENLIGHTENED\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9196
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_ENLIGHTENED\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9199
 msgid ""
@@ -12608,16 +12851,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DISPARITY_FIGHT_WIN\"]/text"
 msgstr ""
+"随着星舰被击败，一道红光笼罩了其中一具分离者的尸体……它消失了，然后出现在你身"
+"旁的星舰上。一声雷鸣般的炸响，那半械族的身体嗡嗡作响地活了过来！它结结巴巴地"
+"说道：“[解 放 者] 选 择 了 我……我 不 会 再 让 你 失 望。”认为这是他们解放者的"
+"意志，复活的半械族坚持要加入你的船员。"
 
 #: src-en/data/events_special_ddrituals.xml:9250
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DISPARITY\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9252
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_DISPARITY\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9255
 msgid ""
@@ -12667,16 +12914,20 @@ msgstr "继续。"
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_SOULPLAGUE_FIGHT_WIN\"]/text"
 msgstr ""
+"随着星舰被击败，一道红光笼罩了其中一具甲壳族的尸体……它消失了，然后出现在你身"
+"旁的星舰上。一声雷鸣般的炸响，那甲壳族的身体活了过来！它说道：“我……被净化了……"
+"？我想不起太多事情了……我……我必须再次听到那首……美丽的歌……”认为你是让它再次与魂"
+"疫合一的最佳机会，复活的甲壳族坚持要加入你的船员。"
 
 #: src-en/data/events_special_ddrituals.xml:9306
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_SOULPLAGUE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9308
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_OCCULTRECRUITMENT_SOULPLAGUE\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9311
 msgid ""
@@ -12725,107 +12976,120 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:9354
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，一点黑暗出现在你手中……它与未知的力量产生共鸣。这份献给黑暗之"
+"神的虔诚之礼，应授予谁？"
 
 #: src-en/data/events_special_ddrituals.xml:9356
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"deepone\"]/text"
-msgstr ""
+msgstr "（深渊潜者）将你的深渊潜者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9358
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"deepone\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者被一道红光笼罩，然后……发生了转化。曾经是眼睛的地方，如今只剩血肉"
+"，且变成了黄色。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9363
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9365
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9370
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9372
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9377
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "（甲壳族）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9379
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9384
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "（甲壳机械师）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9386
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9391
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "（甲壳科学家）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9393
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9398
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "（甲壳守护者）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9400
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9405
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9407
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9412
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[9]/text"
-msgstr ""
+msgstr "无人配得。"
 
 #: src-en/data/events_special_ddrituals.xml:9414
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE_FIGHT_WIN\"]/choice[9]/event/text"
-msgstr ""
+msgstr "确实，或许无人配得。那光点滋滋作响，消散于无形，你空留更多的渴望。"
 
 #: src-en/data/events_special_ddrituals.xml:9423
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE\"]/beaconType/unvisitedTooltip"
-msgstr ""
+msgstr "你的仪式将你引至此处。"
 
 #: src-en/data/events_special_ddrituals.xml:9425
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DEEPONE\"]/text"
-msgstr ""
+msgstr "抵达信标，你发现自己身处一片阴影之中……黑暗之神早已预料到你的到来。"
 
 #: src-en/data/events_special_ddrituals.xml:9428
 msgid ""
@@ -12874,87 +13138,100 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:9471
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/text"
-msgstr ""
+msgstr "随着星舰被击败，一点黑暗出现在你手中……它与未知的力量产生共鸣。这份献给黑暗之"
+"神的虔诚之礼，应授予谁？"
 
 #: src-en/data/events_special_ddrituals.xml:9473
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"deepone\"]/text"
-msgstr ""
+msgstr "（深渊潜者）将你的深渊潜者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9475
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"deepone\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者被一道红光笼罩，然后……发生了转化。曾经是眼睛的地方，如今只剩血肉"
+"，且变成了黄色。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9480
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9482
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9487
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9489
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9494
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "（甲壳族）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9496
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9501
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "（甲壳机械师）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9503
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9508
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "（甲壳科学家）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9510
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9515
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "（甲壳守护者）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9517
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9522
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9524
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ENLIGHTENED_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9529
 msgid ""
@@ -13028,82 +13305,94 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:9590
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"deepone\"]/text"
-msgstr ""
+msgstr "（深渊潜者）将你的深渊潜者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9592
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"deepone\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者被一道红光笼罩，然后……发生了转化。曾经是眼睛的地方，如今只剩血肉"
+"，且变成了黄色。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9597
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9599
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9604
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9606
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9611
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "（甲壳族）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9613
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9618
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "（甲壳机械师）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9620
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9625
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "（甲壳科学家）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9627
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9632
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "（甲壳守护者）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9634
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9639
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9641
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_DISPARITY_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9646
 msgid ""
@@ -13177,82 +13466,94 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:9707
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"deepone\"]/text"
-msgstr ""
+msgstr "（深渊潜者）将你的深渊潜者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9709
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"deepone\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者被一道红光笼罩，然后……发生了转化。曾经是眼睛的地方，如今只剩血肉"
+"，且变成了黄色。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9714
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9716
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9721
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9723
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9728
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "（甲壳族）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9730
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9735
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "（甲壳机械师）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9737
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9742
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "（甲壳科学家）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9744
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9749
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "（甲壳守护者）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9751
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9756
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9758
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_SOULPLAGUE_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9763
 msgid ""
@@ -13326,12 +13627,13 @@ msgstr ""
 #: src-en/data/events_special_ddrituals.xml:9824
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"deepone\"]/text"
-msgstr ""
+msgstr "（深渊潜者）将你的深渊潜者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9826
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"deepone\"]/event/text"
-msgstr ""
+msgstr "你的深渊潜者被一道红光笼罩，然后……发生了转化。曾经是眼睛的地方，如今只剩血肉"
+"，且变成了黄色。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9829
 msgid ""
@@ -13347,12 +13649,15 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9837
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/text"
-msgstr ""
+msgstr "（半械分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9839
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"engi_separatist\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9842
 msgid ""
@@ -13368,12 +13673,15 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9850
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/text"
-msgstr ""
+msgstr "（纳米分离者）将你的分离者献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9852
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"engi_separatist_nano\"]/event/text"
 msgstr ""
+"你的分离者被一道红光笼罩，然后……发生了转化。曾经是手臂的地方，如今有纳米虫群"
+"涌动，它们现在挣脱了束缚，自由地漂浮在周围。超越其肉体，新的力量在他们体内共"
+"鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9855
 msgid ""
@@ -13389,12 +13697,13 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9863
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell\"]/text"
-msgstr ""
+msgstr "（甲壳族）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9865
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9868
 msgid ""
@@ -13410,12 +13719,13 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9876
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/text"
-msgstr ""
+msgstr "（甲壳机械师）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9878
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_mechanic\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9881
 msgid ""
@@ -13431,12 +13741,13 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9889
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/text"
-msgstr ""
+msgstr "（甲壳科学家）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9891
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_scientist\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9894
 msgid ""
@@ -13452,12 +13763,13 @@ msgstr "不幸的是，由于摧毁了伊尔德里克树，你失去了那份特
 #: src-en/data/events_special_ddrituals.xml:9902
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/text"
-msgstr ""
+msgstr "（甲壳守护者）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9904
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/text"
-msgstr ""
+msgstr "你的甲壳族被一道红光笼罩，然后……发生了转化。曾经说话的地方，如今只剩下低语，"
+"腐化在其体内翻腾。超越其肉体，新的力量在他们体内共鸣……"
 
 #: src-en/data/events_special_ddrituals.xml:9907
 msgid ""
@@ -13467,12 +13779,12 @@ msgstr "继续。"
 #: src-en/data/events_special_ddrituals.xml:9909
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_guardian\"]/event/choice/event/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9915
 msgid ""
 "data/events_special_ddrituals.xml$//event[@name=\"DDRITUALS_QUESTS_LIST_TRUEDEVOTION_ILLDRYTHK_FIGHT_WIN\"]/choice[@req=\"shell_radiant\"]/text"
-msgstr ""
+msgstr "（甲壳辐射体）将你的甲壳族献给黑暗之神。"
 
 #: src-en/data/events_special_ddrituals.xml:9917
 msgid ""
